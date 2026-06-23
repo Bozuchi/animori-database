@@ -1,0 +1,55 @@
+name: 🎌 Anime Database Update
+
+on:
+  # Her 12 saatte bir otomatik çalıştır
+  schedule:
+    - cron: '0 */12 * * *'
+
+  # Manuel tetikleme
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-database:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360  # 6 saat (büyük arşiv için yeterli süre)
+
+    steps:
+      # 1. Repo'yu checkout et
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+
+      # 2. Python kur
+      - name: 🐍 Setup Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # 3. Bağımlılıkları yükle
+      - name: 📦 Install Dependencies
+        run: pip install -r requirements.txt
+
+      # 4. Güncelleme scriptini çalıştır
+      - name: 🔄 Run Database Update
+        run: python main.py
+
+      # 5. Değişiklikleri commit & push et
+      - name: 📤 Commit & Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add api/ errors.log
+          
+          # Değişiklik varsa commit et, yoksa atla
+          if git diff --staged --quiet; then
+            echo "📭 Değişiklik yok, commit atlanıyor."
+          else
+            TIMESTAMP=$(date -u +'%Y-%m-%d %H:%M UTC')
+            ANIME_COUNT=$(python -c "import json; print(json.load(open('api/version.json'))['total_anime'])" 2>/dev/null || echo "?")
+            git commit -m "🔄 Anime database updated — ${TIMESTAMP} (${ANIME_COUNT} anime)"
+            git push
+            echo "✅ Değişiklikler push edildi."
+          fi
