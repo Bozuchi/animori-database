@@ -8,6 +8,7 @@ turkanime_api.bypass modülünü kullanarak Cloudflare korumasını aşar.
 """
 
 import turkanime_api.bypass as bypass
+from turkanime_api import Anime as TurkanimeAnime
 import re
 import time
 
@@ -40,18 +41,11 @@ class TurkanimeScraper:
         ep_match = re.search(r'<span class="pull-right">([^<]+)</span>', blok)
         bolum_durumu = ep_match.group(1).strip() if ep_match else ""
 
-        # 4. Kısa Özet Çekimi
-        sum_match = re.search(
-            r'<span class="media-object" style="margin-top:5px;">([\s\S]*?)</span>', 
-            blok
-        )
-        ozet = sum_match.group(1).strip() if sum_match else ""
-
         return slug, {
             "isim": isim,
             "puan": puan,
             "bolum_durumu": bolum_durumu,
-            "ozet": ozet,
+            "ozet": None,  # None = henüz çekilmedi. Tam özet fetch_full_ozet() ile çekilecek
         }
 
     def scrape_all(self) -> dict[str, dict]:
@@ -118,3 +112,25 @@ class TurkanimeScraper:
             f"({toplam_sorgu} sayfa sorgusu yapıldı)"
         )
         return self.animeler
+
+    def fetch_full_ozet(self, slug: str) -> str:
+        """
+        Tek bir anime için tam özet bilgisini çeker.
+
+        Arşiv sayfasındaki özet kesik olduğundan ("..." ile biter),
+        anime sayfasına gidip tam özeti turkanime_api.Anime üzerinden alır.
+
+        Args:
+            slug: Anime slug'ı (örn: "naruto")
+
+        Returns:
+            str: Tam özet metni veya boş string (hata durumunda).
+        """
+        try:
+            anime_obj = TurkanimeAnime(slug)
+            ozet = anime_obj.info.get("Özet", "")
+            time.sleep(0.2)
+            return ozet.strip() if ozet else ""
+        except Exception as e:
+            print(f"[Scraper] ⚠️  Tam özet alınamadı ({slug}): {e}")
+            return ""

@@ -54,6 +54,8 @@ def main():
     jikan_basarili = 0
     jikan_basarisiz = 0
     turkanime_guncellenen = 0
+    ozet_cekilen = 0
+    ozet_atlanan = 0
 
     for slug, tk_data in turkanime_data.items():
         islenen += 1
@@ -62,8 +64,36 @@ def main():
         # Mevcut veriyi kontrol et
         existing = storage.load_anime_detail(slug)
 
+        # ── Tam Özet Kontrolü ──
+        # None = henüz denenmedi → çek.  "" veya metin = daha önce çekilmiş → atla.
         if existing is not None:
-            # ── Mevcut anime: Türkanime verilerini HER ZAMAN güncelle ──
+            stored_ozet = existing.get("turkanime", {}).get("ozet")
+            if stored_ozet is not None:
+                # Daha önce çekilmiş (boş veya dolu) → olduğu gibi kullan
+                tk_data["ozet"] = stored_ozet
+                ozet_atlanan += 1
+            else:
+                # None → henüz denenmemiş, tam özet çek
+                full_ozet = scraper.fetch_full_ozet(slug)
+                tk_data["ozet"] = full_ozet  # "" bile olsa kaydet, tekrar denemesin
+                ozet_cekilen += 1
+                if full_ozet:
+                    print(f"{progress} 📝 {tk_data['isim']} — Tam özet çekildi.")
+                else:
+                    print(f"{progress} 📭 {tk_data['isim']} — Anime'de özet bilgisi yok.")
+        else:
+            # Yeni anime → tam özet çek
+            full_ozet = scraper.fetch_full_ozet(slug)
+            tk_data["ozet"] = full_ozet  # "" bile olsa kaydet
+            ozet_cekilen += 1
+            if full_ozet:
+                print(f"{progress} 📝 {tk_data['isim']} — Tam özet çekildi.")
+            else:
+                print(f"{progress} 📭 {tk_data['isim']} — Anime'de özet bilgisi yok.")
+
+        # ── Jikan Zenginleştirme Kontrolü ──
+        if existing is not None:
+            # Mevcut anime: Türkanime verilerini HER ZAMAN güncelle
             # (puan ve bolum_durumu sık sık değişir)
             existing_jikan = existing.get("jikan")
 
@@ -111,6 +141,8 @@ def main():
     print("=" * 60)
     print(f"  Türkanime Toplam        : {toplam}")
     print(f"  Türkanime Güncellenen   : {turkanime_guncellenen}")
+    print(f"  Özet Çekilen (yeni/tam) : {ozet_cekilen}")
+    print(f"  Özet Atlandı (mevcut)   : {ozet_atlanan}")
     print(f"  Jikan Başarılı (yeni)   : {jikan_basarili}")
     print(f"  Jikan Atlandı (mevcut)  : {jikan_atlanan}")
     print(f"  Jikan Başarısız         : {jikan_basarisiz}")
