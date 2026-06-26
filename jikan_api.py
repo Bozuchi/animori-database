@@ -13,6 +13,7 @@ Endpoints:
 import requests
 import time
 import logging
+import re
 from urllib.parse import quote
 
 
@@ -158,9 +159,15 @@ class JikanEnricher:
                 "entries": entries,
             })
 
-        # Trailer ID: null değilse al
+        # Trailer ID: Sadece embed_url'den çıkarmaya çalış
         trailer = d.get("trailer", {})
-        trailer_id = trailer.get("youtube_id") if trailer else None
+        trailer_id = None
+        
+        if trailer.get("embed_url"):
+            # Örnek embed_url: "https://www.youtube-nocookie.com/embed/LHtdKWJdif4?enablejsapi=1&wmode=opaque&autoplay=1"
+            match = re.search(r'/embed/([^?]+)', trailer.get("embed_url"))
+            if match:
+                trailer_id = match.group(1)
 
         # Aired: sadece from ve to (prop hariç)
         aired_raw = d.get("aired", {})
