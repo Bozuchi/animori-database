@@ -11,6 +11,7 @@ import turkanime_api.bypass as bypass
 from turkanime_api import Anime as TurkanimeAnime
 import re
 import time
+import html
 
 
 class TurkanimeScraper:
@@ -31,7 +32,7 @@ class TurkanimeScraper:
             return None
 
         slug = title_match.group(1)
-        isim = title_match.group(2).strip()
+        isim = html.unescape(title_match.group(2).strip())
 
         # 2. Puan Çekimi
         score_match = re.search(r'<div class="rank-s">([\d.]+)</div>', blok)
@@ -130,6 +131,13 @@ class TurkanimeScraper:
             anime_obj = TurkanimeAnime(slug)
             ozet = anime_obj.info.get("Özet", "")
             time.sleep(0.2)
+            
+            if ozet:
+                # <br> veya <br /> etiketlerini yeni satıra (\n) çevir
+                ozet = re.sub(r'<br\s*/?>', '\n', ozet, flags=re.IGNORECASE)
+                # Kalan HTML entity'lerini temizle (&quot; vb.)
+                ozet = html.unescape(ozet)
+                
             return ozet.strip() if ozet else ""
         except Exception as e:
             print(f"[Scraper] ⚠️  Tam özet alınamadı ({slug}): {e}")
