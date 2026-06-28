@@ -2,7 +2,7 @@
 storage_manager.py — Dosya ve Klasör Yöneticisi
 
 Çekilen anime verilerini statik JSON dosyaları olarak organize eder:
-    - api/anime/{slug}.json  → Her anime için detaylı veri
+    - api/anime/{mal_id}.json  → Her anime için detaylı veri (Jikan'da yoksa {slug}.json)
     - api/animes.json        → Hafifletilmiş indeks (vitrin için)
     - api/version.json       → Son güncelleme bilgisi
 """
@@ -50,9 +50,8 @@ class StorageManager:
 
         Yapı:
             {
-                "slug": "naruto-shippuuden",
-                "turkanime": { isim, puan, bolum_durumu, ozet },
-                "jikan": { mal_id, image_url, ... } veya null
+                "turkanime": { "slug": "naruto-shippuuden", "isim": "Naruto Shippuuden", "puan": "9.50", "bolum_durumu": "500/500", "ozet": "..." },
+                "jikan": { "mal_id": 1735, "image_url": "...", ... } veya null
             }
 
         Args:
@@ -122,7 +121,7 @@ class StorageManager:
         animes.json içeriği:
             [
                 {
-                    "slug": "naruto-shippuuden",
+                    "mal_id": 1735,
                     "isim": "Naruto Shippuuden",
                     "image_url": "https://cdn.myanimelist.net/...",  (Jikan'dan)
                     "puan": "9.50"
