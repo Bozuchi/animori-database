@@ -113,7 +113,7 @@ def main():
             print(f"{progress} 🆕 {tk_data['isim']} — Yeni anime, Jikan sorgulanıyor...")
 
         # ── Jikan zenginleştirme ──
-        jikan_data = jikan.enrich(tk_data["isim"])
+        jikan_data = jikan.enrich(tk_data["isim"], slug=slug)
 
         if jikan_data is not None:
             jikan_basarili += 1

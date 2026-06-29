@@ -14,6 +14,9 @@ import requests
 import time
 import logging
 import re
+import difflib
+import json
+import os
 from urllib.parse import quote
 
 
@@ -27,22 +30,47 @@ RETRY_BACKOFF = 5          # 429 hatası sonrası bekleme süresi (saniye, katla
 class JikanEnricher:
     """Jikan API üzerinden anime verilerini zenginleştiren sınıf."""
 
-    def __init__(self, error_log_path: str = "errors.log"):
+    def __init__(self, error_log_path: str = "errors.log", mappings_path: str = "manual_mappings.json"):
         self.error_log_path = error_log_path
         self._setup_error_logger()
+        self.manual_mappings = self._load_manual_mappings(mappings_path)
+
+    def _load_manual_mappings(self, path: str) -> dict:
+        """Manuel slug -> mal_id eşleştirme dosyasını yükler."""
+        if not os.path.exists(path):
+            return {}
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                # _comment gibi string değerli anahtarları filtrele, sadece int mal_id'leri al
+                return {k: v for k, v in data.items() if isinstance(v, int)}
+        except Exception as e:
+            print(f"[Jikan] ⚠️  manual_mappings.json okunamadı: {e}")
+            return {}
 
     def _setup_error_logger(self):
-        """Hata kayıtları için dosya logger'ı oluşturur."""
+        """Hata ve fuzzy match kayıtları için dosya logger'ları oluşturur."""
+        # Hata logger'ı
         self.error_logger = logging.getLogger("jikan_errors")
         self.error_logger.setLevel(logging.ERROR)
 
-        # Aynı handler'ın tekrar eklenmesini önle
         if not self.error_logger.handlers:
             handler = logging.FileHandler(self.error_log_path, encoding="utf-8")
             handler.setFormatter(
                 logging.Formatter("%(asctime)s — %(message)s", datefmt="%Y-%m-%d %H:%M:%S")
             )
             self.error_logger.addHandler(handler)
+
+        # Fuzzy match logger'ı
+        self.fuzzy_logger = logging.getLogger("jikan_fuzzy")
+        self.fuzzy_logger.setLevel(logging.INFO)
+
+        if not self.fuzzy_logger.handlers:
+            fuzzy_handler = logging.FileHandler("fuzzy_matches.log", encoding="utf-8")
+            fuzzy_handler.setFormatter(
+                logging.Formatter("%(asctime)s — %(message)s", datefmt="%Y-%m-%d %H:%M:%S")
+            )
+            self.fuzzy_logger.addHandler(fuzzy_handler)
 
     def _log_error(self, message: str):
         """Konsola yazdırır ve errors.log dosyasına kaydeder."""
@@ -106,11 +134,63 @@ class JikanEnricher:
             return None
 
         encoded_name = quote(clean_name)
-        url = f"{JIKAN_BASE_URL}/anime?q={encoded_name}&limit=1"
+        url = f"{JIKAN_BASE_URL}/anime?q={encoded_name}&limit=3"
 
         data = self._request_with_retry(url)
         if data and data.get("data"):
-            return data["data"][0].get("mal_id")
+            results = data["data"]
+            
+            # Alfanümerik karşılaştırma için aranan ismi temizle
+            # Tüm noktalama işaretlerini ve boşlukları siler, sadece harf ve rakamları bırakır
+            clean_searched = re.sub(r'[^a-z0-9]', '', name.lower())
+            
+            # Tüm sonuçlar arasındaki en iyi fuzzy match'i takip et
+            global_best_ratio = 0.0
+            global_best_name = ""
+            global_best_result = None
+            
+            for result in results:
+                # Bu sonucun olası isimlerini topla (ana isim ve ingilizce)
+                jikan_titles = []
+                if result.get("title"):
+                    jikan_titles.append(result["title"])
+                if result.get("title_english"):
+                    jikan_titles.append(result["title_english"])
+                
+                for j_title in jikan_titles:
+                    if not j_title:
+                        continue
+                    
+                    clean_jikan = re.sub(r'[^a-z0-9]', '', j_title.lower())
+                    
+                    # Tam eşleşme (noktalamalar ve boşluklar hariç)
+                    if clean_searched == clean_jikan:
+                        return result.get("mal_id")
+                    
+                    # Benzerlik Oranı (Fuzzy Matching) hesapla
+                    ratio = difflib.SequenceMatcher(None, clean_searched, clean_jikan).ratio()
+                    if ratio > global_best_ratio:
+                        global_best_ratio = ratio
+                        global_best_name = j_title
+                        global_best_result = result
+            
+            # %85 ve üzeri benzerlik varsa eşleşmiş kabul et
+            if global_best_ratio >= 0.85 and global_best_result:
+                matched_mal_id = global_best_result.get("mal_id")
+                print(f"[Jikan] 💡 Fuzzy Match Başarılı: '{name}' ≈ '{global_best_name}' (Oran: {global_best_ratio:.2f}, mal_id: {matched_mal_id})")
+                self.fuzzy_logger.info(
+                    f"Türkanime='{name}' -> Jikan='{global_best_name}' "
+                    f"(Oran: {global_best_ratio:.2f}, mal_id: {matched_mal_id})"
+                )
+                return matched_mal_id
+            
+            # Hiçbir sonuçta eşleşme sağlanamadıysa reddet ve logla
+            self._log_error(
+                f"İsim uyuşmazlığı: Türkanime='{name}' <-> "
+                f"Jikan='{results[0].get('title')}' "
+                f"(En iyi oran: {global_best_ratio:.2f} ile '{global_best_name}')"
+            )
+            return None
 
         return None
 
@@ -197,21 +277,33 @@ class JikanEnricher:
             "relations": relations,
         }
 
-    def enrich(self, name: str) -> dict | None:
+    def enrich(self, name: str, slug: str = "") -> dict | None:
         """
         Anime ismini aratıp detaylarını çeken birleşik metod.
 
         Adımlar:
+            0. Manuel eşleştirme dosyasını kontrol et
             1. İsimle arama yap -> mal_id bul
             2. mal_id ile /full endpoint'inden detayları çek
             3. Hata varsa errors.log'a kaydet, None döndür
 
         Args:
             name: Türkanime'den gelen anime ismi.
+            slug: Anime slug'ı (manuel eşleştirme kontrolü için).
 
         Returns:
             dict: Zenginleştirilmiş anime verileri veya None.
         """
+        # Adım 0: Manuel eşleştirme kontrolü
+        manual_mal_id = self.manual_mappings.get(slug)
+        if manual_mal_id:
+            print(f"[Jikan] 📌 Manuel eşleştirme kullanılıyor: {name} -> mal_id: {manual_mal_id}")
+            time.sleep(RATE_LIMIT_DELAY)
+            details = self.get_full_details(manual_mal_id)
+            if details is None:
+                self._log_error(f"Manuel eşleştirme detayları alınamadı: {name} (mal_id: {manual_mal_id})")
+            return details
+
         # Adım 1: Arama
         time.sleep(RATE_LIMIT_DELAY)
         mal_id = self.search_anime(name)
