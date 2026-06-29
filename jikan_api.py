@@ -14,7 +14,6 @@ import requests
 import time
 import logging
 import re
-import difflib
 import json
 import os
 from urllib.parse import quote
@@ -49,7 +48,7 @@ class JikanEnricher:
             return {}
 
     def _setup_error_logger(self):
-        """Hata ve fuzzy match kayıtları için dosya logger'ları oluşturur."""
+        """Hata kayıtları için dosya logger'ları oluşturur."""
         # Hata logger'ı
         self.error_logger = logging.getLogger("jikan_errors")
         self.error_logger.setLevel(logging.ERROR)
@@ -60,17 +59,6 @@ class JikanEnricher:
                 logging.Formatter("%(asctime)s — %(message)s", datefmt="%Y-%m-%d %H:%M:%S")
             )
             self.error_logger.addHandler(handler)
-
-        # Fuzzy match logger'ı
-        self.fuzzy_logger = logging.getLogger("jikan_fuzzy")
-        self.fuzzy_logger.setLevel(logging.INFO)
-
-        if not self.fuzzy_logger.handlers:
-            fuzzy_handler = logging.FileHandler("fuzzy_matches.log", encoding="utf-8")
-            fuzzy_handler.setFormatter(
-                logging.Formatter("%(asctime)s — %(message)s", datefmt="%Y-%m-%d %H:%M:%S")
-            )
-            self.fuzzy_logger.addHandler(fuzzy_handler)
 
     def _log_error(self, message: str):
         """Konsola yazdırır ve errors.log dosyasına kaydeder."""
@@ -144,11 +132,6 @@ class JikanEnricher:
             # Tüm noktalama işaretlerini ve boşlukları siler, sadece harf ve rakamları bırakır
             clean_searched = re.sub(r'[^a-z0-9]', '', name.lower())
             
-            # Tüm sonuçlar arasındaki en iyi fuzzy match'i takip et
-            global_best_ratio = 0.0
-            global_best_name = ""
-            global_best_result = None
-            
             for result in results:
                 # Bu sonucun olası isimlerini topla (ana isim ve ingilizce)
                 jikan_titles = []
@@ -166,29 +149,11 @@ class JikanEnricher:
                     # Tam eşleşme (noktalamalar ve boşluklar hariç)
                     if clean_searched == clean_jikan:
                         return result.get("mal_id")
-                    
-                    # Benzerlik Oranı (Fuzzy Matching) hesapla
-                    ratio = difflib.SequenceMatcher(None, clean_searched, clean_jikan).ratio()
-                    if ratio > global_best_ratio:
-                        global_best_ratio = ratio
-                        global_best_name = j_title
-                        global_best_result = result
-            
-            # %85 ve üzeri benzerlik varsa eşleşmiş kabul et
-            if global_best_ratio >= 0.85 and global_best_result:
-                matched_mal_id = global_best_result.get("mal_id")
-                print(f"[Jikan] 💡 Fuzzy Match Başarılı: '{name}' ≈ '{global_best_name}' (Oran: {global_best_ratio:.2f}, mal_id: {matched_mal_id})")
-                self.fuzzy_logger.info(
-                    f"Türkanime='{name}' -> Jikan='{global_best_name}' "
-                    f"(Oran: {global_best_ratio:.2f}, mal_id: {matched_mal_id})"
-                )
-                return matched_mal_id
             
             # Hiçbir sonuçta eşleşme sağlanamadıysa reddet ve logla
             self._log_error(
                 f"İsim uyuşmazlığı: Türkanime='{name}' <-> "
-                f"Jikan='{results[0].get('title')}' "
-                f"(En iyi oran: {global_best_ratio:.2f} ile '{global_best_name}')"
+                f"Jikan='{results[0].get('title')}'"
             )
             return None
 
