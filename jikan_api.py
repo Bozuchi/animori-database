@@ -21,7 +21,7 @@ from urllib.parse import quote
 
 JIKAN_BASE_URL = "https://api.jikan.moe/v4"
 REQUEST_TIMEOUT = 15       # saniye
-RATE_LIMIT_DELAY = 1.5     # her istek arasındaki bekleme süresi (saniye)
+RATE_LIMIT_DELAY = 1     # her istek arasındaki bekleme süresi (saniye)
 RETRY_MAX = 3              # 429 hatası için maksimum tekrar deneme
 RETRY_BACKOFF = 5          # 429 hatası sonrası bekleme süresi (saniye, katlanan)
 
@@ -128,26 +128,22 @@ class JikanEnricher:
         if data and data.get("data"):
             results = data["data"]
             
-            # Alfanümerik karşılaştırma için aranan ismi temizle
-            # Tüm noktalama işaretlerini ve boşlukları siler, sadece harf ve rakamları bırakır
-            clean_searched = re.sub(r'[^a-z0-9]', '', name.lower())
+            # Sadece harf büyüklüğü duyarsız ve BOŞLUKSUZ tam eşleşme
+            searched_clean = name.lower().replace(" ", "")
             
             for result in results:
                 # Bu sonucun olası isimlerini topla (ana isim ve ingilizce)
                 jikan_titles = []
                 if result.get("title"):
                     jikan_titles.append(result["title"])
-                if result.get("title_english"):
-                    jikan_titles.append(result["title_english"])
                 
                 for j_title in jikan_titles:
                     if not j_title:
                         continue
                     
-                    clean_jikan = re.sub(r'[^a-z0-9]', '', j_title.lower())
-                    
-                    # Tam eşleşme (noktalamalar ve boşluklar hariç)
-                    if clean_searched == clean_jikan:
+                    # Tam eşleşme (harf büyüklüğünü ve boşlukları yoksayarak)
+                    j_title_clean = j_title.lower().replace(" ", "")
+                    if searched_clean == j_title_clean:
                         return result.get("mal_id")
             
             # Hiçbir sonuçta eşleşme sağlanamadıysa reddet ve logla
@@ -177,22 +173,24 @@ class JikanEnricher:
 
         d = data["data"]
 
-        # Genres: sadece mal_id ve name
+        # Genres: sadece integer ID'ler
         genres = [
-            {"mal_id": g["mal_id"], "name": g["name"]}
-            for g in d.get("genres", [])
+            g["mal_id"] for g in d.get("genres", []) if g.get("mal_id") is not None
         ]
 
-        # Themes: sadece mal_id ve name
+        # Themes: sadece integer ID'ler
         themes = [
-            {"mal_id": t["mal_id"], "name": t["name"]}
-            for t in d.get("themes", [])
+            t["mal_id"] for t in d.get("themes", []) if t.get("mal_id") is not None
         ]
 
-        # Demographics: sadece mal_id ve name
+        # Demographics: sadece integer ID'ler
         demographics = [
-            {"mal_id": dm["mal_id"], "name": dm["name"]}
-            for dm in d.get("demographics", [])
+            dm["mal_id"] for dm in d.get("demographics", []) if dm.get("mal_id") is not None
+        ]
+
+        # Studios: sadece integer ID'ler
+        studios = [
+            s["mal_id"] for s in d.get("studios", []) if s.get("mal_id") is not None
         ]
 
         # Relations: relation ve entry içindeki mal_id'ler
@@ -225,10 +223,13 @@ class JikanEnricher:
             "mal_id": d.get("mal_id"),
             "image_url": d.get("images", {}).get("jpg", {}).get("image_url"),
             "trailer_id": trailer_id,
+            "title": d.get("title"),
             "title_english": d.get("title_english"),
             "type": d.get("type"),
             "source": d.get("source"),
             "status": d.get("status"),
+            "year": d.get("year"),
+            "season": d.get("season"),
             "airing": d.get("airing"),
             "aired": aired,
             "duration": d.get("duration"),
@@ -239,8 +240,50 @@ class JikanEnricher:
             "genres": genres,
             "themes": themes,
             "demographics": demographics,
+            "studios": studios,
             "relations": relations,
         }
+
+    def fetch_episodes(self, mal_id: int) -> dict[int, dict]:
+        """
+        Jikan /anime/{mal_id}/episodes endpoint'inden tüm bölüm bilgilerini
+        sayfalayarak çeker.
+
+        Pagination: has_next_page True oldukça sonraki sayfaya geçer.
+        Her sayfada rate limit'e uygun bekleme yapılır.
+
+        Args:
+            mal_id: MyAnimeList anime ID'si.
+
+        Returns:
+            dict: {bölüm_numarası: {"filler": bool, "recap": bool}, ...}
+                  Boş dict hata durumunda.
+        """
+        episodes = {}
+        page = 1
+
+        while True:
+            time.sleep(RATE_LIMIT_DELAY)
+            url = f"{JIKAN_BASE_URL}/anime/{mal_id}/episodes?page={page}"
+            data = self._request_with_retry(url)
+
+            if not data or not data.get("data"):
+                break
+
+            for ep in data["data"]:
+                ep_num = ep.get("mal_id")  # Bölüm numarası
+                if ep_num is not None:
+                    episodes[ep_num] = {
+                        "filler": ep.get("filler", False),
+                        "recap": ep.get("recap", False),
+                    }
+
+            if not data.get("pagination", {}).get("has_next_page", False):
+                break
+
+            page += 1
+
+        return episodes
 
     def enrich(self, name: str, slug: str = "") -> dict | None:
         """
