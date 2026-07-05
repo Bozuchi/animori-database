@@ -114,17 +114,50 @@ class StorageManager:
             print(f"[Storage] ⚠️  Dosya okunamadı: {filepath} — {e}")
             return None
 
+    def save_episodes(self, slug: str, episodes: list[dict]):
+        """
+        Mevcut anime JSON dosyasına 'episodes' dizisini ekler/günceller.
+        Mevcut turkanime ve jikan verilerini korur.
+
+        Args:
+            slug: Anime slug'ı.
+            episodes: Bölüm verileri listesi.
+        """
+        existing = self.load_anime_detail(slug)
+        if existing is None:
+            print(f"[Storage] ⚠️  Episodes kaydedilemedi, anime dosyası bulunamadı: {slug}")
+            return
+
+        existing["episodes"] = episodes
+
+        filename = self.slug_to_file.get(slug)
+        if filename:
+            filepath = os.path.join(self.anime_dir, filename)
+            with open(filepath, "w", encoding="utf-8") as f:
+                json.dump(existing, f, ensure_ascii=False, indent=2)
+
     def build_index(self) -> int:
         """
-        Tüm anime detay dosyalarını tarayarak hafifletilmiş indeks oluşturur.
+        Tüm anime detay dosyalarını tarayarak kapsamlı indeks oluşturur.
 
         animes.json içeriği:
             [
                 {
                     "mal_id": 1735,
-                    "isim": "Naruto Shippuuden",
-                    "image_url": "https://cdn.myanimelist.net/...",  (Jikan'dan)
-                    "puan": "9.50"
+                    "title": "Naruto: Shippuuden",
+                    "title_english": "Naruto: Shippuden",
+                    "slug": "naruto-shippuuden",
+                    "image_url": "https://cdn.myanimelist.net/...",
+                    "type": "TV",
+                    "status": "Finished Airing",
+                    "year": 2007,
+                    "season": "spring",
+                    "score": 8.25,
+                    "popularity": 8,
+                    "genres": [1, 27],
+                    "themes": [17],
+                    "demographics": [27],
+                    "studios": [37]
                 },
                 ...
             ]
@@ -145,23 +178,36 @@ class StorageManager:
             except (json.JSONDecodeError, IOError):
                 continue
 
-            # Kapak resmi: Jikan image_url kullanılıyor
-            image_url = None
-            jikan = data.get("jikan")
-            if jikan and jikan.get("image_url"):
-                image_url = jikan["image_url"]
-
             turkanime = data.get("turkanime", {})
+            jikan = data.get("jikan") or {}
+            
             slug_val = turkanime.get("slug") or data.get("slug")
             
             # mal_id'yi belirle (jikan'da yoksa fallback olarak slug kullan)
-            mal_id_val = jikan.get("mal_id") if jikan and jikan.get("mal_id") else slug_val
+            mal_id_val = jikan.get("mal_id") if jikan.get("mal_id") else slug_val
+            
+            # İlişkili listeleri filtrele (zaten jikan'da integer array olarak geliyorlar)
+            genres = jikan.get("genres", [])
+            themes = jikan.get("themes", [])
+            demographics = jikan.get("demographics", [])
+            studios = jikan.get("studios", [])
 
             index.append({
                 "mal_id": mal_id_val,
-                "isim": turkanime.get("isim", ""),
-                "image_url": image_url,
-                "puan": turkanime.get("puan", "0.00"),
+                "title": jikan.get("title") or turkanime.get("isim", ""),
+                "title_english": jikan.get("title_english"),
+                "slug": slug_val,
+                "image_url": jikan.get("image_url"),
+                "type": jikan.get("type"),
+                "status": jikan.get("status"),
+                "year": jikan.get("year"),
+                "season": jikan.get("season"),
+                "score": jikan.get("score"),
+                "popularity": jikan.get("popularity"),
+                "genres": genres,
+                "themes": themes,
+                "demographics": demographics,
+                "studios": studios
             })
 
         # İndeks dosyasını yaz
