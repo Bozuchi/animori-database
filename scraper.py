@@ -12,13 +12,26 @@ from turkanime_api import Anime as TurkanimeAnime
 import re
 import time
 import html
-
+import logging
 
 class TurkanimeScraper:
     """Türkanime arşivini tarayarak anime verilerini toplayan kazıyıcı sınıf."""
 
-    def __init__(self):
+    def __init__(self, error_log_path: str = "errors.log"):
         self.animeler: dict[str, dict] = {}
+        self._setup_error_logger(error_log_path)
+
+    def _setup_error_logger(self, log_path: str):
+        """Hata kayıtları için dosya logger'ı oluşturur."""
+        self.error_logger = logging.getLogger("scraper_errors")
+        self.error_logger.setLevel(logging.ERROR)
+
+        if not self.error_logger.handlers:
+            handler = logging.FileHandler(log_path, encoding="utf-8")
+            handler.setFormatter(
+                logging.Formatter("%(asctime)s — %(message)s", datefmt="%Y-%m-%d %H:%M:%S")
+            )
+            self.error_logger.addHandler(handler)
 
     def _parse_blok(self, blok: str) -> tuple[str, dict] | None:
         """Tek bir anime panel bloğunu parse ederek (slug, veri) döndürür."""
@@ -125,7 +138,7 @@ class TurkanimeScraper:
             slug: Anime slug'ı (örn: "naruto")
 
         Returns:
-            str: Tam özet metni veya boş string (hata durumunda).
+            str | None: Tam özet metni, boş string (özet yoksa), veya None (hata durumunda).
         """
         try:
             anime_obj = TurkanimeAnime(slug)
@@ -140,5 +153,7 @@ class TurkanimeScraper:
                 
             return ozet.strip() if ozet else ""
         except Exception as e:
-            print(f"[Scraper] ⚠️  Tam özet alınamadı ({slug}): {e}")
-            return ""
+            error_msg = f"Tam özet alınamadı ({slug}): {e}"
+            print(f"[Scraper] ⚠️  {error_msg}")
+            self.error_logger.error(f"[Scraper] {error_msg}")
+            return None
