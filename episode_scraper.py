@@ -6,8 +6,7 @@ her bölümdeki dış kaynak video (iframe) linklerini çeker.
 Jikan API'den gelen bölüm detaylarıyla (filler/recap) eşleştirir.
 
 Özellikler:
-    - Türkanime'nin kendi player'ları (ALUCARD, AMATERASU, HDVID) filtrelenir
-    - Sadece dış kaynak iframe URL'leri (Sibnet, MP4Upload vb.) çekilir
+    - Sadece onaylanmış iframe kaynakları (SIBNET, MP4UPLOAD vb.) çekilir (whitelist)
     - Regex tabanlı akıllı bölüm numarası eşleştirmesi
     - Delta güncelleme desteği (main.py tarafından kontrol edilir)
 """
@@ -21,12 +20,12 @@ from turkanime_api import Anime as TurkanimeAnime
 # Sabitler
 # ─────────────────────────────────────────────
 
-# Türkanime'nin kendi player'ları — bu player'ların URL'leri çekilmeyecek.
-# Bu player'lar "turkanime" içeren URL'lere çözünür ve dış kaynak iframe değildir.
-TURKANIME_INTERNAL_PLAYERS = {"ALUCARD(BETA)", "AMATERASU(BETA)", "HDVID"}
+# İzin verilen dış kaynak video sağlayıcıları (whitelist)
+# Sadece bu listedeki player'ların iframe URL'leri çekilecektir.
+ALLOWED_PLAYERS = {"SIBNET", "MAIL", "FILEMOON", "MP4UPLOAD", "UQLOAD", "SENDVID", "BYS", "GDRIVE"}
 
 # İstekler arası bekleme süresi (saniye)
-TURKANIME_DELAY = 0.3
+TURKANIME_DELAY = 0.1
 
 # Regex: Geçersiz bölüm formatlarını yakalar (tire veya virgüllü sayılar)
 # Örn: "12-13. Bölüm", "13,5. Bölüm" → eşleştirme YAPILMAZ
@@ -76,7 +75,7 @@ class EpisodeScraper:
             2. anime.bolumler ile tüm bölüm objelerini al
             3. Her bölüm için kontrol et:
                - Eğer existing_episodes_map içinde varsa → videolarını çekme, eskisini kullan
-               - Yoksa → bolum.videos ile tüm videoları al, filtrele, URL'leri çöz
+               - Yoksa → bolum.videos ile tüm videoları al, filtrele (whitelist), URL'leri çöz
 
         Args:
             slug: Anime slug'ı (örn: "naruto")
@@ -124,8 +123,8 @@ class EpisodeScraper:
                 continue
 
             for video in videos:
-                # Türkanime'nin kendi player'larını atla
-                if video.player in TURKANIME_INTERNAL_PLAYERS:
+                # Sadece izin verilen player'ları kabul et (whitelist)
+                if video.player not in ALLOWED_PLAYERS:
                     continue
 
                 try:
@@ -139,7 +138,7 @@ class EpisodeScraper:
                         "player": video.player,
                         "url": video_url,
                     })
-
+                    
                 time.sleep(TURKANIME_DELAY)
 
             episodes.append(ep_data)
