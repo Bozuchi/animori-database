@@ -191,7 +191,7 @@ def main():
         else:
             print(f"{progress} 🎬 {tk_data['isim']} — Bölüm taraması başlatılıyor...")
             
-        episodes = ep_scraper.scrape_episodes(slug, mal_id, jikan, existing_episodes)
+        episodes = ep_scraper.scrape_episodes(slug, mal_id, jikan, existing_episodes, anime_name=tk_data['isim'])
 
         if episodes:
             storage.save_episodes(slug, episodes)

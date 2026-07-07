@@ -8,11 +8,13 @@ Jikan API'den gelen bölüm detaylarıyla (filler/recap) eşleştirir.
 Özellikler:
     - Sadece onaylanmış iframe kaynakları (SIBNET, MP4UPLOAD vb.) çekilir (whitelist)
     - Regex tabanlı akıllı bölüm numarası eşleştirmesi
+    - Çakışma tespiti ve metin benzerliği ile akıllı çözümleme
     - Delta güncelleme desteği (main.py tarafından kontrol edilir)
 """
 
 import re
 import time
+from difflib import SequenceMatcher
 
 from turkanime_api import Anime as TurkanimeAnime
 
@@ -37,7 +39,84 @@ VALID_EPISODE_PATTERN = re.compile(r'(\d+)\.\s*[Bb]ölüm')
 
 
 class EpisodeScraper:
-    """Türkanime bölüm/video çekici ve Jikan eşleştirme motoru."""
+    """Türkanime bölüm/video çekici, çakışma çözücü ve Jikan eşleştirme motoru."""
+
+    @staticmethod
+    def _title_similarity(title: str, anime_name: str) -> float:
+        """
+        Bölüm başlığı ile anime ana ismi arasındaki metin benzerliğini hesaplar.
+        SequenceMatcher kullanarak 0.0 (hiç benzemiyor) ile 1.0 (aynı) arası değer döner.
+
+        Karşılaştırma büyük/küçük harf duyarsızdır.
+
+        Args:
+            title: Türkanime bölüm başlığı.
+            anime_name: Animenin ana ismi.
+
+        Returns:
+            float: 0.0–1.0 arası benzerlik skoru.
+        """
+        return SequenceMatcher(None, title.lower(), anime_name.lower()).ratio()
+
+    @staticmethod
+    def _resolve_conflicts(
+        ep_numbers: dict[int, list[int]],
+        titles: list[str],
+        anime_name: str,
+    ) -> set[int]:
+        """
+        Aynı bölüm numarasına sahip birden fazla içerik arasındaki çakışmaları çözer.
+
+        Çözüm mantığı:
+            - Her çakışan grup için, başlıkları anime ana ismiyle karşılaştırır.
+            - En yüksek benzerlik skoruna sahip bölüm "kazanan" olur.
+            - Diğerleri "kaybeden" olarak işaretlenir → Jikan eşleştirme dışı kalır.
+
+        Örnek:
+            Anime ismi: "Shingeki no Kyojin"
+            Çakışanlar: ["Shingeki no Kyojin 4. Bölüm", "Shingeki no Kyojin OVA 4. Bölüm"]
+            Kazanan: "Shingeki no Kyojin 4. Bölüm" (daha yüksek skor)
+
+        Args:
+            ep_numbers: {bölüm_numarası: [indeks_listesi]} haritalama.
+            titles: Tüm bölüm başlıklarının listesi.
+            anime_name: Animenin ana ismi.
+
+        Returns:
+            set[int]: Eşleştirme dışı bırakılacak indekslerin kümesi.
+        """
+        excluded_indices = set()
+
+        for ep_num, indices in ep_numbers.items():
+            if len(indices) <= 1:
+                continue  # Çakışma yok
+
+            # Her çakışan bölüm için benzerlik skoru hesapla
+            scored = []
+            for idx in indices:
+                score = SequenceMatcher(
+                    None, titles[idx].lower(), anime_name.lower()
+                ).ratio()
+                scored.append((idx, score))
+
+            # En yüksek skora sahip olanı kazanan olarak seç
+            scored.sort(key=lambda x: x[1], reverse=True)
+            winner_idx = scored[0][0]
+
+            # Kaybedenleri eşleştirme dışı bırak
+            for idx, score in scored:
+                if idx != winner_idx:
+                    excluded_indices.add(idx)
+
+            # Bilgilendirme logu
+            winner_title = titles[winner_idx]
+            loser_titles = [titles[idx] for idx, _ in scored if idx != winner_idx]
+            print(
+                f"[Episodes]   ⚔️  Çakışma çözüldü (Bölüm {ep_num}): "
+                f"Kazanan='{winner_title}' | Kaybeden(ler)={loser_titles}"
+            )
+
+        return excluded_indices
 
     @staticmethod
     def extract_episode_number(title: str) -> int | None:
@@ -155,28 +234,54 @@ class EpisodeScraper:
         self,
         turkanime_episodes: list[dict],
         jikan_episodes: dict[int, dict],
+        anime_name: str = "",
     ) -> list[dict]:
         """
         Türkanime bölümlerini Jikan verileriyle eşleştirerek nihai listeyi oluşturur.
+        Çakışan bölüm numaralarını metin benzerliği ile çözer.
 
         Eşleştirme kuralları:
             - Başlıkta "{sayı}. Bölüm" formatı varsa → eşleştir
             - Tire veya virgüllü sayı varsa → eşleştirme YAPMA
+            - Aynı numaraya sahip birden fazla bölüm varsa → çakışma tespiti
+            - Çakışmalarda anime ismine en benzeyen başlık kazanır
+            - Kaybeden bölümler eşleştirme dışı bırakılır
             - Eşleşen bölümlere Jikan'dan filler/recap bilgisi eklenir
             - Eşleşmeyen bölümlerde jikan_mal_id, filler, recap = null
 
         Args:
             turkanime_episodes: fetch_turkanime_episodes() çıktısı.
             jikan_episodes: JikanEnricher.fetch_episodes() çıktısı.
+            anime_name: Animenin ana ismi (çakışma çözümlemesi için).
 
         Returns:
             list[dict]: Nihai episodes dizisi (JSON'a yazılacak format).
         """
-        result = []
+        # ── Adım 1: Tüm bölüm numaralarını çıkar ──
+        titles = [ep["turkanime_title"] for ep in turkanime_episodes]
+        ep_numbers_list = [self.extract_episode_number(t) for t in titles]
 
-        for ep in turkanime_episodes:
+        # ── Adım 2: Çakışma haritası oluştur ──
+        # {bölüm_numarası: [bu numaraya sahip bölümlerin indeksleri]}
+        ep_num_to_indices: dict[int, list[int]] = {}
+        for i, ep_num in enumerate(ep_numbers_list):
+            if ep_num is not None:
+                ep_num_to_indices.setdefault(ep_num, []).append(i)
+
+        # ── Adım 3: Çakışmaları çöz ──
+        excluded_indices = self._resolve_conflicts(
+            ep_num_to_indices, titles, anime_name
+        ) if anime_name else set()
+
+        # ── Adım 4: Nihai listeyi oluştur ──
+        result = []
+        for i, ep in enumerate(turkanime_episodes):
             title = ep["turkanime_title"]
-            ep_number = self.extract_episode_number(title)
+            ep_number = ep_numbers_list[i]
+
+            # Çakışma kaybedeni ise → eşleştirme dışı bırak
+            if i in excluded_indices:
+                ep_number = None
 
             entry = {
                 "turkanime_title": title,
@@ -204,7 +309,8 @@ class EpisodeScraper:
         slug: str, 
         mal_id: int | None, 
         jikan, 
-        existing_episodes: list[dict] = None
+        existing_episodes: list[dict] = None,
+        anime_name: str = "",
     ) -> list[dict]:
         """
         Tüm adımları birleştiren ana metod.
@@ -212,13 +318,15 @@ class EpisodeScraper:
         Adımlar:
             1. Türkanime'den bölüm + video çek (mevcutları atlayarak)
             2. mal_id varsa Jikan'dan bölüm detaylarını çek
-            3. Eşleştirmeyi yap ve nihai listeyi döndür
+            3. Çakışma tespiti + metin benzerliği ile çözümleme
+            4. Eşleştirmeyi yap ve nihai listeyi döndür
 
         Args:
             slug: Anime slug'ı.
             mal_id: MyAnimeList anime ID'si (veya None).
             jikan: JikanEnricher instance'ı (fetch_episodes metodu için).
             existing_episodes: Mevcut bölümler listesi (delta için).
+            anime_name: Animenin ana ismi (çakışma çözümlemesi için).
 
         Returns:
             list[dict]: Nihai episodes dizisi. Boş liste hata durumunda.
@@ -242,5 +350,5 @@ class EpisodeScraper:
             if jikan_episodes:
                 print(f"[Episodes]   📖 Jikan'dan {len(jikan_episodes)} bölüm bilgisi alındı.")
 
-        # 3. Eşleştirme ve birleştirme
-        return self.build_episode_list(turkanime_episodes, jikan_episodes)
+        # 3. Eşleştirme, çakışma çözümleme ve birleştirme
+        return self.build_episode_list(turkanime_episodes, jikan_episodes, anime_name)
