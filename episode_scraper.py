@@ -4,17 +4,21 @@ episode_scraper.py — Bölüm & Video Kazıyıcı
 Türkanime API kütüphanesini kullanarak animelerin bölümlerini ve
 her bölümdeki dış kaynak video (iframe) linklerini çeker.
 Jikan API'den gelen bölüm detaylarıyla (filler/recap) eşleştirir.
+AniSkip API'den OP/ED atlama sürelerini alır.
 
 Özellikler:
     - Sadece onaylanmış iframe kaynakları (SIBNET, MP4UPLOAD vb.) çekilir (whitelist)
     - Regex tabanlı akıllı bölüm numarası eşleştirmesi
     - Çakışma tespiti ve metin benzerliği ile akıllı çözümleme
+    - AniSkip API ile OP/ED skip süreleri entegrasyonu
     - Delta güncelleme desteği (main.py tarafından kontrol edilir)
 """
 
 import re
 import time
 from difflib import SequenceMatcher
+
+import requests
 
 from turkanime_api import Anime as TurkanimeAnime
 
@@ -29,6 +33,9 @@ ALLOWED_PLAYERS = {"SIBNET", "MAIL", "FILEMOON", "MP4UPLOAD", "UQLOAD", "SENDVID
 # İstekler arası bekleme süresi (saniye)
 TURKANIME_DELAY = 0.1
 
+# AniSkip API base URL’i (OP/ED atlama süreleri)
+ANISKIP_BASE_URL = "https://api.aniskip.com/v2/skip-times"
+
 # Regex: Geçersiz bölüm formatlarını yakalar (tire veya virgüllü sayılar)
 # Örn: "12-13. Bölüm", "13,5. Bölüm" → eşleştirme YAPILMAZ
 INVALID_EPISODE_PATTERN = re.compile(r'(\d+[-–]\d+|\d+[,،]\d+)\.\s*[Bb]ölüm')
@@ -39,7 +46,45 @@ VALID_EPISODE_PATTERN = re.compile(r'(\d+)\.\s*[Bb]ölüm')
 
 
 class EpisodeScraper:
-    """Türkanime bölüm/video çekici, çakışma çözücü ve Jikan eşleştirme motoru."""
+    """Türkanime bölüm/video çekici, çakışma çözücü, Jikan eşleştirme ve AniSkip motoru."""
+
+    @staticmethod
+    def fetch_skip_times(mal_id: int, ep_number: int) -> dict | None:
+        """
+        AniSkip API'den bir bölümün OP (Opening) ve ED (Ending)
+        atlama sürelerini çeker.
+
+        Args:
+            mal_id: MyAnimeList anime ID'si.
+            ep_number: Bölüm numarası.
+
+        Returns:
+            dict: {"op": {"start": float, "end": float}, "ed": {...}} veya None.
+        """
+        url = f"{ANISKIP_BASE_URL}/{mal_id}/{ep_number}"
+        params = {"types": ["op", "ed"], "episodeLength": 0}
+
+        try:
+            resp = requests.get(url, params=params, timeout=10)
+            resp.raise_for_status()
+            data = resp.json()
+        except Exception:
+            return None
+
+        if not data.get("found") or not data.get("results"):
+            return None
+
+        skip_times = {}
+        for item in data["results"]:
+            skip_type = item.get("skipType")  # "op" veya "ed"
+            interval = item.get("interval", {})
+            if skip_type in ("op", "ed") and interval:
+                skip_times[skip_type] = {
+                    "start": interval.get("startTime"),
+                    "end": interval.get("endTime"),
+                }
+
+        return skip_times if skip_times else None
 
     @staticmethod
     def _title_similarity(title: str, anime_name: str) -> float:
@@ -182,9 +227,11 @@ class EpisodeScraper:
             # ── Akıllı Delta Kontrolü ──
             if bolum.title in existing_episodes_map:
                 # Bu bölüm daha önce çekilmiş, HTTP isteği yapmadan doğrudan kopyala
+                existing_ep = existing_episodes_map[bolum.title]
                 episodes.append({
                     "turkanime_title": bolum.title,
-                    "videos": existing_episodes_map[bolum.title].get("videos", [])
+                    "videos": existing_ep.get("videos", []),
+                    "skip_times": existing_ep.get("skip_times"),
                 })
                 continue
 
@@ -287,6 +334,7 @@ class EpisodeScraper:
                 "turkanime_title": title,
                 "episode_number": ep_number,
                 "videos": ep["videos"],
+                "skip_times": ep.get("skip_times"),
             }
 
             # Eşleştirme: ep_number varsa ve Jikan verisinde bu numara mevcutsa
@@ -320,6 +368,7 @@ class EpisodeScraper:
             2. mal_id varsa Jikan'dan bölüm detaylarını çek
             3. Çakışma tespiti + metin benzerliği ile çözümleme
             4. Eşleştirmeyi yap ve nihai listeyi döndür
+            5. Yeni bölümler için AniSkip'ten OP/ED sürelerini çek
 
         Args:
             slug: Anime slug'ı.
@@ -351,4 +400,26 @@ class EpisodeScraper:
                 print(f"[Episodes]   📖 Jikan'dan {len(jikan_episodes)} bölüm bilgisi alındı.")
 
         # 3. Eşleştirme, çakışma çözümleme ve birleştirme
-        return self.build_episode_list(turkanime_episodes, jikan_episodes, anime_name)
+        episodes = self.build_episode_list(turkanime_episodes, jikan_episodes, anime_name)
+
+        # 4. Yeni bölümler için AniSkip'ten OP/ED atlama sürelerini çek
+        if mal_id is not None:
+            aniskip_count = 0
+            for ep in episodes:
+                # skip_times zaten varsa (mevcut bölüm) → atla
+                if ep.get("skip_times") is not None:
+                    continue
+
+                ep_number = ep.get("episode_number")
+                if ep_number is None:
+                    continue
+
+                skip_times = self.fetch_skip_times(mal_id, ep_number)
+                ep["skip_times"] = skip_times
+                if skip_times:
+                    aniskip_count += 1
+
+            if aniskip_count:
+                print(f"[Episodes]   ⏭️  AniSkip'ten {aniskip_count} bölüm için OP/ED süresi alındı.")
+
+        return episodes
