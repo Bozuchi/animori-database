@@ -1,13 +1,12 @@
 """
 jikan_api.py — Jikan API Veri Zenginleştirici
 
-Türkanime'den gelen anime isimlerini Jikan API (MyAnimeList) üzerinde
-aratarak zengin detayları çeker. Rate limit koruması ve hata yönetimi
-içerir.
+Türkanime'den çekilen MAL ID'yi kullanarak Jikan API (MyAnimeList) üzerinden
+zengin detayları çeker. Rate limit koruması ve hata yönetimi içerir.
 
 Endpoints:
-    - Arama:   https://api.jikan.moe/v4/anime?q={isim}
     - Detay:   https://api.jikan.moe/v4/anime/{mal_id}/full
+    - Bölüm:   https://api.jikan.moe/v4/anime/{mal_id}/episodes
 """
 
 import requests
@@ -16,7 +15,6 @@ import logging
 import re
 import json
 import os
-from urllib.parse import quote
 
 
 JIKAN_BASE_URL = "https://api.jikan.moe/v4"
@@ -102,56 +100,6 @@ class JikanEnricher:
             except requests.exceptions.RequestException as e:
                 print(f"[Jikan] ⚠️  Bağlantı hatası: {e}")
                 return None
-
-        return None
-
-    def search_anime(self, name: str) -> int | None:
-        """
-        Anime ismini Jikan API'de aratır ve ilk eşleşen sonucun mal_id'sini döndürür.
-
-        Args:
-            name: Aranacak anime ismi.
-
-        Returns:
-            int: mal_id veya None (bulunamadıysa).
-        """
-        # Baştaki _ karakterleri Jikan/MAL backend'inde SQL wildcard olarak
-        # yorumlanıp timeout'a sebep olur — temizle
-        clean_name = name.lstrip("_").strip()
-        if not clean_name:
-            return None
-
-        encoded_name = quote(clean_name)
-        url = f"{JIKAN_BASE_URL}/anime?q={encoded_name}&limit=3"
-
-        data = self._request_with_retry(url)
-        if data and data.get("data"):
-            results = data["data"]
-            
-            # Sadece harf büyüklüğü duyarsız ve BOŞLUKSUZ tam eşleşme
-            searched_clean = name.lower().replace(" ", "")
-            
-            for result in results:
-                # Bu sonucun olası isimlerini topla (ana isim ve ingilizce)
-                jikan_titles = []
-                if result.get("title"):
-                    jikan_titles.append(result["title"])
-                
-                for j_title in jikan_titles:
-                    if not j_title:
-                        continue
-                    
-                    # Tam eşleşme (harf büyüklüğünü ve boşlukları yoksayarak)
-                    j_title_clean = j_title.lower().replace(" ", "")
-                    if searched_clean == j_title_clean:
-                        return result.get("mal_id")
-            
-            # Hiçbir sonuçta eşleşme sağlanamadıysa reddet ve logla
-            self._log_error(
-                f"İsim uyuşmazlığı: Türkanime='{name}' <-> "
-                f"Jikan='{results[0].get('title')}'"
-            )
-            return None
 
         return None
 
@@ -285,24 +233,24 @@ class JikanEnricher:
 
         return episodes
 
-    def enrich(self, name: str, slug: str = "") -> dict | None:
+    def enrich(self, mal_id: int, slug: str = "", name: str = "") -> dict | None:
         """
-        Anime ismini aratıp detaylarını çeken birleşik metod.
+        MAL ID ile anime detaylarını çeken birleşik metod.
 
         Adımlar:
-            0. Manuel eşleştirme dosyasını kontrol et
-            1. İsimle arama yap -> mal_id bul
-            2. mal_id ile /full endpoint'inden detayları çek
-            3. Hata varsa errors.log'a kaydet, None döndür
+            0. Manuel eşleştirme dosyasını kontrol et (öncelikli)
+            1. mal_id ile /full endpoint'inden detayları çek
+            2. Hata varsa errors.log'a kaydet, None döndür
 
         Args:
-            name: Türkanime'den gelen anime ismi.
+            mal_id: Türkanime'nin dış bağlantılar sekmesinden çekilen MAL ID.
             slug: Anime slug'ı (manuel eşleştirme kontrolü için).
+            name: Anime ismi (loglama için).
 
         Returns:
             dict: Zenginleştirilmiş anime verileri veya None.
         """
-        # Adım 0: Manuel eşleştirme kontrolü
+        # Adım 0: Manuel eşleştirme kontrolü (öncelikli)
         manual_mal_id = self.manual_mappings.get(slug)
         if manual_mal_id:
             print(f"[Jikan] 📌 Manuel eşleştirme kullanılıyor: {name} -> mal_id: {manual_mal_id}")
@@ -312,15 +260,11 @@ class JikanEnricher:
                 self._log_error(f"Manuel eşleştirme detayları alınamadı: {name} (mal_id: {manual_mal_id})")
             return details
 
-        # Adım 1: Arama
-        time.sleep(RATE_LIMIT_DELAY)
-        mal_id = self.search_anime(name)
-
+        # Adım 1: Detay çekimi (mal_id doğrudan Türkanime'den geliyor)
         if mal_id is None:
-            self._log_error(f"Anime bulunamadı: {name}")
+            self._log_error(f"MAL ID bulunamadı: {name}")
             return None
 
-        # Adım 2: Detay çekimi
         time.sleep(RATE_LIMIT_DELAY)
         details = self.get_full_details(mal_id)
 

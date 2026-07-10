@@ -135,8 +135,11 @@ def main():
             # Yeni anime
             print(f"{progress} 🆕 {tk_data['isim']} — Yeni anime, Jikan sorgulanıyor...")
 
+        # ── MAL ID çekimi (Türkanime Dış Bağlantılar) ──
+        mal_id = scraper.fetch_mal_id(slug)
+
         # ── Jikan zenginleştirme ──
-        jikan_data = jikan.enrich(tk_data["isim"], slug=slug)
+        jikan_data = jikan.enrich(mal_id=mal_id, slug=slug, name=tk_data["isim"])
 
         if jikan_data is not None:
             jikan_basarili += 1

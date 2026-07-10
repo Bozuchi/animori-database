@@ -157,3 +157,45 @@ class TurkanimeScraper:
             print(f"[Scraper] ⚠️  {error_msg}")
             self.error_logger.error(f"[Scraper] {error_msg}")
             return None
+
+    def fetch_mal_id(self, slug: str) -> int | None:
+        """
+        Türkanime'nin "Dış Bağlantılar" sekmesinden MyAnimeList ID'sini çeker.
+
+        Adımlar:
+            1. TurkanimeAnime(slug) ile anime objesi oluştur → anime_id al
+            2. /ajax/disbaglanti&animeId={anime_id} endpoint'ine GET isteği at
+            3. Dönen HTML'den regex ile myanimelist.net/anime/{mal_id} linkini çıkar
+
+        Args:
+            slug: Anime slug'ı (örn: "naruto")
+
+        Returns:
+            int: MyAnimeList ID'si veya None (link yoksa veya hata durumunda).
+        """
+        try:
+            anime_obj = TurkanimeAnime(slug)
+            anime_id = anime_obj.anime_id
+
+            if not anime_id:
+                print(f"[Scraper] ⚠️  anime_id alınamadı ({slug})")
+                return None
+
+            # Dış bağlantılar sekmesini çek
+            dis_html = bypass.fetch(f"/ajax/disbaglanti&animeId={anime_id}")
+            time.sleep(0.2)
+
+            # MyAnimeList linkinden mal_id'yi ayıkla
+            mal_match = re.search(r'myanimelist\.net/anime/(\d+)', dis_html)
+            if mal_match:
+                return int(mal_match.group(1))
+
+            # MAL linki bulunamadı
+            print(f"[Scraper] ⚠️  MAL linki bulunamadı ({slug})")
+            return None
+
+        except Exception as e:
+            error_msg = f"MAL ID alınamadı ({slug}): {e}"
+            print(f"[Scraper] ⚠️  {error_msg}")
+            self.error_logger.error(f"[Scraper] {error_msg}")
+            return None
