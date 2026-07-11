@@ -98,8 +98,11 @@ class JikanEnricher:
                 time.sleep(3)
 
             except requests.exceptions.RequestException as e:
-                print(f"[Jikan] ⚠️  Bağlantı hatası: {e}")
-                return None
+                print(
+                    f"[Jikan] ⚠️  Bağlantı hatası "
+                    f"(Deneme {attempt + 1}/{RETRY_MAX}): {e}"
+                )
+                time.sleep(3)
 
         return None
 
@@ -211,7 +214,6 @@ class JikanEnricher:
         page = 1
 
         while True:
-            time.sleep(RATE_LIMIT_DELAY)
             url = f"{JIKAN_BASE_URL}/anime/{mal_id}/episodes?page={page}"
             data = self._request_with_retry(url)
 
@@ -230,6 +232,7 @@ class JikanEnricher:
                 break
 
             page += 1
+            time.sleep(RATE_LIMIT_DELAY)
 
         return episodes
 

@@ -19,13 +19,32 @@ Akıllı Güncelleme:
 """
 
 import sys
+import os
+import signal
 from scraper import TurkanimeScraper
 from jikan_api import JikanEnricher
 from storage_manager import StorageManager
 from episode_scraper import EpisodeScraper
 
 
+# Graceful shutdown (Ctrl+C desteği)
+_shutdown_requested = False
+
+
+def _handle_shutdown(signum, frame):
+    """Ctrl+C sinyalini yakalar ve güvenli kapatma bayrağını ayarlar."""
+    global _shutdown_requested
+    if _shutdown_requested:
+        print("\n\n⚠️  İkinci Ctrl+C algılandı, zorla kapatılıyor...")
+        os._exit(1)
+    _shutdown_requested = True
+    print("\n\n⏹️  Kapatma isteği alındı! Mevcut işlem tamamlandıktan sonra güvenli şekilde kapanacak...")
+
+
 def main():
+    global _shutdown_requested
+    signal.signal(signal.SIGINT, _handle_shutdown)
+
     print("=" * 60)
     print("  🎌 Serverless Anime API — Veri Güncelleme")
     print("=" * 60)
@@ -66,6 +85,10 @@ def main():
     bolum_jikan_null = 0
 
     for slug, tk_data in turkanime_data.items():
+        if _shutdown_requested:
+            print("\n🛑 Kullanıcı tarafından durduruldu (ADIM 2).")
+            break
+
         islenen += 1
         progress = f"[{islenen}/{toplam}]"
 
@@ -77,6 +100,10 @@ def main():
         # Mevcut veriyi kontrol et
         existing = storage.load_anime_detail(slug)
 
+        # Shared anime object: aynı anime için tek HTTP isteği (optimizasyon)
+        anime_obj = None
+        will_need_jikan = (existing is None) or (existing.get("jikan") is None)
+
         # ── Tam Özet Kontrolü ──
         # None = henüz denenmedi → çek.  "" veya metin = daha önce çekilmiş → atla.
         if existing is not None:
@@ -87,7 +114,10 @@ def main():
                 ozet_atlanan += 1
             else:
                 # None → henüz denenmemiş, tam özet çek
-                full_ozet = scraper.fetch_full_ozet(slug)
+                # Hem özet hem Jikan gerekecekse, anime objesini paylaş
+                if will_need_jikan:
+                    anime_obj = scraper.create_anime_object(slug)
+                full_ozet = scraper.fetch_full_ozet(slug, anime_obj=anime_obj)
                 tk_data["ozet"] = full_ozet  # "" bile olsa kaydet, tekrar denemesin
                 ozet_cekilen += 1
                 if full_ozet:
@@ -95,8 +125,9 @@ def main():
                 else:
                     print(f"{progress} 📭 {tk_data['isim']} — Anime'de özet bilgisi yok.")
         else:
-            # Yeni anime → tam özet çek
-            full_ozet = scraper.fetch_full_ozet(slug)
+            # Yeni anime → hem özet hem Jikan gerekecek, anime objesini paylaş
+            anime_obj = scraper.create_anime_object(slug)
+            full_ozet = scraper.fetch_full_ozet(slug, anime_obj=anime_obj)
             tk_data["ozet"] = full_ozet  # "" bile olsa kaydet
             ozet_cekilen += 1
             if full_ozet:
@@ -114,11 +145,14 @@ def main():
                 existing_turkanime = existing.get("turkanime", {})
                 
                 # --- AKILLI DELTA KONTROLÜ ---
-                # Bölüm durumu birebir aynıysa diske yazma!
-                if existing_turkanime.get("bolum_durumu") == tk_data.get("bolum_durumu"):
+                # Bölüm durumu birebir aynıysa VE özet değişmemişse diske yazma!
+                bolum_ayni = existing_turkanime.get("bolum_durumu") == tk_data.get("bolum_durumu")
+                ozet_ayni = existing_turkanime.get("ozet") == tk_data.get("ozet")
+                
+                if bolum_ayni and ozet_ayni:
                     
                     jikan_atlanan += 1
-                    # print(f"{progress} ⏭️  {tk_data['isim']} — Bölüm durumu aynı, atlandı.")
+                    # print(f"{progress} ⏭️  {tk_data['isim']} — Değişiklik yok, atlandı.")
                     continue
 
                 # Bölüm durumu verisi değişmişse diske yaz
@@ -135,8 +169,8 @@ def main():
             # Yeni anime
             print(f"{progress} 🆕 {tk_data['isim']} — Yeni anime, Jikan sorgulanıyor...")
 
-        # ── MAL ID çekimi (Türkanime Dış Bağlantılar) ──
-        mal_id = scraper.fetch_mal_id(slug)
+        # ── MAL ID çekimi (paylaşılan anime objesi kullanılır) ──
+        mal_id = scraper.fetch_mal_id(slug, anime_obj=anime_obj)
 
         # ── Jikan zenginleştirme ──
         jikan_data = jikan.enrich(mal_id=mal_id, slug=slug, name=tk_data["isim"])
@@ -150,16 +184,25 @@ def main():
 
         storage.save_anime_detail(slug, tk_data, jikan_data)
 
+    # Slug haritasını kaydet (ADIM 2 sonrası)
+    storage.save_slug_map()
+
     # ─────────────────────────────────────────────
     # ADIM 2.5: Bölüm & Video Çekimi (Delta Güncelleme)
     # ─────────────────────────────────────────────
-    print("\n🎬 ADIM 2.5: Bölüm ve video verileri çekiliyor...")
-    print("-" * 40)
+    if _shutdown_requested:
+        print("\n⏭️  ADIM 2.5 atlandı (kapatma isteği).")
+    else:
+        print("\n🎬 ADIM 2.5: Bölüm ve video verileri çekiliyor...")
+        print("-" * 40)
 
     ep_scraper = EpisodeScraper()
     islenen_ep = 0
 
     for slug, tk_data in turkanime_data.items():
+        if _shutdown_requested:
+            break
+
         islenen_ep += 1
         progress = f"[{islenen_ep}/{toplam}]"
 
@@ -203,6 +246,9 @@ def main():
         else:
             bolum_bos += 1
             print(f"{progress} 📭 {tk_data['isim']} — Bölüm bulunamadı.")
+
+    # Slug haritasını kaydet (ADIM 2.5 sonrası)
+    storage.save_slug_map()
 
     # ─────────────────────────────────────────────
     # ADIM 3: İndeks ve Versiyon Güncelleme

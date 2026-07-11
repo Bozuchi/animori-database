@@ -64,14 +64,43 @@ class EpisodeScraper:
         url = f"{ANISKIP_BASE_URL}/{mal_id}/{ep_number}"
         params = {"types": ["op", "ed"], "episodeLength": 0}
 
-        try:
-            resp = requests.get(url, params=params, timeout=10)
-            resp.raise_for_status()
-            data = resp.json()
-        except Exception:
-            return None
+        max_retries = 3
+        retry_delay = 2
+        data = None
 
-        if not data.get("found") or not data.get("results"):
+        for attempt in range(max_retries):
+            try:
+                resp = requests.get(url, params=params, timeout=10)
+                
+                # 429 Rate Limit Kontrolü
+                if resp.status_code == 429:
+                    import time
+                    print(f"[Episodes] ⚠️  AniSkip Rate Limit aşıldı (Deneme {attempt + 1}/{max_retries}). {retry_delay}s bekleniyor...")
+                    time.sleep(retry_delay)
+                    retry_delay *= 2
+                    continue
+                    
+                resp.raise_for_status()
+                data = resp.json()
+                break
+                
+            except requests.exceptions.Timeout:
+                import time
+                print(f"[Episodes] ⏱️  AniSkip Timeout hatası (Deneme {attempt + 1}/{max_retries}).")
+                time.sleep(retry_delay)
+                retry_delay *= 2
+                continue
+            except requests.exceptions.RequestException as e:
+                # 404 (Bulunamadı) durumu gayet normaldir, atlanabilir.
+                if getattr(e.response, 'status_code', None) == 404:
+                    return None
+                print(f"[Episodes] ⚠️  AniSkip API Bağlantı Hatası (mal_id: {mal_id}, ep: {ep_number}): {e}")
+                return None
+            except Exception as e:
+                print(f"[Episodes] ⚠️  AniSkip Beklenmeyen Hata: {e}")
+                return None
+
+        if not data or not data.get("found") or not data.get("results"):
             return None
 
         skip_times = {}
@@ -418,6 +447,7 @@ class EpisodeScraper:
                 ep["skip_times"] = skip_times
                 if skip_times:
                     aniskip_count += 1
+                time.sleep(0.1)
 
             if aniskip_count:
                 print(f"[Episodes]   ⏭️  AniSkip'ten {aniskip_count} bölüm için OP/ED süresi alındı.")

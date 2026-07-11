@@ -18,6 +18,7 @@ class StorageManager:
     def __init__(self, base_dir: str = "api"):
         self.base_dir = base_dir
         self.anime_dir = os.path.join(base_dir, "anime")
+        self.slug_map_path = os.path.join(base_dir, "slug_map.json")
 
         # Klasörleri oluştur
         os.makedirs(self.anime_dir, exist_ok=True)
@@ -27,22 +28,53 @@ class StorageManager:
         self._load_slug_map()
 
     def _load_slug_map(self):
-        """Mevcut api/anime/*.json dosyalarını tarayıp slug -> filename eşleşmesini hafızaya alır."""
+        """
+        slug -> filename eşleşmesini yükler.
+        Önce slug_map.json'dan okumayı dener (hızlı).
+        Dosya yoksa api/anime/*.json'ları tarayarak yeniden oluşturur.
+        """
+        # Önce slug_map.json'dan yüklemeyi dene (hızlı)
+        if os.path.exists(self.slug_map_path):
+            try:
+                with open(self.slug_map_path, "r", encoding="utf-8") as f:
+                    self.slug_to_file = json.load(f)
+                print(f"[Storage] ✅ slug_map.json yüklendi. ({len(self.slug_to_file)} anime)")
+                return
+            except Exception:
+                pass
+
+        # slug_map.json yoksa veya bozuksa, tüm dosyaları tarayarak oluştur
+        print("[Storage] ⏳ slug_map.json bulunamadı, anime dosyaları taranıyor...")
         if not os.path.exists(self.anime_dir):
             return
-            
+
         for filename in os.listdir(self.anime_dir):
             if filename.endswith(".json"):
                 filepath = os.path.join(self.anime_dir, filename)
                 try:
                     with open(filepath, "r", encoding="utf-8") as f:
                         data = json.load(f)
-                        # Yeni yapıda slug turkanime altında, eski yapıda en üstte olabilir
                         slug = data.get("turkanime", {}).get("slug") or data.get("slug")
                         if slug:
                             self.slug_to_file[slug] = filename
                 except Exception:
                     continue
+
+        # Tarama sonucunu kaydet (bir sonraki çalıştırmada hızlı yüklensin)
+        self._save_slug_map()
+        print(f"[Storage] ✅ slug_map.json oluşturuldu. ({len(self.slug_to_file)} anime)")
+
+    def _save_slug_map(self):
+        """slug_to_file haritasını slug_map.json'a kaydeder."""
+        try:
+            with open(self.slug_map_path, "w", encoding="utf-8") as f:
+                json.dump(self.slug_to_file, f, ensure_ascii=False)
+        except Exception as e:
+            print(f"[Storage] ⚠️  slug_map.json kaydedilemedi: {e}")
+
+    def save_slug_map(self):
+        """slug_to_file haritasını diske kaydeder (dış kullanım için)."""
+        self._save_slug_map()
 
     def save_anime_detail(self, slug: str, turkanime_data: dict, jikan_data: dict | None = None):
         """
@@ -59,11 +91,11 @@ class StorageManager:
             turkanime_data: Türkanime'den gelen veriler.
             jikan_data: Jikan'dan gelen zenginleştirilmiş veriler (veya None).
         """
-        # Slug bilgisini turkanime objesi icine ekle
-        turkanime_data["slug"] = slug
+        # Orijinal dict'i mutasyona uğratma — slug eklenmiş kopya oluştur
+        turkanime_obj = {**turkanime_data, "slug": slug}
         
         detail = {
-            "turkanime": turkanime_data,
+            "turkanime": turkanime_obj,
             "jikan": jikan_data,
         }
 
@@ -184,7 +216,7 @@ class StorageManager:
             slug_val = turkanime.get("slug") or data.get("slug")
             
             # mal_id'yi belirle (jikan'da yoksa fallback olarak slug kullan)
-            mal_id_val = jikan.get("mal_id") if jikan.get("mal_id") else slug_val
+            mal_id_val = jikan.get("mal_id") if jikan.get("mal_id") else None
             
             # İlişkili listeleri filtrele (zaten jikan'da integer array olarak geliyorlar)
             genres = jikan.get("genres", [])

@@ -73,22 +73,33 @@ class TurkanimeScraper:
         print("[Scraper] Türkanime arşivi sayfa sayfa taranıyor...")
         print("[Scraper] Lütfen bitene kadar kapatmayın...\n")
 
-        toplam_sorgu = 0
         sayfa_sayisi = 1
+        toplam_sorgu = 0
 
         while True:
             url = f"/anime-izle?sayfa={sayfa_sayisi}"
+            
+            # Sonsuz döngüyü önlemek için max deneme sayısı
+            max_retries = 3
+            retry_count = 0
+            page_html = None
 
-            try:
-                toplam_sorgu += 1
-                html = bypass.fetch(url)
-            except Exception as e:
-                print(f"[Scraper] ⚠️  Bağlantı Hatası (Sayfa {sayfa_sayisi}): {e}")
-                time.sleep(2)
-                continue
+            while retry_count < max_retries:
+                try:
+                    toplam_sorgu += 1
+                    page_html = bypass.fetch(url)
+                    break  # Başarılı olursa döngüden çık
+                except Exception as e:
+                    retry_count += 1
+                    print(f"[Scraper] ⚠️  Bağlantı Hatası (Sayfa {sayfa_sayisi} - Deneme {retry_count}/{max_retries}): {e}")
+                    time.sleep(2)
+            
+            if page_html is None:
+                print(f"[Scraper] ❌ Sayfa {sayfa_sayisi} çok fazla hata verdi, atlanıyor...")
+                break # Veya duruma göre 'sayfa_sayisi += 1; continue' yapılabilir. Döngüyü kırmak şimdilik daha güvenli.
 
             # Sayfayı her bir animeyi barındıran "panel" kutucuklarına böl
-            bloklar = html.split('<div class="panel panel-visible"')[1:]
+            bloklar = page_html.split('<div class="panel panel-visible"')[1:]
 
             if not bloklar:
                 break
@@ -127,7 +138,26 @@ class TurkanimeScraper:
         )
         return self.animeler
 
-    def fetch_full_ozet(self, slug: str) -> str:
+    def create_anime_object(self, slug: str):
+        """
+        TurkanimeAnime objesi oluşturur.
+
+        Aynı anime için birden fazla HTTP isteği yapmamak için bu obje
+        fetch_full_ozet ve fetch_mal_id arasında paylaşılabilir.
+
+        Args:
+            slug: Anime slug'ı (örn: "naruto")
+
+        Returns:
+            TurkanimeAnime: Anime objesi veya None (hata durumunda).
+        """
+        try:
+            return TurkanimeAnime(slug)
+        except Exception as e:
+            print(f"[Scraper] ⚠️  Anime objesi oluşturulamadı ({slug}): {e}")
+            return None
+
+    def fetch_full_ozet(self, slug: str, anime_obj=None) -> str:
         """
         Tek bir anime için tam özet bilgisini çeker.
 
@@ -136,12 +166,14 @@ class TurkanimeScraper:
 
         Args:
             slug: Anime slug'ı (örn: "naruto")
+            anime_obj: Önceden oluşturulmuş TurkanimeAnime objesi (opsiyonel).
 
         Returns:
             str | None: Tam özet metni, boş string (özet yoksa), veya None (hata durumunda).
         """
         try:
-            anime_obj = TurkanimeAnime(slug)
+            if anime_obj is None:
+                anime_obj = TurkanimeAnime(slug)
             ozet = anime_obj.info.get("Özet", "")
             time.sleep(0.2)
             
@@ -158,7 +190,7 @@ class TurkanimeScraper:
             self.error_logger.error(f"[Scraper] {error_msg}")
             return None
 
-    def fetch_mal_id(self, slug: str) -> int | None:
+    def fetch_mal_id(self, slug: str, anime_obj=None) -> int | None:
         """
         Türkanime'nin "Dış Bağlantılar" sekmesinden MyAnimeList ID'sini çeker.
 
@@ -169,12 +201,14 @@ class TurkanimeScraper:
 
         Args:
             slug: Anime slug'ı (örn: "naruto")
+            anime_obj: Önceden oluşturulmuş TurkanimeAnime objesi (opsiyonel).
 
         Returns:
             int: MyAnimeList ID'si veya None (link yoksa veya hata durumunda).
         """
         try:
-            anime_obj = TurkanimeAnime(slug)
+            if anime_obj is None:
+                anime_obj = TurkanimeAnime(slug)
             anime_id = anime_obj.anime_id
 
             if not anime_id:
