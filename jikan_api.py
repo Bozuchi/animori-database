@@ -17,7 +17,7 @@ import json
 import os
 
 
-JIKAN_BASE_URL = "https://api.jikan.moe/v4"
+JIKAN_BASE_URL = "https://api.tenrai.org/v1" # Şimdilik tenrai api'ya geçildi
 REQUEST_TIMEOUT = 15       # saniye
 RATE_LIMIT_DELAY = 1     # her istek arasındaki bekleme süresi (saniye)
 RETRY_MAX = 3              # 429 hatası için maksimum tekrar deneme
