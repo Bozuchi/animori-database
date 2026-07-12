@@ -147,7 +147,7 @@ class JikanEnricher:
         # Relations: relation ve entry içindeki mal_id'ler
         relations = []
         for rel in d.get("relations", []):
-            entries = [{"mal_id": e["mal_id"]} for e in rel.get("entry", [])]
+            entries = [e["mal_id"] for e in rel.get("entry", [])]
             relations.append({
                 "relation": rel.get("relation"),
                 "entries": entries,
