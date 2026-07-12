@@ -5,7 +5,7 @@ Tüm modülleri sırasıyla çalıştırarak Serverless Anime API'yi günceller.
 
 Akış:
     1. Türkanime arşivini tara (scraper.py)
-    2. Her anime için Jikan API ile zenginleştir (jikan_api.py)
+    2. Her anime için Jikan API ile zenginleştir (mal_scraper.py)
     2.5. Bölüm & Video çekimi — delta güncelleme (episode_scraper.py)
     3. JSON dosyalarını oluştur/güncelle (storage_manager.py)
     4. İndeks ve versiyon dosyalarını güncelle
@@ -22,7 +22,7 @@ import sys
 import os
 import signal
 from scraper import TurkanimeScraper
-from jikan_api import JikanEnricher
+from mal_scraper import JikanEnricher
 from storage_manager import StorageManager
 from episode_scraper import EpisodeScraper
 
