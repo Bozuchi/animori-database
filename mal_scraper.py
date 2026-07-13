@@ -277,7 +277,7 @@ class JikanEnricher:
         destekler.
         
         Returns:
-            list[dict]: [{"relation": "Prequel", "entries": [{"mal_id": 20}]}, ...]
+            list[dict]: [{"relation": "Prequel", "entries": [20]}, ...]
         """
         relations = []
         seen_relations = {}  # relation_type -> {"relation": ..., "entries": [...]}
