@@ -41,14 +41,8 @@ HEADERS = {
 }
 
 
-class JikanEnricher:
-    """
-    MyAnimeList HTML scraper — JikanEnricher ile birebir aynı arayüz.
-
-    Sınıf adı 'JikanEnricher' olarak korunmuştur; böylece main.py ve
-    episode_scraper.py içinde sadece import satırı değişir, sınıf referansları
-    aynen çalışır.
-    """
+class MalHtmlEnricher:
+    """MyAnimeList HTML scraper — JikanEnricher ile birebir aynı arayüz."""
 
     def __init__(self, error_log_path: str = "errors.log", mappings_path: str = "manual_mappings.json"):
         self.error_log_path = error_log_path

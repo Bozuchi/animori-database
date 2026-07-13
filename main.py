@@ -22,7 +22,7 @@ import sys
 import os
 import signal
 from scraper import TurkanimeScraper
-from mal_scraper import JikanEnricher
+from mal_scraper import MalHtmlEnricher as JikanEnricher
 from storage_manager import StorageManager
 from episode_scraper import EpisodeScraper
 
