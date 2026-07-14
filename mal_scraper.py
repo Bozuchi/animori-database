@@ -44,12 +44,35 @@ HEADERS = {
 class MalHtmlEnricher:
     """MyAnimeList HTML scraper — JikanEnricher ile birebir aynı arayüz."""
 
-    def __init__(self, error_log_path: str = "errors.log", mappings_path: str = "manual_mappings.json"):
+    def __init__(self, error_log_path: str = "errors.log", mappings_path: str = "manual_mappings.json", metadata: dict = None):
         self.error_log_path = error_log_path
         self._setup_error_logger()
         self.manual_mappings = self._load_manual_mappings(mappings_path)
         self.session = requests.Session()
         self.session.headers.update(HEADERS)
+        
+        if metadata is not None:
+            self.metadata = metadata
+        else:
+            self.metadata = self._load_fallback_metadata()
+
+    def _load_fallback_metadata(self) -> dict:
+        """metadata.json dosyasını yedek olarak yükler (testler vb. için)."""
+        path = os.path.join("api", "metadata.json")
+        if os.path.exists(path):
+            try:
+                with open(path, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                    if "genres" not in data:
+                        data["genres"] = {}
+                    if "studios" not in data:
+                        data["studios"] = {}
+                    if "fansubs" not in data:
+                        data["fansubs"] = {}
+                    return data
+            except Exception as e:
+                print(f"[MAL] ⚠️  Yedek metadata.json okunamadı: {e}")
+        return {"genres": {}, "studios": {}, "fansubs": {}}
 
     def _load_manual_mappings(self, path: str) -> dict:
         """Manuel slug -> mal_id eşleştirme dosyasını yükler."""
@@ -471,9 +494,29 @@ class MalHtmlEnricher:
         if not demographics:
             demographics = self._extract_ids_from_links(soup, "Demographic", r"/anime/genre/(\d+)/")
 
-        studios = self._extract_ids_from_links(soup, "Studios", r"/anime/producer/(\d+)/")
-        if not studios:
-            studios = self._extract_ids_from_links(soup, "Studio", r"/anime/producer/(\d+)/")
+        # Studios self-healing extraction
+        studios = []
+        studios_span = soup.find("span", class_="dark_text", string=re.compile(r"^\s*Studios\s*:?\s*$"))
+        if not studios_span:
+            studios_span = soup.find("span", class_="dark_text", string=re.compile(r"^\s*Studio\s*:?\s*$"))
+        
+        if studios_span and studios_span.parent:
+            for link in studios_span.parent.find_all("a", href=True):
+                match = re.search(r"/anime/producer/(\d+)/", link["href"])
+                if match:
+                    try:
+                        studio_id = int(match.group(1))
+                        studio_name = link.get_text(strip=True)
+                        studios.append(studio_id)
+                        
+                        studio_id_str = str(studio_id)
+                        if "studios" not in self.metadata:
+                            self.metadata["studios"] = {}
+                        if studio_id_str not in self.metadata["studios"]:
+                            self.metadata["studios"][studio_id_str] = studio_name
+                            print(f"[MAL] 🆕 Yeni stüdyo metadata'ya eklendi: {studio_name} (ID: {studio_id})")
+                    except (ValueError, IndexError):
+                        continue
 
         # ── Relations ──
         relations = self._parse_relations(soup)

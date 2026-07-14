@@ -48,6 +48,40 @@ VALID_EPISODE_PATTERN = re.compile(r'(\d+)\.\s*[Bb]ölüm')
 class EpisodeScraper:
     """Türkanime bölüm/video çekici, çakışma çözücü, Jikan eşleştirme ve AniSkip motoru."""
 
+    def __init__(self, metadata: dict = None):
+        self.metadata = metadata if metadata is not None else {"genres": {}, "studios": {}, "fansubs": {}}
+
+    def _get_or_create_fansub_id(self, name: str) -> int:
+        """Fansub ismini metadata'da sorgular, yoksa yeni ID ile ekler."""
+        if not name:
+            name = "Bilinmeyen"
+        name_clean = name.strip()
+        name_lower = name_clean.lower()
+        
+        # Büyük/küçük harf duyarsız arama (hem dict hem düz string formatını destekler)
+        for fs_id_str, fs_data in self.metadata.get("fansubs", {}).items():
+            if isinstance(fs_data, dict):
+                fs_name = fs_data.get("name", "")
+            else:
+                fs_name = str(fs_data)
+                
+            if fs_name.lower() == name_lower:
+                return int(fs_id_str)
+        
+        # Mevcut en büyük ID'yi bul ve +1 ekle
+        existing_ids = [int(k) for k in self.metadata.get("fansubs", {}).keys() if k.isdigit()]
+        new_id = max(existing_ids) + 1 if existing_ids else 1
+        
+        if "fansubs" not in self.metadata:
+            self.metadata["fansubs"] = {}
+            
+        self.metadata["fansubs"][str(new_id)] = {
+            "name": name_clean,
+            "url": ""
+        }
+        print(f"[Episodes] 🆕 Yeni fansub tanımlandı: {name_clean} (ID: {new_id})")
+        return new_id
+
     @staticmethod
     def fetch_skip_times(mal_id: int, ep_number: int) -> dict | None:
         """
@@ -288,8 +322,9 @@ class EpisodeScraper:
                     video_url = None
 
                 if video_url:
+                    fansub_id = self._get_or_create_fansub_id(video.fansub)
                     ep_data["videos"].append({
-                        "fansub": video.fansub,
+                        "fansub_id": fansub_id,
                         "player": video.player,
                         "url": video_url,
                     })

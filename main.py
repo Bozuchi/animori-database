@@ -68,8 +68,8 @@ def main():
     print("\n🔍 ADIM 2: Jikan API ile zenginleştirme ve kaydetme...")
     print("-" * 40)
 
-    jikan = JikanEnricher()
     storage = StorageManager()
+    jikan = JikanEnricher(metadata=storage.metadata)
 
     toplam = len(turkanime_data)
     islenen = 0
@@ -184,8 +184,9 @@ def main():
 
         storage.save_anime_detail(slug, tk_data, jikan_data)
 
-    # Slug haritasını kaydet (ADIM 2 sonrası)
+    # Slug haritasını ve metadata'yı kaydet (ADIM 2 sonrası)
     storage.save_slug_map()
+    storage.save_metadata()
 
     # ─────────────────────────────────────────────
     # ADIM 2.5: Bölüm & Video Çekimi (Delta Güncelleme)
@@ -196,7 +197,7 @@ def main():
         print("\n🎬 ADIM 2.5: Bölüm ve video verileri çekiliyor...")
         print("-" * 40)
 
-    ep_scraper = EpisodeScraper()
+    ep_scraper = EpisodeScraper(metadata=storage.metadata)
     islenen_ep = 0
 
     for slug, tk_data in turkanime_data.items():
@@ -247,8 +248,9 @@ def main():
             bolum_bos += 1
             print(f"{progress} 📭 {tk_data['isim']} — Bölüm bulunamadı.")
 
-    # Slug haritasını kaydet (ADIM 2.5 sonrası)
+    # Slug haritasını ve güncel metadata'yı kaydet (ADIM 2.5 sonrası)
     storage.save_slug_map()
+    storage.save_metadata()
 
     # ─────────────────────────────────────────────
     # ADIM 3: İndeks ve Versiyon Güncelleme

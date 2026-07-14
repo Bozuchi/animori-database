@@ -4,6 +4,8 @@ storage_manager.py — Dosya ve Klasör Yöneticisi
 Çekilen anime verilerini statik JSON dosyaları olarak organize eder:
     - api/anime/{mal_id}.json  → Her anime için detaylı veri (Jikan'da yoksa {slug}.json)
     - api/animes.json        → Hafifletilmiş indeks (vitrin için)
+    - api/metadata.json      → Ortak metadata (türler, stüdyolar ve fansublar)
+    - api/slug_map.json      → Hızlı arama için slug -> dosya adı haritası
     - api/version.json       → Son güncelleme bilgisi
 """
 
@@ -19,6 +21,7 @@ class StorageManager:
         self.base_dir = base_dir
         self.anime_dir = os.path.join(base_dir, "anime")
         self.slug_map_path = os.path.join(base_dir, "slug_map.json")
+        self.metadata_path = os.path.join(base_dir, "metadata.json")
 
         # Klasörleri oluştur
         os.makedirs(self.anime_dir, exist_ok=True)
@@ -26,6 +29,33 @@ class StorageManager:
         # Hızlı arama için slug -> dosya_adi haritası
         self.slug_to_file = {}
         self._load_slug_map()
+        self.metadata = self._load_metadata()
+
+    def _load_metadata(self) -> dict:
+        """metadata.json dosyasını yükler."""
+        if os.path.exists(self.metadata_path):
+            try:
+                with open(self.metadata_path, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                    if "genres" not in data:
+                        data["genres"] = {}
+                    if "studios" not in data:
+                        data["studios"] = {}
+                    if "fansubs" not in data:
+                        data["fansubs"] = {}
+                    return data
+            except Exception as e:
+                print(f"[Storage] ⚠️  metadata.json okunamadı: {e}")
+        return {"genres": {}, "studios": {}, "fansubs": {}}
+
+    def save_metadata(self):
+        """metadata.json dosyasını diske kaydeder."""
+        try:
+            with open(self.metadata_path, "w", encoding="utf-8") as f:
+                json.dump(self.metadata, f, ensure_ascii=False, indent=4)
+            print(f"[Storage] 💾 metadata.json güncellendi.")
+        except Exception as e:
+            print(f"[Storage] ❌ metadata.json kaydedilemedi: {e}")
 
     def _load_slug_map(self):
         """
