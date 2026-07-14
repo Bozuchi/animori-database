@@ -12,6 +12,7 @@ storage_manager.py — Dosya ve Klasör Yöneticisi
 import os
 import json
 from datetime import datetime
+from logger import setup_logger
 
 
 class StorageManager:
@@ -22,6 +23,7 @@ class StorageManager:
         self.anime_dir = os.path.join(base_dir, "anime")
         self.slug_map_path = os.path.join(base_dir, "slug_map.json")
         self.metadata_path = os.path.join(base_dir, "metadata.json")
+        self.logger = setup_logger("Storage")
 
         # Klasörleri oluştur
         os.makedirs(self.anime_dir, exist_ok=True)
@@ -45,7 +47,7 @@ class StorageManager:
                         data["fansubs"] = {}
                     return data
             except Exception as e:
-                print(f"[Storage] ⚠️  metadata.json okunamadı: {e}")
+                self.logger.warning(f"metadata.json okunamadı: {e}")
         return {"genres": {}, "studios": {}, "fansubs": {}}
 
     def save_metadata(self):
@@ -53,9 +55,9 @@ class StorageManager:
         try:
             with open(self.metadata_path, "w", encoding="utf-8") as f:
                 json.dump(self.metadata, f, ensure_ascii=False, indent=4)
-            print(f"[Storage] 💾 metadata.json güncellendi.")
+            self.logger.info("💾 metadata.json güncellendi.")
         except Exception as e:
-            print(f"[Storage] ❌ metadata.json kaydedilemedi: {e}")
+            self.logger.error(f"metadata.json kaydedilemedi: {e}")
 
     def _load_slug_map(self):
         """
@@ -68,13 +70,13 @@ class StorageManager:
             try:
                 with open(self.slug_map_path, "r", encoding="utf-8") as f:
                     self.slug_to_file = json.load(f)
-                print(f"[Storage] ✅ slug_map.json yüklendi. ({len(self.slug_to_file)} anime)")
+                self.logger.info(f"✅ slug_map.json yüklendi. ({len(self.slug_to_file)} anime)")
                 return
-            except Exception:
-                pass
+            except Exception as e:
+                self.logger.warning(f"slug_map.json parse hatası, tam taramaya geçiliyor: {e}")
 
         # slug_map.json yoksa veya bozuksa, tüm dosyaları tarayarak oluştur
-        print("[Storage] ⏳ slug_map.json bulunamadı, anime dosyaları taranıyor...")
+        self.logger.info("⏳ slug_map.json bulunamadı, anime dosyaları taranıyor...")
         if not os.path.exists(self.anime_dir):
             return
 
@@ -87,12 +89,13 @@ class StorageManager:
                         slug = data.get("turkanime", {}).get("slug") or data.get("slug")
                         if slug:
                             self.slug_to_file[slug] = filename
-                except Exception:
+                except Exception as e:
+                    self.logger.warning(f"Anime dosyası okunamadı ({filename}): {e}")
                     continue
 
         # Tarama sonucunu kaydet (bir sonraki çalıştırmada hızlı yüklensin)
         self._save_slug_map()
-        print(f"[Storage] ✅ slug_map.json oluşturuldu. ({len(self.slug_to_file)} anime)")
+        self.logger.info(f"✅ slug_map.json oluşturuldu. ({len(self.slug_to_file)} anime)")
 
     def _save_slug_map(self):
         """slug_to_file haritasını slug_map.json'a kaydeder."""
@@ -100,7 +103,7 @@ class StorageManager:
             with open(self.slug_map_path, "w", encoding="utf-8") as f:
                 json.dump(self.slug_to_file, f, ensure_ascii=False)
         except Exception as e:
-            print(f"[Storage] ⚠️  slug_map.json kaydedilemedi: {e}")
+            self.logger.warning(f"slug_map.json kaydedilemedi: {e}")
 
     def save_slug_map(self):
         """slug_to_file haritasını diske kaydeder (dış kullanım için)."""
@@ -145,8 +148,12 @@ class StorageManager:
             if os.path.exists(old_filepath):
                 os.remove(old_filepath)
 
-        with open(filepath, "w", encoding="utf-8") as f:
-            json.dump(detail, f, ensure_ascii=False, indent=2)
+        try:
+            with open(filepath, "w", encoding="utf-8") as f:
+                json.dump(detail, f, ensure_ascii=False, indent=2)
+        except (IOError, OSError) as e:
+            self.logger.error(f"Anime detay dosyası kaydedilemedi ({slug}): {e}")
+            return
             
         # Hafızadaki haritayı güncelle
         self.slug_to_file[slug] = filename
@@ -173,7 +180,7 @@ class StorageManager:
             with open(filepath, "r", encoding="utf-8") as f:
                 return json.load(f)
         except (json.JSONDecodeError, IOError) as e:
-            print(f"[Storage] ⚠️  Dosya okunamadı: {filepath} — {e}")
+            self.logger.warning(f"Dosya okunamadı: {filepath} — {e}")
             return None
 
     def save_episodes(self, slug: str, episodes: list[dict]):
@@ -187,7 +194,7 @@ class StorageManager:
         """
         existing = self.load_anime_detail(slug)
         if existing is None:
-            print(f"[Storage] ⚠️  Episodes kaydedilemedi, anime dosyası bulunamadı: {slug}")
+            self.logger.warning(f"Episodes kaydedilemedi, anime dosyası bulunamadı: {slug}")
             return
 
         existing["episodes"] = episodes
@@ -195,8 +202,11 @@ class StorageManager:
         filename = self.slug_to_file.get(slug)
         if filename:
             filepath = os.path.join(self.anime_dir, filename)
-            with open(filepath, "w", encoding="utf-8") as f:
-                json.dump(existing, f, ensure_ascii=False, indent=2)
+            try:
+                with open(filepath, "w", encoding="utf-8") as f:
+                    json.dump(existing, f, ensure_ascii=False, indent=2)
+            except (IOError, OSError) as e:
+                self.logger.error(f"Episodes kaydedilemedi ({slug}): {e}")
 
     def build_index(self) -> int:
         """
@@ -274,10 +284,14 @@ class StorageManager:
 
         # İndeks dosyasını yaz
         index_path = os.path.join(self.base_dir, "animes.json")
-        with open(index_path, "w", encoding="utf-8") as f:
-            json.dump(index, f, ensure_ascii=False, indent=2)
+        try:
+            with open(index_path, "w", encoding="utf-8") as f:
+                json.dump(index, f, ensure_ascii=False, indent=2)
+        except (IOError, OSError) as e:
+            self.logger.error(f"animes.json kaydedilemedi: {e}")
+            return 0
 
-        print(f"[Storage] ✅ animes.json oluşturuldu. ({len(index)} anime)")
+        self.logger.info(f"✅ animes.json oluşturuldu. ({len(index)} anime)")
         return len(index)
 
     def update_version(self, total_anime: int):
@@ -299,7 +313,11 @@ class StorageManager:
         }
 
         version_path = os.path.join(self.base_dir, "version.json")
-        with open(version_path, "w", encoding="utf-8") as f:
-            json.dump(version, f, ensure_ascii=False, indent=2)
+        try:
+            with open(version_path, "w", encoding="utf-8") as f:
+                json.dump(version, f, ensure_ascii=False, indent=2)
+        except (IOError, OSError) as e:
+            self.logger.error(f"version.json kaydedilemedi: {e}")
+            return
 
-        print(f"[Storage] ✅ version.json güncellendi. ({version['last_updated']})")
+        self.logger.info(f"✅ version.json güncellendi. ({version['last_updated']})")

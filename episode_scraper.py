@@ -19,6 +19,9 @@ import time
 from difflib import SequenceMatcher
 
 import requests
+from logger import setup_logger
+
+_logger = setup_logger("Episodes")
 
 from turkanime_api import Anime as TurkanimeAnime
 
@@ -50,6 +53,7 @@ class EpisodeScraper:
 
     def __init__(self, metadata: dict = None):
         self.metadata = metadata if metadata is not None else {"genres": {}, "studios": {}, "fansubs": {}}
+        self.logger = _logger
 
     def _get_or_create_fansub_id(self, name: str) -> int:
         """Fansub ismini metadata'da sorgular, yoksa yeni ID ile ekler."""
@@ -79,7 +83,7 @@ class EpisodeScraper:
             "name": name_clean,
             "url": ""
         }
-        print(f"[Episodes] 🆕 Yeni fansub tanımlandı: {name_clean} (ID: {new_id})")
+        self.logger.info(f"🆕 Yeni fansub tanımlandı: {name_clean} (ID: {new_id})")
         return new_id
 
     @staticmethod
@@ -108,8 +112,7 @@ class EpisodeScraper:
                 
                 # 429 Rate Limit Kontrolü
                 if resp.status_code == 429:
-                    import time
-                    print(f"[Episodes] ⚠️  AniSkip Rate Limit aşıldı (Deneme {attempt + 1}/{max_retries}). {retry_delay}s bekleniyor...")
+                    _logger.warning(f"AniSkip Rate Limit aşıldı (Deneme {attempt + 1}/{max_retries}). {retry_delay}s bekleniyor...")
                     time.sleep(retry_delay)
                     retry_delay *= 2
                     continue
@@ -119,8 +122,7 @@ class EpisodeScraper:
                 break
                 
             except requests.exceptions.Timeout:
-                import time
-                print(f"[Episodes] ⏱️  AniSkip Timeout hatası (Deneme {attempt + 1}/{max_retries}).")
+                _logger.warning(f"AniSkip Timeout hatası (Deneme {attempt + 1}/{max_retries}).")
                 time.sleep(retry_delay)
                 retry_delay *= 2
                 continue
@@ -128,10 +130,10 @@ class EpisodeScraper:
                 # 404 (Bulunamadı) durumu gayet normaldir, atlanabilir.
                 if getattr(e.response, 'status_code', None) == 404:
                     return None
-                print(f"[Episodes] ⚠️  AniSkip API Bağlantı Hatası (mal_id: {mal_id}, ep: {ep_number}): {e}")
+                _logger.warning(f"AniSkip API Bağlantı Hatası (mal_id: {mal_id}, ep: {ep_number}): {e}")
                 return None
             except Exception as e:
-                print(f"[Episodes] ⚠️  AniSkip Beklenmeyen Hata: {e}")
+                _logger.warning(f"AniSkip Beklenmeyen Hata: {e}")
                 return None
 
         if not data or not data.get("found") or not data.get("results"):
@@ -219,8 +221,8 @@ class EpisodeScraper:
             # Bilgilendirme logu
             winner_title = titles[winner_idx]
             loser_titles = [titles[idx] for idx, _ in scored if idx != winner_idx]
-            print(
-                f"[Episodes]   ⚔️  Çakışma çözüldü (Bölüm {ep_num}): "
+            _logger.info(
+                f"⚔️  Çakışma çözüldü (Bölüm {ep_num}): "
                 f"Kazanan='{winner_title}' | Kaybeden(ler)={loser_titles}"
             )
 
@@ -277,13 +279,13 @@ class EpisodeScraper:
             anime_obj = TurkanimeAnime(slug, parse_fansubs=True)
             bolumler = anime_obj.bolumler
         except Exception as e:
-            print(f"[Episodes] ⚠️  Bölüm listesi alınamadı ({slug}): {e}")
+            self.logger.warning(f"Bölüm listesi alınamadı ({slug}): {e}")
             return []
 
         if not bolumler:
             return []
 
-        print(f"[Episodes]   📋 {len(bolumler)} bölüm bulundu. (Mevcut: {len(existing_episodes_map)})")
+        self.logger.info(f"📋 {len(bolumler)} bölüm bulundu. (Mevcut: {len(existing_episodes_map)})")
 
         episodes = []
         for idx, bolum in enumerate(bolumler, 1):
@@ -307,7 +309,7 @@ class EpisodeScraper:
             try:
                 videos = bolum.videos
             except Exception as e:
-                print(f"[Episodes]   ⚠️  Videolar alınamadı ({bolum.slug}): {e}")
+                self.logger.warning(f"Videolar alınamadı ({bolum.slug}): {e}")
                 episodes.append(ep_data)
                 continue
 
@@ -318,7 +320,8 @@ class EpisodeScraper:
 
                 try:
                     video_url = video.url  # Lazy: HTTP + AES decryption
-                except Exception:
+                except Exception as e:
+                    self.logger.warning(f"Video URL çözümlenemedi ({video.player}): {e}")
                     video_url = None
 
                 if video_url:
@@ -335,7 +338,7 @@ class EpisodeScraper:
 
             # Her 10 bölümde bir ilerleme bildir
             if idx % 10 == 0:
-                print(f"[Episodes]   ⏳ {idx}/{len(bolumler)} bölüm işlendi...")
+                self.logger.info(f"⏳ {idx}/{len(bolumler)} bölüm işlendi...")
 
             time.sleep(TURKANIME_DELAY)
 
@@ -461,7 +464,7 @@ class EpisodeScraper:
         if mal_id is not None:
             jikan_episodes = jikan.fetch_episodes(mal_id)
             if jikan_episodes:
-                print(f"[Episodes]   📖 Jikan'dan {len(jikan_episodes)} bölüm bilgisi alındı.")
+                self.logger.info(f"📖 Jikan'dan {len(jikan_episodes)} bölüm bilgisi alındı.")
 
         # 3. Eşleştirme, çakışma çözümleme ve birleştirme
         episodes = self.build_episode_list(turkanime_episodes, jikan_episodes, anime_name)
@@ -485,6 +488,6 @@ class EpisodeScraper:
                 time.sleep(0.1)
 
             if aniskip_count:
-                print(f"[Episodes]   ⏭️  AniSkip'ten {aniskip_count} bölüm için OP/ED süresi alındı.")
+                self.logger.info(f"⏭️  AniSkip'ten {aniskip_count} bölüm için OP/ED süresi alındı.")
 
         return episodes

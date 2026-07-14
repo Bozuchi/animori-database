@@ -14,7 +14,7 @@ Endpoints (HTML scrape):
 
 import requests
 import time
-import logging
+from logger import setup_logger
 import re
 import json
 import os
@@ -45,8 +45,7 @@ class MalHtmlEnricher:
     """MyAnimeList HTML scraper — JikanEnricher ile birebir aynı arayüz."""
 
     def __init__(self, error_log_path: str = "errors.log", mappings_path: str = "manual_mappings.json", metadata: dict = None):
-        self.error_log_path = error_log_path
-        self._setup_error_logger()
+        self.logger = setup_logger("MAL")
         self.manual_mappings = self._load_manual_mappings(mappings_path)
         self.session = requests.Session()
         self.session.headers.update(HEADERS)
@@ -71,7 +70,7 @@ class MalHtmlEnricher:
                         data["fansubs"] = {}
                     return data
             except Exception as e:
-                print(f"[MAL] ⚠️  Yedek metadata.json okunamadı: {e}")
+                self.logger.warning(f"Yedek metadata.json okunamadı: {e}")
         return {"genres": {}, "studios": {}, "fansubs": {}}
 
     def _load_manual_mappings(self, path: str) -> dict:
@@ -84,25 +83,12 @@ class MalHtmlEnricher:
                 # _comment gibi string değerli anahtarları filtrele, sadece int mal_id'leri al
                 return {k: v for k, v in data.items() if isinstance(v, int)}
         except Exception as e:
-            print(f"[MAL] ⚠️  manual_mappings.json okunamadı: {e}")
+            self.logger.warning(f"manual_mappings.json okunamadı: {e}")
             return {}
 
-    def _setup_error_logger(self):
-        """Hata kayıtları için dosya logger'ları oluşturur."""
-        self.error_logger = logging.getLogger("mal_scraper_errors")
-        self.error_logger.setLevel(logging.ERROR)
-
-        if not self.error_logger.handlers:
-            handler = logging.FileHandler(self.error_log_path, encoding="utf-8")
-            handler.setFormatter(
-                logging.Formatter("%(asctime)s — %(message)s", datefmt="%Y-%m-%d %H:%M:%S")
-            )
-            self.error_logger.addHandler(handler)
-
     def _log_error(self, message: str):
-        """Konsola yazdırır ve errors.log dosyasına kaydeder."""
-        print(f"[MAL] ❌ {message}")
-        self.error_logger.error(message)
+        """Hata mesajını logger üzerinden kaydeder."""
+        self.logger.error(message)
 
     def _request_with_retry(self, url: str) -> str | None:
         """
@@ -120,31 +106,23 @@ class MalHtmlEnricher:
 
                 if response.status_code in (429, 403):
                     wait_time = RETRY_BACKOFF * (attempt + 1)
-                    print(
-                        f"[MAL] ⏳ HTTP {response.status_code}! "
-                        f"{wait_time}s bekleniyor... (Deneme {attempt + 1}/{RETRY_MAX})"
-                    )
+                    self.logger.warning(f"HTTP {response.status_code}! {wait_time}s bekleniyor... (Deneme {attempt + 1}/{RETRY_MAX})")
                     time.sleep(wait_time)
                     continue
 
                 # Diğer HTTP hataları
-                print(f"[MAL] ⚠️  HTTP {response.status_code}: {url}")
+                self.logger.warning(f"HTTP {response.status_code}: {url}")
                 return None
 
             except requests.exceptions.Timeout:
-                print(
-                    f"[MAL] ⏱️  Timeout hatası "
-                    f"(Deneme {attempt + 1}/{RETRY_MAX}): {url}"
-                )
+                self.logger.warning(f"Timeout hatası (Deneme {attempt + 1}/{RETRY_MAX}): {url}")
                 time.sleep(3)
 
             except requests.exceptions.RequestException as e:
-                print(
-                    f"[MAL] ⚠️  Bağlantı hatası "
-                    f"(Deneme {attempt + 1}/{RETRY_MAX}): {e}"
-                )
+                self.logger.warning(f"Bağlantı hatası (Deneme {attempt + 1}/{RETRY_MAX}): {e}")
                 time.sleep(3)
 
+        self.logger.error(f"Tüm denemeler başarısız ({RETRY_MAX}x): {url}")
         return None
 
     # ─────────────────────────────────────────────
@@ -229,19 +207,15 @@ class MalHtmlEnricher:
         for i, part in enumerate(parts[:2]):
             if part == "?" or not part:
                 continue
-            try:
-                from datetime import datetime
-                # MAL formatı: "Feb 15, 2007" veya "2007" gibi
-                for fmt in ("%b %d, %Y", "%b, %Y", "%Y"):
-                    try:
-                        dt = datetime.strptime(part, fmt)
-                        key = "from" if i == 0 else "to"
-                        result[key] = dt.strftime("%Y-%m-%dT00:00:00+00:00")
-                        break
-                    except ValueError:
-                        continue
-            except Exception:
-                continue
+            from datetime import datetime
+            for fmt in ("%b %d, %Y", "%b, %Y", "%Y"):
+                try:
+                    dt = datetime.strptime(part, fmt)
+                    key = "from" if i == 0 else "to"
+                    result[key] = dt.strftime("%Y-%m-%dT00:00:00+00:00")
+                    break
+                except ValueError:
+                    continue
 
         return result
 
@@ -514,7 +488,7 @@ class MalHtmlEnricher:
                             self.metadata["studios"] = {}
                         if studio_id_str not in self.metadata["studios"]:
                             self.metadata["studios"][studio_id_str] = studio_name
-                            print(f"[MAL] 🆕 Yeni stüdyo metadata'ya eklendi: {studio_name} (ID: {studio_id})")
+                            self.logger.info(f"🆕 Yeni stüdyo metadata'ya eklendi: {studio_name} (ID: {studio_id})")
                     except (ValueError, IndexError):
                         continue
 
@@ -645,7 +619,7 @@ class MalHtmlEnricher:
         # Adım 0: Manuel eşleştirme kontrolü (öncelikli)
         manual_mal_id = self.manual_mappings.get(slug)
         if manual_mal_id:
-            print(f"[MAL] 📌 Manuel eşleştirme kullanılıyor: {name} -> mal_id: {manual_mal_id}")
+            self.logger.info(f"📌 Manuel eşleştirme kullanılıyor: {name} -> mal_id: {manual_mal_id}")
             time.sleep(RATE_LIMIT_DELAY)
             details = self.get_full_details(manual_mal_id)
             if details is None:

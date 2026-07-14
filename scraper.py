@@ -12,26 +12,14 @@ from turkanime_api import Anime as TurkanimeAnime
 import re
 import time
 import html
-import logging
+from logger import setup_logger
 
 class TurkanimeScraper:
     """Türkanime arşivini tarayarak anime verilerini toplayan kazıyıcı sınıf."""
 
-    def __init__(self, error_log_path: str = "errors.log"):
+    def __init__(self):
         self.animeler: dict[str, dict] = {}
-        self._setup_error_logger(error_log_path)
-
-    def _setup_error_logger(self, log_path: str):
-        """Hata kayıtları için dosya logger'ı oluşturur."""
-        self.error_logger = logging.getLogger("scraper_errors")
-        self.error_logger.setLevel(logging.ERROR)
-
-        if not self.error_logger.handlers:
-            handler = logging.FileHandler(log_path, encoding="utf-8")
-            handler.setFormatter(
-                logging.Formatter("%(asctime)s — %(message)s", datefmt="%Y-%m-%d %H:%M:%S")
-            )
-            self.error_logger.addHandler(handler)
+        self.logger = setup_logger("Scraper")
 
     def _parse_blok(self, blok: str) -> tuple[str, dict] | None:
         """Tek bir anime panel bloğunu parse ederek (slug, veri) döndürür."""
@@ -69,9 +57,9 @@ class TurkanimeScraper:
         Returns:
             dict: slug -> {isim, puan, bolum_durumu, ozet} şeklinde sözlük.
         """
-        print(f"[Scraper] Hedef Sunucu: {bypass.BASE_URL}")
-        print("[Scraper] Türkanime arşivi sayfa sayfa taranıyor...")
-        print("[Scraper] Lütfen bitene kadar kapatmayın...\n")
+        self.logger.info(f"Hedef Sunucu: {bypass.BASE_URL}")
+        self.logger.info("Türkanime arşivi sayfa sayfa taranıyor...")
+        self.logger.info("Lütfen bitene kadar kapatmayın...")
 
         sayfa_sayisi = 1
         toplam_sorgu = 0
@@ -91,11 +79,11 @@ class TurkanimeScraper:
                     break  # Başarılı olursa döngüden çık
                 except Exception as e:
                     retry_count += 1
-                    print(f"[Scraper] ⚠️  Bağlantı Hatası (Sayfa {sayfa_sayisi} - Deneme {retry_count}/{max_retries}): {e}")
+                    self.logger.warning(f"Bağlantı Hatası (Sayfa {sayfa_sayisi} - Deneme {retry_count}/{max_retries}): {e}")
                     time.sleep(2)
             
             if page_html is None:
-                print(f"[Scraper] ❌ Sayfa {sayfa_sayisi} çok fazla hata verdi, atlanıyor...")
+                self.logger.error(f"Sayfa {sayfa_sayisi} çok fazla hata verdi, atlanıyor...")
                 break # Veya duruma göre 'sayfa_sayisi += 1; continue' yapılabilir. Döngüyü kırmak şimdilik daha güvenli.
 
             # Sayfayı her bir animeyi barındıran "panel" kutucuklarına böl
@@ -119,20 +107,20 @@ class TurkanimeScraper:
                 self.animeler[slug] = veri
                 yeni_eklenen += 1
 
-            print(
-                f"[Scraper] Sayfa {sayfa_sayisi} tarandı. "
+            self.logger.info(
+                f"Sayfa {sayfa_sayisi} tarandı. "
                 f"+{yeni_eklenen} anime. (Toplam: {len(self.animeler)})"
             )
 
             if yeni_eklenen == 0:
-                print("[Scraper] Yeni anime bulunamadı, sayfa sonuna ulaşıldı.")
+                self.logger.info("Yeni anime bulunamadı, sayfa sonuna ulaşıldı.")
                 break
 
             sayfa_sayisi += 1
             time.sleep(0.2)
 
-        print(
-            f"\n[Scraper] ✅ Tarama tamamlandı! "
+        self.logger.info(
+            f"✅ Tarama tamamlandı! "
             f"Toplam {len(self.animeler)} anime bulundu. "
             f"({toplam_sorgu} sayfa sorgusu yapıldı)"
         )
@@ -154,7 +142,7 @@ class TurkanimeScraper:
         try:
             return TurkanimeAnime(slug)
         except Exception as e:
-            print(f"[Scraper] ⚠️  Anime objesi oluşturulamadı ({slug}): {e}")
+            self.logger.warning(f"Anime objesi oluşturulamadı ({slug}): {e}")
             return None
 
     def fetch_full_ozet(self, slug: str, anime_obj=None) -> str:
@@ -186,8 +174,7 @@ class TurkanimeScraper:
             return ozet.strip() if ozet else ""
         except Exception as e:
             error_msg = f"Tam özet alınamadı ({slug}): {e}"
-            print(f"[Scraper] ⚠️  {error_msg}")
-            self.error_logger.error(f"[Scraper] {error_msg}")
+            self.logger.error(error_msg)
             return None
 
     def fetch_mal_id(self, slug: str, anime_obj=None) -> int | None:
@@ -212,7 +199,7 @@ class TurkanimeScraper:
             anime_id = anime_obj.anime_id
 
             if not anime_id:
-                print(f"[Scraper] ⚠️  anime_id alınamadı ({slug})")
+                self.logger.warning(f"anime_id alınamadı ({slug})")
                 return None
 
             # Dış bağlantılar sekmesini çek
@@ -225,11 +212,9 @@ class TurkanimeScraper:
                 return int(mal_match.group(1))
 
             # MAL linki bulunamadı
-            print(f"[Scraper] ⚠️  MAL linki bulunamadı ({slug})")
+            self.logger.warning(f"MAL linki bulunamadı ({slug})")
             return None
 
         except Exception as e:
-            error_msg = f"MAL ID alınamadı ({slug}): {e}"
-            print(f"[Scraper] ⚠️  {error_msg}")
-            self.error_logger.error(f"[Scraper] {error_msg}")
+            self.logger.error(f"MAL ID alınamadı ({slug}): {e}")
             return None
