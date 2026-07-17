@@ -19,6 +19,29 @@ import sys
 _initialized = False
 
 
+class _ColoredFormatter(logging.Formatter):
+    """Log seviyesine göre ANSI renk kodları uygulayan formatter."""
+
+    RESET = "\033[0m"
+    COLORS = {
+        logging.DEBUG:    "\033[90m",       # Gri
+        logging.INFO:     "",               # Varsayılan (renksiz)
+        logging.WARNING:  "\033[33m",       # Sarı
+        logging.ERROR:    "\033[31m",       # Kırmızı
+        logging.CRITICAL: "\033[1;31m",     # Kalın Kırmızı
+    }
+
+    def __init__(self, fmt: str, datefmt: str = None):
+        super().__init__(fmt, datefmt=datefmt)
+
+    def format(self, record: logging.LogRecord) -> str:
+        color = self.COLORS.get(record.levelno, "")
+        message = super().format(record)
+        if color:
+            return f"{color}{message}{self.RESET}"
+        return message
+
+
 def setup_logger(name: str, error_log_path: str = "errors.log") -> logging.Logger:
     """
     Modül bazlı logger oluşturur.
@@ -40,10 +63,10 @@ def setup_logger(name: str, error_log_path: str = "errors.log") -> logging.Logge
     if logger.handlers:
         return logger
 
-    # ── Konsol handler (INFO ve üstü) ──
+    # ── Konsol handler (INFO ve üstü, renkli) ──
     console = logging.StreamHandler(sys.stdout)
     console.setLevel(logging.INFO)
-    console.setFormatter(logging.Formatter(
+    console.setFormatter(_ColoredFormatter(
         "%(asctime)s [%(name)s] %(levelname)s — %(message)s",
         datefmt="%H:%M:%S"
     ))
