@@ -110,9 +110,9 @@ class EpisodeScraper:
             try:
                 resp = requests.get(url, params=params, timeout=10)
                 
-                # 429 Rate Limit Kontrolü
-                if resp.status_code == 429:
-                    _logger.warning(f"AniSkip Rate Limit aşıldı (Deneme {attempt + 1}/{max_retries}). {retry_delay}s bekleniyor...")
+                # 429 Rate Limit / 500 Server Error → bekle ve tekrar dene
+                if resp.status_code in (429, 500):
+                    _logger.warning(f"AniSkip HTTP {resp.status_code} (Deneme {attempt + 1}/{max_retries}). {retry_delay}s bekleniyor...")
                     time.sleep(retry_delay)
                     retry_delay *= 2
                     continue
@@ -485,7 +485,7 @@ class EpisodeScraper:
                 ep["skip_times"] = skip_times
                 if skip_times:
                     aniskip_count += 1
-                time.sleep(0.1)
+                time.sleep(0.2)
 
             if aniskip_count:
                 self.logger.info(f"⏭️  AniSkip'ten {aniskip_count} bölüm için OP/ED süresi alındı.")
