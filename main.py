@@ -8,7 +8,7 @@ Akış:
     2. Her anime için Jikan API ile zenginleştir (mal_scraper.py)
     2.5. Bölüm & Video çekimi — delta güncelleme (episode_scraper.py)
     3. JSON dosyalarını oluştur/güncelle (storage_manager.py)
-    4. İndeks ve versiyon dosyalarını güncelle
+       - İndeks (animes.json), versiyon (version.json), son eklenen bölümler (latest_episodes.json)
 
 Akıllı Güncelleme:
     - Türkanime'den gelen bolum_durumu bilgisi değişmediği sürece dosya güncellenmez.
@@ -272,7 +272,7 @@ def main():
             episodes = ep_scraper.scrape_episodes(slug, mal_id, jikan, existing_episodes, anime_name=tk_data['isim'])
 
             if episodes:
-                storage.save_episodes(slug, episodes)
+                storage.save_episodes(slug, episodes, mal_id=mal_id)
                 stats["bolum_taranan"] += 1
                 logger.info(f"{progress} ✅ {tk_data['isim']} — {len(episodes)} bölüm kaydedildi.")
             else:
@@ -284,12 +284,13 @@ def main():
         storage.save_metadata()
 
         # ─────────────────────────────────────────────
-        # ADIM 3: İndeks ve Versiyon Güncelleme
+        # ADIM 3: İndeks, Versiyon ve Latest Episodes Güncelleme
         # ─────────────────────────────────────────────
-        logger.info("📦 ADIM 3: İndeks ve versiyon dosyaları oluşturuluyor...")
+        logger.info("📦 ADIM 3: İndeks, versiyon ve latest episodes dosyaları oluşturuluyor...")
 
         total_in_index = storage.build_index()
         storage.update_version(total_in_index)
+        storage.update_latest_episodes()
         stats["index_toplam"] = total_in_index
 
     except KeyboardInterrupt:

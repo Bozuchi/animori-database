@@ -7,6 +7,7 @@ storage_manager.py — Dosya ve Klasör Yöneticisi
     - api/metadata.json      → Ortak metadata (türler, stüdyolar ve fansublar)
     - api/slug_map.json      → Hızlı arama için slug -> dosya adı haritası
     - api/version.json       → Son güncelleme bilgisi
+    - api/latest_episodes.json → Son eklenen bölümlerin listesi (en yeniden eskiye, max 100)
 """
 
 import os
@@ -18,11 +19,15 @@ from logger import setup_logger
 class StorageManager:
     """Statik JSON API dosyalarını yöneten sınıf."""
 
+    # latest_episodes.json kapasite limiti
+    LATEST_EPISODES_LIMIT = 100
+
     def __init__(self, base_dir: str = "api"):
         self.base_dir = base_dir
         self.anime_dir = os.path.join(base_dir, "anime")
         self.slug_map_path = os.path.join(base_dir, "slug_map.json")
         self.metadata_path = os.path.join(base_dir, "metadata.json")
+        self.latest_episodes_path = os.path.join(base_dir, "latest_episodes.json")
         self.logger = setup_logger("Storage")
 
         # Klasörleri oluştur
@@ -32,6 +37,9 @@ class StorageManager:
         self.slug_to_file = {}
         self._load_slug_map()
         self.metadata = self._load_metadata()
+
+        # Bu oturumda yeni eklenen bölümleri biriktiren liste
+        self._newly_added_episodes: list[dict] = []
 
     def _load_metadata(self) -> dict:
         """metadata.json dosyasını yükler."""
@@ -183,19 +191,42 @@ class StorageManager:
             self.logger.warning(f"Dosya okunamadı: {filepath} — {e}")
             return None
 
-    def save_episodes(self, slug: str, episodes: list[dict]):
+    def save_episodes(self, slug: str, episodes: list[dict], mal_id: int | None = None):
         """
         Mevcut anime JSON dosyasına 'episodes' dizisini ekler/günceller.
         Mevcut turkanime ve jikan verilerini korur.
+        Yeni eklenen bölümleri _newly_added_episodes listesine biriktirir.
 
         Args:
             slug: Anime slug'ı.
             episodes: Bölüm verileri listesi.
+            mal_id: MyAnimeList anime ID'si (latest_episodes için).
         """
         existing = self.load_anime_detail(slug)
         if existing is None:
             self.logger.warning(f"Episodes kaydedilemedi, anime dosyası bulunamadı: {slug}")
             return
+
+        # ── Yeni bölümleri tespit et (latest_episodes için) ──
+        # Her anime için sadece en yüksek episode_number'ı tut
+        old_titles = set()
+        if existing.get("episodes"):
+            for ep in existing["episodes"]:
+                old_titles.add(ep.get("turkanime_title"))
+
+        best_new_ep = None
+        for ep in episodes:
+            title = ep.get("turkanime_title")
+            if title and title not in old_titles and ep.get("added_date"):
+                best_new_ep = {
+                    "mal_id": mal_id,
+                    "title": title,
+                    "episode_number": ep.get("episode_number"),
+                    "added_date": ep.get("added_date"),
+                }
+
+        if best_new_ep is not None:
+            self._newly_added_episodes.append(best_new_ep)
 
         existing["episodes"] = episodes
 
@@ -321,3 +352,73 @@ class StorageManager:
             return
 
         self.logger.info(f"✅ version.json güncellendi. ({version['last_updated']})")
+
+    def update_latest_episodes(self):
+        """
+        Bu oturumda yeni eklenen bölümleri latest_episodes.json dosyasına yazar.
+
+        Mantık:
+            1. Mevcut latest_episodes.json dosyasını oku (varsa)
+            2. Bu oturumda biriktirilen yeni bölümleri (_newly_added_episodes) ekle
+            3. added_date'e göre en yeniden eskiye doğru sırala
+            4. LATEST_EPISODES_LIMIT ile sınırlandır (varsayılan 100)
+            5. Dosyayı diske yaz
+
+        latest_episodes.json formatı:
+            [
+                {
+                    "mal_id": 1735,
+                    "title": "Naruto Shippuuden 12. Bölüm",
+                    "episode_number": 12,
+                    "added_date": "2026-07-17T02:15:00"
+                },
+                ...
+            ]
+        """
+        if not self._newly_added_episodes:
+            self.logger.info("ℹ️  Yeni bölüm eklenmedi, latest_episodes.json güncellenmedi.")
+            return
+
+        # 1. Mevcut dosyayı oku
+        existing_latest = []
+        if os.path.exists(self.latest_episodes_path):
+            try:
+                with open(self.latest_episodes_path, "r", encoding="utf-8") as f:
+                    existing_latest = json.load(f)
+            except (json.JSONDecodeError, IOError) as e:
+                self.logger.warning(f"latest_episodes.json okunamadı, sıfırdan oluşturulacak: {e}")
+                existing_latest = []
+
+        # 2. Yeni bölümleri ekle
+        merged = self._newly_added_episodes + existing_latest
+
+        # 3. added_date'e göre en yeniden eskiye sırala
+        merged.sort(key=lambda ep: ep.get("added_date", ""), reverse=True)
+
+        # 4. Her anime için sadece en son eklenen bölümü tut (mal_id bazında tekil)
+        seen_mal_ids = set()
+        unique_merged = []
+        for ep in merged:
+            mid = ep.get("mal_id")
+            if mid is not None and mid in seen_mal_ids:
+                continue
+            if mid is not None:
+                seen_mal_ids.add(mid)
+            unique_merged.append(ep)
+
+        # 5. Kapasite limiti uygula
+        unique_merged = unique_merged[:self.LATEST_EPISODES_LIMIT]
+
+        # 6. Diske yaz
+        try:
+            with open(self.latest_episodes_path, "w", encoding="utf-8") as f:
+                json.dump(unique_merged, f, ensure_ascii=False, indent=2)
+            self.logger.info(
+                f"✅ latest_episodes.json güncellendi. "
+                f"(+{len(self._newly_added_episodes)} anime, toplam {len(unique_merged)} kayıt)"
+            )
+        except (IOError, OSError) as e:
+            self.logger.error(f"latest_episodes.json kaydedilemedi: {e}")
+
+        # Biriktirme listesini temizle
+        self._newly_added_episodes.clear()

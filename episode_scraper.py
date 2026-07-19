@@ -16,6 +16,7 @@ AniSkip API'den OP/ED atlama sürelerini alır.
 
 import re
 import time
+from datetime import datetime
 from difflib import SequenceMatcher
 
 import requests
@@ -297,6 +298,7 @@ class EpisodeScraper:
                     "turkanime_title": bolum.title,
                     "videos": existing_ep.get("videos", []),
                     "skip_times": existing_ep.get("skip_times"),
+                    "added_date": existing_ep.get("added_date"),
                 })
                 continue
 
@@ -349,6 +351,7 @@ class EpisodeScraper:
         turkanime_episodes: list[dict],
         jikan_episodes: dict[int, dict],
         anime_name: str = "",
+        existing_episodes: list[dict] = None,
     ) -> list[dict]:
         """
         Türkanime bölümlerini Jikan verileriyle eşleştirerek nihai listeyi oluşturur.
@@ -388,6 +391,16 @@ class EpisodeScraper:
         ) if anime_name else set()
 
         # ── Adım 4: Nihai listeyi oluştur ──
+        # Mevcut bölümlerin added_date değerlerini korumak için harita oluştur
+        existing_dates = {}
+        if existing_episodes:
+            for ex_ep in existing_episodes:
+                ex_title = ex_ep.get("turkanime_title")
+                if ex_title and ex_ep.get("added_date"):
+                    existing_dates[ex_title] = ex_ep["added_date"]
+
+        now_iso = datetime.now().isoformat()
+
         result = []
         for i, ep in enumerate(turkanime_episodes):
             title = ep["turkanime_title"]
@@ -397,11 +410,20 @@ class EpisodeScraper:
             if i in excluded_indices:
                 ep_number = None
 
+            # added_date: mevcut bölümde varsa koru, yoksa (yeni bölüm) şu anki tarihi ata
+            # fetch_turkanime_episodes'tan gelen added_date'i de kontrol et
+            added_date = (
+                ep.get("added_date")
+                or existing_dates.get(title)
+                or now_iso
+            )
+
             entry = {
                 "turkanime_title": title,
                 "episode_number": ep_number,
                 "videos": ep["videos"],
                 "skip_times": ep.get("skip_times"),
+                "added_date": added_date,
             }
 
             # Eşleştirme: ep_number varsa ve Jikan verisinde bu numara mevcutsa
@@ -467,7 +489,7 @@ class EpisodeScraper:
                 self.logger.info(f"📖 Jikan'dan {len(jikan_episodes)} bölüm bilgisi alındı.")
 
         # 3. Eşleştirme, çakışma çözümleme ve birleştirme
-        episodes = self.build_episode_list(turkanime_episodes, jikan_episodes, anime_name)
+        episodes = self.build_episode_list(turkanime_episodes, jikan_episodes, anime_name, existing_episodes)
 
         # 4. Yeni bölümler için AniSkip'ten OP/ED atlama sürelerini çek
         if mal_id is not None:
