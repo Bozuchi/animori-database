@@ -12,6 +12,7 @@ storage_manager.py — Dosya ve Klasör Yöneticisi
 
 import os
 import json
+import hashlib
 from datetime import datetime
 from logger import setup_logger
 
@@ -325,33 +326,110 @@ class StorageManager:
         self.logger.info(f"✅ animes.json oluşturuldu. ({len(index)} anime)")
         return len(index)
 
-    def update_version(self, total_anime: int):
+    @staticmethod
+    def _compute_file_hash(filepath: str) -> str | None:
         """
-        version.json dosyasını günceller.
+        Dosyanın içeriğinin MD5 hash'inin ilk 8 karakterini döndürür.
+        Değişiklik tespiti amaçlıdır, kriptografik güvenlik gerektirmez.
+
+        Args:
+            filepath: Hash'i hesaplanacak dosyanın yolu.
+
+        Returns:
+            str: 8 karakterlik hash veya None (dosya yoksa).
+        """
+        if not os.path.exists(filepath):
+            return None
+        try:
+            with open(filepath, "rb") as f:
+                return hashlib.md5(f.read()).hexdigest()[:8]
+        except (IOError, OSError):
+            return None
+
+    def update_versions(self):
+        """
+        version.json dosyasını hash tabanlı değişiklik tespiti ile günceller.
+
+        Takip edilen dosyalar:
+            - animes.json     → İndeks
+            - metadata.json   → Ortak metadata (türler, stüdyolar, fansublar)
+            - latest_episodes.json → Son eklenen bölümler
+
+        Mantık:
+            - Her dosyanın MD5 hash'i hesaplanır (ilk 8 karakter)
+            - Hash değişmişse → last_updated güncellenir
+            - Hash aynıysa → eski last_updated korunur
+            - Sonuç version.json'a yazılır
 
         Yapı:
             {
-                "last_updated": "20260624_0015",
-                "total_anime": 5000
+                "animes": {
+                    "last_updated": "20260719_0337",
+                    "hash": "a1b2c3d4"
+                },
+                "metadata": {
+                    "last_updated": "20260719_0337",
+                    "hash": "e5f6g7h8"
+                },
+                "latest_episodes": {
+                    "last_updated": "20260719_0337",
+                    "hash": "i9j0k1l2"
+                }
             }
-
-        Args:
-            total_anime: Toplam anime sayısı.
         """
-        version = {
-            "last_updated": datetime.now().strftime("%Y%m%d_%H%M"),
-            "total_anime": total_anime,
+        version_path = os.path.join(self.base_dir, "version.json")
+        now_str = datetime.now().strftime("%Y%m%d_%H%M")
+
+        # Mevcut version.json'ı oku (varsa)
+        old_version = {}
+        if os.path.exists(version_path):
+            try:
+                with open(version_path, "r", encoding="utf-8") as f:
+                    old_version = json.load(f)
+            except (json.JSONDecodeError, IOError):
+                old_version = {}
+
+        # Takip edilecek dosyalar ve ek alanları
+        tracked_files = {
+            "animes": os.path.join(self.base_dir, "animes.json"),
+            "metadata": self.metadata_path,
+            "latest_episodes": self.latest_episodes_path,
         }
 
-        version_path = os.path.join(self.base_dir, "version.json")
+        new_version = {}
+        changed_keys = []
+
+        for key, filepath in tracked_files.items():
+            new_hash = self._compute_file_hash(filepath)
+            old_entry = old_version.get(key, {})
+            old_hash = old_entry.get("hash")
+
+            if new_hash is None:
+                # Dosya henüz oluşmamış → atla
+                continue
+
+            if new_hash != old_hash:
+                # İçerik değişmiş → last_updated güncelle
+                entry = {"last_updated": now_str, "hash": new_hash}
+                changed_keys.append(key)
+            else:
+                # İçerik aynı → eski last_updated'i koru
+                entry = {"last_updated": old_entry.get("last_updated", now_str), "hash": old_hash}
+
+            new_version[key] = entry
+
+        # Diske yaz
         try:
             with open(version_path, "w", encoding="utf-8") as f:
-                json.dump(version, f, ensure_ascii=False, indent=2)
+                json.dump(new_version, f, ensure_ascii=False, indent=2)
         except (IOError, OSError) as e:
             self.logger.error(f"version.json kaydedilemedi: {e}")
             return
 
-        self.logger.info(f"✅ version.json güncellendi. ({version['last_updated']})")
+        if changed_keys:
+            self.logger.info(f"✅ version.json güncellendi. (değişen: {', '.join(changed_keys)})")
+        else:
+            self.logger.info("ℹ️  Hiçbir dosya değişmedi, version.json korundu.")
 
     def update_latest_episodes(self):
         """

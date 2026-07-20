@@ -8,7 +8,8 @@ Akış:
     2. Her anime için Jikan API ile zenginleştir (mal_scraper.py)
     2.5. Bölüm & Video çekimi — delta güncelleme (episode_scraper.py)
     3. JSON dosyalarını oluştur/güncelle (storage_manager.py)
-       - İndeks (animes.json), versiyon (version.json), son eklenen bölümler (latest_episodes.json)
+       - İndeks (animes.json), son eklenen bölümler (latest_episodes.json)
+       - Hash tabanlı versiyon takibi (version.json) — sadece içerik değiştiğinde güncellenir
 
 Akıllı Güncelleme:
     - Türkanime'den gelen bolum_durumu bilgisi değişmediği sürece dosya güncellenmez.
@@ -289,8 +290,8 @@ def main():
         logger.info("📦 ADIM 3: İndeks, versiyon ve latest episodes dosyaları oluşturuluyor...")
 
         total_in_index = storage.build_index()
-        storage.update_version(total_in_index)
         storage.update_latest_episodes()
+        storage.update_versions()
         stats["index_toplam"] = total_in_index
 
     except KeyboardInterrupt:
