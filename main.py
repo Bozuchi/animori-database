@@ -118,6 +118,7 @@ def main():
         stats["toplam"] = toplam
         islenen = 0
         ozet_atlanan = 0
+        bolum_durumu_degisenler = set()
 
         for slug, tk_data in turkanime_data.items():
             if _shutdown_requested:
@@ -135,6 +136,15 @@ def main():
 
             # Mevcut veriyi kontrol et
             existing = storage.load_anime_detail(slug)
+
+            # ── Bölüm Durumu Değişim Takibi ──
+            if existing is None:
+                bolum_durumu_degisenler.add(slug)
+            else:
+                old_bd = existing.get("turkanime", {}).get("bolum_durumu")
+                new_bd = tk_data.get("bolum_durumu")
+                if old_bd != new_bd:
+                    bolum_durumu_degisenler.add(slug)
 
             # Shared anime object: aynı anime için tek HTTP isteği (optimizasyon)
             anime_obj = None
@@ -254,12 +264,11 @@ def main():
             mal_id = current_jikan.get("mal_id")
 
             # ── Delta kontrolü: bolum_durumu değişti mi? ──
-            new_bolum_durumu = tk_data.get("bolum_durumu")
-            old_bolum_durumu = current_data.get("turkanime", {}).get("bolum_durumu")
             existing_episodes = current_data.get("episodes", [])
             has_existing_episodes = current_data.get("episodes") is not None
+            bolum_durumu_degisti = slug in bolum_durumu_degisenler
 
-            if old_bolum_durumu == new_bolum_durumu and has_existing_episodes:
+            if not bolum_durumu_degisti and has_existing_episodes:
                 # Bölüm durumu aynı VE episodes zaten var → ATLA
                 stats["bolum_atlanan"] += 1
                 continue

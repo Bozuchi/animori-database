@@ -141,6 +141,15 @@ class StorageManager:
             "jikan": jikan_data,
         }
 
+        # Mevcut dosyada 'episodes' (veya başka ek alanlar) varsa koru.
+        # save_anime_detail sadece turkanime/jikan verisini günceller;
+        # daha önce save_episodes ile yazılmış bölüm listesini silmemeli.
+        existing = self.load_anime_detail(slug)
+        if existing:
+            for key, value in existing.items():
+                if key not in detail:
+                    detail[key] = value
+
         # Dosya ismi Jikan'da varsa mal_id, yoksa slug olur
         file_basename = slug
         if jikan_data and jikan_data.get("mal_id"):
