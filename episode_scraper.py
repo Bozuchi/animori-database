@@ -40,9 +40,9 @@ TURKANIME_DELAY = 0.1
 # AniSkip API base URL’i (OP/ED atlama süreleri)
 ANISKIP_BASE_URL = "https://api.aniskip.com/v2/skip-times"
 
-# Regex: Geçersiz bölüm formatlarını yakalar (tire veya virgüllü sayılar)
-# Örn: "12-13. Bölüm", "13,5. Bölüm" → eşleştirme YAPILMAZ
-INVALID_EPISODE_PATTERN = re.compile(r'(\d+[-–]\d+|\d+[,،]\d+)\.\s*[Bb]ölüm')
+# Regex: Geçersiz bölüm formatlarını yakalar (tire, virgüllü veya noktalı buçuklu sayılar)
+# Örn: "12-13. Bölüm", "13,5. Bölüm", "5.5. Bölüm" → eşleştirme YAPILMAZ (None döner)
+INVALID_EPISODE_PATTERN = re.compile(r'(\d+[-–]\d+|\d+[.,،]\d+)\.\s*[Bb]ölüm')
 
 # Regex: Geçerli bölüm formatı — tam sayı + ". Bölüm"
 # Örn: "Naruto 12. Bölüm" → episode_number = 12
@@ -241,6 +241,7 @@ class EpisodeScraper:
         Geçersiz (None döner):
             "Naruto 12-13. Bölüm"         → None (tire — birden fazla bölüm)
             "Shingeki no Kyojin 13,5. Bölüm" → None (buçuk bölüm)
+            "Alice to Zouroku 5.5. Bölüm" → None (buçuk bölüm)
             "Naruto OVA"                  → None (bölüm formatı yok)
 
         Args:
@@ -253,7 +254,11 @@ class EpisodeScraper:
             return None
 
         match = VALID_EPISODE_PATTERN.search(title)
-        return int(match.group(1)) if match else None
+        if match:
+            return int(match.group(1))
+
+        _logger.warning(f"⚠️ Bilinmeyen bölüm formatı: '{title}'")
+        return None
 
     def fetch_turkanime_episodes(self, slug: str, existing_episodes_map: dict[str, dict] = None) -> list[dict]:
         """
@@ -344,6 +349,7 @@ class EpisodeScraper:
 
             time.sleep(TURKANIME_DELAY)
 
+        self.logger.info(f"✨ Tüm bölümler işlendi. ({len(bolumler)}/{len(bolumler)})")
         return episodes
 
     def build_episode_list(
