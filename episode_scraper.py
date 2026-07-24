@@ -257,7 +257,7 @@ class EpisodeScraper:
         if match:
             return int(match.group(1))
 
-        _logger.warning(f"⚠️ Bilinmeyen bölüm formatı: '{title}'")
+        _logger.warning(f"Bilinmeyen bölüm formatı: '{title}'")
         return None
 
     def fetch_turkanime_episodes(self, slug: str, existing_episodes_map: dict[str, dict] = None) -> list[dict]:
