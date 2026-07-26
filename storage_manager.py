@@ -118,20 +118,22 @@ class StorageManager:
         """slug_to_file haritasını diske kaydeder (dış kullanım için)."""
         self._save_slug_map()
 
-    def save_anime_detail(self, slug: str, turkanime_data: dict, jikan_data: dict | None = None):
+    def save_anime_detail(self, slug: str, turkanime_data: dict, jikan_data: dict | None = None, anilist_data: dict | None = None):
         """
         Tek bir anime için birleştirilmiş detay dosyası oluşturur.
 
         Yapı:
             {
                 "turkanime": { "slug": "naruto-shippuuden", "isim": "Naruto Shippuuden", "puan": "9.50", "bolum_durumu": "500/500", "ozet": "..." },
-                "jikan": { "mal_id": 1735, "image_url": "...", ... } veya null
+                "jikan": { "mal_id": 1735, "image_url": "...", ... } veya null,
+                "anilist": { "id": 1735, "banner_image": "https://..." } veya null
             }
 
         Args:
             slug: Anime slug'ı (dosya adı olarak kullanılır).
             turkanime_data: Türkanime'den gelen veriler.
             jikan_data: Jikan'dan gelen zenginleştirilmiş veriler (veya None).
+            anilist_data: AniList'ten gelen veriler (veya None — mevcut dosyadaki anilist korunur).
         """
         # Orijinal dict'i mutasyona uğratma — slug eklenmiş kopya oluştur
         turkanime_obj = {**turkanime_data, "slug": slug}
@@ -141,6 +143,10 @@ class StorageManager:
             "jikan": jikan_data,
         }
 
+        # AniList verisi varsa ekle; None ise mevcut dosyadaki anilist korunur (for döngüsü ile)
+        if anilist_data is not None:
+            detail["anilist"] = anilist_data
+
         # Mevcut dosyada 'episodes' (veya başka ek alanlar) varsa koru.
         # save_anime_detail sadece turkanime/jikan verisini günceller;
         # daha önce save_episodes ile yazılmış bölüm listesini silmemeli.
@@ -149,6 +155,9 @@ class StorageManager:
             for key, value in existing.items():
                 if key not in detail:
                     detail[key] = value
+
+        if "anilist" not in detail:
+            detail["anilist"] = None
 
         # Dosya ismi Jikan'da varsa mal_id, yoksa slug olur
         file_basename = slug
@@ -293,6 +302,7 @@ class StorageManager:
 
             turkanime = data.get("turkanime", {})
             jikan = data.get("jikan") or {}
+            anilist = data.get("anilist") or {}
             
             slug_val = turkanime.get("slug") or data.get("slug")
             
@@ -307,6 +317,7 @@ class StorageManager:
 
             index.append({
                 "mal_id": mal_id_val,
+                "anilist_id": anilist.get("id"),
                 "title": jikan.get("title") or turkanime.get("isim", ""),
                 "title_english": jikan.get("title_english"),
                 "slug": slug_val,

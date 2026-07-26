@@ -6,6 +6,7 @@ Tüm modülleri sırasıyla çalıştırarak Serverless Anime API'yi günceller.
 Akış:
     1. Türkanime arşivini tara (scraper.py)
     2. Her anime için Jikan API ile zenginleştir (mal_scraper.py)
+       + AniList API ile banner image ve anilist_id çek (anilist_client.py)
     2.5. Bölüm & Video çekimi — delta güncelleme (episode_scraper.py)
     3. JSON dosyalarını oluştur/güncelle (storage_manager.py)
        - İndeks (animes.json), son eklenen bölümler (latest_episodes.json)
@@ -15,6 +16,7 @@ Akıllı Güncelleme:
     - Türkanime'den gelen bolum_durumu bilgisi değişmediği sürece dosya güncellenmez.
     - Jikan'dan daha önce başarıyla zenginleştirilmiş animeler tekrar sorgulanmaz.
     - Sadece yeni eklenen veya Jikan kısmı null olan animeler Jikan'a sorulur.
+    - AniList verisi mevcut dosyada zaten varsa tekrar sorgulanmaz.
     - Bölüm/video taraması sadece bolum_durumu değiştiğinde yapılır.
     - Jikan verisi olmayan (jikan: null) animelerin bölümleri çekilmez.
 """
@@ -27,6 +29,7 @@ from datetime import datetime
 from logger import setup_logger
 from scraper import TurkanimeScraper
 from mal_scraper import MalHtmlEnricher as JikanEnricher
+from anilist_client import AnilistClient
 from storage_manager import StorageManager
 from episode_scraper import EpisodeScraper
 from discord_notify import send_report
@@ -78,6 +81,9 @@ def main():
         "jikan_basarili": 0,
         "jikan_atlanan": 0,
         "jikan_basarisiz": 0,
+        "anilist_basarili": 0,
+        "anilist_basarisiz": 0,
+        "anilist_atlanan": 0,
         "bolum_taranan": 0,
         "bolum_atlanan": 0,
         "bolum_bos": 0,
@@ -113,6 +119,7 @@ def main():
 
         storage = StorageManager()
         jikan = JikanEnricher(metadata=storage.metadata)
+        anilist = AnilistClient()
 
         toplam = len(turkanime_data)
         stats["toplam"] = toplam
@@ -218,14 +225,30 @@ def main():
             # ── Jikan zenginleştirme ──
             jikan_data = jikan.enrich(mal_id=mal_id, slug=slug, name=tk_data["isim"])
 
+            # ── AniList zenginleştirme ──
+            anilist_data = None
+
             if jikan_data is not None:
                 stats["jikan_basarili"] += 1
                 logger.info(f"{progress} ✅ {tk_data['isim']} — Zenginleştirildi. (mal_id: {jikan_data['mal_id']})")
+
+                # AniList verisi çek (mevcut dosyada yoksa)
+                existing_anilist = existing.get("anilist") if existing else None
+                if existing_anilist is not None:
+                    stats["anilist_atlanan"] += 1
+                else:
+                    anilist_data = anilist.fetch(jikan_data["mal_id"])
+                    if anilist_data is not None:
+                        stats["anilist_basarili"] += 1
+                        logger.info(f"{progress} 🔗 {tk_data['isim']} — AniList verisi alındı. (anilist_id: {anilist_data['id']})")
+                    else:
+                        stats["anilist_basarisiz"] += 1
+                        logger.warning(f"{progress} ⚠️  {tk_data['isim']} — AniList verisi alınamadı.")
             else:
                 stats["jikan_basarisiz"] += 1
                 logger.warning(f"{progress} {tk_data['isim']} — Jikan verisi alınamadı, null olarak kaydedildi.")
 
-            storage.save_anime_detail(slug, tk_data, jikan_data)
+            storage.save_anime_detail(slug, tk_data, jikan_data, anilist_data)
 
         # Slug haritasını ve metadata'yı kaydet (ADIM 2 sonrası)
         storage.save_slug_map()
@@ -338,6 +361,9 @@ def main():
         logger.info(f"  Jikan Başarılı (yeni)   : {stats['jikan_basarili']}")
         logger.info(f"  Jikan Atlandı (mevcut)  : {stats['jikan_atlanan']}")
         logger.info(f"  Jikan Başarısız         : {stats['jikan_basarisiz']}")
+        logger.info(f"  Anilist Başarılı        : {stats['anilist_basarili']}")
+        logger.info(f"  Anilist Başarısız       : {stats['anilist_basarisiz']}")
+        logger.info(f"  Anilist Atlandı         : {stats['anilist_atlanan']}")
         logger.info(f"  Bölüm Taranan           : {stats['bolum_taranan']}")
         logger.info(f"  Bölüm Atlandı (delta)   : {stats['bolum_atlanan']}")
         logger.info(f"  Bölüm Boş               : {stats['bolum_bos']}")
