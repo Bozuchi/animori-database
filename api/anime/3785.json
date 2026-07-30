@@ -1,0 +1,125 @@
+{
+  "turkanime": {
+    "isim": "Evangelion Movie 3: Q",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Evangelion Animesinin 3. Filmidir.",
+    "slug": "evangelion-movie-3-q"
+  },
+  "jikan": {
+    "mal_id": 3785,
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/43201.jpg",
+    "trailer_id": "pwLw2hNNz2M",
+    "title": "Evangelion Movie 3: Q",
+    "title_english": "Evangelion: 3.0 You Can (Not) Redo",
+    "type": "Movie",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2012-11-17T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 35 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.67,
+    "popularity": 533,
+    "synopsis": "Fourteen years after the Third Impact, the Earth is a post-apocalyptic wasteland, human civilization is in ruins, and the people Shinji Ikari knows are almost unrecognizable. Trapped inside Evangelion Unit-01, he is recovered from space by Asuka Langley Shikinami and Mari Illustrious Makinami, only to find himself a prisoner of WILLE, a military faction led by his former guardian Misato Katsuragi. Cold and bitter, his former allies view him with suspicion and refuse to support him as he comes to terms with the consequences of his actions.\n\nA hurt and confused Shinji is rescued from WILLE by Rei Ayanami and returned to NERV headquarters. There, he meets and quickly befriends the enigmatic Kaworu Nagisa, who offers him warmth and insight into the state of NERV's war with the Angels. But Shinji and Kaworu's brief respite lies on the eve of a new battle, one in which Shinji finds that his enemies are no longer Angels but former comrades. In this bitter confrontation to determine the future of the world, Shinji will learn first-hand that the past truly cannot be undone.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      46,
+      8,
+      24,
+      41
+    ],
+    "themes": [
+      18,
+      40
+    ],
+    "demographics": [],
+    "studios": [
+      47
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          3784
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          3786
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          30
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          32739,
+          28149,
+          34085
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 3785,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3785-UyfunULvn6PQ.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Neon Genesis Evangelion : You Can [Not] Redo",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1_9NM2yIhcgU9gYRRZgGvSJHnjXUVt8aw/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1xZW56KmlUaIx_uc_FHiMa6l8GPxujtrL/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/5039"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933015928"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/rdxyno7o"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-mf4nn8hpvt5d.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-fbvk9wrcemqp.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T00:29:52.411423",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

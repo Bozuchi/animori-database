@@ -1,0 +1,96 @@
+{
+  "turkanime": {
+    "isim": "Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage",
+    "puan": "0.00",
+    "bolum_durumu": "1/2",
+    "ozet": "Kono Subarashii Sekai ni Shukufuku wo! animesinin 3. sezonuna ek olarak yayınlanan OVA bölümleridir.",
+    "slug": "kono-subarashii-sekai-ni-shukufuku-wo-3-bonus-stage"
+  },
+  "jikan": {
+    "mal_id": 59833,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1482/146928.jpg",
+    "trailer_id": "GJb28oUxOPw",
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage",
+    "title_english": "KonoSuba: God's Blessing on This Wonderful World! 3 OVA",
+    "type": "OVA",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2025-04-25T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "25 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.14,
+    "popularity": 2684,
+    "synopsis": "Original video anime episodes of Kono Subarashii Sekai ni Shukufuku wo!.",
+    "genres": [
+      2,
+      4,
+      10
+    ],
+    "themes": [
+      62,
+      20
+    ],
+    "demographics": [],
+    "studios": [
+      1967
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          80385,
+          60553
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          49458
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 181244,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181244-nL2TCI39OFTa.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 15,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/18QQ4Pp65GeJot7mQ_CzD7DXeccIWSCfe/preview"
+        },
+        {
+          "fansub_id": 15,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/8320106634588201763"
+        },
+        {
+          "fansub_id": 15,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/850wb3vdfjnq"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1380,
+          "end": 1470
+        }
+      },
+      "added_date": "2026-07-27T04:58:23.058445",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

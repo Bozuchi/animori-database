@@ -1,0 +1,112 @@
+{
+  "turkanime": {
+    "isim": "Marmalade Boy Movie",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Marmalade Boy animesinin filmidir.",
+    "slug": "marmalade-boy-movie"
+  },
+  "jikan": {
+    "mal_id": 520,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1186/156082.jpg",
+    "trailer_id": null,
+    "title": "Marmalade Boy Movie",
+    "title_english": null,
+    "type": "Movie",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1995-03-04T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "26 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.29,
+    "popularity": 6768,
+    "synopsis": "A prelude to Marmalade Boy the TV series. Yuu remembers the day when his parents decided to divorce each other and remarry with another married couple. Troubled by the news, Yuu decides to take a walk, on which he spots a girl he falls in love with at first sight. He decides to follow this unaware girl and falls more in love with her. However he discovers who the girl really is...she's the daughter of his parents' new lovers. \n\n(Source: ANN)",
+    "genres": [
+      22
+    ],
+    "themes": [],
+    "demographics": [
+      25
+    ],
+    "studios": [
+      18
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          334
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          91
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 520,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/520-uNpURpgwkx6X.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Marmalade Boy Movie",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 223,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1tsgyZNxPI9G9DA8YKUQv8xW2rb41GwmT/preview"
+        },
+        {
+          "fansub_id": 223,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/torukojin_a/_myvideo/952.html"
+        },
+        {
+          "fansub_id": 223,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271191552"
+        },
+        {
+          "fansub_id": 223,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4501024"
+        },
+        {
+          "fansub_id": 223,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2650631"
+        },
+        {
+          "fansub_id": 223,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-nuhb6ayyoimr.html"
+        },
+        {
+          "fansub_id": 223,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/zbkcj3wr"
+        },
+        {
+          "fansub_id": 223,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-c0qetn1r1yez.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T11:09:26.542529",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

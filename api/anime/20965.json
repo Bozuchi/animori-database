@@ -1,0 +1,104 @@
+{
+  "turkanime": {
+    "isim": "Wonder Garden",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Vitrindeki büyülü bir ayı tarafından kısa bir maceraya çıkarılan kız çocuğunun yaşadıklarını konu alan. Yapımını Stüdyo Colorido'ya ait olan kısa film.",
+    "slug": "wonder-garden"
+  },
+  "jikan": {
+    "mal_id": 20965,
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/55383.jpg",
+    "trailer_id": "iwZWK2WoogY",
+    "title": "Wonder Garden",
+    "title_english": null,
+    "type": "ONA",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2013-10-19T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "4 min",
+    "rating": "PG - Children",
+    "score": 6.33,
+    "popularity": 7875,
+    "synopsis": "A young girl is transported to a magical world by a storefront bear in this anime short by Studio Colorido.",
+    "genres": [
+      10
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      1033
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entries": [
+          30585
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 20673,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20673-Rs9RuooDGrv0.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Wonder Garden Movie",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1NguDG8eK94BLymM0AvyhX7Lrd7vaQID0/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1wD-T_UQiey4_gUEaDli9EhjR3VnxgGII/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682366246"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359665792"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4627153"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2710r1fbevrb.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/domtu8uy"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-xjpp7cm00xcr.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T16:29:27.486682",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

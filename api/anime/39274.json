@@ -1,0 +1,82 @@
+{
+  "turkanime": {
+    "isim": "Dragon Quest: Your Story",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Babasının izinden giden Luca, annesini hain Ladja'dan kurtarmaya çalışır. Bunun için tek umudu, Zenith kılıcını kullanabilen ilahi kahramanı bulmaktır.",
+    "slug": "dragon-quest-your-story"
+  },
+  "jikan": {
+    "mal_id": 39274,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1870/101614.jpg",
+    "trailer_id": "eceWg3BlHP4",
+    "title": "Dragon Quest: Your Story",
+    "title_english": null,
+    "type": "Movie",
+    "source": "Game",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2019-08-02T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 42 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.84,
+    "popularity": 5793,
+    "synopsis": "Following in his father's footsteps, Luca must find the hero who wields the zenithian sword to save his mother from Ladja. Based on Dragon Quest V: Hand of the Heavenly Bride game's story.\n\n(Source: Apple TV)",
+    "genres": [
+      1,
+      2,
+      10
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      235,
+      249
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entries": [
+          2229
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 107905,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/107905-uQonG3lpM1XA.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Dragon Quest: Your Story Movie",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1epH_lyhCAlrwBaGnfTvCvsPvjLhO_Kk6/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985850611"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3849788"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T23:23:29.260483",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

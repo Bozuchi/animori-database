@@ -1,0 +1,123 @@
+{
+  "turkanime": {
+    "isim": "Super Lovers OVA",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Super Lovers serisine ait OVAlardır.",
+    "slug": "super-lovers-ova"
+  },
+  "jikan": {
+    "mal_id": 33013,
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/87516.jpg",
+    "trailer_id": "t86590A_vMA",
+    "title": "Super Lovers OVA",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2017-01-01T00:00:00+00:00",
+      "to": "2017-09-01T00:00:00+00:00"
+    },
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.17,
+    "popularity": 4465,
+    "synopsis": "Bundled with manga's tenth and eleventh volume.",
+    "genres": [
+      28,
+      4,
+      8
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      37
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          31680
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          17706
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 98642,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Super Lovers OVA 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1rv_7eUofD9J1-gEeSvwFwivEvYwsFXPf/preview"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/enes.mert.97/video/embed/_myvideo/1204"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xpid8vsj43pf.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-aje3cprrc42k.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T13:41:45.773950",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Super Lovers OVA 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1fAXnvcO4NC1WOQnaN7FQcVe_ZnvKz-ro/preview"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/enes.mert.97/video/embed/_myvideo/1205"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-hqi6s2eo9fzc.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-takt5302xx5j.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T13:41:45.773950",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

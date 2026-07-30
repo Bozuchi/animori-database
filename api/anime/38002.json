@@ -1,0 +1,140 @@
+{
+  "turkanime": {
+    "isim": "Asobi Asobase Specials",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Serinin special bölümleridir.",
+    "slug": "asobi-asobase-specials"
+  },
+  "jikan": {
+    "mal_id": 38002,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1270/97437.jpg",
+    "trailer_id": null,
+    "title": "Asobi Asobase Specials",
+    "title_english": null,
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2018-11-28T00:00:00+00:00",
+      "to": "2018-12-21T00:00:00+00:00"
+    },
+    "duration": "6 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.59,
+    "popularity": 3605,
+    "synopsis": "Ototo\nOn their way home from school, the Pastime Club encounters Hanako Honda's younger brother, Kentarou. The timid yet studious boy introduces himself to Hanako's friends but quickly attempts to leave the awkward situation. However, he is roped into joining the three girls to have some fun at the park.\n\nAmusutorongu\nChisato Higuchi's spontaneous question of which Pastime Club member is the strongest leads to a fierce arm-wrestling contest—spurred further by some underhanded methods.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      4
+    ],
+    "themes": [
+      57
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      456
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          99678
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          37171
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 104368,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Asobi Asobase Specials 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 19,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1MDkgKY_d8GTb-8-9ALFJ9pfixz0K8J2L/preview"
+        },
+        {
+          "fansub_id": 19,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ps_Y09T7IYFOxy09xjpo0GQ5QT3SAolG/preview"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359660495"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3530485"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vrkj1oui0wq9.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-9pfj6psb2lp3.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T03:04:53.243058",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Asobi Asobase Specials 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 19,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/13HT_TJhxaxPTNAt7xk3V3SOhSEd_DBe7/preview"
+        },
+        {
+          "fansub_id": 19,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1x2PPSkZ4tO3KqdbG5zUv4UKpov0ylGkr/preview"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359661155"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3533391"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-br8wtfbfkprc.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T03:04:53.243058",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

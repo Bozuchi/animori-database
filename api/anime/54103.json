@@ -1,0 +1,109 @@
+{
+  "turkanime": {
+    "isim": "Hikikomari Kyuuketsuki no Monmon",
+    "puan": "0.00",
+    "bolum_durumu": "2/12",
+    "ozet": "Vampir prensesimiz Terakomari Gandesblood, üç yıldır münzevi bir hayat yaşarken bir anda Mulnite İmparatorluk Ordusu'na kumandan olarak atandığını öğrenir. Ancak sorun şu ki, prensesimizin adını da aldığı Komari Birliği en ufak bir zayıflık belirtisi gördüğü anda kumandanlarına karşı başkaldıran belalı tiplerden oluşmaktaydı. Komari, hem prestijli hem de güçlü bir vampir soyundan gelmesine rağmen kan içmeyi reddeder. Haliyle de sıradan bir vampir haline gelmiş; cılız, zayıf ve büyü konusunda yeteneksiz bir vampirdir. Bütün dünya Komari'ye karşıyken güvenilir hizmetçisi Villhaze'in yardımı münzevi vampirimizin başarıya giden yolda ilerlemesine yeterli olacak mı? Yoksa Komari, odasından ayrıldığı güne pişman mı olacak?",
+    "slug": "hikikomari-kyuuketsuki-no-monmon"
+  },
+  "jikan": {
+    "mal_id": 54103,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1032/137893.jpg",
+    "trailer_id": "YRDSausZ4_g",
+    "title": "Hikikomari Kyuuketsuki no Monmon",
+    "title_english": "The Vexations of a Shut-In Vampire Princess",
+    "type": "TV",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": 2023,
+    "season": "fall",
+    "airing": false,
+    "aired": {
+      "from": "2023-10-07T00:00:00+00:00",
+      "to": "2023-12-30T00:00:00+00:00"
+    },
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.15,
+    "popularity": 1921,
+    "synopsis": "In a world where death is not permanent, Terakomari \"Komari\" Gandesblood has been a self-proclaimed professional shut-in for the past three years. As part of the noble Gandesblood lineage, she once tried to meet the expectations of her family. However, as a vampire who cannot use magic or consume blood, she soon gave up on becoming an imperial general like her ancestors. Unfortunately, a misunderstanding with her father earns her the formidable position of one of the Seven Crimson Lords, the strongest fighters and generals in the Mulnite Empire. \n\nNow, Komari must hide her lack of talent from the soldiers she commands, or they may attempt to overthrow her. Working alongside her newly-assigned maid, Villhaze, Komari manages to trick her unit of soldiers into believing she is a ruthless warlord and promises to conquer the world. But as more people come to admire Komari, her life is further threatened as a vampire from her past reappears with every intention to kill her for good.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      4,
+      10
+    ],
+    "themes": [
+      32
+    ],
+    "demographics": [],
+    "studios": [
+      439
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          143425,
+          138763
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 159808,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/159808-hHtK0HhZlyzD.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Hikikomari Kyuuketsuki no Monmon 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 239,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5299309"
+        },
+        {
+          "fansub_id": 239,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-35j4k6wa4eao.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T03:38:33.060515",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Hikikomari Kyuuketsuki no Monmon 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 239,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5306079"
+        },
+        {
+          "fansub_id": 239,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/c8wrlgt8l1mx"
+        },
+        {
+          "fansub_id": 239,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-hipw7cdh8ivs.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1406,
+          "end": 1495
+        }
+      },
+      "added_date": "2026-07-26T03:38:33.060515",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

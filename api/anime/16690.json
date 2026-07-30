@@ -1,0 +1,95 @@
+{
+  "turkanime": {
+    "isim": "My Life",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Liseye giden bir kız öğrencinin ilk iş başvurusunu yapmadan önce tüm kariyer ve hayatının gözlerinin önünden geçtiği kısa animasyon filmi.",
+    "slug": "my-life"
+  },
+  "jikan": {
+    "mal_id": 16690,
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/45008.jpg",
+    "trailer_id": null,
+    "title": "My Life",
+    "title_english": null,
+    "type": "ONA",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2012-11-10T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.26,
+    "popularity": 9858,
+    "synopsis": "A high school girl, while pondering her future, sees it flash before her eyes.",
+    "genres": [
+      8
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [],
+    "relations": []
+  },
+  "anilist": {
+    "id": 16690,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "My Life Movie",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1xlQ7274n8Y-DYfhnZEsXqXGe6GY2su1A/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1H2HwMNzietR_lCLdwpftBnaecfwOo-P5/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359666974"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682366245"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4643259"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-348bd9bjvv5z.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/5icfc44w"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-oxlypioxqopf.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T14:00:52.750193",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

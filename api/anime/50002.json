@@ -1,0 +1,1032 @@
+{
+  "turkanime": {
+    "isim": "Edens Zero 2nd Season",
+    "puan": "0.00",
+    "bolum_durumu": "25/25",
+    "ozet": "Edens Zero animesinin 2. sezonudur.",
+    "slug": "edens-zero-2nd-season"
+  },
+  "jikan": {
+    "mal_id": 50002,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1943/135100.jpg",
+    "trailer_id": "JgylfoxHSRs",
+    "title": "Edens Zero 2nd Season",
+    "title_english": "Edens Zero Season 2",
+    "type": "TV",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": 2023,
+    "season": "spring",
+    "airing": false,
+    "aired": {
+      "from": "2023-04-02T00:00:00+00:00",
+      "to": "2023-10-01T00:00:00+00:00"
+    },
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.42,
+    "popularity": 2714,
+    "synopsis": "Now in possession of the Edens Zero, Shiki Granbell has gathered the Four Shining Stars. With the help of his new friends, Shiki will be able to breach Dragonfall—the border of the Sakura Cosmos swarming with mechanical dragons. Once that is achieved, he can continue his quest to find the goddess Mother.\n\nBefore the Edens Zero crew can advance their journey, they notice a mysterious warship following them. Upon learning that the ship—the Belial Gore—belongs to Drakken Joe, Shiki and his crew attempt to infiltrate it, intent on figuring out why the Dark Alchemist is after them. In the process, the Edens Zero is taken hostage by Drakken's subordinates.\n\nThough they are in a tight situation, Shiki refuses to back down. Working together with his friends, Shiki will have to take down the Dark Alchemist if he hopes to make it out of the Belial Gore alive.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      1,
+      2,
+      10,
+      24
+    ],
+    "themes": [
+      29
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      7
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          42192
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          114548
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 144932,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/144932-XHfqz1m85IXS.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Edens Zero 2nd Season 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1RCdVpuINpc4vzcz5x1NeVihGQzCn2kKY/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5093789"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5093790"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/o0msyk1n7r8c"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5ce7bay5gixb.html"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-fluxc9omlt0o.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T23:53:23.511052",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Edens Zero 2nd Season 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1AZ9yPAsuK1Rs9QeLh-dlKp968D31gEVK/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5100090"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5100091"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1303,
+          "end": 1399
+        }
+      },
+      "added_date": "2026-07-24T23:53:23.511052",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Edens Zero 2nd Season 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ZBpx1NU7VpNCfXuG8AwOpA6I0wXwActm/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/82gw7x5fk5id"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1303,
+          "end": 1396
+        }
+      },
+      "added_date": "2026-07-24T23:53:23.511052",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Edens Zero 2nd Season 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/13YR2iZ7r-XiSwPGYsVo0DTMqqqI4MsXG/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5119207"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5119208"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/69vre4ywq3w0"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T23:53:23.511052",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Edens Zero 2nd Season 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1IYbYmmEs1_GydDtilcIExrhuG7hRicFV/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5121388"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5121387"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/q7mwek6x51ns"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-nkaddmlvahxr.html"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vzfrnopm3juj.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T23:53:23.511052",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Edens Zero 2nd Season 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1eMUEBlQl5a6qy7kcmdShpa9CS9amu9ZJ/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5130035"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5130036"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/5b801cdtdypv"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-syibj58t1gxm.html"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5v3g66dzezoq.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T23:53:23.511052",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Edens Zero 2nd Season 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1kNVuF83svX2GbTilP4H4MuomSxN1GHeW/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5147640"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5147641"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/dmt59oh6srph"
+        },
+        {
+          "fansub_id": 13,
+          "player": "UQLOAD",
+          "url": "https://uqload.co/embed-x6iq480b9j5l.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1304,
+          "end": 1377
+        }
+      },
+      "added_date": "2026-07-24T23:53:23.511052",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Edens Zero 2nd Season 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1pL3CmQzonvVr0xK1N3jxisBCXbDifCF8/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5152229"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5152228"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/61gghq23m01k"
+        },
+        {
+          "fansub_id": 13,
+          "player": "UQLOAD",
+          "url": "https://uqload.co/embed-m733xcw0yt17.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1305,
+          "end": 1383
+        }
+      },
+      "added_date": "2026-07-24T23:53:23.511052",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Edens Zero 2nd Season 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1C79dpfDH65tKTr_tQlDinCVHKRGM-RkA/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5156139"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5156138"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/n4uh18ftjiw0"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-z0vpuhg94l4o.html"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vyo5ihc5aorm.html"
+        },
+        {
+          "fansub_id": 13,
+          "player": "UQLOAD",
+          "url": "https://uqload.co/embed-79562p9n53k7.html"
+        },
+        {
+          "fansub_id": 13,
+          "player": "UQLOAD",
+          "url": "https://uqload.co/embed-28b1sz4mmieb.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1303,
+          "end": 1393
+        }
+      },
+      "added_date": "2026-07-24T23:53:23.511052",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Edens Zero 2nd Season 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1JElaC5eo687_I_shsJ_SJZbvAc35A79q/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5161533"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5161535"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/qg3ugc4na0j0"
+        },
+        {
+          "fansub_id": 13,
+          "player": "UQLOAD",
+          "url": "https://uqload.co/embed-qfubml3d6noc.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 20,
+          "end": 131
+        },
+        "ed": {
+          "start": 1304,
+          "end": 1393
+        }
+      },
+      "added_date": "2026-07-24T23:53:23.511052",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Edens Zero 2nd Season 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Tp-G-iBdcAJcss5fHPdKduuAOjNkGyZB/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5168613"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5168617"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/cu5b9mfyntix"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-cd6281n7bztv.html"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ue5zx8jpb79a.html"
+        },
+        {
+          "fansub_id": 13,
+          "player": "UQLOAD",
+          "url": "https://uqload.co/embed-20uyi8jbbd1t.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T23:53:23.511052",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Edens Zero 2nd Season 12. Bölüm",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/11SfPKe5fcPOMxTbGRfFDClROMFjQgFyz/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5175249"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5175252"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/g0v3cguy4dak"
+        },
+        {
+          "fansub_id": 13,
+          "player": "UQLOAD",
+          "url": "https://uqload.co/embed-95ykns3003ul.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1304,
+          "end": 1391
+        }
+      },
+      "added_date": "2026-07-24T23:53:23.511052",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Edens Zero 2nd Season 13. Bölüm",
+      "episode_number": 13,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1wmiU8UO9MBX5d5ky_KUYYYFUBD8xucH5/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5183553"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5183554"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/n7kpujljuoqg"
+        },
+        {
+          "fansub_id": 13,
+          "player": "UQLOAD",
+          "url": "https://uqload.co/embed-q3j1vpsc4z0q.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 20,
+          "end": 130
+        },
+        "ed": {
+          "start": 1304,
+          "end": 1393
+        }
+      },
+      "added_date": "2026-07-24T23:53:23.511052",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Edens Zero 2nd Season 14. Bölüm",
+      "episode_number": 14,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1CU9QHJM0_4QoU3ACFjs8P1GOwBMZX10U/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5192789"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5192790"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/xhsmnlrkmvh8"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5xk6q91bziw5.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1304,
+          "end": 1400
+        }
+      },
+      "added_date": "2026-07-24T23:53:23.511052",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Edens Zero 2nd Season 15. Bölüm",
+      "episode_number": 15,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1R_tl_TvOxH4Ltbx3VCACpkuQmzwLBJxb/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5198858"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5198860"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/fx3ogkes9if8"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-lbulg8p51zwd.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 10,
+          "end": 107
+        },
+        "ed": {
+          "start": 1391,
+          "end": 1397
+        }
+      },
+      "added_date": "2026-07-24T23:53:23.511052",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Edens Zero 2nd Season 16. Bölüm",
+      "episode_number": 16,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1q8knSSEqE5QGF_M3LksACsOZTsxidbzK/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5205992"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5205990"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5205991"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/la0tlpkxr8ne"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1302,
+          "end": 1393
+        }
+      },
+      "added_date": "2026-07-24T23:53:23.511052",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Edens Zero 2nd Season 17. Bölüm",
+      "episode_number": 17,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1cNvMVmwGBXcjGxlKk1nWBBlLgJtzVk-V/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5212706"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5212707"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5212708"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/cmewkp40c5y2"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1295,
+          "end": 1393
+        }
+      },
+      "added_date": "2026-07-24T23:53:23.511052",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Edens Zero 2nd Season 18. Bölüm",
+      "episode_number": 18,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1AfOOIJ9H5SYxTNivhOdbNZjZjl0rQj8R/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5217643"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5217645"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5217647"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/f0hvrcj0wjgj"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1293,
+          "end": 1400
+        }
+      },
+      "added_date": "2026-07-24T23:53:23.511052",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Edens Zero 2nd Season 19. Bölüm",
+      "episode_number": 19,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/16dasLL4P-FSxkhCLj8T2DrnIfrBTH52a/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/wzifyrngx4ls"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/jsfqbe5i6k5a"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T23:53:23.511052",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Edens Zero 2nd Season 20. Bölüm",
+      "episode_number": 20,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1AwoRDaYL7on77DIzbB5YbPG411IuYacd/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/odppw9uxrj8o"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/c70gu9cw85kt"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1301,
+          "end": 1394
+        }
+      },
+      "added_date": "2026-07-24T23:53:23.511052",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Edens Zero 2nd Season 21. Bölüm",
+      "episode_number": 21,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1m2juaJaIom2TzTdZyFqw0wz10FoN6U3c/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/j432wr2avgcd"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/8dj96js9xb6q"
+        },
+        {
+          "fansub_id": 13,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-e8xpaumpyvcz.html"
+        },
+        {
+          "fansub_id": 13,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-9dnd4js1lj2n.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 10,
+          "end": 110
+        },
+        "ed": {
+          "start": 1301,
+          "end": 1393
+        }
+      },
+      "added_date": "2026-07-24T23:53:23.511052",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Edens Zero 2nd Season 22. Bölüm",
+      "episode_number": 22,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/10DkhhFGrTVitvoFm7cV8VKmva9VxZGiw/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/gn4jmlxcqqqw"
+        },
+        {
+          "fansub_id": 13,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-i90rjl5d9fns.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1303,
+          "end": 1387
+        }
+      },
+      "added_date": "2026-07-24T23:53:23.511052",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Edens Zero 2nd Season 23. Bölüm",
+      "episode_number": 23,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1LaKcPkdBM2_gSQvRzfFjMRHJQIGEsmJE/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/ctrlilg2i2mx"
+        },
+        {
+          "fansub_id": 13,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-17l4fib3gun7.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T23:53:23.511052",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Edens Zero 2nd Season 24. Bölüm",
+      "episode_number": 24,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1jCVquoAxmNiaP3IWYfNb59PfO6rev5lb/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/iz8h6s9c64tl"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-mkc3lb8j90gu.html"
+        },
+        {
+          "fansub_id": 13,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-8t2rci4f33ei.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1306,
+          "end": 1389
+        }
+      },
+      "added_date": "2026-07-24T23:53:23.511052",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Edens Zero 2nd Season 25. Bölüm Final",
+      "episode_number": 25,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1S_SCTiq7r6O-905pK99nnPr4E7-_WRwC/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5280038"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5280039"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/g5pmwhg0vf28"
+        },
+        {
+          "fansub_id": 13,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-77gzltspp6fz.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T23:53:23.511052",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

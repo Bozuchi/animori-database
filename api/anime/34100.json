@@ -1,0 +1,98 @@
+{
+  "turkanime": {
+    "isim": "Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Miyu'nun Illya ve diğerleri ile tanışmadan önceki hayatını konu alıyor.",
+    "slug": "fate-kaleid-liner-prisma-illya-movie-sekka-no-chikai"
+  },
+  "jikan": {
+    "mal_id": 34100,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1996/93042.jpg",
+    "trailer_id": "-CWTJv1uulg",
+    "title": "Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai",
+    "title_english": "Fate/kaleid liner Prisma Illya: Vow in the Snow",
+    "type": "Movie",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2017-08-26T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 29 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.93,
+    "popularity": 2323,
+    "synopsis": "After succumbing to an unenviable fate, Kiritsugu Emiya has left Shirou Emiya the duty to save mankind in his place. The world is dying and time is ticking, but when the salvation Shirou seeks is at the cost of his only family left—his younger sister—will he still have the heart to pursue this duty?\n\nShirou is now pressed with the choice to continue being a hero of justice—or become the very evil his ideal has vowed to vanquish. The orphan is alone once again, yet his body is still made of swords. The Fifth Holy Grail War now begins with his oath under snow.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      1,
+      10
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      300
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          31706
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          42030
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          36131
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entries": [
+          36833
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 97757,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97757-NAbK3w90qKOq.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 101,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1c-Ysqp85HYxAY4sd2vNL0R5GLM9euNBF/preview"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-lue8w448la3a.html"
+        },
+        {
+          "fansub_id": 193,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271189587"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T01:23:12.989646",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

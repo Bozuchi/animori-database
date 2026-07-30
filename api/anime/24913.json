@@ -1,0 +1,100 @@
+{
+  "turkanime": {
+    "isim": "Bokura wa Minna Kawai-sou: Hajimete no",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Bokura wa Minna Kawai-sou animesinin özel bölümüdür.",
+    "slug": "bokura-wa-minna-kawai-sou-hajimete-no"
+  },
+  "jikan": {
+    "mal_id": 24913,
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/71613.jpg",
+    "trailer_id": null,
+    "title": "Bokura wa Minna Kawai-sou: Hajimete no",
+    "title_english": "The Kawai Complex Guide to Manors and Hostel Behavior OVA: First Time",
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2015-01-30T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.63,
+    "popularity": 3482,
+    "synopsis": "Unaired episode included in the 7th Blu-ray/DVD volume of Bokura wa Minna Kawaisou anime.",
+    "genres": [
+      22
+    ],
+    "themes": [
+      74,
+      23
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      112
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          26769
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          21405
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 20780,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n20780-EYPjGO1bIUO1.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Bokura wa Minna Kawai-sou: Hajimete no Special",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 8,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/18Sr4C_FeMeoeS7Lb4HjqEJV-5qm3QAj4/preview"
+        },
+        {
+          "fansub_id": 8,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933019212"
+        },
+        {
+          "fansub_id": 8,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/6765.html"
+        },
+        {
+          "fansub_id": 8,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1742863"
+        },
+        {
+          "fansub_id": 8,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-w6ckvtk5tg98.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T06:30:37.014269",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

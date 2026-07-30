@@ -1,0 +1,172 @@
+{
+  "turkanime": {
+    "isim": "Ajin OVA",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Ajin animese ait OVA bölümleridir.",
+    "slug": "ajin-ova"
+  },
+  "jikan": {
+    "mal_id": 32015,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1173/132720.jpg",
+    "trailer_id": "u9kKs1pVAwA",
+    "title": "Ajin OVA",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2016-05-06T00:00:00+00:00",
+      "to": "2016-10-07T00:00:00+00:00"
+    },
+    "duration": "21 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.15,
+    "popularity": 3742,
+    "synopsis": "New episodes bundled with the limited edition eighth and ninth manga volumes.",
+    "genres": [
+      1,
+      14,
+      7,
+      37
+    ],
+    "themes": [],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      1023
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          49865
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          31580,
+          33253
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 21487,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Ajin OVA 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2745895"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/2o2hkhhg"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1500OedA0UIC23QUjStW7MFVSlCDIUla_/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/enes.mert.97/_myvideo/71.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4503792"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2746855"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-egsxflgpi3nb.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/e1pl9c1a"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/yxh0yxt2"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-m8ww5zqj3ojd.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-20T04:32:15.491795",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ajin OVA 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 26,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1pAwMnDi1XbabK7uL2eViuWudXUct3dI1/preview"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4529353"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-zug4ldxjq24u.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-a5wad5l3txh7.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/eh4cm120"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ogycq6pcxsj9.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-0ptqmhabnt8n.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-20T04:32:15.491795",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

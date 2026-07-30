@@ -1,0 +1,96 @@
+{
+  "turkanime": {
+    "isim": "GJ-bu@: Special",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "GJ-bu serisine ait Special bölümdür.",
+    "slug": "gj-bu-special"
+  },
+  "jikan": {
+    "mal_id": 21635,
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/60319.jpg",
+    "trailer_id": null,
+    "title": "GJ-bu@",
+    "title_english": null,
+    "type": "TV Special",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2014-05-06T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "46 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.22,
+    "popularity": 4168,
+    "synopsis": "During the school's spring break, Kyouya \"Kyoro\" Shinomiya has once again been kidnapped. Upon release, he finds himself in the GJ Club room, together with his captors, the cute GJ club members. At first glance, Kyoro does not see anything out of the ordinary in the club room, but as he gazes out of the window, he realizes that they are no longer in Japan but in New York!\n\n[Written by MAL Rewrite]",
+    "genres": [
+      4
+    ],
+    "themes": [
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      95
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          14811
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 20567,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20567-zEqh0UIiNqHY.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "GJ-bu Special",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 57,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/12sU6UTXT1HxdLbygIfwjneBaA-tymPqe/preview"
+        },
+        {
+          "fansub_id": 57,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/17C--nfRqtXC0Ag00pgcfKdBszWJEbQBF/preview"
+        },
+        {
+          "fansub_id": 57,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/12Hjb9y4MThqN4VLnZCrdecRo2DJBVHVi/preview"
+        },
+        {
+          "fansub_id": 57,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933016746"
+        },
+        {
+          "fansub_id": 57,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4523128"
+        },
+        {
+          "fansub_id": 57,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-55g5dbmypwft.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T23:59:57.617469",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

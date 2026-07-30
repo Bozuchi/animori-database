@@ -1,0 +1,107 @@
+{
+  "turkanime": {
+    "isim": "Inu x Boku SS Special",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Inu x Boku SS serisine ait Special bölümdür.",
+    "slug": "inu-x-boku-ss-special"
+  },
+  "jikan": {
+    "mal_id": 13403,
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/41927.jpg",
+    "trailer_id": null,
+    "title": "Inu x Boku SS: Miketsukami-kun Henka/Switch/Omamagoto",
+    "title_english": "Inu X Boku Secret Service Episode 13",
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2012-09-26T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.51,
+    "popularity": 2484,
+    "synopsis": "Unaired episode released with the seventh volume of the Blu-ray &amp; DVD. It consists of three short episodes newly written by the manga author Fujiwara Cocoa. Fujiwara also designed a new character called Hana-chan for the episode.",
+    "genres": [
+      4,
+      37
+    ],
+    "themes": [],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      287
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          11013
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 13403,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Inu x Boku SS Special",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1PT_b4pH3nwuWkCeey_BHLJs6zr3l8Nod/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359653530"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4032684"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4499823"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5qvw30tn2ig1.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-45co5lg2dgvx.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/nzcjpxq5"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-8841ia5tio06.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T05:37:58.354500",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

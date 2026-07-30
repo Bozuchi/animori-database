@@ -1,0 +1,97 @@
+{
+  "turkanime": {
+    "isim": "Digimon Frontier: Ornismon Fukkatsu!!",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Digimon Frontier serisinin filmidir.",
+    "slug": "digimon-frontier-ornismon-fukkatsu"
+  },
+  "jikan": {
+    "mal_id": 3031,
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/4416.jpg",
+    "trailer_id": "WSqQ8dbQKAc",
+    "title": "Digimon Frontier: Ornismon Fukkatsu!!",
+    "title_english": "Digimon Frontier: Island of Lost Digimon",
+    "type": "Movie",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2002-07-20T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "40 min",
+    "rating": "PG - Children",
+    "score": 6.84,
+    "popularity": 5294,
+    "synopsis": "The five digi-destined children stumble upon an ancient island inhabited by two different types of digimon; The Beast types, and the Human types. When they see two young digimon-a beast and humanoid-have become friends, they decide something must be done about the feud.\n\n(Source: ANN)",
+    "genres": [
+      2,
+      4,
+      8,
+      10
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      18
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          1132
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 3031,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3031-yMy3oUns56og.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Digimon Frontier: Ornismon Fukkatsu",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/13Yhpl9UCCylvLxRsKJH64RmSk7_5MxUb/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985852767"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985846760"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4444159"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4071868"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-i47nwgd4ukde.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:32:47.194025",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "turkanime": {
+    "isim": "Penguin's Memory: Shiawase Monogatari",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Mike savaşta yaralanıp evine dönen bir askerdir. Ailesinden, arkadaşlarından ve memleketinden ayrılıp yeni bir hayata yol alıyor.",
+    "slug": "penguin-s-memory-shiawase-monogatari"
+  },
+  "jikan": {
+    "mal_id": 16434,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1943/156823.jpg",
+    "trailer_id": null,
+    "title": "Penguin's Memory: Shiawase Monogatari",
+    "title_english": null,
+    "type": "Movie",
+    "source": "Other",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1985-06-22T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 42 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.1,
+    "popularity": 8822,
+    "synopsis": "Mike is a penguin soldier who returns home after being injured during combat. Estranged from his family and friends, he leaves his hometown and starts to roam adrift through the country.\n\n(Source: ANN)",
+    "genres": [
+      8
+    ],
+    "themes": [
+      51,
+      38
+    ],
+    "demographics": [],
+    "studios": [
+      1952
+    ],
+    "relations": [
+      {
+        "relation": "Character",
+        "entries": [
+          52700
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 16434,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/16434-FOD5xtw2gn9d.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Penguin's Memory: Shiawase Monogatari",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/17YKY7uXfgjgOKyD5B3Z4ClMaQ22LjP5i/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/17ZFdThm3mcghLhNqYkf9H8287a-0F_6f/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4517758"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-cmjebcvb12n6.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T01:26:19.634098",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

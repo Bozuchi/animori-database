@@ -1,0 +1,123 @@
+{
+  "turkanime": {
+    "isim": "Saint☆Oniisan",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Hristiyanlığın kurucusu Isa ve Budizmin kurucusu Buda'nın oda arkadaşı olarak bir apartmanda birlikte yaşamalarını anlatmaktadır. Günümüz Tokyo'sunda ise hayat onların zamanındakinden çok daha farklıdır.",
+    "slug": "saint-oniisan"
+  },
+  "jikan": {
+    "mal_id": 15775,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1676/150182.jpg",
+    "trailer_id": null,
+    "title": "Saint☆Oniisan",
+    "title_english": "Saint☆Young Men",
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2012-12-03T00:00:00+00:00",
+      "to": "2013-08-23T00:00:00+00:00"
+    },
+    "duration": "20 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.47,
+    "popularity": 2450,
+    "synopsis": "Jesus Christ and Gautama Buddha, the founders of Christianity and Buddhism, are living together as roommates in a Tokyo apartment while taking a vacation on Earth. The comedy often involves jokes about Christianity, Buddhism, and all things related, as well as the main characters' attempts to hide their identities and understand modern society in Japan.",
+    "genres": [
+      4
+    ],
+    "themes": [],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      56
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          8947
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          15771
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 15775,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/15775-NaOdXtyVhrcU.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Saint☆Onii-san OVA 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1E8uQCfcTTgvRFkrTyz4XcCQAlLHUDipn/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933017080"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ji5zx20xrotr.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-39v4zbwjg4ht.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T06:02:14.851691",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Saint☆Onii-san OVA 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1NqIswweqzztorEa43wB3kqlb9LN-Sr7m/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933017081"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1471103"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-hv9sd4ttzew7.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T06:02:14.851691",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

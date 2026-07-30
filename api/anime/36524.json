@@ -1,0 +1,104 @@
+{
+  "turkanime": {
+    "isim": "Dies Irae: Reimei",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Dies Irae'nin 0. bölümüdür.",
+    "slug": "dies-irae-reimei"
+  },
+  "jikan": {
+    "mal_id": 36524,
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/88229.jpg",
+    "trailer_id": null,
+    "title": "Dies Irae: Reimei",
+    "title_english": "Dies irae: The Dawning Days",
+    "type": "Special",
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2017-10-07T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.36,
+    "popularity": 4889,
+    "synopsis": "Episode 0 of Dies Irae.",
+    "genres": [
+      1
+    ],
+    "themes": [
+      31
+    ],
+    "demographics": [],
+    "studios": [
+      179
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          32271
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          96414
+        ]
+      }
+    ]
+  },
+  "anilist": null,
+  "episodes": [
+    {
+      "turkanime_title": "Dies Irae: Reimei Special",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 34,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1qWrELFPapBqf70rONrwZioMdtI7Jkyul/preview"
+        },
+        {
+          "fansub_id": 34,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/16FnAwgvLouWDL8ZyszyaJRBVOKrAguQl/preview"
+        },
+        {
+          "fansub_id": 34,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/lowsubs/video/embed/_myvideo/8"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4523766"
+        },
+        {
+          "fansub_id": 34,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-3rqrjfkh1pdl.html"
+        },
+        {
+          "fansub_id": 34,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-l0lgr68q60ms.html"
+        },
+        {
+          "fansub_id": 34,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-o44558rfbpm0.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:20:43.741508",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

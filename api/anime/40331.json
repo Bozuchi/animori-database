@@ -1,0 +1,97 @@
+{
+  "turkanime": {
+    "isim": "Ongaku",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Hikaye, hiçbiri müzik enstrümanları ile daha önce deneyimi olmayan bir grup serserinin oluşturduğu rock grubu etrafında dönüyor.",
+    "slug": "ongaku"
+  },
+  "jikan": {
+    "mal_id": 40331,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1822/112652.jpg",
+    "trailer_id": "asADrOdlcEY",
+    "title": "Ongaku",
+    "title_english": "On-Gaku: Our Sound",
+    "type": "Movie",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2020-01-11T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 11 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.61,
+    "popularity": 5898,
+    "synopsis": "Kenji, Asakura, and Oota are an apathetic trio of school friends, notorious for often beating up fellow delinquents without reason. Tired of the mundane fights that once provided the group with temporary adrenaline, Kenji looks for an alternative source by starting a band on a whim. Enlisting the rest of his gang, he picks up the bass, with Oota on the guitar and Asakura on the drums. Despite having no prior experience playing musical instruments, their first session far exceeds their expectations.\n\nOngaku is the raw depiction of three teenage boys from the moment they discover the beauty of making music to their first live performance that turns a simple cure for boredom into a fiery expression of passion.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      46,
+      36
+    ],
+    "themes": [
+      19
+    ],
+    "demographics": [],
+    "studios": [
+      2663
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          121515
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 111944,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/111944-2Rke7brUZaoi.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Ongaku - Sesimiz",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1EJez7w-u-dYUknSi9_PPePtQ2v9Bt1sG/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1N7UuwuDQwrkAOYONUWlO1bWB-gfNpIEM/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/szerzno/video/embed/_myvideo/101"
+        },
+        {
+          "fansub_id": 169,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1cICVRrp72W8Gyyv8h52bvW6jAISwnAiG/preview"
+        },
+        {
+          "fansub_id": 169,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668735"
+        },
+        {
+          "fansub_id": 169,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-gqqpgw9pt4p6.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-28T23:27:24.971520",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

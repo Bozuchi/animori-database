@@ -1,0 +1,122 @@
+{
+  "turkanime": {
+    "isim": "Kami no Tou: Koubou-sen",
+    "puan": "0.00",
+    "bolum_durumu": "13/13",
+    "ozet": "Serinin üçüncü sezonudur.",
+    "slug": "kami-no-tou-koubou-sen"
+  },
+  "jikan": {
+    "mal_id": 59989,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1877/145819.jpg",
+    "trailer_id": null,
+    "title": "Kami no Tou: Koubou-sen",
+    "title_english": "Tower of God Season 2: Workshop Battle",
+    "type": "TV",
+    "source": "Web manga",
+    "status": "Finished Airing",
+    "year": 2024,
+    "season": "fall",
+    "airing": false,
+    "aired": {
+      "from": "2024-10-06T00:00:00+00:00",
+      "to": "2024-12-29T00:00:00+00:00"
+    },
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.88,
+    "popularity": 1851,
+    "synopsis": "Second part of Tower of God Season 2.",
+    "genres": [
+      1,
+      2,
+      8,
+      10,
+      7
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      229
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          52635
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          122663
+        ]
+      }
+    ]
+  },
+  "anilist": null,
+  "episodes": [
+    {
+      "turkanime_title": "Kami no Tou: Koubou-sen 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 43,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1TgSjf68_b30oYlUdGZ25A8AkA4s1gO9s/preview"
+        },
+        {
+          "fansub_id": 43,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5714228"
+        },
+        {
+          "fansub_id": 43,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/85dgbifupsxt"
+        },
+        {
+          "fansub_id": 43,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vygc8roade9p.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T23:18:15.399256",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kami no Tou: Koubou-sen 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 43,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1xxVJvFSTTgPeZRVexEiG-49SHccnRTNH/preview"
+        },
+        {
+          "fansub_id": 43,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5715633"
+        },
+        {
+          "fansub_id": 43,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/4mngoxvu4grw"
+        },
+        {
+          "fansub_id": 43,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-hfdwda62jyh5.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T23:18:15.399256",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

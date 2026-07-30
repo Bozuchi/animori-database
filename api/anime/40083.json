@@ -1,0 +1,153 @@
+{
+  "turkanime": {
+    "isim": "Arifureta Shokugyou de Sekai Saikyou Specials",
+    "puan": "9.17",
+    "bolum_durumu": "2/2",
+    "ozet": "Arifureta Shokugyou de Sekai Saikyou animesinin kısa özel bölümleridir.",
+    "slug": "arifureta-shokugyou-de-sekai-saikyou-specials"
+  },
+  "jikan": {
+    "mal_id": 40083,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1634/102577.jpg",
+    "trailer_id": null,
+    "title": "Arifureta Shokugyou de Sekai Saikyou Specials",
+    "title_english": "Arifureta: From Commonplace to World's Strongest Specials",
+    "type": "Special",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2019-12-25T00:00:00+00:00",
+      "to": "2020-02-26T00:00:00+00:00"
+    },
+    "duration": "8 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.74,
+    "popularity": 2737,
+    "synopsis": "Unaired episodes included with the Blu-ray releases of Arifureta Shokugyou de Sekai Saikyou.",
+    "genres": [
+      1,
+      2,
+      10
+    ],
+    "themes": [
+      35,
+      62
+    ],
+    "demographics": [],
+    "studios": [
+      163,
+      314
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          96528,
+          88923
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          36882
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 111729,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Arifureta Shokugyou de Sekai Saikyou Specials 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Y6AjqLe8ICV6Iwd-6PYQbDxeMc3jI0tp/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/6988"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3806092"
+        },
+        {
+          "fansub_id": 30,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-k59fyxbi5sm7.html"
+        },
+        {
+          "fansub_id": 39,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4589410"
+        },
+        {
+          "fansub_id": 39,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-xbizhywcy97p.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T02:43:17.127173",
+      "jikan_mal_id": 1,
+      "filler": true,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Arifureta Shokugyou de Sekai Saikyou Specials 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1MiwLLhITCp5rkcOhcDDOSc6Ktra3CLmh/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1B3EE95q5IPuv8zxmW-62-gO5_0JBhHhj/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4516771"
+        },
+        {
+          "fansub_id": 30,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-s82mhqzc6dh8.html"
+        },
+        {
+          "fansub_id": 30,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-bvfq8mtott98.html"
+        },
+        {
+          "fansub_id": 39,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4589412"
+        },
+        {
+          "fansub_id": 39,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-c5np5fhqae8v.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T02:43:17.127173",
+      "jikan_mal_id": 2,
+      "filler": true,
+      "recap": false
+    }
+  ]
+}

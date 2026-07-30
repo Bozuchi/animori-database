@@ -1,0 +1,739 @@
+{
+  "turkanime": {
+    "isim": "Ikkitousen: Xtreme Xecutor",
+    "puan": "0.00",
+    "bolum_durumu": "12/12",
+    "ozet": "Ikkitousen serisinin 4. sezonudur.\nGünümüz Japonya'sında Üç Krallık Döneminin savaşçı ruhları iktidarlık mücadelesi devam ediyor ve yeni bir düşman ortaya çıkıyor.\nGüçlü düşman Kentei, tüm dövüşçülere meydan okuyor.",
+    "slug": "ikkitousen-xtreme-xecutor"
+  },
+  "jikan": {
+    "mal_id": 7580,
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/18209.jpg",
+    "trailer_id": null,
+    "title": "Ikkitousen: Xtreme Xecutor",
+    "title_english": null,
+    "type": "TV",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": 2010,
+    "season": "spring",
+    "airing": false,
+    "aired": {
+      "from": "2010-03-26T00:00:00+00:00",
+      "to": "2010-06-11T00:00:00+00:00"
+    },
+    "duration": "24 min per ep",
+    "rating": "R+ - Mild Nudity",
+    "score": 6.71,
+    "popularity": 3455,
+    "synopsis": "Life gets crazy for Hakufu when she takes on a pupil that acts just like her! A tournament between the school heads start, but due to Hakufu's negligence, her pupil ends up taking her place. The tournament isn't what it seems, and the girls find themselves in the middle of a plot to take over the clans.\n\n(Source: FUNimation)",
+    "genres": [
+      1,
+      9
+    ],
+    "themes": [
+      17,
+      23,
+      31
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      120
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          4196
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          11255
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entries": [
+          8507
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 7580,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/7580-OtnJe6EXDiC2.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Ikkitousen: Xtreme Xecutor 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 89,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1krrHxJNVowki_X-TQvP2nPWd4jW1F76f/preview"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7893414565877121131"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/258/6999.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4505834"
+        },
+        {
+          "fansub_id": 89,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1797285"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2umho7qeylxz.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-rjvzvwdfyss0.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1304,
+          "end": 1419
+        }
+      },
+      "added_date": "2026-07-26T05:17:16.030913",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ikkitousen: Xtreme Xecutor 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 89,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1XBtecB1Vz5LznGGkuX9h9fbBdVSGGXid/preview"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7893414565877121135"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/258/7000.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4511832"
+        },
+        {
+          "fansub_id": 89,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1797286"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-08g5ia2msfqc.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-gdo5c5p5auwx.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-3bhvyiex4lnp.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T05:17:16.030913",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ikkitousen: Xtreme Xecutor 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 89,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ctd1MCdV4-gZtf5T-4ad3R0v2BVwHkqk/preview"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7893414565877121136"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/258/7001.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4505838"
+        },
+        {
+          "fansub_id": 89,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1797287"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ks20h5lsw9oy.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-nh80mhxobqgq.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-cdlvivn1hkbf.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1304,
+          "end": 1420
+        }
+      },
+      "added_date": "2026-07-26T05:17:16.030913",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ikkitousen: Xtreme Xecutor 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 89,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Q3aRWy0sgQmlS3wZUjkMzsrZMtc6KW_R/preview"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/7025.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7893414565877121137"
+        },
+        {
+          "fansub_id": 89,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4529619"
+        },
+        {
+          "fansub_id": 89,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1800005"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-3ngdu1hvjv51.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-92j0aj9wjggo.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-3gpz1mi9kleo.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1300,
+          "end": 1420
+        }
+      },
+      "added_date": "2026-07-26T05:17:16.030913",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ikkitousen: Xtreme Xecutor 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 89,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/13ABIq26jgxYN72FI3kJuFvzFEicj3xbm/preview"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/7077.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7893414565877121138"
+        },
+        {
+          "fansub_id": 89,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1833665"
+        },
+        {
+          "fansub_id": 89,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4511836"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-albcqovtvqch.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-a1nhktygj71h.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-y6f1b2n47oo8.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1302,
+          "end": 1420
+        }
+      },
+      "added_date": "2026-07-26T05:17:16.030913",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ikkitousen: Xtreme Xecutor 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 89,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1SC0DxINqlELlorM2f0GP8XlBN_zw_Zwo/preview"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/7078.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7893414565877121139"
+        },
+        {
+          "fansub_id": 89,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1833667"
+        },
+        {
+          "fansub_id": 89,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4511839"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-yfmny529cwpx.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-0965gq26etvp.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-mmqp2zgfiu4w.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1303,
+          "end": 1416
+        }
+      },
+      "added_date": "2026-07-26T05:17:16.030913",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ikkitousen: Xtreme Xecutor 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 89,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1fY5kRGJnli-po32ibhlojfAFIkPn4EGr/preview"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7893414565877121140"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/7445.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4505843"
+        },
+        {
+          "fansub_id": 89,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1845253"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-g9q5nu16u2fi.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-10vhogqm5tlo.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/e5k6g4dq"
+        },
+        {
+          "fansub_id": 89,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-os43cwz6byzl.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1298,
+          "end": 1420
+        }
+      },
+      "added_date": "2026-07-26T05:17:16.030913",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ikkitousen: Xtreme Xecutor 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 89,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1hEAYLGwqkyoi9MXK3IObKXsafspaPMSt/preview"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7893414565877121141"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/7446.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4505851"
+        },
+        {
+          "fansub_id": 89,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1845256"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5brnaj4c2s3h.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-wcuapsxonkb9.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-atx8bznosor2.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1301,
+          "end": 1420
+        }
+      },
+      "added_date": "2026-07-26T05:17:16.030913",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ikkitousen: Xtreme Xecutor 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 89,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/15guALR-k46boTZ9DLnr83OlEYvgDV_lI/preview"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7893414565877121142"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/7485.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4529628"
+        },
+        {
+          "fansub_id": 89,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1850387"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-4mtkapctb64k.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-a9w39qbaomj3.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-volwnp62r06i.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1301,
+          "end": 1418
+        }
+      },
+      "added_date": "2026-07-26T05:17:16.030913",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ikkitousen: Xtreme Xecutor 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 89,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1v7rymNSO8_jfzuNbLfJoXS1si_F7Hp9d/preview"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7893414565877121132"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/7486.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4529635"
+        },
+        {
+          "fansub_id": 89,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1850394"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-r4l2mr1i1716.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xyo52m7pnjs5.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-4wd7olls772c.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1301,
+          "end": 1420
+        }
+      },
+      "added_date": "2026-07-26T05:17:16.030913",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ikkitousen: Xtreme Xecutor 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 89,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1eeB15t3rpiq_vdZ0k_3UlxeNWLj7GDAx/preview"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/7490.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7893414565877121133"
+        },
+        {
+          "fansub_id": 89,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4529640"
+        },
+        {
+          "fansub_id": 89,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1851290"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-wu3grw09ug90.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-lj0mal4eb0nc.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-gzrct2z6kzl2.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1301,
+          "end": 1421
+        }
+      },
+      "added_date": "2026-07-26T05:17:16.030913",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ikkitousen: Xtreme Xecutor 12. Bölüm SON",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 89,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1fjbH7o6MDRup_C3Cs9AM2dae639D0yUY/preview"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/7491.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7893414565877121134"
+        },
+        {
+          "fansub_id": 89,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4529644"
+        },
+        {
+          "fansub_id": 89,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1851292"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-i07zhqlbsg2x.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-k2flvkz7274h.html"
+        },
+        {
+          "fansub_id": 89,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-a4yq7sg5rp3p.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1303,
+          "end": 1390
+        }
+      },
+      "added_date": "2026-07-26T05:17:16.030913",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

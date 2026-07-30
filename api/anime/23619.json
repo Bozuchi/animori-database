@@ -1,0 +1,87 @@
+{
+  "turkanime": {
+    "isim": "Haiyore! Nyaruko-san W: W ni Sayonara/Kono Onsen ni Koi no Konton wo",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Haiyore! Nyaruko-san W serisine ait OVA bölümdür.",
+    "slug": "haiyore-nyaruko-san-w-w-ni-sayonara-kono-onsen-ni-koi-no-konton-wo"
+  },
+  "jikan": {
+    "mal_id": 23619,
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/61789.jpg",
+    "trailer_id": null,
+    "title": "Haiyore! Nyaruko-san W: W ni Sayonara/Kono Onsen ni Koi no Konton wo",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2014-04-01T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "15 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.04,
+    "popularity": 4260,
+    "synopsis": "Hot Spring-themed OVA of Haiyore! Nyaruko-san W.",
+    "genres": [
+      4,
+      9
+    ],
+    "themes": [
+      20
+    ],
+    "demographics": [],
+    "studios": [
+      27
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          15699
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 20733,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Haiyore! Nyaruko-san W - OVA",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 83,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/14tPB3eJU_I_an3kGpWCjAwjBzyIWC9z4/preview"
+        },
+        {
+          "fansub_id": 83,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/2444636457931910794"
+        },
+        {
+          "fansub_id": 83,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1487889"
+        },
+        {
+          "fansub_id": 83,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-uqrrzezij7pf.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T01:37:56.583366",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

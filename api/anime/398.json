@@ -1,0 +1,131 @@
+{
+  "turkanime": {
+    "isim": "Seikai no Senki III",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Bu iki bölümlük OVA'da Jinto'nun memleketi olan Hyde Sistemi'nin bağımsızlığını kazanmasından bahsediliyor.",
+    "slug": "seikai-no-senki-iii"
+  },
+  "jikan": {
+    "mal_id": 398,
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/2755.jpg",
+    "trailer_id": null,
+    "title": "Seikai no Senki III",
+    "title_english": "Banner of the Stars III",
+    "type": "OVA",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2005-08-06T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "37 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.64,
+    "popularity": 5670,
+    "synopsis": "Jinto and Lafiel were riding on a light-armed transport ship \"Bokbrusue\" and navigating at the planar space of the Hyde System. This was for Jinto to govern the Hyde System, which returned to Empirial rule after the Union retreated, officially as an Earl. However, the government of Martin, Jinto`s motherland, resisted obstinately against the Empirial rule. On the other side, \"Daiichi Jyuurin Sentai\" (the First Devastation Fleet), formed with the new ship type \"Attack Vessel\", travelled to the Hyde System for drilling practices, but... \n\n(Source: ANN)",
+    "genres": [
+      1,
+      22,
+      24
+    ],
+    "themes": [
+      38,
+      29
+    ],
+    "demographics": [],
+    "studios": [
+      14
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          397
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          11039
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 398,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Banner Of The Stars 3 OVA 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1v7mgIhRfClmduPknOAy38ywbfwyrJ5vY/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359654606"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4067145"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-sta9f1vmd6w2.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-pklxdnpr2gbq.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T07:08:59.608932",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Banner Of The Stars 3 OVA 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1DAIf-6Vlt8yKbsl0nhaWmSM3eAf9xrph/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359654607"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4067146"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-buf3jdpayg4a.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T07:08:59.608932",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

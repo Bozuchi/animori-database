@@ -1,0 +1,176 @@
+{
+  "turkanime": {
+    "isim": "Major: World Series",
+    "puan": "8.47",
+    "bolum_durumu": "2/2",
+    "ozet": "Televizyon serisine dahil edilmeyen mangadaki World Series bölümünün anime versiyonudur. 2 bölümlük bu OVA serisi, Major serisinin son anime seridir.",
+    "slug": "major-world-series"
+  },
+  "jikan": {
+    "mal_id": 11917,
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/75220.jpg",
+    "trailer_id": null,
+    "title": "Major: World Series",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2011-12-16T00:00:00+00:00",
+      "to": "2012-01-18T00:00:00+00:00"
+    },
+    "duration": "28 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.29,
+    "popularity": 4104,
+    "synopsis": "Gorou Shigeno's journey with the Indiana Hornets continues as they seek to win the prestigious World Series. However, after an unexpected accident during the match with his fated rival, his quest in becoming the world's best becomes more challenging. Undaunted, Gorou continues to put the weight of his dreams into every pitch he makes, and forges a path towards his desired future through high-speed pitching.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      30
+    ],
+    "themes": [
+      77
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      118
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          7655
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          9890
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          10978
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 11917,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Major: World Series 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 137,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ZgUjXNVKnuqYgzd7JdTE7_iT4M1ossSl/preview"
+        },
+        {
+          "fansub_id": 137,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojin_a/video/embed/_myvideo/1121"
+        },
+        {
+          "fansub_id": 137,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271189321"
+        },
+        {
+          "fansub_id": 137,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4506696"
+        },
+        {
+          "fansub_id": 137,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2820021"
+        },
+        {
+          "fansub_id": 137,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-195300bv9a6d.html"
+        },
+        {
+          "fansub_id": 137,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/3de38jy9"
+        },
+        {
+          "fansub_id": 137,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-wagx2mv7cq2d.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T10:31:04.119715",
+      "jikan_mal_id": 1,
+      "filler": true,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Major: World Series 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 137,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1XZLHMiHyZbGHgERu6jbPvlHsEsHyXiEY/preview"
+        },
+        {
+          "fansub_id": 137,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojin_a/video/embed/_myvideo/1122"
+        },
+        {
+          "fansub_id": 137,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359657580"
+        },
+        {
+          "fansub_id": 137,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271189322"
+        },
+        {
+          "fansub_id": 137,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4451418"
+        },
+        {
+          "fansub_id": 137,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2820022"
+        },
+        {
+          "fansub_id": 137,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-bei0wl7cmtr7.html"
+        },
+        {
+          "fansub_id": 137,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/vw6z1num"
+        },
+        {
+          "fansub_id": 137,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/mft3ktuy"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T10:31:04.119715",
+      "jikan_mal_id": 2,
+      "filler": true,
+      "recap": false
+    }
+  ]
+}

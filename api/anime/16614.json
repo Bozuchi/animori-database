@@ -1,0 +1,91 @@
+{
+  "turkanime": {
+    "isim": "Busou Shinki: Install x Dream",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Busou Shinki animesinin yayınlanmamış bölümüdür.",
+    "slug": "busou-shinki-install-x-dream"
+  },
+  "jikan": {
+    "mal_id": 16614,
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/44772.jpg",
+    "trailer_id": null,
+    "title": "Busou Shinki: Install x Dream",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Other",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2013-06-26T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "24 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.54,
+    "popularity": 8406,
+    "synopsis": "An unaired episode of the TV series.",
+    "genres": [
+      24
+    ],
+    "themes": [
+      18
+    ],
+    "demographics": [],
+    "studios": [
+      441
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          14237
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 16614,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Busou Shinki Ova",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/19TYUSNThBXZZjf6GEYh5GMuMq93MZIqc/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669165134"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4425287"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/6mbrkcw0"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-53gfyz8mq4nt.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T07:21:33.080626",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

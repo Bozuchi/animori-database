@@ -1,0 +1,106 @@
+{
+  "turkanime": {
+    "isim": "Pokemon Movie 20: Kimi ni Kimeta!",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Pokemon animesinin 2017 yılında yayınlanmış filmidir.",
+    "slug": "pokemon-movie-20-kimi-ni-kimeta"
+  },
+  "jikan": {
+    "mal_id": 34540,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1402/122043.jpg",
+    "trailer_id": "5NHzI6_D4Tg",
+    "title": "Pokemon Movie 20: Kimi ni Kimeta!",
+    "title_english": "Pokémon the Movie: I Choose You!",
+    "type": "Movie",
+    "source": "Game",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2017-07-15T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 38 min",
+    "rating": "PG - Children",
+    "score": 7.19,
+    "popularity": 3079,
+    "synopsis": "When Satoshi oversleeps on his 10th birthday, he ends up with a stubborn Pikachu instead of the first partner Pokémon he wanted! But after a rocky start, Satoshi and Pikachu become close friends and true partners—and when they catch a rare glimpse of the Legendary Pokémon Houou in flight, they make plans to seek it out together, guided by the Rainbow Wing it leaves behind.\n\nTrainers Makoto and Souji join Satoshi on his journey. Along the way, Satoshi catches an abandoned Hitokage, raises a Pokémon from Caterpie to Butterfree and then releases it to follow its heart, and meets the mysterious Mythical Pokémon Marshadow. When they near their goal, the arrogant Cross—Hitokage’s former Trainer—stands in their way! Can Satoshi and Pikachu defeat this powerful Trainer and reach Houou as they promised, or will their journey end here?\n\n(Source: Official site)",
+    "genres": [
+      1,
+      2,
+      4
+    ],
+    "themes": [],
+    "demographics": [
+      15
+    ],
+    "studios": [
+      28
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          36927
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          112126
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entries": [
+          53873
+        ]
+      },
+      {
+        "relation": "Alternative Setting",
+        "entries": [
+          527
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 98298,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98298-GLiqMFmxovDh.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Pokemon: Kimi ni Kimeta!",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1oME1Qp8lTAKUUlrA1huEOaLdp52_tVrG/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/14iFIThZTHUdRhYtMyEUal6Ie9X_gCNTR/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/2444636457931911724"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-r3ov4ismd2ef.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T02:27:00.998970",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

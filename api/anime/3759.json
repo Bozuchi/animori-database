@@ -1,0 +1,87 @@
+{
+  "turkanime": {
+    "isim": "School Days: Valentine Days",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "School Days serisine ait OVA bölümdür.",
+    "slug": "school-days-valentine-days"
+  },
+  "jikan": {
+    "mal_id": 3759,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1691/121897.jpg",
+    "trailer_id": null,
+    "title": "School Days: Valentine Days",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2008-01-17T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "18 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.78,
+    "popularity": 3332,
+    "synopsis": "Kotonoha Katsura and her sister, Kokoro, have invited Sekai Saionji, Makoto Itou, and their friends on a hot spring trip with one goal in mind: to take a breather from their busy school lives.\n\nAfter the outing, the girls begin to discuss the upcoming Valentine's Day and their plans for the important event. When the day finally arrives, Makoto—who expected not to receive any chocolate from anyone—abruptly finds himself surrounded by a group of girls who all want to give their chocolates to him.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      4,
+      22
+    ],
+    "themes": [
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      120
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          2476
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 3759,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "School Days OVA: Valentine Days",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1KqDmef7G05NMsQ8F1YVkisaxpM48wRSc/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985851586"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439899"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-fznx9olfdm8u.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T06:56:03.073592",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

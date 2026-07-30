@@ -1,0 +1,94 @@
+{
+  "turkanime": {
+    "isim": "Hajime no Ippo: Boxer no Kobushi",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "DVD'lerde yer alan özel bir bölüm. Takamura'nın nasıl boks yapmaya başladığını anlatıyor.",
+    "slug": "hajime-no-ippo-boxer-no-kobushi"
+  },
+  "jikan": {
+    "mal_id": 12069,
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/84664.jpg",
+    "trailer_id": null,
+    "title": "Hajime no Ippo: Boxer no Kobushi",
+    "title_english": "Fighting Spirit Special",
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2003-03-21T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.08,
+    "popularity": 3183,
+    "synopsis": "A special episode included in the DVDs. It tells the story of how Takamura started boxing.",
+    "genres": [
+      30
+    ],
+    "themes": [
+      54
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      11
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          7
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          263
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 12069,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Hajime no Ippo: Boxer no Kobushi",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1MuvDDSmRWNKGnSCj4vHqodKHNWN-Mwv9/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/morphosis123/_myvideo/115.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1081129"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-yrl98oc2kkbu.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T01:44:34.677241",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

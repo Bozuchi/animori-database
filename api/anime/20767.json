@@ -1,0 +1,156 @@
+{
+  "turkanime": {
+    "isim": "Noragami OVA",
+    "puan": "9.01",
+    "bolum_durumu": "2/2",
+    "ozet": "Noragami serisinin özel bölümleridir.",
+    "slug": "noragami-ova"
+  },
+  "jikan": {
+    "mal_id": 20767,
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/77177.jpg",
+    "trailer_id": null,
+    "title": "Noragami OVA",
+    "title_english": "Noragami OVA",
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2014-02-17T00:00:00+00:00",
+      "to": "2014-07-17T00:00:00+00:00"
+    },
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.7,
+    "popularity": 831,
+    "synopsis": "Kamigakari, Kamitatari\nHiyori Iki is excited to start high school alongside her two middle school friends, but \"Delivery God\" Yato seems to have other plans for the day. Will Hiyori be able to make a good impression on her first day? Or will Yato cost her a happy high school life?\n\nHaru no Hi no Yakusoku\nOn another day, Hiyori decides to take advantage of the beautiful weather and invites a number of people to gaze at the cherry blossoms, including the fearsome combat god, Bishamon. But how long will their blissful day last when Yato and his old rival Bishamon start to drink together? \n\n[Written by MAL Rewrite]",
+    "genres": [
+      4,
+      37
+    ],
+    "themes": [
+      6,
+      23
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      4
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          24692,
+          62723
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          20507
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 20494,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20494-Kwq9S4Q3m66B.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Noragami OAD 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 46,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1mOivcpwu5ViWc8RSd9n0CCuVz1wZnwVL/preview"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1388360"
+        },
+        {
+          "fansub_id": 46,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-3ahsyio55jnl.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 54.573,
+          "end": 144.573
+        },
+        "ed": {
+          "start": 1345.417,
+          "end": 1435.42
+        }
+      },
+      "added_date": "2026-07-27T16:55:36.372728",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Noragami OAD 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 46,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1THaYAHivYUvRjVLkMT5LE0J96bUkygXU/preview"
+        },
+        {
+          "fansub_id": 46,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ZpDdPMlNP6heIikD0jgYIoiCgeHaXWhL/preview"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4523329"
+        },
+        {
+          "fansub_id": 46,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-skgeb0bir2go.html"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/5ulaq80a"
+        },
+        {
+          "fansub_id": 46,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ltgtgk962i3y.html"
+        },
+        {
+          "fansub_id": 46,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-hfz31f4vt51h.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 98.54,
+          "end": 188.54
+        },
+        "ed": {
+          "start": 1345.5,
+          "end": 1438
+        }
+      },
+      "added_date": "2026-07-27T16:55:36.372728",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

@@ -1,0 +1,930 @@
+{
+  "turkanime": {
+    "isim": "Kakegurui 2nd Season",
+    "puan": "9.13",
+    "bolum_durumu": "12/12",
+    "ozet": "Kakegurui'nin 2. sezonudur.",
+    "slug": "kakegurui-2nd-season"
+  },
+  "jikan": {
+    "mal_id": 37086,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1496/96519.jpg",
+    "trailer_id": "8fCIcho7N4k",
+    "title": "Kakegurui××",
+    "title_english": null,
+    "type": "TV",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": 2019,
+    "season": "winter",
+    "airing": false,
+    "aired": {
+      "from": "2019-01-09T00:00:00+00:00",
+      "to": "2019-03-27T00:00:00+00:00"
+    },
+    "duration": "24 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.18,
+    "popularity": 263,
+    "synopsis": "As Yumeko Jabami's fame grows and the reputation of the student council dwindles, Kirari Momobami decides to revolutionize the group. To this end, she announces an election for its next president. The rules are simple: each student in the school receives one chip. Whoever has the most chips by the end of thirty days becomes both the new president and the head of the Momobami clan.\n\nUpon receiving news of this development, the Momobami branch families spring into action. Eleven transfer students arrive at Hyakkao Private Academy, each aiming to lead both the school and the Momobami clan. Equipped with unique talents, they will compete to get as many chips as possible—but their chips are not the only things on the line.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      8,
+      7,
+      41
+    ],
+    "themes": [
+      59,
+      40,
+      23,
+      11
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      569
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          34933
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          73603
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 100876,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n100876-gqt1fZKTubPm.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Kakegurui 2nd Season 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4405704"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-lkmku9qo9ync.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-0a5fwwurnz5f.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/2392"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3539716"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2yttmqr1j1z3.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/kr04bhmz"
+        },
+        {
+          "fansub_id": 179,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-06knrptucof5.html"
+        },
+        {
+          "fansub_id": 179,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/q9hwsywl"
+        },
+        {
+          "fansub_id": 179,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-t8rx737kv13m.html"
+        },
+        {
+          "fansub_id": 16,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1R9iL-8BHo1RTLQeTi8Vcm8DyleKS4eMe/preview"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3524200"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-uvsamsht4xka.html"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/5r5qlmhi"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3524180"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-i61w6oneq0qb.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/7h47dq1v"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-vqdmpz41vwfj.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 64,
+          "end": 154
+        }
+      },
+      "added_date": "2026-07-26T23:03:08.572436",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kakegurui 2nd Season 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599836"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4405708"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xpm6wf2kbjrs.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-xxwzgg26natx.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/2393"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3539722"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vo337g773krf.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ln6ye5wy"
+        },
+        {
+          "fansub_id": 16,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1tCE1Xb-Y54hB0Q0CVw8AQShQzZdJUqdA/preview"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3530142"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-c1z1soz8z9ft.html"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/693ez33e"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3530224"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xycxg5new3n0.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ok0zus3anl2t.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 173,
+          "end": 263
+        },
+        "ed": {
+          "start": 1357,
+          "end": 1446
+        }
+      },
+      "added_date": "2026-07-26T23:03:08.572436",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kakegurui 2nd Season 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599837"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4405713"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-7gx79434u9ms.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3539724"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2jd9u24jcnxe.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/d37av0f2"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3539449"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-35h4kxy3x0ls.html"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-bblcvbggwspw.html"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/7mtvbqab"
+        },
+        {
+          "fansub_id": 16,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-koaxzs4v8eyn.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3535006"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-0hojwze73gx5.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 46.5,
+          "end": 136.5
+        },
+        "ed": {
+          "start": 1358,
+          "end": 1447
+        }
+      },
+      "added_date": "2026-07-26T23:03:08.572436",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kakegurui 2nd Season 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599838"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4405717"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-x7mnz3ubob6t.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/2395"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3539731"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-fwsaznsj42gk.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/f9cr17x7"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3539669"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-w3ftrrn7as15.html"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/0f895mur"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/2463"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-7xfhc1u2z6k1.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-i6vius1hooid.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-jhmjcnaplcmq.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 40.7,
+          "end": 130.7
+        },
+        "ed": {
+          "start": 1359,
+          "end": 1447
+        }
+      },
+      "added_date": "2026-07-26T23:03:08.572436",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kakegurui 2nd Season 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599839"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4405720"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-22gzbofr4fwa.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/3726"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3549002"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ksc2dr902f5a.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ma2a0bua"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/3174"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-yyy03gtukaz6.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/m1f8xquy"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 312.5,
+          "end": 402.5
+        },
+        "ed": {
+          "start": 1358,
+          "end": 1447
+        }
+      },
+      "added_date": "2026-07-26T23:03:08.572436",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kakegurui 2nd Season 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599840"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599841"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4405722"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4405725"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-7opxuqou50tz.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-8ddjuwpvkm3z.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-euvx9h3s0s3n.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/4071"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3559301"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-1s8wacnju8nh.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/2z3vz92k"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/3783"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-oet2sb0gqp6r.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/nsz65x6b"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ww6zworqp1lp.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 0,
+          "end": 90
+        }
+      },
+      "added_date": "2026-07-26T23:03:08.572436",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kakegurui 2nd Season 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 19,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1wReali8S3R5UZHrRJWfKe5dTpz6Y8fYn/preview"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/om3aylbr"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-81iwtkra60hb.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 15,
+          "end": 105
+        }
+      },
+      "added_date": "2026-07-26T23:03:08.572436",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kakegurui 2nd Season 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599842"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4405729"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-cmx0pr4xq9sn.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-anoul9sgxr1a.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1VuFRz_VwawJGvx7NEyBlrnTtu0X9DqVG/preview"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/4183"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/vchjvqtn"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-u93mzv2d583t.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 38.947,
+          "end": 128.947
+        }
+      },
+      "added_date": "2026-07-26T23:03:08.572436",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kakegurui 2nd Season 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599843"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4405732"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-gz2hsazjz4wa.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-dj1w3b8789xs.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1EasWOQnho5EFFuFCp5835rA28kVo4QkB/preview"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/227"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/1coy4tem"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-5zcvzb16jhqu.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 37,
+          "end": 127
+        }
+      },
+      "added_date": "2026-07-26T23:03:08.572436",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kakegurui 2nd Season 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599844"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4405734"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-czho1dsn8xf9.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-wbmfewn5tzan.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1tahqggccWHukw-kPA4qsj8XXsnX8UxCD/preview"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/srht.karacam/video/embed/_myvideo/2199"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3569407"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/qb911oyb"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-l1o0450fuilj.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 31.5,
+          "end": 121.5
+        }
+      },
+      "added_date": "2026-07-26T23:03:08.572436",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kakegurui 2nd Season 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599845"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4405738"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-31e6d5gap0pe.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-4q2v42neav7y.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1L40fcKmX9Xa0NTBN3QciRz5Ojqwali1K/preview"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/1222"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3575119"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ye7fvrfx"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-szc8k95jstao.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 101.8,
+          "end": 191.8
+        }
+      },
+      "added_date": "2026-07-26T23:03:08.572436",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kakegurui 2nd Season 12. Bölüm Final",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599846"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4405740"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-1a596mgqce3c.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Uz4VeVEmGgK5tC2xhBZknouUAFbk9U_p/preview"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/1273"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3581159"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/mvd6omxg"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-m3947mi9x63d.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 154.041,
+          "end": 244.041
+        },
+        "ed": {
+          "start": 1371,
+          "end": 1461
+        }
+      },
+      "added_date": "2026-07-26T23:03:08.572436",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

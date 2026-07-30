@@ -1,0 +1,577 @@
+{
+  "turkanime": {
+    "isim": "Amanchu! Advance",
+    "puan": "0.00",
+    "bolum_durumu": "12/12",
+    "ozet": "Amanchu! serisinin 2. Sezonudur.",
+    "slug": "amanchu-advance"
+  },
+  "jikan": {
+    "mal_id": 36800,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1095/95063.jpg",
+    "trailer_id": "ohHeJjCnun8",
+    "title": "Amanchu! Advance",
+    "title_english": null,
+    "type": "TV",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": 2018,
+    "season": "spring",
+    "airing": false,
+    "aired": {
+      "from": "2018-04-07T00:00:00+00:00",
+      "to": "2018-06-23T00:00:00+00:00"
+    },
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.13,
+    "popularity": 4441,
+    "synopsis": "Second season of Amanchu!.",
+    "genres": [
+      36
+    ],
+    "themes": [
+      63,
+      23
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      7
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          31771,
+          33818
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          11061
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 100532,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100532-jNIiT1GR40wk.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Amanchu! Advance 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 96,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/13seZXoDxhFevmxc_Wvd2xtSMJgr2OD0c/preview"
+        },
+        {
+          "fansub_id": 96,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140715196"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4090215"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4461884"
+        },
+        {
+          "fansub_id": 96,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-zld1f0fej3o7.html"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/kr8qwxu8"
+        },
+        {
+          "fansub_id": 96,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-i53yyfyy4t9n.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-21T21:28:30.838922",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Amanchu! Advance 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 96,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1UDTyUyonsLBN_fsFmiaNC9fnu8FdBPo_/preview"
+        },
+        {
+          "fansub_id": 96,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140715197"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4090220"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4461892"
+        },
+        {
+          "fansub_id": 96,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-u9gi9q9wgmbz.html"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/7v3bgj5k"
+        },
+        {
+          "fansub_id": 96,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-qwqg57qslsih.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-21T21:28:30.838922",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Amanchu! Advance 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 96,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1AnsU9lD4xBGZ3-XVKdGPdSCYgN3yRoMR/preview"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4090221"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4518214"
+        },
+        {
+          "fansub_id": 96,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-0dz0nimz6f1g.html"
+        },
+        {
+          "fansub_id": 96,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-iq83t5pksa1f.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-21T21:28:30.838922",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Amanchu! Advance 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 96,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/119fOtG7Y4OwQPlZDfpH6ppxHlzeALvBp/preview"
+        },
+        {
+          "fansub_id": 96,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140720003"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4489095"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4090224"
+        },
+        {
+          "fansub_id": 96,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-fmnkjia5lu53.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-21T21:28:30.838922",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Amanchu! Advance 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 96,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1FLkvRY170N1G4n9H4xaD9Bkjh2_BzyNK/preview"
+        },
+        {
+          "fansub_id": 96,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140720006"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4489100"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3382003"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4090227"
+        },
+        {
+          "fansub_id": 96,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-lkicmtizf6v8.html"
+        },
+        {
+          "fansub_id": 96,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-tqkz27u9gnqf.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-21T21:28:30.838922",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Amanchu! Advance 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 96,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1JOTRxweSyUkujgXK5H-ILkV0-lAqwo-r/preview"
+        },
+        {
+          "fansub_id": 96,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140715198"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4090228"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4461899"
+        },
+        {
+          "fansub_id": 96,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-z87hd7zs39ri.html"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/y420mtru"
+        },
+        {
+          "fansub_id": 96,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-7fwatsxbxlw5.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-21T21:28:30.838922",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Amanchu! Advance 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 96,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/11V59EE_DVvTO07qEfPe79Sb7-EDxI_Dm/preview"
+        },
+        {
+          "fansub_id": 96,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140715278"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4463099"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4090232"
+        },
+        {
+          "fansub_id": 96,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-unypk2i9urep.html"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/8yz3u161"
+        },
+        {
+          "fansub_id": 96,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-jedtezjeodeo.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-21T21:28:30.838922",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Amanchu! Advance 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 96,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ksnmGmdAWQtA_TgoLaEhXWMfcT_XdB3C/preview"
+        },
+        {
+          "fansub_id": 96,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140715199"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4461903"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4090234"
+        },
+        {
+          "fansub_id": 96,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-uoemdl26etj5.html"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/sz7sm7k2"
+        },
+        {
+          "fansub_id": 96,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-mkhey1ng7wtf.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-21T21:28:30.838922",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Amanchu! Advance 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 96,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1BhrVMaUgq-zAFZHmiRIfUGUKW67Kf3WI/preview"
+        },
+        {
+          "fansub_id": 96,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140720009"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4090237"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4489105"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/z3g3bao5"
+        },
+        {
+          "fansub_id": 96,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-68zf18q0mgjl.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-21T21:28:30.838922",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Amanchu! Advance 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 96,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Uif0hdBQCvIo-_5ph5B2RnKt4L-I_CiQ/preview"
+        },
+        {
+          "fansub_id": 96,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359660674"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4090238"
+        },
+        {
+          "fansub_id": 96,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-elx87a4ivixw.html"
+        },
+        {
+          "fansub_id": 96,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-fmy4pzvznj4i.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-21T21:28:30.838922",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Amanchu! Advance 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 96,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1IrLG-woSwH10mNa05nQoGWf5azGWEL1B/preview"
+        },
+        {
+          "fansub_id": 96,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140720011"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4090242"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4489113"
+        },
+        {
+          "fansub_id": 96,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-opn8dc844odr.html"
+        },
+        {
+          "fansub_id": 96,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-xnbdq9qytzdf.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-21T21:28:30.838922",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Amanchu! Advance 12. Bölüm Final",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 96,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1cl-tp8NATcwAeIr432AZaboq_FPhh49u/preview"
+        },
+        {
+          "fansub_id": 96,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140715200"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4090243"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4461905"
+        },
+        {
+          "fansub_id": 96,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-9ej8q3l35cva.html"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/n0izdmk9"
+        },
+        {
+          "fansub_id": 96,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ig3u9od09q6a.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-21T21:28:30.838922",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

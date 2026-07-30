@@ -1,0 +1,128 @@
+{
+  "turkanime": {
+    "isim": "Evangelion Movie 1: Jo",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Neon Genesis Evangelion Animesinin 1. Filmi.",
+    "slug": "evangelion-movie-1-jo"
+  },
+  "jikan": {
+    "mal_id": 2759,
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/74975.jpg",
+    "trailer_id": "ETNj92NPIh4",
+    "title": "Evangelion Movie 1: Jo",
+    "title_english": "Evangelion: 1.0 You Are (Not) Alone",
+    "type": "Movie",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2007-09-01T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 41 min",
+    "rating": "R+ - Mild Nudity",
+    "score": 8,
+    "popularity": 403,
+    "synopsis": "In a post-apocalyptic world, the last remaining human settlement in Japan is the heavily fortified city of Tokyo-3. Fourteen-year-old Shinji Ikari is brought to the headquarters of NERV, an underground organization lead by his estranged father, Gendou. He requests that Shinji become a pilot of an \"Evangelion,\" a colossal android built to fight against monstrous and destructive alien creatures known as \"Angels\" that wreak havoc on the planet and threaten the survival of the remaining human race.\n\nAlthough initially reluctant, Shinji is swayed by the idea of reconciling with his father, and agrees to aid in mankind's perilous endeavor against its alien threat, as the pilot of Evangelion Unit-01. Thrust into the midst of a dangerous battlefield, Shinji must find the necessary courage and resolve to face against the Angels' incursions before it is too late.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      46,
+      8,
+      24,
+      41
+    ],
+    "themes": [
+      18,
+      40
+    ],
+    "demographics": [],
+    "studios": [
+      47
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          3784
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          30
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          23023,
+          32311
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 2759,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2759-wndNbYSgvph1.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Neon Genesis Evangelion : You Are [Not] Alone",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 67,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682371449"
+        },
+        {
+          "fansub_id": 67,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/nudeh8twx6ss"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1WyatpnKHaemfZ2t91UkAXdRvcePDRWVL/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Gl8L8Ph-osQf8LFAlviFwP3xBdexej0o/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933015926"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/5037"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4519036"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-3tlk3syzs9mu.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-1x9hpr6jyvsb.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T00:29:43.942901",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

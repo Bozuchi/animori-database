@@ -1,0 +1,110 @@
+{
+  "turkanime": {
+    "isim": "Clover",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Suu, Dört Yapraklı Yonca'dır. Suu'nun gücü eşsizdir, ancak bildiği bütün hayatı boyunca yalnızdır. Bir gün, Kazuhiko adında bir adam ortaya çıkar, Suu'nun mutluluğu bulacağı ilk ve son yolculuğunda, ona eşlik eder.",
+    "slug": "clover"
+  },
+  "jikan": {
+    "mal_id": 1890,
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/3710.jpg",
+    "trailer_id": null,
+    "title": "Clover",
+    "title_english": null,
+    "type": "Music",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1999-08-21T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "6 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.74,
+    "popularity": 6250,
+    "synopsis": "Suu is a Four Leaf Clover. Her power is unrivaled, yet all she has known her whole life is loneliness. One day, a man named Kazuhiko appears and accompanies Suu for her first and last journey, to the place where she can find happiness.",
+    "genres": [
+      8,
+      10,
+      24
+    ],
+    "themes": [
+      19
+    ],
+    "demographics": [
+      25
+    ],
+    "studios": [
+      11
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          113
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 1890,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1890-Z8toXAOF16yb.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Clover",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 103,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1sFJ2hryCazXbA3tPMG4QQ9xDiAKMTqcN/preview"
+        },
+        {
+          "fansub_id": 103,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1MyYXR5ZtXvnnJNL_wPhEC4nbPTPw0A9K/preview"
+        },
+        {
+          "fansub_id": 103,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359666861"
+        },
+        {
+          "fansub_id": 103,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933017479"
+        },
+        {
+          "fansub_id": 103,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4642601"
+        },
+        {
+          "fansub_id": 103,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1634831"
+        },
+        {
+          "fansub_id": 103,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-zeqiv6h6lz0q.html"
+        },
+        {
+          "fansub_id": 103,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ez2j5kg1uhcc.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T16:16:14.275779",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

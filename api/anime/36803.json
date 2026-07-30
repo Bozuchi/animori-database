@@ -1,0 +1,90 @@
+{
+  "turkanime": {
+    "isim": "Servamp Movie: Alice in the Garden",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Film Misono Alicein'in geçmişini anlatmaktadır.",
+    "slug": "servamp-movie-alice-in-the-garden"
+  },
+  "jikan": {
+    "mal_id": 36803,
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/89004.jpg",
+    "trailer_id": "Q3naqDKvIGg",
+    "title": "Servamp Movie: Alice in the Garden",
+    "title_english": "Servamp Movie: Alice in the Garden",
+    "type": "Movie",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2018-04-07T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "58 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.25,
+    "popularity": 4680,
+    "synopsis": "The Servamps and their pact-bound \"Eves\" are finally getting back to their normal lives as they recover from their injuries from the previous battles. However, when it starts snowing in the middle of summer, one of the Eves, Mahiru Shirota, suspects vampiric interference. Concerned by the strange phenomenon, he sets out to gather the group once more to try and solve the mystery; however, they suddenly lose contact with Misono Arisuin, the Eve of the Servamp of Lust.\n\nServamp Movie: Alice in the Garden delves into the untold past of Misono and his brother Mikuni Arisuin, as well as the many mysteries of the grand Arisuin Mansion.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      1,
+      10
+    ],
+    "themes": [
+      32
+    ],
+    "demographics": [
+      43
+    ],
+    "studios": [
+      1471
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          29887
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          31229
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 100537,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Servamp Movie: Alice in the Garden",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 142,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1EYV94DoYON6SyjC48ioXABhMo1YiNBjp/preview"
+        },
+        {
+          "fansub_id": 142,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/1523"
+        },
+        {
+          "fansub_id": 142,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-f6z5nte0w3sq.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T08:06:55.052729",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

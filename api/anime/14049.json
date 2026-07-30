@@ -1,0 +1,91 @@
+{
+  "turkanime": {
+    "isim": "Mashiro-iro Symphony: Airi ga Anata no Kanojo ni!?",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Mashiro-iro Symphony: The Color of Lovers Animesinin Special Bölümüdür.",
+    "slug": "mashiro-iro-symphony-airi-ga-anata-no-kanojo-ni"
+  },
+  "jikan": {
+    "mal_id": 14049,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1229/130376.jpg",
+    "trailer_id": null,
+    "title": "Mashiro-iro Symphony: Airi ga Anata no Kanojo ni!?",
+    "title_english": null,
+    "type": "Special",
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2012-01-25T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "14 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.1,
+    "popularity": 6751,
+    "synopsis": "An alternate ending to the anime with Airi being the chosen girl. This is not animated in a normal anime fashion, it is more of a gal game animation.",
+    "genres": [
+      22
+    ],
+    "themes": [
+      35
+    ],
+    "demographics": [],
+    "studios": [
+      32
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          10397
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 14049,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/14049-gTW11q9kKJEH.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Mashiroiro Symphony: The Color of Lovers Special 1",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1NtAmnVQHRU268_oRYwZ5odqLCDm6Me80/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985845855"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4065140"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-phx52lne7ray.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-t9tiayy3t5ol.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T11:17:37.684986",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "turkanime": {
+    "isim": "Saihate no Paladin: Michiyuki",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Saihate no Paladin animesinin 7,5. bölümüdür.",
+    "slug": "saihate-no-paladin-michiyuki"
+  },
+  "jikan": {
+    "mal_id": 50474,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1162/119719.jpg",
+    "trailer_id": null,
+    "title": "Saihate no Paladin: Michiyuki",
+    "title_english": "The Faraway Paladin: The Path Taken",
+    "type": "TV Special",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2021-11-27T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.85,
+    "popularity": 6341,
+    "synopsis": "Recap of the first 7 episodes.",
+    "genres": [
+      1,
+      2,
+      10
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      1407
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entries": [
+          48761
+        ]
+      }
+    ]
+  },
+  "anilist": null,
+  "episodes": [
+    {
+      "turkanime_title": "Saihate no Paladin 7.5. Bölüm",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 69,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1rzFE9jFj2-aEXIof9mhSOguKQSzGg-5j/preview"
+        },
+        {
+          "fansub_id": 69,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/16DH6w5T_H-DGnY1aTwyRb1yUPi7XcW42/preview"
+        },
+        {
+          "fansub_id": 69,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4526618"
+        },
+        {
+          "fansub_id": 69,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/lrxkxp3v"
+        },
+        {
+          "fansub_id": 69,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-rqtytt6acich.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T05:32:24.266441",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

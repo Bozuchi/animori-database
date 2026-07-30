@@ -1,0 +1,88 @@
+{
+  "turkanime": {
+    "isim": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 3 - Yakusoku",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "\"Yuuki Yuuna wa Yuusha de Aru\" serisinin iki yıl öncesinde gelişen olayları anlatan ve üç kısımdan oluşan film serisinin üçüncüsüdür.",
+    "slug": "yuuki-yuuna-wa-yuusha-de-aru-washio-sumi-no-shou-3-yakusoku"
+  },
+  "jikan": {
+    "mal_id": 34376,
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/86984.jpg",
+    "trailer_id": "owwnacwaNVI",
+    "title": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 3 - Yakusoku",
+    "title_english": null,
+    "type": "Movie",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2017-07-08T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "48 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.01,
+    "popularity": 5967,
+    "synopsis": "The third and final movie in the Washio Sumi no Shou trilogy.",
+    "genres": [
+      8
+    ],
+    "themes": [
+      66
+    ],
+    "demographics": [],
+    "studios": [
+      418
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          34375
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          34284
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          35473
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 97860,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97860-ZExQS1FMfqHI.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou - Yakusoku",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1FBIzUusJootlmBElhvbhy3lO9LNF4qUs/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/dmuratli/video/embed/_myvideo/873"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T20:32:25.295137",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

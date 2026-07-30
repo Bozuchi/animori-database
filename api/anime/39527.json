@@ -1,0 +1,140 @@
+{
+  "turkanime": {
+    "isim": "Try Knights",
+    "puan": "0.00",
+    "bolum_durumu": "2/16",
+    "ozet": "Haruma Riku görünüşte geleceği olmadan liseye başlar. İnsanların toprak üzerinde tıpkı bir canavar gibi oynadığını, herkesin yüksekten zıplayıp, hızlı koştuğunu. Her biri elinden gelenin en iyisini yapmaya karar veren kişiler olarak görür. Orada, Kariya Akira'nın Rugby oynadığını görür, bu spor bir zamanlar aşırı tutkulu olduğu ancak fiziğinden ötürü bıraktığı bir spordu. Kariya Akira kabaca koşarken, Riku hiç düşünmeden ona bir tavsiye verir. Ondan sonra, Riku'nun yitip gitmekte olan tutkusunu alevlendiriyor ve geleceği aydınlanmaya başlıyor.",
+    "slug": "try-knights"
+  },
+  "jikan": {
+    "mal_id": 39527,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1803/102385.jpg",
+    "trailer_id": null,
+    "title": "Try Knights",
+    "title_english": null,
+    "type": "TV",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": 2019,
+    "season": "summer",
+    "airing": false,
+    "aired": {
+      "from": "2019-07-31T00:00:00+00:00",
+      "to": "2019-10-16T00:00:00+00:00"
+    },
+    "duration": "22 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 4.83,
+    "popularity": 5410,
+    "synopsis": "Riku Haruma enters high school without a future in sight. He sees people playing like monsters on the ground, jumping higher than anyone else, running fast, deciding to try their best. There, he sees Akira Kariya playing rugby, a sport he was once passionate about but gave up due to his physique. While Akira is running roughly, Riku gives him a piece of advice without thinking. From that, Riku feels his dying passion for the sport set ablaze, and his future starts to brighten up...\n\n(Source: MAL News)",
+    "genres": [
+      30
+    ],
+    "themes": [
+      23,
+      77
+    ],
+    "demographics": [
+      43
+    ],
+    "studios": [
+      3
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          118926
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 108444,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Try Knights 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 174,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1va0aXZ1G4FUXNIEHZOV5yQlOU0pmefSr/preview"
+        },
+        {
+          "fansub_id": 174,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933014366"
+        },
+        {
+          "fansub_id": 174,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3688402"
+        },
+        {
+          "fansub_id": 174,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vzq98xvovixt.html"
+        },
+        {
+          "fansub_id": 174,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-d1wq27j620uw.html"
+        },
+        {
+          "fansub_id": 174,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/qa6cguk7"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T18:27:31.689376",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Try Knights 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 174,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1QG8CaLYiq1zC_5oQGqcrJIFwRv0VMKEO/preview"
+        },
+        {
+          "fansub_id": 174,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933014624"
+        },
+        {
+          "fansub_id": 174,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3710054"
+        },
+        {
+          "fansub_id": 174,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-0swxwb0n4yg9.html"
+        },
+        {
+          "fansub_id": 174,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ufc0a3k2dtfm.html"
+        },
+        {
+          "fansub_id": 174,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/49mc8k7w"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T18:27:31.689376",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

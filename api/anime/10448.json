@@ -1,0 +1,95 @@
+{
+  "turkanime": {
+    "isim": "Rain Town",
+    "puan": "7.17",
+    "bolum_durumu": "1/1",
+    "ozet": "10 Dakikalık Bir ONA'dır.",
+    "slug": "rain-town"
+  },
+  "jikan": {
+    "mal_id": 10448,
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/29062.jpg",
+    "trailer_id": null,
+    "title": "Rain Town",
+    "title_english": null,
+    "type": "Movie",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2011-01-01T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "9 min",
+    "rating": "G - All Ages",
+    "score": 7.08,
+    "popularity": 4900,
+    "synopsis": "In a small, forgotten town where the rain never stops, a chance encounter between a robot and an inquisitive little girl brings back memories and a chance reunion with a girl the girl the robot has never forgotten.",
+    "genres": [
+      8
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [],
+    "relations": []
+  },
+  "anilist": {
+    "id": 10448,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10448-4VdP1QPncJ0w.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Rain Town",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1a2-yGfvqLWxdjaRqAE60z2uVNzpFzlLT/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359657404"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359654399"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4066664"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4450892"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-n6mki5pei7b5.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/eurk7cgv"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-bgbe53pyg732.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T03:40:27.612358",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

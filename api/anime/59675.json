@@ -1,0 +1,328 @@
+{
+  "turkanime": {
+    "isim": "Apocalypse Hotel",
+    "puan": "0.00",
+    "bolum_durumu": "12/12",
+    "ozet": "Hikaye, toplumun yıkıldığı, insanlığın yok olduğu ve doğanın toprakların çoğunu geri almaya başladığı bir zamanda Tokyo'nun Ginza bölgesindeki tek başına bir otelde geçiyor.",
+    "slug": "apocalypse-hotel"
+  },
+  "jikan": {
+    "mal_id": 59675,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1511/148642.jpg",
+    "trailer_id": "IYtWf-Q5umQ",
+    "title": "Apocalypse Hotel",
+    "title_english": "Apocalypse Hotel",
+    "type": "TV",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": 2025,
+    "season": "spring",
+    "airing": false,
+    "aired": {
+      "from": "2025-04-09T00:00:00+00:00",
+      "to": "2025-06-25T00:00:00+00:00"
+    },
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.02,
+    "popularity": 2770,
+    "synopsis": "In the year 2157, Gingarou Hotel, a luxury establishment in Ginza, Tokyo, employs advanced hotelier robots to provide best-in-class hospitality. Unfortunately, no one has visited the hotel in decades, as humanity has long abandoned Earth due to its toxic atmosphere.\n\nYachiyo, the robot \"acting acting manager,\" works tirelessly every day alongside her mechanical crew to keep the hotel running in tip-top shape. Over the years, many employees have ceased functioning, with no hope of repair or replacement. Still, Yachiyo continues to fulfill her duties, just as she promised the hotel's owner before his departure. She remains optimistic that humanity will one day return to Earth—and that she will see the owner again.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      4,
+      24
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      1893
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          181333
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 180675,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180675-aZ7hQkNjewa7.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Apocalypse Hotel 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1YeP-eaM9Czectwky5cuNHEKqkUCvyXGb/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5875033"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T02:19:50.240133",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Apocalypse Hotel 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1lgKx9lVlpq6LIWszNIW7xuIcaipEFEmR/preview"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 18,
+          "end": 107
+        },
+        "ed": {
+          "start": 1330,
+          "end": 1380
+        }
+      },
+      "added_date": "2026-07-23T02:19:50.240133",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Apocalypse Hotel 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Vbg9F0ez7JlBPmhIJ01kKUy7BnSPj6ik/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5890634"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 71.9,
+          "end": 162.05
+        }
+      },
+      "added_date": "2026-07-23T02:19:50.240133",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Apocalypse Hotel 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Flm45sFrT_JvbhdoGc1iLo1sbJt0KT6n/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5896586"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 50,
+          "end": 140
+        }
+      },
+      "added_date": "2026-07-23T02:19:50.240133",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Apocalypse Hotel 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1F77rqwESxWdeUBVL9oFu5ZLcKyDIf6R7/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5903933"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T02:19:50.240133",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Apocalypse Hotel 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1gwxHzG-kcddFPKi8uzYeQxHKbwdJ6npF/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5910720"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T02:19:50.240133",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Apocalypse Hotel 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1L6U91EYNa2eDLHZWX6WG3jdNugpk3Ezf/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5917422"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 20,
+          "end": 108
+        },
+        "ed": {
+          "start": 1331,
+          "end": 1376
+        }
+      },
+      "added_date": "2026-07-23T02:19:50.240133",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Apocalypse Hotel 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1-J0MUc3sbf7Pmlgge7pNvsiQTOco7NH4/preview"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T02:19:50.240133",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Apocalypse Hotel 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ul9y3IlvxwTWo_s_S1V0GUQ4JjzOdOMR/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5928663"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T02:19:50.240133",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Apocalypse Hotel 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1SoYm81_sNXvyky4wchX-X8Eh9SARko06/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5933797"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 30,
+          "end": 120
+        },
+        "ed": {
+          "start": 1329,
+          "end": 1380
+        }
+      },
+      "added_date": "2026-07-23T02:19:50.240133",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Apocalypse Hotel 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/10kD9FlR0OUeNqCU8xtXedL4pkCcNHC8R/preview"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T02:19:50.240133",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Apocalypse Hotel 12. Bölüm Final",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1J5SScszM_WlZNZ6tygR0voMsnJIjh9C0/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5945576"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T02:19:50.240133",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

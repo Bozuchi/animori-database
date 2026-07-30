@@ -1,0 +1,98 @@
+{
+  "turkanime": {
+    "isim": "Inugami-san to Nekoyama-san: Nekoyama-san to Onsen Ryokou",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Inugami-san to Nekoyama-san serisine ait Special bölümdür.",
+    "slug": "inugami-san-to-nekoyama-san-nekoyama-san-to-onsen-ryokou"
+  },
+  "jikan": {
+    "mal_id": 25861,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1016/115623.jpg",
+    "trailer_id": null,
+    "title": "Inugami-san to Nekoyama-san: Nekoyama-san to Onsen Ryokou",
+    "title_english": null,
+    "type": "Special",
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2014-07-18T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.41,
+    "popularity": 5872,
+    "synopsis": "Unaired episode bundled with the Blu-ray/DVD Box-Set.",
+    "genres": [
+      4,
+      26
+    ],
+    "themes": [
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      541
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          51267
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          22123
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 20846,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Inugami-san to Nekoyama-san Special: Nekoyama-san to Onsen Ryokou",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3794429"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3795006"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1990088"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-zgtcxhib5rg4.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-hc8lroxkmr6e.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T05:38:46.698585",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

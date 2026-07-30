@@ -1,0 +1,97 @@
+{
+  "turkanime": {
+    "isim": "Under the Dog: Anthea-chan",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Under The Dog'un 1. yılının şerefine hazırlanmış sürpriz bölümdür.",
+    "slug": "under-the-dog-anthea-chan"
+  },
+  "jikan": {
+    "mal_id": 32467,
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/77902.jpg",
+    "trailer_id": null,
+    "title": "Under the Dog: Anthea-chan",
+    "title_english": "UNDER THE DOG Anthea-chan",
+    "type": "ONA",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2015-08-08T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 4.64,
+    "popularity": 9829,
+    "synopsis": "Surprise special for the 1 year anniversary for Under the Dog's Kickstarter campaign.",
+    "genres": [
+      1,
+      4
+    ],
+    "themes": [
+      20
+    ],
+    "demographics": [],
+    "studios": [
+      290
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          27387
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 97959,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Under the Dog: Anthea-chan",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1mz9rYt-JbQh-ZAMole6jMz0vg39Gt3PW/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/bk/swagnemite/_myvideo/278.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7706652796388377558"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4528558"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-heyo1auw8471.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-5effb2w3hjyf.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T19:34:26.700985",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "turkanime": {
+    "isim": "BanG Dream!: Asonjatta!",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "BanG Dream! animesinin OVA bölümüdür.",
+    "slug": "bang-dream-asonjatta"
+  },
+  "jikan": {
+    "mal_id": 34870,
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/89692.jpg",
+    "trailer_id": "MyxumwVaYSI",
+    "title": "BanG Dream! Asonjatta!",
+    "title_english": "BanG Dream! We Had Some Fun!",
+    "type": "Special",
+    "source": "Mixed media",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2017-11-22T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.08,
+    "popularity": 6239,
+    "synopsis": "Unaired episode included with the 7th Blu-ray volume of BanG Dream!.",
+    "genres": [
+      36
+    ],
+    "themes": [
+      52,
+      19
+    ],
+    "demographics": [],
+    "studios": [
+      27,
+      1353
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entries": [
+          33573
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 98847,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "BanG Dream!: Asonjatta! 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 153,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1L3juhFRcA_NdmlPJvHZSGQt7WlyoG7F-/preview"
+        },
+        {
+          "fansub_id": 153,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1NxoGP-Fb5dSECrOd6esYWtOWjMtlCyLU/preview"
+        },
+        {
+          "fansub_id": 153,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3431595"
+        },
+        {
+          "fansub_id": 153,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-v1s885okg9fc.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T04:09:45.642111",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

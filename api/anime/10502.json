@@ -1,0 +1,82 @@
+{
+  "turkanime": {
+    "isim": "Tansu Warashi.",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Bu kısa film japonya’da yapılan yeni animatörler yetiştirme projesinde bir bölümlük bir special’dır. Ojii-san no Lamp ile aynı projede yapılmıştır.",
+    "slug": "tansu-warashi"
+  },
+  "jikan": {
+    "mal_id": 10502,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1053/103696.jpg",
+    "trailer_id": null,
+    "title": "Tansu Warashi.",
+    "title_english": "Drawer Hobs",
+    "type": "Movie",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2011-03-05T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min",
+    "rating": "G - All Ages",
+    "score": 6.72,
+    "popularity": 8865,
+    "synopsis": "Noel Hiiragi thinks that her life is stressful enough living alone and working at a call center when her mother sends her a six-drawer wardrobe out of the blue. In hopes of returning the furniture after attempting to stuff it in a corner of her tiny apartment, she calls her mother to complain about the sudden burden, but her mom only vaguely tells Noel that it is \"her turn.\"\n\nWhen Noel returns from a night of drinking, she finds a fat child in her apartment eating her food. Shocked and confused, she eventually discovers that her mother's wardrobe contains six strange children who claim to serve the current mistress of the Hiiragi family. Refusing to buy this blunt explanation, Noel struggles to adapt to her new lifestyle, wondering whether the children's service is a blessing or a curse.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      4,
+      37
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      10
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entries": [
+          10501,
+          10016,
+          10500
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 10502,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Tansu Warashi.",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1vKeP3DPOHST59NObhWZLAMZtflO_L3Nm/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933016549"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1083438"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T15:09:29.969842",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

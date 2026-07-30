@@ -1,0 +1,98 @@
+{
+  "turkanime": {
+    "isim": "Steins;Gate: Oukoubakko no Poriomania",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Steins;Gate serisinin devamı niteliğinde olan special bölümdür.",
+    "slug": "steins-gate-oukoubakko-no-poriomania"
+  },
+  "jikan": {
+    "mal_id": 10863,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1805/123188.jpg",
+    "trailer_id": "aEPMFgHTVN0",
+    "title": "Steins;Gate: Oukoubakko no Poriomania",
+    "title_english": "Steins;Gate: Egoistic Poriomania",
+    "type": "Special",
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2012-02-22T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "24 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.29,
+    "popularity": 554,
+    "synopsis": "A few months after the events of Steins;Gate, Rintarou Okabe and his group of friends are invited to tag along with their acquaintance Faris NyanNyan, who is participating in a Rai-Net battle event in the United States. There, they meet up with an old colleague: Kurisu Makise, who has been recalling fragmented memories of events that happened in the other world lines in the form of dreams. She confronts Okabe, questioning him as to whether these events—particularly the incidents between the two of them—did indeed happen.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      4,
+      24
+    ],
+    "themes": [
+      78
+    ],
+    "demographics": [],
+    "studios": [
+      314
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          9253
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          11577
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 10863,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10863-paT73FyJgPi3.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Steins;Gate Special: Oukoubakko no Poriomania",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 20,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1352768"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599895"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4407051"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-m1eb5lq8n5vc.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ntvc4izsqqlq.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T13:07:15.541343",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

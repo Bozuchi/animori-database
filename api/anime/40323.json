@@ -1,0 +1,155 @@
+{
+  "turkanime": {
+    "isim": "Gintama: Monster Strike-hen",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Gintama'nın Monster Strike'la ortak bölümleridir.",
+    "slug": "gintama-monster-strike-hen"
+  },
+  "jikan": {
+    "mal_id": 40323,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1806/124660.jpg",
+    "trailer_id": null,
+    "title": "Gintama: Monster Strike-hen",
+    "title_english": null,
+    "type": "ONA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2019-08-29T00:00:00+00:00",
+      "to": "2019-09-04T00:00:00+00:00"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.49,
+    "popularity": 5825,
+    "synopsis": "Collaboration anime between Gintama and Monster Strike.",
+    "genres": [
+      1,
+      4
+    ],
+    "themes": [
+      20,
+      21
+    ],
+    "demographics": [],
+    "studios": [
+      1258
+    ],
+    "relations": [
+      {
+        "relation": "Character",
+        "entries": [
+          918,
+          30757
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 111952,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Gintama: Monster Strike-hen 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 33,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1tz9xz40gRiE0GqmOzWpEywG_5xzhA3Ic/preview"
+        },
+        {
+          "fansub_id": 33,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1_-SWf2R-ejOERegcKI-cmf_G7_wYPMDw/preview"
+        },
+        {
+          "fansub_id": 33,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4230990"
+        },
+        {
+          "fansub_id": 33,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4336518"
+        },
+        {
+          "fansub_id": 33,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-54z5ye9qdxxf.html"
+        },
+        {
+          "fansub_id": 33,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ko38c5r4qrj8.html"
+        },
+        {
+          "fansub_id": 33,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/e1t5o3wu"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T23:50:37.445372",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Gintama: Monster Strike-hen 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 33,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1eQmKiicyok_iN9wihZeDgnIcmBKKSC7H/preview"
+        },
+        {
+          "fansub_id": 33,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1G2xkO7bbmS_KScMARKHmPSjIOsayPjox/preview"
+        },
+        {
+          "fansub_id": 33,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4336520"
+        },
+        {
+          "fansub_id": 33,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4230996"
+        },
+        {
+          "fansub_id": 33,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-o5qulcj5j8j0.html"
+        },
+        {
+          "fansub_id": 33,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-r6hkb35gn1gk.html"
+        },
+        {
+          "fansub_id": 33,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/zwxmmxgk"
+        },
+        {
+          "fansub_id": 33,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/o3t9wuoy"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T23:50:37.445372",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

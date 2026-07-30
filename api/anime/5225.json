@@ -1,0 +1,100 @@
+{
+  "turkanime": {
+    "isim": "Lupin III: Pilot Film",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Manganın 2. yıldönümü şerefine çıkmış 12 dakikalık filmdir.",
+    "slug": "lupin-iii-pilot-film"
+  },
+  "jikan": {
+    "mal_id": 5225,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1882/145676.jpg",
+    "trailer_id": null,
+    "title": "Lupin III: Pilot Film",
+    "title_english": null,
+    "type": "Movie",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1969-01-01T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "12 min",
+    "rating": "R+ - Mild Nudity",
+    "score": 6.36,
+    "popularity": 6775,
+    "synopsis": "Two years after the birth of the manga a pilot film was released. It was a brief film of only 13 minutes that had the purpose of assay the response to a possible future anime realization of Lupin III. The pilot opens with a challenge call from Lupin to Zenigata from a public phone.\n(Source: AniDB)",
+    "genres": [
+      1,
+      4
+    ],
+    "themes": [
+      50
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      65
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          1412
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          1428
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 5225,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5225-lw3o3ZvdHbL8.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Lupin III: Pilot Movie",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/184Lk7PVGuXjE5DsldP4EVGoqL_GNj-Ww/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682368650"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4692240"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-h8vzc33ocwqb.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-2vpri3oa6hyk.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T08:55:50.988256",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

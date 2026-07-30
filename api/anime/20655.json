@@ -1,0 +1,106 @@
+{
+  "turkanime": {
+    "isim": "Amnesia OVA",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Serinin OVA bölümüdür.",
+    "slug": "amnesia-ova"
+  },
+  "jikan": {
+    "mal_id": 20655,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1328/128739.jpg",
+    "trailer_id": null,
+    "title": "Amnesia OVA",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2013-09-25T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "25 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.31,
+    "popularity": 4429,
+    "synopsis": "Animate Tokuten for purchasing all 6 volumes of TV Anime Series.\n\nThe contents of the OVA are from the Drama CDs.",
+    "genres": [
+      10
+    ],
+    "themes": [],
+    "demographics": [
+      43
+    ],
+    "studios": [
+      112
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entries": [
+          15085
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 20734,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Amnesia OVA",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 46,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1UaWTTsgLvitxplb5QQKWiodIs7mfpQ_d/preview"
+        },
+        {
+          "fansub_id": 46,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271188520"
+        },
+        {
+          "fansub_id": 46,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/28"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4523023"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1488704"
+        },
+        {
+          "fansub_id": 46,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-tf0ig1ec93v9.html"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/cosxz1cx"
+        },
+        {
+          "fansub_id": 46,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-225quuslygh9.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-21T21:34:41.559253",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

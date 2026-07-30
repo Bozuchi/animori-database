@@ -1,0 +1,162 @@
+{
+  "turkanime": {
+    "isim": "Märchen Mädchen Specials",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Märchen Mädchen animesinin 11 ve 12. bölümlerinden oluşan özel bölümlerdir.",
+    "slug": "marchen-madchen-specials"
+  },
+  "jikan": {
+    "mal_id": 37973,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1690/93175.jpg",
+    "trailer_id": null,
+    "title": "Märchen Mädchen Specials",
+    "title_english": "Maerchen Maedchen",
+    "type": "Special",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2019-04-25T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.03,
+    "popularity": 8528,
+    "synopsis": "Episodes 11 and 12 of Märchen Mädchen, included on the sixth Blu-ray/DVD volume.",
+    "genres": [
+      10
+    ],
+    "themes": [
+      62,
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      346
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          35997
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          108458,
+          102972
+        ]
+      }
+    ]
+  },
+  "anilist": null,
+  "episodes": [
+    {
+      "turkanime_title": "Märchen Mädchen Specials 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 38,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1tI2O6EYW5_AlW1qSRr0aqIvZgm8EA2QK/preview"
+        },
+        {
+          "fansub_id": 38,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985850227"
+        },
+        {
+          "fansub_id": 38,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3602408"
+        },
+        {
+          "fansub_id": 38,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4432530"
+        },
+        {
+          "fansub_id": 38,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vam7dz1qae91.html"
+        },
+        {
+          "fansub_id": 38,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-a46bzw6n2txi.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T10:58:07.798636",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Märchen Mädchen Specials 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 157,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1W8Yymf37nRFv0qJJUAS9ciqg217gEdCX/preview"
+        },
+        {
+          "fansub_id": 157,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/12xAYpr4VU2Vz7g7Ai9hotcRCaanNGZfD/preview"
+        },
+        {
+          "fansub_id": 157,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/2444636457931912004"
+        },
+        {
+          "fansub_id": 157,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140719328"
+        },
+        {
+          "fansub_id": 157,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4485547"
+        },
+        {
+          "fansub_id": 157,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3647198"
+        },
+        {
+          "fansub_id": 157,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-qesv9g8qdxzt.html"
+        },
+        {
+          "fansub_id": 157,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-qayt86siiiwf.html"
+        },
+        {
+          "fansub_id": 157,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/x3evnso1"
+        },
+        {
+          "fansub_id": 157,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-i23t24y0otvn.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T10:58:07.798636",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

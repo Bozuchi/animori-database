@@ -1,0 +1,81 @@
+{
+  "turkanime": {
+    "isim": "One Piece: Dr. Chopper no Bouken Karte - Hokoritakaki Gigant Dream",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Çokbilmiş öyküsünün sekizinci özet bölümüdür.",
+    "slug": "one-piece-dr-chopper-no-bouken-karte-hokoritakaki-gigant-dream"
+  },
+  "jikan": {
+    "mal_id": 62394,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1000/151805.jpg",
+    "trailer_id": null,
+    "title": "One Piece: Dr. Chopper no Bouken Karte - Hokoritakaki Gigant Dream",
+    "title_english": "One Piece: Dr. Chopper's Adventure Checkup - The Proud Dream of the Giants",
+    "type": "TV Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2025-08-31T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.21,
+    "popularity": 13101,
+    "synopsis": "The eighth recap special of the Egghead arc.",
+    "genres": [
+      1,
+      2,
+      4,
+      10
+    ],
+    "themes": [],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      18
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entries": [
+          21
+        ]
+      }
+    ]
+  },
+  "anilist": null,
+  "episodes": [
+    {
+      "turkanime_title": "One Piece 1141,5. Bölüm",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 115,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1nSijTJsfc-Ks1D5WFYIza_QcAk6AUp60/preview"
+        },
+        {
+          "fansub_id": 115,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6019447"
+        },
+        {
+          "fansub_id": 115,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/sd3bu73h"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T20:56:01.448417",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

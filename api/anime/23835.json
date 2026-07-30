@@ -1,0 +1,107 @@
+{
+  "turkanime": {
+    "isim": "Moonrakers",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Taishi bir kaza sonucu Dünyaya dönemez ve Ayın yüzeyinde mahsur kalır. Bir kız onun umutsuzluğuna yardım eder, ama onun gerçek kimliğinden habersizdir.",
+    "slug": "moonrakers"
+  },
+  "jikan": {
+    "mal_id": 23835,
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/61635.jpg",
+    "trailer_id": null,
+    "title": "Moonrakers",
+    "title_english": null,
+    "type": "PV",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2014-04-15T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "2 min",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 5.52,
+    "popularity": 12631,
+    "synopsis": "An accident leaves Taishi stranded on the lunar surface, unable to return to Earth. A girl helps him in his despair, but he is oblivious to her true identity.\n\n(Source: ANN)",
+    "genres": [
+      8,
+      24
+    ],
+    "themes": [
+      29
+    ],
+    "demographics": [],
+    "studios": [
+      1
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          70701
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 21015,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Moonrakers",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Fr0TWj531NcyOPngdtE9wmQl7JuPDk5K/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1YbeMmdDoD-Qo1-hN8Sk1DJHhlfh5EAgj/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/2444636457931911046"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1769181"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4529576"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-8ugzwf5bl6sh.html"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-fsisvgttsgwt.html"
+        },
+        {
+          "fansub_id": 21,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-mwlsq3fratwn.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T13:20:26.518129",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "turkanime": {
+    "isim": "Buta",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "24 dakikalık special bir bölümdür.",
+    "slug": "buta"
+  },
+  "jikan": {
+    "mal_id": 13169,
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/50405.jpg",
+    "trailer_id": null,
+    "title": "Buta",
+    "title_english": null,
+    "type": "TV Special",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2012-03-05T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "24 min",
+    "rating": "G - All Ages",
+    "score": 6.4,
+    "popularity": 7517,
+    "synopsis": "A few days before Fox officially inherits the treasured heirloom in his family—a mysterious map, the Tufugu Pirates storm into his house and kidnap him, taking the strange map with them.\n\nButa, a powerful mercenary, is hired by shady characters to help them seek the treasure. In a stroke of great luck, Buta and Fox meet in the underbelly of a pirate ship. Will Fox be able to convince Buta to save him, or will the fabled treasure fall into the hands of crooks?\n\n[Written by MAL Rewrite]",
+    "genres": [
+      2,
+      4,
+      10
+    ],
+    "themes": [
+      13
+    ],
+    "demographics": [],
+    "studios": [
+      94
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entries": [
+          13171,
+          13173,
+          13175
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 13169,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Buta",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1dKMA9xxmBVDdNsDyHe93majtoK1OwmQh/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/126c3AbMov1t6NEIiQdkUSRU8H7ev43MF/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933018218"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7893414565877121330"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4522085"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/n19ba19w"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-qt6mmi9e35ty.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T07:22:47.725255",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

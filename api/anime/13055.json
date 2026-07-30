@@ -1,0 +1,133 @@
+{
+  "turkanime": {
+    "isim": "Sankarea OVA",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Sankarea serisine ait OVA bölümlerdir.",
+    "slug": "sankarea-ova"
+  },
+  "jikan": {
+    "mal_id": 13055,
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/79032.jpg",
+    "trailer_id": null,
+    "title": "Sankarea OVA",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2012-06-08T00:00:00+00:00",
+      "to": "2012-11-09T00:00:00+00:00"
+    },
+    "duration": "24 min per ep",
+    "rating": "R+ - Mild Nudity",
+    "score": 7.19,
+    "popularity": 2152,
+    "synopsis": "Two OVA episodes are bundled as DVDs with each of volumes 6 and 7 of the manga.\n\nThe first OVA is a prequel story written by the manga's author. Before the beginning of the main story, Rea and Chihiro have already met at a certain place: an outdoor hot-spring bath.\n\nThe second OVA takes place after the series (effectively episode 14). The Furuya family finds a mysterious young girl hiding under the household temple.",
+    "genres": [
+      4,
+      14,
+      22,
+      37,
+      9
+    ],
+    "themes": [
+      64
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      37
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          16694
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          11499
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 13055,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/13055-1LLVjYZXtsaf.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Sankarea OVA 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 120,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/11CNqHxrkA7ycZb1cWSFRH-8HlmTxuMgN/preview"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-71pvkd8fhxlv.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-32i8a5a9xpsq.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/gxnvdgqu"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T06:38:19.435675",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Sankarea OVA 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 120,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1pse-QV3nUzKAG_nnZ0jdWV9rKEWS2RyL/preview"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-rbidukan49sj.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-7gvo534fzzgc.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 210.958,
+          "end": 304.086
+        },
+        "ed": {
+          "start": 1330.292,
+          "end": 1421
+        }
+      },
+      "added_date": "2026-07-29T06:38:19.435675",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

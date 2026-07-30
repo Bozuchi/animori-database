@@ -1,0 +1,92 @@
+{
+  "turkanime": {
+    "isim": "Astarotte no Omocha! EX",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Serinin 3 partlık OVA bölümüdür.",
+    "slug": "astarotte-no-omocha-ex"
+  },
+  "jikan": {
+    "mal_id": 10582,
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/30853.jpg",
+    "trailer_id": null,
+    "title": "Astarotte no Omocha! EX",
+    "title_english": "Astarotte's Toy EX",
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2011-09-07T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.52,
+    "popularity": 4083,
+    "synopsis": "The OVA Astaroette no Omocha is a three part short story series. In the first story, Lotte and Asuha find themselves searching for details about their school project. In the second bit, is the backstory to how Zelda came to be Lotte's bodyguard. The final of the three, is a flashback of how the queen met Naoya and how they conceived Asuha ten years prior to the events in the anime.\n\n(Source: ANN)",
+    "genres": [
+      4,
+      10,
+      22,
+      9
+    ],
+    "themes": [
+      62
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      51
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          6778
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          9736
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 10582,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Astarotte's Toy OVA",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 46,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1rSvxdyw_xROIRScUDJlQPdLW7THJbIkn/preview"
+        },
+        {
+          "fansub_id": 46,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-txzu6lk5147v.html"
+        },
+        {
+          "fansub_id": 46,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-c3wxh60uix3j.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T03:08:16.450209",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

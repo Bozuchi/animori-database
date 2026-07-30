@@ -1,0 +1,775 @@
+{
+  "turkanime": {
+    "isim": "Teekyuu 7",
+    "puan": "0.00",
+    "bolum_durumu": "12/12",
+    "ozet": "Serinin 7. sezonudur.",
+    "slug": "teekyuu-7"
+  },
+  "jikan": {
+    "mal_id": 32228,
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/77830.jpg",
+    "trailer_id": "p00QymTDr58",
+    "title": "Teekyuu 7",
+    "title_english": "Teekyu 7",
+    "type": "TV",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": 2016,
+    "season": "winter",
+    "airing": false,
+    "aired": {
+      "from": "2016-01-12T00:00:00+00:00",
+      "to": "2016-03-29T00:00:00+00:00"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.64,
+    "popularity": 5732,
+    "synopsis": "Seventh season of the Teekyuu series.",
+    "genres": [
+      4
+    ],
+    "themes": [],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      1237
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          31440
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          33811
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          44949
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entries": [
+          32817
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 21513,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21513-AqAkh7YRBo1Y.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Teekyuu 7 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1o6m-HLEvWkNJqxYZVsjQ1MMrMRYoJDjb/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1JgYWnWy_znEvaJSC5nyu3u2mSzHjagLq/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/571224138646/video/embed/_myvideo/331"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140717651"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3887511"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4472376"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-x16purllujpv.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ckuizyzgz4kh.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/prnh1i1l"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-o81wlym4x6aj.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T15:32:15.514003",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Teekyuu 7 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1xS0o1HH6kKPtp7GigFPiCTZDDmMqHkBB/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1tRMMvqntFj1bIvwwfJvNhsV-hK0wdOHn/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/571224138646/video/embed/_myvideo/332"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140717652"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3887512"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4472378"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-l3qwjxk1e53j.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-7ytu8nig7xo7.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/akd1956n"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-gctomhq3hc5p.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T15:32:15.514003",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Teekyuu 7 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1gl_CLMjjpvp-x7L1VTYWac3DWKvN04cy/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/571224138646/video/embed/_myvideo/333"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140717654"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4472380"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3887514"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-zjmx60gibdki.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-smrts7mnklg3.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/dehknd1i"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-1sxp19q1yjg3.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T15:32:15.514003",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Teekyuu 7 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1q40uEfNqaYEW0gpNKSi2P-3pn0jwPwZT/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1-VYhYQPoz5X3FOBoo9fb8L_x2IOMMb0w/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140717655"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/571224138646/video/embed/_myvideo/334"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4472381"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3887515"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-z58qyycnjilq.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-yvy3qfnnuwzf.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/vj0hk7xl"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-l178fva70o9c.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T15:32:15.514003",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Teekyuu 7 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1qCvauRb3rhqDPdT05AL6OK_FTieYBF3B/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1bpYIpWp3tpfdxdYxUbdb4ZIRp08HmSdJ/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140717657"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/571224138646/video/embed/_myvideo/327"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4472383"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3887516"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-s372bzhut50f.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-rk1s0cwbzulh.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/absyyt08"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-zzoe1loxniwn.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T15:32:15.514003",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Teekyuu 7 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1FhEesR4T866CP0S1Lke3fOze70ZZ8kAR/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1cn3Sj9EFwWpUUePWDW7uB7sOSZQwIF9O/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140717659"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/571224138646/video/embed/_myvideo/328"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4472385"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3887502"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-uewt1sr2b2yv.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-641ko476bpbj.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-573kaahbiz2c.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T15:32:15.514003",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Teekyuu 7 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1CUBr0Tk16hOmk1KQ3poI0ppGYSVc8nUy/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1BVQbFcD8koH3LOrDQYZApKqsYsryWgnN/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140717660"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/571224138646/video/embed/_myvideo/329"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4472386"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3887503"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5d5gqn44snuy.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/cbk5ruw2"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-kk8n5u9gffit.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T15:32:15.514003",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Teekyuu 7 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1LlJXiut8hl66iPG0mCD--Q12EY-5t2GT/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1cgcqaPQFwYq_G8m1J0TJuaBn8673umRQ/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140717662"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/571224138646/video/embed/_myvideo/330"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4472389"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3887504"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-y0mw8g9nor1v.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-zryfs25hn70h.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/kbu01ajy"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ymnkgtxwmp9y.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T15:32:15.514003",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Teekyuu 7 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1lE4iCvZFpz8g2MizOjAlGDNpes2X30It/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1oNUqvQGa1j3wQAMXHdwwyTdzeE3kJw7J/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/571224138646/video/embed/_myvideo/335"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140717664"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4472392"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3887505"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-qnbixswgd858.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-34879jwy9bx8.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/h1gxhtdt"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-tk1bjwhyirt6.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T15:32:15.514003",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Teekyuu 7 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1olRGeppIKwN3zSi9HFv_zeiYwW3p3bMT/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1XV3oZm-l_xHmlQuwzH-i3pQpmWPZr2Q5/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/571224138646/video/embed/_myvideo/336"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140717665"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3887506"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4472393"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-tazxsae2sj28.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/58o33r46"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-zdzeb9cjc4dn.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T15:32:15.514003",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Teekyuu 7 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1TJ0BqqlCCXlWMU10Q8vNE0Al4HhLhgr-/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1zt-e6LF0TMqQolYcbmBXu-aTg25AUpuJ/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/571224138646/video/embed/_myvideo/337"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140717667"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3887507"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4472395"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-w9fhibbyoo3t.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-cs2h7mnuw31f.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/6zxihlmr"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-47f2grrtq79t.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T15:32:15.514003",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Teekyuu 7 12. Bölüm Final",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1QZeB6NEJBWrdAFGX0FqVmhluyOVdDg1X/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1aWRToYTRZEVAb1jI5NUGGHcxrNQWo2f0/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/571224138646/video/embed/_myvideo/338"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359659307"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3887509"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4457465"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-syy9dx7ss5rm.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5p39b3xnztx2.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T15:32:15.514003",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

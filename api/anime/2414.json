@@ -1,0 +1,121 @@
+{
+  "turkanime": {
+    "isim": "Assemble Insert",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Şeytan tohumu olarak bilinen suçlu grubu Tokyo'yu devasa robot ordusuyla terörize ediyor. Yerel polis onların karşısına çıkmaya korkuyor fakat tek bir kişi yollarına çıkıyor: Maron Namikaze, 13 yaşında hoş bir sese ve insanüstü güce sahip idol şarkıcı.",
+    "slug": "assemble-insert"
+  },
+  "jikan": {
+    "mal_id": 2414,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1502/123445.jpg",
+    "trailer_id": null,
+    "title": "Assemble Insert",
+    "title_english": "Assemble Insert",
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1989-12-21T00:00:00+00:00",
+      "to": "1990-02-25T00:00:00+00:00"
+    },
+    "duration": "29 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.18,
+    "popularity": 9183,
+    "synopsis": "A criminal group known as Demon Seed terrorizes Tokyo with its vast armies of mecha. The local police is afraid to confront them, but one person stands in their way: Maron Namikaze, a 13-year-old idol singer with a catchy voice and unbelievable superhuman strength.\n\n(Source: ANN)",
+    "genres": [
+      4,
+      24
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      2051
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          85255
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 2414,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2414-oKtbnu3jZJMl.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Assemble Insert 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/17BHNFIWx_ebZ6719rNBfoZa5idJEBPx6/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656203"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4438871"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-8ozr32e28dwj.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T03:07:46.543926",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Assemble Insert 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1T4mEOdFSnBHdSsYIAqcHrfaUop61QaTF/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656204"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4438936"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-mtn2eah2unbk.html"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ecmylfmaia54.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T03:07:46.543926",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

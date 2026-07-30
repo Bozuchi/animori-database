@@ -1,0 +1,87 @@
+{
+  "turkanime": {
+    "isim": "Angel Beats! Specials",
+    "puan": "0.00",
+    "bolum_durumu": "1/2",
+    "ozet": "Serinin Special bölümleridir.",
+    "slug": "angel-beats-specials"
+  },
+  "jikan": {
+    "mal_id": 9062,
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/25073.jpg",
+    "trailer_id": null,
+    "title": "Angel Beats! Specials",
+    "title_english": null,
+    "type": "Special",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2010-12-22T00:00:00+00:00",
+      "to": "2015-06-24T00:00:00+00:00"
+    },
+    "duration": "27 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.55,
+    "popularity": 997,
+    "synopsis": "As the Shinda Sekai Sensen (SSS) continue their vindictive rebellion against God, their leader, Yuri Nakamura, comes up with an ingenious plan to escape the afterlife. Her subordinates prepare to carry out \"Operation High Tension Syndrome\" to deceive Kanade Tachibana, student council president and alleged associate of God, into thinking that they are ready to pass on. With a week's worth of food on the line and with Heaven as the ultimate prize, will the SSS members be able to fool the inscrutable Kanade?\n\n[Written by MAL Rewrite]",
+    "genres": [
+      4,
+      10
+    ],
+    "themes": [
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      132
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          6547
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 9062,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/9062-zjqULNv5aHsL.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Angel Beats! Special",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4411308"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-i92yvpw0dmgg.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-hvjjm46mmc9o.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1103079"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-21T21:36:28.832766",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

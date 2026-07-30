@@ -1,0 +1,183 @@
+{
+  "turkanime": {
+    "isim": "Buddy Go! 2",
+    "puan": "0.00",
+    "bolum_durumu": "4/4",
+    "ozet": "Buddy Go! serisinin 2. sezonudur.",
+    "slug": "buddy-go-2"
+  },
+  "jikan": {
+    "mal_id": 34173,
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/82610.jpg",
+    "trailer_id": null,
+    "title": "Buddy Go! 2",
+    "title_english": null,
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2016-10-04T00:00:00+00:00",
+      "to": "2016-10-25T00:00:00+00:00"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG - Children",
+    "score": 6.08,
+    "popularity": 10875,
+    "synopsis": "2nd Broadcast of Buddy Go! of Oha Suta!",
+    "genres": [
+      4,
+      22
+    ],
+    "themes": [
+      81
+    ],
+    "demographics": [
+      25
+    ],
+    "studios": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          33056
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          89266
+        ]
+      }
+    ]
+  },
+  "anilist": null,
+  "episodes": [
+    {
+      "turkanime_title": "Buddy Go! 2 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Q_9TZ336YxKUavA8yELzAMtiFWODY0I6/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3266397"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T07:10:17.372864",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Buddy Go! 2 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1vS4mpex--mtZedSOjl-CVXgC6MXA4SLl/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3266405"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T07:10:17.372864",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Buddy Go! 2 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1gz3OvcT4ryseAslEDWRc8JGsYiSuBUUr/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Yk59Z4PW72MleqY49lHFcGW0ohI52f9m/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4518469"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3266409"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-c87e1b2teqtp.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-8hylybt79ate.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T07:10:17.372864",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Buddy Go! 2 4. Bölüm Final",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1n2IUJ5kAUGFw6HPiqlSL-POiD3vSJHwP/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1v9WDlOdgGubh6GLgg0Qaws_Ij_hzOu-e/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3266411"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4518471"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2a4zz9rr11u4.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-n55p3kpo7sbl.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T07:10:17.372864",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

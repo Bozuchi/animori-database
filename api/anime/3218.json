@@ -1,0 +1,130 @@
+{
+  "turkanime": {
+    "isim": "Gensoumaden Saiyuuki OVA",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Hikaye; Sanzo ve üç yandaşının batıya doğru Gyuumaoh'u uyandırma çabalarını durdurmak için çıktıkları yolculuğu anlatıyor. Yol boyunca yokai'lerle olan savaşları ve şehir sakinlerine yaptıkları yardımlar işleniyor.",
+    "slug": "gensoumaden-saiyuuki-ova"
+  },
+  "jikan": {
+    "mal_id": 3218,
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/67873.jpg",
+    "trailer_id": null,
+    "title": "Saiyuuki (OVA)",
+    "title_english": "Saiyuki",
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1999-04-23T00:00:00+00:00",
+      "to": "1999-08-27T00:00:00+00:00"
+    },
+    "duration": "30 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.97,
+    "popularity": 9038,
+    "synopsis": "The story of Sanzo and his three companions in their quest to the west, to stop the resurrection of Gyuumao. On the way they are fighting youkai, getting into trouble and helping the townspeople.",
+    "genres": [
+      2,
+      37
+    ],
+    "themes": [
+      6
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      122
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          129
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 3218,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n3218-FeIrtQPWsLGB.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Gensoumaden Saiyuuki OVA 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4088533"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4534088"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3266251"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-e59p4qob5ztm.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-bj03hid2cll4.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T23:00:43.518190",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Gensoumaden Saiyuuki OVA 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4088535"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4534091"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3266280"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-iufpje9249vx.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-c14z1iywez4c.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T23:00:43.518190",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

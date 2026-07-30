@@ -1,0 +1,105 @@
+{
+  "turkanime": {
+    "isim": "Blue Lock: Episode Nagi",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Blue Lock animesinin Nagi Seishirou karakterine odaklanan yan filmidir.",
+    "slug": "blue-lock-episode-nagi"
+  },
+  "jikan": {
+    "mal_id": 54866,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1239/139928.jpg",
+    "trailer_id": "NAlKBPMJ3Qs",
+    "title": "Blue Lock: Episode Nagi",
+    "title_english": "Blue Lock: Episode Nagi",
+    "type": "Movie",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2024-04-19T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 30 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.27,
+    "popularity": 2507,
+    "synopsis": "A spin-off of Blue Lock focusing on Seishirou Nagi.",
+    "genres": [
+      30
+    ],
+    "themes": [
+      77
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      441
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          144695
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          49596
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          60076
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 163147,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163147-V6c9XjfvGE0M.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Blue Lock Movie: Episode Nagi",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1nizkzhHn51tmkrj5x2b4nr9EKSDlpy5-/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/338t4qt9hw8m"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/xqpbxktgmfj7"
+        },
+        {
+          "fansub_id": 18,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/14bOGsBgjf5MMZkTYZCWnCWF5F6sXZ9jN/preview"
+        },
+        {
+          "fansub_id": 18,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7725655522707244735"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T06:00:07.342339",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

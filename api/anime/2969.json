@@ -1,0 +1,87 @@
+{
+  "turkanime": {
+    "isim": "Appleseed Saga Ex Machina",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Appleseed Saga: Ex Machina, 2004 yapımı Appleseed filmi gibi, üç boyutlu bilgisayar animasyonu ile hazırlanmıştır.",
+    "slug": "appleseed-saga-ex-machina"
+  },
+  "jikan": {
+    "mal_id": 2969,
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/23677.jpg",
+    "trailer_id": null,
+    "title": "Appleseed Saga Ex Machina",
+    "title_english": "Appleseed: Ex Machina",
+    "type": "Movie",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2007-10-20T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 44 min",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.3,
+    "popularity": 4058,
+    "synopsis": "Deunan, a young female warrior, and Briareos, a veteran cyborg-soldier, are both partners and lovers. As members of E.S.W.A.T., the elite special forces serving Olympus, they are deployed whenever trouble strikes. The two fighters find their partnership tested in a new way by the arrival of a new member to their ranks—an experimental Bioroid named Tereus.\n\n(Source: ANN)",
+    "genres": [
+      24
+    ],
+    "themes": [
+      18,
+      38
+    ],
+    "demographics": [],
+    "studios": [
+      486
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          54
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 2969,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "AppleSeed : Ex Machina",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1im-UWCEWgCRFinjf4s43Og1gqRUq8d2H/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359654330"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4065289"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/dhq1h4ce"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T02:20:51.823141",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

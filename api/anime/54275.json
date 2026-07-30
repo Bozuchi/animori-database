@@ -1,0 +1,125 @@
+{
+  "turkanime": {
+    "isim": "Temple",
+    "puan": "0.00",
+    "bolum_durumu": "2/12",
+    "ozet": "Akemitsu Akegami'nin babası her zaman oğluna \"Kimse tek başına yaşayamaz.\" der. Fakat o kararından emin. Ne de olsa babası bunu kesinlikle iyi niyetle söylemiyordu ve Akemitsu'nun o gibi kötü biri olmaya hiç niyeti yoktu. Ancak genç bir kadınla tesadüfen karşılaşması onu fazlasıyla saf olmayan düşüncelerle baş başa bırakınca, yapması gerekeni yapmaya karar verir: Budist bir keşiş olmak ve dünyevi yollardan vazgeçmek. Ama kendini adamaya karar verdiği tapınak... kadınlarla mı doludur? Ve aynı genç kadın da mı orada? Bir erkek ne yapmalı?",
+    "slug": "temple"
+  },
+  "jikan": {
+    "mal_id": 54275,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1879/136896.jpg",
+    "trailer_id": "-DoEoK4denA",
+    "title": "Temple",
+    "title_english": "TenPuru: No One Can Live on Loneliness",
+    "type": "TV",
+    "source": "Web manga",
+    "status": "Finished Airing",
+    "year": 2023,
+    "season": "summer",
+    "airing": false,
+    "aired": {
+      "from": "2023-07-09T00:00:00+00:00",
+      "to": "2023-09-24T00:00:00+00:00"
+    },
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.69,
+    "popularity": 2038,
+    "synopsis": "From a young age, Akemitsu Akagami was taught by his father that people can never live alone. But underneath the seemingly prudent advice lies a truth that corrupts it—sons of the Akagami lineage are infamous for being heinous playboys. Determined to clear the notoriety of his family name, Akemitsu keeps his distance from girls throughout his life, only to become a victim of his bloodline's instincts, as he falls in love at first sight.\n\nIn a last-ditch effort to rid himself of these desires, Akemitsu travels to a nearby temple in hopes of receiving Buddhist training. However, chaos ensues when the girl he had fallen for greets him at the door. After the commotion settles, he discovers the temple is actually a nunnery from which his father had borrowed millions before fleeing. Now working at the nunnery to repay the outstanding debts, Akemitsu tries his best to compose himself and stay celibate while being surrounded by lovely girls of all kinds.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      4,
+      22,
+      9
+    ],
+    "themes": [
+      35
+    ],
+    "demographics": [],
+    "studios": [
+      2554
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          120643
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entries": [
+          56741
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          56172
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 160447,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/160447-n9vY5MrU8baz.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Temple 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/669euqy5v0ca"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-mfdbl8xts590.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 60.269,
+          "end": 150.269
+        },
+        "ed": {
+          "start": 1336,
+          "end": 1433
+        }
+      },
+      "added_date": "2026-07-29T15:37:01.454958",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Temple 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/eqagmptj17d8"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ubbq57etaur8.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 36.114,
+          "end": 126.114
+        }
+      },
+      "added_date": "2026-07-29T15:37:01.454958",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

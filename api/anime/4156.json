@@ -1,0 +1,112 @@
+{
+  "turkanime": {
+    "isim": "Ichigo Mashimaro Episode 0",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Ichigo Mashimaro serisinin astronot temalı özel bölümüdür.",
+    "slug": "ichigo-mashimaro-episode-0"
+  },
+  "jikan": {
+    "mal_id": 4156,
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/19666.jpg",
+    "trailer_id": null,
+    "title": "Ichigo Mashimaro Episode 0",
+    "title_english": "Strawberry Marshmallow Prologue",
+    "type": "Special",
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2005-06-08T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.01,
+    "popularity": 5867,
+    "synopsis": "A brief special where the girls pretend to be astronauts.",
+    "genres": [
+      4
+    ],
+    "themes": [
+      52
+    ],
+    "demographics": [],
+    "studios": [
+      39
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          371
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          488
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 4156,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Ichigo Mashimaro 0. Bölüm",
+      "episode_number": 0,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1PgOXxeUBUqijImBMxBsUcKLnu4zrjxAx/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/2444636457931907960"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1296462"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4495198"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-jyfrateg842n.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-o4y3blvhdsy8.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ixgfmanp"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-kvo906djxuoo.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T04:58:48.744563",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

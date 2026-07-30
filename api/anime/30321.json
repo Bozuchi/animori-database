@@ -1,0 +1,172 @@
+{
+  "turkanime": {
+    "isim": "Strike The Blood: Valkyria no Oukoku-hen",
+    "puan": "8.93",
+    "bolum_durumu": "2/2",
+    "ozet": "Dengeki Game Festival 2015’te resmi olarak 2015’in sonlarına doğru Strike the Blood’a iki bölümlük bir OVA serisi çıkacağı açıklanmıştı. Bu OVA Gakuto Mikumo tarafından yazılmış orijinal bir hikayeyi anlatacak.",
+    "slug": "strike-the-blood-valkyria-no-oukoku-hen"
+  },
+  "jikan": {
+    "mal_id": 30321,
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/77275.jpg",
+    "trailer_id": "AAwmBSDzUdM",
+    "title": "Strike the Blood: Valkyria no Oukoku-hen",
+    "title_english": "Strike the Blood: Kingdom of the Valkyria",
+    "type": "OVA",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2015-11-25T00:00:00+00:00",
+      "to": "2015-12-23T00:00:00+00:00"
+    },
+    "duration": "23 min per ep",
+    "rating": "R+ - Mild Nudity",
+    "score": 7.21,
+    "popularity": 2390,
+    "synopsis": "It was officially announced at the Dengeki Game Festival 2015 event that Strike the Blood will be getting a two-episode OVA series to be released at the end of 2015. The OVA will be an original story written by Gakuto Mikumo.\n\n(Source: MAL News)",
+    "genres": [
+      1,
+      10,
+      9
+    ],
+    "themes": [
+      35,
+      23,
+      82,
+      32
+    ],
+    "demographics": [],
+    "studios": [
+      271,
+      300,
+      957
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          18277
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 21098,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Strike the Blood: Valkyria no Oukoku-hen 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 10,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1LFK4NwbxqWd3c8yKRWylSWukxsqddjPT/preview"
+        },
+        {
+          "fansub_id": 10,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933018341"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/sweetparade/_myvideo/792.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4981957"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2788190"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-pgqbxmovmk60.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-o623c79999pt.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 127.067,
+          "end": 217.067
+        },
+        "ed": {
+          "start": 1306.108,
+          "end": 1396.108
+        }
+      },
+      "added_date": "2026-07-29T13:18:32.109666",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Strike the Blood: Valkyria no Oukoku-hen 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 10,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1v9b33t6CYbcjuiLGLKUYYyOg6cYV--oK/preview"
+        },
+        {
+          "fansub_id": 10,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933018342"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/sweetparade/_myvideo/793.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2788192"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4981969"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-626b4nzsajbn.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-mqnsmbhmc0hc.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 9.867,
+          "end": 99.867
+        },
+        "ed": {
+          "start": 1215.411,
+          "end": 1305.411
+        }
+      },
+      "added_date": "2026-07-29T13:18:32.109666",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "turkanime": {
+    "isim": "Ie Naki Ko",
+    "puan": "0.00",
+    "bolum_durumu": "1/51",
+    "ozet": "Fransa'da bir köyde annesi ile yaşayan Remi babası tarafından gezgin bir müzisyene satılır. Vitalis ve hayvanları ile yolculuk yapıp o kasaba senin bu kasaba benim dolaşmaya başlarlar. Aslında Vitalis'in oldukça iyi biri olduğunu anlayan Remi bu hayata gittikçe alışmaya başlamaktadır. Bir gün anne ve babasının gerçek anne-babası olmadığı öğrenince Remi gerçek anne-babasını aramaya başlar.",
+    "slug": "ie-naki-ko"
+  },
+  "jikan": {
+    "mal_id": 2828,
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/76757.jpg",
+    "trailer_id": null,
+    "title": "Ie Naki Ko",
+    "title_english": "Nobody's Boy Remi",
+    "type": "TV",
+    "source": "Novel",
+    "status": "Finished Airing",
+    "year": 1977,
+    "season": "fall",
+    "airing": false,
+    "aired": {
+      "from": "1977-10-02T00:00:00+00:00",
+      "to": "1978-10-01T00:00:00+00:00"
+    },
+    "duration": "24 min per ep",
+    "rating": "G - All Ages",
+    "score": 7.92,
+    "popularity": 5576,
+    "synopsis": "Remi is a boy living happily with his mother in the French countryside. But everything changes when his estranged father comes home and, in desperate need of money, reveals that Remi is adopted, and sells him. Heartbroken, Remi ends up with Vitalis, a traveling musician, and his troupe of animal entertainers. Together, they travel the country in search for Remi's real parents, along the way learning the harsh lessons of life. A deeply moving story about friendship, loss and the pursuit of happiness. \n\n(Source: AniDB)",
+    "genres": [
+      2,
+      8
+    ],
+    "themes": [
+      13
+    ],
+    "demographics": [
+      15
+    ],
+    "studios": [
+      11,
+      73
+    ],
+    "relations": [
+      {
+        "relation": "Summary",
+        "entries": [
+          2831
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          2830,
+          2829
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 2828,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2828-vUbylCCcGLcj.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Ie Naki Ko 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1aPX1e6hI84gmkaxgmb0nYb9eJCgm9vYr/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/2444636457931909502"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4364130"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-lw7wmodnk795.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/was8djcw"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T05:05:21.754566",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

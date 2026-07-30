@@ -1,0 +1,172 @@
+{
+  "turkanime": {
+    "isim": "Dream Festival! R",
+    "puan": "0.00",
+    "bolum_durumu": "3/12",
+    "ozet": "Dream Festival! 2. sezonudur.",
+    "slug": "dream-festival-r"
+  },
+  "jikan": {
+    "mal_id": 34552,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1633/133979.jpg",
+    "trailer_id": null,
+    "title": "Dream Festival! R",
+    "title_english": null,
+    "type": "ONA",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2017-08-23T00:00:00+00:00",
+      "to": "2017-11-08T00:00:00+00:00"
+    },
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.83,
+    "popularity": 9132,
+    "synopsis": null,
+    "genres": [],
+    "themes": [
+      61,
+      19
+    ],
+    "demographics": [],
+    "studios": [
+      1258
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          33045
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 97937,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Dream Festival! R ONA 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/shounenhollywood/video/embed/_myvideo/225"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7706652796388377766"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4534121"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2pyh400nn6a6.html"
+        },
+        {
+          "fansub_id": 28,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-1euc5cue6r2w.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T23:28:18.772569",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Dream Festival! R ONA 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7706652796388377768"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/yandex.com/momokuri/video/embed/_myvideo/303"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4534122"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-34bq8pi52pax.html"
+        },
+        {
+          "fansub_id": 28,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-kd0gujyd7343.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T23:28:18.772569",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Dream Festival! R ONA 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 28,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1qqeZ31flPt3sz09_p6wO8ca8jkgpokjd/preview"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7706652796388377769"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359660356"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/shirokumacafe/video/embed/_myvideo/176"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4460499"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/qyfthody"
+        },
+        {
+          "fansub_id": 28,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-o6rxajor58mn.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T23:28:18.772569",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

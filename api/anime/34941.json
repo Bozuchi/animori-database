@@ -1,0 +1,97 @@
+{
+  "turkanime": {
+    "isim": "Queen's Blade: Unlimited",
+    "puan": "0.00",
+    "bolum_durumu": "1/2",
+    "ozet": "Queen's Blade serisinin OVA bölümleridir.",
+    "slug": "queen-s-blade-unlimited"
+  },
+  "jikan": {
+    "mal_id": 34941,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1470/90266.jpg",
+    "trailer_id": "reyxM26mC2A",
+    "title": "Queen's Blade: Unlimited",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Other",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2018-07-13T00:00:00+00:00",
+      "to": "2020-02-28T00:00:00+00:00"
+    },
+    "duration": "26 min per ep",
+    "rating": "R+ - Mild Nudity",
+    "score": 5.77,
+    "popularity": 6375,
+    "synopsis": "Queen's Blade, a four-yearly life-threatening fighting event where beauty fighters from all over the world gather. The strongest women dominate everything on this continent, following the tradition initiated by the first queen. \nThe winner of an official match in the presence of an angel can give any order to the loser. You can take away your proud weapons, serve as a slave, and even defeat the current Queen and take her place! Elina, the daughter of a remote aristocrat, set out on her own pursuit of her beloved sister, Reina, who had abandoned everything and became a beautiful warrior.",
+    "genres": [
+      1,
+      2,
+      10,
+      9
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      3081
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          11859
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 98319,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Queen's Blade: Unlimited 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 179,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1YeKIcCq3nE6WvGUReXmIaiAtBODnuK5B/preview"
+        },
+        {
+          "fansub_id": 179,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ttg8FvfYlzHLSLPTZfsqdqt5JjdOvGKk/preview"
+        },
+        {
+          "fansub_id": 179,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359661977"
+        },
+        {
+          "fansub_id": 179,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4594687"
+        },
+        {
+          "fansub_id": 179,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/sb6m5koo"
+        },
+        {
+          "fansub_id": 179,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-yelyd7cro0rs.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T03:27:28.569186",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

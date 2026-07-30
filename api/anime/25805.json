@@ -1,0 +1,106 @@
+{
+  "turkanime": {
+    "isim": "Pokemon Movie 18: Ring no Choumajin Hoopa",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Pokemon film serisinin on sekizinci filmidir.",
+    "slug": "pokemon-movie-18-ring-no-choumajin-hoopa"
+  },
+  "jikan": {
+    "mal_id": 25805,
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/72143.jpg",
+    "trailer_id": "mi-fahz-YY4",
+    "title": "Pokemon Movie 18: Ring no Choumajin Hoopa",
+    "title_english": "Pokémon the Movie: Hoopa and the Clash of Ages",
+    "type": "Movie",
+    "source": "Game",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2015-07-18T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 18 min",
+    "rating": "PG - Children",
+    "score": 6.67,
+    "popularity": 3195,
+    "synopsis": "A century ago, the power of a mighty creature known as Hoopa, who is capable of single-handedly defeating legendary Pokémon, was captured in a bottle by a lone traveler. The bottle was then hidden deep inside a cave in the desert, in the hopes that the darkness sealed within it would never see the light of day again.\n\nYears later, a young man finds the bottle and breaks the curses surrounding it, releasing the power confined within it. Its contents take the form of Hoopa's shadow, and it uses its unbound power to shatter the bottle and prevent anyone from capturing it again. The shadow then goes on a rampage and attacks the original Hoopa, while both Pokémon summon other legendary creatures to aid them in their brawl. Satoshi—a budding Pokémon trainer from the Kanto region—and his friends are caught up in the crossfire, and must now work to stop the ravaging Pokémon, or face a devastating clash of legends.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      2,
+      10
+    ],
+    "themes": [],
+    "demographics": [
+      15
+    ],
+    "studios": [
+      28
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          31168
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          93549
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          19291
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          30686,
+          28853
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 21266,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Pokemon Movie 18 - Ring no Choumajin Hoopa",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1MrxZNQJ0TtDLUYO3l3CrOm-LKNe-2JNi/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933019075"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/feeling7d/_myvideo/833.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2589893"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T02:26:58.643831",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

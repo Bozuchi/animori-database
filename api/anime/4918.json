@@ -1,0 +1,163 @@
+{
+  "turkanime": {
+    "isim": "xxxHOLiC Shunmuki",
+    "puan": "7.35",
+    "bolum_durumu": "2/2",
+    "ozet": "CLAMP'ın xxxHOLIC serisinden uyarlanacak olan yeni OVA'dır. Tsubasa Shunraiki ile bağlantılıdır.",
+    "slug": "xxxholic-shunmuki"
+  },
+  "jikan": {
+    "mal_id": 4918,
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/25079.jpg",
+    "trailer_id": null,
+    "title": "xxxHOLiC Shunmuki",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2009-02-17T00:00:00+00:00",
+      "to": "2009-06-23T00:00:00+00:00"
+    },
+    "duration": "26 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.03,
+    "popularity": 2855,
+    "synopsis": "For the appropriate price, your dearest wish can be granted at the shop of the peculiar Yuuko. Kimihiro Watanuki wishes to be rid of his ability to see spirits, and so as payment, he works for Yuuko doing whatever she needs him to do, from cleaning to errands to even helping out Yuuko's other clients. In xxxHOLiC Shunmuki, Watanuki and his friend and rival Shizuka Doumeki enjoy a meal with their friend Kohane Tsuyuri and her grandmother, reminiscing about how they have changed since meeting each other.\n\nLater on, Watanuki has a dream in which he is visited by Doumeki's grandfather Haruka, who needs him to find some things in the family temple storeroom. Accompanied by Doumeki, he finds that this task is more akin to a treasure hunt, with each item leading them to another, and another, guiding them to an unexpected yet inevitable ending.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      4,
+      8,
+      7,
+      37
+    ],
+    "themes": [],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      10
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          3091
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          6864
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          10
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entries": [
+          4938
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 4918,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/4918-xawLs588G4Jf.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "xxxHOLiC Shunmuki OVA 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 176,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1f1LOiP8HP7EMVtvTpPPbemttT3xdQ-Z4/preview"
+        },
+        {
+          "fansub_id": 176,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985851546"
+        },
+        {
+          "fansub_id": 176,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985848006"
+        },
+        {
+          "fansub_id": 176,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4087240"
+        },
+        {
+          "fansub_id": 176,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439847"
+        },
+        {
+          "fansub_id": 176,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-bdqu035yvru4.html"
+        },
+        {
+          "fansub_id": 176,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-wasxicmbpdvr.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T17:11:04.531905",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "xxxHOLiC Shunmuki OVA 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 176,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1VuxmPXcTyLDz3FJ5da3CcZnbGuT3CYa5/preview"
+        },
+        {
+          "fansub_id": 176,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985853504"
+        },
+        {
+          "fansub_id": 176,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985848004"
+        },
+        {
+          "fansub_id": 176,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4446812"
+        },
+        {
+          "fansub_id": 176,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4087216"
+        },
+        {
+          "fansub_id": 176,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-0dmv1tx8rqbc.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T17:11:04.531905",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

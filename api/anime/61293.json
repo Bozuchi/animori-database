@@ -1,0 +1,175 @@
+{
+  "turkanime": {
+    "isim": "Koisuru One Piece",
+    "puan": "0.00",
+    "bolum_durumu": "5/5",
+    "ozet": "Üç lise öğrencisinin hikâyesini anlatan bu dizide, karakterlerin isimleri Tek Parça’daki karakterlerle aynı. Bu isim benzerliği de aralarındaki ilişkileri şekillendiren temel unsur oluyor.",
+    "slug": "koisuru-one-piece"
+  },
+  "jikan": {
+    "mal_id": 61293,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1304/148725.jpg",
+    "trailer_id": null,
+    "title": "Koisuru One Piece",
+    "title_english": "One Piece in Love",
+    "type": "ONA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2025-04-01T00:00:00+00:00",
+      "to": "2025-04-05T00:00:00+00:00"
+    },
+    "duration": "7 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.73,
+    "popularity": 8882,
+    "synopsis": "The premise of this gag manga spinoff is about three high school students: a young male student, his girlfriend and a third wheel who is a One Piece fanatic. Their names are similar to the Straw Hat Pirates and the group form a fan club dedicated to One Piece.\n\n(Source: One Piece Wiki)",
+    "genres": [
+      4,
+      22
+    ],
+    "themes": [
+      20
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      18
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          62214
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          120401
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          21
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 188668,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Koisuru One Piece 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 115,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1cjmgivZjfcGGUmM4pXcPLD8_VuvB16wC/preview"
+        },
+        {
+          "fansub_id": 115,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5873531"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T04:33:13.343327",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Koisuru One Piece 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 115,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1SgG6JKVEK-o2DFUdgF7kkS8DfdpAfitb/preview"
+        },
+        {
+          "fansub_id": 115,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5873542"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T04:33:13.343327",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Koisuru One Piece 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 115,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Q44T8WLQ2sO0UuCxsewFG3Lyg4V7kHq1/preview"
+        },
+        {
+          "fansub_id": 115,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5873532"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T04:33:13.343327",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Koisuru One Piece 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 115,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1n3SFM6Cm5p2sheh_sadeG3HKPm598nSU/preview"
+        },
+        {
+          "fansub_id": 115,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5873533"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T04:33:13.343327",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Koisuru One Piece 5. Bölüm Final",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 115,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1JLAkcYbmk1bXwXyPCLKkbKMO55La5ReK/preview"
+        },
+        {
+          "fansub_id": 115,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5873534"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T04:33:13.343327",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

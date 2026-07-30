@@ -1,0 +1,105 @@
+{
+  "turkanime": {
+    "isim": "Shingeki no Kyojin: Chronicle",
+    "puan": "9.31",
+    "bolum_durumu": "1/1",
+    "ozet": "Birinci sezondan üçüncü sezona kadar 59 bölümü özetleyen film.",
+    "slug": "shingeki-no-kyojin-chronicle"
+  },
+  "jikan": {
+    "mal_id": 42091,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1786/110717.jpg",
+    "trailer_id": "7wBiYV0oy1I",
+    "title": "Shingeki no Kyojin: Chronicle",
+    "title_english": "Attack on Titan: Chronicle",
+    "type": "Movie",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2020-07-17T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "2 hr",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.85,
+    "popularity": 2413,
+    "synopsis": "The compilation film recaps the anime's 59 episodes from seasons one to three.",
+    "genres": [
+      1,
+      8,
+      41
+    ],
+    "themes": [
+      58,
+      38,
+      76
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      858
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entries": [
+          16498,
+          25777,
+          35760,
+          38524
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 119113,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/119113-J6nd0aoRSTAA.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Shingeki no Kyojin: Chronicle Movie",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 25,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/18AfkD-2_508V8Pa69RrK3DizX0x2yhWI/preview"
+        },
+        {
+          "fansub_id": 25,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1DYOSMwG_RLSHklPqpUGEzICvEz_nhHx5/preview"
+        },
+        {
+          "fansub_id": 25,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1WjgkHM8CSXEfPk4gR6r3yE48J7oIkfkk/preview"
+        },
+        {
+          "fansub_id": 25,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140716601"
+        },
+        {
+          "fansub_id": 25,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359659051"
+        },
+        {
+          "fansub_id": 25,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/zlg93yjpr8bm"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T09:25:33.233078",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

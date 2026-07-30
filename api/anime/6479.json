@@ -1,0 +1,91 @@
+{
+  "turkanime": {
+    "isim": "Candy Boy Episode: EX02 - Shiawase Kyouyuu Riron",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Candy Boy'un son bölümüdür (8. Bölüm). Havuzda geçirdikleri bir günü konu alır.",
+    "slug": "candy-boy-episode-ex02-shiawase-kyouyuu-riron"
+  },
+  "jikan": {
+    "mal_id": 6479,
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/14762.jpg",
+    "trailer_id": null,
+    "title": "Candy Boy Episode: EX02 - Shiawase Kyouyuu Riron",
+    "title_english": null,
+    "type": "Special",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2009-06-24T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "9 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.71,
+    "popularity": 5024,
+    "synopsis": "Final episode (designated as Episode 8) of Candy Boy which came with DVD volume 2.\n\nThe episode centres around a day at the pool.",
+    "genres": [
+      26
+    ],
+    "themes": [
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      48
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          4535
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 6479,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Candy Boy EX 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/18uCr2z6oauS_BtZOMxMHG1cgJBD4QEBC/preview"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933016035"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3793797"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ot1f0rv1mo32.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1764316"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T07:30:38.699601",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

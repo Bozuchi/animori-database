@@ -1,0 +1,105 @@
+{
+  "turkanime": {
+    "isim": "Roujin Z",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Mevcut Japon hükümeti, sağlık bakanlığı ile toplantı yapmaktadır ve bütçelerinin çok fazla olmasından söz edilmektedir. Ana neden olarak da yaşlılara tanınan çeşitli hizmetler gösterilmektedir. Toplantıya aniden giren bir kişi elinde bu konuya açıklık kazandıracak ve kökünden bir değişiklik sağlayacak bir proje olduğunu söyler. Bir şirketin geliştirdiği ileri düzey bir bilgisayar ile donatılmış yaşlı bakım yatağı, yeni ve pek çok soruna çözüm olacaktır. İşler kâğıt üzerinde gayet olumlu ve uygun görülmektedir. Ancak açıklanmayan tek nokta, bu yeni nesil bilgisayarın yapay bir zekâya sahip olmasıdır.",
+    "slug": "roujin-z"
+  },
+  "jikan": {
+    "mal_id": 2000,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1584/93628.jpg",
+    "trailer_id": "u7NV-3O0OEo",
+    "title": "Roujin Z",
+    "title_english": "Roujin Z",
+    "type": "Movie",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1991-09-14T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 19 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.06,
+    "popularity": 3915,
+    "synopsis": "College student Haruko Mihashi volunteers as a nurse providing at-home care for the elderly. However, when one of her patients, Kijuro Takazawa, is suddenly taken away to be the first person placed in a Z-001 bed, she is concerned. While the bed's technology is impressive, automatically attending to all of a patient's needs, it lacks the compassion that human caregivers provide.\n\nHaruka's worries become even more serious when she receives a computerized message begging her for help. Deciding that something must be done, she and her friends sneak into Takazawa's room and discover that the Z-001's computer is capable of much more than they imagined.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      46,
+      4,
+      8,
+      24
+    ],
+    "themes": [
+      50,
+      18
+    ],
+    "demographics": [],
+    "studios": [
+      77
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          110569
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 2000,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2000-VBVRGICYXBvK.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Roujin Z",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/14XTRkNRMwHvQzb4j138dPLChrj73M0Mh/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271192111"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4501657"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1386294"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/jbu4mwf9"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/34v2b5to"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-46buu21ixb8h.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T05:04:21.728479",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

@@ -1,0 +1,1629 @@
+{
+  "turkanime": {
+    "isim": "Devilman",
+    "puan": "0.00",
+    "bolum_durumu": "39/39",
+    "ozet": "Devilman hikayesi, babasıyla birlikte Himalaya Dağları'na tırmanmaya giden ve utangaç biri olan Akira Fudo etrafında döner. Gezileri sırasında baba oğul birlikte trajik bir kaza sonucu hayatını kaybeder. Akira'nın cesedi şeytan asker Devilman tarafından ele geçirilmiş bulunur. Devilman'in amacı, yeni kazandığı insan formunu kullanarak Dünya'nın şeytanlar tarafından ele geçirilmesi için Dünya'yı kaosa gömmektir.\n\nAmacını gerçekleştirmeye başlamadan evvel Devilman Akira'nın çocukluk arkadaşı Miki Makimura ile karşılaşır ve ona aşık olur. Bunun üzerine Devilman fikrini değiştirip Miki'yi ve insanlığı koruyabilmek için şeytanlara karşı savaşmaya karar verir. Şeytan Kabilesi'nin lideri Zennon Devilman'in ihaneti üzerine çok sinirlenir ve adamlarını onu yok etmek için görevlendirir. Ama diğer şeytanlar, Miki'nin Devilman için ne kadar önemli olduğunu ve Devilman'in kendisiyle birlikte onu da korumak zorunda olduğunu anlarlar. Peki, gerçek aşkın gücü şeytanlığı alt edebilecek mi?",
+    "slug": "devilman"
+  },
+  "jikan": {
+    "mal_id": 2252,
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/72913.jpg",
+    "trailer_id": null,
+    "title": "Devilman",
+    "title_english": null,
+    "type": "TV",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": 1972,
+    "season": "summer",
+    "airing": false,
+    "aired": {
+      "from": "1972-07-08T00:00:00+00:00",
+      "to": "1973-04-07T00:00:00+00:00"
+    },
+    "duration": "25 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 6.54,
+    "popularity": 4202,
+    "synopsis": "Devilman features Akira Fudo, a shy and timid teenager who has gone mountain climbing in the Himalayas with his father. While in the middle of the expedition, both father and son are killed in a tragic accident. Akira's body is found and possessed by the demon soldier Devilman, who uses his new human form as a disguise in order to fulfill his mission of causing chaos on Earth in order to pave the way for a demonic invasion of the planet.\n\nBefore his mission can begin in earnest, Devilman meets Akira's childhood friend Miki Makimura and quickly falls in love with her. Devilman resolves to protect Miki and humanity as a whole by battling against his fellow demons. Demon Tribe leader Zennon becomes greatly angered at Devilman's betrayal and is quick to send Devilman's former comrades to destroy him. The other demons soon learn that Miki is precious to Devilman and he must now work to protect her, as well as protect himself. Will the power of love be able to overcome that of true evil?",
+    "genres": [
+      1,
+      14,
+      37
+    ],
+    "themes": [
+      6
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      18
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          1341
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          1474
+        ]
+      },
+      {
+        "relation": "Spin-Off",
+        "entries": [
+          1629
+        ]
+      },
+      {
+        "relation": "Summary",
+        "entries": [
+          35952
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          2354,
+          2356,
+          35120
+        ]
+      },
+      {
+        "relation": "Character",
+        "entries": [
+          3898
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          2692,
+          1628,
+          55324,
+          31050
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 2252,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2252-mBvJg1f88Y0Y.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Devilman 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1yw1JvBhUh64OdLOCZOyeKq68v0Av35Mh/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ZpfXUbYUxZb-z8kD2MKsj_hNp6cXew-l/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656318"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2793926"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439593"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-he00euoroi0x.html"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-z5ovhh0yna7z.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1KdFRqN7Eb-vaSzJ-cy9Fnkpj3D5ikIB2/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1qQQAu2TB0dUHSHiWCFj4KJeeyR58p8cZ/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656299"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2793929"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439594"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-9pvzs5b2u58q.html"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-7iduh9k2yvzq.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/11RcqIV6HQyueDtNT14TUjEZzXHiWB11I/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1PKTIcUZQiUjO09FvAU0wbgZYVd4aQsbU/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656300"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439596"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2793931"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-d7a1lvraad8h.html"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-3r3eendos9qb.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/14w0N7O0Aq3EzdgWiRnEpEWoi2nQaN6fX/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1yQySri2o0jQHqNqm-mGE0NHYItVEhaw6/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656301"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/sweetparade2/video/embed/_myvideo/233"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2969045"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439597"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2vbvhtcaj7ic.html"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-nm2ku2txt0uc.html"
+        },
+        {
+          "fansub_id": 21,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-zr0vb03sspql.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1vVUvExWzwRikZsVsa4TwOaOWrO4-r7L2/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1AbCT6-jI0yBEKZf2pSD4Q50dmfSPzdsC/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656302"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/sweetparade2/video/embed/_myvideo/234"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2969051"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439598"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-aqsi4tngbafy.html"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-dpumyd5gs8v5.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1LzDpfHDRHOP9o-kGCszJPeE3vV0N4XUl/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/19JVwqciGZOHQaoUs5d6iiNrhtVN0bfLN/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656303"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/sweetparade2/video/embed/_myvideo/235"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439601"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-qi3ke0v47dxb.html"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-pc36lgnwtwvo.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/136og-lamdjWqgE2tKGnb4wCX-ryQwhlH/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1fHAecCssqpbQku1D9yp9OOeCeklh1iYm/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656304"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/sweetparade2/video/embed/_myvideo/236"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439604"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-empvv7nn6ch2.html"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-6616a6m62cy9.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1gerqiClc6swBOwgnoRTnR_8g5lg1Jmpi/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1onAcQTSIZXOSdKyqbevUiLvNfSZYEYv5/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/sweetparade2/video/embed/_myvideo/237"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656305"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2969057"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439606"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ngm8mlnmplly.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1290,
+          "end": 1381
+        }
+      },
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/13iyiLlbdw9OAqAqFxJUipSqySn33PcjN/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/12gVYFnv-CdyRV2OE8qD6WbqpSwQ3IfAC/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/2444636457931911583"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656306"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojin_a/video/embed/_myvideo/1613"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439611"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3042643"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-3an1utcienwk.html"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-52x36qonu039.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1E7AaMCGnTt95EwjUm7vqyzsjgPATvmg4/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656307"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439613"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-omvha59hvzsu.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1tPq7eWj_L-NFK-aaplWBUz0gAWF1y8sw/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656308"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439616"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-i3mgggle430e.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 12. Bölüm",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/100HulKyzxcknL6p-YjRRVlQdkeoJZj0Z/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/12rNVcI4IQOFcSuncHL7cf_zKK98nt73s/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656309"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3176263"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439620"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-n80uxhm36xw9.html"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-rbs21j4ktn8k.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 13. Bölüm",
+      "episode_number": 13,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/10zDzP-LsoYOeO6xpL-Bmg2cgwe7e8BoJ/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1a3jvoqGy3dg2HQ-qNoOYbK3-eBW8hUHV/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656310"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3176267"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439622"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-cwwvmtpqost6.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 13,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 14. Bölüm",
+      "episode_number": 14,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1EKWrYO1HXoX5Lvx_ED6d6ER-eP-E72Ld/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Ww242MKMIYY0ecLLx1CKEuOIBdBpZL4N/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656311"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3176270"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439623"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vsv8u9w248jj.html"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-b4nmw1kl0i6e.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 14,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 15. Bölüm",
+      "episode_number": 15,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1d2BU3fDj70pfc07rRAFObqAkUNlTMK94/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1T6uLbR_EwGooHLsvm_E2PPSlOpPFSHra/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656319"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439627"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3191102"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vvkvb0p4zev9.html"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-mlh805gheymi.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 15,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 16. Bölüm",
+      "episode_number": 16,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1kt5D69QGBHX1moOx7DNcZ2h5ywccQeGa/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1-iSRnD6bfiA04277pwCc4En5BMzWsj1q/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656320"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439628"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3192254"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-u64xyr7gy2ca.html"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xd7qphhk34f6.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1230,
+          "end": 1370
+        }
+      },
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 16,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 17. Bölüm",
+      "episode_number": 17,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Y8i4u_7mn-yL6JpwszceBHzRLBWe286F/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1crcjDtqLu4s7THk3Z4vQogCSaOjExivB/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656321"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439638"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3192262"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-a5txnyhjxift.html"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-8qt13dx8t0cr.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 17,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 18. Bölüm",
+      "episode_number": 18,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1T8FDRQYSbEC5yXrd0Ihff4OQ2YkrEH29/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/10PVJnYbYQOjo3FvVQjT1VmT16MzzkzVV/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656322"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3192269"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-j00ohh46q5qt.html"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-1no8ila11bz4.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 18,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 19. Bölüm",
+      "episode_number": 19,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1JTvpBMfEbGi0-pMWIpjN57yWf9JeSdO6/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1w0LEzDi0RfqTKkK9KzkGsj-R1ldpuRRu/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656323"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439640"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3194669"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-3quessraak39.html"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-76r1tb59zyqg.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 19,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 20. Bölüm",
+      "episode_number": 20,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1u--znEab3eDXHTK1U_tXNOwhGb4ktKWe/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1yzso0su5DNCqsQDDjUWUfgvGtLH5d4pc/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439643"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3195875"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-avzwjdaxurg1.html"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-fa5svoez8yz6.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 20,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 21. Bölüm",
+      "episode_number": 21,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1OWE4gidwy5ouNy7t5AM2kqD-I5Ll1OQg/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/19IDveRcs8J6EKm1gTxt_8jYaYK4y8Pky/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656325"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3232949"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439644"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-wkugppgzm259.html"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-kr24cv2jyo97.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 21,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 22. Bölüm",
+      "episode_number": 22,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1vq58RssUVUmVDj_wruXhQW7X8_tFYC9a/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656326"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439646"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-09ysh5ooot6b.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 22,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 23. Bölüm",
+      "episode_number": 23,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1NMvt8nvAiQYworGqkFwea9U5Jb0mT6JJ/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656327"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439647"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-u9wmt38577av.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 23,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 24. Bölüm",
+      "episode_number": 24,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1RsiJDWsCHfbTfuzyd4DyYMhAIsGFQ1l4/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656328"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439648"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5iar5kclybvv.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 24,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 25. Bölüm",
+      "episode_number": 25,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1z_HHMVCU6RBbVHCEZmDwrtQ7KKPoScbG/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656329"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439651"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-cbp7e5sjwk72.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 25,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 26. Bölüm",
+      "episode_number": 26,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/10lH1Xqk8MXtPnduCcv0EHL6H3kxqHPvN/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656330"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439652"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-qkuvfawo0xfg.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 26,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 27. Bölüm",
+      "episode_number": 27,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/14lg5Ge6n5-fePuK0Fs-8ouAXqWKH8zMe/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656331"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439655"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5mqm5mpuho8z.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 27,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 28. Bölüm",
+      "episode_number": 28,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ojkClmgpXWPHD-vEQv4CmOyQ3OuToL93/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656332"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439656"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-gfmv4umzr3pv.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 28,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 29. Bölüm",
+      "episode_number": 29,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1xcqPQCJeBSxXgDoagtDdVzTR78lHTtEq/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656333"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439657"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2odebwwbyuqx.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 29,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 30. Bölüm",
+      "episode_number": 30,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1tIC9MZfW4SWRAjsVKvIOQTrRANZN_VNw/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656334"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439658"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2ezl3ka0giju.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 30,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 31. Bölüm",
+      "episode_number": 31,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/10qyPNlBfqAwAOTiBSW1awfR-QO1qr9IS/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656335"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439667"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-8on79zzt38bz.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 31,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 32. Bölüm",
+      "episode_number": 32,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1WHAnRmoJaMXIMnpX8QWV1RXGgtnguYK2/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656336"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439668"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-obea84a4xi19.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 32,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 33. Bölüm",
+      "episode_number": 33,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1E6trfEgJ2vf0qDMxJTJ4v3tR73xE2nu-/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656337"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439669"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-gdm2dtzfrqsq.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 33,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 34. Bölüm",
+      "episode_number": 34,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1D0CokF0CQdjffx006Pf-xTfX3RKah8hW/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656338"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439670"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-gek5514pk021.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 34,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 35. Bölüm",
+      "episode_number": 35,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1yvceE6VJmIB2Nw_UcC8QR0ZyOzsahYIQ/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656339"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439672"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-cxgmbdsbdob6.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 35,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 36. Bölüm",
+      "episode_number": 36,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ksL9sjXCpBWMwjR7TpOLTAvNZBju27Ep/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656340"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439673"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-zkduviqrdn4i.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 36,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 37. Bölüm",
+      "episode_number": 37,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1xpieHJUuW__p3NsMXTBFq5bI9n6hk8eD/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656341"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439674"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-s14740iyqp46.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 37,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 38. Bölüm",
+      "episode_number": 38,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1DfQw-C8T8GVvJPnZnNVpYlozTTnE0co3/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656345"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439675"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-684p9wuhx6xj.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1230,
+          "end": 1370
+        }
+      },
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 38,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Devilman 39. Bölüm Final",
+      "episode_number": 39,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Dff459z0jJJtFmUyZWvwQHyAjfclgdL8/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656346"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/2444636457931907846"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439677"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-efxr69u9mrv9.html"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-wz8cc3clwmq8.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:01:32.705166",
+      "jikan_mal_id": 39,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

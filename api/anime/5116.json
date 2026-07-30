@@ -1,0 +1,86 @@
+{
+  "turkanime": {
+    "isim": "Candy Boy Episode: EX01 - Mirai Yohouzu",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "İkiz kardeşler Yukino ve Kanade Sakurai, yeni okullarına gitmek için Tokyo'ya taşınırlar. Ancak her şey bekledikleri gibi gitmez.",
+    "slug": "candy-boy-episode-ex01-mirai-yohouzu"
+  },
+  "jikan": {
+    "mal_id": 5116,
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/35525.jpg",
+    "trailer_id": null,
+    "title": "Candy Boy Episode: EX01 - Mirai Yohouzu",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2008-08-13T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "7 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.75,
+    "popularity": 4794,
+    "synopsis": "A dvd only prequel to the Candy Boy series.  Twin sisters, Yukino and Kanade Sakurai, move to a new school in the big city of Tokyo but not everything is quite like they expected.",
+    "genres": [
+      26
+    ],
+    "themes": [
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      48
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          3456
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 5116,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Candy Boy Episode: EX02 - Shiawase Kyouyuu Riron Special",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1gRKuGvqKFu_Zm-nRTxOMyIEDtzJBcOHH/preview"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933016034"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3793791"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1764314"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T07:30:35.874382",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

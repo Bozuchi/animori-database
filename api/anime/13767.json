@@ -1,0 +1,105 @@
+{
+  "turkanime": {
+    "isim": "Junjou Romantica OVA",
+    "puan": "0.00",
+    "bolum_durumu": "1/2",
+    "ozet": "Junjou Romantica Serisinin OVA Bölümleridir.",
+    "slug": "junjou-romantica-ova"
+  },
+  "jikan": {
+    "mal_id": 13767,
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/60389.jpg",
+    "trailer_id": "EhETt91Br5s",
+    "title": "Junjou Romantica OVA",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2012-12-20T00:00:00+00:00",
+      "to": "2015-12-01T00:00:00+00:00"
+    },
+    "duration": "22 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.67,
+    "popularity": 3306,
+    "synopsis": "OVAs that come with the limited premium edition of volumes 16 and 20 of the manga series.",
+    "genres": [
+      28,
+      4,
+      8
+    ],
+    "themes": [
+      50
+    ],
+    "demographics": [],
+    "studios": [
+      37
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          765
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          3092,
+          25649
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 13767,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Junjou Romantica OVA",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3794960"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3795950"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-p1b7gdafogkj.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-y7jvflhe9y6s.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/pkj1jhh3"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/gq6kjz8u"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T22:06:17.583362",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

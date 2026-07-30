@@ -1,0 +1,124 @@
+{
+  "turkanime": {
+    "isim": "Himouto! Umaru-chan OVA",
+    "puan": "0.00",
+    "bolum_durumu": "1/2",
+    "ozet": "Himouto! Umaru-chan serisine ait OVA bölümlerdir.",
+    "slug": "himouto-umaru-chan-ova"
+  },
+  "jikan": {
+    "mal_id": 30991,
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/76826.jpg",
+    "trailer_id": null,
+    "title": "Himouto! Umaru-chan OVA",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2015-10-19T00:00:00+00:00",
+      "to": "2017-04-19T00:00:00+00:00"
+    },
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.24,
+    "popularity": 2623,
+    "synopsis": "Episodes included in the manga's seventh and tenth volumes.",
+    "genres": [
+      4
+    ],
+    "themes": [
+      69,
+      23
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      95
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          28825
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          50133
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 21327,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Himouto! Umaru-chan OVA 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 47,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1b7Cu_a3CB6-uFZWk_SxLGMcZPhABDIbX/preview"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/1093.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271187785"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4505377"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2054771"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2carq60qdnl3.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/o1cev2rw"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-w8mkz1u14snp.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 0.009,
+          "end": 90.042
+        },
+        "ed": {
+          "start": 1335.042,
+          "end": 1425
+        }
+      },
+      "added_date": "2026-07-26T03:44:12.292679",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

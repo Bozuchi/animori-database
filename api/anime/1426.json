@@ -1,0 +1,106 @@
+{
+  "turkanime": {
+    "isim": "Lupin III: Part III",
+    "puan": "0.00",
+    "bolum_durumu": "1/50",
+    "ozet": "Usta hırsız Arsene Lupin III, Arsene Lupin'in torunudur. İşbirlikçileri Daisuke Jigen, Goemon Ishikawa XIII ve karşı koyamadığı güzel Fujiko Mine ile birlikte, müfettiş Koichi Zenigata'nın elinden ne yapıp edip bir şekilde kaçarak tüm zamanların en büyük soygunlarını gerçekleştirirler.",
+    "slug": "lupin-iii-part-iii"
+  },
+  "jikan": {
+    "mal_id": 1426,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1441/100440.jpg",
+    "trailer_id": null,
+    "title": "Lupin III: Part III",
+    "title_english": null,
+    "type": "TV",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": 1984,
+    "season": "spring",
+    "airing": false,
+    "aired": {
+      "from": "1984-03-03T00:00:00+00:00",
+      "to": "1985-12-25T00:00:00+00:00"
+    },
+    "duration": "24 min per ep",
+    "rating": "R+ - Mild Nudity",
+    "score": 7.34,
+    "popularity": 5048,
+    "synopsis": "Lupin III chronicles the adventures of Arsene Lupin III, the world's greatest thief, and his partners in crime: master marksman Daisuke Jigen, beautiful and scheming Fujiko Mine and stoic samurai Goemon Ishikawa XIII. Lupin and his gang travel around the globe in search of the world's greatest treasures and riches and always keeping one step ahead of the tireless Inspector Zenigata, who has vowed to bring Lupin to justice. \n\n(Source: ANN)",
+    "genres": [
+      1,
+      2,
+      4
+    ],
+    "themes": [
+      50
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      65
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          1425
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          27947
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 1426,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1426-11KpXpbcFlU0.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Lupin III: Part III 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 66,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ashMrrTOMupQ8f9G2LiFxLtvRvInDohS/preview"
+        },
+        {
+          "fansub_id": 66,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682366968"
+        },
+        {
+          "fansub_id": 66,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4527550"
+        },
+        {
+          "fansub_id": 66,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-cv76kyylb51s.html"
+        },
+        {
+          "fansub_id": 66,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/2e7095k6"
+        },
+        {
+          "fansub_id": 66,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-bok744v8dkzm.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T08:55:46.923485",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

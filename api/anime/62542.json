@@ -1,0 +1,100 @@
+{
+  "turkanime": {
+    "isim": "Grand Blue Season 3",
+    "puan": "0.00",
+    "bolum_durumu": "1/12",
+    "ozet": "Iori Kitahara ve Kouhei Imamura, üniversite hayatının tadını (ve bolca alkolünü) çıkarmaya devam ederken, dalış kulübünün çılgın kıdemlileriyle birlikte yeni sahil maceralarına, adalara yapılan çılgın yolculuklara ve bitmek bilmeyen çıplak parti geleneklerine yelken açarlar. Bu sezonda ekip, nihayet \"gerçekten\" daha fazla su altı dalışı yapmaya odaklanmaya çalışsa da, kıskançlık krizleri, yanlış anlaşılmalarla dolu aşk üçgenleri ve sınavları geçme çabaları her zamanki gibi işleri çığırından çıkarır. Iori’nin kuzenleri Chisa ve Nanaka ile olan ilişkileri, kulübün diğer üyelerinin de dahil olduğu devasa ve komik kaoslarla test edilmeye devam eder.",
+    "slug": "grand-blue-season-3"
+  },
+  "jikan": {
+    "mal_id": 62542,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1615/158194.jpg",
+    "trailer_id": "KJw6ZZaMOWA",
+    "title": "Grand Blue Season 3",
+    "title_english": "Grand Blue Dreaming Season 3",
+    "type": "TV",
+    "source": "Manga",
+    "status": "Not yet aired",
+    "year": 2026,
+    "season": "summer",
+    "airing": false,
+    "aired": {
+      "from": "2026-07-07T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "Unknown",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "popularity": 3010,
+    "synopsis": "Third season of Grand Blue.",
+    "genres": [
+      4
+    ],
+    "themes": [
+      50,
+      57
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      1379,
+      2985
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          59986
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          70345
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 199111,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199111-Z8y9awn2Zb6v.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Grand Blue Season 3 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/58b2kfe6cf1h"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-eunuf369t1q8.html"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/54wuvjwt"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 10.178,
+          "end": 100.178
+        },
+        "ed": {
+          "start": 2416.247,
+          "end": 2811
+        }
+      },
+      "added_date": "2026-07-26T00:33:13.345651",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

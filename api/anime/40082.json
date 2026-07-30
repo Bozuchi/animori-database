@@ -1,0 +1,107 @@
+{
+  "turkanime": {
+    "isim": "Lupin III: The First",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Lupin III animesinin filmidir.",
+    "slug": "lupin-iii-the-first"
+  },
+  "jikan": {
+    "mal_id": 40082,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1572/108506.jpg",
+    "trailer_id": "OIzHw0gVB0g",
+    "title": "Lupin III: The First",
+    "title_english": "Lupin III: The First",
+    "type": "Movie",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2019-12-06T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 32 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.8,
+    "popularity": 3701,
+    "synopsis": "The iconic \"gentleman thief\" Lupin III returns in an action-packed, continent-spanning adventure, as Lupin III and his colorful underworld companions race to uncover the secrets of the mysterious Bresson Diary, before it falls into the hands of a dark cabal that will stop at nothing to resurrect the Third Reich. The gang undertakes trap-filled tombs, aerial escapades, and daring prison escapes with the trademark wit and visual finesse that have made Lupin the 3rd one of the most storied animation franchises in the world, in a thrilling new caper that is sure to delight fans old and new.\n\n(Source: GKIDS, edited)",
+    "genres": [
+      1,
+      2,
+      4,
+      7
+    ],
+    "themes": [
+      50
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      73,
+      1296
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          1412
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 110413,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/110413-4GhTtOaQxAJQ.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Lupin III: The First Movie",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ll-XivwUjD68TXQiJ2a0f1mBC2zYflOZ/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1pN9LSHpSlFr6Y3ebuHMH6q-cgbCk9enX/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985850477"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359652274"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3993423"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-w16ocefplt8e.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-08a7ahkvuaxk.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T08:55:57.454856",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

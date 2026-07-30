@@ -1,0 +1,113 @@
+{
+  "turkanime": {
+    "isim": "Promare: Galo-hen",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Promare filminden bir gün önce geçen olayları Galo perspektifinden anlatan özel bölüm.",
+    "slug": "promare-galo-hen"
+  },
+  "jikan": {
+    "mal_id": 39991,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1369/108826.jpg",
+    "trailer_id": null,
+    "title": "Promare: Galo-hen",
+    "title_english": null,
+    "type": "ONA",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2019-05-24T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "10 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.88,
+    "popularity": 4599,
+    "synopsis": "A prequel set one day before the events of the Promare film.",
+    "genres": [
+      24
+    ],
+    "themes": [
+      18,
+      31
+    ],
+    "demographics": [],
+    "studios": [
+      803
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          35848
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          40313
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 110261,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/110261-Gw2raioPiL3n.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Promare: Galo-hen ONA",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/12e_SCn9XgyIOWTEeNL9uO4RIpLfOdMxE/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1fcuB9coFIlhpg5QB_M8t_mmmNDVR_N2S/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359665290"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4621296"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3862967"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-0wtuaxndhwlb.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-n6hntjmeh6sb.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4047564"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T03:03:50.349238",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

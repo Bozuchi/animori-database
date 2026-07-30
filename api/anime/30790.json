@@ -1,0 +1,109 @@
+{
+  "turkanime": {
+    "isim": "Yowamushi Pedal: Re:ROAD",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Serinin 2. sezonundaki bölümlerin derlemesi niteliğindeki filmdir. Seriye ait yeni sahneler de içermektedir.",
+    "slug": "yowamushi-pedal-re-road"
+  },
+  "jikan": {
+    "mal_id": 30790,
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/86877.jpg",
+    "trailer_id": "T1WrXSQcnhQ",
+    "title": "Yowamushi Pedal: Re:Road",
+    "title_english": null,
+    "type": "Movie",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2015-06-12T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 29 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.44,
+    "popularity": 6758,
+    "synopsis": "The movie will compile the episodes from the second season of the anime, and will also have new cuts of animation.\n\n(Source: ANN)",
+    "genres": [
+      30
+    ],
+    "themes": [
+      3
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      73
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          25755
+        ]
+      },
+      {
+        "relation": "Full Story",
+        "entries": [
+          24277
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 21194,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Yowamushi Pedal Movie: Re Road",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 34,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/191gZXInszc2Nc3SNLO-ZGzrD7XhBqK_5/preview"
+        },
+        {
+          "fansub_id": 34,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847277"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4075176"
+        },
+        {
+          "fansub_id": 34,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-044990jv3q4s.html"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/p0b8m72h"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/swf0sfer"
+        },
+        {
+          "fansub_id": 34,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-5e955991ld5j.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T18:51:11.411419",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

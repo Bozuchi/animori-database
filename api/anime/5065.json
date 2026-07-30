@@ -1,0 +1,97 @@
+{
+  "turkanime": {
+    "isim": "Detroit Metal City: Birth of the Metal Devil",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Detroit Metal City animesinin özel bölümüdür.",
+    "slug": "detroit-metal-city-birth-of-the-metal-devil"
+  },
+  "jikan": {
+    "mal_id": 5065,
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/9898.jpg",
+    "trailer_id": null,
+    "title": "Detroit Metal City: Birth of the Metal Devil",
+    "title_english": "Detroit Metal City: Birth of the Metal Devil",
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2008-07-11T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "13 min",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.27,
+    "popularity": 5067,
+    "synopsis": "This is a special introductory episode of Detroit Metal City.",
+    "genres": [
+      4
+    ],
+    "themes": [
+      50,
+      57,
+      19,
+      20,
+      75
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      13
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entries": [
+          3702
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 5065,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Detroit Metal City: Birth of the Metal Devil",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1qNvHEG0JJpz5xpw62m-nc4ljAwfTgmm0/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933019443"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/baryshx/_myvideo/281.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1850111"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xek3v9m22glz.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T20:58:51.121851",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

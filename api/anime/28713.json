@@ -1,0 +1,99 @@
+{
+  "turkanime": {
+    "isim": "Isuca: Gokuraku",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Isuca serisine ait OVA bölümdür.",
+    "slug": "isuca-gokuraku"
+  },
+  "jikan": {
+    "mal_id": 28713,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1786/118533.jpg",
+    "trailer_id": null,
+    "title": "Isuca: Gokuraku",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2015-08-26T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min",
+    "rating": "R+ - Mild Nudity",
+    "score": 6.22,
+    "popularity": 5096,
+    "synopsis": "Shinichirou Asano, Sakuya Shimazu, and their friends arrive at one of the Shimazu family's private islands for a vacation. However, what starts as a fun and relaxing outing soon takes a turn for the supernatural when the group heads into the island's forest. As their companions mysteriously vanish one after the other, Shinichirou and Sakuya quickly find themselves all alone on a seemingly uninhabited island.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      1,
+      4,
+      22,
+      37,
+      9
+    ],
+    "themes": [
+      35,
+      6,
+      23
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      38
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          25429
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 21253,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Isuca OVA ",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 10,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1b3YQKnCNRXI1ABuVaDjLBP0LlDT_jTa5/preview"
+        },
+        {
+          "fansub_id": 10,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933017802"
+        },
+        {
+          "fansub_id": 10,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/nsimos/_myvideo/11.html"
+        },
+        {
+          "fansub_id": 10,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847041"
+        },
+        {
+          "fansub_id": 10,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4073498"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T06:18:53.964588",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

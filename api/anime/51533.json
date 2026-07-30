@@ -1,0 +1,115 @@
+{
+  "turkanime": {
+    "isim": "Tonikaku Kawaii: Seifuku Special",
+    "puan": "9.37",
+    "bolum_durumu": "1/1",
+    "ozet": "Güz 2022'de yayımlanan Tonkaki Kawaii'nin özel bölümü.",
+    "slug": "tonikaku-kawaii-seifuku-special"
+  },
+  "jikan": {
+    "mal_id": 51533,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1085/126580.jpg",
+    "trailer_id": "9ruWZg245HA",
+    "title": "Tonikaku Kawaii: Seifuku",
+    "title_english": "Tonikawa: Over The Moon For You - Uniform",
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2022-11-22T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "22 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.72,
+    "popularity": 2213,
+    "synopsis": "Special episode of Tonikaku Kawaii released Fall 2022.",
+    "genres": [
+      4,
+      22
+    ],
+    "themes": [],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      35
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          44931
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          50307
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          112589
+        ]
+      },
+      {
+        "relation": "Character",
+        "entries": [
+          53703
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 141212,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/141212-G6nLwOl6qGmS.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Tonikaku Kawaii: Seifuku Special",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 16,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/15r7jF5t2E9do81a3UhRCgdU58CQca0Sp/preview"
+        },
+        {
+          "fansub_id": 16,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1vunDWIIAApDyuvecICUMeNRsFhcjaUms/preview"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7317328059844002553"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4962402"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-8qsmeiaia0hd.html"
+        },
+        {
+          "fansub_id": 16,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-4ervzxmi9zbo.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T17:43:59.662001",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

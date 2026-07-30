@@ -1,0 +1,105 @@
+{
+  "turkanime": {
+    "isim": "Chobits Recap",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Chobits animesinin özet bölümüdür.",
+    "slug": "chobits-recap"
+  },
+  "jikan": {
+    "mal_id": 1311,
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/22857.jpg",
+    "trailer_id": null,
+    "title": "Chobits Recap",
+    "title_english": "Chobits: Hibiya and Kotoko Chat",
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2003-02-21T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "24 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.92,
+    "popularity": 4151,
+    "synopsis": "A DVD recap episode of the Chobits TV series.",
+    "genres": [
+      4,
+      8,
+      22,
+      24,
+      9
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      11
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entries": [
+          59
+        ]
+      }
+    ]
+  },
+  "anilist": null,
+  "episodes": [
+    {
+      "turkanime_title": "Chobits Recap Special",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1wwhVSIBEl3VcRwma8WGNHd6PK7y6xzlD/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7893414565877121047"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656520"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4448004"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1766145"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-lpgj3o73vwsc.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-wjsuqoenresk.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/3yzpdh6w"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T15:39:45.331511",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

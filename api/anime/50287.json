@@ -1,0 +1,128 @@
+{
+  "turkanime": {
+    "isim": "Kyuuketsuki Sugu Shinu 2",
+    "puan": "0.00",
+    "bolum_durumu": "2/12",
+    "ozet": "Serinin ikinci sezonudur.",
+    "slug": "kyuuketsuki-sugu-shinu-2"
+  },
+  "jikan": {
+    "mal_id": 50287,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1254/131832.jpg",
+    "trailer_id": "1wSz9-yjtMQ",
+    "title": "Kyuuketsuki Sugu Shinu 2",
+    "title_english": "The Vampire Dies in No Time Season 2",
+    "type": "TV",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": 2023,
+    "season": "winter",
+    "airing": false,
+    "aired": {
+      "from": "2023-01-09T00:00:00+00:00",
+      "to": "2023-03-27T00:00:00+00:00"
+    },
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.46,
+    "popularity": 4154,
+    "synopsis": "Second season of Kyuuketsuki Sugu Shinu.",
+    "genres": [
+      4,
+      10
+    ],
+    "themes": [
+      50,
+      57,
+      82,
+      32
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      11
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          41833
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          113400
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 142914,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Kyuuketsuki Sugu Shinu 2 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 43,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1IlM8iVWg8lZeiGnkepTYk5_YG0YHluts/preview"
+        },
+        {
+          "fansub_id": 43,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/8179442134907095200"
+        },
+        {
+          "fansub_id": 43,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-hgczfvo450ha.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T07:47:59.325639",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kyuuketsuki Sugu Shinu 2 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 43,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1h8wIcftjxKprj92kJ9mSuv37GynVT7NQ/preview"
+        },
+        {
+          "fansub_id": 43,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/8179442134907095550"
+        },
+        {
+          "fansub_id": 43,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-z8vec7yn555x.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 18,
+          "end": 107
+        },
+        "ed": {
+          "start": 1314,
+          "end": 1404
+        }
+      },
+      "added_date": "2026-07-27T07:47:59.325639",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

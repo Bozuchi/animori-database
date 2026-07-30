@@ -1,0 +1,176 @@
+{
+  "turkanime": {
+    "isim": "School Rumble Ichi Gakki Hoshuu",
+    "puan": "7.13",
+    "bolum_durumu": "2/2",
+    "ozet": "26 bölümlük, ilk School Rumble sezonuna yan hikaye olarak çıkan, School Rumble OVA'da, 2. sezon öncesi yeni karakter Yoshidayama Jirou da tanıtılıyor ve ilk sezonda yer alan bir kaç ayrıntı genişletilerek anlatılıyor.",
+    "slug": "school-rumble-ichi-gakki-hoshuu"
+  },
+  "jikan": {
+    "mal_id": 517,
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/75489.jpg",
+    "trailer_id": null,
+    "title": "School Rumble: Ichi Gakki Hoshuu",
+    "title_english": "School Rumble: Extra Class",
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2005-12-22T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "25 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.7,
+    "popularity": 3214,
+    "synopsis": "This two-part OVA is a series of shorts in relation to the School Rumble series. This OVA fills in gaps with new content between episodes from beginning to nearly the end.\n\n(Source: ANN)",
+    "genres": [
+      4,
+      22
+    ],
+    "themes": [
+      23
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      126
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          160
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          24
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 517,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "School Rumble First Extra Term 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ywdl_XhBCG6hN5uSyR1aMp59jdOV4dMG/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985846750"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359658149"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4071834"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4453138"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ycljo8l5j0uk.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-wqzi7nhpn9na.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/xwlelzpg"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1402,
+          "end": 1506
+        }
+      },
+      "added_date": "2026-07-29T06:57:37.255124",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "School Rumble First Extra Term 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/15yrRFgHLfYJXFRSIrH7WRPhnHq_fMkGZ/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985846751"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4503635"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4071836"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-kark7ya463ml.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-stk2c31kg14n.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/mmwpzl90"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-r8rh0ndhhd0h.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1435,
+          "end": 1514
+        }
+      },
+      "added_date": "2026-07-29T06:57:37.255124",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

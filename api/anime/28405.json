@@ -1,0 +1,120 @@
+{
+  "turkanime": {
+    "isim": "Ansatsu Kyoushitsu: Deai no Jikan",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Ansatsu Kyoushitsu animesine ait özel bölümdür.",
+    "slug": "ansatsu-kyoushitsu-deai-no-jikan"
+  },
+  "jikan": {
+    "mal_id": 28405,
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/68547.jpg",
+    "trailer_id": null,
+    "title": "Ansatsu Kyoushitsu: Deai no Jikan",
+    "title_english": "Assassination Classroom: Meeting Time",
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2014-11-09T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "10 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.44,
+    "popularity": 1785,
+    "synopsis": "Koro-sensei reminisces about his first meeting with Karasuma, where they first butted heads and fought against each other, ultimately coming to respect one another. However, Karasuma eventually points out their actual meeting wasn't nearly as eventful.\n\n(Source: ANN)",
+    "genres": [
+      1,
+      4
+    ],
+    "themes": [
+      23
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      456
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          24833
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          39883
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 21303,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21303-HFHbP9ZwYHgY.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Ansatsu Kyoushitsu: Deai no Jikan Special",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1tiLvqcWH5lsgQBrGneUc-0tG_R_MAMxe/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/7836.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9173325596158070557"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1894033"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4507206"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-9i3bf54wceyg.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-rtsicuf2rixu.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/jndu68cg"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-5n8xc48dl02b.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-21T21:55:42.283551",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

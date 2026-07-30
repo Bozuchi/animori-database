@@ -1,0 +1,97 @@
+{
+  "turkanime": {
+    "isim": "Paniponi Dash!",
+    "puan": "0.00",
+    "bolum_durumu": "1/26",
+    "ozet": "Momotsuki Akademisi'nin 1-C sınıfı kızları onuncu sınıfa yepyeni bir öğretmenle başlıyor. İyi haber mi? Öğretmen bir MIT mezunu. Kötü haberse sadece 11 yaşında olması! Becky Miyamoto çok zeki olsa da, bu deha çocuk, talimatlarını bekleyen bir grup huysuz ve ergen genç (ayrıca aptal uzaylılarla) ile başa çıkmak için son derede yetersizdir!",
+    "slug": "paniponi-dash"
+  },
+  "jikan": {
+    "mal_id": 490,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1581/138842.jpg",
+    "trailer_id": "onlEbMVWRF0",
+    "title": "Paniponi Dash!",
+    "title_english": "Pani Poni Dash!",
+    "type": "TV",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": 2005,
+    "season": "summer",
+    "airing": false,
+    "aired": {
+      "from": "2005-07-04T00:00:00+00:00",
+      "to": "2005-12-26T00:00:00+00:00"
+    },
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.44,
+    "popularity": 3037,
+    "synopsis": "The girls of Momotsuki Academy's Class 1-C are starting their tenth-grade year with a brand-new instructor. The good news? The teacher is an MIT grad. The bad news? She's only 11 years old! So, while Becky Miyamoto may be an intellectual titan, this child prodigy is painfully ill-equipped to deal with the group of temperamental teens—and idiotic aliens—that await her instructions!\n\n(Source: Funimation)",
+    "genres": [
+      4
+    ],
+    "themes": [
+      57,
+      20,
+      23
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      44,
+      721
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          5419
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          3002
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 490,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/490-dHSzVziqtq8s.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Paniponi Dash! 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 18,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1zXYDOV6ZT9QAR9hJjprPnkz864WYhvDw/preview"
+        },
+        {
+          "fansub_id": 18,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7725655522707245004"
+        },
+        {
+          "fansub_id": 18,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-s7j4dzq8bh78.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1387,
+          "end": 1477
+        }
+      },
+      "added_date": "2026-07-29T01:15:21.650769",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

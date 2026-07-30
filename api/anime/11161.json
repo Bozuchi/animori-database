@@ -1,0 +1,88 @@
+{
+  "turkanime": {
+    "isim": "Hoshizora e Kakaru Hashi: Kakaru ka? Gakuensai ni Koi no Hashi",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Hoshizora e Kakaru Hashi serisine ait Special bölümdür.",
+    "slug": "hoshizora-e-kakaru-hashi-kakaru-ka-gakuensai-ni-koi-no-hashi"
+  },
+  "jikan": {
+    "mal_id": 11161,
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/30839.jpg",
+    "trailer_id": null,
+    "title": "Hoshizora e Kakaru Hashi: Kakaru ka? Gakuensai ni Koi no Hashi",
+    "title_english": null,
+    "type": "Special",
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2011-12-21T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "26 min",
+    "rating": "R+ - Mild Nudity",
+    "score": 6.78,
+    "popularity": 4575,
+    "synopsis": "Shortly before the upcoming festival, a year after the end of episode 12, Daigo decides to find a girlfriend to dance with in the festival. Will he be able to do so?",
+    "genres": [
+      4,
+      22,
+      9
+    ],
+    "themes": [
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      95
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          10079
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 11161,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Hoshizora e Kakaru Hashi Special",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 46,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1wNONT_Fi0VgtS9mWJ4liNKBudUumLS52/preview"
+        },
+        {
+          "fansub_id": 46,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-hrbp7re3hktn.html"
+        },
+        {
+          "fansub_id": 46,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-hq7hyw1hf36a.html"
+        },
+        {
+          "fansub_id": 46,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-fpyeo9dobocb.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T04:22:20.327028",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

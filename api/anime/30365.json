@@ -1,0 +1,94 @@
+{
+  "turkanime": {
+    "isim": "Shinmai Maou no Testament Burst: Toujou Basara no Shigoku Heiwa na Nichijou",
+    "puan": "9.01",
+    "bolum_durumu": "1/1",
+    "ozet": "Shinmai Maou no Testament Burst özel bölümüdür.",
+    "slug": "shinmai-maou-no-testament-burst-toujou-basara-no-shigoku-heiwa-na-nichijou"
+  },
+  "jikan": {
+    "mal_id": 30365,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1568/95614.jpg",
+    "trailer_id": "_ujDEP6moNs",
+    "title": "Shinmai Maou no Testament Burst: Toujou Basara no Shigoku Heiwa na Nichijou",
+    "title_english": "The Testament of Sister New Devil: Burst OVA",
+    "type": "OVA",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2016-01-26T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min",
+    "rating": "R+ - Mild Nudity",
+    "score": 6.75,
+    "popularity": 2563,
+    "synopsis": "An OVA that will be bundled with the seventh volume of the Shinmai Maou no Testament manga, to be released January 2016.",
+    "genres": [
+      1,
+      37,
+      9
+    ],
+    "themes": [
+      35
+    ],
+    "demographics": [],
+    "studios": [
+      1053
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          30363
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          36688
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 21489,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Shinmai Maou no Testament Burst OAD",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 10,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1N30k00ELY7DU0yzFuXJXwXtg6dNKp8UZ/preview"
+        },
+        {
+          "fansub_id": 10,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/2444636457931911294"
+        },
+        {
+          "fansub_id": 10,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/arsenik013/_myvideo/14.html"
+        },
+        {
+          "fansub_id": 10,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-pt7s3x1e2dq7.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T09:45:04.778542",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

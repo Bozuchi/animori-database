@@ -1,0 +1,200 @@
+{
+  "turkanime": {
+    "isim": "Noragami Aragoto OVA",
+    "puan": "9.11",
+    "bolum_durumu": "2/2",
+    "ozet": "Noragami Aragato serisinin özel bölümleridir.",
+    "slug": "noragami-aragoto-ova"
+  },
+  "jikan": {
+    "mal_id": 30885,
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/77510.jpg",
+    "trailer_id": null,
+    "title": "Noragami Aragoto OVA",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2015-11-17T00:00:00+00:00",
+      "to": "2016-03-17T00:00:00+00:00"
+    },
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.84,
+    "popularity": 1041,
+    "synopsis": "Yoru to Shinrenzoku Satsujin Jiken: Noragami Suspense Gekijou\nHiyori Iki goes on a skiing trip with her parents and happens to bump into Yato and Yukine. After a short while, they find the other gods who are there for a company vacation. But amidst all the fun, someone is plotting a heinous crime, and Yato is the primary target.\n\nIssho ni Shashin wo\nOn a different day, Yato’s been able to make a small fortune from his last job and decides to take Hiyori and Yukine to Capyper Land. Although she agrees without knowing the destination, will Hiyori actually enjoy the day considering what happened on her last visit?\n\n[Written by MAL Rewrite]",
+    "genres": [
+      4,
+      37
+    ],
+    "themes": [
+      6
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      4
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          24692,
+          62723
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          30503
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 119941,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Noragami Aragoto OVA 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1986780"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/2j9x0wok"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/feeling11d/video/embed/_myvideo/193"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359667788"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3137630"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-v2ci5nzzwkkk.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-wy3gnn4ywllv.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 59.686,
+          "end": 149.686
+        },
+        "ed": {
+          "start": 1345.542,
+          "end": 1435
+        }
+      },
+      "added_date": "2026-07-27T16:55:27.347579",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Noragami Aragoto OVA 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 46,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/psikonevroz/video/embed/_myvideo/444"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3262156"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4884183"
+        },
+        {
+          "fansub_id": 46,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-9gahoucdm9th.html"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/kpuuh61k"
+        },
+        {
+          "fansub_id": 46,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-5ytsdqfry0h1.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/feeling11d/video/embed/_myvideo/194"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3137631"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/xhcdggh2"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/puzzle.sub/_myvideo/41.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4884191"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-rptvhsmhymwn.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 26.447,
+          "end": 116.447
+        },
+        "ed": {
+          "start": 1345.5,
+          "end": 1435
+        }
+      },
+      "added_date": "2026-07-27T16:55:27.347579",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

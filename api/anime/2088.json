@@ -1,0 +1,88 @@
+{
+  "turkanime": {
+    "isim": "Nora",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Nora, uzay istasyonundaki bir otelde tatil yapmaktadır fakat yer çekimi bozulur ve tüm uzay tatil yerinin düzeni altüstü olur. Sorunu çözmek için Nora elinden geleni yapacaktır.",
+    "slug": "nora"
+  },
+  "jikan": {
+    "mal_id": 2088,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1417/99272.jpg",
+    "trailer_id": null,
+    "title": "Nora",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1985-01-21T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "56 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 4.49,
+    "popularity": 10394,
+    "synopsis": "Nora is on vacation in a \"Holiday Inn\" space station. When the artificial gravity fails, the whole space resort becomes chaotic but she helps solve the problem. \n\n(Source: ANN)",
+    "genres": [
+      2,
+      24
+    ],
+    "themes": [
+      29
+    ],
+    "demographics": [],
+    "studios": [
+      426
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          9342
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          88413
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 2088,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2088-UrD1uMH2g4Dp.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Nora OVA",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1DmeDqWEgtWTBk_6KCeWxcsj1MlGMzJ8B/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/4834"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3636308"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T16:51:01.390182",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

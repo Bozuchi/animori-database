@@ -1,0 +1,633 @@
+{
+  "turkanime": {
+    "isim": "Guraburu!",
+    "puan": "0.00",
+    "bolum_durumu": "12/12",
+    "ozet": "Granblue Fantasy’nin 4-koma mangası olan Guraburu!’nun anime uyarlaması",
+    "slug": "guraburu"
+  },
+  "jikan": {
+    "mal_id": 41574,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1870/119993.jpg",
+    "trailer_id": "_5WKtYkMYEg",
+    "title": "Guraburu!",
+    "title_english": "Grand Blues!",
+    "type": "TV",
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "year": 2020,
+    "season": "fall",
+    "airing": false,
+    "aired": {
+      "from": "2020-10-08T00:00:00+00:00",
+      "to": "2020-12-24T00:00:00+00:00"
+    },
+    "duration": "3 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.8,
+    "popularity": 6066,
+    "synopsis": "Anime adaptation of Guraburu!, which is 4-koma manga of Granblue Fantasy.",
+    "genres": [
+      2,
+      10
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      1396,
+      1673
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          115388
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          31629
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 117086,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Guraburu! 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 107,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/mirusubs/video/embed/_myvideo/54"
+        },
+        {
+          "fansub_id": 107,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4105292"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271194701"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4257705"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-uf3aunlmhzl7.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/e438mde6"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T01:07:32.236604",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Guraburu! 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 107,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/mirusubs/video/embed/_myvideo/72"
+        },
+        {
+          "fansub_id": 107,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4111903"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271194702"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4257708"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-wr4juyu8dlnk.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/cr0a66si"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T01:07:32.236604",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Guraburu! 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 23,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1IqYb_d0jmK40yeq5Sq5KOINknz-ZlMXT/preview"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271194703"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359661509"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4257709"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-s2kbe5f36sib.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/9nhf9q10"
+        },
+        {
+          "fansub_id": 23,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-mjvci3mbe30m.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T01:07:32.236604",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Guraburu! 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 23,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/12fHmPnad9CImELbiILOP2feCESbMB9V4/preview"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271194704"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359666204"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4257712"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-6az6hsboys2o.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-qnkbqetgm3lz.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-vehrenjkztyw.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T01:07:32.236604",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Guraburu! 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 23,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1q0EgOxliOz9klRIrc44t5GOZAgJnDXnv/preview"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271194705"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359666205"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4257713"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-bgtvg8ohq9d5.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-uy079cg7n6x7.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/2m6cay5x"
+        },
+        {
+          "fansub_id": 23,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-mgpg11tsn3he.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T01:07:32.236604",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Guraburu! 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 23,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1oIEqKMQ8WdHVVRRjduGTo6VpIYcSRbLr/preview"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271194706"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359666206"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4257716"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-l8tmi2hk76ri.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-t8tqn6y3ehis.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-cfiuvx4mpkdf.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T01:07:32.236604",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Guraburu! 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 23,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/18pgAO9ORajKZoZTHUpqC7ymlb7q_cVsE/preview"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271194707"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359666207"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4257717"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5pzbv30m6en2.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-qb24blq5zncr.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/uvs75bd0"
+        },
+        {
+          "fansub_id": 23,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-fh4t38mul4yv.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T01:07:32.236604",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Guraburu! 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 23,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1QWJHhXOfX4pD3HT6g5hhX_K6pMUvO2NA/preview"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359666208"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271194708"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4257718"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-87h497f8r8ja.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-v2y3y0qmkju5.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/szvy7ri7"
+        },
+        {
+          "fansub_id": 23,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-bvj5o2ad4awo.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T01:07:32.236604",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Guraburu! 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 23,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1-euhh-rzKGMRs_nRmDVTJ6VW-jwYw2bG/preview"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359666209"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271194709"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4257721"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-57npg543luv6.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-kiqhbu445o0q.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/lg1chyhr"
+        },
+        {
+          "fansub_id": 23,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-zdxw28mj61t0.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T01:07:32.236604",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Guraburu! 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 23,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1TGcJiwxab7dEB2iemlLlg-TYZaPMpnkv/preview"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359666210"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271194710"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4257723"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-qe2u5enypfml.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xnaqvvjyy5ww.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/havtu6sk"
+        },
+        {
+          "fansub_id": 23,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-3lyi0m8ecn0g.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T01:07:32.236604",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Guraburu! 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 23,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1TF2RyCP4gfdzvlj5o7w2em5uIAR10NLs/preview"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359666211"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271194711"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4257724"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-edzc6vzwcdu5.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vajqjmpfskc4.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/crbhed52"
+        },
+        {
+          "fansub_id": 23,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-zqvjodfso750.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T01:07:32.236604",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Guraburu! 12. Bölüm Final",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 23,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ThwlLjdoWr062DTfFScI5ADh1klgJzbE/preview"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359666212"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271194712"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-32gmznm3cn88.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-0lawuhlbvzr8.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/cnggl7ki"
+        },
+        {
+          "fansub_id": 23,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-zf3f5iueat5q.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T01:07:32.236604",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

@@ -1,0 +1,1525 @@
+{
+  "turkanime": {
+    "isim": "Kakegurui",
+    "puan": "8.98",
+    "bolum_durumu": "12/12",
+    "ozet": "Hyakkaou Akademisi, çok farklı bir müfredata sahip ayrıcalıklı bir kurumdur. Zenginler içerisinde bile zengin olduğunuzda sizi öne çıkaracak şey kitaplar ya da atletik yetenekler değildir. Rakibin aklından geçenleri anlamak ve uzlaşma sanatıdır. Bu becerileri sivriltmenin ise kumardan daha iyi bir yolu yoktur. İşte bu sebeple Hyakkaou Akademisi'nde kazananlar krallar gibi yaşarken kaybedenlerin canına okunur. Ne var ki okula Yumeko Jabami'nin katılması, herkese gerçek kumarın ne olduğunu öğretecektir.",
+    "slug": "kakegurui"
+  },
+  "jikan": {
+    "mal_id": 34933,
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/86578.jpg",
+    "trailer_id": "v2xJDuM9ZDM",
+    "title": "Kakegurui",
+    "title_english": "Kakegurui",
+    "type": "TV",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": 2017,
+    "season": "summer",
+    "airing": false,
+    "aired": {
+      "from": "2017-07-01T00:00:00+00:00",
+      "to": "2017-09-23T00:00:00+00:00"
+    },
+    "duration": "24 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.21,
+    "popularity": 80,
+    "synopsis": "Unlike many schools, attending Hyakkaou Private Academy prepares students for their time in the real world. Since many of the students are the children of the richest people in the world, the academy has its quirks that separate it from all the others. By day, it is a normal school, educating its pupils in history, languages, and the like. But at night, it turns into a gambling den, educating them in the art of dealing with money and manipulating people. Money is power; those who come out on top in the games stand at the top of the school.\n\nYumeko Jabami, a seemingly naive and beautiful transfer student, is ready to try her hand at Hyakkaou's special curriculum. Unlike the rest, she doesn't play to win, but for the thrill of the gamble, and her borderline insane way of gambling might just bring too many new cards to the table.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      8,
+      7,
+      41
+    ],
+    "themes": [
+      59,
+      40,
+      23,
+      11
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      569
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          37086
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          73603
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entries": [
+          38939,
+          50339
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 98314,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98314-gwgiHiJOj2ls.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Kakegurui 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 97,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/adonisfansub/video/embed/kakegurui/1261"
+        },
+        {
+          "fansub_id": 97,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904718"
+        },
+        {
+          "fansub_id": 97,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ulvtnssw"
+        },
+        {
+          "fansub_id": 97,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-b19pobjvozk4.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/dmuratli/video/embed/_myvideo/840"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904669"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-zp83fcegpffu.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-xty286hhk5k3.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599270"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-60n2imr4m156.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/aysupload/video/embed/_myvideo/153"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2967172"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904701"
+        },
+        {
+          "fansub_id": 108,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-f0ywi98cf9sp.html"
+        },
+        {
+          "fansub_id": 8,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904688"
+        },
+        {
+          "fansub_id": 8,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-e9577rcoof25.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2967736"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685360877"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4041496"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2969440"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-skfvc9lqp488.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ku25v7sv"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 118,
+          "end": 214
+        },
+        "ed": {
+          "start": 1359,
+          "end": 1449.25
+        }
+      },
+      "added_date": "2026-07-26T23:01:51.013356",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kakegurui 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 97,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904776"
+        },
+        {
+          "fansub_id": 97,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/o9peudf9"
+        },
+        {
+          "fansub_id": 97,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-nbev3txa1j1s.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904737"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-k5ddb8to4ldk.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599271"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2974741"
+        },
+        {
+          "fansub_id": 8,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904753"
+        },
+        {
+          "fansub_id": 8,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-o5rcfi647qci.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904796"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-193otpvteat9.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685360878"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4041501"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2975314"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-p1f3hkz17ezo.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/cqwstx2f"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 93.166,
+          "end": 189.532
+        },
+        "ed": {
+          "start": 1357.459,
+          "end": 1447.459
+        }
+      },
+      "added_date": "2026-07-26T23:01:51.013356",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kakegurui 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 97,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904820"
+        },
+        {
+          "fansub_id": 97,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-v7omd93viwgt.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/dmuratli/video/embed/_myvideo/872"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904805"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-na8viqt1arc0.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-cbeh7i5t8jq1.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599272"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-yjjmmyoxrrko.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojin_a/video/embed/_myvideo/1247"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904810"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2986766"
+        },
+        {
+          "fansub_id": 108,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-pclgbszp4yxy.html"
+        },
+        {
+          "fansub_id": 8,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904808"
+        },
+        {
+          "fansub_id": 8,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-z2dyafl5t9tt.html"
+        },
+        {
+          "fansub_id": 8,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ccvnajtynp6k.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685360879"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/inci.dondurma/video/embed/_myvideo/8"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4041509"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2985442"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-1322smhvn43i.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 186,
+          "end": 282.1
+        },
+        "ed": {
+          "start": 1359.113,
+          "end": 1449.113
+        }
+      },
+      "added_date": "2026-07-26T23:01:51.013356",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kakegurui 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 97,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904838"
+        },
+        {
+          "fansub_id": 97,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/vgp422cl"
+        },
+        {
+          "fansub_id": 97,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-s94fzewjl6ln.html"
+        },
+        {
+          "fansub_id": 153,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1tdApZh5JDX6hyR7fbKXfeMeCVFC-iydE/preview"
+        },
+        {
+          "fansub_id": 153,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/softenakatsuki/video/embed/_myvideo/96"
+        },
+        {
+          "fansub_id": 153,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/izyi1mrn"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599273"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5it9or4p5t31.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojin_a/video/embed/_myvideo/1271"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2990983"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904832"
+        },
+        {
+          "fansub_id": 108,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-25ttmabhirwo.html"
+        },
+        {
+          "fansub_id": 8,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904826"
+        },
+        {
+          "fansub_id": 8,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-r00zvdcfs8w9.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685360880"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2992709"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4041516"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-01md4om0urqt.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ckpyhd41"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 51,
+          "end": 147.5
+        },
+        "ed": {
+          "start": 1358.783,
+          "end": 1454.783
+        }
+      },
+      "added_date": "2026-07-26T23:01:51.013356",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kakegurui 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 97,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904866"
+        },
+        {
+          "fansub_id": 97,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/xu7rre3x"
+        },
+        {
+          "fansub_id": 97,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-owkzjbygxyos.html"
+        },
+        {
+          "fansub_id": 153,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/softenakatsuki/video/embed/_myvideo/97"
+        },
+        {
+          "fansub_id": 153,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904853"
+        },
+        {
+          "fansub_id": 153,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-4h0qcdorlifu.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599274"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-gr689scygp9k.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2998635"
+        },
+        {
+          "fansub_id": 8,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904847"
+        },
+        {
+          "fansub_id": 8,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-64jgh53qi9x9.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/inci.dondurma/video/embed/_myvideo/17"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685360881"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4041520"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2999117"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-sbd4a2rd7fnz.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ijvwbwrn"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 168.5,
+          "end": 264.5
+        },
+        "ed": {
+          "start": 1359.45,
+          "end": 1455.45
+        }
+      },
+      "added_date": "2026-07-26T23:01:51.013356",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kakegurui 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 97,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/r37uqni9"
+        },
+        {
+          "fansub_id": 153,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904892"
+        },
+        {
+          "fansub_id": 153,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/wid2dfqn"
+        },
+        {
+          "fansub_id": 153,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-6vn4vnu8nkxd.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599275"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-94say2t7zzbk.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojin_a/video/embed/_myvideo/1357"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904885"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3031490"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/fv3c5ng1"
+        },
+        {
+          "fansub_id": 108,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-i3iv730h2acq.html"
+        },
+        {
+          "fansub_id": 8,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904874"
+        },
+        {
+          "fansub_id": 8,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-wrkgmvs7hem0.html"
+        },
+        {
+          "fansub_id": 8,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-9tmdqk2id40o.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/puzzle.vatican/video/embed/_myvideo/180"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904901"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/d7o4w7fb"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-3y3dtzq578ps.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685360882"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/inci.dondurma/video/embed/_myvideo/45"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4041526"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3033124"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-1dfojyzuxq9w.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/jynb75dc"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 184,
+          "end": 280
+        }
+      },
+      "added_date": "2026-07-26T23:01:51.013356",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kakegurui 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 97,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/adonisfansub/video/embed/kakegurui/1357"
+        },
+        {
+          "fansub_id": 97,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904936"
+        },
+        {
+          "fansub_id": 97,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2ycmj34ucz97.html"
+        },
+        {
+          "fansub_id": 97,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/zi0cydd3"
+        },
+        {
+          "fansub_id": 97,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-0r7ecmv42vyr.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904915"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-y8uflzzt39lz.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599276"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2az0aibf09ik.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3038298"
+        },
+        {
+          "fansub_id": 8,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904923"
+        },
+        {
+          "fansub_id": 8,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-3h1oacgopiif.html"
+        },
+        {
+          "fansub_id": 8,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-q2zz6k54fzvg.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685360883"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4041532"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3040631"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5jmkxmfnud1n.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 111,
+          "end": 207
+        },
+        "ed": {
+          "start": 1359.1,
+          "end": 1455.1
+        }
+      },
+      "added_date": "2026-07-26T23:01:51.013356",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kakegurui 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 97,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/gtwsiovm"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/571224138646/video/embed/_myvideo/497"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904943"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/hjr16h1c"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ppmcidq8i2v8.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599277"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vrecepdvkm2u.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3043181"
+        },
+        {
+          "fansub_id": 8,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904950"
+        },
+        {
+          "fansub_id": 8,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-lelhcyop51sj.html"
+        },
+        {
+          "fansub_id": 8,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-jegex3n0esgp.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/inci.dondurma/video/embed/_myvideo/57"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685360884"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4041536"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3046518"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xk799hmz4ypd.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 66.15,
+          "end": 162.15
+        },
+        "ed": {
+          "start": 1358.783,
+          "end": 1454.783
+        }
+      },
+      "added_date": "2026-07-26T23:01:51.013356",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kakegurui 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 97,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/adonisfansub/video/embed/kakegurui/1445"
+        },
+        {
+          "fansub_id": 97,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904988"
+        },
+        {
+          "fansub_id": 97,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/m34h4iy4"
+        },
+        {
+          "fansub_id": 97,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-cqo40cnpxy0n.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/571224138646/video/embed/_myvideo/498"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904957"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/y6p9ls49"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-2k7vuvzt19wd.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599278"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904976"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-hf87t7elgs3l.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-2aczdjxvh5ww.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3050095"
+        },
+        {
+          "fansub_id": 8,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4904967"
+        },
+        {
+          "fansub_id": 8,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-tcbbg18q48ie.html"
+        },
+        {
+          "fansub_id": 8,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-x8ko1c6pvq7x.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/puzzle.vatican/video/embed/_myvideo/355"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4905006"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/4s5u5nlk"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-6dwd36gfzon6.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/inci.dondurma/video/embed/_myvideo/60"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685360885"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3056682"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4041540"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-7ao5yvii3utn.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/flrib3cc"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 19.2,
+          "end": 115.2
+        }
+      },
+      "added_date": "2026-07-26T23:01:51.013356",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kakegurui 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 97,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/adonisfansub/video/embed/kakegurui/1446"
+        },
+        {
+          "fansub_id": 97,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4905065"
+        },
+        {
+          "fansub_id": 97,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-gpu6jlysl7c4.html"
+        },
+        {
+          "fansub_id": 97,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ox0sl362"
+        },
+        {
+          "fansub_id": 97,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-3t9dpummg9no.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/571224138646/video/embed/_myvideo/499"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4905015"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/52xqpaix"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-q7ha69k3lbla.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599279"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-mpuygr2j4rnd.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3058069"
+        },
+        {
+          "fansub_id": 8,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4905057"
+        },
+        {
+          "fansub_id": 8,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ed7vwh6o4hb9.html"
+        },
+        {
+          "fansub_id": 8,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-dpjrf4gzjgwa.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4905074"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/nk8kz4qg"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-2ncrzdug9bbi.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/inci.dondurma/video/embed/_myvideo/71"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685360886"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4041541"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3083398"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-zap9i2eb18un.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 23,
+          "end": 119
+        }
+      },
+      "added_date": "2026-07-26T23:01:51.013356",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kakegurui 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 97,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/adonisfansub/video/embed/kakegurui/1447"
+        },
+        {
+          "fansub_id": 97,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4905109"
+        },
+        {
+          "fansub_id": 97,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/5u9zy7sw"
+        },
+        {
+          "fansub_id": 97,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-7lbsdxpzhf1b.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/571224138646/video/embed/_myvideo/500"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4905105"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/i5ojs6cy"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-m5h6zlg2h7gw.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599280"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ey02lypzqs2n.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/134"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4905164"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3065096"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-6izyzskkujyl.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-5i5q0sopvnh6.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/puzzle.vatican/video/embed/_myvideo/401"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4905124"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/9zu641up"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-mud8qvksjip7.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685360887"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/inci.dondurma/video/embed/_myvideo/72"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4041544"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3083402"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-0wpgbtlhdxvp.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/dyr9fcup"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 70,
+          "end": 166
+        }
+      },
+      "added_date": "2026-07-26T23:01:51.013356",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kakegurui 12. Bölüm Final",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 97,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/adonisfansub/video/embed/kakegurui/1448"
+        },
+        {
+          "fansub_id": 97,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4905176"
+        },
+        {
+          "fansub_id": 97,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-gj3i2mihockz.html"
+        },
+        {
+          "fansub_id": 97,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/rpbocjvt"
+        },
+        {
+          "fansub_id": 97,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-fm5vm1zin3dl.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599281"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-9g45tcc6vg4k.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/aysupload/video/embed/_myvideo/223"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3072962"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4905173"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-wvfhdxh3deoq.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-5fzmb49m41ko.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/puzzle.vatican/video/embed/_myvideo/402"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4905178"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/236svuqh"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-sam9v7qp0ejy.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685360888"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4041546"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3083404"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-394j7jwo8me2.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/oza6so2k"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 155,
+          "end": 251
+        }
+      },
+      "added_date": "2026-07-26T23:01:51.013356",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

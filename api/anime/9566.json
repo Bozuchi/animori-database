@@ -1,0 +1,78 @@
+{
+  "turkanime": {
+    "isim": "Umi kara no Shisha",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Nosferatu'dan bağımsız bir anime projesi.",
+    "slug": "umi-kara-no-shisha"
+  },
+  "jikan": {
+    "mal_id": 9566,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1550/112730.jpg",
+    "trailer_id": null,
+    "title": "Umi kara no Shisha",
+    "title_english": null,
+    "type": "Movie",
+    "source": "Unknown",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2010-08-21T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "8 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.17,
+    "popularity": 13003,
+    "synopsis": "An independent anime project by Nosferatu.\n\nThe film was screened at the Mini-Cinema Tollywood in Shimo-Kitazawa, Setagaya, Tokyo starting Saturday, August 21, 2010. \n\n(Source: AniDB)",
+    "genres": [
+      24
+    ],
+    "themes": [
+      18,
+      31
+    ],
+    "demographics": [],
+    "studios": [],
+    "relations": []
+  },
+  "anilist": {
+    "id": 9566,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Umi kara no Shisha",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 115,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1OgOJm2M7hyEB0co_4WXH_oh3wu6B_szK/preview"
+        },
+        {
+          "fansub_id": 115,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933013961"
+        },
+        {
+          "fansub_id": 115,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-n3nsisyex1s5.html"
+        },
+        {
+          "fansub_id": 115,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-vngn1666r77g.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T19:26:38.462470",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

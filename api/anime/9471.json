@@ -1,0 +1,187 @@
+{
+  "turkanime": {
+    "isim": "Baka to Test to Shoukanjuu: Matsuri",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "2. serinin açıklanmasından sonra sezon öncesi yayınlanmış OVA bölümlerdir.",
+    "slug": "baka-to-test-to-shoukanjuu-matsuri"
+  },
+  "jikan": {
+    "mal_id": 9471,
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/67303.jpg",
+    "trailer_id": null,
+    "title": "Baka to Test to Shoukanjuu: Matsuri",
+    "title_english": "Baka & Test - Summon the Beasts OVA",
+    "type": "OVA",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2011-02-23T00:00:00+00:00",
+      "to": "2011-03-30T00:00:00+00:00"
+    },
+    "duration": "29 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.55,
+    "popularity": 1986,
+    "synopsis": "OVA of Baka to Test to Shoukanjuu which was announced to be released before the start of the second series.",
+    "genres": [
+      4
+    ],
+    "themes": [
+      23,
+      31
+    ],
+    "demographics": [],
+    "studios": [
+      300
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          6347
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          8516
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          13872,
+          12295
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entries": [
+          10431
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          31298
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 9471,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/9471-f2s9Ph2iFnfN.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Baka to Test to Shoukanjuu Matsuri OVA 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 81,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ekhcCGkZhi6rzKOTJ6PMWgFt7WK4bsAJ/preview"
+        },
+        {
+          "fansub_id": 81,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7706652796388376715"
+        },
+        {
+          "fansub_id": 81,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1125025"
+        },
+        {
+          "fansub_id": 81,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4495460"
+        },
+        {
+          "fansub_id": 81,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-yfujcojoatv9.html"
+        },
+        {
+          "fansub_id": 81,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/jqkahl3f"
+        },
+        {
+          "fansub_id": 81,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-nuefh6jc6i2f.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T03:35:16.689252",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Baka to Test to Shoukanjuu Matsuri OVA 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 81,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1x_UB4suIOh3K8Xn6loOw1fnYA6afUDb1/preview"
+        },
+        {
+          "fansub_id": 81,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7706652796388376716"
+        },
+        {
+          "fansub_id": 81,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1125026"
+        },
+        {
+          "fansub_id": 81,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4499093"
+        },
+        {
+          "fansub_id": 81,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-nuvgg6gyqkry.html"
+        },
+        {
+          "fansub_id": 81,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/2zngb3y5"
+        },
+        {
+          "fansub_id": 81,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/m1383ypp"
+        },
+        {
+          "fansub_id": 81,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-kfjeywtx3bw1.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 121.941,
+          "end": 211.941
+        },
+        "ed": {
+          "start": 1573.274,
+          "end": 1663.274
+        }
+      },
+      "added_date": "2026-07-23T03:35:16.689252",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

@@ -1,0 +1,683 @@
+{
+  "turkanime": {
+    "isim": "Kono Subarashii Sekai ni Shukufuku wo!",
+    "puan": "8.92",
+    "bolum_durumu": "11/10+",
+    "ozet": "İçine kapanık bir oyunsever olan Satou Kazuma'nın hayatı bir trafik kazası sonucu sona erecektir...Öyle olmalıydı, ancak gözünü açtığında karşısında kendisini bir tanrıça olarak tanıtan bir kız gördü. \"Hey, bende senin yararına bir şey var. Başka bir Dünya'ya gitmek ister miydin?Ancak yanında tek bir şey götürebilirsin.\" \"O halde seni götürmek istiyorum.\" İşte bu noktada reankarne olmuş Kazuma'nın Şeytan Kral ile olan mücadelesi başlıyor. Ancak birçoğunuzun düşündüğünün aksine bu yolculuk sürekli bir yiyecek, içecek ve barınak arayışı olacaktır. Kazuma'nın sakin bir hayat sürmek istemesine karşın Tanrıça'nın sürekli çıkardığı problemler kısa süre sonra Şeytan Kral'ın ordusunun dikkatini çekecektir.",
+    "slug": "kono-subarashii-sekai-ni-shukufuku-wo"
+  },
+  "jikan": {
+    "mal_id": 30831,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1895/142748.jpg",
+    "trailer_id": "NU87y-38glA",
+    "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+    "title_english": "KonoSuba: God's Blessing on This Wonderful World!",
+    "type": "TV",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": 2016,
+    "season": "winter",
+    "airing": false,
+    "aired": {
+      "from": "2016-01-14T00:00:00+00:00",
+      "to": "2016-03-17T00:00:00+00:00"
+    },
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.09,
+    "popularity": 38,
+    "synopsis": "After dying a laughable and pathetic death on his way back from buying a game, high school student and recluse Kazuma Satou finds himself sitting before a beautiful but obnoxious goddess named Aqua. She provides the NEET with two options: continue on to heaven or reincarnate in every gamer's dream—a real fantasy world! Choosing to start a new life, Kazuma is quickly tasked with defeating a Demon King who is terrorizing villages. But before he goes, he can choose one item of any kind to aid him in his quest, and the future hero selects Aqua. But Kazuma has made a grave mistake—Aqua is completely useless!\n\nUnfortunately, their troubles don't end here; it turns out that living in such a world is far different from how it plays out in a game. Instead of going on a thrilling adventure, the duo must first work to pay for their living expenses. Indeed, their misfortunes have only just begun!\n\n[Written by MAL Rewrite]",
+    "genres": [
+      2,
+      4,
+      10
+    ],
+    "themes": [
+      62,
+      20
+    ],
+    "demographics": [],
+    "studios": [
+      37
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          32937
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          80385,
+          60553
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entries": [
+          32380
+        ]
+      },
+      {
+        "relation": "Spin-Off",
+        "entries": [
+          51958
+        ]
+      },
+      {
+        "relation": "Character",
+        "entries": [
+          38472,
+          39988,
+          41567,
+          61851
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 21202,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21202-UWijdV7RMnXo.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Kono Subarashii Sekai ni Shukufuku wo! 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/4350585331481839037"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4767303"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/4p70djvh"
+        },
+        {
+          "fansub_id": 45,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-6bndtar4phog.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/zfaicxxb"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3849699"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-winsza7wif2k.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271195115"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/uj8jbxnh"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 117,
+          "end": 205
+        },
+        "ed": {
+          "start": 1410.925,
+          "end": 1499.925
+        }
+      },
+      "added_date": "2026-07-27T04:56:47.239331",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kono Subarashii Sekai ni Shukufuku wo! 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/4350585331481839038"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4767315"
+        },
+        {
+          "fansub_id": 45,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-0xbth3ejajev.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/y1f0gkj8"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3849712"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-t616ljymkoyk.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/v2qsyg2w"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1320,
+          "end": 1410
+        }
+      },
+      "added_date": "2026-07-27T04:56:47.239331",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kono Subarashii Sekai ni Shukufuku wo! 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/4350585331481839039"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4767318"
+        },
+        {
+          "fansub_id": 45,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-hwo9dd1h4bgr.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2147335"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3849717"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-kz8lc2bl6lqi.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271195117"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/j44otsv5"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 120.308,
+          "end": 208.975
+        },
+        "ed": {
+          "start": 1320,
+          "end": 1409
+        }
+      },
+      "added_date": "2026-07-27T04:56:47.239331",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kono Subarashii Sekai ni Shukufuku wo! 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/4350585331481839040"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4767329"
+        },
+        {
+          "fansub_id": 45,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-b1txoxy2a3nc.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3849725"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-49kwysz14a7f.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271195118"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/mctqnmv8"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 112.095,
+          "end": 200.292
+        },
+        "ed": {
+          "start": 1320.906,
+          "end": 1410.906
+        }
+      },
+      "added_date": "2026-07-27T04:56:47.239331",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kono Subarashii Sekai ni Shukufuku wo! 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/4350585331481839041"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4767330"
+        },
+        {
+          "fansub_id": 45,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-dyszcufjo137.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3849731"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-dy2uz26jjffg.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271195119"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/d49qsopj"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 135.026,
+          "end": 223.804
+        },
+        "ed": {
+          "start": 1320,
+          "end": 1410
+        }
+      },
+      "added_date": "2026-07-27T04:56:47.239331",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kono Subarashii Sekai ni Shukufuku wo! 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/4350585331481839042"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4767340"
+        },
+        {
+          "fansub_id": 45,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-yffzt09vu2jt.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3849738"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-k90i3cms2m2z.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271195120"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/cadyclfj"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 113.974,
+          "end": 201.637
+        },
+        "ed": {
+          "start": 1320,
+          "end": 1410
+        }
+      },
+      "added_date": "2026-07-27T04:56:47.239331",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kono Subarashii Sekai ni Shukufuku wo! 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/4350585331481839043"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4767344"
+        },
+        {
+          "fansub_id": 45,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-15y2r7kw86pd.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3849749"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4980567"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-utjkjcjoa6f8.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-kulfkd8cz3p7.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-we203femzu5x.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 61.249,
+          "end": 151.249
+        },
+        "ed": {
+          "start": 1329.782,
+          "end": 1419.782
+        }
+      },
+      "added_date": "2026-07-27T04:56:47.239331",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kono Subarashii Sekai ni Shukufuku wo! 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/4350585331481839044"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4767353"
+        },
+        {
+          "fansub_id": 45,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-qhf5o89emy0k.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3849762"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-1j3ovzomp64m.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 61.734,
+          "end": 149.019
+        },
+        "ed": {
+          "start": 1324.655,
+          "end": 1414.655
+        }
+      },
+      "added_date": "2026-07-27T04:56:47.239331",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kono Subarashii Sekai ni Shukufuku wo! 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/4350585331481839045"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4767354"
+        },
+        {
+          "fansub_id": 45,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-dg2a2c3dfwj0.html"
+        },
+        {
+          "fansub_id": 10,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/thsv8wax"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3849768"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-gk257zon01dy.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 151.777,
+          "end": 238.725
+        },
+        "ed": {
+          "start": 1321.738,
+          "end": 1411.738
+        }
+      },
+      "added_date": "2026-07-27T04:56:47.239331",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kono Subarashii Sekai ni Shukufuku wo! 10. Bölüm Final",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/4350585331481839046"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4767362"
+        },
+        {
+          "fansub_id": 45,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ew894yjvf2h2.html"
+        },
+        {
+          "fansub_id": 10,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/bgb0e9n2"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3849783"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-fi77rqgp8hx5.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 55.206,
+          "end": 141.948
+        },
+        "ed": {
+          "start": 1320.277,
+          "end": 1410.277
+        }
+      },
+      "added_date": "2026-07-27T04:56:47.239331",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kono Subarashii Sekai ni Shukufuku wo! - 11 OAD",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/3kw0up9b"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1fylOzQmUprSDX16-R78uKeXLPj_YP0YQ/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3849802"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4503729"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-7kw67k52o6du.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-uqh5uqczsyu5.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-eo57fk2w7hau.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2810345"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T04:56:47.239331",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

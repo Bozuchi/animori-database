@@ -1,0 +1,114 @@
+{
+  "turkanime": {
+    "isim": "Cencoroll Connect",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Tetsu adındaki bir genç, büyük bir binanın tepesinde gizemli beyaz bir yaratık görür. Bu istediği şekle bürünebilen yaratıklarından birini yanına alıp Cenco adını verir ve bunu gizleyerek lise hayatına devam eder. Ancak bir gün aynı okula giden bir kız Tetsu'nun sırrını öğrenir. Ardından Shu adında gizemli biri çıkarak Cenco'ya saldırır ve beklenmedik olaylar gelişir.",
+    "slug": "cencoroll-connect"
+  },
+  "jikan": {
+    "mal_id": 9488,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1454/99902.jpg",
+    "trailer_id": "wU67Tewbruk",
+    "title": "Cencoroll Connect",
+    "title_english": "Cencoroll Connect",
+    "type": "Movie",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2019-06-29T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 14 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.18,
+    "popularity": 3844,
+    "synopsis": "The sequel to Cencoroll.",
+    "genres": [
+      1,
+      24
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          3087
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          56837
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 9488,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/9488-Wfvozz4rv4ZD.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Cencoroll Connect Movie",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 74,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1GVCMq5neJEp1rkGUyuJOsZ4GsHGqCLiZ/preview"
+        },
+        {
+          "fansub_id": 74,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359652075"
+        },
+        {
+          "fansub_id": 74,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359659174"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3976731"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3976714"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4456645"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/5nqpejym"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/1sahpa85"
+        },
+        {
+          "fansub_id": 74,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-77vyprzlt8le.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T08:46:30.398626",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

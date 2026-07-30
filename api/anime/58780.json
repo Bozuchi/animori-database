@@ -1,0 +1,68 @@
+{
+  "turkanime": {
+    "isim": "Enter The Garden",
+    "puan": "0.00",
+    "bolum_durumu": "1/3",
+    "ozet": "Sıkıntıya, hayatın darlamasına gelemeyen Haru, kaykayıyla bir işten daha kovulduğu günlerden birinde, içecek otomatının yanında oturan bir adamla tanışır ve o adam Haru'ya, Bahçe'nin kapısını açar.",
+    "slug": "enter-the-garden"
+  },
+  "jikan": {
+    "mal_id": 58780,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1867/144672.jpg",
+    "trailer_id": "CtOksjPQaa8",
+    "title": "Enter The Garden",
+    "title_english": null,
+    "type": "ONA",
+    "source": "Original",
+    "status": "Currently Airing",
+    "year": null,
+    "season": null,
+    "airing": true,
+    "aired": {
+      "from": "2024-05-01T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "8 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.65,
+    "popularity": 9578,
+    "synopsis": "Haru, a free-spirited skater, has always felt like a misfit in a world where she's constantly told how to behave. One day, Haru meets T.K., a mysterious man sitting next to a vending machine, waiting for someone to appear.\n\n(Source: Azuki YouTube Channel)",
+    "genres": [],
+    "themes": [],
+    "demographics": [],
+    "studios": [],
+    "relations": []
+  },
+  "anilist": {
+    "id": 204762,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Enter The Garden 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 94,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5905899"
+        },
+        {
+          "fansub_id": 94,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/609godyw7oka"
+        },
+        {
+          "fansub_id": 94,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-eu5lumgr78v6.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T00:21:27.857907",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

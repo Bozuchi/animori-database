@@ -1,0 +1,94 @@
+{
+  "turkanime": {
+    "isim": "Dream",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Bir çocuğun gecenin ilerleyen saatlerinde uykusuna yenik düşmesi ve girdiği rüyalar aleminde yaşadıklarını anlatan fantastik bağımsızlık kısa film.",
+    "slug": "dream"
+  },
+  "jikan": {
+    "mal_id": 41135,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1227/105610.jpg",
+    "trailer_id": null,
+    "title": "Dream",
+    "title_english": "Dream",
+    "type": "ONA",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2020-01-24T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "6 min",
+    "rating": "G - All Ages",
+    "score": 5.96,
+    "popularity": 16245,
+    "synopsis": "The short follows the dream of a young boy in which strange whale teleports him to a fantasy land where a happy cat named Pero (modeled after the character in the Nagagutsu wo Haita Neko anime that serves as Toei Animation's mascot) appears.\n\nThe piece is entirely dialogueless.\n\n(Source: ANN edited)",
+    "genres": [
+      2,
+      10
+    ],
+    "themes": [
+      19
+    ],
+    "demographics": [
+      15
+    ],
+    "studios": [
+      18
+    ],
+    "relations": [
+      {
+        "relation": "Character",
+        "entries": [
+          2279
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 127506,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/127506-IYGJCbrK3y3X.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Dream Movie",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1lBwYeVjnjW8yfwC0ufPvH8HjhB-jQhl6/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682366657"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4531904"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/f47m1iyb"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-g6vjfxezkq5y.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T23:27:29.262647",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

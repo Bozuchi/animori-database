@@ -1,0 +1,118 @@
+{
+  "turkanime": {
+    "isim": "Koutetsujou no Kabaneri Movie 2: Moeru Inochi",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "TV dizisinin ikinci yarısının derleme filmi.",
+    "slug": "koutetsujou-no-kabaneri-movie-2-moeru-inochi"
+  },
+  "jikan": {
+    "mal_id": 33520,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1771/109284.jpg",
+    "trailer_id": "i-M-v8y-nc8",
+    "title": "Koutetsujou no Kabaneri Movie 2: Moeru Inochi",
+    "title_english": "Kabaneri of the Iron Fortress: Life The Burns",
+    "type": "Movie",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2017-01-07T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 43 min",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.58,
+    "popularity": 3297,
+    "synopsis": "Compilation film of the second half of the TV series.",
+    "genres": [
+      1,
+      10,
+      14,
+      41
+    ],
+    "themes": [
+      58,
+      13,
+      76
+    ],
+    "demographics": [],
+    "studios": [
+      858
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          33519
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          34544
+        ]
+      },
+      {
+        "relation": "Full Story",
+        "entries": [
+          28623
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 98663,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98663-IYUqvNQmUX0u.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Koutetsujou no Kabaneri Movie 2: Moeru Inochi",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 16,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1SXN99Vgw_CogswwHCtJLz87SnvFwEMsS/preview"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985850231"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4432539"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3615950"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-cxugz3y18ynl.html"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/lrmlcg48"
+        },
+        {
+          "fansub_id": 16,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-0slm3dm9ggpf.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T06:33:25.031362",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

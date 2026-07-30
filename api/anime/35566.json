@@ -1,0 +1,150 @@
+{
+  "turkanime": {
+    "isim": "Koe no Katachi Specials",
+    "puan": "9.21",
+    "bolum_durumu": "2/2",
+    "ozet": "Koe no Katachi BD ile yayınlanan iki adet adet özel bölümdür ve klip şeklindedir.",
+    "slug": "koe-no-katachi-specials"
+  },
+  "jikan": {
+    "mal_id": 35566,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1231/98784.jpg",
+    "trailer_id": null,
+    "title": "Koe no Katachi Specials",
+    "title_english": "A Silent Voice Specials",
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2017-05-17T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.11,
+    "popularity": 4831,
+    "synopsis": "The limited first edition of the Blu-ray Disc for Kyoto Animation's film adaptation of Yoshitoki Ooima's A Silent Voice manga includes two bonus new animation videos of AIKO's theme song Koi wo Shita no wa and Kensuke Ushio's in-film track Speed of Youth.\n\nKyoto Animation produced the videos inspired by the songs, and the film's director Naoko Yamada personally handled the videos' storyboards and technical direction.\n\n(Source: ANN)",
+    "genres": [],
+    "themes": [
+      19
+    ],
+    "demographics": [],
+    "studios": [
+      2
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entries": [
+          28851
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 107764,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/107764-1qi026kn3jw0.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Koe no Katachi Specials 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 108,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1N-y9pay7_udsCkN-ssVpPpQ_qzkIouQ8/preview"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933014143"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/3789"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3550137"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-w2q4795o6dqg.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ba6hpy7s"
+        },
+        {
+          "fansub_id": 108,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-zmgkkqvqtrhs.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T04:24:55.016380",
+      "jikan_mal_id": 1,
+      "filler": true,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Koe no Katachi Specials 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 108,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1cVhQ_36LdVb6dDU0xGZ6npyZxMFUwhLU/preview"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933014144"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/3790"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3550142"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-8osj2tq1dx0m.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-r8ju6k9mn0i4.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/11wus2xu"
+        },
+        {
+          "fansub_id": 108,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-gu993dojwblp.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T04:24:55.016380",
+      "jikan_mal_id": 2,
+      "filler": true,
+      "recap": false
+    }
+  ]
+}

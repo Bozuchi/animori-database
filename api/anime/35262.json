@@ -1,0 +1,127 @@
+{
+  "turkanime": {
+    "isim": "Boku no Hero Academia 2nd Season: Hero Note",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "İkinci sezondan bir hafta önce yayınlanan Boku no Hero Academia'nın özet bölümüdür.",
+    "slug": "boku-no-hero-academia-2nd-season-hero-note"
+  },
+  "jikan": {
+    "mal_id": 35262,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1089/121748.jpg",
+    "trailer_id": null,
+    "title": "Boku no Hero Academia: Hero Note",
+    "title_english": "My Hero Academia: Hero Notebook",
+    "type": "TV Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2017-03-25T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.25,
+    "popularity": 1430,
+    "synopsis": "Recap of Boku no Hero Academia that aired a week before the second season.",
+    "genres": [
+      1
+    ],
+    "themes": [
+      23,
+      31
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      4
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          33486
+        ]
+      },
+      {
+        "relation": "Full Story",
+        "entries": [
+          31964
+        ]
+      }
+    ]
+  },
+  "anilist": null,
+  "episodes": [
+    {
+      "turkanime_title": "Boku no Hero Academia 2nd Season: Hero Note Special",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/164MEdlkOjOzW3ktxn86Y3cHJq4aE_omI/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359663188"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/bk/swagnemite/video/embed/_myvideo/400"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4611996"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2874819"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2874823"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-jh6lez5uq2ci.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/krob3ixy"
+        },
+        {
+          "fansub_id": 22,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-wd87f4y7zw71.html"
+        },
+        {
+          "fansub_id": 30,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7320964432559866171"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/7luy47rp"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T06:13:26.284439",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

@@ -1,0 +1,629 @@
+{
+  "turkanime": {
+    "isim": "Black Jack",
+    "puan": "0.00",
+    "bolum_durumu": "12/12",
+    "ozet": "Tıp mesleğinde, belirli bir ücret karşılığında, hayatları kurtarabilen lisansız dahi bir fizikçinin adı sessizce yankılanıyor. Adı Black Jack, o hızlı, deli bir figür, siyah kukuletalı, bir tıp dehası, kendi kuralları ve Hipokrat Yemini dışında hiç bir kural dinlemez. Hayat kurtarma pahasına, Tanrı'nın kendisini bile hiçe sayabilir.",
+    "slug": "black-jack"
+  },
+  "jikan": {
+    "mal_id": 1520,
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/12978.jpg",
+    "trailer_id": null,
+    "title": "Black Jack",
+    "title_english": "Black Jack",
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1993-12-21T00:00:00+00:00",
+      "to": "2011-12-16T00:00:00+00:00"
+    },
+    "duration": "50 min per ep",
+    "rating": "R+ - Mild Nudity",
+    "score": 7.76,
+    "popularity": 3787,
+    "synopsis": "Kuroo Hazama, also known as \"Black Jack,\" is a legend in the medical world. Famous for being one of the best, as well as not having a license, Hazama and his assistant Pinoko save countless lives that other doctors cannot... for a price; an exorbitant price, in fact, which causes many to view the genius as greedy and heartless. Despite these claims, however, none can deny his skill and the lengths that he will go to treat his patients. This dark medical drama tells the story of the ominous and mysterious world of underground medicine as Black Jack risks his life to cure some of the most bizarre diseases imaginable, even if it means breaking every law in the process.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      8,
+      7,
+      41
+    ],
+    "themes": [
+      67,
+      40
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      200
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          30740
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          1600
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entries": [
+          1521,
+          6246
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          7229,
+          2213
+        ]
+      },
+      {
+        "relation": "Character",
+        "entries": [
+          9991
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          10055
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 1520,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1520-oPXf4wHTanw2.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Black Jack 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 118,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1gSMRtOEE6uOqdZDZVCXXMYWgJMsclUJB/preview"
+        },
+        {
+          "fansub_id": 118,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/bk/swagnemite/_myvideo/117.html"
+        },
+        {
+          "fansub_id": 118,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271196271"
+        },
+        {
+          "fansub_id": 118,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4529315"
+        },
+        {
+          "fansub_id": 118,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/5a9zw75j"
+        },
+        {
+          "fansub_id": 118,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-kfyiy6bj4rrw.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T05:14:20.392918",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Black Jack 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 118,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Xm-XyI-bF_ez4HDILl5j0bD4L0erpDmr/preview"
+        },
+        {
+          "fansub_id": 118,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271196272"
+        },
+        {
+          "fansub_id": 118,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/bk/swagnemite/_myvideo/131.html"
+        },
+        {
+          "fansub_id": 118,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4503268"
+        },
+        {
+          "fansub_id": 118,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/chmbu1mk"
+        },
+        {
+          "fansub_id": 118,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-22ahnqp1mws5.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T05:14:20.392918",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Black Jack 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 118,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1aNYWXBMvl-fAHxPfSQ2Uo3lDsFeyMwqS/preview"
+        },
+        {
+          "fansub_id": 118,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359660278"
+        },
+        {
+          "fansub_id": 118,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271196273"
+        },
+        {
+          "fansub_id": 118,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4460126"
+        },
+        {
+          "fansub_id": 118,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/iw2qgoaj"
+        },
+        {
+          "fansub_id": 118,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/i10avx2o"
+        },
+        {
+          "fansub_id": 118,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-cbv4k5umuut1.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T05:14:20.392918",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Black Jack 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 118,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1I6_1N6kwRsyygYYAo-giN6XX4cHmX8Eu/preview"
+        },
+        {
+          "fansub_id": 118,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271196274"
+        },
+        {
+          "fansub_id": 118,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4503275"
+        },
+        {
+          "fansub_id": 118,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xkc30kll4vmt.html"
+        },
+        {
+          "fansub_id": 118,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/pap4irdc"
+        },
+        {
+          "fansub_id": 118,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-uydmqcvj01xe.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T05:14:20.392918",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Black Jack 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 118,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/114fVhTu_oL4Y-AIfg4CifSIO9qfIsOp9/preview"
+        },
+        {
+          "fansub_id": 118,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271196275"
+        },
+        {
+          "fansub_id": 118,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4503278"
+        },
+        {
+          "fansub_id": 118,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-f7kxt11wq8ux.html"
+        },
+        {
+          "fansub_id": 118,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/uieppkzx"
+        },
+        {
+          "fansub_id": 118,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-e0r8ivpe5094.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T05:14:20.392918",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Black Jack 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 118,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1hcYBzy7N_A727VBm6RFEitKkFbPOUQXc/preview"
+        },
+        {
+          "fansub_id": 118,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271196276"
+        },
+        {
+          "fansub_id": 118,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4503285"
+        },
+        {
+          "fansub_id": 118,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-7i5m7s36abgo.html"
+        },
+        {
+          "fansub_id": 118,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/nb9ls069"
+        },
+        {
+          "fansub_id": 118,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/fm7zhoue"
+        },
+        {
+          "fansub_id": 118,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-cpq1zmi62w13.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T05:14:20.392918",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Black Jack 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 118,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271196277"
+        },
+        {
+          "fansub_id": 118,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/bk/swagnemite/_myvideo/172.html"
+        },
+        {
+          "fansub_id": 118,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4532835"
+        },
+        {
+          "fansub_id": 118,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-mjvacu1x1el5.html"
+        },
+        {
+          "fansub_id": 118,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/0xdskqqi"
+        },
+        {
+          "fansub_id": 118,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-nqvso5m0teus.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T05:14:20.392918",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Black Jack 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 118,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1gfZCzkWEUwjRJWSOHZY9EfUiu8zxj0FE/preview"
+        },
+        {
+          "fansub_id": 118,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/bk/swagnemite/_myvideo/214.html"
+        },
+        {
+          "fansub_id": 118,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271196278"
+        },
+        {
+          "fansub_id": 118,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4529318"
+        },
+        {
+          "fansub_id": 118,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-8jkyleww0joo.html"
+        },
+        {
+          "fansub_id": 118,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/jeujl9x6"
+        },
+        {
+          "fansub_id": 118,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ht5rx2gxa18x.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T05:14:20.392918",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Black Jack 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 118,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1pEqsCdHliQmynFdBvI7k1hNoGE1HPAcB/preview"
+        },
+        {
+          "fansub_id": 118,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/bk/swagnemite/_myvideo/222.html"
+        },
+        {
+          "fansub_id": 118,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271196279"
+        },
+        {
+          "fansub_id": 118,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4503293"
+        },
+        {
+          "fansub_id": 118,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/se2w7s3q"
+        },
+        {
+          "fansub_id": 118,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-uzz1uw1nigix.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T05:14:20.392918",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Black Jack 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/15eDNQv0woFZNexJIA3YgTSgdjIL1S7wK/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/reonillus/_myvideo/33.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4503649"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-mkq94f2to389.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-pelaznf93d8e.html"
+        },
+        {
+          "fansub_id": 118,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271196280"
+        },
+        {
+          "fansub_id": 118,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/mwjxf7nx"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T05:14:20.392918",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Black Jack 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/bk/swagnemite/_myvideo/235.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4532839"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-p3vo3y42peqq.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/3ndsgyqb"
+        },
+        {
+          "fansub_id": 22,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-lqa4ggpuy1am.html"
+        },
+        {
+          "fansub_id": 118,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271196281"
+        },
+        {
+          "fansub_id": 118,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4980566"
+        },
+        {
+          "fansub_id": 118,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/l82g804o"
+        },
+        {
+          "fansub_id": 118,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-893wl14155h8.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T05:14:20.392918",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Black Jack 12. Bölüm Final",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Eo28uTuQMjjAUePjk5mjq4X5Krk5bp0e/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/bk/swagnemite/_myvideo/236.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4529322"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-7pqb57qv7j9r.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/mnwb23ib"
+        },
+        {
+          "fansub_id": 22,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-tvw2buzr9thx.html"
+        },
+        {
+          "fansub_id": 118,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271196282"
+        },
+        {
+          "fansub_id": 118,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/po06lu07"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T05:14:20.392918",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

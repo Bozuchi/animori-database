@@ -1,0 +1,124 @@
+{
+  "turkanime": {
+    "isim": "Ojamajo Doremi",
+    "puan": "0.00",
+    "bolum_durumu": "2/51",
+    "ozet": "Harukaze Doremi, kendini Dünya üzerindeki en şanssız genç kız olarak görmektedir. Ailesi sürekli kavga ediyor, küçük kız kardeşi onunla alay ediyor ve hoşlandığı çocuksa bir başka kızdan hoşlanıyordur. Eğer Doremi, sihirli bir asa sallasa hayatı daha iyi olabilirdi. (veya o, böyle düşünüyordu.) Doremi, gerçek bir cadı ile yaşadığı olaylar silsilesi ardından, çırak bir cadı olur. Elbette, bu konuda berbat olduğu da ortaya çıkar. Üç çırak cadımızın, cadı sınavlarını geçip tam donanımlı birer cadı olabilmeleri için, her türlü şansa ihtiyaçları vardır. Doremi ancak o vakit Cadı Rika'ya olan borcunu ödeyebilecektir. Fakat o ana kadar Doremi, işe yaramaz, minik bir cadı olarak kalacak!",
+    "slug": "ojamajo-doremi"
+  },
+  "jikan": {
+    "mal_id": 350,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1069/133679.jpg",
+    "trailer_id": null,
+    "title": "Ojamajo Doremi",
+    "title_english": "Magical DoReMi",
+    "type": "TV",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": 1999,
+    "season": "winter",
+    "airing": false,
+    "aired": {
+      "from": "1999-02-07T00:00:00+00:00",
+      "to": "2000-01-30T00:00:00+00:00"
+    },
+    "duration": "24 min per ep",
+    "rating": "G - All Ages",
+    "score": 7.37,
+    "popularity": 3184,
+    "synopsis": "Harukaze Doremi considers herself to be the unluckiest girl in the world. Her parents are always fighting, her little sister makes fun of her, and her crush pines after another girl. If only Doremi could just wave a magic wand, she would have a much better life—or so she used to think.\n\nAfter a mishap with a real witch, Doremi becomes an apprentice witch herself, and it turns out she's pretty horrible at that, too.\n\nNow she and her two friends must study to become better at magic so they can become good witches. That is, if they can focus on their magic studies!\n\nThe three apprentices will need all the luck they can get if they want to pass the witch exams and become full-fledged witches. Only then will Doremi's debt to the witch Majorika be repaid. Until then, Doremi will remain a useless little witch girl!",
+    "genres": [
+      4
+    ],
+    "themes": [
+      66
+    ],
+    "demographics": [],
+    "studios": [
+      18
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          351
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          4175
+        ]
+      },
+      {
+        "relation": "Spin-Off",
+        "entries": [
+          39585
+        ]
+      },
+      {
+        "relation": "Summary",
+        "entries": [
+          63755
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          39588,
+          50848,
+          58535,
+          62403,
+          62494
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 350,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/350-oGY6MInyVjpO.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Ojamajo Doremi 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 109,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1_Nof6spIDZhGgrFgXBsD88SJc37HaOca/preview"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T19:16:40.307801",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ojamajo Doremi 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 109,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1NoLeQc73qf2w70kX5uMoB4S7JNG2AABP/preview"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 20,
+          "end": 109
+        },
+        "ed": {
+          "start": 1350,
+          "end": 1450
+        }
+      },
+      "added_date": "2026-07-27T19:16:40.307801",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

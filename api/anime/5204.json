@@ -1,0 +1,130 @@
+{
+  "turkanime": {
+    "isim": "Kara no Kyoukai 6: Boukyaku Rokuon",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "7 film olarak planlanan Kara no Kyoukai filmlerinin altıncısıdır.",
+    "slug": "kara-no-kyoukai-6-boukyaku-rokuon"
+  },
+  "jikan": {
+    "mal_id": 5204,
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/21739.jpg",
+    "trailer_id": "XVAJ1o_fsbY",
+    "title": "Kara no Kyoukai Movie 6: Boukyaku Rokuon",
+    "title_english": "The Garden of Sinners Chapter 6: Oblivion Recording",
+    "type": "Movie",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2008-12-20T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "59 min",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.43,
+    "popularity": 1389,
+    "synopsis": "With strange events occurring at Reien Girls' Academy during winter break, Azaka Kokutou, a student and apprentice mage, is sent by her master to investigate. It turns out that another mage has been stealing the students' memories using fairies that, despite her magical talent, are invisible to Azaka. So Shiki Ryougi, an acquaintance with special eyes who can see what Azaka cannot, is also sent to the academy to help with the crisis.  \n\nHowever, the two have trouble getting along, mainly due to the fact that Azaka views Shiki as her romantic rival. But when the fairy situation quickly spirals out of control and more layers of the mystery are revealed, Azaka must learn to work with Shiki in order to save her classmates.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      1,
+      10,
+      7,
+      22,
+      41
+    ],
+    "themes": [
+      82
+    ],
+    "demographics": [],
+    "studios": [
+      43
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          4282
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          5205
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          23947,
+          2062
+        ]
+      },
+      {
+        "relation": "Summary",
+        "entries": [
+          6624
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          23697
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 5204,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5204-09vEnPmj98Ba.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Kara no Kyoukai 6: Boukyaku Rokuon",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 47,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1KwBvkPrOZDmOLfxpaar76yR2dHVJOX6B/preview"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359658659"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/doruk.n/12/121.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4454751"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2667828"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ilhiozk5"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3183158"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T00:14:26.723628",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "turkanime": {
+    "isim": "Teekyuu 3 Specials",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Teekyuu 3 serisinin special bölümleridir.",
+    "slug": "teekyuu-3-specials"
+  },
+  "jikan": {
+    "mal_id": 22335,
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/58477.jpg",
+    "trailer_id": null,
+    "title": "Teekyuu 3 Specials",
+    "title_english": "Teekyu 3 Specials",
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2014-01-24T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.45,
+    "popularity": 7241,
+    "synopsis": "Short specials included in the BD release.",
+    "genres": [
+      4,
+      30
+    ],
+    "themes": [
+      23
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      569
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          20473
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 20834,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20834-BYtXtWuAWdbA.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Teekyuu 3 Special 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 99,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Ta5A56XEL6UwYZzY_BwQBSU1cFPz0Ykp/preview"
+        },
+        {
+          "fansub_id": 99,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/18ekroEHfOHAXiwN5PJjcxeE12a3ivLGx/preview"
+        },
+        {
+          "fansub_id": 99,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359666143"
+        },
+        {
+          "fansub_id": 99,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-0747qny7rips.html"
+        },
+        {
+          "fansub_id": 99,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ld6eggcooaey.html"
+        },
+        {
+          "fansub_id": 99,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-e9ofmia6gy6y.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T15:30:06.026920",
+      "jikan_mal_id": 1,
+      "filler": true,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Teekyuu 3 Special 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 99,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1oAt5RVVXuEezGm9XRjGT-Nh0qMGJEd8R/preview"
+        },
+        {
+          "fansub_id": 99,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985849293"
+        },
+        {
+          "fansub_id": 99,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4426897"
+        },
+        {
+          "fansub_id": 99,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-boepdbn8fdir.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T15:30:06.026920",
+      "jikan_mal_id": 2,
+      "filler": true,
+      "recap": false
+    }
+  ]
+}

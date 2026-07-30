@@ -1,0 +1,98 @@
+{
+  "turkanime": {
+    "isim": "Fireball Special",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Fireball serisine ait Special bölümdür.",
+    "slug": "fireball-special"
+  },
+  "jikan": {
+    "mal_id": 10666,
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/29365.jpg",
+    "trailer_id": null,
+    "title": "Fireball Special",
+    "title_english": null,
+    "type": "Special",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2009-08-19T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 6.31,
+    "popularity": 11219,
+    "synopsis": "A small special in which the show's stars, Drossel and Gedächtnis, explain a little bit about how the show is made, through interviews and behind the scenes shots.",
+    "genres": [
+      4,
+      24
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          4362
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 10666,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Fireball Special",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Rwe7Bq5369IwwviK3eNCzhLlqLfp_7a2/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682366682"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359663163"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4611919"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2tr64q3lb0dj.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/0ft619m5"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-k4aw5yml8eva.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T01:37:13.268436",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

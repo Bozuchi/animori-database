@@ -1,0 +1,96 @@
+{
+  "turkanime": {
+    "isim": "Mini Toji: Kanami-Mihono no",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Mini Toji animesinin 0. bölümüdür.",
+    "slug": "mini-toji-kanami-mihono-no"
+  },
+  "jikan": {
+    "mal_id": 38981,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1635/101220.jpg",
+    "trailer_id": null,
+    "title": "Mini Toji: Kanami-Mihono no \"Toji Miko Taidou-hen\" 205-byou de Shoukai Tokuban!",
+    "title_english": "Katana Maidens ~ Mini Toji – Katana Maidens Quickening Arc 205-Second Introduction Special!",
+    "type": "TV Special",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2019-01-06T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 5.55,
+    "popularity": 12328,
+    "synopsis": "Episode 0 of Mini Toji. Kanami and Mihono are self-aware that they are in an anime and introduce/recap the Toji no Miko story so that viewers can enjoy Mini Toji the following week even if they haven't watched the original.",
+    "genres": [
+      1,
+      4
+    ],
+    "themes": [
+      52,
+      20
+    ],
+    "demographics": [],
+    "studios": [
+      439
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          38673
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          35589
+        ]
+      }
+    ]
+  },
+  "anilist": null,
+  "episodes": [
+    {
+      "turkanime_title": "Mini Toji 0. Bölüm",
+      "episode_number": 0,
+      "videos": [
+        {
+          "fansub_id": 96,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Uh3GDGXQQjHWakwiQx58xyNOfbRKHuHE/preview"
+        },
+        {
+          "fansub_id": 96,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1LINgOO9uRUBHVci5oEh9BR4KjZuGL8sH/preview"
+        },
+        {
+          "fansub_id": 96,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985849362"
+        },
+        {
+          "fansub_id": 96,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4427640"
+        },
+        {
+          "fansub_id": 96,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-qd6atdo4hc0z.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T12:12:19.627609",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

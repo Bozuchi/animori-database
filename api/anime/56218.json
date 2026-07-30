@@ -1,0 +1,147 @@
+{
+  "turkanime": {
+    "isim": "Houkago no Breath",
+    "puan": "0.00",
+    "bolum_durumu": "4/4",
+    "ozet": "Paldea'daki bir okulda okuyan üç öğrenci, yeni bir öğrencinin gelmesinden önce okullarını tanıtan bir video hazırlamakla görevlendirilir.",
+    "slug": "houkago-no-breath"
+  },
+  "jikan": {
+    "mal_id": 56218,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1252/140364.jpg",
+    "trailer_id": "2oLWQK2VbGg",
+    "title": "Houkago no Breath",
+    "title_english": "Pokémon: Paldean Winds",
+    "type": "ONA",
+    "source": "Game",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2023-09-06T00:00:00+00:00",
+      "to": "2023-12-13T00:00:00+00:00"
+    },
+    "duration": "9 min per ep",
+    "rating": "PG - Children",
+    "score": 7.05,
+    "popularity": 7832,
+    "synopsis": "Just before the arrival of a certain transfer student, three students at an academy in Paldea are tasked with making a video showcasing their school. \n\n(Source: YouTube)",
+    "genres": [],
+    "themes": [],
+    "demographics": [
+      15
+    ],
+    "studios": [
+      858
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          53876
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 168092,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/168092-exo18Qssb1zu.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Houkago no Breath 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682370654"
+        },
+        {
+          "fansub_id": 3,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/tidxy6nw9f8i"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-zlt0qpwuxnoi.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T04:23:04.139342",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Houkago no Breath 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5299429"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-nt11ywbc8gf9.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T04:23:04.139342",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Houkago no Breath 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5349732"
+        },
+        {
+          "fansub_id": 3,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/dbyb3h7k36hg"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-71k1z9psr88q.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T04:23:04.139342",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Houkago no Breath 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5367838"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-d9gc449xcx7m.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T04:23:04.139342",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

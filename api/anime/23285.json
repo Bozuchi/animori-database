@@ -1,0 +1,79 @@
+{
+  "turkanime": {
+    "isim": "Paulette no Isu",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Fuji TV Noitamina (Animasyon) Kuşağının 10. Yıl dönümüne özel olarak hazırlanmış kısa filmdir.",
+    "slug": "paulette-no-isu"
+  },
+  "jikan": {
+    "mal_id": 23285,
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/60739.jpg",
+    "trailer_id": null,
+    "title": "Paulette no Isu",
+    "title_english": "Paulette's Chair",
+    "type": "ONA",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2014-03-21T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 6.96,
+    "popularity": 6884,
+    "synopsis": "noitaminA's 10th anniversary commemoration short special.",
+    "genres": [
+      36
+    ],
+    "themes": [],
+    "demographics": [
+      15
+    ],
+    "studios": [
+      1033
+    ],
+    "relations": []
+  },
+  "anilist": {
+    "id": 20674,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20674-0oeXzbNRBm0h.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Paulette no Isu Movie",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/12qdrOafTavA8v4W0ix3vTBlQnxqpoTbp/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682366251"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-56qbdsyy1joh.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ymyhfoox"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T01:21:39.113026",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "turkanime": {
+    "isim": "Ninkuu: Knife no Bohyou",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Bu eser Ninku TV serisinden önce gösterime girmiş özel bölümdür.",
+    "slug": "ninkuu-knife-no-bohyou"
+  },
+  "jikan": {
+    "mal_id": 16345,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1884/127435.jpg",
+    "trailer_id": null,
+    "title": "Ninkuu: Knife no Bohyou",
+    "title_english": null,
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1994-10-01T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "34 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.86,
+    "popularity": 14549,
+    "synopsis": "After the war, Fuusuke, Aicho and Touji head to a port town searching for Makoto, the younger sister of an old friend who died in combat and left his knife for her as an inheritance. But when they arrive, they discover that the citizens are being attacked by pirates! Now, the three Ninku must help Makoto defeat Rasen Ryuu and his crew.",
+    "genres": [
+      1,
+      2,
+      4
+    ],
+    "themes": [
+      17
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      1
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          11361
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          912
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 16345,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Ninkuu: Knife no Bohyou Special",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 249,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1gb2n8QRLMuv4kvCrvHyirkwXWti6obkD/preview"
+        },
+        {
+          "fansub_id": 249,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140717155"
+        },
+        {
+          "fansub_id": 249,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359653050"
+        },
+        {
+          "fansub_id": 249,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4017172"
+        },
+        {
+          "fansub_id": 249,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4470872"
+        },
+        {
+          "fansub_id": 249,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/t3dbipxz"
+        },
+        {
+          "fansub_id": 249,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-yjqjmn8dny4x.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T16:18:37.161333",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

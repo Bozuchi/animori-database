@@ -1,0 +1,2105 @@
+{
+    "genres": {
+        "1": "Aksiyon",
+        "2": "Macera",
+        "5": "Avangart",
+        "46": "Ödüllü",
+        "28": "Yaoi",
+        "4": "Komedi",
+        "8": "Dram",
+        "10": "Fantastik",
+        "26": "Yuri",
+        "47": "Gurme",
+        "14": "Korku",
+        "7": "Gizem",
+        "22": "Romantik",
+        "24": "Bilim Kurgu",
+        "36": "Günlük Yaşam",
+        "30": "Spor",
+        "37": "Doğaüstü",
+        "41": "Gerilim",
+        "9": "Ecchi",
+        "49": "Erotik",
+        "12": "Hentai",
+        "50": "Yetişkin Karakterler",
+        "51": "Furry",
+        "52": "CGDCT",
+        "53": "Çocuk Bakımı",
+        "54": "Dövüş Sporları",
+        "81": "Crossdressing",
+        "55": "Serseri",
+        "39": "Dedektif",
+        "56": "Eğitici",
+        "57": "Skeç Mizahı",
+        "58": "Vahşet",
+        "35": "Harem",
+        "59": "Yüksek Riskli Oyunlar",
+        "13": "Tarihi",
+        "60": "Kadın İdoller",
+        "61": "Erkek İdoller",
+        "62": "Isekai",
+        "63": "Iyashikei",
+        "64": "Karmaşık Aşk",
+        "65": "Cinsiyet Değişimi",
+        "66": "Sihirli Kız",
+        "17": "Dövüş Sanatları",
+        "18": "Mecha",
+        "67": "Tıp",
+        "38": "Askeri",
+        "19": "Müzik",
+        "6": "Mitoloji",
+        "68": "Organize Suç",
+        "69": "Otaku Kültürü",
+        "20": "Parodi",
+        "70": "Sahne Sanatları",
+        "71": "Evcil Hayvanlar",
+        "40": "Psikolojik",
+        "3": "Yarış",
+        "72": "Reenkarnasyon",
+        "73": "Ters Harem",
+        "74": "İtiraf Edilmemiş Aşklar",
+        "21": "Samuray",
+        "23": "Okul",
+        "75": "Gösteri Dünyası",
+        "29": "Uzay",
+        "11": "Strateji Oyunları",
+        "31": "Süper Güçler",
+        "76": "Hayatta Kalma",
+        "77": "Takım Sporları",
+        "78": "Zaman Yolculuğu",
+        "32": "Vampir",
+        "79": "Video Oyunları",
+        "80": "Görsel Sanatlar",
+        "48": "İşyeri",
+        "82": "Kentsel Fantezi",
+        "83": "Villainess",
+        "43": "Josei",
+        "15": "Çocuk",
+        "42": "Seinen",
+        "25": "Shoujo",
+        "27": "Shounen"
+    },
+    "studios": {
+        "1": "Studio Pierrot",
+        "2": "Kyoto Animation",
+        "3": "Gonzo",
+        "4": "Bones",
+        "5": "Bee Train",
+        "6": "Gainax",
+        "7": "J.C.Staff",
+        "8": "Artland",
+        "10": "Production I.G",
+        "11": "Madhouse",
+        "13": "Studio 4°C",
+        "14": "Sunrise",
+        "18": "Toei Animation",
+        "21": "Studio Ghibli",
+        "22": "Nippon Animation",
+        "24": "Studio Fantasia",
+        "27": "Xebec",
+        "28": "OLM",
+        "30": "Ajia-do",
+        "32": "Manglobe",
+        "34": "HAL Film Maker",
+        "35": "Seven Arcs",
+        "36": "Gallop",
+        "37": "Studio Deen",
+        "38": "Arms",
+        "39": "Daume",
+        "41": "Satelight",
+        "43": "ufotable",
+        "44": "Shaft",
+        "47": "Khara",
+        "48": "AIC",
+        "49": "Remic",
+        "51": "Diomedéa",
+        "54": "Mook Animation",
+        "56": "A-1 Pictures",
+        "59": "Beat Frog",
+        "60": "Actas",
+        "61": "Frontier Works",
+        "63": "Trinet Entertainment",
+        "64": "Sotsu",
+        "65": "Tokyo Movie Shinsha",
+        "68": "Mushi Production",
+        "70": "Nomad",
+        "72": "Artmic",
+        "73": "TMS Entertainment",
+        "75": "Imagin",
+        "77": "APPP",
+        "78": "Picture Magic",
+        "80": "Trans Arts",
+        "81": "Radix",
+        "82": "Marvelous Entertainment",
+        "83": "AIC Spirits",
+        "84": "Studio Rikka",
+        "86": "Group TAC",
+        "88": "AIC ASTA",
+        "89": "BeSTACK",
+        "91": "feel.",
+        "93": "Studio Flag",
+        "94": "Telecom Animation Film",
+        "95": "Doga Kobo",
+        "96": "Yumeta Company",
+        "101": "Studio Hibari",
+        "103": "Tatsunoko Production",
+        "107": "Plum",
+        "110": "Triangle Staff",
+        "111": "NHK",
+        "112": "Brain's Base",
+        "114": "Studio Matrix",
+        "117": "Studio Izena",
+        "118": "SynergySP",
+        "120": "TNK",
+        "122": "Tokyo Kids",
+        "126": "Studio Comet",
+        "131": "G&G Entertainment",
+        "132": "P.A. Works",
+        "136": "Vega Entertainment",
+        "150": "Sanrio",
+        "154": "E&G Films",
+        "155": "animate Film",
+        "163": "asread.",
+        "169": "Fuji TV",
+        "170": "Imagica",
+        "175": "Planet",
+        "176": "Ginga Ya",
+        "177": "Studio Kyuuma",
+        "179": "A.C.G.T.",
+        "183": "Agent 21",
+        "192": "Shinkuukan",
+        "193": "Idea Factory",
+        "196": "Production Reed",
+        "200": "Tezuka Productions",
+        "207": "Magic Bus",
+        "218": "Zexcs",
+        "229": "The Answer Studio",
+        "231": "CyberConnect2",
+        "234": "Oh! Production",
+        "235": "Shirogumi",
+        "242": "Ashi Productions",
+        "246": "Visual 80",
+        "247": "Shin-Ei Animation",
+        "249": "Robot Communications",
+        "253": "Rikuentai",
+        "256": "Studio Kikan",
+        "271": "Barnum Studio",
+        "276": "DLE",
+        "280": "Studio Junio",
+        "285": "Four Some",
+        "287": "David Production",
+        "288": "Kaname Productions",
+        "290": "Kinema Citrus",
+        "291": "CoMix Wave Films",
+        "292": "AIC PLUS+",
+        "298": "Anima",
+        "299": "Studio Pastoral",
+        "300": "SILVER LINK.",
+        "304": "Primastea",
+        "307": "Sunwoo Entertainment",
+        "309": "GoHands",
+        "312": "Life Work",
+        "314": "White Fox",
+        "318": "WAO World",
+        "322": "Bee Media",
+        "325": "Code",
+        "326": "Animation 21",
+        "329": "Phoenix Entertainment",
+        "330": "Kanaban Graphics",
+        "333": "TYO Animations",
+        "334": "Ordet",
+        "343": "Puzzle Animation Studio Limited",
+        "346": "Hoods Entertainment",
+        "347": "PrimeTime",
+        "354": "Encourage Films",
+        "361": "Oxybot",
+        "363": "Topcraft",
+        "373": "Panda Factory",
+        "381": "Yamato Works",
+        "386": "Animaruya",
+        "390": "Tsuchida Productions",
+        "391": "Grouper Productions",
+        "397": "Bridge",
+        "398": "Milky Cartoon",
+        "400": "Gathering",
+        "403": "Tokyo Media Connections",
+        "406": "Asahi Production",
+        "413": "Pastel",
+        "418": "Studio Gokumi",
+        "419": "ElectromagneticWave",
+        "425": "AIC Takarazuka",
+        "426": "Filmlink International",
+        "432": "Kachidoki Studio",
+        "433": "Viewworks",
+        "434": "Synergy Japan",
+        "436": "AIC Build",
+        "437": "Kamikaze Douga",
+        "438": "Studio Signal",
+        "439": "Project No.9",
+        "441": "8bit",
+        "442": "Minami Machi Bugyousho",
+        "443": "Studio PuYUKAI",
+        "444": "Jinnis Animation Studios",
+        "449": "Maikaze",
+        "452": "Knack Productions",
+        "455": "Palm Studio",
+        "456": "Lerche",
+        "457": "Venet",
+        "462": "Chaos Project",
+        "463": "M.S.C",
+        "471": "Shanghai Animation Film Studio",
+        "473": "Ascension",
+        "474": "Shogakukan Music & Digital Entertainment",
+        "475": "Ishikawa Pro",
+        "478": "Studio Blanc.",
+        "486": "Digital Frontier",
+        "492": "Horannabi",
+        "521": "Anpro",
+        "537": "SANZIGEN",
+        "539": "Ultra Super Pictures",
+        "541": "Seven",
+        "549": "StudioRF Inc.",
+        "553": "Marvy Jack",
+        "555": "Studio Chizu",
+        "559": "Purple Cow Studio Japan",
+        "563": "LandQ studios",
+        "565": "LMD",
+        "567": "D.A.S.T Corporation",
+        "569": "MAPPA",
+        "581": "Sparky Animation",
+        "587": "Tomason",
+        "591": "Romanov Films",
+        "601": "lxtl",
+        "605": "C2C",
+        "721": "GANSIS",
+        "723": "Hotline",
+        "753": "PRA",
+        "755": "Jumondou",
+        "765": "Sakura Create",
+        "803": "Trigger",
+        "805": "AIC Frontier",
+        "819": "Next Media Animation",
+        "825": "Fifth Avenue",
+        "833": "Kyotoma",
+        "839": "LIDENFILMS",
+        "848": "Kazami Gakuen Koushiki Douga-bu",
+        "852": "Nexus",
+        "856": "Charaction",
+        "858": "Wit Studio",
+        "866": "Fanworks",
+        "890": "Karaku",
+        "894": "Graphinica",
+        "896": "Larx Entertainment",
+        "898": "I.Gzwei",
+        "909": "Studio Kelmadick",
+        "911": "Passione",
+        "917": "Takahashi Studio",
+        "929": "Animation Do",
+        "949": "teamKG",
+        "951": "NAZ",
+        "957": "Connect",
+        "971": "Anime R",
+        "999": "Studio Animal",
+        "1013": "Opera House",
+        "1023": "Polygon Pictures",
+        "1025": "Dongwoo A&E",
+        "1033": "Studio Colorido",
+        "1037": "Japan Vistec",
+        "1045": "Space Neko Company",
+        "1053": "Production IMS",
+        "1055": "Yamamura Animation",
+        "1065": "Public & Basic",
+        "1067": "Rising Force",
+        "1075": "C-Station",
+        "1087": "Lay-duce",
+        "1099": "Cyclone Graphics",
+        "1103": "TROYCA",
+        "1109": "Orange",
+        "1111": "DandeLion Animation Studio",
+        "1119": "Shuka",
+        "1127": "Studio 3Hz",
+        "1129": "Pierrot Plus",
+        "1131": "Zero-G Room",
+        "1133": "dwarf",
+        "1155": "Studio Moriken",
+        "1165": "Tri-Slash",
+        "1169": "ILCA",
+        "1173": "Studio Dadashow",
+        "1189": "Sola Digital Arts",
+        "1193": "MooGoo",
+        "1195": "Creators in Pack",
+        "1197": "Steve N' Steven",
+        "1209": "Studio A-CAT",
+        "1231": "OLM Digital",
+        "1237": "Millepensee",
+        "1239": "KeyEast",
+        "1244": "Studio VOLN",
+        "1253": "Studio GOONEYS",
+        "1257": "A-Real",
+        "1258": "Bandai Namco Pictures",
+        "1260": "Nakamura Production",
+        "1263": "Dynamo Pictures",
+        "1264": "EMT Squared",
+        "1265": "Tomovies",
+        "1266": "Studio! Cucuri",
+        "1268": "L²Studio",
+        "1269": "K-Factory",
+        "1270": "Sanctuary",
+        "1271": "Assez Finaud Fabric",
+        "1278": "Signal.MD",
+        "1279": "Buemon",
+        "1281": "Office DCI",
+        "1291": "KOO-KI",
+        "1292": "TUBA",
+        "1295": "PINE JAM",
+        "1296": "Marza Animation Planet",
+        "1299": "AXsiZ",
+        "1300": "Office Nobu",
+        "1304": "Qualia Animation",
+        "1306": "AIC Classic",
+        "1314": "Gaina",
+        "1317": "Production GoodBook",
+        "1325": "Haoliners Animation",
+        "1340": "Typhoon Graphics",
+        "1350": "B.CMAY PICTURES",
+        "1353": "Issen",
+        "1357": "Craftar Studios",
+        "1363": "Marine Entertainment",
+        "1370": "Sprite Animation Studios",
+        "1379": "Zero-G",
+        "1380": "domerica",
+        "1381": "GEMBA",
+        "1383": "Studio Live",
+        "1393": "Geno Studio",
+        "1396": "W-Toon Studio",
+        "1399": "asurafilm",
+        "1407": "Children's Playground Entertainment",
+        "1419": "GARDEN LODGE",
+        "1420": "SIDO LIMITED",
+        "1435": "JCF",
+        "1436": "Stingray",
+        "1437": "Ishimori Entertainment",
+        "1440": "Felix Film",
+        "1441": "Mippei Eigeki Kiryuukan",
+        "1442": "Mook DLE",
+        "1444": "Egg Firm",
+        "1454": "REALTHING",
+        "1462": "B&T",
+        "1471": "Platinum Vision",
+        "1485": "Light Chaser Animation Studios",
+        "1504": "Studio Z5",
+        "1505": "Studio March",
+        "1512": "Dai-Ichi Douga",
+        "1514": "Tengu Kobo",
+        "1521": "Studio Elle",
+        "1523": "Studio Ponoc",
+        "1529": "Studio M2",
+        "1530": "Emon",
+        "1547": "Blade",
+        "1549": "Dai Nippon Printing",
+        "1560": "Yaoyorozu",
+        "1562": "Team YokkyuFuman",
+        "1567": "Nut",
+        "1569": "Seven Arcs Pictures",
+        "1572": "XFLAG",
+        "1573": "XFLAG Pictures",
+        "1575": "DR Movie",
+        "1591": "Science SARU",
+        "1593": "Success Corp.",
+        "1618": "Rockwell Eyes",
+        "1661": "drop",
+        "1667": "Foch Film",
+        "1669": "production doA",
+        "1673": "DMM.futureworks",
+        "1687": "Yokohama Animation Lab",
+        "1690": "Imagineer",
+        "1692": "Revoroot",
+        "1693": "Studio Flad",
+        "1722": "Bibury Animation Studios",
+        "1758": "Picante Circus",
+        "1759": "Lyrics",
+        "1768": "Sparkly Key Animation Studio",
+        "1771": "Pb Animation",
+        "1772": "Wawayu Animation",
+        "1774": "LAN Studio",
+        "1776": "Studio Mir",
+        "1794": "EKACHI EPILKA",
+        "1796": "Digital Network Animation",
+        "1805": "Thundray",
+        "1807": "2:10 Animation",
+        "1808": "CG Year",
+        "1810": "Mili Pictures",
+        "1813": "Studio Lings",
+        "1827": "Motion Magic",
+        "1828": "Lapin Track",
+        "1829": "Lesprit",
+        "1830": "Seven Stone Entertainment",
+        "1831": "Colored Pencil Animation Japan",
+        "1832": "GRIZZLY",
+        "1835": "CloverWorks",
+        "1837": "G-angle",
+        "1842": "Urban Product",
+        "1843": "TriF Studio",
+        "1846": "Tokyo Movie",
+        "1847": "Square Enix Visual Works",
+        "1849": "MASTER LIGHTS",
+        "1851": "Jumonji",
+        "1853": "Saetta",
+        "1854": "monofilmo",
+        "1857": "Geek Toys",
+        "1860": "Magia Doraglier",
+        "1864": "Ezόla",
+        "1872": "P.I.C.S.",
+        "1873": "Silver",
+        "1874": "Arvo Animation",
+        "1876": "CLAP",
+        "1879": "Dangun Pictures",
+        "1882": "UWAN Pictures",
+        "1890": "Tear Studio",
+        "1892": "Sublimation",
+        "1893": "CygamesPictures",
+        "1897": "Ankama Animations",
+        "1903": "IMAGICA Lab.",
+        "1927": "Studio Crocodile",
+        "1930": "Zelico Film",
+        "1934": "Saigo no Shudan",
+        "1943": "Idol",
+        "1944": "Samsara Animation Studio",
+        "1952": "Animation Staff Room",
+        "1967": "Drive",
+        "1968": "Studio Hokiboshi",
+        "1970": "Wolf Smoke Studio",
+        "1974": "ENGI",
+        "1975": "Qubic Pictures",
+        "1976": "CGCG Studio",
+        "1978": "Maho Film",
+        "1979": "Suna Kouhou",
+        "1980": "Big Firebird Culture",
+        "1983": "Anima&Co.",
+        "1984": "Bakken Record",
+        "1991": "Enishiya",
+        "1993": "Studio Bind",
+        "1997": "Studio KAI",
+        "1998": "Studio Signpost",
+        "1999": "Albacrow",
+        "2004": "Sunrise Beyond",
+        "2009": "Yostar Pictures",
+        "2013": "Peak Hunt",
+        "2020": "Ark",
+        "2027": "Team TillDawn",
+        "2033": "FILMONY",
+        "2034": "Akatsuki",
+        "2037": "Okuruto Noboru",
+        "2042": "Ruo Hong Culture",
+        "2047": "Pancake",
+        "2048": "ASK Animation Studio",
+        "2051": "Studio Coa",
+        "2052": "Wolfsbane",
+        "2053": "l-a-unch・BOX",
+        "2056": "DRAWIZ",
+        "2057": "Toho Interactive Animation",
+        "2058": "Shengying Animation",
+        "2059": "Suoyi Technology",
+        "2060": "Wulifang",
+        "2067": "Flat Studio",
+        "2071": "AQUA ARIS",
+        "2076": "Fenz",
+        "2080": "Super Normal Studio",
+        "2085": "Acca effe",
+        "2086": "Giga Production",
+        "2097": "HORNETS",
+        "2114": "Ether Kitten",
+        "2115": "Gosay Studio",
+        "2125": "LICO",
+        "2126": "Red Dog Culture House",
+        "2129": "Visual Flight",
+        "2133": "Djinn Power",
+        "2134": "Studio CANDY BOX",
+        "2143": "LX Animation Studio",
+        "2144": "BloomZ",
+        "2157": "Production +h.",
+        "2169": "Studio 88",
+        "2171": "Paper Animation",
+        "2175": "GARDEN Culture",
+        "2177": "Mimoid",
+        "2188": "Marone",
+        "2196": "Studio DURIAN",
+        "2201": "Studio Palette",
+        "2204": "OZ",
+        "2205": "Studio Kafka",
+        "2211": "Lingsanwu Animation",
+        "2212": "Tsumugi Akita Animation Lab",
+        "2240": "Studio Daisy",
+        "2243": "Quebico",
+        "2246": "studio MOTHER",
+        "2248": "Indivision",
+        "2256": "Kitty Film Mitaka Studio",
+        "2257": "XEBEC M2",
+        "2258": "Sharefun Studio",
+        "2264": "5 Inc.",
+        "2265": "ARECT",
+        "2267": "MMT Technology",
+        "2276": "Project Team Sarah",
+        "2283": "Manga Productions",
+        "2288": "Qzil.la",
+        "2298": "Atelier Pontdarc",
+        "2299": "Gift-o’-Animation",
+        "2300": "Studio Jemi",
+        "2304": "TrioPen Studio",
+        "2310": "Paper Plane Animation Studio",
+        "2314": "Quad",
+        "2315": "Office No. 8",
+        "2325": "Bibury Animation CG",
+        "2342": "PP Project",
+        "2355": "Alfred Imageworks",
+        "2356": "Kung Fu Frog Animation",
+        "2370": "Hayabusa Film",
+        "2371": "Planet Cartoon",
+        "2379": "Scooter Films",
+        "2387": "Ga-Crew",
+        "2405": "Staple Entertainment",
+        "2411": "Studio Massket",
+        "2414": "MontBlanc Pictures",
+        "2415": "HuaMei Animation",
+        "2455": "East Fish Studio",
+        "2456": "team Yamahitsuji",
+        "2460": "aNCHOR",
+        "2508": "Deck",
+        "2509": "Colored Pencil Animation",
+        "2513": "HMCH",
+        "2520": "Twilight Town",
+        "2526": "Shenman Entertainment",
+        "2527": "Liber",
+        "2540": "Fever Creations",
+        "2554": "Gekkou",
+        "2555": "Year Young Culture",
+        "2572": "Adonero",
+        "2600": "Cloud Hearts",
+        "2622": "Makaria",
+        "2625": "Square Pictures",
+        "2638": "Yien Animation Studio",
+        "2642": "E&H Production",
+        "2652": "Gravity Well",
+        "2660": "UKA",
+        "2663": "Rock'n Roll Mountain",
+        "2674": "BUG FILMS",
+        "2696": "100studio",
+        "2698": "Voil",
+        "2701": "CMC Media",
+        "2705": "TOHO animation STUDIO",
+        "2713": "Infinity Animations",
+        "2723": "Unend",
+        "2724": "Heart & Soul Animation",
+        "2725": "CompTown",
+        "2742": "Studio N",
+        "2760": "Studio Add",
+        "2765": "Bebow",
+        "2775": "Production Wave",
+        "2821": "Fugaku",
+        "2828": "Studio Polon",
+        "2829": "EOTA",
+        "2834": "Hero",
+        "2835": "ROLL2",
+        "2844": "Imagica Infos",
+        "2850": "SAFEHOUSE",
+        "2855": "Studio Moe",
+        "2875": "Blaze Studio",
+        "2909": "Teddy",
+        "2911": "Studio Eight Color",
+        "2916": "Reirs",
+        "2917": "Soigne",
+        "2928": "Elias",
+        "2936": "G&G Direction",
+        "2951": "Pierrot Films",
+        "2972": "Cocktail Media",
+        "2982": "Ginga Teikoku",
+        "2983": "Imageworks Studio",
+        "2985": "Saber Works",
+        "3022": "Panda Tower Studio",
+        "3033": "Studio Barcelona",
+        "3042": "Project Studio Q",
+        "3044": "Bellnox Films",
+        "3045": "Bones Film",
+        "3048": "Kachigarasu",
+        "3052": "Studio KeepFire",
+        "3060": "WonderLand",
+        "3068": "Manpuku Jinja",
+        "3070": "Studio Clutch",
+        "3078": "Studio LEO",
+        "3079": "LinQ",
+        "3081": "Fortes",
+        "3094": "animation studio42",
+        "3097": "Maru Animation",
+        "3128": "Guangzhou Liu Ling Yi",
+        "3139": "S.o.K",
+        "3157": "Psyde Kick Studio",
+        "3173": "BENTEN Film",
+        "3186": "studio maf",
+        "3187": "Cue",
+        "3192": "Studio Graph77",
+        "3194": "Nichicaline",
+        "3219": "Nyan Pollution",
+        "3223": "Office Academy",
+        "3226": "Studio Chromato",
+        "3230": "Juvenage",
+        "3241": "Project Team Argos",
+        "3251": "B.COOL STUDIO",
+        "3252": "Doraku",
+        "3264": "BIGBIGSUN",
+        "3273": "Atelier Peuplier",
+        "3276": "Aura Studio",
+        "3278": "Studio Eek",
+        "3286": "Cypic",
+        "3294": "Grass",
+        "3303": "Daily Plan.net",
+        "3304": "SO-DO Creative",
+        "3320": "ZG-R",
+        "3325": "Pandanium"
+    },
+    "fansubs": {
+        "1": {
+            "name": "LGI",
+            "url": ""
+        },
+        "2": {
+            "name": "AMT",
+            "url": ""
+        },
+        "3": {
+            "name": "Varsayılan",
+            "url": ""
+        },
+        "4": {
+            "name": "AnimeOU",
+            "url": ""
+        },
+        "5": {
+            "name": "TAÇE",
+            "url": ""
+        },
+        "6": {
+            "name": "AiTR",
+            "url": ""
+        },
+        "7": {
+            "name": "Miskin",
+            "url": ""
+        },
+        "8": {
+            "name": "HikigayaSubs",
+            "url": ""
+        },
+        "9": {
+            "name": "SponsorSubs",
+            "url": ""
+        },
+        "10": {
+            "name": "PuzzleSubs-BD",
+            "url": ""
+        },
+        "11": {
+            "name": "Seicode",
+            "url": ""
+        },
+        "12": {
+            "name": "AnimeWho",
+            "url": ""
+        },
+        "13": {
+            "name": "HolySubs",
+            "url": ""
+        },
+        "14": {
+            "name": "Kirigana Fairies",
+            "url": ""
+        },
+        "15": {
+            "name": "RaionSubs",
+            "url": ""
+        },
+        "16": {
+            "name": "Tempest",
+            "url": ""
+        },
+        "17": {
+            "name": "NekoSubs",
+            "url": ""
+        },
+        "18": {
+            "name": "ShikiSubs",
+            "url": ""
+        },
+        "19": {
+            "name": "Unmei Çeviri",
+            "url": ""
+        },
+        "20": {
+            "name": "AnimeSue",
+            "url": ""
+        },
+        "21": {
+            "name": "Eski Çeviri",
+            "url": ""
+        },
+        "22": {
+            "name": "Arcadia",
+            "url": ""
+        },
+        "23": {
+            "name": "VictoriaSubs",
+            "url": ""
+        },
+        "24": {
+            "name": "AniTürk",
+            "url": ""
+        },
+        "25": {
+            "name": "AoiSubs",
+            "url": ""
+        },
+        "26": {
+            "name": "PuzzleSubs",
+            "url": ""
+        },
+        "27": {
+            "name": "Eksen Çeviri",
+            "url": ""
+        },
+        "28": {
+            "name": "UragiriSubs",
+            "url": ""
+        },
+        "29": {
+            "name": "NepentheSubs",
+            "url": ""
+        },
+        "30": {
+            "name": "Next",
+            "url": ""
+        },
+        "31": {
+            "name": "Pijamalı Koi",
+            "url": ""
+        },
+        "32": {
+            "name": "Next-BD",
+            "url": ""
+        },
+        "33": {
+            "name": "Knaves",
+            "url": ""
+        },
+        "34": {
+            "name": "LowSubs",
+            "url": ""
+        },
+        "35": {
+            "name": "Anduin",
+            "url": ""
+        },
+        "36": {
+            "name": "OrigamiSubs",
+            "url": ""
+        },
+        "37": {
+            "name": "ShimazuSubs",
+            "url": ""
+        },
+        "38": {
+            "name": "Kanashii",
+            "url": ""
+        },
+        "39": {
+            "name": "Tempest-BD",
+            "url": ""
+        },
+        "40": {
+            "name": "KuroSubs",
+            "url": ""
+        },
+        "41": {
+            "name": "Lucifer",
+            "url": ""
+        },
+        "42": {
+            "name": "YuushaSubs-BD",
+            "url": ""
+        },
+        "43": {
+            "name": "Benihime Fansub",
+            "url": ""
+        },
+        "44": {
+            "name": "Rose&Night Subs-BD",
+            "url": ""
+        },
+        "45": {
+            "name": "Adonis-BD",
+            "url": ""
+        },
+        "46": {
+            "name": "AniKeyf",
+            "url": ""
+        },
+        "47": {
+            "name": "AniSekai",
+            "url": ""
+        },
+        "48": {
+            "name": "AniToria",
+            "url": ""
+        },
+        "49": {
+            "name": "AoiSubs-BD",
+            "url": ""
+        },
+        "50": {
+            "name": "ESD",
+            "url": ""
+        },
+        "51": {
+            "name": "Pijamalı Koi-BD",
+            "url": ""
+        },
+        "52": {
+            "name": "Heterophobia",
+            "url": ""
+        },
+        "53": {
+            "name": "Subtember",
+            "url": ""
+        },
+        "54": {
+            "name": "TurtleSubs",
+            "url": ""
+        },
+        "55": {
+            "name": "TurtleSubs-BD",
+            "url": ""
+        },
+        "56": {
+            "name": "AnimeArsivcisi",
+            "url": ""
+        },
+        "57": {
+            "name": "Fatality",
+            "url": ""
+        },
+        "58": {
+            "name": "Kara-Düzen",
+            "url": ""
+        },
+        "59": {
+            "name": "Warsong",
+            "url": ""
+        },
+        "60": {
+            "name": "YumeSub",
+            "url": ""
+        },
+        "61": {
+            "name": "Animeindir",
+            "url": ""
+        },
+        "62": {
+            "name": "Varsayılan-BD",
+            "url": ""
+        },
+        "63": {
+            "name": "HimitsuSubs",
+            "url": ""
+        },
+        "64": {
+            "name": "VictoriaSubs-BD",
+            "url": ""
+        },
+        "65": {
+            "name": "ElzSubs",
+            "url": ""
+        },
+        "66": {
+            "name": "Münferit",
+            "url": ""
+        },
+        "67": {
+            "name": "NetRip",
+            "url": ""
+        },
+        "68": {
+            "name": "Akatsuki",
+            "url": ""
+        },
+        "69": {
+            "name": "AkiraSubs",
+            "url": ""
+        },
+        "70": {
+            "name": "AprilisSubs",
+            "url": ""
+        },
+        "71": {
+            "name": "Catchebone",
+            "url": ""
+        },
+        "72": {
+            "name": "Hiraishin",
+            "url": ""
+        },
+        "73": {
+            "name": "LawsoniaSub",
+            "url": ""
+        },
+        "74": {
+            "name": "SoulSubs",
+            "url": ""
+        },
+        "75": {
+            "name": "AMT-BD",
+            "url": ""
+        },
+        "76": {
+            "name": "AniTR",
+            "url": ""
+        },
+        "77": {
+            "name": "HoşumuzaGidenŞeyler-BD",
+            "url": ""
+        },
+        "78": {
+            "name": "HÜMAT",
+            "url": ""
+        },
+        "79": {
+            "name": "AnimeSuki",
+            "url": ""
+        },
+        "80": {
+            "name": "MangacıM",
+            "url": ""
+        },
+        "81": {
+            "name": "SoutenSubs",
+            "url": ""
+        },
+        "82": {
+            "name": "NeonSubs",
+            "url": ""
+        },
+        "83": {
+            "name": "Unity",
+            "url": ""
+        },
+        "84": {
+            "name": "FHM-Fansub",
+            "url": ""
+        },
+        "85": {
+            "name": "Morioh",
+            "url": ""
+        },
+        "86": {
+            "name": "TAÇE-BD",
+            "url": ""
+        },
+        "87": {
+            "name": "TsukiSubs",
+            "url": ""
+        },
+        "88": {
+            "name": "1456ha",
+            "url": ""
+        },
+        "89": {
+            "name": "MeijiSub",
+            "url": ""
+        },
+        "90": {
+            "name": "FTizle",
+            "url": ""
+        },
+        "91": {
+            "name": "Clover",
+            "url": ""
+        },
+        "92": {
+            "name": "Animan-BD",
+            "url": ""
+        },
+        "93": {
+            "name": "RaionSubs-BD",
+            "url": ""
+        },
+        "94": {
+            "name": "HoşumuzaGidenŞeyler",
+            "url": ""
+        },
+        "95": {
+            "name": "AkiraSubs-BD",
+            "url": ""
+        },
+        "96": {
+            "name": "LoliSubs",
+            "url": ""
+        },
+        "97": {
+            "name": "Adonis",
+            "url": ""
+        },
+        "98": {
+            "name": "MiraiSubs",
+            "url": ""
+        },
+        "99": {
+            "name": "AniKage",
+            "url": ""
+        },
+        "100": {
+            "name": "BÇT",
+            "url": ""
+        },
+        "101": {
+            "name": "AnimeWho-BD",
+            "url": ""
+        },
+        "102": {
+            "name": "SarıSiyahFansub",
+            "url": ""
+        },
+        "103": {
+            "name": "Rido-Chan",
+            "url": ""
+        },
+        "104": {
+            "name": "LegionSubs",
+            "url": ""
+        },
+        "105": {
+            "name": "Akame",
+            "url": ""
+        },
+        "106": {
+            "name": "YuushaSubs",
+            "url": ""
+        },
+        "107": {
+            "name": "MiruSubs",
+            "url": ""
+        },
+        "108": {
+            "name": "AYS",
+            "url": ""
+        },
+        "109": {
+            "name": "NinoSubs",
+            "url": ""
+        },
+        "110": {
+            "name": "HashiraSubs",
+            "url": ""
+        },
+        "111": {
+            "name": "Anya-BD",
+            "url": ""
+        },
+        "112": {
+            "name": "YukiSubs",
+            "url": ""
+        },
+        "113": {
+            "name": "90sSubs",
+            "url": ""
+        },
+        "114": {
+            "name": "SoutenSubs-BD",
+            "url": ""
+        },
+        "115": {
+            "name": "Animan",
+            "url": ""
+        },
+        "116": {
+            "name": "ANT",
+            "url": ""
+        },
+        "117": {
+            "name": "UragiriSubs-BD",
+            "url": ""
+        },
+        "118": {
+            "name": "Arcadia-BD",
+            "url": ""
+        },
+        "119": {
+            "name": "Peace",
+            "url": ""
+        },
+        "120": {
+            "name": "AniSekai-BD",
+            "url": ""
+        },
+        "121": {
+            "name": "FGL Çeviri",
+            "url": ""
+        },
+        "122": {
+            "name": "DeFaMu-Yi",
+            "url": ""
+        },
+        "123": {
+            "name": "Arch",
+            "url": ""
+        },
+        "124": {
+            "name": "DheniSubs",
+            "url": ""
+        },
+        "125": {
+            "name": "Cinnet Fansub",
+            "url": ""
+        },
+        "126": {
+            "name": "HiragiSubs",
+            "url": ""
+        },
+        "127": {
+            "name": "AnimeDenizi",
+            "url": ""
+        },
+        "128": {
+            "name": "NaoSubs",
+            "url": ""
+        },
+        "129": {
+            "name": "QuVeeSubs",
+            "url": ""
+        },
+        "130": {
+            "name": "ShijieSubs",
+            "url": ""
+        },
+        "131": {
+            "name": "Retro Fansub",
+            "url": ""
+        },
+        "132": {
+            "name": "Fratello",
+            "url": ""
+        },
+        "133": {
+            "name": "AYS-BD",
+            "url": ""
+        },
+        "134": {
+            "name": "BÇT-BD",
+            "url": ""
+        },
+        "135": {
+            "name": "YouthCrew",
+            "url": ""
+        },
+        "136": {
+            "name": "Anchored Blossoms",
+            "url": ""
+        },
+        "137": {
+            "name": "Zaichii",
+            "url": ""
+        },
+        "138": {
+            "name": "House Pandoras",
+            "url": ""
+        },
+        "139": {
+            "name": "Kirigana Fairies-BD",
+            "url": ""
+        },
+        "140": {
+            "name": "AstolfoSubs",
+            "url": ""
+        },
+        "141": {
+            "name": "Ato Fansub",
+            "url": ""
+        },
+        "142": {
+            "name": "Haikurema",
+            "url": ""
+        },
+        "143": {
+            "name": "SubsP",
+            "url": ""
+        },
+        "144": {
+            "name": "DonghuaTR",
+            "url": ""
+        },
+        "145": {
+            "name": "Kaijin Fansub",
+            "url": ""
+        },
+        "146": {
+            "name": "DonghuaTR & Next",
+            "url": ""
+        },
+        "147": {
+            "name": "AnimeOU-BD",
+            "url": ""
+        },
+        "148": {
+            "name": "NetRip-BD",
+            "url": ""
+        },
+        "149": {
+            "name": "Türkçe Dublaj",
+            "url": ""
+        },
+        "150": {
+            "name": "VocaSubs",
+            "url": ""
+        },
+        "151": {
+            "name": "Ecchi-King-BD",
+            "url": ""
+        },
+        "152": {
+            "name": "Izanami",
+            "url": ""
+        },
+        "153": {
+            "name": "Akatsuki-BD",
+            "url": ""
+        },
+        "154": {
+            "name": "AniFesto",
+            "url": ""
+        },
+        "155": {
+            "name": "BlueSoul",
+            "url": ""
+        },
+        "156": {
+            "name": "ANS Fansub",
+            "url": ""
+        },
+        "157": {
+            "name": "RoninSubs",
+            "url": ""
+        },
+        "158": {
+            "name": "MiruSubs-BD",
+            "url": ""
+        },
+        "159": {
+            "name": "MangaDenizi",
+            "url": ""
+        },
+        "160": {
+            "name": "Eski Çeviri-BD",
+            "url": ""
+        },
+        "161": {
+            "name": "Arceus Fansub",
+            "url": ""
+        },
+        "162": {
+            "name": "Atori Çeviri",
+            "url": ""
+        },
+        "163": {
+            "name": "Saitama",
+            "url": ""
+        },
+        "164": {
+            "name": "AniOurya",
+            "url": ""
+        },
+        "165": {
+            "name": "BıngılSubs",
+            "url": ""
+        },
+        "166": {
+            "name": "Magnum357",
+            "url": ""
+        },
+        "167": {
+            "name": "KaiSubs",
+            "url": ""
+        },
+        "168": {
+            "name": "Mochi-BD",
+            "url": ""
+        },
+        "169": {
+            "name": "SubLiminal",
+            "url": ""
+        },
+        "170": {
+            "name": "Eski Çeviri-SSZ",
+            "url": ""
+        },
+        "171": {
+            "name": "Zeuss Fansub",
+            "url": ""
+        },
+        "172": {
+            "name": "MiraiSubs-BD",
+            "url": ""
+        },
+        "173": {
+            "name": "The Crew",
+            "url": ""
+        },
+        "174": {
+            "name": "OrientSubs",
+            "url": ""
+        },
+        "175": {
+            "name": "YukiSubs-BD",
+            "url": ""
+        },
+        "176": {
+            "name": "Aluminia",
+            "url": ""
+        },
+        "177": {
+            "name": "FGL Çeviri-BD",
+            "url": ""
+        },
+        "178": {
+            "name": "KanashiiSubs",
+            "url": ""
+        },
+        "179": {
+            "name": "MiracleSubs",
+            "url": ""
+        },
+        "180": {
+            "name": "Shinya",
+            "url": ""
+        },
+        "181": {
+            "name": "PAFA-BD",
+            "url": ""
+        },
+        "182": {
+            "name": "Akame-BD",
+            "url": ""
+        },
+        "183": {
+            "name": "Çeviri Bükücüler",
+            "url": ""
+        },
+        "184": {
+            "name": "Çeviri Bükücüler-BD",
+            "url": ""
+        },
+        "185": {
+            "name": "Ecchi-King",
+            "url": ""
+        },
+        "186": {
+            "name": "Bugui",
+            "url": ""
+        },
+        "187": {
+            "name": "AnimeSeverler",
+            "url": ""
+        },
+        "188": {
+            "name": "Benihime Fansub-BD",
+            "url": ""
+        },
+        "189": {
+            "name": "Eleber",
+            "url": ""
+        },
+        "190": {
+            "name": "HoşumuzaGidenŞeyler-SSZ",
+            "url": ""
+        },
+        "191": {
+            "name": "Seicode-SSZ",
+            "url": ""
+        },
+        "192": {
+            "name": "Bolaykim",
+            "url": ""
+        },
+        "193": {
+            "name": "Unmei Çeviri-BD",
+            "url": ""
+        },
+        "194": {
+            "name": "HolySubs-BD",
+            "url": ""
+        },
+        "195": {
+            "name": "90KLT",
+            "url": ""
+        },
+        "196": {
+            "name": "Cızırtı",
+            "url": ""
+        },
+        "197": {
+            "name": "Hidoku Ç.",
+            "url": ""
+        },
+        "198": {
+            "name": "1456ha-BD",
+            "url": ""
+        },
+        "199": {
+            "name": "Albion",
+            "url": ""
+        },
+        "200": {
+            "name": "Hori Fansub",
+            "url": ""
+        },
+        "201": {
+            "name": "Lee Fansub",
+            "url": ""
+        },
+        "202": {
+            "name": "Rose&Night Subs",
+            "url": ""
+        },
+        "203": {
+            "name": "Seicode-BD",
+            "url": ""
+        },
+        "204": {
+            "name": "Lee Fansub-BD",
+            "url": ""
+        },
+        "205": {
+            "name": "AniTürk & BÇT",
+            "url": ""
+        },
+        "206": {
+            "name": "Kanashii-BD",
+            "url": ""
+        },
+        "207": {
+            "name": "ElzSubs-BD",
+            "url": ""
+        },
+        "208": {
+            "name": "Astrolyne Fansub-BD",
+            "url": ""
+        },
+        "209": {
+            "name": "Zeuss Fansub-BD",
+            "url": ""
+        },
+        "210": {
+            "name": "Shizuru",
+            "url": ""
+        },
+        "211": {
+            "name": "NepentheSubs-BD",
+            "url": ""
+        },
+        "212": {
+            "name": "NariYuka",
+            "url": ""
+        },
+        "213": {
+            "name": "Ashikaga",
+            "url": ""
+        },
+        "214": {
+            "name": "LeoSubs",
+            "url": ""
+        },
+        "215": {
+            "name": "AnimeDiyarı",
+            "url": ""
+        },
+        "216": {
+            "name": "Morioh-BD",
+            "url": ""
+        },
+        "217": {
+            "name": "E.İ.Ç.-BD",
+            "url": ""
+        },
+        "218": {
+            "name": "E.İ.Ç.",
+            "url": ""
+        },
+        "219": {
+            "name": "Anime Kalesi",
+            "url": ""
+        },
+        "220": {
+            "name": "DBTÇE",
+            "url": ""
+        },
+        "221": {
+            "name": "Animeci Adam",
+            "url": ""
+        },
+        "222": {
+            "name": "Hassub",
+            "url": ""
+        },
+        "223": {
+            "name": "MoonFansub",
+            "url": ""
+        },
+        "224": {
+            "name": "AniRune",
+            "url": ""
+        },
+        "225": {
+            "name": "LawsoniaSub-BD",
+            "url": ""
+        },
+        "226": {
+            "name": "NinoSubs-SSZ",
+            "url": ""
+        },
+        "227": {
+            "name": "YukiSubs-SSZ",
+            "url": ""
+        },
+        "228": {
+            "name": "AnimeHea",
+            "url": ""
+        },
+        "229": {
+            "name": "PirateKingFansub",
+            "url": ""
+        },
+        "230": {
+            "name": "HikigayaSubs-BD",
+            "url": ""
+        },
+        "231": {
+            "name": "OrigamiSubs-BD",
+            "url": ""
+        },
+        "232": {
+            "name": "Yorumbaz-BD",
+            "url": ""
+        },
+        "233": {
+            "name": "Yorumbaz",
+            "url": ""
+        },
+        "234": {
+            "name": "HorizonSubs",
+            "url": ""
+        },
+        "235": {
+            "name": "MANA",
+            "url": ""
+        },
+        "236": {
+            "name": "Yokai",
+            "url": ""
+        },
+        "237": {
+            "name": "AnimeBase",
+            "url": ""
+        },
+        "238": {
+            "name": "Mediocre Fansub",
+            "url": ""
+        },
+        "239": {
+            "name": "Dantel Entel",
+            "url": ""
+        },
+        "240": {
+            "name": "ShikiSubs-BD",
+            "url": ""
+        },
+        "241": {
+            "name": "VeteranSubs",
+            "url": ""
+        },
+        "242": {
+            "name": "Arceus Fansub-BD",
+            "url": ""
+        },
+        "243": {
+            "name": "BlueSoul-BD",
+            "url": ""
+        },
+        "244": {
+            "name": "Bıçkın ve Kaçkın",
+            "url": ""
+        },
+        "245": {
+            "name": "Ohto Ai-BD",
+            "url": ""
+        },
+        "246": {
+            "name": "90KLT-BD",
+            "url": ""
+        },
+        "247": {
+            "name": "AprilisSubs-BD",
+            "url": ""
+        },
+        "248": {
+            "name": "Killcow-BD",
+            "url": ""
+        },
+        "249": {
+            "name": "Koten",
+            "url": ""
+        },
+        "250": {
+            "name": "QuinnSubs",
+            "url": ""
+        },
+        "251": {
+            "name": "Dantel Entel-BD",
+            "url": ""
+        },
+        "252": {
+            "name": "JellyFansub",
+            "url": ""
+        },
+        "253": {
+            "name": "Anya",
+            "url": ""
+        },
+        "254": {
+            "name": "Stolen Fansub",
+            "url": ""
+        },
+        "255": {
+            "name": "BakaYume",
+            "url": ""
+        },
+        "256": {
+            "name": "Hiraishin-BD",
+            "url": ""
+        },
+        "257": {
+            "name": "Animeksi",
+            "url": ""
+        },
+        "258": {
+            "name": "Fuzulisubs",
+            "url": ""
+        },
+        "259": {
+            "name": "Astrolyne Fansub-SSZ",
+            "url": ""
+        },
+        "260": {
+            "name": "QuVeeSubs-BD",
+            "url": ""
+        },
+        "261": {
+            "name": "Clover-BD",
+            "url": ""
+        },
+        "262": {
+            "name": "Sanrı",
+            "url": ""
+        },
+        "263": {
+            "name": "Infinite Fansub",
+            "url": ""
+        },
+        "264": {
+            "name": "Mochi",
+            "url": ""
+        },
+        "265": {
+            "name": "Kanpuu-BD",
+            "url": ""
+        },
+        "266": {
+            "name": "Peace-BD",
+            "url": ""
+        },
+        "267": {
+            "name": "Çevirgeç",
+            "url": ""
+        },
+        "268": {
+            "name": "Ohto Ai",
+            "url": ""
+        },
+        "269": {
+            "name": "Animan-SSZ",
+            "url": ""
+        },
+        "270": {
+            "name": "Kirigana Fairies-SSZ",
+            "url": ""
+        },
+        "271": {
+            "name": "NepentheSubs&HimitsuSub-BD",
+            "url": ""
+        },
+        "272": {
+            "name": "AkiraSubs-SSZ",
+            "url": ""
+        },
+        "273": {
+            "name": "YuushaSubs-SSZ",
+            "url": ""
+        },
+        "274": {
+            "name": "AioKumo",
+            "url": ""
+        },
+        "275": {
+            "name": "İzanami",
+            "url": ""
+        },
+        "276": {
+            "name": "Animajidai",
+            "url": ""
+        },
+        "277": {
+            "name": "VeitalSub",
+            "url": ""
+        },
+        "278": {
+            "name": "Phoenix-Fansub",
+            "url": ""
+        },
+        "279": {
+            "name": "NekoSubs-SSZ",
+            "url": ""
+        },
+        "280": {
+            "name": "Ignite Fansub",
+            "url": ""
+        },
+        "281": {
+            "name": "BlindSubs",
+            "url": ""
+        },
+        "282": {
+            "name": "Heterophobia-BD",
+            "url": ""
+        },
+        "283": {
+            "name": "Lovable",
+            "url": ""
+        },
+        "284": {
+            "name": "HouKagoSubs",
+            "url": ""
+        },
+        "285": {
+            "name": "AniTürk-BD",
+            "url": ""
+        },
+        "286": {
+            "name": "Lucifer-BD",
+            "url": ""
+        },
+        "287": {
+            "name": "oldtheband",
+            "url": ""
+        },
+        "288": {
+            "name": "TatakaeSubs",
+            "url": ""
+        },
+        "289": {
+            "name": "ShimazuSubs-BD",
+            "url": ""
+        },
+        "290": {
+            "name": "TenseiSubs",
+            "url": ""
+        },
+        "291": {
+            "name": "RaionSubs-SSZ",
+            "url": ""
+        },
+        "292": {
+            "name": "Shinometa",
+            "url": ""
+        },
+        "293": {
+            "name": "House Pandoras-BD",
+            "url": ""
+        },
+        "294": {
+            "name": "Shauna",
+            "url": ""
+        },
+        "295": {
+            "name": "KabusSubs",
+            "url": ""
+        },
+        "296": {
+            "name": "KaiSubs-SSZ",
+            "url": ""
+        },
+        "297": {
+            "name": "AnimeSeverler-BD",
+            "url": ""
+        },
+        "298": {
+            "name": "TsukiSubs-BD",
+            "url": ""
+        },
+        "299": {
+            "name": "BakaYume-BD",
+            "url": ""
+        },
+        "300": {
+            "name": "AniFesto-BD",
+            "url": ""
+        },
+        "301": {
+            "name": "LowSubs-BD",
+            "url": ""
+        },
+        "302": {
+            "name": "AnimanSub",
+            "url": ""
+        },
+        "303": {
+            "name": "Toon",
+            "url": ""
+        },
+        "304": {
+            "name": "Anduin-BD",
+            "url": ""
+        },
+        "305": {
+            "name": "AtikRune",
+            "url": ""
+        },
+        "306": {
+            "name": "ShibouSubs",
+            "url": ""
+        },
+        "307": {
+            "name": "AlitaSubs",
+            "url": ""
+        },
+        "308": {
+            "name": "PAFA",
+            "url": ""
+        },
+        "309": {
+            "name": "SoulSubs-BD",
+            "url": ""
+        },
+        "310": {
+            "name": "AniTürk & Next",
+            "url": ""
+        },
+        "311": {
+            "name": "90sSubs-BD",
+            "url": ""
+        },
+        "312": {
+            "name": "HiragiSubs-BD",
+            "url": ""
+        },
+        "313": {
+            "name": "Mei Fansub-BD",
+            "url": ""
+        },
+        "314": {
+            "name": "Arcadia-SSZ",
+            "url": ""
+        },
+        "315": {
+            "name": "Benihime Fansub-SSZ",
+            "url": ""
+        },
+        "316": {
+            "name": "Albion-BD",
+            "url": ""
+        },
+        "317": {
+            "name": "LGI-BD",
+            "url": ""
+        },
+        "318": {
+            "name": "Kanashii & Tempest",
+            "url": ""
+        },
+        "319": {
+            "name": "Kanashii & Tempest-BD",
+            "url": ""
+        },
+        "320": {
+            "name": "Knaves-BD",
+            "url": ""
+        },
+        "321": {
+            "name": "RoninSubs-BD",
+            "url": ""
+        },
+        "322": {
+            "name": "AniKaze",
+            "url": ""
+        },
+        "323": {
+            "name": "Türkçe Dublaj-BD",
+            "url": ""
+        },
+        "326": {
+            "name": "MightySubs",
+            "url": ""
+        },
+        "327": {
+            "name": "AniToria-BD",
+            "url": ""
+        },
+        "328": {
+            "name": "ScarletSubs",
+            "url": ""
+        },
+        "329": {
+            "name": "Haikurema-BD",
+            "url": ""
+        },
+        "330": {
+            "name": "Nippon Yume",
+            "url": ""
+        },
+        "331": {
+            "name": "NetRip Türkçe Dublaj",
+            "url": ""
+        },
+        "332": {
+            "name": "Mei Fansub",
+            "url": ""
+        },
+        "333": {
+            "name": "Akira & Lawsonia",
+            "url": ""
+        },
+        "334": {
+            "name": "MOR Fansub",
+            "url": ""
+        },
+        "335": {
+            "name": "Tempest-SSZ",
+            "url": ""
+        },
+        "336": {
+            "name": "Pijamalı Koi-SSZ",
+            "url": ""
+        },
+        "337": {
+            "name": "ScarletSubs-BD",
+            "url": ""
+        },
+        "338": {
+            "name": "DonghuaTR & AprilisSubs",
+            "url": ""
+        },
+        "339": {
+            "name": "Homeless",
+            "url": ""
+        },
+        "340": {
+            "name": "AYAYASubs",
+            "url": ""
+        },
+        "341": {
+            "name": "MeijiSub-BD",
+            "url": ""
+        },
+        "342": {
+            "name": "Orbital",
+            "url": ""
+        },
+        "343": {
+            "name": "Natural-Fansub",
+            "url": ""
+        },
+        "344": {
+            "name": "Kerem91-BD",
+            "url": ""
+        },
+        "345": {
+            "name": "AtikRune-BD",
+            "url": ""
+        },
+        "346": {
+            "name": "LixeSubs",
+            "url": ""
+        },
+        "347": {
+            "name": "AnimeNizzy",
+            "url": ""
+        },
+        "348": {
+            "name": "Mizukai-BD",
+            "url": ""
+        },
+        "349": {
+            "name": "AniKaze-BD",
+            "url": ""
+        },
+        "350": {
+            "name": "SponsorSubs-BD",
+            "url": ""
+        },
+        "351": {
+            "name": "AniKage-BD",
+            "url": ""
+        },
+        "352": {
+            "name": "Anitoryum",
+            "url": ""
+        },
+        "353": {
+            "name": "PuzzleSubssubs",
+            "url": ""
+        },
+        "354": {
+            "name": "Orbital-BD",
+            "url": ""
+        },
+        "355": {
+            "name": "Varsayılan-SSZ",
+            "url": ""
+        },
+        "356": {
+            "name": "Fatality-BD",
+            "url": ""
+        },
+        "357": {
+            "name": "Killcow",
+            "url": ""
+        },
+        "358": {
+            "name": "Lawsonia & DonghuaTR",
+            "url": ""
+        },
+        "359": {
+            "name": "KrakenSubs",
+            "url": ""
+        },
+        "360": {
+            "name": "LoliSubs-BD",
+            "url": ""
+        },
+        "361": {
+            "name": "Zenkuro Türkçe Dublaj",
+            "url": ""
+        },
+        "362": {
+            "name": "Zenkuro",
+            "url": ""
+        },
+        "363": {
+            "name": "Gatsu",
+            "url": ""
+        }
+    }
+}

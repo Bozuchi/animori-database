@@ -1,0 +1,131 @@
+{
+  "turkanime": {
+    "isim": "Amaenaide yo!! Katsu!!: Damasarenaide yo!!",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Amaenaide yo!! Katsu!! serisinin özel bölümüdür.",
+    "slug": "amaenaide-yo-katsu-damasarenaide-yo"
+  },
+  "jikan": {
+    "mal_id": 1750,
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/75971.jpg",
+    "trailer_id": null,
+    "title": "Amaenaide yo!! Katsu!!: Damasarenaide yo!!",
+    "title_english": "Ah My Buddha Katsu Special",
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2006-06-21T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min",
+    "rating": "R+ - Mild Nudity",
+    "score": 6.54,
+    "popularity": 6164,
+    "synopsis": "A behind the scenes special of all the main characters in Amaenaide yo!! Katsu!!, where they give their own personal feelings about their past experiences with the show, as well as their working experiences with their fellow cast members.",
+    "genres": [
+      4,
+      22,
+      37,
+      9
+    ],
+    "themes": [
+      35
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      37
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          886
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 1750,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Amaenaide yo!! Katsu!! Special",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 99,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/12qvbimPQBm6wbzI6APeM8piAsy7P0P_j/preview"
+        },
+        {
+          "fansub_id": 99,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359657586"
+        },
+        {
+          "fansub_id": 99,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3784701"
+        },
+        {
+          "fansub_id": 99,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4451431"
+        },
+        {
+          "fansub_id": 99,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-aqz3xmww6uyr.html"
+        },
+        {
+          "fansub_id": 99,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-nv30r46tbsmq.html"
+        },
+        {
+          "fansub_id": 99,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/hryvf6u4"
+        },
+        {
+          "fansub_id": 99,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-45mqzdoby32m.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359667963"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1304245"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4762211"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-wj9fyt7rabe7.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-21T21:21:46.301510",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

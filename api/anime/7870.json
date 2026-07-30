@@ -1,0 +1,91 @@
+{
+  "turkanime": {
+    "isim": "Baka to Test to Shoukanjuu Specials",
+    "puan": "0.00",
+    "bolum_durumu": "1/6",
+    "ozet": "Serinin special bölümleridir",
+    "slug": "baka-to-test-to-shoukanjuu-specials"
+  },
+  "jikan": {
+    "mal_id": 7870,
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/67315.jpg",
+    "trailer_id": null,
+    "title": "Baka to Test to Shoukanjuu Specials",
+    "title_english": null,
+    "type": "Special",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2010-04-23T00:00:00+00:00",
+      "to": "2010-09-22T00:00:00+00:00"
+    },
+    "duration": "4 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.25,
+    "popularity": 3583,
+    "synopsis": "The candid shots of Muttsurini's female and male classmates that fund his surveillance habits.",
+    "genres": [
+      4
+    ],
+    "themes": [
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      300
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          6347
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 7870,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Baka to Test to Shoukanjuu Special 1",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 4,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/mutlu.meric/_myvideo/53.html"
+        },
+        {
+          "fansub_id": 4,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1929"
+        },
+        {
+          "fansub_id": 4,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1125001"
+        },
+        {
+          "fansub_id": 4,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3047550"
+        },
+        {
+          "fansub_id": 4,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/xaoyfm4i"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T03:35:09.343323",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "turkanime": {
+    "isim": "Ansatsu Kyoushitsu 2nd Season: Kagaijugyou-hen",
+    "puan": "0.00",
+    "bolum_durumu": "1/8",
+    "ozet": "TV serisinde yer almayan, manga bölümlerininden uyarlayanmış Ansatsu Kyoushitsu 2. sezona ait kısa bölümlerdir Uyarlanan manga bölümleri 78 (\"Takebayashi no Jikan\") ve 79 (\"Shihaisha no Jikan, Ni Jikanme\"), bu bölümler manganın dokuzuncu cildinde yayınlanmıştır.",
+    "slug": "ansatsu-kyoushitsu-2nd-season-kagaijugyou-hen"
+  },
+  "jikan": {
+    "mal_id": 32863,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1807/96939.jpg",
+    "trailer_id": null,
+    "title": "Ansatsu Kyoushitsu: Kagaijugyou-hen",
+    "title_english": "Assassination Classroom: Extracurricular Lesson",
+    "type": "ONA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2016-03-11T00:00:00+00:00",
+      "to": "2016-05-20T00:00:00+00:00"
+    },
+    "duration": "5 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.64,
+    "popularity": 2836,
+    "synopsis": "Shorts of Ansatsu Kyoushitsu 2nd Season which adapt chapters of the manga which are not in the TV series. \n\nThe adapted chapters are 78 (\"Takebayashi no Jikan\") and 79 (\"Shihaisha no Jikan, Ni Jikanme\"), which are published in the ninth manga volume.",
+    "genres": [
+      1,
+      4
+    ],
+    "themes": [
+      23
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      456
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          39883
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          30654
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 21678,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21678-HRhRWI3qctsh.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Ansatsu Kyoushitsu 2nd Season: Kagaijugyou-hen 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 111,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1AzLhSEfaTOLTSY7R4BnyjovBkHb0SJam/preview"
+        },
+        {
+          "fansub_id": 111,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4786480"
+        },
+        {
+          "fansub_id": 111,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/46gm0t0efba5"
+        },
+        {
+          "fansub_id": 111,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-basf5dnsp5zp.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-21T21:55:34.167151",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

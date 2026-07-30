@@ -1,0 +1,94 @@
+{
+  "turkanime": {
+    "isim": "Midori no Neko",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Hikaye gizemli bir yeşil kedi ve onun nereden geldiğini araştıran özel bir dedektif hakkında. Kedinin iyi şans getirdiği düşünülse de aslında ilişki kurduğu herkese şanssızlık getirmiştir.",
+    "slug": "midori-no-neko"
+  },
+  "jikan": {
+    "mal_id": 11799,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1619/112107.jpg",
+    "trailer_id": null,
+    "title": "Midori no Neko",
+    "title_english": "The Green Cat",
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1983-10-10T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "24 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.73,
+    "popularity": 12333,
+    "synopsis": "The story is a mystery about a green cat and a private detective who investigates where it came from. The cat was thought to be good luck, but eventually brought misfortune to all those who come in contact. The story was taken directly from the 5th subtitle of the 1950s Lion Books manga.",
+    "genres": [
+      7
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      200
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          27743
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          6462,
+          14247,
+          11537,
+          8181,
+          14231
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 11799,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Midori no Neko",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1RssCT7d8wPQoEQyy8eoqBIHauW1kvOyh/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271189319"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1770281"
+        },
+        {
+          "fansub_id": 21,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-gw86g7fesp3b.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T12:01:56.769273",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

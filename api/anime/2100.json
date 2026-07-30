@@ -1,0 +1,79 @@
+{
+  "turkanime": {
+    "isim": "Silent Möbius 2",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Silent Möbius filminin devamıdır.",
+    "slug": "silent-mobius-2"
+  },
+  "jikan": {
+    "mal_id": 2100,
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/46951.jpg",
+    "trailer_id": null,
+    "title": "Silent Möbius 2",
+    "title_english": null,
+    "type": "Movie",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1992-07-18T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "58 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.33,
+    "popularity": 9890,
+    "synopsis": "This sequel to the Silent Mobius The Movie 1 continues the timeline of the flashback section of the first movie (Katsumis initial contact with AMP), using some more ideas and persons from the Manga, and being slightly less incompatible to the Silent Mobius series from 1998.",
+    "genres": [
+      2,
+      10,
+      24
+    ],
+    "themes": [],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      48
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          2099
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          228
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          1517
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 2100,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Silent Möbius Movie 2",
+      "episode_number": null,
+      "videos": [],
+      "skip_times": null,
+      "added_date": "2026-07-29T10:46:42.710217",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

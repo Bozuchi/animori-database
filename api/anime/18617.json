@@ -1,0 +1,102 @@
+{
+  "turkanime": {
+    "isim": "Girls und Panzer der Film",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Girls und Panzer animesine ait sinema filmidir.",
+    "slug": "girls-und-panzer-der-film"
+  },
+  "jikan": {
+    "mal_id": 18617,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1776/91467.jpg",
+    "trailer_id": "c991IDTFr0g",
+    "title": "Girls & Panzer Movie",
+    "title_english": "Girls und Panzer der Film",
+    "type": "Movie",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2015-11-21T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "2 hr",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.2,
+    "popularity": 1986,
+    "synopsis": "Having won the 63rd National Sensha-dou tournament, the girls from Ooarai Girls Academy managed to prevent their school from closure by the Japanese Ministry of Education. However, new troubles loom on the horizon: a ministry official argues that the deal was not legally binding and that the Ooarai school carrier is to be decommissioned. Students and their families are frustrated with this injustice and overwhelmed with despair; it seems little can be done to save the school.\n\nTheir last glimmer of hope is a proposed match against the All-Stars University Sensha-dou team, consisting of the most talented students from all over the country. Despite Ooarai being severely outnumbered and clearly outclassed, they accept the challenge.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      1,
+      46
+    ],
+    "themes": [
+      52,
+      38,
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      60
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          14131
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          32740
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          33720,
+          49153
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 18617,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/18617-Wyk9axRcIrjv.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Girls und Panzer der Film",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1QrDcUeyemWBiuKIBYnTlGyGEYnM9XXFI/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/hlqfclak"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/y484141n"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-3ztq9ruwazmd.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T23:55:50.010901",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

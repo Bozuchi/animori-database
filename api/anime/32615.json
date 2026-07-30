@@ -1,0 +1,2192 @@
+{
+  "turkanime": {
+    "isim": "Youjo Senki",
+    "puan": "8.99",
+    "bolum_durumu": "14/12+",
+    "ozet": "Savaşın ön saflarında yer alan küçük bir kız. Sarı saçları, mavi gözleri, bembeyaz teni ve peltek diliyle orduya komuta ediyor. Fakat aslında o, kendisine Tanrı diyen gizemli bir varlığı öfkelendirdiği için yeniden küçük bir kız olarak doğan Japonya'nın en ünlü iş adamlarından biri. Kendi kariyerine her şeyden daha çok önem veren bu küçük kız, imparatorluk ordusunun büyücüleri arasındaki en tehlikeli varlık haline gelecektir.",
+    "slug": "youjo-senki"
+  },
+  "jikan": {
+    "mal_id": 32615,
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/82890.jpg",
+    "trailer_id": "hc8fErNQNHc",
+    "title": "Youjo Senki",
+    "title_english": "Saga of Tanya the Evil",
+    "type": "TV",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": 2017,
+    "season": "winter",
+    "airing": false,
+    "aired": {
+      "from": "2017-01-06T00:00:00+00:00",
+      "to": "2017-03-31T00:00:00+00:00"
+    },
+    "duration": "23 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.96,
+    "popularity": 177,
+    "synopsis": "Tanya Degurechaff is a young soldier infamous for predatorial-like ruthlessness and an uncanny, tactical aptitude, earning her the nickname of the \"Devil of the Rhine.\" Underneath her innocuous appearance, however, lies the soul of a man who challenged Being X, the self-proclaimed God, to a battle of wits—which resulted in him being reincarnated as a little girl into a world of magical warfare. Hellbent on defiance, Tanya resolves to ascend the ranks of her country's military as it slowly plunges into world war, with only Being X proving to be the strongest obstacle in recreating the peaceful life she once knew. But her perceptive actions and combat initiative have an unintended side effect: propelling the mighty Empire into becoming one of the most powerful nations in mankind's history.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      1,
+      10
+    ],
+    "themes": [
+      62,
+      38,
+      72
+    ],
+    "demographics": [],
+    "studios": [
+      1567
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          37055
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          98436,
+          88930
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entries": [
+          49236
+        ]
+      },
+      {
+        "relation": "Summary",
+        "entries": [
+          34904
+        ]
+      },
+      {
+        "relation": "Character",
+        "entries": [
+          38472,
+          39988,
+          41567,
+          61851
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          34723,
+          34742
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 21613,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21613-FGAqKSTvfxuA.png"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Youjo Senki 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/110"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3643046"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/sonm9br6"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599373"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4300035"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-c78hv4eoyq19.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-84lo5kp2nuwq.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/akdemir.cenk/video/embed/_myvideo/50"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/soloonesee/video/embed/5/51"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2849016"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/l57ycg46"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed//mail/eren.puzzle/_myvideo/222.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2811916"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2811919"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/jtx5wwlv"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed//mail/sweetparade/_myvideo/1025.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2803521"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/kbkf2igi"
+        },
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/15Q_r6xSvPz5hXjXHWxjflwTJNJfSYxB6/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5766001"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/nii6j9jfc2c2"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/s3k0cy5lia9d"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-kgg2ugrk4qdi.html"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-7un5omdpivsg.html"
+        },
+        {
+          "fansub_id": 293,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1xDa3i8CGDdzCa-n5jJWjR1mr3LLbp7Zm/preview"
+        },
+        {
+          "fansub_id": 293,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7963591221937438789"
+        },
+        {
+          "fansub_id": 293,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4672786"
+        },
+        {
+          "fansub_id": 293,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/68rvjm7p"
+        },
+        {
+          "fansub_id": 293,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-zq6ecbokdq2z.html"
+        },
+        {
+          "fansub_id": 78,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4914430"
+        },
+        {
+          "fansub_id": 78,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-whlnj1sqtxki.html"
+        },
+        {
+          "fansub_id": 78,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-w0pfr6jqtp84.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed//mail/amelecim2/_myvideo/14.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4914431"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/pbefh6f6"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-mkdvmq9kmea3.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1320.179,
+          "end": 1410.179
+        }
+      },
+      "added_date": "2026-07-30T18:31:05.679942",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Youjo Senki 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/111"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3643120"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ewzag7ti"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599374"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4300036"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-o9edkq3iv6m9.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-6n52v5xhrorl.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/akdemir.cenk/video/embed/_myvideo/51"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/soloonesee/video/embed/5/52"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2849017"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2992119"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/8czcl1sv"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed//mail/qasimoff.ferid/_myvideo/79.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/bk/swagnemite/video/embed/_myvideo/338"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/2qj2i0nk"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/q5mbdep1"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed//mail/sweetparade/_myvideo/1060.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2811442"
+        },
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1jYt_0v-XGHUQbbaHa6wwk73bIqnwIsWM/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5771495"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/zf5w4vv3kdkz"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/2g0pqwjp1t03"
+        },
+        {
+          "fansub_id": 293,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1nKi0QGl6LCWk509LZyZKxg4u8DyGsC7S/preview"
+        },
+        {
+          "fansub_id": 293,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7963591221937438792"
+        },
+        {
+          "fansub_id": 293,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4674408"
+        },
+        {
+          "fansub_id": 293,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/eql90i7a"
+        },
+        {
+          "fansub_id": 293,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-xgn1m6ad7ki5.html"
+        },
+        {
+          "fansub_id": 78,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/muobaba/video/embed/_myvideo/203"
+        },
+        {
+          "fansub_id": 78,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2849283"
+        },
+        {
+          "fansub_id": 78,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/6pcvt0f4"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed//mail/natsumepuzzle/_myvideo/45.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4914436"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-t14cq7x1cyko.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 1.509,
+          "end": 91.509
+        },
+        "ed": {
+          "start": 1275.276,
+          "end": 1365.276
+        }
+      },
+      "added_date": "2026-07-30T18:31:05.679942",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Youjo Senki 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/112"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3643128"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/i5k064q7"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599375"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4300038"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-te05anewmuly.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-u55rsizxsqu4.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/soloonesee/video/embed/5/53"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4914443"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2992115"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ze74xd7ng1fa.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-4nl1pkizl9si.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed//mail/torukojin_a/_myvideo/1067.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4914450"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2817391"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-u1plhxm2vpmd.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/1zyjllz2"
+        },
+        {
+          "fansub_id": 108,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-wci92bq3qfpn.html"
+        },
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1cg8II0dlkNTAQ1Z7gRIDsHBT8oAHk15q/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5779828"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/gxqr2pz0r1pf"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ksb4qhwl1zvc.html"
+        },
+        {
+          "fansub_id": 293,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/19hDjga4Qi3QfzlDGg6gxWu-iF2Qp2-NO/preview"
+        },
+        {
+          "fansub_id": 293,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7963591221937438818"
+        },
+        {
+          "fansub_id": 293,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4690722"
+        },
+        {
+          "fansub_id": 293,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/k50yskd6"
+        },
+        {
+          "fansub_id": 293,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-8xdcn0tfv0j2.html"
+        },
+        {
+          "fansub_id": 78,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/muobaba/video/embed/_myvideo/204"
+        },
+        {
+          "fansub_id": 78,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2849285"
+        },
+        {
+          "fansub_id": 78,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/17x4fyqn"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed//mail/ameleahmet/_myvideo/14.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4914446"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2818233"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/l0uv7j67"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-k4rlfa7gdf4f.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 144.235,
+          "end": 234.235
+        },
+        "ed": {
+          "start": 1324.002,
+          "end": 1396
+        }
+      },
+      "added_date": "2026-07-30T18:31:05.679942",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Youjo Senki 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/113"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3643134"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/rihaa8fx"
+        },
+        {
+          "fansub_id": 35,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4914464"
+        },
+        {
+          "fansub_id": 35,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-jxeypd4ln0zw.html"
+        },
+        {
+          "fansub_id": 35,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-bl4kfqzhnjxr.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599376"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4300039"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-9yq715wxfu24.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-2v2u4rsowpiy.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/soloonesee/video/embed/5/54"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4914454"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2992116"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-nf8sgcmo6v4m.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-thjrq2h3mjao.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojin_a/video/embed/_myvideo/1137"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4914468"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2823291"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5la4s9m92ong.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/vnk3wc16"
+        },
+        {
+          "fansub_id": 108,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-hwy0tecv2u23.html"
+        },
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1_TaBMvAPbx4dnVHBB9niWI7IqXDsg0sL/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5793711"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/6vv6ky86utgl"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/q34ap8r0npn0"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-snpetdstpuve.html"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-dgquem092r9y.html"
+        },
+        {
+          "fansub_id": 293,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1tXYqJMuaaEm7Ijq9c5B0DiZSyNzIh5l9/preview"
+        },
+        {
+          "fansub_id": 293,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/8155140694550249477"
+        },
+        {
+          "fansub_id": 293,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4713272"
+        },
+        {
+          "fansub_id": 293,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/aktbtsou"
+        },
+        {
+          "fansub_id": 293,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ajpxzlulf2di.html"
+        },
+        {
+          "fansub_id": 78,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4914461"
+        },
+        {
+          "fansub_id": 78,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-lr0mjl9tccqr.html"
+        },
+        {
+          "fansub_id": 78,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-euour55kb94l.html"
+        },
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/z7oehrk0j1ur"
+        },
+        {
+          "fansub_id": 1,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-a4epbguhhgsd.html"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-xc1fq9lgw8ci.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed//mail/fall.last/_myvideo/7.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2823933"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/2tgl28up"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 80.926,
+          "end": 170.926
+        },
+        "ed": {
+          "start": 1308.246,
+          "end": 1398.246
+        }
+      },
+      "added_date": "2026-07-30T18:31:05.679942",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Youjo Senki 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/114"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3643138"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/s0ejkbnu"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599377"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4300040"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-zpip2996y08d.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-olcoc5j4ze96.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/soloonesee/video/embed/5/55"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4914471"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2992117"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-e0fss38ih22q.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ac6cwco3xf8u.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed//mail/torukojin_a/_myvideo/1176.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2829395"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4914482"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-dag8w2ipgvi1.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/mhl0nrwe"
+        },
+        {
+          "fansub_id": 108,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-pmra2qzfwf8d.html"
+        },
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1aIO49Yc4PRKjHqDrHnj9Lg0Q5b0KzTbL/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5793715"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/z6xn88ddnchi"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/im0tvhziq93i"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-fiovrnxnizs8.html"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-yrzwui780nby.html"
+        },
+        {
+          "fansub_id": 293,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Noa5yihSXwLgoQDaRn4_MoI42oxLVkyP/preview"
+        },
+        {
+          "fansub_id": 293,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/8155140694550249481"
+        },
+        {
+          "fansub_id": 293,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4725962"
+        },
+        {
+          "fansub_id": 293,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/1kyjo1jw"
+        },
+        {
+          "fansub_id": 293,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-1kbww2hnm9o1.html"
+        },
+        {
+          "fansub_id": 78,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4914474"
+        },
+        {
+          "fansub_id": 78,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-e9qvhb04yc6c.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed//mail/film420/_myvideo/5.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4914478"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ak5rtczv"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-qkxb6arf1afs.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T18:31:05.679942",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Youjo Senki 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/115"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3643143"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/0omg68jp"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599378"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4300041"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ce31ce6rsg5h.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/soloonesee/video/embed/5/56"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2992118"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4914483"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-bodovc03ymfw.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/enes.mert.97/video/embed/_myvideo/401"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2836181"
+        },
+        {
+          "fansub_id": 293,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1F1T2HokToEEIVG1MP9t-33tRhfLFxx0T/preview"
+        },
+        {
+          "fansub_id": 293,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/8155140694550249494"
+        },
+        {
+          "fansub_id": 293,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4755159"
+        },
+        {
+          "fansub_id": 293,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/qz9fcczi"
+        },
+        {
+          "fansub_id": 293,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-foqzbl1cii10.html"
+        },
+        {
+          "fansub_id": 78,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4914484"
+        },
+        {
+          "fansub_id": 78,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-zdnwvb7llibe.html"
+        },
+        {
+          "fansub_id": 78,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-9kyt63x2qigl.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/puzzleizleme2/video/embed/_myvideo/6"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4914485"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/gnmbyvod"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-mc3prosojpva.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1290.068,
+          "end": 1380.068
+        }
+      },
+      "added_date": "2026-07-30T18:31:05.679942",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Youjo Senki 6,5. Bölüm",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/soloonesee/video/embed/5/57"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2992395"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4914486"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-fcgw7xwylbnz.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/mx970b27"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-3mk426bcscp6.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/sweetparade/video/embed/_myvideo/1144"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojin_a/video/embed/_myvideo/1187"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2840024"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2840015"
+        },
+        {
+          "fansub_id": 78,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4915097"
+        },
+        {
+          "fansub_id": 78,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-k84j97a1rh53.html"
+        },
+        {
+          "fansub_id": 78,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-7rnwwptwziko.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/film420/video/embed/_myvideo/33"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4915107"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ebx53kp5"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-co4e45xgmf5a.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T18:31:05.679942",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Youjo Senki 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/116"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3643149"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/fp5yq2nz"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599379"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4300042"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-1fwj83ptbld2.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ofnrdxl4gi2n.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/soloonesee/video/embed/5/58"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4915111"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-17opd4koi3fe.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-n1fzcxkouuov.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/enes.mert.97/video/embed/_myvideo/492"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2844637"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/djte48gf"
+        },
+        {
+          "fansub_id": 293,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1iIFRJBUoe_7QQIN2HjRCrp471yruH5nm/preview"
+        },
+        {
+          "fansub_id": 293,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/8155140694550249497"
+        },
+        {
+          "fansub_id": 293,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4773816"
+        },
+        {
+          "fansub_id": 293,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/sddzyix1o9oh"
+        },
+        {
+          "fansub_id": 293,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/3afooatq"
+        },
+        {
+          "fansub_id": 293,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-kovh92a3qrik.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/film420/video/embed/_myvideo/34"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4915113"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-k7c093i0e59a.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ieh6kh8x"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-oeeg3c919d91.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 115.926,
+          "end": 205.926
+        },
+        "ed": {
+          "start": 1281.4,
+          "end": 1371.4
+        }
+      },
+      "added_date": "2026-07-30T18:31:05.679942",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Youjo Senki 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/117"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3643156"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/qjw6ppzt"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599380"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4300043"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-sgghdlbahoge.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/soloonesee/video/embed/5/59"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2992397"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4915116"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-bk17u7jz0xnu.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-e3irx6uycka7.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/enes.mert.97/video/embed/_myvideo/546"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2853152"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/oglbl0dr"
+        },
+        {
+          "fansub_id": 293,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1YSJD3-ohBFkJto3Pyg8xCC8zbFa2KCPN/preview"
+        },
+        {
+          "fansub_id": 293,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/8155140694550249503"
+        },
+        {
+          "fansub_id": 293,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4783089"
+        },
+        {
+          "fansub_id": 293,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/6zzr8fwsf5lw"
+        },
+        {
+          "fansub_id": 293,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/wc09ymjj"
+        },
+        {
+          "fansub_id": 293,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-gbos327mw9sf.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/ynssr/video/embed/_myvideo/1"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4915117"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/owwektmv"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-6vbwj7plg2er.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 118.731,
+          "end": 208.731
+        },
+        "ed": {
+          "start": 1276.733,
+          "end": 1366.733
+        }
+      },
+      "added_date": "2026-07-30T18:31:05.679942",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Youjo Senki 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/118"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3643163"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/0wd02rvq"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599381"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4300044"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-uws5je2hpm54.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/soloonesee/video/embed/5/60"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4915127"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xgw4no1x7ymz.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-7wl3b5bkj9y7.html"
+        },
+        {
+          "fansub_id": 293,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1YOurCb1xmObBVUOouNmSYU8v8gM3R9ej/preview"
+        },
+        {
+          "fansub_id": 293,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/8155140694550249513"
+        },
+        {
+          "fansub_id": 293,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4802249"
+        },
+        {
+          "fansub_id": 293,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/t7wkohc65cb5"
+        },
+        {
+          "fansub_id": 293,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/26yj4lq1"
+        },
+        {
+          "fansub_id": 293,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ol8c6nsogi4b.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/ameleahmet/video/embed/_myvideo/35"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2857084"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4915128"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vryexenuwuog.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-1dtec6y81evn.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 135.581,
+          "end": 225.581
+        },
+        "ed": {
+          "start": 1301.005,
+          "end": 1391.005
+        }
+      },
+      "added_date": "2026-07-30T18:31:05.679942",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Youjo Senki 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/119"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3643168"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/40wu2u5x"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599382"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4300045"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-w6s4ytnycole.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-9db3sdvyn9x9.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/soloonesee/video/embed/5/61"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4915130"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/3w59r4q7"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-hny08lu90iqv.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/aysupload/video/embed/_myvideo/1"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4915134"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-9r2zrcmuwtyd.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/vnequ6c8"
+        },
+        {
+          "fansub_id": 108,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-dz1u4aqthwtr.html"
+        },
+        {
+          "fansub_id": 293,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1NfAavMkh1IF12V1UfzlnzskEIQQq7lfD/preview"
+        },
+        {
+          "fansub_id": 293,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/8155140694550249514"
+        },
+        {
+          "fansub_id": 293,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4808992"
+        },
+        {
+          "fansub_id": 293,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/lhsdxg6f1jth"
+        },
+        {
+          "fansub_id": 293,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/dqoiq1f2"
+        },
+        {
+          "fansub_id": 293,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-a4sijnjmohm2.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4915144"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/rl461z9r"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-m85a3m4q8kqi.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 78.273,
+          "end": 168.273
+        },
+        "ed": {
+          "start": 1244.652,
+          "end": 1334.652
+        }
+      },
+      "added_date": "2026-07-30T18:31:05.679942",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Youjo Senki 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/120"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3643172"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/0utdip5n"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599383"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4300046"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-dpa0v8ihfumt.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ame5ioc6xf2d.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/soloonesee/video/embed/5/64"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4915150"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-udy670wtpzvi.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/2mq8umm7"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-vnpyt2v8pi47.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/aysupload/video/embed/_myvideo/16"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4915156"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-1gqo1q0qj4cu.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/3rkxjhph"
+        },
+        {
+          "fansub_id": 108,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-o1hwgqc3wu98.html"
+        },
+        {
+          "fansub_id": 293,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1sTNszTQeeSp3RS5cCCFw9OanrAlyPrN7/preview"
+        },
+        {
+          "fansub_id": 293,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/8155140694550249517"
+        },
+        {
+          "fansub_id": 293,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835648"
+        },
+        {
+          "fansub_id": 293,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/9lpeffm5ae83"
+        },
+        {
+          "fansub_id": 293,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-8zpbmyns0ku8.html"
+        },
+        {
+          "fansub_id": 293,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/sb471npm"
+        },
+        {
+          "fansub_id": 293,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-f6tn9ry3glgu.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/yunusemresuser/video/embed/_myvideo/334"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4915167"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-qeavut406v2i.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/obu8qidb"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-gfmssxcqz8fo.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 206.076,
+          "end": 296.076
+        },
+        "ed": {
+          "start": 1355.275,
+          "end": 1395
+        }
+      },
+      "added_date": "2026-07-30T18:31:05.679942",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Youjo Senki 12. Bölüm Final",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/121"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3643177"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/rhsps9k1"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599384"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4300047"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-gfab3x73taud.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/soloonesee/video/embed/5/63"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2992601"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4915169"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-m5vrr85b40si.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/pqov2fqx"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-18sm00d02mzx.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/enes.mert.97/video/embed/_myvideo/802"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2874828"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/5w50hcuc"
+        },
+        {
+          "fansub_id": 293,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/155FbKaELk07NvR45SzoeZuV5YdzPwGCC/preview"
+        },
+        {
+          "fansub_id": 293,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/8155140694550249519"
+        },
+        {
+          "fansub_id": 293,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4852982"
+        },
+        {
+          "fansub_id": 293,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/7itirpp3i66f"
+        },
+        {
+          "fansub_id": 293,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-18529ipllkds.html"
+        },
+        {
+          "fansub_id": 293,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/u37zqe2b"
+        },
+        {
+          "fansub_id": 293,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-m11slawo8orq.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/ameleahmet2/video/embed/_myvideo/5"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4915170"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2874839"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-j4dmtim25evy.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/b68nnty1"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-trid2qodj3g2.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 1140,
+          "end": 1228
+        },
+        "ed": {
+          "start": 1165.482,
+          "end": 1255.482
+        }
+      },
+      "added_date": "2026-07-30T18:31:05.679942",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

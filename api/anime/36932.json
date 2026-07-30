@@ -1,0 +1,106 @@
+{
+  "turkanime": {
+    "isim": "Evil or Live Recap",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "9. ve 10. bölüm arasında yayınlanan özet bölümüdür.",
+    "slug": "evil-or-live-recap"
+  },
+  "jikan": {
+    "mal_id": 36932,
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/89413.jpg",
+    "trailer_id": null,
+    "title": "Evil or Live Recap",
+    "title_english": null,
+    "type": "TV Special",
+    "source": "Web manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2017-12-13T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 5.18,
+    "popularity": 9813,
+    "synopsis": "Recap episode aired between episodes 9 and 10.",
+    "genres": [
+      41
+    ],
+    "themes": [
+      58,
+      40,
+      23,
+      76
+    ],
+    "demographics": [],
+    "studios": [
+      1325
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entries": [
+          36245
+        ]
+      }
+    ]
+  },
+  "anilist": null,
+  "episodes": [
+    {
+      "turkanime_title": "Evil or Live Recap Special",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 36,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1eaqfOkTD3Qkb_THDAPz74_u__ceMS8Y6/preview"
+        },
+        {
+          "fansub_id": 36,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1FFrLnqxEFT-ButVTxXpHA9pzE2rRHBqm/preview"
+        },
+        {
+          "fansub_id": 36,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/origami.subs/video/embed/_myvideo/11"
+        },
+        {
+          "fansub_id": 36,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271193592"
+        },
+        {
+          "fansub_id": 36,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4492636"
+        },
+        {
+          "fansub_id": 36,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/zw5ib0l2"
+        },
+        {
+          "fansub_id": 36,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/yocwv4s5"
+        },
+        {
+          "fansub_id": 36,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-jl9g6bk7guwb.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T00:31:09.869228",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

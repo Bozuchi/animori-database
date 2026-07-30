@@ -1,0 +1,640 @@
+{
+  "turkanime": {
+    "isim": "Ketsuekigata-kun!",
+    "puan": "0.00",
+    "bolum_durumu": "12/12",
+    "ozet": "Anime, insan biçimi kazanmış kan gruplarını konu almaktadır.",
+    "slug": "ketsuekigata-kun"
+  },
+  "jikan": {
+    "mal_id": 17731,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1741/91386.jpg",
+    "trailer_id": null,
+    "title": "Ketsuekigata-kun!",
+    "title_english": null,
+    "type": "TV",
+    "source": "Web manga",
+    "status": "Finished Airing",
+    "year": 2013,
+    "season": "spring",
+    "airing": false,
+    "aired": {
+      "from": "2013-04-07T00:00:00+00:00",
+      "to": "2013-06-23T00:00:00+00:00"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.48,
+    "popularity": 6809,
+    "synopsis": "Are all A Types kind yet indecisive? Does being a B Type imply the opposite? Are O Types more passionate and childish than others? How would one even get along with AB Types? Ketsuekigata-kun! explores Japanese and Korean cultural stereotypes associated with blood types in romantic and leisurely situations.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      4
+    ],
+    "themes": [
+      51
+    ],
+    "demographics": [],
+    "studios": [
+      91,
+      1271
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          28207
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          151610
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entries": [
+          19297
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 17731,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/17731-wVGPMJyK4BIa.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Ketsuekigata-kun! 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9173325596158071530"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1739010"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-63oi54mmipjr.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/165vIyELTDpNrckqA2JCxPIuW-RLiy1UZ/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359663540"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/1199/1200.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4614137"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-cym8zueclb7t.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-mfyutp3ahymm.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T02:53:10.117000",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ketsuekigata-kun! 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9173325596158071531"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1739011"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5dun4xrf6512.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1RSc09prRFSVMfnj-TzfUjRS2xEnj6jPI/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359663541"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/1199/1206.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4614141"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-hyu56qjm1oqf.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-h9gsl2s9bbhe.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T02:53:10.117000",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ketsuekigata-kun! 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9173325596158071532"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1739012"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-nrk722t4xizu.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/1199/1934.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ayu8a6utzlxi.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-wfh4gtv9vgfr.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T02:53:10.117000",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ketsuekigata-kun! 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9173325596158071533"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1739014"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-3bdura40yq8t.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/1199/1935.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-svzg9rlusg68.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-yzddeg6rpdos.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T02:53:10.117000",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ketsuekigata-kun! 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9173325596158071534"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1739015"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-3ngfks745sfa.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359667233"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4657631"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-jepmo8ryy573.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-se6h69szf1fl.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T02:53:10.117000",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ketsuekigata-kun! 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1awFI6-UvdrGVjO3TGhnoN6ejm8Jbk3GC/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9173325596158071535"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1739016"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4512827"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-qory3cuhinfk.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-n286m8jsshn0.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-c4nyvrw7ttgr.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T02:53:10.117000",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ketsuekigata-kun! 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1g4ICJ1ZctOKSrldvBiBxeLrnlX83WuS6/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9173325596158071536"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4523208"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1739017"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-h40k2npngs32.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vva4qy1iqw8c.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-k0h8mc6idske.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T02:53:10.117000",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ketsuekigata-kun! 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1lqCacrh4wQFYVcj2tB0OpqNvGOOvSxf4/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9173325596158071537"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4523209"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1739018"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-0sx2uxdb6ztv.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xwodupt5xjgj.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-tjfhnmkxj1dx.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T02:53:10.117000",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ketsuekigata-kun! 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1-NdjlbR5fnCILvIqgKq1nO29oTojwpNk/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9173325596158071572"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1739019"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4523211"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-uqole9nt1gy3.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-i5z5262j2dbx.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-xl15om9ak89x.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T02:53:10.117000",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ketsuekigata-kun! 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ZLmv3bWffn7GC8zG9whEpg5Xl3_GzHAT/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9173325596158071574"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359663542"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1739021"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4614143"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2kqnzcu58rvp.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-kn8zbyzrcz2c.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-lk8ksono8ijb.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T02:53:10.117000",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ketsuekigata-kun! 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1zSkDmAB5xbWaVdNem8wjtZivIyNA2qps/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9173325596158071573"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359663543"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1739022"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4614145"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-8ertmw141edg.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5d5sshnuhij8.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-8be1bs4tai76.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T02:53:10.117000",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ketsuekigata-kun! 12. Bölüm Final",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/18bsBzTq5j_9es90hVZ_I11H79PXk019D/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9173325596158071575"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1739023"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4523213"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-t1m7o6zjm5o8.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-upvd8tsea9v3.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-uey044xnwh4t.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T02:53:10.117000",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

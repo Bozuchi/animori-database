@@ -1,0 +1,110 @@
+{
+  "turkanime": {
+    "isim": "Sekirei: Hajimete no Otsukai",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Sekirei serisine ait special bölümdür.",
+    "slug": "sekirei-hajimete-no-otsukai"
+  },
+  "jikan": {
+    "mal_id": 5279,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1369/118812.jpg",
+    "trailer_id": null,
+    "title": "Sekirei: Hajimete no Otsukai",
+    "title_english": null,
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2009-03-25T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "10 min",
+    "rating": "R+ - Mild Nudity",
+    "score": 7.02,
+    "popularity": 3265,
+    "synopsis": "\"Kusano's first errand\" - A ten minute OVA that came along with the 6th vol. limited edition of Sekirei. Kusano finally tires of nobody admitting her as Sahashi's potential wife, so she insists on joining Musubi and Tsukiumi on their shopping race to show her abilities. An iffy day ensues.",
+    "genres": [
+      4,
+      22
+    ],
+    "themes": [
+      35
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      35
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          873
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          4063
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 5279,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Sekirei Special: Hajimete no Otsukai",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 39,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuroupload00/video/embed/_myvideo/904"
+        },
+        {
+          "fansub_id": 39,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4394990"
+        },
+        {
+          "fansub_id": 39,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-pkkabptovkc3.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/sweetparade/_myvideo/508.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4088291"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2760784"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/mr7gv0ns"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T07:38:11.889180",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

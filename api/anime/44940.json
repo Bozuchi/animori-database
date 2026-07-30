@@ -1,0 +1,925 @@
+{
+  "turkanime": {
+    "isim": "World Trigger 3rd Season",
+    "puan": "9.33",
+    "bolum_durumu": "14/14",
+    "ozet": "World Trigger animesinin üçüncü sezonudur.",
+    "slug": "world-trigger-3rd-season"
+  },
+  "jikan": {
+    "mal_id": 44940,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1617/117474.jpg",
+    "trailer_id": "zps4vghwaVk",
+    "title": "World Trigger 3rd Season",
+    "title_english": null,
+    "type": "TV",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": 2021,
+    "season": "fall",
+    "airing": false,
+    "aired": {
+      "from": "2021-10-10T00:00:00+00:00",
+      "to": "2022-01-23T00:00:00+00:00"
+    },
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.24,
+    "popularity": 1868,
+    "synopsis": "At the Border Defense Agency's headquarters, the B-Rank Wars are underway as each team fights intensely to secure a spot in the upcoming Away Mission. Though Osamu Mikumo and the rest of Tamakoma-2 have pulled through thus far, the final rounds will require them to push far beyond the limits of their current abilities. Taking in a talented new member, the squad begins to train and develop new strategies, but, amid these efforts, the team is shaken by a heated dispute—one that could jeopardize their ticket to the Neighbor's dimension.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      1,
+      24
+    ],
+    "themes": [],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      18
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          40907
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          48151
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 127400,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/127400-IuoRgRQlO0UB.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "World Trigger 3rd Season 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 12,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1fhseyFq3nYpi_SUMSIQpZWEnFCY3voyn/preview"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461600883"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4612028"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-azwce5fcsy2u.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-23dj631pzwcd.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1RKpdIjMMh4qNrCq_u258t819dxUYMGou/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669165180"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/vp7q4hn6"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-qqiw7j4gv6r9.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1309,
+          "end": 1400
+        }
+      },
+      "added_date": "2026-07-30T16:41:08.649959",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "World Trigger 3rd Season 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 12,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/14pZYRcrCfScBBrrnO0LdDhSxN9gnlAAo/preview"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461600884"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4612029"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-clu02oku35lg.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-0zklw8sf6rpr.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/17_uObddCLVsfGCIyCOx68Z4uyYPs2jqw/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669165183"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/56462net"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-fdmafpvo2q37.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 68.23,
+          "end": 158.23
+        },
+        "ed": {
+          "start": 1309.517,
+          "end": 1401
+        }
+      },
+      "added_date": "2026-07-30T16:41:08.649959",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "World Trigger 3rd Season 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 12,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Aqo_3353UmxJu6IBfFZ_stmnIE7mG5Yb/preview"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461600885"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4612030"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-4yxtejtgkb0n.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-vukj4yaipvth.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1IV2aTRsUFCr0Xl0BBu7OIjJcsWhrjFyO/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669165186"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ppyvse3a"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-iw6gfetf46ew.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 135.132,
+          "end": 225.132
+        },
+        "ed": {
+          "start": 1309.482,
+          "end": 1401
+        }
+      },
+      "added_date": "2026-07-30T16:41:08.649959",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "World Trigger 3rd Season 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 12,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1iyO3vKqQprPOn08GXd0xIE4C6tWohiv-/preview"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461600886"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4612031"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2oy6iammlfjb.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-o2cvtz13m0gt.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/19OqHzt-RkH0-Y0plUZn28af_NCyt78fS/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669165189"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/869ugb4q"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-x0tbanuyge32.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 57.991,
+          "end": 147.991
+        },
+        "ed": {
+          "start": 1309.256,
+          "end": 1401
+        }
+      },
+      "added_date": "2026-07-30T16:41:08.649959",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "World Trigger 3rd Season 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 12,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1-od51PoNMylFGZu_TLA3r_0Xku8_Et_X/preview"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461600887"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4612032"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-w1kwbs7jr5ve.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-rvdroxxbj6p2.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1-be12YRFemK8r5f50WHbIU8JIiakIjhE/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669165193"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/vyo3qscj"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 99.544,
+          "end": 189.544
+        },
+        "ed": {
+          "start": 1309.49,
+          "end": 1401
+        }
+      },
+      "added_date": "2026-07-30T16:41:08.649959",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "World Trigger 3rd Season 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 12,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/108kp-oqIOY3iLE1njj5wjOx3q77DhJhO/preview"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461600888"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4612033"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-gd7k5tja3b5v.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ai1d0cj3mybh.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1bAU83MRakI3NCIu0MuEzn8V7-PvvOQIY/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669165195"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/p3tq37g0"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-qftwcwz2ewb2.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 60.388,
+          "end": 150.388
+        },
+        "ed": {
+          "start": 1309.508,
+          "end": 1401
+        }
+      },
+      "added_date": "2026-07-30T16:41:08.649959",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "World Trigger 3rd Season 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 12,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1cTbZASv0U_lf9ZpWYOmetFka2_SWELEy/preview"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461600889"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4612034"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ii09081dqxnm.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-8drcq8mw1xqd.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1v52_7vFLS7Cc3KbofK1EqkCONuiAATWr/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669165882"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/x3y6hlal"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-dq0gj8p1gvl7.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 85.889,
+          "end": 175.889
+        },
+        "ed": {
+          "start": 1309.457,
+          "end": 1401
+        }
+      },
+      "added_date": "2026-07-30T16:41:08.649959",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "World Trigger 3rd Season 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 12,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/10TnA0W19-8B4Rcud-CbhGNjj_8gCsc8-/preview"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461600890"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4612035"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-reu6dwlcqk80.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-wqbbvzij3bki.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1HbNDB6xrXgGKmDc0x-5Rjp_mlqnEP1jQ/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669166126"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-d908vojb2czf.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 65.85,
+          "end": 156.18
+        },
+        "ed": {
+          "start": 1332,
+          "end": 1399
+        }
+      },
+      "added_date": "2026-07-30T16:41:08.649959",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "World Trigger 3rd Season 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 12,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1cML0rdJ6Wop-ZNUK_Ixm_1TTlXhu959Y/preview"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461600895"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4612036"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-qm5zzhcgkqwe.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-bat98ai65uba.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1vz3y3ny-e43qY1jNVtwiwR9ZIXvuzpM5/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669166128"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-1qa87vgpq598.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 126.033,
+          "end": 216.033
+        },
+        "ed": {
+          "start": 1309.46,
+          "end": 1401
+        }
+      },
+      "added_date": "2026-07-30T16:41:08.649959",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "World Trigger 3rd Season 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 12,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1e3ifcWCfwUQ6Gie7nvmiwB9teX9KM187/preview"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461600892"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4612037"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-80pq034ew4dh.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ia708z8l3yst.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1EMKRRL5c-M1r0ONa8MjManUUa11m6odG/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669166131"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/xg9yax1m"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-8zpfjk2f45aw.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 105.524,
+          "end": 195.524
+        }
+      },
+      "added_date": "2026-07-30T16:41:08.649959",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "World Trigger 3rd Season 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 12,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ddrLr50MWs02aQBn4m0l9bq8KmeYVlYM/preview"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461600893"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4612039"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-zyquawo1bv6r.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-wq8d6lobgfn1.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1udo5uBSC1pjaziOw73JYagp6M7ZzMtLf/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669166134"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/cqo8zuho"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-z7g0ud713l5j.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 64.882,
+          "end": 154.882
+        },
+        "ed": {
+          "start": 1208,
+          "end": 1295
+        }
+      },
+      "added_date": "2026-07-30T16:41:08.649959",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "World Trigger 3rd Season 12. Bölüm",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 12,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1c3uf-1RhPZphhyZ2PQgs7T4oeh-tseP4/preview"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461600894"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-y9iazpty1cq1.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-47nl5uk7z7d6.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1kI471CnV3sGq_mrN4y1mQmPEtrQbGm1E/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669166136"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/4ydtm4kr"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-z1z5zzpovkga.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 75.889,
+          "end": 165.889
+        },
+        "ed": {
+          "start": 1281,
+          "end": 1369
+        }
+      },
+      "added_date": "2026-07-30T16:41:08.649959",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "World Trigger 3rd Season 13. Bölüm",
+      "episode_number": 13,
+      "videos": [
+        {
+          "fansub_id": 12,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1QAdkvT2swfq3-PM6NgqccBCi3y4om4L2/preview"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4612041"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-1uif0vf8mnv6.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-y2cj62a6dlek.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1MtH4zq0uwZ9CchVQz-RWgyVnvhZ3RnZH/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669166191"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/y2dxuwtk"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-7ts6mu4in1yf.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 68.963,
+          "end": 158.963
+        },
+        "ed": {
+          "start": 1255,
+          "end": 1345
+        }
+      },
+      "added_date": "2026-07-30T16:41:08.649959",
+      "jikan_mal_id": 13,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "World Trigger 3rd Season 14. Bölüm Final",
+      "episode_number": 14,
+      "videos": [
+        {
+          "fansub_id": 12,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1JtegAVcxpxaIb74HB0wlqK2GawqwCcN7/preview"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4612042"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-p89t7sq0e6vb.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-kw3k04w20b0r.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/16QrQmJeIMUcO1dtBtCrI2MJmT6z8Iy3s/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669166196"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-krm5n74kxhta.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1305,
+          "end": 1380
+        }
+      },
+      "added_date": "2026-07-30T16:41:08.649959",
+      "jikan_mal_id": 14,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

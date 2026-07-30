@@ -1,0 +1,500 @@
+{
+  "turkanime": {
+    "isim": "Yuru Camp△ Season 3",
+    "puan": "0.00",
+    "bolum_durumu": "12/12",
+    "ozet": "Yuru Camp animesinin 3. sezonudur.",
+    "slug": "yuru-camp-season-3"
+  },
+  "jikan": {
+    "mal_id": 53410,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1178/142710.jpg",
+    "trailer_id": "fx5tfPNvubo",
+    "title": "Yuru Camp△ Season 3",
+    "title_english": "Laid-Back Camp Season 3",
+    "type": "TV",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": 2024,
+    "season": "spring",
+    "airing": false,
+    "aired": {
+      "from": "2024-04-04T00:00:00+00:00",
+      "to": "2024-06-20T00:00:00+00:00"
+    },
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.04,
+    "popularity": 2348,
+    "synopsis": "Within the narrow walls of the Outdoor Activities Club room, the few but lively members carry on the camping spirit as they have fun with DIY club experiments. Exciting experiences such as these have brought Nadeshiko Kagamihara deep into the world of camping, making her want to once again go on a solo trip.\n\nHowever, other plans come first, as Ayano Toki and Rin Shima invite Nadeshiko to camp near Ooi River. Eager to go on their first journey together, the girls set off to forge precious memories that will stick with their hearts for years to come.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      36
+    ],
+    "themes": [
+      52,
+      63
+    ],
+    "demographics": [],
+    "studios": [
+      441
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          38474
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          60267
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          94376
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entries": [
+          58855
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 155908,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/155908-K8ZgYWWJj3P4.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Yuru Camp Season 3 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 112,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/10lQ7x92orMTuek4-Zp6VVK3BursjyxHd/preview"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5493641"
+        },
+        {
+          "fansub_id": 112,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-p71nn0gr2lbu.html"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/k27mvmq4"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 5.721,
+          "end": 95.721
+        },
+        "ed": {
+          "start": 1299,
+          "end": 1388
+        }
+      },
+      "added_date": "2026-07-30T20:15:14.388968",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Yuru Camp Season 3 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 112,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1oxVDQCPgPPRGHXFGk50onlyWh4Bki2xU/preview"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5502762"
+        },
+        {
+          "fansub_id": 112,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/uhs6x4bm5lqy"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/7eo9499o"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T20:15:14.388968",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Yuru Camp Season 3 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 112,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Wacdu5nT3VsDQqBOeMndY_BYApbbqORp/preview"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5510986"
+        },
+        {
+          "fansub_id": 112,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/ipmov2trn9dy"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/q1we3rb9"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T20:15:14.388968",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Yuru Camp Season 3 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 112,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/11dlEQeQZEBjYW2Pq-Zu6APfgx2MKK36C/preview"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5518469"
+        },
+        {
+          "fansub_id": 112,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/3rurd82wfc8p"
+        },
+        {
+          "fansub_id": 112,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/rvsc22fyy884"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/mpt7zohz"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T20:15:14.388968",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Yuru Camp Season 3 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 112,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1C0CL7wN5YsJ91XqFN0TIftXNw7o4fyaA/preview"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5526486"
+        },
+        {
+          "fansub_id": 112,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/37znqhbb5u9r"
+        },
+        {
+          "fansub_id": 112,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/rrsic7w3t4ch"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/2n9ao6sh"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T20:15:14.388968",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Yuru Camp Season 3 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 112,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1gaHg9vkDSOZw-ykVF13IjWNIm_Az89tm/preview"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5534640"
+        },
+        {
+          "fansub_id": 112,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/km2x14uuvz0d"
+        },
+        {
+          "fansub_id": 112,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/kzqyszdgelak"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/kvibpuv3"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1267,
+          "end": 1351
+        }
+      },
+      "added_date": "2026-07-30T20:15:14.388968",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Yuru Camp Season 3 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 112,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1MP9EtQXg8TCKE74F9C8Fwzf1Hg7d-HUB/preview"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5541069"
+        },
+        {
+          "fansub_id": 112,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/e6sm1vv3uukm"
+        },
+        {
+          "fansub_id": 112,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/louowslwb2se"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/d51w50y5"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1297,
+          "end": 1395
+        }
+      },
+      "added_date": "2026-07-30T20:15:14.388968",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Yuru Camp Season 3 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 112,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1i_Plrks2zCmBicLGY5zQzPstJv5qRELM/preview"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5553653"
+        },
+        {
+          "fansub_id": 112,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/54b93t6gkk3q"
+        },
+        {
+          "fansub_id": 112,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-k50ksqin8qug.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1239,
+          "end": 1326
+        }
+      },
+      "added_date": "2026-07-30T20:15:14.388968",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Yuru Camp Season 3 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 112,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1_aT_OhdEVfbXhhpcdeWwI6etSvVsPk__/preview"
+        },
+        {
+          "fansub_id": 112,
+          "player": "MAIL",
+          "url": "https://my.mail.ru//mail/aslikagan6/video/embed/_myvideo/6302"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5594672"
+        },
+        {
+          "fansub_id": 112,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/hhxkjeej1g8h"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/on7u76cw"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1316,
+          "end": 1412
+        }
+      },
+      "added_date": "2026-07-30T20:15:14.388968",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Yuru Camp Season 3 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 112,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/18Br32GqIywYQ1F8czjCvZuEueoEHIVr4/preview"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5596421"
+        },
+        {
+          "fansub_id": 112,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2489a4fzp02m.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T20:15:14.388968",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Yuru Camp Season 3 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 112,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1-d9zfYjA7L5QffWzosOZcuYG4Iss8N22/preview"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5596432"
+        },
+        {
+          "fansub_id": 112,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/5d4d6rayi4c4"
+        },
+        {
+          "fansub_id": 112,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5qz186rccyjo.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T20:15:14.388968",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Yuru Camp Season 3 12. Bölüm Final",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 112,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1us0O8HXnVAY5H-bmzpZl1rypWRx8jgeC/preview"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5598013"
+        },
+        {
+          "fansub_id": 112,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/17jk5tyjynpr"
+        },
+        {
+          "fansub_id": 112,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-iyoktqyywppe.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1225,
+          "end": 1306
+        }
+      },
+      "added_date": "2026-07-30T20:15:14.388968",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

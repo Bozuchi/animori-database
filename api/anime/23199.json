@@ -1,0 +1,938 @@
+{
+  "turkanime": {
+    "isim": "Durarara!!x2 Shou",
+    "puan": "8.87",
+    "bolum_durumu": "12/12",
+    "ozet": "Durarara!! nın ikinci sezonu olarak çıkacak ilk kısmıdır. Shou-Ten-Ketsu üçlüsünün ilkidir. \nBu sezon, Durarara!! ilk sezonunun üstünden iki yıl geçtikten sonraki olayları anlatıyor. \nİkinci sezonun Shou kısmı, Nisan 2014'te yayınlanan LightNovel'ından uyarlanacak. Serinin Sloganı ise: İkebukuro'ya geri dönüyorlar!\nSonraki kısımlar içinse bonus bir LightNovel bölümüne yeşil ışık yakıldı.\nAnimenin yapımcı stüdyoluğu bu sezon BrainsBase'ten el değiştirip Studio Shuka'ya geçti. \n( Yeni bir stüdyo olan Stduio Shuka, Baccano'nun da ikinci sezon projesini üstlenecek.)",
+    "slug": "durarara-x2-shou"
+  },
+  "jikan": {
+    "mal_id": 23199,
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/67743.jpg",
+    "trailer_id": "f5yXNsIPw5U",
+    "title": "Durarara!!x2 Shou",
+    "title_english": "Durarara!! x2 Shou",
+    "type": "TV",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": 2015,
+    "season": "winter",
+    "airing": false,
+    "aired": {
+      "from": "2015-01-10T00:00:00+00:00",
+      "to": "2015-03-28T00:00:00+00:00"
+    },
+    "duration": "24 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.97,
+    "popularity": 510,
+    "synopsis": "Although peace has finally returned to Ikebukuro, many of the odd occurrences have become common sights around the city. One such case is the police's constant pursuit of Celty Sturluson, the Headless Rider. Moreover, someone has placed a large bounty on her, igniting the motivation of gang members all over to begin searching for the supernatural creature as well. Meanwhile, Mikado Ryuugamine is approached by Aoba Kuronuma, a mysterious underclassman with unknown intentions, who reveals that he knows Mikado's true identity.\n\nBut Ikebukuro's state of tranquility is short-lived, as a new threat appears in the form of a murderer who goes by the pseudonym \"Hollywood,\" known for wearing a different mask each time they commit a crime. As the various events taking place prove to be connected yet again, Ikebukuro is thrown into another conflict that threatens to engulf the entire city in chaos.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      1,
+      7,
+      37
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      1119
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          6746
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          27831
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          85707,
+          16816
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entries": [
+          30191
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 20652,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20652-sCk2BUWiRMLc.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Durarara!!x2 Shou 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 99,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1650408"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/vub9upwy"
+        },
+        {
+          "fansub_id": 4,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1717118"
+        },
+        {
+          "fansub_id": 25,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1650362"
+        },
+        {
+          "fansub_id": 159,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1650318"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1dLu-PHzzPSgz8F-1w0YIgC4XFN1FM82N/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/dondurma90/video/embed/_myvideo/40"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669165478"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3932424"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/fx46ugsd"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-67pqg7flncyh.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 21,
+          "end": 132
+        },
+        "ed": {
+          "start": 1334,
+          "end": 1426
+        }
+      },
+      "added_date": "2026-07-24T23:46:37.560576",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Durarara!!x2 Shou 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 99,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1687813"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1688978"
+        },
+        {
+          "fansub_id": 4,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1718161"
+        },
+        {
+          "fansub_id": 159,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1687662"
+        },
+        {
+          "fansub_id": 223,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/inbox/nuos/_myvideo/181.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1PWY4awU6-KRqHHl-X0Efg_VT6_D91S2c/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669165479"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/dondurma90/video/embed/_myvideo/41"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3932429"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/jh09nxv4"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-y38alzie7nfp.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 18.641,
+          "end": 108.286
+        },
+        "ed": {
+          "start": 1336,
+          "end": 1431
+        }
+      },
+      "added_date": "2026-07-24T23:46:37.560576",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Durarara!!x2 Shou 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1695554"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/sn377rq7"
+        },
+        {
+          "fansub_id": 4,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1726486"
+        },
+        {
+          "fansub_id": 223,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/inbox/nuos/_myvideo/183.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/omer.akkaya18/_myvideo/38.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1JOheB3Hz1Szfbn62XuBbhOYnTmBEW5RY/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669165480"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/dondurma90/video/embed/_myvideo/42"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3932434"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/y7rc19um"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/aasjb68x"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-1gv0kfx6mfcq.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T23:46:37.560576",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Durarara!!x2 Shou 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1703865"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/grvk9nhc"
+        },
+        {
+          "fansub_id": 4,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1741928"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/15rNVYfIRIBRn5IhMKMgklRRQmSvPQ06Z/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/dondurma90/video/embed/_myvideo/43"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669165481"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3932439"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/63qc4b0z"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ccr7gigh560a.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 0,
+          "end": 109
+        },
+        "ed": {
+          "start": 1335,
+          "end": 1432
+        }
+      },
+      "added_date": "2026-07-24T23:46:37.560576",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Durarara!!x2 Shou 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 46,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1d-Y8o0u2ReaMgNVDN2tn8RI2iT03q6kO/preview"
+        },
+        {
+          "fansub_id": 46,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985852992"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4444858"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/mokmln79"
+        },
+        {
+          "fansub_id": 4,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1760496"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Vf2uhrJe-K0CuL919TARQTrZ32gSwmeO/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/vk/262414138/video/embed/_myvideo/550"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669165482"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3948037"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/wvwaj58y"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-mynvcli2namx.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 0,
+          "end": 109
+        },
+        "ed": {
+          "start": 1334,
+          "end": 1424
+        }
+      },
+      "added_date": "2026-07-24T23:46:37.560576",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Durarara!!x2 Shou 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1718491"
+        },
+        {
+          "fansub_id": 4,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1760497"
+        },
+        {
+          "fansub_id": 159,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1717766"
+        },
+        {
+          "fansub_id": 223,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/inbox/nuos/_myvideo/191.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/omer.akkaya18/_myvideo/33.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/12iRmUh0u4jE-9pbBRxd_vBHIz7lI3eqZ/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669165483"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/vk/262414138/video/embed/_myvideo/551"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3948039"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-k33lko85f26w.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 0,
+          "end": 109
+        },
+        "ed": {
+          "start": 1334,
+          "end": 1425
+        }
+      },
+      "added_date": "2026-07-24T23:46:37.560576",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Durarara!!x2 Shou 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1723117"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/nrqyzkai"
+        },
+        {
+          "fansub_id": 4,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1760502"
+        },
+        {
+          "fansub_id": 159,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1723356"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Axf996IQx8N9v-zeVp0ndSEsAYsq1YS6/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669165484"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/vk/262414138/video/embed/_myvideo/552"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3948131"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/0znwl7iz"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-zh8gotozqv2n.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T23:46:37.560576",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Durarara!!x2 Shou 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1727396"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/34kummkd"
+        },
+        {
+          "fansub_id": 4,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1793944"
+        },
+        {
+          "fansub_id": 159,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1727119"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/13G1zQHb0ME5wxoyuS7XSmMjHfjFtVDnj/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669165485"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/vk/262414138/video/embed/_myvideo/553"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3948139"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/vx60vkns"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-q374xx1cjcxv.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 0,
+          "end": 109
+        },
+        "ed": {
+          "start": 1334,
+          "end": 1424
+        }
+      },
+      "added_date": "2026-07-24T23:46:37.560576",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Durarara!!x2 Shou 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1739143"
+        },
+        {
+          "fansub_id": 4,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1793945"
+        },
+        {
+          "fansub_id": 159,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1739036"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/uploadpuzz7/_myvideo/3.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Uwj3AVjD17F7yh9IOWcGSfgqHh5AnuG-/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669165486"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/vk/262414138/video/embed/_myvideo/569"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/p4v414c9"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-sw3i6lytpcf7.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T23:46:37.560576",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Durarara!!x2 Shou 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1742934"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/3gf6lp3c"
+        },
+        {
+          "fansub_id": 4,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1pszaNYADjEExe-4AZoqnueYdkMKTgzgC/preview"
+        },
+        {
+          "fansub_id": 4,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140715128"
+        },
+        {
+          "fansub_id": 4,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1793949"
+        },
+        {
+          "fansub_id": 4,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4461751"
+        },
+        {
+          "fansub_id": 4,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xbfeai9vp6qh.html"
+        },
+        {
+          "fansub_id": 4,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/icbnbk63"
+        },
+        {
+          "fansub_id": 4,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-3yowqlak6pzd.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/uploadpuzz7/_myvideo/16.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1V7adzhfr5l8CHxtg1SyDKSO0SThw4CBV/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669165487"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/vk/262414138/video/embed/_myvideo/570"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/pu6w4f9q"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-6yjr7slb9f8u.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 0,
+          "end": 106
+        },
+        "ed": {
+          "start": 1328,
+          "end": 1423
+        }
+      },
+      "added_date": "2026-07-24T23:46:37.560576",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Durarara!!x2 Shou 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 46,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1EmS32hF3SM8bGVpiueRlMqK7u60m0EAH/preview"
+        },
+        {
+          "fansub_id": 46,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359657785"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1747726"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4451963"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/p1xj0gik"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/fstratit"
+        },
+        {
+          "fansub_id": 46,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-72kecymea9ww.html"
+        },
+        {
+          "fansub_id": 4,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1793954"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/uploadpuzz7/_myvideo/23.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1aByUSylLuqErs3zaH7g0iLFCduN12fHS/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/vk/262414138/video/embed/_myvideo/571"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669165488"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/jrq6rzek"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-rvfoc24xlb7f.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 0,
+          "end": 109
+        },
+        "ed": {
+          "start": 1334,
+          "end": 1424
+        }
+      },
+      "added_date": "2026-07-24T23:46:37.560576",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Durarara!!x2 Shou 12. Bölüm Final",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1754252"
+        },
+        {
+          "fansub_id": 4,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1794879"
+        },
+        {
+          "fansub_id": 159,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1753630"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/uploadpuzz7/_myvideo/30.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1rOa9LeUjsszIUH3DGqqbYV6SUE_1qSaw/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669165489"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/vk/262414138/video/embed/_myvideo/572"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/bjvk0yri"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ij58p2s40i89.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 0,
+          "end": 109
+        }
+      },
+      "added_date": "2026-07-24T23:46:37.560576",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

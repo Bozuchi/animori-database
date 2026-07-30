@@ -1,0 +1,169 @@
+{
+  "turkanime": {
+    "isim": "Golden Kamuy 2nd Season OVA",
+    "puan": "0.00",
+    "bolum_durumu": "3/3",
+    "ozet": "Golden Kamuy 2nd Season animesinin OVA bölümleridir.",
+    "slug": "golden-kamuy-2nd-season-ova"
+  },
+  "jikan": {
+    "mal_id": 38710,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1101/100258.jpg",
+    "trailer_id": "0lkXHKixiTs",
+    "title": "Golden Kamuy 2nd Season OVA",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2019-03-19T00:00:00+00:00",
+      "to": "2020-09-18T00:00:00+00:00"
+    },
+    "duration": "22 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.51,
+    "popularity": 4851,
+    "synopsis": "1. Koi wo Shita kara Datsugoku Suru Koto ni Shita/Kyoufu no Moudoku Dai Shitou! Hokkaido Ouchi ni Kyodai Hebi wa Sonzai Shita! (Love Made Me Escape from Prison/The Terrifying Battle of Deadly Poison! A Massive Snake Deep in the Hokkaido Wilderness!)\n2. Monster\n3. Shiton Doubutsuki",
+    "genres": [
+      1,
+      2
+    ],
+    "themes": [
+      50,
+      13,
+      38
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      1393
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          85968
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          37989
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 124756,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Golden Kamuy 2nd Season OVA 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1BeY5YyrPILKEkUgNar6kMIHyiy6E-jnS/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4703970"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2w7pyo1y9q43.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-2l3ts3ytrf8e.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1032,
+          "end": 1122
+        }
+      },
+      "added_date": "2026-07-26T00:21:37.073257",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Golden Kamuy 2nd Season OVA 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1YbOUg_cxXzy5Of5xn2JRHcZGTC82wzrk/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359667682"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4703973"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-zx8yfuq4mwir.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-465mdohn0t02.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T00:21:37.073257",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Golden Kamuy 2nd Season OVA 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1wlpPdhw-9nuvoV8JDbulhr3mup365Hh6/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4703974"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-is4uxybn13pp.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-lefpejv0d1h6.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T00:21:37.073257",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

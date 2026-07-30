@@ -1,0 +1,101 @@
+{
+  "turkanime": {
+    "isim": "Tsubasa Chronicle: Tori Kago no Kuni no Himegimi",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Tsubasa Chronicle serisine ait filmdir.",
+    "slug": "tsubasa-chronicle-tori-kago-no-kuni-no-himegimi"
+  },
+  "jikan": {
+    "mal_id": 807,
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/45953.jpg",
+    "trailer_id": null,
+    "title": "Tsubasa Chronicle: Torikago no Kuni no Himegimi",
+    "title_english": "Tsubasa RESERVoir CHRoNiCLE The Movie: The Princess in the Birdcage Kingdom",
+    "type": "Movie",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2005-08-20T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "35 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.3,
+    "popularity": 3733,
+    "synopsis": "Continuing their journey across numerous universes to collect Princess Sakura's lost feathers and restore her memories, Syaoran and his traveling companions arrive at the Country of Birdcages. As they traverse the strange country with lands contained within a giant birdcage, they happen upon a conspiracy by the current king to use the powers of the princess and her companion bird to take full control of the country. While aiding the princess, currently in hiding, to resist the king, they see signs that one of Sakura's feathers has made its way to this land.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      1,
+      2,
+      8,
+      10,
+      22
+    ],
+    "themes": [],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      10
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          9
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          177
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 807,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Tsubasa Chronicle Movie",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1gTXQ6xSJ6gbKV7XoTL3duTtjzVp8FjLj/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933015160"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/714.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2640583"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-y504fyt9u0iz.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T18:29:56.144586",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

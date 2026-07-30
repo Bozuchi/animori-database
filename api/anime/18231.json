@@ -1,0 +1,158 @@
+{
+  "turkanime": {
+    "isim": "Vanquished Queens Specials",
+    "puan": "0.00",
+    "bolum_durumu": "4/4",
+    "ozet": "Vanquished Queens dizisinin özel bölümleridir.",
+    "slug": "vanquished-queens-specials"
+  },
+  "jikan": {
+    "mal_id": 18231,
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/48913.jpg",
+    "trailer_id": null,
+    "title": "Vanquished Queens Specials",
+    "title_english": null,
+    "type": "Special",
+    "source": "Other",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2013-03-29T00:00:00+00:00",
+      "to": "2014-09-30T00:00:00+00:00"
+    },
+    "duration": "6 min per ep",
+    "rating": "R+ - Mild Nudity",
+    "score": 5.38,
+    "popularity": 7869,
+    "synopsis": "Specials included on the Vanquished Queens Blu-rays/DVDs.",
+    "genres": [
+      9
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      38,
+      346
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          16363
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 18231,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Vanquished Queens Specials 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 92,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1OOaAjU6eB1dvqo5JYEqMF9PHw38zzE95/preview"
+        },
+        {
+          "fansub_id": 92,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5580720"
+        },
+        {
+          "fansub_id": 92,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/24nkr7nm"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T15:10:30.119140",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Vanquished Queens Specials 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 92,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/10fdxR3hwwHnzW1FCCWjYZFPE7rMZF2cM/preview"
+        },
+        {
+          "fansub_id": 92,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5580747"
+        },
+        {
+          "fansub_id": 92,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/fzuu5mmr"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T15:10:30.119140",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Vanquished Queens Specials 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 92,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1hQoBPEcNlg3G5gBmSXSpSdMXrO-ZhpC4/preview"
+        },
+        {
+          "fansub_id": 92,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5580740"
+        },
+        {
+          "fansub_id": 92,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/p1ip95x1"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T15:10:30.119140",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Vanquished Queens Specials 4. Bölüm Final",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 92,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1eNMPyCULRej2L-sj3lp1oojGw_DtsIBn/preview"
+        },
+        {
+          "fansub_id": 92,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5580744"
+        },
+        {
+          "fansub_id": 92,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/w6pwy00g"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T15:10:30.119140",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

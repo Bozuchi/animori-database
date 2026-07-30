@@ -1,0 +1,82 @@
+{
+  "turkanime": {
+    "isim": "Parasite Dolls",
+    "puan": "0.00",
+    "bolum_durumu": "1/3",
+    "ozet": "Branch olarak bilinen gizli örgütü olan AD Polis teşkilatı, \"Boomer\" olarak bilinen insansı robotları içeren suçlar konusunda uzmanlaşmıştır. Michelson insanlarla robotlar arasında ince bir çizgi bulmuşken, Branch memuru Buzz partner olarak bir Boomer'la başa çıkmak zorundadır. Yavaşça yok olan dünyayı birlikte korumak için hizmet veriyorlar. Dünyada Bubblegum Crisis başlıyordu.",
+    "slug": "parasite-dolls"
+  },
+  "jikan": {
+    "mal_id": 1350,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1396/103207.jpg",
+    "trailer_id": "dY11InVb46k",
+    "title": "Parasite Dolls",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2003-05-22T00:00:00+00:00",
+      "to": "2003-07-24T00:00:00+00:00"
+    },
+    "duration": "30 min per ep",
+    "rating": "R+ - Mild Nudity",
+    "score": 6.6,
+    "popularity": 5092,
+    "synopsis": "A secret unit of the AD Police, known as Branch, specializes in crimes involving humanoid robots called 'Boomers'. Branch officer Buzz must cope with having a Boomer for a partner, while officer Michaelson finds the line between human and robot to be a thin one. Together they serve to protect a world that is slowly deconstructing around them. Set in the Bubblegum Crisis universe. \n\n(Source: ANN)",
+    "genres": [
+      24
+    ],
+    "themes": [
+      58,
+      18
+    ],
+    "demographics": [],
+    "studios": [
+      48
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          1349
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 1350,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Parasite Dolls 1 - 2 - 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/13o55VJJuL1a30aGiKrvJPYhCwlFw3PCf/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656244"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439045"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T01:20:00.064248",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

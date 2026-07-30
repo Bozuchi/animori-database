@@ -1,0 +1,144 @@
+{
+  "turkanime": {
+    "isim": "Shokugeki no Souma OVA",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Shokugeki no Souma serisine ait OVA bölümlerdir.",
+    "slug": "shokugeki-no-souma-ova"
+  },
+  "jikan": {
+    "mal_id": 31327,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1622/96638.jpg",
+    "trailer_id": "tZCQhVrEv8k",
+    "title": "Shokugeki no Souma OVA",
+    "title_english": "Food Wars! OVA",
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2016-05-02T00:00:00+00:00",
+      "to": "2016-07-04T00:00:00+00:00"
+    },
+    "duration": "25 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.32,
+    "popularity": 1992,
+    "synopsis": "Takumi no Shitamachi Kassen\nFollowing the end of the exhausting training camp, brothers Takumi and Isami Aldini spend their holiday sightseeing Tokyo Tower and its surroundings. While learning about the local culture and tasting various dishes, the two encounter Megumi Tadokoro, Ryouko Sakaki, and Yuuki Yoshino, who all happened to be touring the area as well. The group decides to have lunch together at a traditional Japanese restaurant—where an unexpected food duel is set to take place.\n\nNatsuyasumi no Erina\nTootsuki students are hard at work experimenting with dishes for the Autumn Elections during the summer break; but for Erina Nakiri, her preparations for the event are already complete. Just as she dwells on what to do with her free time, she receives an invitation to the public pool from her cousin Alice. Despite her initial hesitation, Erina takes the opportunity to broaden her horizons and explore what this seemingly ordinary summer activity has to offer. Meanwhile, the members of the Polar Star Dormitory kick off a small party at a nearby lake to cool off and enjoy themselves before the Autumn Elections.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      47,
+      9
+    ],
+    "themes": [
+      23
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      7
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          28171
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 21691,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21691-P13udQMgCQWs.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Shokugeki no Souma OVA 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 26,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1dkv8234PTKDvuT-6hBntUasy7CZxypXd/preview"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2657141"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4529440"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/l1fk4by8"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ut81ow9h"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-vx5m635bxu8h.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-jp19k6lw6k8x.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 88.25,
+          "end": 178.23
+        },
+        "ed": {
+          "start": 1331.548,
+          "end": 1421.548
+        }
+      },
+      "added_date": "2026-07-29T10:03:31.576001",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Shokugeki no Souma OVA 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682366243"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/eo851u7n"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/fzpopwqd"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-o6fylc79neuk.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T10:03:31.576001",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

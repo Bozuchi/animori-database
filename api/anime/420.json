@@ -1,0 +1,100 @@
+{
+  "turkanime": {
+    "isim": "Spriggan",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Olayların merkezinde tek bir karakter (ve onun iki farklı kimliği) duruyor : 17 yaşındaki, sıradan bir kolejli gençten farksız biri... Yui Ominae... Fakat onu gerçekten tanıyanlar (veya tanıdıklarına pişman olanlar) Spriggan kod adıyla girdiği gizli operasyonlarda onunla karşı karşıya kalanlardır.",
+    "slug": "spriggan"
+  },
+  "jikan": {
+    "mal_id": 420,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1549/134328.jpg",
+    "trailer_id": "Dyv1wZEzeUw",
+    "title": "Spriggan",
+    "title_english": "Spriggan",
+    "type": "Movie",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1998-09-05T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 30 min",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 6.71,
+    "popularity": 4001,
+    "synopsis": "Long before the era of prehistoric man, an advanced alien species inhabited Earth. Negligent of the power they held, these beings ultimately caused their own demise. However, the aliens left behind a warning to future civilizations on indestructible tablets: to destroy any remains of the ruinous technology created by their kind.\n\nIn modern times, the ARCAM Corporation and their paramilitary unit—the Spriggans—seek to seal the relics away and prevent renegade actors from exploiting their powers. Following ARCAM's recent discovery in the Ararat Mountains of what is believed to be the mythic Noah's Ark, Spriggan Yuu Ominae has been dispatched to investigate.\n\nHowever, the site is ambushed by the US Machine Corps—a radical faction of the Department of Defense led by Colonel MacDougall. On the Pentagon's orders, MacDougall seeks to secure ARCAM's lead scientist and seize the artifact. Teamed up with fellow Spriggan Jean Jacquemondo, Yuu must stop MacDougall and the Machine Corps' elite soldiers from advancing on the Ark before it is too late.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      2,
+      24
+    ],
+    "themes": [
+      38
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      13
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          1705
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          39489
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 420,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/420-0rMFB8wz2efb.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Spriggan",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 77,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359652069"
+        },
+        {
+          "fansub_id": 77,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3976729"
+        },
+        {
+          "fansub_id": 77,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-bf4iky66zok4.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1q9isxQncHqhegOjdAtFR_by3XUFrPdY1/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-13itldd7sq6o.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T12:11:04.575058",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

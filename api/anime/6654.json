@@ -1,0 +1,95 @@
+{
+  "turkanime": {
+    "isim": "Namakura Gatana",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "\"Kör Kılıç\" anlamına gelen Namakura Gatana, kör kılıcıyla zayıf birine saldırdığında hep kaybeden bir samurayı konu alan iki dakikalık komedidir. Samuray kılıcını denemek için yoldan geçenlere saldırmaya çalışır ancak alt tabakadan olan şehir halkı karşılık vererek onu alaşağı eder.",
+    "slug": "namakura-gatana"
+  },
+  "jikan": {
+    "mal_id": 6654,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1959/109257.jpg",
+    "trailer_id": null,
+    "title": "Namakura Gatana",
+    "title_english": "The Dull Sword",
+    "type": "Movie",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1917-06-30T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "5 min",
+    "rating": "G - All Ages",
+    "score": 5.48,
+    "popularity": 7018,
+    "synopsis": "Namakura Gatana, meaning \"dull-edged sword,\" is a four-minute comedy about a samurai who, thanks to his dull instrument, loses every time he attacks a weak opponent. In order to examine the sword, he tries to attack passers-by, but lower-class townspeople fight back and knock him down.\n\n(Source: AniDB)",
+    "genres": [
+      4
+    ],
+    "themes": [
+      21
+    ],
+    "demographics": [],
+    "studios": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          38059
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          55347
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 6654,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Namakura Gatana",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 115,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1rfMGFMOmufMqodmp-hVphWgl13vBvmFV/preview"
+        },
+        {
+          "fansub_id": 115,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Gwkx67PL_q-pwiyodg9Eq6bT-zfp-uai/preview"
+        },
+        {
+          "fansub_id": 115,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4517246"
+        },
+        {
+          "fansub_id": 115,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-8tv4hdglph4e.html"
+        },
+        {
+          "fansub_id": 115,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-8sn17ged7l7w.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T14:09:59.727708",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

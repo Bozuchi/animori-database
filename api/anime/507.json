@@ -1,0 +1,128 @@
+{
+  "turkanime": {
+    "isim": "Gravitation: Lyrics of Love",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Gravitation serisine ait OVA seridir.",
+    "slug": "gravitation-lyrics-of-love"
+  },
+  "jikan": {
+    "mal_id": 507,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1656/94257.jpg",
+    "trailer_id": null,
+    "title": "Gravitation: Lyrics of Love",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1999-07-23T00:00:00+00:00",
+      "to": "1999-09-22T00:00:00+00:00"
+    },
+    "duration": "26 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 6.87,
+    "popularity": 4414,
+    "synopsis": "Bad Luck's lead singer and lyricist, Shindou Shuichi, is a total wreck. With deadlines for the band's next album looming, the pressure is on, but the normally energetic Shuichi has become listless and fallen into a writing slump. It's all because Yuki - the great love of his life - has suddenly become cold and distant. Depressed and anxious, Shuichi doesn't want to think about lyrics - he just wants to know how to get Yuki to talk to him!\n\nNow, thanks to Shuichi's big mouth bragging to the press about how talented he is, the band can't even hire someone else to write the lyrics for them. If they don't manage to break Shuichi out of his slump soon, it could mean the end of Bad Luck for good! \n\n(Source: RightStuf)",
+    "genres": [
+      28,
+      4
+    ],
+    "themes": [
+      50,
+      19,
+      75
+    ],
+    "demographics": [
+      25
+    ],
+    "studios": [
+      107
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          334
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          243
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 507,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Gravitation OVA 1",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1XP2J8ZPRyA0M2LyDV8eRmjflbpjBCr_0/preview"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3794235"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-q8b1wlbeqha8.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-znyxgx6bu6yj.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T00:33:47.803352",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Gravitation OVA 2",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1wEDC1X13FJuuRTEbinyVf9z1WNppaTn1/preview"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3794236"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-sy9dmh3eivap.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-d5jrnh5wil0o.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T00:33:47.803352",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

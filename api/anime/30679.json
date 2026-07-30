@@ -1,0 +1,144 @@
+{
+  "turkanime": {
+    "isim": "Queen's Blade: Grimoire",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Bu 2 bölümlük OVA serisi Queen's Blade'in 10. yılını kutlamak için yapılmıştır.",
+    "slug": "queen-s-blade-grimoire"
+  },
+  "jikan": {
+    "mal_id": 30679,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1742/141466.jpg",
+    "trailer_id": null,
+    "title": "Queen's Blade: Grimoire",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Other",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2016-01-29T00:00:00+00:00",
+      "to": "2016-09-28T00:00:00+00:00"
+    },
+    "duration": "29 min per ep",
+    "rating": "R+ - Mild Nudity",
+    "score": 6.09,
+    "popularity": 6433,
+    "synopsis": "The story takes place after the wandering warrior Leina's championship has ended. The royal court's magician Alicia uses black magic and opens a doorway to another dimension. From that door, a rabbit lures Alicia into another dimension called Melfairland. Melfairland is holding a tournament of its own to award out a Queen's Blade, and Alicia enters the tournament in order to find a way to return to her own world.\n\n(Source: ANN)",
+    "genres": [
+      1,
+      2,
+      10,
+      9
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      38,
+      3081
+    ],
+    "relations": [
+      {
+        "relation": "Alternative Setting",
+        "entries": [
+          4719
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 21388,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Queen's Blade: Grimoire OVA 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 28,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1GQ-1_M9RyODZ9zMqle3ThH8SQsGdr0Zk/preview"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/uragiri.subs/_myvideo/29.html"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359658331"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271189436"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4453665"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/8th42n0q"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/4yry267t"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T03:24:57.829708",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Queen's Blade: Grimoire OVA 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 28,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Rpyn05kJGH3VsRufkEoe058BPZLQEod1/preview"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359658332"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271189437"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4453676"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ey6iefef"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/l9yoj8ho"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T03:24:57.829708",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

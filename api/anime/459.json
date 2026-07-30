@@ -1,0 +1,108 @@
+{
+  "turkanime": {
+    "isim": "One Piece Movie 1",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "East Blue'da \"Büyük Altın Korsan\" diye bilinen bir adam vardı. Adı Woonan'dı. Sayısız savaşlarda Woonan, birçok düşmanın altınını çaldı. Efsane çaldığı altınların bir dağ kadar yüksek bir yığın oluşturduğunu ve geceleri okyanusu gündüz gibi aydınlattığını söyler. Bununla birlikte, birkaç yıl sonra Woonan'ın varlığı kaybolup gitti. Büyük Altın Korsan tüm hazinesini bir adaya gizledi ve öldü. Bu söylenti ise şimdi bile yaşıyor. Birçok korsan hala bu adayı bulmaya çalışıyor. Woonan'ın tayfalarından biri tarafından çizilmiş bir harita var. Her kim o haritayı ele geçirirse adanın yerini belirleyebilir. Efsanevi ada! El Drago, bu efsanevi adanın haritasını ele geçirmiş ve Woonan'ın altınlarına gözünü dikmiştir. Luffy ve arkadaşları El Drago'yu durdurmak için elinden gelini yapacaklardır.",
+    "slug": "one-piece-movie-1"
+  },
+  "jikan": {
+    "mal_id": 459,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1770/97704.jpg",
+    "trailer_id": "eEApDotghec",
+    "title": "One Piece Movie 01",
+    "title_english": "One Piece: The Movie",
+    "type": "Movie",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2000-03-04T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "50 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.1,
+    "popularity": 1724,
+    "synopsis": "Many years ago, Woonan, a legendary pirate, plundered one-third of the world's gold and stashed it away on his secret island shrouded in mystery. \n\nIn the present, Luffy and the rest of the Straw Hats continue on their journey to the Grand Line. They are robbed by a group of bandits. Led by their captain, El Drago, these same bandits are headed towards Woonan's famed island. Even though the Straw Hat Pirates must now recover their stolen treasure, they have gained another objective: to discover the lost island, its treasures, and learn about the legend of Woonan.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      1,
+      2,
+      10
+    ],
+    "themes": [],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      18
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          21
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 459,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/459-JqlCjcwxxFrr.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "One Piece Movie 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 4,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/13J7Uv-x8IeFPTJUAYi38ZeHmdk7ZHzjv/preview"
+        },
+        {
+          "fansub_id": 4,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1946249"
+        },
+        {
+          "fansub_id": 4,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4454474"
+        },
+        {
+          "fansub_id": 4,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3858708"
+        },
+        {
+          "fansub_id": 4,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/e7w8jw00"
+        },
+        {
+          "fansub_id": 4,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/grq16hnn"
+        },
+        {
+          "fansub_id": 4,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-v54cj8x4tbwl.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 2,
+          "end": 106
+        }
+      },
+      "added_date": "2026-07-27T20:54:55.696742",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

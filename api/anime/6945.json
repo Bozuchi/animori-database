@@ -1,0 +1,97 @@
+{
+  "turkanime": {
+    "isim": "Gintama: Shiroyasha Koutan",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "-Güncellenecek-",
+    "slug": "gintama-shiroyasha-koutan"
+  },
+  "jikan": {
+    "mal_id": 6945,
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/16161.jpg",
+    "trailer_id": null,
+    "title": "Gintama: Shiroyasha Koutan",
+    "title_english": "Gintama: Jump Festa 2008 Special",
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2008-09-21T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "10 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.36,
+    "popularity": 2864,
+    "synopsis": "According to Aniplex, a 10min short anime of Gintama \"Shiroyasha Koutan\" will be released on September 30th. It was shown at Jump Super Anime Tour 2008 and had never been released as a DVD.\n\nIt's a trailer of an imaginary Gintama movie. Gintama OVA shown at Jump Anime Tour '05 is also included in the DVD.",
+    "genres": [
+      1,
+      4,
+      24
+    ],
+    "themes": [
+      13,
+      20
+    ],
+    "demographics": [],
+    "studios": [
+      14
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          44
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          918
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          2951,
+          25313
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 6945,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6945-om1PnE30YoPh.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Gintama: Shiroyasha Kouta Special",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/14-fISjAAjgpUUw-ZGoJH-RpYfZUfwDz6/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/feeling7d/_myvideo/445.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2561586"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T23:50:43.225551",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

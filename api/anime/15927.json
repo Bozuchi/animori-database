@@ -1,0 +1,105 @@
+{
+  "turkanime": {
+    "isim": "Carnival Phantasm: HibiChika Special",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Carnival Phantasm serisinin özel kutlama için çıkmış olan Blu-Ray bölümüdür.",
+    "slug": "carnival-phantasm-hibichika-special"
+  },
+  "jikan": {
+    "mal_id": 15927,
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/64291.jpg",
+    "trailer_id": null,
+    "title": "Carnival Phantasm: HibiChika Special",
+    "title_english": null,
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2012-07-07T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "26 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.32,
+    "popularity": 4297,
+    "synopsis": "A new episode of Carnival Phantasm released on the Type-moon Fes - 10th Anniversary Event - Blu-ray.",
+    "genres": [
+      4,
+      37
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      456
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          10012
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 15927,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Carnival Phantasm Special 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 2,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1v5Q-_M9X_CK5Zs56BwAVcWaIGZqmaQqd/preview"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359665935"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682365556"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4629130"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-kwy82kpfcvdk.html"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-kfpkktxg8b6e.html"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/6dxmm5ma"
+        },
+        {
+          "fansub_id": 2,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-w96xku9ap2oa.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T08:41:37.335669",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "turkanime": {
+    "isim": "Detective Conan: The Scarlet Alibi",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Akai ailesinin etrafında geçen bölümlerden derlenerek oluşturulmuş Detective Conan filmidir.",
+    "slug": "detective-conan-the-scarlet-alibi"
+  },
+  "jikan": {
+    "mal_id": 47413,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1234/117118.jpg",
+    "trailer_id": "R0UX89w9y2s",
+    "title": "Meitantei Conan: Hiiro no Fuzai Shoumei",
+    "title_english": "Detective Conan: The Scarlet Alibi",
+    "type": "Movie",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2021-02-11T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 32 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.4,
+    "popularity": 8030,
+    "synopsis": "Compilation film combining footage from various television anime episodes that center on the Akai family.\n\n(Source: ANN)",
+    "genres": [
+      1,
+      4,
+      8,
+      7
+    ],
+    "themes": [
+      39
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      73
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          39764
+        ]
+      },
+      {
+        "relation": "Full Story",
+        "entries": [
+          235
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 131770,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Detective Conan: The Scarlet Alibi Movie",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 65,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1nb-EVbxV0RiVAh2Qu8qb42F9_irquB3M/preview"
+        },
+        {
+          "fansub_id": 65,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-jovs38y2wfuz.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T20:58:01.087259",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

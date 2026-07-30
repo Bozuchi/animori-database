@@ -1,0 +1,160 @@
+{
+  "turkanime": {
+    "isim": "Accel World EX",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Accel World serisinin OVA bölümleridir.",
+    "slug": "accel-world-ex"
+  },
+  "jikan": {
+    "mal_id": 13939,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1451/127575.jpg",
+    "trailer_id": null,
+    "title": "Accel World EX",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2012-09-13T00:00:00+00:00",
+      "to": "2013-01-31T00:00:00+00:00"
+    },
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.08,
+    "popularity": 2137,
+    "synopsis": "Reverberation\nA mysterious avatar has hijacked the Umesato Junior High Local Network, trapping students and stripping them of their clothes and belongings. After learning that other schools are facing a similar problem, Kuroyukihime gathers Haruyuki Arita and the other members of Nega Nebulus—one of the Seven Great Legions—to solve the mystery.\n\nVacation\nHaruyuki is due for a physical re-examination in two weeks. If he fails, he will not be allowed to participate in any more territory battles with Nega Nebulus. To ensure that their legion does not lose their \"Silver Crow,\" Chiyuri Kurashima takes it upon herself to help Haruyuki get into shape before his examination.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      1,
+      22,
+      24
+    ],
+    "themes": [
+      23,
+      79
+    ],
+    "demographics": [],
+    "studios": [
+      14
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          11759
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 13939,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/13939-jMYSmL78ZV70.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Accel World EX 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 2,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1L4GiWSpK0zVxRp7sDPw3B0yyi04nbcCt/preview"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4019651"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3304682"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-1yzby01g7dfj.html"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-s4vvekf7p9a7.html"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/j9uyc72o"
+        },
+        {
+          "fansub_id": 2,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-9p54trxgeik5.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-19T03:28:50.346363",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Accel World EX 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 2,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1yuRKUo-7nx8366IAnda_EHo_fXoaXC6t/preview"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985852284"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1063287"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4019652"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4442220"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-bpy48du7cqu5.html"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-7w8lzjxin98k.html"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/imevjg8x"
+        },
+        {
+          "fansub_id": 2,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-raye03to7bb4.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-19T03:28:50.346363",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

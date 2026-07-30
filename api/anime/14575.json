@@ -1,0 +1,104 @@
+{
+  "turkanime": {
+    "isim": "Minami-ke Omatase",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Manganın 10. cildi ile birlikte olan OVA.",
+    "slug": "minami-ke-omatase"
+  },
+  "jikan": {
+    "mal_id": 14575,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1831/133567.jpg",
+    "trailer_id": "_PYYZvJssKY",
+    "title": "Minami-ke Omatase",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2012-10-05T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "25 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.39,
+    "popularity": 4928,
+    "synopsis": "Minami-ke OVA bundled with the 10th volume of the manga.",
+    "genres": [
+      4
+    ],
+    "themes": [
+      52
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      91
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          2629
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          5162
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 14575,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Minami-ke Omatase",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985846927"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4532770"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4073257"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-z8ln3age1jp5.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-7g1gdyg4hg6a.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-zpqrtintvebc.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T12:10:02.674143",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

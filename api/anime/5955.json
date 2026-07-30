@@ -1,0 +1,148 @@
+{
+  "turkanime": {
+    "isim": "Toaru Majutsu no Index-tan",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Toaru Majutsu no Index serisinin 2 adet special bölümdür.",
+    "slug": "toaru-majutsu-no-index-tan"
+  },
+  "jikan": {
+    "mal_id": 5955,
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/26651.jpg",
+    "trailer_id": null,
+    "title": "Toaru Majutsu no Index-tan",
+    "title_english": "A Certain Magical Index: Specials",
+    "type": "Special",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2009-02-07T00:00:00+00:00",
+      "to": "2009-05-29T00:00:00+00:00"
+    },
+    "duration": "8 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.89,
+    "popularity": 3416,
+    "synopsis": "A series of shorts featuring Index-tan.",
+    "genres": [
+      4
+    ],
+    "themes": [
+      20
+    ],
+    "demographics": [],
+    "studios": [
+      7
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          10249
+        ]
+      },
+      {
+        "relation": "Spin-Off",
+        "entries": [
+          4654
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 5955,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Toaru Majutsu no Index Special 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1bj4JxD3_pTkmS0wh6JC6E1pw9rrWNVDV/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847986"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985851392"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439348"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1565620"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4086555"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-bmpen7m4u7ra.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T17:00:37.416237",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Toaru Majutsu no Index Special 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1i2G6TK9DW8K0dBJflk5huWXKQ2LEi6rF/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1YepEbTINcGK7y4IHvJppbLHVwg17lLCh/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/2444636457931908431"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/2444636457931908432"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1565621"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1103790"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T17:00:37.416237",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

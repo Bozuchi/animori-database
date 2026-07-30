@@ -1,0 +1,3962 @@
+{
+  "turkanime": {
+    "isim": "Vinland Saga",
+    "puan": "8.98",
+    "bolum_durumu": "24/24",
+    "ozet": "Binlerce yıldır Vikingler, şiddet yanlısı en güçlü soylardan biri olarak kendilerine ad yapmışlardır. Vikinglerin en iyi savaşçılarından birinin oğlu olan Thorfinn, derinden beslediği intikam arzusunu yerine getirmek için yeteneklerini geliştireceği savaş alanlarında çocukluğunu geçirir.",
+    "slug": "vinland-saga"
+  },
+  "jikan": {
+    "mal_id": 37521,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1500/103005.jpg",
+    "trailer_id": "f8JrZ7Q_p-8",
+    "title": "Vinland Saga",
+    "title_english": null,
+    "type": "TV",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": 2019,
+    "season": "summer",
+    "airing": false,
+    "aired": {
+      "from": "2019-07-08T00:00:00+00:00",
+      "to": "2019-12-30T00:00:00+00:00"
+    },
+    "duration": "24 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 8.78,
+    "popularity": 61,
+    "synopsis": "Young Thorfinn grew up listening to the stories of old sailors that had traveled the ocean and reached the place of legend, Vinland. It's said to be warm and fertile, a place where there would be no need for fighting—not at all like the frozen village in Iceland where he was born, and certainly not like his current life as a mercenary. War is his home now. Though his father once told him, \"You have no enemies, nobody does. There is nobody who it's okay to hurt,\" as he grew, Thorfinn knew that nothing was further from the truth.\n\nThe war between England and the Danes grows worse with each passing year. Death has become commonplace, and the viking mercenaries are loving every moment of it. Allying with either side will cause a massive swing in the balance of power, and the vikings are happy to make names for themselves and take any spoils they earn along the way. Among the chaos, Thorfinn must take his revenge and kill Askeladd, the man who murdered his father. The only paradise for the vikings, it seems, is the era of war and death that rages on.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      1,
+      2,
+      8
+    ],
+    "themes": [
+      58,
+      13
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      858
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          49387
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          642
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          31647
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 101348,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101348-pivKKffCAwAY.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Vinland Saga 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/1013"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4310197"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/8cqwuh5f"
+        },
+        {
+          "fansub_id": 101,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1emppsE_rTh_33rXyqiLo9TbUujpilWzW/preview"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461601419"
+        },
+        {
+          "fansub_id": 101,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/95uih52vguun"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-fyd889f0tfho.html"
+        },
+        {
+          "fansub_id": 34,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/lowsubs/video/embed/_myvideo/414"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3647017"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835264"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/yyfzyq6e"
+        },
+        {
+          "fansub_id": 34,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-t9imrh8co805.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3648316"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835267"
+        },
+        {
+          "fansub_id": 128,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-3hipxb3j96tc.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-y73phkq3vvwh.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/ksklee555/video/embed/_myvideo/338"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3647073"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/jiu0w8pe"
+        },
+        {
+          "fansub_id": 74,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1b8jUgcyvPqXlBzYeWtwNWUvnNO5uS357/preview"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3647068"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835268"
+        },
+        {
+          "fansub_id": 74,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-wqj70ut0mb6k.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835274"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3667934"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-qsqa6u700sat.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835272"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3703200"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-6o6fw4avrpke.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ld5bmt77"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-8335ye6ifct9.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/8275262434374058163"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835261"
+        },
+        {
+          "fansub_id": 23,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-gv01mibwisq5.html"
+        },
+        {
+          "fansub_id": 23,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/pdznlrwh"
+        },
+        {
+          "fansub_id": 23,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-0b8o0n7deece.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 13.461,
+          "end": 98.544
+        },
+        "ed": {
+          "start": 1372.458,
+          "end": 1459.532
+        }
+      },
+      "added_date": "2026-07-30T15:19:19.365563",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Vinland Saga 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/1014"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4310199"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/w1ulzxy8"
+        },
+        {
+          "fansub_id": 101,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1y2ZhpbrMw5P2xUL7e7QvEuokdCPRUdZ1/preview"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461601420"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4848010"
+        },
+        {
+          "fansub_id": 101,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/79jsgmz4x61n"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-s19xwk52lw9i.html"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835285"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3648977"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-7s6tptajw528.html"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/8vx25l8i"
+        },
+        {
+          "fansub_id": 24,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-emmfogcgnl4p.html"
+        },
+        {
+          "fansub_id": 34,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/lowsubs/video/embed/_myvideo/415"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835290"
+        },
+        {
+          "fansub_id": 34,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-zu24i4kyj753.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835291"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3648319"
+        },
+        {
+          "fansub_id": 128,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-fx3vvqfc5759.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-yuu1ixoxzs8v.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/ksklee555/video/embed/_myvideo/339"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3647119"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/gz76pa5f"
+        },
+        {
+          "fansub_id": 74,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1BSCNKY6W-AdT_--a18q1kb9tbZfnVHPK/preview"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835292"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3647122"
+        },
+        {
+          "fansub_id": 74,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-nh2xniwpsv5j.html"
+        },
+        {
+          "fansub_id": 74,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-bsnu007iylja.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3667936"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835295"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xw6rlu80b5ay.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-1sfby7bu4gls.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3703201"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835294"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xskbcq9k2yc3.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/vlnxas4j"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-b1tngpdsub9c.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 0,
+          "end": 109.209
+        },
+        "ed": {
+          "start": 1375,
+          "end": 1466
+        }
+      },
+      "added_date": "2026-07-30T15:19:19.365563",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Vinland Saga 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/1015"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4310202"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/qcoa6xrl"
+        },
+        {
+          "fansub_id": 101,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1FhgLEqO_W9H-tUTQgUKkQCOVfunIi_SK/preview"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461601421"
+        },
+        {
+          "fansub_id": 101,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/ynup97w37dm7"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-qc3zr70ioa2y.html"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835296"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3651274"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-lllvmjiq93ut.html"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/p904np66"
+        },
+        {
+          "fansub_id": 24,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-qpj0i06angbm.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/fansubarcadia1/video/embed/23/204"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835298"
+        },
+        {
+          "fansub_id": 22,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-4oqcsb3ksg09.html"
+        },
+        {
+          "fansub_id": 34,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/lowsubs/video/embed/_myvideo/418"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835308"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3647217"
+        },
+        {
+          "fansub_id": 34,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-giuyhgvoc61v.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3663234"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835312"
+        },
+        {
+          "fansub_id": 128,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-exmh9bn8pejh.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-4g70w3ybbkkm.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835313"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-x7lyd5g4wlri.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ofwqw9x7"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ntuebesutzj1.html"
+        },
+        {
+          "fansub_id": 74,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/11f1IL8pKNrHvotaGOZVRQ6a6sqkUEbVg/preview"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3647132"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835314"
+        },
+        {
+          "fansub_id": 74,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-lvlvclue3e3h.html"
+        },
+        {
+          "fansub_id": 74,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-im113srcsn48.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835316"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3668951"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-prg9xqzkqgu0.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-0e7usa1pj367.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835315"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3703202"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-dej2ph44pnd4.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-c7t7lo80c9ye.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/luh3n7ch"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-vyetxz997qf4.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 201.50053,
+          "end": 291.15546
+        },
+        "ed": {
+          "start": 1376,
+          "end": 1466
+        }
+      },
+      "added_date": "2026-07-30T15:19:19.365563",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Vinland Saga 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/1016"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4310205"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/b2c88nc9"
+        },
+        {
+          "fansub_id": 101,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1aJK1DQBBCYVibknf7-slAWlvrieEo52-/preview"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461601422"
+        },
+        {
+          "fansub_id": 101,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/yroom1ts5goq"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-929r7z91opmj.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/fansubarcadia1/video/embed/23/205"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835317"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3692935"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/9x7eczym"
+        },
+        {
+          "fansub_id": 22,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-tviow62axky1.html"
+        },
+        {
+          "fansub_id": 34,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/lowsubs/video/embed/_myvideo/439"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835318"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3664846"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/8cq2itim"
+        },
+        {
+          "fansub_id": 34,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-b3o75cglzed7.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835320"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3663235"
+        },
+        {
+          "fansub_id": 128,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-1hgxq9crpp9h.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-9s022nxl6de3.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/ksklee555/video/embed/_myvideo/352"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3663685"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/d0dq1u25"
+        },
+        {
+          "fansub_id": 74,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/132qWLQOPypdjoWU7ahzlXHNcLWnTzokp/preview"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3662513"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835321"
+        },
+        {
+          "fansub_id": 74,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-fbcvozdhg2ov.html"
+        },
+        {
+          "fansub_id": 74,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-t3h62nhijolk.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835325"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3678359"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-dkfjf4ayb5kx.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-u5tj7w7pj07c.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835323"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3703203"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-z3i2vl5fdn9n.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-mposmlwd38tj.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/t82y99wy"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-mribxd3dng0r.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 253.16,
+          "end": 343.16
+        },
+        "ed": {
+          "start": 1376,
+          "end": 1465
+        }
+      },
+      "added_date": "2026-07-30T15:19:19.365563",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Vinland Saga 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/1017"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4310209"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/txzl9yd1"
+        },
+        {
+          "fansub_id": 101,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1YCuDQ9OlaCfeeSByYlx4OVLxDj4DVAhD/preview"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461601423"
+        },
+        {
+          "fansub_id": 101,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/5j2o3nyw0chw"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ne9ye3qt8hmi.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3668586"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3668584"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835326"
+        },
+        {
+          "fansub_id": 22,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-8svugq523ghv.html"
+        },
+        {
+          "fansub_id": 34,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/lowsubs/video/embed/_myvideo/463"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835327"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/jz2x5za6"
+        },
+        {
+          "fansub_id": 34,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-0ypu64wkgdg1.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835331"
+        },
+        {
+          "fansub_id": 128,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-n663bb3ofdbz.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-lflvh5ael4xm.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-nou0oy4p556m.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/ksklee555/video/embed/_myvideo/356"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3667523"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/2jepznno"
+        },
+        {
+          "fansub_id": 74,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1h7--EHYW_eZ0Y-8kgZKiWkhKAsab9zSA/preview"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835332"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3667485"
+        },
+        {
+          "fansub_id": 74,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-10np2ifkblxl.html"
+        },
+        {
+          "fansub_id": 74,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-p1tdzm74w58v.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3668949"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835338"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-7h4z045x0prm.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-eoqd8bl2wtbf.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3703205"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835336"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vp6lvf4hghba.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-pvl3vyzuvfav.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/92nxol16"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-77zdv0gh7fwr.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 1.927,
+          "end": 91.927
+        },
+        "ed": {
+          "start": 1375,
+          "end": 1466
+        }
+      },
+      "added_date": "2026-07-30T15:19:19.365563",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Vinland Saga 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/1018"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4310212"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/9smvs7ul"
+        },
+        {
+          "fansub_id": 101,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1VaFDQhwNr3wd4WNWH3NDBNDUZQHZmfnS/preview"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461601424"
+        },
+        {
+          "fansub_id": 101,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/8kwz2mu80mrn"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-2bws9a6e3nga.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1sVplenv3OwHP4em-KD5drNISX2o3FLIh/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/578409832534/video/embed/_myvideo/5"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4283709"
+        },
+        {
+          "fansub_id": 34,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/lowsubs/video/embed/_myvideo/464"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835339"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/qpjvthdw"
+        },
+        {
+          "fansub_id": 34,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-1fqnd6w6llp3.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3685717"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835344"
+        },
+        {
+          "fansub_id": 128,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-qslb4na5sjf8.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-tsoy4x0kzgfb.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/efegun4/video/embed/_myvideo/388"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/9f9h9sjs"
+        },
+        {
+          "fansub_id": 74,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1PQ0ODQvXoCYfaXjekHV1SNi-tRIW_ZVf/preview"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3671761"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835346"
+        },
+        {
+          "fansub_id": 74,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-sprix8028yzi.html"
+        },
+        {
+          "fansub_id": 74,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-uc9zxot3pgfq.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835353"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3672043"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-g0fl7wx0v8ia.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ibiu9z5fk6ur.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835351"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3703208"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-g4kr8ar8vokq.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-jf93ug28fedn.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/4v8harul"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-vrnfezmf97cb.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 2.767,
+          "end": 92.767
+        },
+        "ed": {
+          "start": 1374,
+          "end": 1465
+        }
+      },
+      "added_date": "2026-07-30T15:19:19.365563",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Vinland Saga 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/1019"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4310217"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/b6m7ula9"
+        },
+        {
+          "fansub_id": 101,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/16Bu3_csh1g6hthHeujEFR8JZSy3z29jU/preview"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461601425"
+        },
+        {
+          "fansub_id": 101,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/cuserheu16ws"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-f4mlu4f3qfux.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835356"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/mlhu43ss"
+        },
+        {
+          "fansub_id": 22,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-k90y1dx2n6bq.html"
+        },
+        {
+          "fansub_id": 34,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/lowsubs/video/embed/_myvideo/465"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835360"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3709796"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/15vp3zlo"
+        },
+        {
+          "fansub_id": 34,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-pfm5cemb8vgq.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3676342"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835361"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3685721"
+        },
+        {
+          "fansub_id": 128,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-f3exz5hzvg0y.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/4n995lhe"
+        },
+        {
+          "fansub_id": 128,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-cipdo7z22j8q.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/ksklee555/video/embed/_myvideo/365"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3676416"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/l54hnu7i"
+        },
+        {
+          "fansub_id": 74,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1okjIrKrlkM3Ktj-qjkNnm08_c7DRGYnu/preview"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3676044"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835362"
+        },
+        {
+          "fansub_id": 74,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-twb5kiuzzt4t.html"
+        },
+        {
+          "fansub_id": 74,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-jc9tspryv4o0.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835365"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3675989"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-77u18n91sxr7.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-6ehxhdc5v0yz.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835364"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3703209"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-uglago36ux23.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-lmsz300oavtn.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/coa6rbut"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-z18g1h707wp9.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 281,
+          "end": 369
+        },
+        "ed": {
+          "start": 1374,
+          "end": 1465
+        }
+      },
+      "added_date": "2026-07-30T15:19:19.365563",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Vinland Saga 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/1020"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4310223"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/bo8ydxx8"
+        },
+        {
+          "fansub_id": 101,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1UCgb2UCVfP1OsiAOgFi0JLoq4RdDlBNA/preview"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461601426"
+        },
+        {
+          "fansub_id": 101,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/xwhit9ry8rwl"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-byxnem64ziko.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4307358"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/dewdcgr1"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3716762"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/2qz03g8d"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3686939"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835366"
+        },
+        {
+          "fansub_id": 128,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-4ah4octkc40g.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-duozmrds2p7b.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3687533"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/vkc2yvv8"
+        },
+        {
+          "fansub_id": 74,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1R5eiKQwVbHY5UWLoUcInXlCyA1yaJJO7/preview"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3686437"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835367"
+        },
+        {
+          "fansub_id": 74,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vl72aaz7u2qq.html"
+        },
+        {
+          "fansub_id": 74,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-dvw7y1natl23.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3691342"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835370"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-o6lvzjho2crj.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-6wm4yb3yiabt.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835368"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3703211"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-9iipcmm0ipep.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xm71hszvtqyc.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/q6piezyg"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-6c16u719zd5r.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 455.952,
+          "end": 545.952
+        },
+        "ed": {
+          "start": 1375,
+          "end": 1465
+        }
+      },
+      "added_date": "2026-07-30T15:19:19.365563",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Vinland Saga 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/1021"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4310226"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/iax95uu8"
+        },
+        {
+          "fansub_id": 101,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1HiKEkfZTxdHzEhAh061ng1K0jx7_SQRk/preview"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461601427"
+        },
+        {
+          "fansub_id": 101,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/vvtyjak4j2cs"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-mhnwnmhkejvb.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271198020"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4316295"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/6ad02ryk"
+        },
+        {
+          "fansub_id": 22,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-p3gc0hegj7lj.html"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3716780"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/tu27rl6j"
+        },
+        {
+          "fansub_id": 128,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/aslikagan6/video/embed/_myvideo/3"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3691037"
+        },
+        {
+          "fansub_id": 128,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-lwlne6376ej4.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/w3p3ovfy"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3704285"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835374"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/itc6ryew"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-tj6aftq6t3r1.html"
+        },
+        {
+          "fansub_id": 74,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1RQOk8RJMscuMjIco7HQ840Tu6VPira7f/preview"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3691083"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835379"
+        },
+        {
+          "fansub_id": 74,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-n86qdvpnn1ji.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3691607"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835382"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-0qktrn7b6r95.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ga369znewh4o.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3703238"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835381"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2pxxnuo61r70.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xlv91c4zfptt.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/qvycggr4"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-2dfpius38g73.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 199.275,
+          "end": 289.275
+        },
+        "ed": {
+          "start": 1373,
+          "end": 1466
+        }
+      },
+      "added_date": "2026-07-30T15:19:19.365563",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Vinland Saga 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/1022"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4310228"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/64im22wn"
+        },
+        {
+          "fansub_id": 101,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1kK0qDcgyEXKQ9vPO2kV8Ag_sqIjT55Xh/preview"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461601428"
+        },
+        {
+          "fansub_id": 101,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/1fy36cyu22xc"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-t0yn1dzdgg96.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/17nfVycO1pSq1TZquOM_bu6_-gpW97wgl/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1bTWntspzWG5JsN2NV931MKY5XbDPEWWr/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/14wxrshHjsTvCZntEd6nSLgCIY0Ps9Y0S/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/598421704734/video/embed/_myvideo/41"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4321879"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/c89lhpdt"
+        },
+        {
+          "fansub_id": 34,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/lowsubs/video/embed/_myvideo/466"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835385"
+        },
+        {
+          "fansub_id": 34,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-mase00zwwebc.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/578971257779/video/embed/_myvideo/53"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3701775"
+        },
+        {
+          "fansub_id": 128,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-b09dxw5j8sns.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/uqjifn39"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3704290"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835392"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/baomvlnm"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-kb0qwhlup455.html"
+        },
+        {
+          "fansub_id": 74,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Pi1VY53fauvlFeoN00pmC1l1DG0B0EnJ/preview"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835395"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3701763"
+        },
+        {
+          "fansub_id": 74,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-741ho5qgnn6x.html"
+        },
+        {
+          "fansub_id": 74,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-u41bziz2hw2d.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835398"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-j36gsfxpy8ud.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-r6r0ia21i87o.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835397"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3703326"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-n5ibthw6gx1n.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-hp3dvn0s42xz.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/xcga167d"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-zx72me82580u.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 207.612,
+          "end": 297.612
+        }
+      },
+      "added_date": "2026-07-30T15:19:19.365563",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Vinland Saga 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/1023"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4310229"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/2npqe86h"
+        },
+        {
+          "fansub_id": 101,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1xGfzocZxFmN_IPJX6dxZl0UxhGQJ5r0J/preview"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461601429"
+        },
+        {
+          "fansub_id": 101,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/rk17uxxmmio0"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-vwd9cxehru0i.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1bEftqtNj7ZKrnRw1QWTLItjgRjhgpxMk/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1QQ5kyFJ9L5UmzhSILNuoD4MWojZLqaqa/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ZhAeWsBqJ9nAkjKLazOGviSYmDg2S5xq/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/584019879088/video/embed/_myvideo/2"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4328405"
+        },
+        {
+          "fansub_id": 34,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/lowsubs/video/embed/_myvideo/467"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835399"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3717949"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/hur0ztrs"
+        },
+        {
+          "fansub_id": 34,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-dursws3qowjs.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/578971257779/video/embed/_myvideo/54"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835401"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3706282"
+        },
+        {
+          "fansub_id": 128,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-p3o136uz3hf5.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/hv61pujz"
+        },
+        {
+          "fansub_id": 128,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-o93q4bp8kyby.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3714702"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/4fmpfs8l"
+        },
+        {
+          "fansub_id": 74,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Y_qX5foz659FLdnlOdk9_nxaQG0H0Dgs/preview"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3706320"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835405"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3706760"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-wi7p9dfhsjom.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-b6oe4typn07b.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/6348"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3706432"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-jekc2wbyi4zp.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ji25ixa2"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 0,
+          "end": 90
+        },
+        "ed": {
+          "start": 1375,
+          "end": 1462
+        }
+      },
+      "added_date": "2026-07-30T15:19:19.365563",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Vinland Saga 12. Bölüm",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/1024"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4310231"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/m71one0u"
+        },
+        {
+          "fansub_id": 101,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1iYgwsGId_r_AsVndKbZCGAErr9AetbbS/preview"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461601430"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4848070"
+        },
+        {
+          "fansub_id": 101,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/eewipqk3cb5b"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-8zr2chxdc5ua.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1hPmtcCiLd5nofklGs0BKzo_itGbYQPE5/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4344084"
+        },
+        {
+          "fansub_id": 34,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/lowsubs/video/embed/_myvideo/468"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835406"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3717953"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/249n53wt"
+        },
+        {
+          "fansub_id": 34,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-djiaxeyqjj4c.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835407"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3709971"
+        },
+        {
+          "fansub_id": 128,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2twivj8flh6j.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/pb1bhk5p"
+        },
+        {
+          "fansub_id": 128,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-uglrw6nyxmrp.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3714715"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/xgrvl8d4"
+        },
+        {
+          "fansub_id": 74,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1zjv0wKcqoz7Ar2UFwxKkUrhFvo57F1vN/preview"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835408"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3710073"
+        },
+        {
+          "fansub_id": 74,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-6orkqxlbs8yg.html"
+        },
+        {
+          "fansub_id": 74,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-x9mfbrwbwjb2.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835410"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3712694"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-yq99h473r6gp.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-c40qfpzvfg6p.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 2.037,
+          "end": 92.037
+        },
+        "ed": {
+          "start": 1379.216,
+          "end": 1465
+        }
+      },
+      "added_date": "2026-07-30T15:19:19.365563",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Vinland Saga 13. Bölüm",
+      "episode_number": 13,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/1025"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4310233"
+        },
+        {
+          "fansub_id": 101,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1kurerjquN-ykIyq2a43NxTBePpG7d-wp/preview"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461601434"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4851316"
+        },
+        {
+          "fansub_id": 101,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/3l0h29vg4st4"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-deskkq0xtq6f.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4414582"
+        },
+        {
+          "fansub_id": 22,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-9aj0czkz22du.html"
+        },
+        {
+          "fansub_id": 34,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/lowsubs/video/embed/_myvideo/469"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835412"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3717958"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/n1n1ofn7"
+        },
+        {
+          "fansub_id": 34,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-zr1nd2xuycmu.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/aslikagan6/video/embed/_myvideo/33"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3717567"
+        },
+        {
+          "fansub_id": 128,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5z1ydkrmejmm.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3725306"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-zqb5wcyj0v5f.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/wv81upv7"
+        },
+        {
+          "fansub_id": 74,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1pcKIKZCLJSG_-TTtJ44f9ti2rWNqqxaZ/preview"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835413"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3716841"
+        },
+        {
+          "fansub_id": 74,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-o6pz3iyxwg4u.html"
+        },
+        {
+          "fansub_id": 74,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-axznk3bvqu4e.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/6498"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3725720"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/a4m73xmp"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 47.595,
+          "end": 137.595
+        },
+        "ed": {
+          "start": 1379.174,
+          "end": 1466
+        }
+      },
+      "added_date": "2026-07-30T15:19:19.365563",
+      "jikan_mal_id": 13,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Vinland Saga 14. Bölüm",
+      "episode_number": 14,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/1026"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4310288"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/x4ijdudo"
+        },
+        {
+          "fansub_id": 101,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1QuY3rCMChfoN28_cyP_hF3c550rvT3MC/preview"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461601435"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4851317"
+        },
+        {
+          "fansub_id": 101,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/hu3uop8bechd"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-6zhu54g5fzpu.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1GmnBlaEUG4en9CzGGK2u6mWtd0VTvVtz/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1sFxu5ROB-H0TSCRQtS2Tp3FcqO_1TRfw/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Prt1Ap0EFBFfIlGTYAoMoHXu2bqfd2d7/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/17485ze__29o1Tx--UJzNndxGK-DgMcwU/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/8275262434374058584"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4454286"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/64qmdqdy"
+        },
+        {
+          "fansub_id": 22,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-353saq6k501d.html"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3726398"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/5br0mg8g"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3744072"
+        },
+        {
+          "fansub_id": 128,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-45h59kku48p9.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/70fp1s9a"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3725314"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/tkmzqskz"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3721224"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835414"
+        },
+        {
+          "fansub_id": 74,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-gqias87bsvvt.html"
+        },
+        {
+          "fansub_id": 74,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-gadqj6p3yhwu.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/6499"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3725725"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/fjtss4e4"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 99.207,
+          "end": 189.207
+        },
+        "ed": {
+          "start": 1377.874,
+          "end": 1466
+        }
+      },
+      "added_date": "2026-07-30T15:19:19.365563",
+      "jikan_mal_id": 14,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Vinland Saga 15. Bölüm",
+      "episode_number": 15,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/1027"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4310234"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/wqr1mjl0"
+        },
+        {
+          "fansub_id": 101,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1hz7wacq0jodcvLZPP1uDzRzFCYyvzjek/preview"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461601436"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4851322"
+        },
+        {
+          "fansub_id": 101,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/ia9gi9c1k4h6"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-av8tg19q78cr.html"
+        },
+        {
+          "fansub_id": 34,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/lowsubs/video/embed/_myvideo/480"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835416"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/mvi4fn7f"
+        },
+        {
+          "fansub_id": 34,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-cxuzkwmexiae.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3744074"
+        },
+        {
+          "fansub_id": 128,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-quqsxnoylsen.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/407tmux0"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3725876"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835420"
+        },
+        {
+          "fansub_id": 74,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-m3horkdbl1a5.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/6509"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3726911"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/um3vpc5d"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 81.577,
+          "end": 171
+        }
+      },
+      "added_date": "2026-07-30T15:19:19.365563",
+      "jikan_mal_id": 15,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Vinland Saga 16. Bölüm",
+      "episode_number": 16,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/1028"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4310235"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/dxehxrpt"
+        },
+        {
+          "fansub_id": 101,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1GGw3Fse9P2zHkR1DZLwJiMz-H5rFOBSI/preview"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461601437"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4851334"
+        },
+        {
+          "fansub_id": 101,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/murqit49ndh7"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-koucnv31vu6x.html"
+        },
+        {
+          "fansub_id": 34,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/lowsubs/video/embed/_myvideo/482"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835423"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3731386"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/gset0d3u"
+        },
+        {
+          "fansub_id": 34,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-br93wc2uoxe1.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3744076"
+        },
+        {
+          "fansub_id": 128,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-it8j2c6a56dm.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ncyxa16c"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835431"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3730892"
+        },
+        {
+          "fansub_id": 74,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-jabgyias8qbb.html"
+        },
+        {
+          "fansub_id": 74,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ad1i4coldtwo.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/efegun4/video/embed/_myvideo/670"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835433"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3730880"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/n48pa2td"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-toaufr3ihvhn.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 89.076,
+          "end": 177
+        }
+      },
+      "added_date": "2026-07-30T15:19:19.365563",
+      "jikan_mal_id": 16,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Vinland Saga 17. Bölüm",
+      "episode_number": 17,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/1029"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4310290"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/5q4ik756"
+        },
+        {
+          "fansub_id": 101,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1y9EzY1_RqVd4br7w0-tTwn3EjBhHUqAN/preview"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461601438"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4851346"
+        },
+        {
+          "fansub_id": 101,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/qt8hswfpn126"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ppbb45oh6xin.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3744077"
+        },
+        {
+          "fansub_id": 128,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2nsitbcy1ure.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/k1huhbc6"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835444"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3736734"
+        },
+        {
+          "fansub_id": 74,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vz41oaalidex.html"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/aeeic50g"
+        },
+        {
+          "fansub_id": 74,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-u3vy31b7nswa.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/6592"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835449"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3739626"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2yqkpb5vc8am.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/widof6o2"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-u1qys86b1abn.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 96.73,
+          "end": 186.73
+        },
+        "ed": {
+          "start": 1374,
+          "end": 1465
+        }
+      },
+      "added_date": "2026-07-30T15:19:19.365563",
+      "jikan_mal_id": 17,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Vinland Saga 18. Bölüm",
+      "episode_number": 18,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/1030"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4310237"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/4hackuy6"
+        },
+        {
+          "fansub_id": 101,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1tPfO2YH8Mh2Tc9n0VXcgZH51MnxQY5oK/preview"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461601439"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4851360"
+        },
+        {
+          "fansub_id": 101,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/11khfbo5wxdz"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-r1hkfkcmv61u.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/aslikagan6/video/embed/_myvideo/119"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3748554"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/gr77bed4"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3749660"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835454"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/nf0lbo7m"
+        },
+        {
+          "fansub_id": 74,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ooqx1wh8nv70.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/6645"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835460"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3749727"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/4rqg08oj"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-hpsp9bh3tf6k.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 173.738,
+          "end": 263.034
+        },
+        "ed": {
+          "start": 1373,
+          "end": 1466
+        }
+      },
+      "added_date": "2026-07-30T15:19:19.365563",
+      "jikan_mal_id": 18,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Vinland Saga 19. Bölüm",
+      "episode_number": 19,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/1031"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4310239"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/7bacpw0z"
+        },
+        {
+          "fansub_id": 101,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/12_OFfTASycXxBf182fgI3DzLOjvTKFQH/preview"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461601440"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4851366"
+        },
+        {
+          "fansub_id": 101,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/n9gnk67qgzqi"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-fuqkpvbi0l5m.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835467"
+        },
+        {
+          "fansub_id": 128,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-rr500wdzi949.html"
+        },
+        {
+          "fansub_id": 128,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/zoe1pcz2"
+        },
+        {
+          "fansub_id": 128,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-vtw7nyj9cjtc.html"
+        },
+        {
+          "fansub_id": 74,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/6681"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3756678"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/9ax5tebm"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/6789"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3767767"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/a9tc21ep"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 89.533,
+          "end": 179.533
+        }
+      },
+      "added_date": "2026-07-30T15:19:19.365563",
+      "jikan_mal_id": 19,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Vinland Saga 20. Bölüm",
+      "episode_number": 20,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/1032"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4310242"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/12gl72iv"
+        },
+        {
+          "fansub_id": 101,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1VX1xS3oqF1wx8JCugbEFFNTW6zWsaQ34/preview"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461601441"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4851378"
+        },
+        {
+          "fansub_id": 101,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/empi87fxsls8"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-wdoejv7bjq7b.html"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3762241"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835473"
+        },
+        {
+          "fansub_id": 74,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-o8mzotkg24cd.html"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/jbo65ka4"
+        },
+        {
+          "fansub_id": 74,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-8ygbh5gwz1mw.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 0,
+          "end": 90
+        },
+        "ed": {
+          "start": 1372,
+          "end": 1466
+        }
+      },
+      "added_date": "2026-07-30T15:19:19.365563",
+      "jikan_mal_id": 20,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Vinland Saga 21. Bölüm",
+      "episode_number": 21,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/1033"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4310244"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/opocc5r3"
+        },
+        {
+          "fansub_id": 101,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1K_B7Gqx5rVdth_86toWNemKyZOiwaaKv/preview"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461601442"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4851385"
+        },
+        {
+          "fansub_id": 101,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/owhxihtsc93r"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-zchoikzv63xe.html"
+        },
+        {
+          "fansub_id": 74,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/6782"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3767251"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3767262"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/cg6ivnft"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7243"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3860643"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835475"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-3kkhgklna5et.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/iaxlmnlj"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-27sig5d4qh1y.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 1.594,
+          "end": 91.594
+        },
+        "ed": {
+          "start": 1376,
+          "end": 1466
+        }
+      },
+      "added_date": "2026-07-30T15:19:19.365563",
+      "jikan_mal_id": 21,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Vinland Saga 22. Bölüm",
+      "episode_number": 22,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/1034"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4310245"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/2kw1vavo"
+        },
+        {
+          "fansub_id": 101,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1whsJIxxZ5U2Mm54-gh-_K-dnVS9H3VAk/preview"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461601443"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4851402"
+        },
+        {
+          "fansub_id": 101,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/oh4nyz7qtnhb"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-qu2cn7lblnoh.html"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3772431"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835478"
+        },
+        {
+          "fansub_id": 74,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-jfthdwqr08zy.html"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ziizsjuk"
+        },
+        {
+          "fansub_id": 74,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-6klt87r7t14j.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7244"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3860654"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835484"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/eigpnr8e"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 119.462,
+          "end": 209.462
+        },
+        "ed": {
+          "start": 1373.482,
+          "end": 1466
+        }
+      },
+      "added_date": "2026-07-30T15:19:19.365563",
+      "jikan_mal_id": 22,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Vinland Saga 23. Bölüm",
+      "episode_number": 23,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/1035"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4310246"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/sa05y21k"
+        },
+        {
+          "fansub_id": 101,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1-xu5_tcawf_NFd_dKSXPPmCx_lQwGPmb/preview"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461601444"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4851419"
+        },
+        {
+          "fansub_id": 101,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/rd33a29ssn9o"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-3rq63yeyu8k7.html"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3776591"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835490"
+        },
+        {
+          "fansub_id": 74,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-zp4j7tgfb7p0.html"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/3slfsok8"
+        },
+        {
+          "fansub_id": 74,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-mwdcf3ri39qa.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7245"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3860671"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835493"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-hzeip8ynavsz.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/w0re765h"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-81ihkdd9o80j.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 0.302,
+          "end": 90.302
+        },
+        "ed": {
+          "start": 1373.485,
+          "end": 1466
+        }
+      },
+      "added_date": "2026-07-30T15:19:19.365563",
+      "jikan_mal_id": 23,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Vinland Saga 24. Bölüm Final",
+      "episode_number": 24,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/1036"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4310248"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/vcb1aisi"
+        },
+        {
+          "fansub_id": 101,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1NLQ9B6WvInZoV36mX7ir6gGvdrdwzoog/preview"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461601445"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4851432"
+        },
+        {
+          "fansub_id": 101,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/pbxhe0gg506r"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-x6hbl5tnmqq5.html"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3782064"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835497"
+        },
+        {
+          "fansub_id": 74,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2x1mw73ps8nj.html"
+        },
+        {
+          "fansub_id": 74,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/5sk5tfaz"
+        },
+        {
+          "fansub_id": 74,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-jfg3qz1wlxme.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7246"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3860683"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4835499"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-hnabx95d7aar.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/nm5s4vav"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-dm0ab39g8fok.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 74.4,
+          "end": 164.4
+        }
+      },
+      "added_date": "2026-07-30T15:19:19.365563",
+      "jikan_mal_id": 24,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "turkanime": {
+    "isim": "Made in Abyss Movie 1: Tabidachi no Yoake",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Made in Abyss animesinin 1-8 Bölümü içeren kısımdır.",
+    "slug": "made-in-abyss-movie-1-tabidachi-no-yoake"
+  },
+  "jikan": {
+    "mal_id": 37514,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1173/95167.jpg",
+    "trailer_id": "FqrFYzci_Ws",
+    "title": "Made in Abyss Movie 1: Tabidachi no Yoake",
+    "title_english": "Made in Abyss: Journey's Dawn",
+    "type": "Movie",
+    "source": "Web manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2019-01-04T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 59 min",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 8.19,
+    "popularity": 1669,
+    "synopsis": "The movie is a compilation of episodes 1-8 of the 2017 television series with new scenes added for the introduction. It covers the period from when Riko descends into the Abyss with her robot companion Reg, reaching the second layer where they meet the White Whistle Ozen who reveals information about Riko's mother.\n\n(Source: Wikipedia)",
+    "genres": [
+      2,
+      8,
+      10,
+      7,
+      24
+    ],
+    "themes": [
+      58
+    ],
+    "demographics": [],
+    "studios": [
+      290
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          37515
+        ]
+      },
+      {
+        "relation": "Full Story",
+        "entries": [
+          34599
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 101343,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Made in Abyss Movie 1: Tabidachi no Yoake",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 39,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1vjbvB3iLC4WDTGZtmOvD1D6gMxGdzNy8/preview"
+        },
+        {
+          "fansub_id": 39,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1yP4Ch9VXvy8KLu4UvZHFgWCkyBpmSu-p/preview"
+        },
+        {
+          "fansub_id": 39,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1851"
+        },
+        {
+          "fansub_id": 39,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140716707"
+        },
+        {
+          "fansub_id": 39,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-1babst9ix9w8.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:17:24.040265",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

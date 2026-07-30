@@ -1,0 +1,113 @@
+{
+  "turkanime": {
+    "isim": "Papa no Iukoto wo Kikinasai!: Pokkapoka",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Serinin yayınlanmayan special bölümüdür.",
+    "slug": "papa-no-iukoto-wo-kikinasai-pokkapoka"
+  },
+  "jikan": {
+    "mal_id": 12673,
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/78213.jpg",
+    "trailer_id": null,
+    "title": "Papa no Iukoto wo Kikinasai!: Pokkapoka",
+    "title_english": null,
+    "type": "Special",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2012-07-11T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.15,
+    "popularity": 3999,
+    "synopsis": "Unaired episode included in the fifth Blu-ray and fourth DVD volume.",
+    "genres": [
+      4,
+      22
+    ],
+    "themes": [
+      53
+    ],
+    "demographics": [],
+    "studios": [
+      91
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          11179
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          17875
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 12673,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Papa no Iukoto wo Kikinasai! Special: Pokkapoka",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 2,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ZtpINJe1IVXfaqqzHN1MFzDKQczsYXfe/preview"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/1898/2208.html"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271189371"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4499480"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2399842"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1185974"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/9u4pf09n"
+        },
+        {
+          "fansub_id": 2,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-5h1evmxet50i.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T01:17:47.281476",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

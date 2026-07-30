@@ -1,0 +1,108 @@
+{
+  "turkanime": {
+    "isim": "Sukitte Ii na yo.: Mei and Marshmallow",
+    "puan": "0.00",
+    "bolum_durumu": "1/10",
+    "ozet": "Sukitte Ii na yo animesinin kısa özel bölümleridir.",
+    "slug": "sukitte-ii-na-yo-mei-and-marshmallow"
+  },
+  "jikan": {
+    "mal_id": 17409,
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/46551.jpg",
+    "trailer_id": null,
+    "title": "Suki tte Ii na yo.: Mei and Marshmallow",
+    "title_english": "Say \"I Love You\".: Mei and Marshmallow Meow",
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2012-12-26T00:00:00+00:00",
+      "to": "2013-05-22T00:00:00+00:00"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.85,
+    "popularity": 3124,
+    "synopsis": "Specials released with the anime BD/DVD.",
+    "genres": [
+      22
+    ],
+    "themes": [
+      23
+    ],
+    "demographics": [
+      25
+    ],
+    "studios": [
+      218
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          14289
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 17409,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Sukitte Ii na yo Mei and Marshmallow 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 80,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1agVWOHaZy3_t4gnHfANN-pf4bLO3jPmm/preview"
+        },
+        {
+          "fansub_id": 80,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847189"
+        },
+        {
+          "fansub_id": 80,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933014518"
+        },
+        {
+          "fansub_id": 80,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4000661"
+        },
+        {
+          "fansub_id": 80,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4074750"
+        },
+        {
+          "fansub_id": 80,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-lmibmwpfxjpu.html"
+        },
+        {
+          "fansub_id": 80,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-g2ztbo35b2ii.html"
+        },
+        {
+          "fansub_id": 80,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/1ujsvdav"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T13:28:42.694971",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

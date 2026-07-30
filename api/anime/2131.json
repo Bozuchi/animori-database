@@ -1,0 +1,170 @@
+{
+  "turkanime": {
+    "isim": "Bokusatsu Tenshi Dokuro-chan 2",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Bokusatsu Tenshi Dokuro-chan ova serisidir.",
+    "slug": "bokusatsu-tenshi-dokuro-chan-2"
+  },
+  "jikan": {
+    "mal_id": 2131,
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/14709.jpg",
+    "trailer_id": null,
+    "title": "Bokusatsu Tenshi Dokuro-chan 2",
+    "title_english": "Bludgeoning Angel Dokuro-chan 2",
+    "type": "OVA",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2007-08-11T00:00:00+00:00",
+      "to": "2007-11-10T00:00:00+00:00"
+    },
+    "duration": "26 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 6.63,
+    "popularity": 2173,
+    "synopsis": "Only more bizarre, troublesome, and funny adventures await Sakura Kusakabe as he continues living with the angel sisters Dokuro and Zakuro Mitsukai. More angels, including the polite Sabato Mihashigo and the quirky Zansu, show up to join in on the crazy situations. More often than not, their antics lead to Dokuro and her trusty Excalibolg killing Sakura, turning him into a bloody pulp.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      4,
+      37,
+      9
+    ],
+    "themes": [
+      57,
+      58
+    ],
+    "demographics": [],
+    "studios": [
+      34
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          357
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          3881,
+          21646
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 2131,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2131-VBFmpBNtasLQ.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Bokusatsu Tenshi Dokuro-chan 2 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 37,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271196357"
+        },
+        {
+          "fansub_id": 37,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3458442"
+        },
+        {
+          "fansub_id": 37,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4532126"
+        },
+        {
+          "fansub_id": 37,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-b12otc6aqtmv.html"
+        },
+        {
+          "fansub_id": 37,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/8b51nizi"
+        },
+        {
+          "fansub_id": 37,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-jksj4wkc3s60.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 42.375,
+          "end": 139.265
+        },
+        "ed": {
+          "start": 1486.208,
+          "end": 1578.086
+        }
+      },
+      "added_date": "2026-07-23T06:33:11.852541",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Bokusatsu Tenshi Dokuro-chan 2 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 37,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1412qlyvCs-nq9Sw4bifJbk4fJ898T1eP/preview"
+        },
+        {
+          "fansub_id": 37,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359661982"
+        },
+        {
+          "fansub_id": 37,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271196358"
+        },
+        {
+          "fansub_id": 37,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3458465"
+        },
+        {
+          "fansub_id": 37,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4594720"
+        },
+        {
+          "fansub_id": 37,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-8hzknwm4hmv9.html"
+        },
+        {
+          "fansub_id": 37,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-l11764goy1xc.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 0,
+          "end": 90
+        },
+        "ed": {
+          "start": 1482.208,
+          "end": 1574
+        }
+      },
+      "added_date": "2026-07-23T06:33:11.852541",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "turkanime": {
+    "isim": "Gintama Movie 1: Shinyaku Benizakura-hen",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Film, Benizakura hikayesinin yeniden uyarlaması şeklindedir.",
+    "slug": "gintama-movie-1-shinyaku-benizakura-hen"
+  },
+  "jikan": {
+    "mal_id": 7472,
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/28803.jpg",
+    "trailer_id": "ZHAZCsDXecE",
+    "title": "Gintama Movie 1: Shinyaku Benizakura-hen",
+    "title_english": "Gintama: The Movie",
+    "type": "Movie",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2010-04-24T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 35 min",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 8.52,
+    "popularity": 1567,
+    "synopsis": "Gintoki and his Yorozuya friends (or rather, employees suffering under labor violations), Shinpachi and Kagura, continue to scrape by in the futuristic, alien-infested city of Edo. They take on whatever work they can find while trying not to get involved in anything too dangerous. But when Katsura, the leader of the Joui rebels and Gintoki's long-time acquaintance, disappears after being brutally attacked by an unknown assassin, Shinpachi and Kagura begin an investigation into his whereabouts and the identity of the assailant. Meanwhile, Gintoki takes on a seemingly unrelated job: the blacksmith Tetsuya requests that Gin recover a strange and powerful sword called the Benizakura which was recently stolen.\n\nAs the two investigations gradually intersect, the Yorozuya crew find themselves in the midst of a major conspiracy that hinges on the sinister nature of the Benizakura sword. Gintoki resolves to take the fight directly to the enemy headquarters, and together with a few unexpected allies, sets out on one of his most perilous jobs yet.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      1,
+      4,
+      24
+    ],
+    "themes": [
+      13,
+      20,
+      21
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      14
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          44
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          918
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          9735
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 7472,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/7472-twXDSWVrxXMT.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Gintama: Shinyaku Benizakura-hen Movie 1",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/11n6bVtMFPiRA_U3xLhwr0wnVAdfeEvVh/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/sweetparade2/video/embed/_myvideo/689"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271188254"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140718352"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4475291"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/erlf4g4o"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-aools3ed5pzr.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T23:50:29.265733",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

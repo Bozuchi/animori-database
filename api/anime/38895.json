@@ -1,0 +1,141 @@
+{
+  "turkanime": {
+    "isim": "Double Decker! Doug & Kirill: Extra",
+    "puan": "0.00",
+    "bolum_durumu": "2/3",
+    "ozet": "Double Decker! Doug & Kirill animesinin özel bölümleridir.",
+    "slug": "double-decker-doug-kirill-extra"
+  },
+  "jikan": {
+    "mal_id": 38895,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1987/97850.jpg",
+    "trailer_id": null,
+    "title": "Double Decker! Doug & Kirill: Extra",
+    "title_english": null,
+    "type": "Special",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2019-02-10T00:00:00+00:00",
+      "to": "2019-04-10T00:00:00+00:00"
+    },
+    "duration": "24 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.12,
+    "popularity": 8042,
+    "synopsis": "During the final episode pre-screening event on Friday, it was announced that Double Decker! Doug &amp; Kirill TV anime will get three extra episodes. Titled Double Decker! Doug &amp; Kirill: Extra, the three episodes will be streamed via Bandai Channel and other streaming websites between February and April 2019. The Blu-ray and DVD for the extra episodes will also be released on May 24, 2019.\n\n(Source: MAL News)",
+    "genres": [
+      1,
+      4,
+      7,
+      24
+    ],
+    "themes": [
+      50,
+      39
+    ],
+    "demographics": [],
+    "studios": [
+      14
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          37496
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 106690,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Double Decker! Doug & Kirill Extra 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 34,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1thnpWnnvzlxih-Tqk3wSk74HiMte3m5q/preview"
+        },
+        {
+          "fansub_id": 34,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359660060"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3586142"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3563827"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4459332"
+        },
+        {
+          "fansub_id": 34,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-en7i6hhzkdo8.html"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/op0ufei6"
+        },
+        {
+          "fansub_id": 34,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-pajir62u9dvq.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T22:08:16.487193",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Double Decker! Doug & Kirill Extra 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 34,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1w8tqoc_lmGllQBOj48luDsRjOOEiAJuK/preview"
+        },
+        {
+          "fansub_id": 34,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985849354"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3586137"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4427507"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T22:08:16.487193",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

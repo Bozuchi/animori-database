@@ -1,0 +1,106 @@
+{
+  "turkanime": {
+    "isim": "Road of Naruto",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Naruto serisinin 20. yıl özel bölümüdür.",
+    "slug": "road-of-naruto"
+  },
+  "jikan": {
+    "mal_id": 53236,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1731/128787.jpg",
+    "trailer_id": null,
+    "title": "Road of Naruto",
+    "title_english": "Road of Naruto",
+    "type": "PV",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2022-10-03T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "9 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.38,
+    "popularity": 4155,
+    "synopsis": "In celebration of 20 years of Naruto, Studio Pierrot posted an anniversary PV on their YouTube channel. The PV is a compilation of newly reworked scenes from Naruto containing new animation.",
+    "genres": [
+      1,
+      10
+    ],
+    "themes": [
+      17
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      1
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          11
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          20,
+          1735
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 155348,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/155348-I6f4TQKslVx2.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Road of Naruto ONA",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 189,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1q-SQ30lVn6mvR2RKVChkofUCW1l2BRdu/preview"
+        },
+        {
+          "fansub_id": 189,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682368940"
+        },
+        {
+          "fansub_id": 189,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4907934"
+        },
+        {
+          "fansub_id": 189,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/kvguq60llqbu"
+        },
+        {
+          "fansub_id": 189,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-70qjwil1xjtz.html"
+        },
+        {
+          "fansub_id": 189,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-a4a28elhylkz.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T04:45:45.111009",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

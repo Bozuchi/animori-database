@@ -1,0 +1,124 @@
+{
+  "turkanime": {
+    "isim": "Break Blade 2: Ketsubetsu no Michi",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Break Blade animesinin 2. filmidir.",
+    "slug": "break-blade-2-ketsubetsu-no-michi"
+  },
+  "jikan": {
+    "mal_id": 8514,
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/68081.jpg",
+    "trailer_id": null,
+    "title": "Break Blade Movie 2: Ketsubetsu no Michi",
+    "title_english": "Broken Blade 2",
+    "type": "Movie",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2010-06-26T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "51 min",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.7,
+    "popularity": 3165,
+    "synopsis": "Second Break Blade movie.",
+    "genres": [
+      10
+    ],
+    "themes": [
+      50,
+      18,
+      38
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      10,
+      27
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          6772
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          9252
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          4608
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          22433
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 8514,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Break Blade 2: Ketsubetsu no Michi Movie",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1nZackxm_dsVTMua63-sN-bFfYUnBZfXj/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/keshinn62/_myvideo/15.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4114433"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2585709"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4493124"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/obk0luyl"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-cxmoa0wrm2b1.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T07:01:16.030230",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

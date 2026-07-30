@@ -1,0 +1,163 @@
+{
+  "turkanime": {
+    "isim": "Teekyuu 7 Specials",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Teekyuu serisinin 7. sezonunun özel bölümleridir.",
+    "slug": "teekyuu-7-specials"
+  },
+  "jikan": {
+    "mal_id": 32817,
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/83104.jpg",
+    "trailer_id": null,
+    "title": "Teekyuu 7 Specials",
+    "title_english": "Teekyu 7 Specials",
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2016-05-27T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.17,
+    "popularity": 10059,
+    "synopsis": "Unaired specials included in the Blu-ray and DVD release.",
+    "genres": [
+      4,
+      30
+    ],
+    "themes": [],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      1237
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          32228
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 98760,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Teekyuu 7 Specials 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1WBoMzGqu7Coh0pB11kAr3ngTe4M7IJ-K/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1vzmKFEu2f_JhefsWzkrcID8q31NI7O53/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/571224138646/video/embed/_myvideo/340"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359659305"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3888065"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4457462"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-fs30fn4gslsa.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-m4owdepd7cfs.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ufyj6zy7"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T15:32:35.733033",
+      "jikan_mal_id": 1,
+      "filler": true,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Teekyuu 7 Specials 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1NRJ-lFV_NEylGG77H_WKFDd-RM-MsJyc/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1JecUHjwxCMiryxY-6wJksVIW_XQaUsaj/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/571224138646/video/embed/_myvideo/341"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359659306"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3888083"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4457463"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ryjvzqaa6k48.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2tfelx73ciqs.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T15:32:35.733033",
+      "jikan_mal_id": 2,
+      "filler": true,
+      "recap": false
+    }
+  ]
+}

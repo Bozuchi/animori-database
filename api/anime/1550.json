@@ -1,0 +1,99 @@
+{
+  "turkanime": {
+    "isim": "Attack No.1",
+    "puan": "0.00",
+    "bolum_durumu": "1/104",
+    "ozet": "Kozue hevesli bir voleybol oyuncusudur ve hayali Japon milli voleybol takımında oynamaktır. Seri lise voleybol turnuvasından uluslararası voleybol turnuvasına kadar adım adım ilerliyor. Kozue kariyer basamaklarını hızlı bir şekilde tırmanır ama aynı zamanda başarının karanlık tarafı ile karşılaşır. Büyük beklentiler, kibir ve kıskançlık gibi ciddi sorunlarla karşı karşıyadır.",
+    "slug": "attack-no-1"
+  },
+  "jikan": {
+    "mal_id": 1550,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1324/135450.jpg",
+    "trailer_id": null,
+    "title": "Attack No.1",
+    "title_english": null,
+    "type": "TV",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": 1970,
+    "season": "winter",
+    "airing": false,
+    "aired": {
+      "from": "1969-12-07T00:00:00+00:00",
+      "to": "1971-11-28T00:00:00+00:00"
+    },
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.83,
+    "popularity": 7046,
+    "synopsis": "Kozue is a middleschool girl and enthusiastic volleyball player. Her dream is to play in the Japanese national volleyball team. During the series she makes it from the school district league up to the Japanese volleyball finals, step by step till the international volleyball championship. But the faster and higher Kozue climbs the career ladder up, the more she gets confronted with the dark side of success: too high expectations, self-conceit and envy are progressing towards serious problems.\n\n(Source: ANN)",
+    "genres": [
+      8,
+      30
+    ],
+    "themes": [
+      23,
+      77
+    ],
+    "demographics": [
+      25
+    ],
+    "studios": [
+      65
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          10199
+        ]
+      },
+      {
+        "relation": "Summary",
+        "entries": [
+          9163,
+          9165,
+          9166,
+          9164
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 1550,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1550-UWVAdQvlFnQ0.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Attack No.1 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 66,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1eYQbd3-kz7L9Gq9E7u9MmwUkopimQVE5/preview"
+        },
+        {
+          "fansub_id": 66,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7019"
+        },
+        {
+          "fansub_id": 66,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3811110"
+        },
+        {
+          "fansub_id": 66,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-t75qf339chux.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T03:14:09.041610",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

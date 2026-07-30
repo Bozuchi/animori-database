@@ -1,0 +1,617 @@
+{
+  "turkanime": {
+    "isim": "Wind Breaker",
+    "puan": "9.44",
+    "bolum_durumu": "13/13",
+    "ozet": "Haruka Sakura’nın zayıflarla işi yoktur. Sadece en güçlüler ile ilgileniyordur. Sadece şehirlerini kötü niyetli herkesten korumak için kullandıkları kavgacı güçleriyle bilinen bir aykırılar okulu olan Furin Lisesi'ne yeni başlamıştır. Ama Haruka, kahraman olmakla ya da herhangi bir takımın parçası olmakla ilgilenmemektedir. Onun tek isteği, zirve yarışında herkesi geçmektir.",
+    "slug": "wind-breaker"
+  },
+  "jikan": {
+    "mal_id": 54900,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1438/141816.jpg",
+    "trailer_id": "k5qM1PoLmUc",
+    "title": "Wind Breaker",
+    "title_english": "Wind Breaker",
+    "type": "TV",
+    "source": "Web manga",
+    "status": "Finished Airing",
+    "year": 2024,
+    "season": "spring",
+    "airing": false,
+    "aired": {
+      "from": "2024-04-05T00:00:00+00:00",
+      "to": "2024-06-28T00:00:00+00:00"
+    },
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.71,
+    "popularity": 561,
+    "synopsis": "From an early age, Haruka Sakura was made an outcast due to his unconventional appearance and lack of social skills. However, the rough treatment turned him into a proficient fighter, which is now the only thing he prides himself on. Starting at Furin High School, where it is rumored that strength is valued over academics, Sakura has only one goal—taking the top spot.\n\nInvolved in a street brawl the day before his enrollment, Sakura happens to meet a group of his future schoolmates. Instead of the usual rejection, they fight alongside him, demonstrating that what the school actually cares about is protecting the town of Makochi from any harm—hence why the students call themselves \"Bofurin.\" Surprised by the support and appreciation of the townspeople, Sakura has a hard time accepting their goodwill.\n\nThough unfamiliar with kindness being shown to him, Sakura must learn to push past his discomfort when Bofurin is pitted against formidable enemies. After experiencing the feeling of acceptance, he finds himself fighting for the sake of others for the first time.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      1
+    ],
+    "themes": [
+      55,
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      1835
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          59160
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          133081
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          58698
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 163270,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163270-fcjrqp3iKWdb.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Wind Breaker 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1GcZfndTUR7VAmL_o4GIE8p8IrBElAKFe/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5504237"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5504238"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/ekb04iek7cz7"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-tp9f728flmss.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 208,
+          "end": 297
+        },
+        "ed": {
+          "start": 1320,
+          "end": 1407
+        }
+      },
+      "added_date": "2026-07-30T16:11:19.643686",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Wind Breaker 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1QketU50GGvuAfA5ZlWXTmrWjR_1PAjPd/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5504240"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5504241"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/eatoacxnkk0h"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-z3vaviab5joz.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 0,
+          "end": 90
+        },
+        "ed": {
+          "start": 1353,
+          "end": 1404
+        }
+      },
+      "added_date": "2026-07-30T16:11:19.643686",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Wind Breaker 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1TOauC-IK99dGxNfXIXIMGAvwOSWMkK5M/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5513772"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5513773"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/6w7tcr1hro93"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-zwif7j7eam3f.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 91,
+          "end": 180
+        },
+        "ed": {
+          "start": 1315,
+          "end": 1404
+        }
+      },
+      "added_date": "2026-07-30T16:11:19.643686",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Wind Breaker 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1esW3y2hZeNEprEc5Erz5jolRzL90-fUo/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5517301"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5517302"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/3q3ix5gck99i"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-0c542jqaa7kf.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 373.711,
+          "end": 463.711
+        }
+      },
+      "added_date": "2026-07-30T16:11:19.643686",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Wind Breaker 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1UfwWYJfa-GJiuP-UBBuXyt0c2ncGJE3G/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5530763"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5530761"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/0bfusyf4c6hc"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-cmff0350mt2i.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 82.748,
+          "end": 172.748
+        }
+      },
+      "added_date": "2026-07-30T16:11:19.643686",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Wind Breaker 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1in6OlhUV4XbD4en9g3r4TvtSqW_F0xTD/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5534185"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5534186"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/urq8xrzpiacj"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vuw4yt3ui6hj.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1315,
+          "end": 1404
+        }
+      },
+      "added_date": "2026-07-30T16:11:19.643686",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Wind Breaker 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1rZsbhvGj8Oi85NkcKu-gZDVnoLt33G19/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5537443"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5537442"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/g2y7p6mxun8i"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-4duhty4ofjdx.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 154.683,
+          "end": 244.683
+        },
+        "ed": {
+          "start": 1315,
+          "end": 1404
+        }
+      },
+      "added_date": "2026-07-30T16:11:19.643686",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Wind Breaker 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1OId3Vrb_fCUQnecJ1qrOvWODtclWrT04/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5544675"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5544674"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/2tuc3jjwfawu"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-e20vvkovece4.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 22.59,
+          "end": 112.59
+        }
+      },
+      "added_date": "2026-07-30T16:11:19.643686",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Wind Breaker 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ccOYKm1PP59nSBbgbtB9atCw5EahCXi1/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5550558"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5550559"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/3sh2f7zqkonz"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-53wpkuy6n25l.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T16:11:19.643686",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Wind Breaker 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1QlnSykHLUb5A6McXjEW3r9eQghWYsrPt/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5556513"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5556514"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/qv11di27w2mi"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vktk9l6vud3a.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 88.686,
+          "end": 178.686
+        }
+      },
+      "added_date": "2026-07-30T16:11:19.643686",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Wind Breaker 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1BQbcv44TRHdTFkGOefrcruobO8hlZ_2s/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5571454"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5571455"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/jlkxfvlx883m"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-v6zgymuz2mgl.html"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-69nf3nrglc3b.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 310.308,
+          "end": 400.308
+        }
+      },
+      "added_date": "2026-07-30T16:11:19.643686",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Wind Breaker 12. Bölüm",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1CUYabl0TLWByuzdC9RYfFrTUIg-wslw7/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5572511"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5572510"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/pbqyou796ryn"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-u8al7tl424sb.html"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-60mq6wzduesf.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1314,
+          "end": 1403
+        }
+      },
+      "added_date": "2026-07-30T16:11:19.643686",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Wind Breaker 13. Bölüm Final",
+      "episode_number": 13,
+      "videos": [
+        {
+          "fansub_id": 13,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1aT7JI23OeA3PPc2G1gNVlLGW-UtHmuoH/preview"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5579227"
+        },
+        {
+          "fansub_id": 13,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5579226"
+        },
+        {
+          "fansub_id": 13,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/sqes9sfjfflm"
+        },
+        {
+          "fansub_id": 13,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-kuc20va3oeug.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T16:11:19.643686",
+      "jikan_mal_id": 13,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

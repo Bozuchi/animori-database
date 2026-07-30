@@ -1,0 +1,95 @@
+{
+  "turkanime": {
+    "isim": "Hakumei to Mikochi: Neji to Bed to Irori to Bakuchi",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Hakumei to Mikochi'nin özel bölümüdür.",
+    "slug": "hakumei-to-mikochi-neji-to-bed-to-irori-to-bakuchi"
+  },
+  "jikan": {
+    "mal_id": 37109,
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/90014.jpg",
+    "trailer_id": null,
+    "title": "Hakumei to Mikochi: Neji to Bed to Irori to Bakuchi",
+    "title_english": null,
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2018-06-27T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.57,
+    "popularity": 7403,
+    "synopsis": "Special episode included in the second Blu-ray/DVD volume.",
+    "genres": [
+      10,
+      36
+    ],
+    "themes": [
+      63
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      456
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          80841
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          36094
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 101696,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Hakumei to Mikochi: Neji to Bed to Irori to Bakuchi Special",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1RtzR9EQ2KuVE9iFG___l-r0-y12B-ous/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/2021"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933014622"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-u79qqmq4zf4r.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T01:53:17.647334",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "turkanime": {
+    "isim": "Pokemon Movie 23: Koko",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Münzevi Zarude ile ormanda büyüyen Koko, Ash ve Pikachu ile tanıştığında insanların dünyasını keşfeder ve yuvasını tehdit eden bir plandan haberdar olur.",
+    "slug": "pokemon-movie-23-koko"
+  },
+  "jikan": {
+    "mal_id": 40881,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1029/106237.jpg",
+    "trailer_id": "smxgbrrzp5o",
+    "title": "Pokemon Movie 23: Koko",
+    "title_english": "Pokémon the Movie: Secrets of the Jungle",
+    "type": "Movie",
+    "source": "Game",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2020-12-25T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 39 min",
+    "rating": "PG - Children",
+    "score": 7.28,
+    "popularity": 4611,
+    "synopsis": "Deep within the Forest of Okoya, the Mythical Pokémon Zarude live in a troop and maintain a strict rule that forbids outsiders from entering their territory. Elsewhere in the jungle lives Koko, a human boy raised by a lone Zarude who left the troop. Koko has grown up never doubting that he is a Zarude. But one day, a chance meeting with Satoshi and Pikachu leaves Koko with his first human friend. Is he truly a Pokémon? Or is he, in fact, a human? When danger threatens the jungle, the bonds between Pokémon and human—and the love between parent and child—will be put to the test.\n\n(Source: Official site)",
+    "genres": [
+      1,
+      2,
+      4,
+      10
+    ],
+    "themes": [
+      11
+    ],
+    "demographics": [
+      15
+    ],
+    "studios": [
+      28
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          36927
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          159737
+        ]
+      },
+      {
+        "relation": "Alternative Setting",
+        "entries": [
+          527
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 114564,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/114564-AMdt1tHgY7ZL.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Pokemon: Koko Movie 23",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 149,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ijqrDQcyBysdpqEmNFpw_B2heUN4KIN3/preview"
+        },
+        {
+          "fansub_id": 149,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656444"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/10Oe4Ur_8UaqLTjzRPqRNivZEOEZTXJPs/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656443"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T02:27:09.032340",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "turkanime": {
+    "isim": "Gabriel DropOut Specials",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Animeye ait özel bölümlerdir.",
+    "slug": "gabriel-dropout-specials"
+  },
+  "jikan": {
+    "mal_id": 34855,
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/89690.jpg",
+    "trailer_id": null,
+    "title": "Gabriel DropOut Specials",
+    "title_english": null,
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2017-03-24T00:00:00+00:00",
+      "to": "2017-05-24T00:00:00+00:00"
+    },
+    "duration": "15 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.61,
+    "popularity": 2875,
+    "synopsis": "Specials included with the Blu-ray/DVD release of Gabriel DropOut.",
+    "genres": [
+      4,
+      37
+    ],
+    "themes": [
+      52,
+      6,
+      23
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      95
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entries": [
+          33731
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 98524,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Gabriel DropOut OVA 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 25,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/degurechaff.mail/video/embed/_myvideo/4"
+        },
+        {
+          "fansub_id": 25,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/6412852675095822640"
+        },
+        {
+          "fansub_id": 25,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-qu0oye9zcaoj.html"
+        },
+        {
+          "fansub_id": 25,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/1an0y54z"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4087594"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T22:12:33.264862",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Gabriel DropOut OVA 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 25,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/bthnduran/video/embed/_myvideo/2806"
+        },
+        {
+          "fansub_id": 25,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/6412852675095822639"
+        },
+        {
+          "fansub_id": 25,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2935855"
+        },
+        {
+          "fansub_id": 25,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-g0okkjpq6750.html"
+        },
+        {
+          "fansub_id": 25,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/k7xqsm6j"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4087596"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T22:12:33.264862",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

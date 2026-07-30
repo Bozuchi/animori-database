@@ -1,0 +1,103 @@
+{
+  "turkanime": {
+    "isim": "High School DxD New: Oppai, Tsutsumimasu!",
+    "puan": "9.05",
+    "bolum_durumu": "1/1",
+    "ozet": "Sınırlı High School DxD DX.1 sürümü içerisinde yer alan yayımlanmamış anime bölümü.",
+    "slug": "high-school-dxd-new-oppai-tsutsumimasu"
+  },
+  "jikan": {
+    "mal_id": 30300,
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/73605.jpg",
+    "trailer_id": null,
+    "title": "High School DxD New: Oppai, Tsutsumimasu!",
+    "title_english": "High School DxD New OVA",
+    "type": "OVA",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2015-03-10T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "24 min",
+    "rating": "R+ - Mild Nudity",
+    "score": 7.27,
+    "popularity": 1547,
+    "synopsis": "Unaired anime episode bundled with the limited edition of High School DxD DX.1.",
+    "genres": [
+      1,
+      4,
+      22,
+      37,
+      9
+    ],
+    "themes": [
+      35,
+      6,
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      120
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          15451
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          24703
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 21103,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "High School DxD New: Oppai, Tsutsumimasu!",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 8,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/shimazu00/video/embed/_myvideo/85"
+        },
+        {
+          "fansub_id": 8,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271187991"
+        },
+        {
+          "fansub_id": 8,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/2107"
+        },
+        {
+          "fansub_id": 8,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3054463"
+        },
+        {
+          "fansub_id": 8,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1787759"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T03:20:31.183664",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

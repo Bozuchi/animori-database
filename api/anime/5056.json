@@ -1,0 +1,83 @@
+{
+  "turkanime": {
+    "isim": "Penguin Musume♥Heart Special",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Penguin Musume♥Heart serisinin Special (11.5) bölümüdür.",
+    "slug": "penguin-musume-heart-special"
+  },
+  "jikan": {
+    "mal_id": 5056,
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/30423.jpg",
+    "trailer_id": null,
+    "title": "Penguin Musume♥Heart Special",
+    "title_english": null,
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2008-08-01T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "10 min",
+    "rating": "R+ - Mild Nudity",
+    "score": 6.35,
+    "popularity": 10255,
+    "synopsis": "ONA Special episode #11.5.",
+    "genres": [
+      4,
+      9
+    ],
+    "themes": [
+      69,
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      78
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          4136
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 5056,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Penguin Musume Heart 11.5. Bölüm",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682370671"
+        },
+        {
+          "fansub_id": 1,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/2tzhpszury0r"
+        },
+        {
+          "fansub_id": 1,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-fs2dybf4yf4a.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T01:26:16.304026",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

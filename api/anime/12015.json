@@ -1,0 +1,106 @@
+{
+  "turkanime": {
+    "isim": "Tiger & Bunny Movie 1: The Beginning",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Alternatif bir Dünya'da geçen hikâyede, Süperkahramanlar sosyete ünlüleridir, yüksek rating alan bir TV programı da onları başarılarına göre puanlamaktadır. Programın sonunda, yılın Kahramanlar Kralı seçilmektedir. Eski toprak kahraman Vahşi Kaplan'ın (Wild Tiger) yeni ortağı ise, kahramanların toplumdaki yerine dair çok farklı görüşlere sahiptir. Bu esnada, kendini kanun sayan birinin kendi adaletini uygulamaya kalkması, önlerine ciddi bir sorun çıkarır.",
+    "slug": "tiger-bunny-movie-1-the-beginning"
+  },
+  "jikan": {
+    "mal_id": 12015,
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/40041.jpg",
+    "trailer_id": "4g7rJr-DTAY",
+    "title": "Tiger & Bunny Movie 1: The Beginning",
+    "title_english": "Tiger & Bunny Movie 1",
+    "type": "Movie",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2012-09-22T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 32 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.39,
+    "popularity": 4885,
+    "synopsis": "The first of two Tiger and Bunny movies, based on the first two episodes of the TV series with additional new scenes.",
+    "genres": [
+      1,
+      4,
+      7
+    ],
+    "themes": [
+      50,
+      31
+    ],
+    "demographics": [],
+    "studios": [
+      14
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          12017
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          64607
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          9941
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 12015,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Tiger & Bunny Movie 1: The Beginning",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/19bBtLXSP0Hk-mW1_N-HL8Xdt73hpQYu2/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1WCaIg56RgvQ3hwXMeiDnOishOOsULWux/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/634.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/2444636457931908122"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ckk63adjfwra.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T16:41:36.604757",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

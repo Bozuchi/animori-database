@@ -1,0 +1,88 @@
+{
+  "turkanime": {
+    "isim": "Eureka Seven AO: Jungfrau no Hanabana-tachi",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Eureka Seven AO serisinin sekiz ve dokuzuncu bölümlerinin arasında geçer.",
+    "slug": "eureka-seven-ao-jungfrau-no-hanabana-tachi"
+  },
+  "jikan": {
+    "mal_id": 14875,
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/40311.jpg",
+    "trailer_id": null,
+    "title": "Eureka Seven AO: Jungfrau no Hanabana-tachi",
+    "title_english": "Eureka Seven AO OVA",
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2012-09-20T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "31 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.24,
+    "popularity": 6883,
+    "synopsis": "An original video anime, released on Blu-ray in a combined Hybrid Disc that also hold an Eureka Seven AO game for the PlayStation 3. \n\nThe OVA is set between episodes eight and nine of the series.",
+    "genres": [
+      2,
+      8,
+      24
+    ],
+    "themes": [
+      18
+    ],
+    "demographics": [],
+    "studios": [
+      4
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          12471
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 14875,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Eureka Seven AO: Jungfrau no Hanabana-tachi",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 4,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/17AhoKn-aoal4KDjR_55BLgXNjd1m2F10/preview"
+        },
+        {
+          "fansub_id": 4,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933018033"
+        },
+        {
+          "fansub_id": 4,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1260287"
+        },
+        {
+          "fansub_id": 4,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-sgtdaojdhwvb.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T00:29:36.084330",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

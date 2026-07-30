@@ -1,0 +1,86 @@
+{
+  "turkanime": {
+    "isim": "Uchuu Kyoudai: Apo's Dream",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Uchuu Kyoudai mangasının sınırlı sayıda basılan 17. sayısında çıkan DVD'deki OVA'dır. Biricik Apo'nun kısa maceralarını anlatır.",
+    "slug": "uchuu-kyoudai-apo-s-dream"
+  },
+  "jikan": {
+    "mal_id": 13479,
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/37631.jpg",
+    "trailer_id": null,
+    "title": "Uchuu Kyoudai: Apo's Dream",
+    "title_english": "Space Brothers: Apo's Dream",
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2012-03-23T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "16 min",
+    "rating": "PG - Children",
+    "score": 5.26,
+    "popularity": 9985,
+    "synopsis": "Included on a DVD within the limited edition of the manga's volume 17. \n\nApo, the pet dog from the manga, will star in the anime.",
+    "genres": [
+      4,
+      24
+    ],
+    "themes": [
+      71,
+      29
+    ],
+    "demographics": [],
+    "studios": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          12431
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 20561,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Uchuu Kyoudai Apo's Dream (OVA)",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1WmvtJWB06VqFLb061NINoY50W3Ep_Jyb/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656202"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4438869"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-om0vozfkxhfq.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T19:08:17.980352",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

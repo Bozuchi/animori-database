@@ -1,0 +1,98 @@
+{
+  "turkanime": {
+    "isim": "Gambo",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Eski bir japon inanışın göre 100 yaşının üstündeki eşyaların ruh kazanıp, aklını çelmeye çalıştığı rivayet olunurmuş, Short Peace bu cümle ile başlıyor. Film fantastik olaylar ve bilim-kurgu türünde karşımıza gelirken, farklı yönetmenler tarafından yaratılan 4 kısa animasyondan oluşuyor.",
+    "slug": "gambo"
+  },
+  "jikan": {
+    "mal_id": 17679,
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/53167.jpg",
+    "trailer_id": null,
+    "title": "Gambo",
+    "title_english": "Gambo",
+    "type": "Movie",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2013-07-20T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "12 min",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 6.51,
+    "popularity": 7306,
+    "synopsis": "Gambo is about a battle between a creature who's been killing members of a royal Japanese family, and a mysterious white bear who protects them.\n\n(Source: Crunchyroll)",
+    "genres": [
+      1,
+      37
+    ],
+    "themes": [
+      13,
+      6
+    ],
+    "demographics": [],
+    "studios": [
+      14
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entries": [
+          13639,
+          14853,
+          17677,
+          19573
+        ]
+      }
+    ]
+  },
+  "anilist": null,
+  "episodes": [
+    {
+      "turkanime_title": "Short Peace",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1wM_9gxl_MNSspdrlDSbhbn4oRZArlZN9/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985852876"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/1722"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1965158"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/rqt2hvrd"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-kth0dtzbh8kl.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T22:30:46.908955",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

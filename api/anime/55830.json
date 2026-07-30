@@ -1,0 +1,753 @@
+{
+  "turkanime": {
+    "isim": "Fate/strange Fake",
+    "puan": "0.00",
+    "bolum_durumu": "13/?",
+    "ozet": "Fate/strange Fake, geçmişte yaşanmış bir Kutsal Kase Savaşı'nın gölgesinde şekilleniyor. Fuyuki'deki Üçüncü Kutsal Kase Savaşı'nın ardından, gizemli bir Amerikan örgütü, bu savaşın verilerini kullanarak kendi savaşlarını oluşturdular. Londra'daki Büyücü Derneği'nden bağımsız hareket eden bu örgüt, yetmiş yıl sonra Snowfield şehrini seçti ve burada yeni bir Kutsal Kase Savaşı başlattı. Ancak tuhaf kısmı bu ritüel üçüncü savaşın kusurlu bir kopyası oldu.rnrnBu sahte savaşta Saber sınıfı kaybolmuş, kahramanlık kavramının sınırları bulanıklaşmış ve tuhaf Hizmetkarlar çağrılmıştı. İşte tam bu noktada, Büyücü Derneği'nin iki ajanı, Rohngall ve öğrencisi Faldeus, Snowfield'a adım attı. Ancak Faldeus aslında Amerikan casusuydu! Ustasını acımasızca ortadan kaldıran Faldeus, bu sahte savaşın gerçek olduğunu ve çoktan başladığını haykırdı. Saat Kulesi'nde şok dalgaları yaratan Faldeus, amacının bu gizli projeyi tüm dünyaya ilan etmek olduğunu söyledi.",
+    "slug": "fate-strange-fake"
+  },
+  "jikan": {
+    "mal_id": 55830,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1752/150192.jpg",
+    "trailer_id": "EzbZP62K1-Q",
+    "title": "Fate/strange Fake",
+    "title_english": "Fate/strange Fake",
+    "type": "TV",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": 2026,
+    "season": "winter",
+    "airing": false,
+    "aired": {
+      "from": "2026-01-03T00:00:00+00:00",
+      "to": "2026-03-28T00:00:00+00:00"
+    },
+    "duration": "24 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 8.28,
+    "popularity": 1541,
+    "synopsis": "A new Holy Grail War is emerging in Snowfield, Nevada, where mages from around the world summon Servants, heroic spirits drawn from myth and history, to fight on their behalf. However, this war seems to differ from previous ones. The organization behind it appears to have used data from the Fuyuki Grail War for their ritual, resulting in strange happenings. \n\nUnbeknownst to most participants, this budding conflict is actually a fake Grail War. There exists another set of seven true Servants who are summoned to fight in the genuine Holy Grail War. One of these Servants is a powerful Saber-class who saves the life of Ayaka Sajou, his apparent master, after being summoned. \n\nWith hidden agendas and unpredictable forces at play, the line between the fake and true Grail War becomes unclear, turning Snowfield into a dangerous battlefield.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      1,
+      10
+    ],
+    "themes": [
+      82
+    ],
+    "demographics": [],
+    "studios": [
+      56
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          53127
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          83923,
+          83903
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          12565
+        ]
+      },
+      {
+        "relation": "Alternative Setting",
+        "entries": [
+          356
+        ]
+      },
+      {
+        "relation": "Character",
+        "entries": [
+          38959
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          40982
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 166617,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166617-P4w3p0H4lE1O.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Fate/strange Fake 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 43,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/12ZBCwCWl6boT_gCUs0_X6ZlBujo5jrMJ/preview"
+        },
+        {
+          "fansub_id": 43,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5787642"
+        },
+        {
+          "fansub_id": 43,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/qrkbkr9z12xz"
+        },
+        {
+          "fansub_id": 43,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-pmk648y3mp8f.html"
+        },
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1VaNIs8K8-EUvj7oLAqu3btY74YE-G6l3/preview"
+        },
+        {
+          "fansub_id": 112,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1lcnLAPD1boXGjsu2-f72ZXfwHckr4YoG/preview"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5802140"
+        },
+        {
+          "fansub_id": 112,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/thrbp5f2ssov"
+        },
+        {
+          "fansub_id": 112,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-8mwu8tzrkiiu.html"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/52m87zki"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 19.037,
+          "end": 109.037
+        },
+        "ed": {
+          "start": 1226.58,
+          "end": 1377.31
+        }
+      },
+      "added_date": "2026-07-25T01:27:30.361223",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Fate/strange Fake 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Nf-O90UEzzLp3Uzksz9Mne-gyGLg6_W2/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6096505"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/s60s1hf4"
+        },
+        {
+          "fansub_id": 112,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1f_0psM3Oc64-dKaqm64KI7gDkWVqhtKB/preview"
+        },
+        {
+          "fansub_id": 112,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9186183023140277525"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6103744"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 100,
+          "end": 189.96
+        },
+        "ed": {
+          "start": 1329.93,
+          "end": 1420.053
+        }
+      },
+      "added_date": "2026-07-25T01:27:30.361223",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Fate/strange Fake 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1OW7d-ayRUBbQEUvGJUidTTnPdz_t1Kow/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6101508"
+        },
+        {
+          "fansub_id": 11,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-hti4pov04fgh.html"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/i886ow01"
+        },
+        {
+          "fansub_id": 112,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1MZnbevPT2__Z2QTvLtH9iij8VE5X3vIM/preview"
+        },
+        {
+          "fansub_id": 112,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9186183023140277526"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6103745"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 133.99,
+          "end": 224
+        },
+        "ed": {
+          "start": 1329.98,
+          "end": 1420.01
+        }
+      },
+      "added_date": "2026-07-25T01:27:30.361223",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Fate/strange Fake 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1GZqZs33TB1EDC_vkWe5Vw-iZPwadq-EI/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6106976"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ak77vz6r"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 93.99,
+          "end": 183.96
+        },
+        "ed": {
+          "start": 1329.98,
+          "end": 1420.053
+        }
+      },
+      "added_date": "2026-07-25T01:27:30.361223",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Fate/strange Fake 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Jifu6ahE73INOqVbnfofJ3BEc41Qw_XI/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6112179"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/zigrl0ve"
+        },
+        {
+          "fansub_id": 112,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1irQNwbdRl5Q4iVImAXQ4IoRsfBamIO7I/preview"
+        },
+        {
+          "fansub_id": 112,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9186183023140277658"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6114492"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 148,
+          "end": 238.01
+        },
+        "ed": {
+          "start": 1330.06,
+          "end": 1420.181
+        }
+      },
+      "added_date": "2026-07-25T01:27:30.361223",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Fate/strange Fake 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1wmPdrZRMKjRwlXLab5ZVcqQB5_yu0fCM/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6117974"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/kr3nkyem"
+        },
+        {
+          "fansub_id": 112,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1qyR1kqf5_5kPP9zNBHyfLu9aXXkPPA85/preview"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6119327"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/43l1nkar"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 37.02,
+          "end": 126.98
+        },
+        "ed": {
+          "start": 1330.02,
+          "end": 1420.095
+        }
+      },
+      "added_date": "2026-07-25T01:27:30.361223",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Fate/strange Fake 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1PXF5uXaXOygedZ_VGdNy5qBzhY19fwGU/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6124510"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/10tm87ys"
+        },
+        {
+          "fansub_id": 112,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1D-4WNOaD-DxQH2lYxvfv7wxmaqG3wFks/preview"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6124469"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/4nilirqb"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 116.01,
+          "end": 205.98
+        },
+        "ed": {
+          "start": 1329.93,
+          "end": 1420.01
+        }
+      },
+      "added_date": "2026-07-25T01:27:30.361223",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Fate/strange Fake 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1II8sfzz4-8yuOdxskSOU5YG_6j0rNmCZ/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6130485"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/zqrmez4b"
+        },
+        {
+          "fansub_id": 112,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1MaR592A2ft85hdF5x9gdYcNRwaTB0y6T/preview"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6130817"
+        },
+        {
+          "fansub_id": 112,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-6nrajphd0zky.html"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/4s4iq4t8"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 66.96,
+          "end": 157.01
+        },
+        "ed": {
+          "start": 1329.98,
+          "end": 1420.053
+        }
+      },
+      "added_date": "2026-07-25T01:27:30.361223",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Fate/strange Fake 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1tXsqZuTwCraaviNAwlyAmeyj_2Vs_qfI/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6136256"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/2cxelrqp"
+        },
+        {
+          "fansub_id": 112,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1DF1QfKENVT7ENQ65osehRzS3WaYpur5m/preview"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6137857"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/rata4q0u"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 37.02,
+          "end": 126.98
+        },
+        "ed": {
+          "start": 1330.02,
+          "end": 1420.095
+        }
+      },
+      "added_date": "2026-07-25T01:27:30.361223",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Fate/strange Fake 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/4898784563322422932"
+        },
+        {
+          "fansub_id": 1,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/l6l2aq6v"
+        },
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1xikrVoJBlQI0ysRB8PAIM5m9nCEm1o6d/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/qsrw4b24"
+        },
+        {
+          "fansub_id": 112,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1wO37ovt4XCb9S3SYBO_GfxYnUkImd0xu/preview"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6143366"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/0mq8mbzm"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 69.366,
+          "end": 159.349
+        },
+        "ed": {
+          "start": 1330.02,
+          "end": 1420.095
+        }
+      },
+      "added_date": "2026-07-25T01:27:30.361223",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Fate/strange Fake 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1kF-81VVmfYHp4HvkgMkyi831WGcan5zn/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6147443"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/woznpbm8"
+        },
+        {
+          "fansub_id": 112,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ExPQVUyIoh3I6qhP5Nvmq6uTUTwFNbPK/preview"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6148411"
+        },
+        {
+          "fansub_id": 112,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5zntxolzdaep.html"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/0tsqr66e"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 52.03,
+          "end": 142
+        },
+        "ed": {
+          "start": 1329.97,
+          "end": 1420.053
+        }
+      },
+      "added_date": "2026-07-25T01:27:30.361223",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Fate/strange Fake 12. Bölüm",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1TF5M6KB3tf3we7eTvAbs52doO-bneywW/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/0zklxymm"
+        },
+        {
+          "fansub_id": 112,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1oHWGj9R0j2_WXMvT9mLSbnO4d66Vqlif/preview"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6154666"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/1lx3otby"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 0,
+          "end": 89.97
+        },
+        "ed": {
+          "start": 1329.97,
+          "end": 1420.053
+        }
+      },
+      "added_date": "2026-07-25T01:27:30.361223",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Fate/strange Fake 13. Bölüm",
+      "episode_number": 13,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1F0ciFMIf03ljq7kOKUBNht-Vl505A0Dj/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6159627"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/7rf5yhxr"
+        },
+        {
+          "fansub_id": 112,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1oWjYtGzWYuroFVqq_zb9ySV1PW6NoBse/preview"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6159853"
+        },
+        {
+          "fansub_id": 112,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-byor7gwsoc2t.html"
+        },
+        {
+          "fansub_id": 112,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/d6ov571i"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T01:27:30.361223",
+      "jikan_mal_id": 13,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

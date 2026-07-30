@@ -1,0 +1,110 @@
+{
+  "turkanime": {
+    "isim": "Papa no Iukoto wo Kikinasai! OVA",
+    "puan": "0.00",
+    "bolum_durumu": "1/2",
+    "ozet": "Papa no Iukoto wo Kikinasai! serisinin OVA bölümleridir.",
+    "slug": "papa-no-iukoto-wo-kikinasai-ova"
+  },
+  "jikan": {
+    "mal_id": 17875,
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/47627.jpg",
+    "trailer_id": null,
+    "title": "Papa no Iukoto wo Kikinasai! OVA",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2013-06-25T00:00:00+00:00",
+      "to": "2015-03-25T00:00:00+00:00"
+    },
+    "duration": "25 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.31,
+    "popularity": 4076,
+    "synopsis": "Limited edition episodes included with pre-orders for the 13th and 18th light novel volumes.",
+    "genres": [
+      4,
+      22
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      91
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          12673
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 17875,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Papa no Iukoto wo Kikinasai! OVA 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 2,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Pzk5OcVqAg_bzYGJY1NEO4kT-z7fqh8B/preview"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/2218/2219.html"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271189370"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1186746"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2399844"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4499489"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-bikbdtzyml8d.html"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/pu92xcog"
+        },
+        {
+          "fansub_id": 2,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-am12j5c6086c.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T01:17:42.014273",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

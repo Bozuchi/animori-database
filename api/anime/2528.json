@@ -1,0 +1,90 @@
+{
+  "turkanime": {
+    "isim": "Megami Paradise",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Anne tanrıça ve cennetin hükümdarı olan Mama Megami, emekliye ayrılıyor. Onun varisi Lilith isimli genç büyücüyü, kendi muhafızlarından biri olarak atar. Lilith'in ilk görevi, Mama Megami'ye lâyık iki muhafız daha bulmaktır. Kolay bir görev değil, Stashia, Lilith'in kısa listesindeki ilk aday muhafız olmak istemez. Lilith listedeki ikinci kişiye sormak için fırsat bulamaz çünkü Stashia'nın küçük kız kardeşi Rurubell yüzünden Juliana ismindeki savaşçıyla bir yanlış anlaşılma meydana gelir. Rurubell bir muhafız olmak ister ama çok genç ve deneyimsiz olmasından dolayı Lilith tarafından geri çevrildi. Bu sırada Cennet, oraya hakim olmak isteyen şeytani bir tanrıça tarafından saldırı altındadır, saldırıyı engellemek ise Lilith, Stashia, Rurubell ve Juliana'ya bağlıdır.",
+    "slug": "megami-paradise"
+  },
+  "jikan": {
+    "mal_id": 2528,
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/41791.jpg",
+    "trailer_id": "sN2yDVFqABE",
+    "title": "Megami Paradise",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1995-06-07T00:00:00+00:00",
+      "to": "1995-08-04T00:00:00+00:00"
+    },
+    "duration": "30 min per ep",
+    "rating": "R+ - Mild Nudity",
+    "score": 5.43,
+    "popularity": 9888,
+    "synopsis": "Mama Megami, the mother goddess and ruler of paradise is retiring. Her successor appoints a young mage named Lilith to be one of her guardians. Lilith's first assignment is to recruit two more worthy guardians for the new Mama Megami. Not an easy task, as Stashia, the first candidate on Lilith's short list is not interested. Lilith didn't even have a chance to ask the second person on the list, a warrior named Juliana due to a misunderstanding caused by Stashia's little sister Rurubell. Rurubell wants to be a guardian, but Lilith turned her down due to her very young age and lack of experience. Meanwhile, Paradise is under attack by an evil goddess who wants to dominate it, and it's up to Lilith, Stashia, Rurubell, and Juliana to thwart the attackers.\n\n(Source: AniDB)",
+    "genres": [
+      2,
+      10,
+      9
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      155
+    ],
+    "relations": []
+  },
+  "anilist": {
+    "id": 2528,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Megami Paradise 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/12ShLl0t7Xu6VjZZ3sEDo6m7PFb7Cr0yQ/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5042191"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T11:38:59.961329",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Megami Paradise 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1OXs7HfJY451-5LkdIhk-CxM0W76bNXun/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5042205"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T11:38:59.961329",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "turkanime": {
+    "isim": "Utopia",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Utopia, True Tears x Hanasaku Iroha x Tari Tari Joint Festival Live için üç serideki seiyuu'yuları içeren özel olarak oluşturulmuş bir şarkıdır. Etkinliğin Blu-ray sürümünde yer alan bu şarkının bir video hâlidir.",
+    "slug": "utopia"
+  },
+  "jikan": {
+    "mal_id": 21103,
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/55745.jpg",
+    "trailer_id": null,
+    "title": "Utopia",
+    "title_english": null,
+    "type": "Music",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2014-02-26T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.42,
+    "popularity": 8061,
+    "synopsis": "Utopia is a song that was specially created for the True Tears x Hanasaku Iroha x Tari Tari Joint Festival Live featuring the seiyuu (voice actors) from the three series. P.A. Works produced a video of this song which is included in the the Blu-ray release of this event.",
+    "genres": [],
+    "themes": [
+      19
+    ],
+    "demographics": [],
+    "studios": [
+      132
+    ],
+    "relations": [
+      {
+        "relation": "Character",
+        "entries": [
+          2129,
+          9289,
+          13333
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 102605,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102605-YhxJZlGz3Ja2.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Hanasaku Iroha x True Tears x Tari : Utopia ♫",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 46,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985846041"
+        },
+        {
+          "fansub_id": 46,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682367149"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1453117"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4067365"
+        },
+        {
+          "fansub_id": 46,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-g5d14j3uoa21.html"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/qszo7lty"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T22:10:35.821614",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

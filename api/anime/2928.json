@@ -1,0 +1,100 @@
+{
+  "turkanime": {
+    "isim": ".hack//G.U. Returner",
+    "puan": "6.14",
+    "bolum_durumu": "2/1+",
+    "ozet": ".hack//G.U. Games ve .hack//Roots'daki karakterlerimiz Ovan'dan bir mesaj alırlar. Gizemli bir yaz festivali olan Gizlenmiş Yasak Festival zamanında festivale katılmalarını ister. Burada ise, Dünya'daki oyuncularla barışçıl bir şekilde iş birliği yapan AIDA Chim Chim'i bulurlar. Kelimelere döküldüğünde 'Returner' yani 'Geri Dönen' anlamına gelmektedir, bu yüzden de Ovan'ın Dünya'ya geri döneceğini düşünürler.\n*.hack//G.U. Trilogy'nin devamı niteliğinde de kabul edilebilir. ..",
+    "slug": "hack-g-u-returner"
+  },
+  "jikan": {
+    "mal_id": 2928,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1798/115989.jpg",
+    "trailer_id": null,
+    "title": ".hack//G.U. Returner",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Game",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2007-01-18T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "24 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.66,
+    "popularity": 5290,
+    "synopsis": "The characters from previous .hack//G.U. Games and .hack//Roots receive an email from Ovan. He is requesting them to go to Hidden Forbidden Festival where is set up a mysterious summer festival. There they find an AIDA Chim Chim who wishes to peacefully co-exist with the other players of The World. It then transforms into the word \"Returner\", so they assume it to mean that Ovan will return to The World.\n\n(Source: ANN)",
+    "genres": [
+      2,
+      8,
+      10
+    ],
+    "themes": [
+      79
+    ],
+    "demographics": [],
+    "studios": [
+      5
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          3269
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          48
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          873
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 2928,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": ".hack//G.U. Returner",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1mhFKrkSA2tvHvApvYv3V23vCsOUtf3xd/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933016403"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1217"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/1898/3336.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-17T04:52:47.384096",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

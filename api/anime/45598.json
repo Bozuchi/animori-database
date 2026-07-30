@@ -1,0 +1,89 @@
+{
+  "turkanime": {
+    "isim": "Tonikaku Kawaii: Kaisou",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Tonikaku Kawaii serisinin tüm bölümlerinin özetidir.",
+    "slug": "tonikaku-kawaii-kaisou"
+  },
+  "jikan": {
+    "mal_id": 45598,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1980/110984.jpg",
+    "trailer_id": null,
+    "title": "Tonikaku Kawaii: Kaisou",
+    "title_english": "TONIKAWA: Over The Moon For You - Flashbacks",
+    "type": "TV Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2020-12-26T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.47,
+    "popularity": 3028,
+    "synopsis": "Recap of all 12 episodes of Tonikaku Kawaii.",
+    "genres": [
+      4,
+      22
+    ],
+    "themes": [],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      35
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entries": [
+          41389
+        ]
+      }
+    ]
+  },
+  "anilist": null,
+  "episodes": [
+    {
+      "turkanime_title": "Tonikaku Kawaii: Kaisou Special (12.5)",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 70,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1SBs-FdEc6k52VCis1RdDOC-impqMS65M/preview"
+        },
+        {
+          "fansub_id": 70,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ulBlxhkdcSlKDKp3Z9C5W7dlaz7MDrZx/preview"
+        },
+        {
+          "fansub_id": 70,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4434627"
+        },
+        {
+          "fansub_id": 70,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4197783"
+        },
+        {
+          "fansub_id": 70,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/gfye1yxo"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T17:43:56.106195",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "turkanime": {
+    "isim": "Anime Tenchou",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Anizawa Meito ateşli bir mağaza müdürüdür. O tüm kalbiyle anime ürünlerini seven biridir. Rakip dükkanın saldırısına uğrayan eski mağaza müdürünün ölürkenki son arzusunu devralır (Hala yaşıyor gerçi.) ve yeni açılan özel anime ürünleri mağazası Animate'in mağaza müdürü olur. Kızıl mağaza müdürü şapkası onun sembolüdür.",
+    "slug": "anime-tenchou"
+  },
+  "jikan": {
+    "mal_id": 3080,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1990/139619.jpg",
+    "trailer_id": null,
+    "title": "Anime Tenchou",
+    "title_english": "Animation Store Manager",
+    "type": "OVA",
+    "source": "Other",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2002-08-19T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 6.05,
+    "popularity": 6710,
+    "synopsis": "This is the Animation Store Manager!!\n\nAnime Tenchou is a CM character for Animate, one of Japan's biggest retailer of anime, games, and manga. The character series was created by Shimamoto Kazuhiko for publicity purposes. Later adapted into a manga, a weekly radio drama and this OVA animated by GAINAX and directed by Anno Hideaki.\n\nAnizawa Meito is the blazing store manager. He is a fireball who loves animation merchandise at heart. He takes over the dying wish of the former store manager, though still alive, who was attacked by the rival store and becomes a \"store manager\" of newly opened animation goods specialty store, Animate. The scarlet, \"store manager visor\" is his trademark.\n\n(Source: AniDB)",
+    "genres": [
+      1,
+      4
+    ],
+    "themes": [
+      20
+    ],
+    "demographics": [],
+    "studios": [
+      6
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          4483
+        ]
+      },
+      {
+        "relation": "Character",
+        "entries": [
+          1887,
+          9875
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          9861
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 3080,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Anime Tenchou",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1O9I8KVojCw6LBOqbCFkmlogICHAtIM1r/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682366537"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/5771.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1534072"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4525721"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-uz7e24g6ceca.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/zhwsmc1g"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-fy2z4g3uqz2c.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-af7k56t7x7b0.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-21T21:46:01.766037",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

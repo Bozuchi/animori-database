@@ -1,0 +1,105 @@
+{
+  "turkanime": {
+    "isim": "Black Jack the Movie",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Joe Carol Brain güce, zekaya, atletik bir yapıya ve yeteneğe sahip süper insanlar konusunda Dr. Black Jack’le çalışmak ister ama daha sonra bu süper insanların bir süre sonra bozulmaya başladığını ve zamansız bir şekilde öldüklerini öğrenir. Joe’nun Dr. Black Jack’e tedavi bulmak için ihtiyacı vardır.",
+    "slug": "black-jack-the-movie"
+  },
+  "jikan": {
+    "mal_id": 1521,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1868/134318.jpg",
+    "trailer_id": null,
+    "title": "Black Jack the Movie",
+    "title_english": "Black Jack: The Movie",
+    "type": "Movie",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1996-11-30T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 33 min",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.37,
+    "popularity": 6111,
+    "synopsis": "Joe Carol Brane attempts to hire Dr. Black Jack on a breed of superhumans that have the strength, intellectual, athletic, and artistic skills with great excel in different fields, only to later find out that they start deteriorating after some period of time and causing an untimely death. Joe needs Dr. Black Jack's help on finding a cure. \n\n(Source: ANN)",
+    "genres": [
+      46,
+      8
+    ],
+    "themes": [
+      67
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      200
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          1600
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          1520
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 1521,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1521-tYYDE7puIKYp.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Black Jack the Movie",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1-2y88VRW8DfmsxiGol_tuVf2ZW-nr5mO/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/2444636457931910585"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4533109"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-dip7xh5sc1pz.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-jwv51u4e6mlv.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-r0svm76vyw8g.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T05:15:58.812660",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

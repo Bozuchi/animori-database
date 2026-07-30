@@ -1,0 +1,486 @@
+{
+  "turkanime": {
+    "isim": "Obey Me!",
+    "puan": "9.21",
+    "bolum_durumu": "12/12",
+    "ozet": "Anime, oyunun ana hikayesinden ayrı olarak, özel bölümler aracılığıyla iblis kardeşlerin günlük yaşamlarını anlatıyor.",
+    "slug": "obey-me"
+  },
+  "jikan": {
+    "mal_id": 48641,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1416/113986.jpg",
+    "trailer_id": "uK4l27gURB4",
+    "title": "Obey Me!",
+    "title_english": "Obey Me!",
+    "type": "ONA",
+    "source": "Game",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2021-07-16T00:00:00+00:00",
+      "to": "2021-12-24T00:00:00+00:00"
+    },
+    "duration": "7 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.12,
+    "popularity": 3670,
+    "synopsis": "Brothers Lucifer, Mammon, Leviathan, Satan, Asmodeus, Beelzebub, and Belphegor are among the most powerful demons in the Devildom, serving as officers on the student council at the Royal Academy of Diavolo (RAD). However, being avatars of the seven deadly sins, their behaviors often tend toward the extreme. Their everyday antics belie their high status and fearsome reputations among others of their kind. When viewed behind the scenes, the members of this family are more lovable—and laughable—than they first seem!\n\n[Written by MAL Rewrite]",
+    "genres": [
+      4,
+      10
+    ],
+    "themes": [
+      6
+    ],
+    "demographics": [],
+    "studios": [
+      1831
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          49755
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          52045
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          143656
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          59552
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 131880,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/131880-D64tfKTtjAEY.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Obey Me! 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 53,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-puaow85lxn49.html"
+        },
+        {
+          "fansub_id": 53,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-069cktxshjvu.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682367263"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vzxofwd2tmqe.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/xiwvpyvj"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T17:08:13.842577",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Obey Me! 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 72,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1oRaSbAzkJE2iXgZPfBHmRADqqx19yHwS/preview"
+        },
+        {
+          "fansub_id": 72,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1pi27Cs2-KVvRv9BF8DVTbt_97XzM_KbN/preview"
+        },
+        {
+          "fansub_id": 72,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4601933"
+        },
+        {
+          "fansub_id": 72,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/jmeriid7"
+        },
+        {
+          "fansub_id": 72,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-3zo0eprxk3wh.html"
+        },
+        {
+          "fansub_id": 53,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-kv5n8pa8kyxi.html"
+        },
+        {
+          "fansub_id": 53,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-clkzn1afw6xw.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682368045"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xdmxgj9heg7q.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-r9w5sx59b3nc.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T17:08:13.842577",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Obey Me! 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 72,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/19gbl6B-2oXMcgnAmtC40f2SVLd4mcxkS/preview"
+        },
+        {
+          "fansub_id": 72,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1UdLqgKhBv-Hd6Hu4OHiq8hP4djEWRhHR/preview"
+        },
+        {
+          "fansub_id": 72,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4601936"
+        },
+        {
+          "fansub_id": 72,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/vmwed824"
+        },
+        {
+          "fansub_id": 72,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-d1xjih7wutef.html"
+        },
+        {
+          "fansub_id": 53,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-f245sj2thx2j.html"
+        },
+        {
+          "fansub_id": 53,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-kt2t0n507hc7.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T17:08:13.842577",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Obey Me! 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 72,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1rDl00qpoFt5nbA0uXARsiidqOEISPUM5/preview"
+        },
+        {
+          "fansub_id": 72,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1-vqEJ0Jit28IYVHKizyDLAOLF0qjjt8Q/preview"
+        },
+        {
+          "fansub_id": 72,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4601937"
+        },
+        {
+          "fansub_id": 72,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/fvh6xxl8"
+        },
+        {
+          "fansub_id": 72,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-49kii3hzqhja.html"
+        },
+        {
+          "fansub_id": 53,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-uroopgqvt9dc.html"
+        },
+        {
+          "fansub_id": 53,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ibe62rsm42mn.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T17:08:13.842577",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Obey Me! 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 72,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1YJwOYmZtCtoZiTwFIu19NOg_RzSJc69I/preview"
+        },
+        {
+          "fansub_id": 72,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1fjWKAxI4yjPYAs3FS-nM4S_FDK5JvxOv/preview"
+        },
+        {
+          "fansub_id": 72,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4601938"
+        },
+        {
+          "fansub_id": 72,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/4kpxg52w"
+        },
+        {
+          "fansub_id": 72,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-aafn90kxwtvg.html"
+        },
+        {
+          "fansub_id": 53,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-qbn0ld5144ur.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T17:08:13.842577",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Obey Me! 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 72,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1_b_blu5KsCqkyddvaX3yiFlKPUeT43Us/preview"
+        },
+        {
+          "fansub_id": 72,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359662557"
+        },
+        {
+          "fansub_id": 72,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4606801"
+        },
+        {
+          "fansub_id": 72,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xaoocjcnrib3.html"
+        },
+        {
+          "fansub_id": 72,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/vbpp25kr"
+        },
+        {
+          "fansub_id": 72,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-xngz0573zr1v.html"
+        },
+        {
+          "fansub_id": 72,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-fwjxc9g7jmfd.html"
+        },
+        {
+          "fansub_id": 53,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-nqazih5qum0t.html"
+        },
+        {
+          "fansub_id": 53,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-s9ufwqzvhp47.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T17:08:13.842577",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Obey Me! 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 53,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-eiyuvyvt391p.html"
+        },
+        {
+          "fansub_id": 53,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-7su6xvu1t57o.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T17:08:13.842577",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Obey Me! 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 53,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-zj5bexpzqppe.html"
+        },
+        {
+          "fansub_id": 53,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-s2mrbhhs2jju.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T17:08:13.842577",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Obey Me! 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 53,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-qywpu9redvkl.html"
+        },
+        {
+          "fansub_id": 53,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-rdh1mgj3jumo.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T17:08:13.842577",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Obey Me! 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 53,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-f1w4zgj8ax0f.html"
+        },
+        {
+          "fansub_id": 53,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-qtb7sjbzlttt.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T17:08:13.842577",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Obey Me! 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 53,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-hbuqnp8tajkj.html"
+        },
+        {
+          "fansub_id": 53,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-h4il97r2ffaa.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T17:08:13.842577",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Obey Me! 12. Bölüm",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 53,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-22hq84ywizq6.html"
+        },
+        {
+          "fansub_id": 53,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-jevmj00ri1ie.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T17:08:13.842577",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

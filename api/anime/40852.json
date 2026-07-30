@@ -1,0 +1,2800 @@
+{
+  "turkanime": {
+    "isim": "Dr. Stone: Stone Wars",
+    "puan": "9.22",
+    "bolum_durumu": "11/11",
+    "ozet": "Dr. Stone'nin 2. sezonudur",
+    "slug": "dr-stone-stone-wars"
+  },
+  "jikan": {
+    "mal_id": 40852,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1711/110614.jpg",
+    "trailer_id": "esjDq0JQ_1s",
+    "title": "Dr. Stone: Stone Wars",
+    "title_english": null,
+    "type": "TV",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": 2021,
+    "season": "winter",
+    "airing": false,
+    "aired": {
+      "from": "2021-01-14T00:00:00+00:00",
+      "to": "2021-03-25T00:00:00+00:00"
+    },
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.15,
+    "popularity": 138,
+    "synopsis": "Senkuu has made it his goal to bring back two million years of human achievement and revive the entirety of those turned to statues. However, one man stands in his way: Tsukasa Shishiou, who believes that only the fittest of those petrified should be revived.\n\nAs the snow melts and spring approaches, Senkuu and his allies in Ishigami Village finish the preparations for their attack on the Tsukasa Empire. With a reinvented cell phone model now at their disposal, the Kingdom of Science is ready to launch its newest scheme to recruit the sizable numbers of Tsukasa's army to their side. However, it is a race against time; for every day the Kingdom of Science spends perfecting their inventions, the empire rapidly grows in number.\n\nReuniting with old friends and gaining new allies, Senkuu and the Kingdom of Science must stop Tsukasa's forces in order to fulfill their goal of restoring humanity and all its creations. With the two sides each in pursuit of their ideal world, the Stone Wars have now begun!\n\n[Written by MAL Rewrite]",
+    "genres": [
+      2,
+      4
+    ],
+    "themes": [],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      73
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          38691
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          50612
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          103897
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          55216
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 113936,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113936-PpMtCY9kCwwV.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Dr. Stone: Stone Wars 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668737"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769167"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/uguajbj1"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-duzcee04uurg.html"
+        },
+        {
+          "fansub_id": 215,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668742"
+        },
+        {
+          "fansub_id": 215,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769197"
+        },
+        {
+          "fansub_id": 215,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/igjuattn"
+        },
+        {
+          "fansub_id": 215,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-gbqvhtvi1tx4.html"
+        },
+        {
+          "fansub_id": 187,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668740"
+        },
+        {
+          "fansub_id": 187,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769186"
+        },
+        {
+          "fansub_id": 187,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5v4j6e2iaen9.html"
+        },
+        {
+          "fansub_id": 187,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/5xdb8ku1"
+        },
+        {
+          "fansub_id": 187,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-25k68ow9tj03.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599022"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668738"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769170"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ogsx4axdvlxi.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-dk6p82tcp2ka.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-pkpwv5ffb4ua.html"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668739"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769174"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-mff99z9e5mh3.html"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/r4xf3i8i"
+        },
+        {
+          "fansub_id": 24,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ovyojr8fgae2.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/16_eFn01kcCWNQNLwLED-HpvjcTyemqJM/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4209594"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/qqjsr725"
+        },
+        {
+          "fansub_id": 100,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668746"
+        },
+        {
+          "fansub_id": 100,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4209747"
+        },
+        {
+          "fansub_id": 100,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769213"
+        },
+        {
+          "fansub_id": 100,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-80x101r39692.html"
+        },
+        {
+          "fansub_id": 100,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/1ixlal88"
+        },
+        {
+          "fansub_id": 100,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-wyphclzpmbu8.html"
+        },
+        {
+          "fansub_id": 43,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4318648"
+        },
+        {
+          "fansub_id": 43,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/rokr1b5v"
+        },
+        {
+          "fansub_id": 121,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1x9hiGkYs7vHwY0NLG5ID5tLRiXDHjkBl/preview"
+        },
+        {
+          "fansub_id": 121,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4215301"
+        },
+        {
+          "fansub_id": 121,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ewem2z2p"
+        },
+        {
+          "fansub_id": 33,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4209695"
+        },
+        {
+          "fansub_id": 40,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ZFG_ZNQ6Mz3O-HuVI7WExQvm_QXuKTDk/preview"
+        },
+        {
+          "fansub_id": 40,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4213784"
+        },
+        {
+          "fansub_id": 40,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-jawyfkh3z79i.html"
+        },
+        {
+          "fansub_id": 41,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/j3amte09"
+        },
+        {
+          "fansub_id": 85,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1RrEjn29Bj6jsHrBWD4UTPQn_mL7upoiN/preview"
+        },
+        {
+          "fansub_id": 85,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4209607"
+        },
+        {
+          "fansub_id": 85,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-flbqgk5bor37.html"
+        },
+        {
+          "fansub_id": 85,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-xmiq4ubaibwv.html"
+        },
+        {
+          "fansub_id": 216,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1AQuQSkgo-JyhPZpxAZtgL7rPTEzjqsy8/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1gsKFdVWqKWApYV5KB2XQ85I-JJeOt7QY/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4209579"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/7x2i7ga2"
+        },
+        {
+          "fansub_id": 31,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668743"
+        },
+        {
+          "fansub_id": 31,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769202"
+        },
+        {
+          "fansub_id": 31,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-17t1jj8712oj.html"
+        },
+        {
+          "fansub_id": 31,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/km4tu1pq"
+        },
+        {
+          "fansub_id": 31,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-urtrus4hlnly.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668741"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769193"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4210468"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-s68uqyxhvdi1.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/8znsnsd5"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-95xuespl8emp.html"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668744"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4209965"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769206"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/21pcour0"
+        },
+        {
+          "fansub_id": 16,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-t8edkmyyna7x.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668745"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769210"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-s1c6p3mzoie7.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/nc1srilb"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ce7mi0yww4iw.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 1334.5,
+          "end": 1425.1
+        },
+        "ed": {
+          "start": 1336,
+          "end": 1426
+        }
+      },
+      "added_date": "2026-07-24T22:29:26.780501",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Dr. Stone: Stone Wars 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1KRTqfHg9c2f-z864I_iWMOAaJ7QjsZLg/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/pqvio7t5"
+        },
+        {
+          "fansub_id": 215,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668750"
+        },
+        {
+          "fansub_id": 215,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769231"
+        },
+        {
+          "fansub_id": 215,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-08qf9ru52l2w.html"
+        },
+        {
+          "fansub_id": 215,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/5g5tqs00"
+        },
+        {
+          "fansub_id": 215,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-xg1qd8ccv0q6.html"
+        },
+        {
+          "fansub_id": 187,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1lcbD0rlUNm6Hz0D87cgM0HAflQv01p1o/preview"
+        },
+        {
+          "fansub_id": 187,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4214849"
+        },
+        {
+          "fansub_id": 187,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/4rgonrdw"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599038"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668747"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769217"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-7jex12gyduk1.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-4nmuhss32qt7.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-euly25zjqdvi.html"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668748"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769221"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-yf5sks4dux11.html"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/yfdi2wk8"
+        },
+        {
+          "fansub_id": 24,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-dtl7cec8d5mi.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1_JG7qi_RSK93Ky8T4sR55GoR_4Fk-4VH/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4213951"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/db3li128"
+        },
+        {
+          "fansub_id": 43,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4318650"
+        },
+        {
+          "fansub_id": 43,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/z265lc0d"
+        },
+        {
+          "fansub_id": 121,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1IAf7ZYE39v1ZsrcK_XYcZQUpvxZKpJhf/preview"
+        },
+        {
+          "fansub_id": 121,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4215303"
+        },
+        {
+          "fansub_id": 33,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1BScMeqINgd170gaGzpRDRw05EeJQTaLd/preview"
+        },
+        {
+          "fansub_id": 33,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4214055"
+        },
+        {
+          "fansub_id": 33,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-cql98uvqj03d.html"
+        },
+        {
+          "fansub_id": 40,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1lnn8G09l6i7cG2plmYk1tUPMvCI-dJpZ/preview"
+        },
+        {
+          "fansub_id": 40,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668749"
+        },
+        {
+          "fansub_id": 40,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769226"
+        },
+        {
+          "fansub_id": 40,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-s3evera5bin4.html"
+        },
+        {
+          "fansub_id": 40,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-39vv0src5jg8.html"
+        },
+        {
+          "fansub_id": 41,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/xnjmt5n8"
+        },
+        {
+          "fansub_id": 85,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/10eedJ4ZR6htBUFXn1pbLlJq07slCzJnW/preview"
+        },
+        {
+          "fansub_id": 85,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4214050"
+        },
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/17hNE7akXVARFGasl4IXHQuU1odGMW-5x/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4213949"
+        },
+        {
+          "fansub_id": 31,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/gdc7yt05"
+        },
+        {
+          "fansub_id": 31,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/5gz5jr33"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/10-E8jbOTfOz7FNyz3yjjxvO6z86Ux2tJ/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4214522"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/5x4fhlm3"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/p6oc31n9"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668751"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769235"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/z1n3u745"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-l4n4o50jdbrl.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 37.75,
+          "end": 128.1
+        },
+        "ed": {
+          "start": 1334.75,
+          "end": 1425
+        }
+      },
+      "added_date": "2026-07-24T22:29:26.780501",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Dr. Stone: Stone Wars 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Ghrei0EVN_kTDceMAqVbUfqd629UFV3D/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/xa78v3na"
+        },
+        {
+          "fansub_id": 187,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1WqeYZktHGU0HybmW0R8e9XxqyGE3mU1J/preview"
+        },
+        {
+          "fansub_id": 187,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4219820"
+        },
+        {
+          "fansub_id": 187,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/dxwfk5jn"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668752"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599039"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769243"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-74mknjsn9p10.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-s48c8zt5xh0e.html"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668753"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769249"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/a4335nn5"
+        },
+        {
+          "fansub_id": 24,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-rb6js56qyd22.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1mWROV48HA3WlwHiR3w3horTOJMNwaO4J/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271201945"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4594640"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4218447"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ahggottb"
+        },
+        {
+          "fansub_id": 22,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-2ofrs0xzmerw.html"
+        },
+        {
+          "fansub_id": 43,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4318554"
+        },
+        {
+          "fansub_id": 43,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/yzx555js"
+        },
+        {
+          "fansub_id": 121,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/179cetgKCtGGNwsTfm7zo9L0qIM6TKJEI/preview"
+        },
+        {
+          "fansub_id": 121,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4221124"
+        },
+        {
+          "fansub_id": 33,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1cF_svSXrWk6Ng6zo3SnPp7otDfdOvtqr/preview"
+        },
+        {
+          "fansub_id": 33,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4221131"
+        },
+        {
+          "fansub_id": 33,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-4v2gn8i2075q.html"
+        },
+        {
+          "fansub_id": 33,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/nba9rlzw"
+        },
+        {
+          "fansub_id": 41,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/aegjabsl"
+        },
+        {
+          "fansub_id": 85,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1qrYo2A5UX23qBOgyrgJrPJHaNoRt_mhF/preview"
+        },
+        {
+          "fansub_id": 85,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668755"
+        },
+        {
+          "fansub_id": 85,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769258"
+        },
+        {
+          "fansub_id": 85,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4218540"
+        },
+        {
+          "fansub_id": 85,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-pxh63gwavf47.html"
+        },
+        {
+          "fansub_id": 85,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-1mgd7yr0vzbf.html"
+        },
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ZjyhpCqNMYS_pjgwhknuFOJXyR-4MkpH/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4218443"
+        },
+        {
+          "fansub_id": 31,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-70bx7wf3h8y8.html"
+        },
+        {
+          "fansub_id": 31,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/r10c51v7"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/10gFAdtGhIcjFygiQ6thFqSyv_2_gkz6r/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668754"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769254"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-l8uttdpbv00k.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/d3euoh1l"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-mfg82rcgd9tg.html"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668756"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769262"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/radw926w"
+        },
+        {
+          "fansub_id": 16,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-e626op8adtnq.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668757"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769267"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ksniu4o5"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-qy8lc7i9wt98.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 192.75,
+          "end": 283.499
+        },
+        "ed": {
+          "start": 1334.75,
+          "end": 1425.345
+        }
+      },
+      "added_date": "2026-07-24T22:29:26.780501",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Dr. Stone: Stone Wars 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Uf1PrveG0zYCT-G3VcjWh_vH1G0X1ncr/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/3cprl3ut"
+        },
+        {
+          "fansub_id": 187,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1M416uM0Ial0TfWEkad8zlKCzcsdCxJJh/preview"
+        },
+        {
+          "fansub_id": 187,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685363222"
+        },
+        {
+          "fansub_id": 187,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/7idkzxlw"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668759"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599045"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769287"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-crcwllfcla3w.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-3e015lgboghv.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-4l0w3roxbkyg.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/10FJqr45jrM_xE_0ZNCDy8VK1snuvARhn/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4225000"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/chm22p7b"
+        },
+        {
+          "fansub_id": 43,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668758"
+        },
+        {
+          "fansub_id": 43,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4325453"
+        },
+        {
+          "fansub_id": 43,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769282"
+        },
+        {
+          "fansub_id": 43,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-juj31cokx155.html"
+        },
+        {
+          "fansub_id": 43,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/2fv82g2e"
+        },
+        {
+          "fansub_id": 43,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-v36aizy6ntpj.html"
+        },
+        {
+          "fansub_id": 33,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4225132"
+        },
+        {
+          "fansub_id": 33,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/aw9ggar4"
+        },
+        {
+          "fansub_id": 41,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/nfx4dy3s"
+        },
+        {
+          "fansub_id": 85,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1XLWsf661BsKx59KRSP4qFuNDEIoQ2RO9/preview"
+        },
+        {
+          "fansub_id": 85,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4225125"
+        },
+        {
+          "fansub_id": 85,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/jc14cisu"
+        },
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1YYeQmOsOPPSqcIP88kYu-u_cbwlWbUgC/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668761"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769299"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4224983"
+        },
+        {
+          "fansub_id": 30,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-skzq7oycsogy.html"
+        },
+        {
+          "fansub_id": 30,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-fd3tmr4eukxg.html"
+        },
+        {
+          "fansub_id": 31,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/34wjejht"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/13X8XAZgZ1KDennacZ-eKqzQrnTgpmSIC/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685363221"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/x8oysyjx"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668760"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769292"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/j4c63uzq"
+        },
+        {
+          "fansub_id": 16,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-90sv72c1q60d.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668762"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271191587"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769301"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5nbvqska38t8.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/qw86q86x"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-coe1armz4o1t.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 183.75,
+          "end": 274.1
+        },
+        "ed": {
+          "start": 1334.75,
+          "end": 1425.333
+        }
+      },
+      "added_date": "2026-07-24T22:29:26.780501",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Dr. Stone: Stone Wars 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1krnomOMll9tBcCsVmRLB2yylrOfObXcq/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/nksgw8l0"
+        },
+        {
+          "fansub_id": 187,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271191714"
+        },
+        {
+          "fansub_id": 187,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4231259"
+        },
+        {
+          "fansub_id": 187,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/h24tfudk"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599095"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668763"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769305"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-37gws9vkjr88.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-i6088vqneceg.html"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668764"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769309"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-71kcvjt2o7q1.html"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/da6vq231"
+        },
+        {
+          "fansub_id": 24,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-7b54d2oe3l00.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1weDKAXScBxLaSlwajt3hEh8qln1SWclQ/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271201946"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4594645"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4230964"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/8ea80scb"
+        },
+        {
+          "fansub_id": 22,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-k8crfyfyg4mk.html"
+        },
+        {
+          "fansub_id": 43,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4333267"
+        },
+        {
+          "fansub_id": 33,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Sr6TtLfG06CcIEVjLjrHofaIjPQsMntA/preview"
+        },
+        {
+          "fansub_id": 33,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4230984"
+        },
+        {
+          "fansub_id": 33,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-tg9fzqzpcn92.html"
+        },
+        {
+          "fansub_id": 33,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/vb2vugd2"
+        },
+        {
+          "fansub_id": 41,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/fdgxdaqj"
+        },
+        {
+          "fansub_id": 85,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1FMv1JKLKvnvy1pj5Rw7Bz4e-zbyE63WD/preview"
+        },
+        {
+          "fansub_id": 85,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668766"
+        },
+        {
+          "fansub_id": 85,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769317"
+        },
+        {
+          "fansub_id": 85,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4230951"
+        },
+        {
+          "fansub_id": 85,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/6hh5sdt7"
+        },
+        {
+          "fansub_id": 85,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-o7xykodtbyud.html"
+        },
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1wGiuAQ2re-fRsqZPlSW9ue7psZyt1lnt/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668768"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769328"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4230988"
+        },
+        {
+          "fansub_id": 30,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-q48tyl47cwvg.html"
+        },
+        {
+          "fansub_id": 31,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668767"
+        },
+        {
+          "fansub_id": 31,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769322"
+        },
+        {
+          "fansub_id": 31,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-fxsws0p801zr.html"
+        },
+        {
+          "fansub_id": 31,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/3m3v6tjn"
+        },
+        {
+          "fansub_id": 31,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-in0ufnl4542h.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685363419"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668765"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769314"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-tnto1q9q15nq.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/9inzoqav"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-2heo3oy36ama.html"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuroupload00/video/embed/_myvideo/20"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4233718"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/7tt6j1fs"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4235546"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/fbq4aikp"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 130.75,
+          "end": 221.237
+        },
+        "ed": {
+          "start": 1334.75,
+          "end": 1425
+        }
+      },
+      "added_date": "2026-07-24T22:29:26.780501",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Dr. Stone: Stone Wars 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/k8tprpid"
+        },
+        {
+          "fansub_id": 187,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668770"
+        },
+        {
+          "fansub_id": 187,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4239334"
+        },
+        {
+          "fansub_id": 187,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769340"
+        },
+        {
+          "fansub_id": 187,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vuiivevpgt45.html"
+        },
+        {
+          "fansub_id": 187,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ab90fxwj"
+        },
+        {
+          "fansub_id": 187,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-nvtcoe5cqmgw.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599306"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4283179"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668769"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769333"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/igdra8iu"
+        },
+        {
+          "fansub_id": 24,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-d19rjencd4bn.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1CTPujWlbVGNZyf_meUCaBcqOMH_h-VVR/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4235798"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/nxit1ib5"
+        },
+        {
+          "fansub_id": 43,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4333962"
+        },
+        {
+          "fansub_id": 85,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1OgBR3faZ4FdjRYLFitfYeWAQPU0c4Y_a/preview"
+        },
+        {
+          "fansub_id": 85,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4235933"
+        },
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1wsTF1q3413lQCulPQBqUlrhlJNmmNzMh/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4235774"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/mz774xy7"
+        },
+        {
+          "fansub_id": 31,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668771"
+        },
+        {
+          "fansub_id": 31,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769343"
+        },
+        {
+          "fansub_id": 31,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vnqsep6rci90.html"
+        },
+        {
+          "fansub_id": 31,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/5r15kbyh"
+        },
+        {
+          "fansub_id": 31,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-xgmgrsciidoa.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1PzyHJjeq9r2dBeZNOhdQ6JAX6UjPlU1i/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685363658"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ogr3nh2j"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuroupload00/video/embed/_myvideo/36"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4235959"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/4bxlee7q"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668772"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769345"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4239547"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-wcku4pzneik3.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/jxidkdga"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-sh18jdw0vpci.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 119.75,
+          "end": 210.25
+        },
+        "ed": {
+          "start": 1334.75,
+          "end": 1425.1
+        }
+      },
+      "added_date": "2026-07-24T22:29:26.780501",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Dr. Stone: Stone Wars 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/6j18garq"
+        },
+        {
+          "fansub_id": 187,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271193022"
+        },
+        {
+          "fansub_id": 187,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4246122"
+        },
+        {
+          "fansub_id": 187,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/pkhlb691"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599307"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4283180"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-b0bszcu7siol.html"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668773"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769348"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/yth6twkp"
+        },
+        {
+          "fansub_id": 24,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-9gqo8n7s33ys.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1lQ9bDjMGc97v4roE59UsESv405P0E3C5/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1crBBwSPBnt9pP5Do9bUnAUenvo1oMnWb/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4245601"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/3syx2n7a"
+        },
+        {
+          "fansub_id": 43,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4333975"
+        },
+        {
+          "fansub_id": 43,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-qyg92dw9wcmq.html"
+        },
+        {
+          "fansub_id": 85,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1_RjAh2uqhCbHmRLVMbce7Q98kDjLbqpZ/preview"
+        },
+        {
+          "fansub_id": 85,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4245635"
+        },
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1FDmnjbLiVPJybIKVD39fcrdLJVxC0QVL/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668775"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4245586"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769353"
+        },
+        {
+          "fansub_id": 30,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-lb53p2s8g4p0.html"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/1h7vcxko"
+        },
+        {
+          "fansub_id": 30,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-rpj8gppa2x0t.html"
+        },
+        {
+          "fansub_id": 31,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668774"
+        },
+        {
+          "fansub_id": 31,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769351"
+        },
+        {
+          "fansub_id": 31,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-kdbhztnwg84i.html"
+        },
+        {
+          "fansub_id": 31,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-9oc2salm0mpe.html"
+        },
+        {
+          "fansub_id": 31,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/pu3h0qg0"
+        },
+        {
+          "fansub_id": 31,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ev6odam2w9wk.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685363421"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/bggxx2z7"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuroupload00/video/embed/_myvideo/64"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/2qzdylyx"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271193189"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4246380"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-9ldkacfnsbpn.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/sewgrveg"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 225.5,
+          "end": 316
+        },
+        "ed": {
+          "start": 1334.75,
+          "end": 1425.344
+        }
+      },
+      "added_date": "2026-07-24T22:29:26.780501",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Dr. Stone: Stone Wars 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/16GVNat7nvWz5HWvzf3Nqlv1YzTL0Z8_f/preview"
+        },
+        {
+          "fansub_id": 187,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271193706"
+        },
+        {
+          "fansub_id": 187,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4252905"
+        },
+        {
+          "fansub_id": 187,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/7t7qpr1x"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599308"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4283181"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-07qq159ooo3d.html"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668776"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769356"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xdqbar1n4ola.html"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/fqj5fjdm"
+        },
+        {
+          "fansub_id": 24,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-6kzn0whd6g9s.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1m4t82qwlG31J7NxStbu3g_sWoNkbuq2b/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271201947"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4594653"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4261461"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/exd0ca0w"
+        },
+        {
+          "fansub_id": 22,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-00poy1afqx8a.html"
+        },
+        {
+          "fansub_id": 43,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4348113"
+        },
+        {
+          "fansub_id": 85,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1iRWNgJbEw8AZYTcfnnxiNTPXENfm5wwI/preview"
+        },
+        {
+          "fansub_id": 85,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7706652796388378366"
+        },
+        {
+          "fansub_id": 85,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4252467"
+        },
+        {
+          "fansub_id": 85,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4252785"
+        },
+        {
+          "fansub_id": 85,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/0fzxx8p2"
+        },
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1CivFSeqSHMu_f5qdyGfiknt2rX8h5CW5/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1GlPYq_jOoCWKen23lTfe2yQzDQZDWeXP/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4252387"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/7k2sjljm"
+        },
+        {
+          "fansub_id": 31,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668777"
+        },
+        {
+          "fansub_id": 31,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769358"
+        },
+        {
+          "fansub_id": 31,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-g2zgkxzecu2g.html"
+        },
+        {
+          "fansub_id": 31,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/6kwger0z"
+        },
+        {
+          "fansub_id": 31,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-wopwz78fdm9r.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1LbtyJDMcWSDhwG-KKEsvVL2FUON_cDg5/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685363504"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/uyvd99nx"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuroupload00/video/embed/_myvideo/120"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4253492"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/r6xfr9e5"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271193704"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668778"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769361"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4252892"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-nuebktuzon2z.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-hnidim25utdf.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 277.75,
+          "end": 368.25
+        },
+        "ed": {
+          "start": 1334.6,
+          "end": 1425
+        }
+      },
+      "added_date": "2026-07-24T22:29:26.780501",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Dr. Stone: Stone Wars 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1m35ebHnYNiHw6dpExFD2fmAl0Cxodmly/preview"
+        },
+        {
+          "fansub_id": 187,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271194934"
+        },
+        {
+          "fansub_id": 187,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4259340"
+        },
+        {
+          "fansub_id": 187,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/huvsyd2h"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599309"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4283182"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-n16pv8wx2888.html"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668779"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769363"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/f0afbxgj"
+        },
+        {
+          "fansub_id": 24,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ag4schjwl4a7.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1HeYdIW_OV8h1cLZahPy3X1OwHh7w0h6E/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4258992"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/a5qeeo07"
+        },
+        {
+          "fansub_id": 43,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4348115"
+        },
+        {
+          "fansub_id": 85,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271194914"
+        },
+        {
+          "fansub_id": 85,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4258960"
+        },
+        {
+          "fansub_id": 85,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/k1zj026v"
+        },
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1sEPTEvqsNLvZM9Wm8ahhk6Ndc3wIvo_v/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668780"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4258929"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769365"
+        },
+        {
+          "fansub_id": 30,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-8a41skmflvj7.html"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/voks74gp"
+        },
+        {
+          "fansub_id": 30,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-8y3gvosmx5tu.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ioHc2cNC5-t8gdq4kYepqNlHKt3FrTV2/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685363572"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/rd8guxre"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuroupload00/video/embed/_myvideo/145"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4259017"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ude0lwep"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271194963"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4260314"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/0i0t1raf"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 60.928,
+          "end": 151.225
+        },
+        "ed": {
+          "start": 1334.996,
+          "end": 1425.096
+        }
+      },
+      "added_date": "2026-07-24T22:29:26.780501",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Dr. Stone: Stone Wars 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1lVGVqClC5nGiIDyymUYGn5qlmfGCJ7-x/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/sbcnxf0a"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-7fkrbwxzj1l8.html"
+        },
+        {
+          "fansub_id": 187,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271195363"
+        },
+        {
+          "fansub_id": 187,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4264047"
+        },
+        {
+          "fansub_id": 187,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/0ctwkkfi"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668781"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769368"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5kllmaqjxfg8.html"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/tcubarpm"
+        },
+        {
+          "fansub_id": 24,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-p4o3wslk2nuo.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/16SltXSAlv6CfxXraL5qDcNwJ6kG-4jF0/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271195334"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4263644"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/7alg3v3l"
+        },
+        {
+          "fansub_id": 43,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4348117"
+        },
+        {
+          "fansub_id": 85,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4263726"
+        },
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1NfKnsXlm9rtlrhnL1A8kE016mmjtNtqW/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1jBSkrKBF91OmAybn78oINPc-gaOB-yon/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4263662"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/1fiy52s0"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Opm5q9J1NVGI_qRNExty9UsYMB24-Q_N/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685363611"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/t770medu"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuroupload00/video/embed/_myvideo/162"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/xas80yh4"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271195482"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4264712"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/z3ibo3xh"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 269.852,
+          "end": 360.152
+        },
+        "ed": {
+          "start": 1343.502,
+          "end": 1433.502
+        }
+      },
+      "added_date": "2026-07-24T22:29:26.780501",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Dr. Stone: Stone Wars 11. Bölüm Final",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1jN66vBvPyUbt52adEJiiFaPjgW80aIik/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru//ok/571224138646/video/embed/_myvideo/895"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-lr079nnjlzaz.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/xpnxeyff"
+        },
+        {
+          "fansub_id": 187,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271196522"
+        },
+        {
+          "fansub_id": 187,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4272024"
+        },
+        {
+          "fansub_id": 187,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/33i9j44o"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599311"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4283184"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-crx6xfdzq3uw.html"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668782"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4769370"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-dm3iow7ib5m8.html"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/qekb4zqt"
+        },
+        {
+          "fansub_id": 24,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-olh6z47b0ch1.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1rmSptY3xIUZJMODR4hHxJH_as_O8Q4wQ/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271201948"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271196434"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4594684"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4271283"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/858zyviw"
+        },
+        {
+          "fansub_id": 22,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-pekhwonug706.html"
+        },
+        {
+          "fansub_id": 43,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4349177"
+        },
+        {
+          "fansub_id": 85,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271196459"
+        },
+        {
+          "fansub_id": 85,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4271418"
+        },
+        {
+          "fansub_id": 85,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/if5wf8sb"
+        },
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/10dcQfftO6dgJ77e_MRZRs1WoNcqSoXZ4/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1aTYiapP9nCiRq2ZL1sCv__yzuvdqNnH1/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4271378"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/wb40hajm"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/172M18KK6Dcv-TahgZ3auRdYAyjtGl9DP/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685363659"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/cb1fh9t4"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuroupload00/video/embed/_myvideo/191"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4281339"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/uixp4mzg"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271197128"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4282521"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ohiwczf5"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 118.871,
+          "end": 203.871
+        }
+      },
+      "added_date": "2026-07-24T22:29:26.780501",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

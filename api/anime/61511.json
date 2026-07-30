@@ -1,0 +1,120 @@
+{
+  "turkanime": {
+    "isim": "Given Movie 2: Hiiragi Mix Original Short Anime",
+    "puan": "0.00",
+    "bolum_durumu": "4/4",
+    "ozet": "Given 2. Filmi: Hiiragi Mix'in Blu-ray diskinde yayınlanan kısa animeler.",
+    "slug": "given-movie-2-hiiragi-mix-original-short-anime"
+  },
+  "jikan": {
+    "mal_id": 61511,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1045/149898.jpg",
+    "trailer_id": null,
+    "title": "Given Movie 2: Hiiragi Mix Specials",
+    "title_english": null,
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2024-08-28T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "4 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.66,
+    "popularity": 11791,
+    "synopsis": "Short anime bundled with Blu-ray of Given Movie 2: Hiiragi Mix.",
+    "genres": [
+      28,
+      8
+    ],
+    "themes": [
+      19
+    ],
+    "demographics": [],
+    "studios": [
+      456
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entries": [
+          54791
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 207594,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Given Movie 2: Hiiragi Mix Mini Dizi 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 242,
+          "player": "MAIL",
+          "url": "https://my.mail.ru//mail/arceus.tag/video/embed/_myvideo/65"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T23:58:52.211019",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Given Movie 2: Hiiragi Mix Mini Dizi 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 242,
+          "player": "MAIL",
+          "url": "https://my.mail.ru//mail/arceus.tag/video/embed/_myvideo/66"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T23:58:52.211019",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Given Movie 2: Hiiragi Mix Mini Dizi 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 242,
+          "player": "MAIL",
+          "url": "https://my.mail.ru//mail/arceus.tag/video/embed/_myvideo/67"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T23:58:52.211019",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Given Movie 2: Hiiragi Mix Mini Dizi 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 242,
+          "player": "MAIL",
+          "url": "https://my.mail.ru//mail/arceus.tag/video/embed/_myvideo/68"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T23:58:52.211019",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

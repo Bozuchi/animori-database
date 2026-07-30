@@ -1,0 +1,81 @@
+{
+  "turkanime": {
+    "isim": "One Piece: Araburu Henkaku no Log: Anyaku Suru Kakumeigun!",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Çokbilmiş öyküsünün 4. özet bölümüdür. Devrim Ordusu'nun eylemlerini anlatır.",
+    "slug": "one-piece-araburu-henkaku-no-log-anyaku-suru-kakumeigun"
+  },
+  "jikan": {
+    "mal_id": 59596,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1031/144856.jpg",
+    "trailer_id": null,
+    "title": "One Piece: Araburu Henkaku no Log: Anyaku Suru Kakumeigun!",
+    "title_english": "One Piece: The Log of the Turbulent Revolution - The Revolutionary Army Maneuvers in Secret!",
+    "type": "TV Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2024-08-25T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.36,
+    "popularity": 11007,
+    "synopsis": "The fourth recap special of the Egghead arc. It follows the actions of the Revolutionary Army.",
+    "genres": [
+      1,
+      2,
+      4,
+      10
+    ],
+    "themes": [],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      18
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entries": [
+          21
+        ]
+      }
+    ]
+  },
+  "anilist": null,
+  "episodes": [
+    {
+      "turkanime_title": "One Piece 1116,5. Bölüm",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 115,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1YM3wM2kTQKOMoKb-tda_vCfF7TX_Jq7s/preview"
+        },
+        {
+          "fansub_id": 115,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5677421"
+        },
+        {
+          "fansub_id": 115,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/vsj0iwob"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T20:55:35.428307",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

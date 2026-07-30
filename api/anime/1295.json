@@ -1,0 +1,107 @@
+{
+  "turkanime": {
+    "isim": "A-Ko The Versus",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "A-ko ve B-ko adındaki iki genç kadın acımasız bir dünyada ödül avcılığı yapmaktadırlar. C-ko adındaki küçük bir varis gökten düşerek başlarına bela olunca kendileri uzay polisi ve uzay korsanları arasındaki bir savaşta bulurlar. Hikaye devamındaysa C-ko nun kadim kötülüğün bir sırrını barındırdığı ve evreni yok etme planlarının merkezinde olduğu açığa çıkacaktır.",
+    "slug": "a-ko-the-versus"
+  },
+  "jikan": {
+    "mal_id": 1295,
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/41427.jpg",
+    "trailer_id": null,
+    "title": "A-Ko The Versus",
+    "title_english": "Project A-ko: Uncivil Wars",
+    "type": "OVA",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1990-07-21T00:00:00+00:00",
+      "to": "1990-08-21T00:00:00+00:00"
+    },
+    "duration": "50 min per ep",
+    "rating": "R+ - Mild Nudity",
+    "score": 6.28,
+    "popularity": 8467,
+    "synopsis": "A-ko and B-ko are bounty hunters in an untamed world. When a young heiress, C-ko, falls out of the sky and into their hair, they find themselves battling space pirates and galactic police. Turns out the high-pitched, hungry C-ko holds a secret—the spirit of an ancient evil—and is the center of a plot to destroy the universe!",
+    "genres": [
+      1,
+      2,
+      4,
+      22,
+      24
+    ],
+    "themes": [
+      31
+    ],
+    "demographics": [],
+    "studios": [
+      24,
+      438
+    ],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          212
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 1295,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "A-Ko The Versus 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5109576"
+        },
+        {
+          "fansub_id": 21,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/7gv0coiiur7h"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-19T03:18:33.480154",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "A-Ko The Versus 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1VlPJ1aSFEGw5hkp8tZbFx6JUC93PSiQq/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5120457"
+        },
+        {
+          "fansub_id": 21,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/81lyhgjlzwr7"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-19T03:18:33.480154",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

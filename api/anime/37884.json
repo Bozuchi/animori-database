@@ -1,0 +1,97 @@
+{
+  "turkanime": {
+    "isim": "Golden Kamuy OVA",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Golden Kamuy animesinin OVA bölümüdür.",
+    "slug": "golden-kamuy-ova"
+  },
+  "jikan": {
+    "mal_id": 37884,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1538/124078.jpg",
+    "trailer_id": null,
+    "title": "Golden Kamuy: Barato no Youjinbou/Kaiki! Nazo no Kyodai Tori",
+    "title_english": "Golden Kamuy: The Bodyguards of Barato/Terror! The Mysterious Giant Bird",
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2018-09-19T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "22 min",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.25,
+    "popularity": 4521,
+    "synopsis": "The 7th Division's Private Hyakunosuke Ogata and former Shinsengumi Vice Commander Toshizou Hijikata find themselves on opposite sides of a gang war in Barato after hearing rumors of the Hidoro gang possessing an escaped prisoner's tattooed skin. With a lead to the hidden Ainu gold close at hand, the two gladly take up arms but a betrayal will force both sides to think twice before carelessly jumping the gun.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      1,
+      2
+    ],
+    "themes": [
+      50,
+      13,
+      38
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      1393
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          85968
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          36028
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 101830,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101830-Gj0fVRkzG14o.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Golden Kamuy OAD",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1I2BmCRjZw83Wky5BtR9U8ZvVKiYL7eVO/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4703968"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ryj2qnk833qz.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-sgjcfgxxlzjy.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T00:23:02.855817",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "turkanime": {
+    "isim": "Digimon X-Evolution",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "",
+    "slug": "digimon-x-evolution"
+  },
+  "jikan": {
+    "mal_id": 2123,
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/30284.jpg",
+    "trailer_id": null,
+    "title": "Digimon X-Evolution",
+    "title_english": null,
+    "type": "Movie",
+    "source": "Other",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2005-01-03T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 18 min",
+    "rating": "PG - Children",
+    "score": 7.06,
+    "popularity": 5285,
+    "synopsis": "A virtual world was created by the present-day network called the \"Digital World.\" The \"Digital Monster,\" which is a digital life object, was born, and the host computer Yggdrasil managed the different Digital World areas. However, it developed the X Program of fear to eliminate all Digimon in the old world and develop a new Digital World for only certain Digimon... Now, the greatest crisis ever approaches the Digital World.\n\nThe X-Digimon, a new type of Digital Monster, is hunted by the Royal Knights who protect the Digital Worlds. Their master, the network overseer Yggdrasil, seeks to set in motion Project Ark to renew the Digital Worlds and create new Digimon, but at the cost of all other digital life. This new X-Digimon will seek out the answers to its own existence as it tries to protect the life of all Digimon, and in the process it will change the Digital Worlds forever.\n\n(Source: ANN)",
+    "genres": [
+      1,
+      2,
+      10,
+      24
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      18
+    ],
+    "relations": [
+      {
+        "relation": "Spin-Off",
+        "entries": [
+          552
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 2123,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Digimon Movie: X - Evolution",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/16KPEEyF0FDEYn73ZxRp37m56o-PSls8L/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Wq8qXTbd-YHghxjaFYtdSV9ynVtjF_w4/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/2444636457931910155"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/2444636457931910154"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-pbux3h7p5l6x.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xvfulo8uhjpu.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T21:37:56.611428",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

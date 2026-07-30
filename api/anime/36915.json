@@ -1,0 +1,124 @@
+{
+  "turkanime": {
+    "isim": "Fate/Grand Order: Moonlight/Lostroom",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Fate/Grand Order'ın özel bölümü.",
+    "slug": "fate-grand-order-moonlight-lostroom"
+  },
+  "jikan": {
+    "mal_id": 36915,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1517/127324.jpg",
+    "trailer_id": null,
+    "title": "Fate/Grand Order: Moonlight/Lostroom",
+    "title_english": null,
+    "type": "TV Special",
+    "source": "Game",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2017-12-31T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "32 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.32,
+    "popularity": 3115,
+    "synopsis": "Short centering on a \"Lost Room\" where you can find what was lost—or those who lost. This room, which belongs to no one, lies forgotten in a corner of Chaldea.\n\n(Source: ANN)",
+    "genres": [
+      1,
+      10
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      1087
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entries": [
+          34321,
+          36914,
+          38084,
+          38085,
+          38086
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 100728,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100728-k33qsytFb8ik.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Fate/Grand Order: Moonlight/Lostroom Special",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 36,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/17sBU7UhkeGnyKQe-SpUsbKuto15_1JMZ/preview"
+        },
+        {
+          "fansub_id": 36,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1CPeHYA3EKul34zShcQeOfGHkLYD8S2pc/preview"
+        },
+        {
+          "fansub_id": 36,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/145lCCnA8RkC0JyGto9s07rXPQHA4vshv/preview"
+        },
+        {
+          "fansub_id": 36,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985850029"
+        },
+        {
+          "fansub_id": 36,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/gatsuorigami/video/embed/_myvideo/29"
+        },
+        {
+          "fansub_id": 36,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4490809"
+        },
+        {
+          "fansub_id": 36,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4431271"
+        },
+        {
+          "fansub_id": 36,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/cgksm4ir"
+        },
+        {
+          "fansub_id": 36,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/cky2qwni"
+        },
+        {
+          "fansub_id": 36,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-9wzrn6tnskkd.html"
+        },
+        {
+          "fansub_id": 36,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-xnzw0x2lp3j9.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T01:18:23.425398",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

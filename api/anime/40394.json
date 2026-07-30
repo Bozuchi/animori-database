@@ -1,0 +1,97 @@
+{
+  "turkanime": {
+    "isim": "Zenonzard The Animation Episode 0",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Zenonzard The Animation animesinin 0. bölümüdür.",
+    "slug": "zenonzard-the-animation-episode-0"
+  },
+  "jikan": {
+    "mal_id": 40394,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1478/103070.jpg",
+    "trailer_id": null,
+    "title": "Zenonzard The Animation Episode 0",
+    "title_english": null,
+    "type": "ONA",
+    "source": "Game",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2019-09-10T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "27 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.52,
+    "popularity": 7889,
+    "synopsis": "The year 20XX. Humans called \"Concodes\" and ultra-high-performance AI called \"Codeman\" team up as buddies to compete in the card battle game ZENOZARD. People are going wild with excitement at the world championships, THE ZENON.\n\nOne day, Souta Azuma, an average high school student, is challenged to a battle by a mysterious woman, Eilietta Lash. She reveals that she’s a Codeman and that her intent is to team up with Souta and participate in THE ZENON. Souta reluctantly agrees. Souta and Eilietta’s first opponent turns out to be the super-famous player Shion Saionji, who attends Souta’s school, and her buddy, Ash Claude.\n\n(Source: Official YouTube)",
+    "genres": [
+      1,
+      24
+    ],
+    "themes": [
+      11
+    ],
+    "demographics": [],
+    "studios": [
+      441
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          40940
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 112034,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Zenonzard The Animation 0. Bölüm",
+      "episode_number": 0,
+      "videos": [
+        {
+          "fansub_id": 144,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1_ZG3LbdYMfMr5s_IrWIwgbN4AdpD7Gnt/preview"
+        },
+        {
+          "fansub_id": 144,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359658989"
+        },
+        {
+          "fansub_id": 144,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4455988"
+        },
+        {
+          "fansub_id": 144,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4215922"
+        },
+        {
+          "fansub_id": 144,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-mk9r5rgyb36y.html"
+        },
+        {
+          "fansub_id": 144,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/b728nxt2"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T20:54:41.380492",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

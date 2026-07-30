@@ -1,0 +1,106 @@
+{
+  "turkanime": {
+    "isim": "Fortune Arterial: Akai Yakusoku - Tadoritsuita Basho",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Fortune Arterial serisine ait OVA bölümdür.",
+    "slug": "fortune-arterial-akai-yakusoku-tadoritsuita-basho"
+  },
+  "jikan": {
+    "mal_id": 9347,
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/25892.jpg",
+    "trailer_id": null,
+    "title": "Fortune Arterial: Akai Yakusoku - Tadoritsuita Basho",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2011-02-23T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "24 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.85,
+    "popularity": 4807,
+    "synopsis": "After the school festival, Kohei and friends head to a small cottage out of town and enjoy themselves after working hard.",
+    "genres": [
+      4,
+      10,
+      22
+    ],
+    "themes": [
+      35,
+      32
+    ],
+    "demographics": [],
+    "studios": [
+      91,
+      218
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          8536
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          6320
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 9347,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Fortune Arterial OVA",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1eyIEb2jbYIhUhW9hFR5tePwPk6ryXr5A/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1478"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4087239"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4503405"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/689qsd01"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-z1ynajvmsggl.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T01:41:39.421204",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

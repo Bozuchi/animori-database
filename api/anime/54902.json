@@ -1,0 +1,145 @@
+{
+  "turkanime": {
+    "isim": "Gundam Build Metaverse",
+    "puan": "0.00",
+    "bolum_durumu": "3/3",
+    "ozet": "Rio adında bir genç, Gundam Metaverse Projesi olarak bilinen yeni internet hizmetinde Gunpla Savaşının keyfini sürmektedir. Odasına kurduğu başlangıç setiyle Metaverse'e dalar ve o günü düşleyerek yarattığı Lah Gundam'ı da yanına alır.",
+    "slug": "gundam-build-metaverse"
+  },
+  "jikan": {
+    "mal_id": 54902,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1907/135919.jpg",
+    "trailer_id": "Vb_FSLNo1RI",
+    "title": "Gundam Build Metaverse",
+    "title_english": null,
+    "type": "ONA",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2023-10-06T00:00:00+00:00",
+      "to": "2023-10-20T00:00:00+00:00"
+    },
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.72,
+    "popularity": 9608,
+    "synopsis": "A boy named Rio is enjoying Gunpla Battle in the new Internet service known as the Gundam Metaverse Project. After installing a login set in his room at home, he dives into the Metaverse, together with the Lah Gundam he created with this day in mind. \n\n(Source: Gundaminfo)",
+    "genres": [
+      24
+    ],
+    "themes": [
+      18
+    ],
+    "demographics": [],
+    "studios": [
+      2004
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          80
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          19319,
+          37245
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 163204,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Gundam Build Metaverse 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5310018"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-8njitmihdibu.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1304,
+          "end": 1394
+        }
+      },
+      "added_date": "2026-07-26T00:59:43.738829",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Gundam Build Metaverse 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5349002"
+        },
+        {
+          "fansub_id": 3,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/p5eiulezml35"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-e3f3oxm901kv.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1348,
+          "end": 1438
+        }
+      },
+      "added_date": "2026-07-26T00:59:43.738829",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Gundam Build Metaverse 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5349034"
+        },
+        {
+          "fansub_id": 3,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/npnkx9xjjjcl"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1272,
+          "end": 1361
+        }
+      },
+      "added_date": "2026-07-26T00:59:43.738829",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

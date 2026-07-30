@@ -1,0 +1,140 @@
+{
+  "turkanime": {
+    "isim": "Kakegurui Picture Drama",
+    "puan": "9.17",
+    "bolum_durumu": "3/3",
+    "ozet": "Hyakkaou Akademisi, çok farklı bir müfredata sahip ayrıcalıklı bir kurumdur. Zenginler içerisinde bile zengin olduğunuzda sizi öne çıkaracak şey kitaplar ya da atletik yetenekler değildir. Rakibin aklından geçenleri anlamak ve uzlaşma sanatıdır. Bu becerileri sivriltmenin ise kumardan daha iyi bir yolu yoktur. İşte bu sebeple Hyakkaou Akademisi'nde kazananlar krallar gibi yaşarken kaybedenlerin canına okunur. Ne var ki okula Yumeko Jabami'nin katılması, herkese gerçek kumarın ne olduğunu öğretecektir.\n\nBirinci sezona ait özel bölümlerdir.",
+    "slug": "kakegurui-picture-drama"
+  },
+  "jikan": {
+    "mal_id": 38939,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1914/98035.jpg",
+    "trailer_id": null,
+    "title": "Kakegurui Picture Drama",
+    "title_english": null,
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2017-10-13T00:00:00+00:00",
+      "to": "2018-02-09T00:00:00+00:00"
+    },
+    "duration": "2 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 6.66,
+    "popularity": 4149,
+    "synopsis": "Picture drama episodes included on the DVD/Blu-ray Volumes of Kakegurui.",
+    "genres": [
+      4,
+      41
+    ],
+    "themes": [
+      59,
+      11
+    ],
+    "demographics": [],
+    "studios": [
+      569
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          34933
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 107622,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/107622-tjLuKOZUPsO2.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Kakegurui Picture Drama 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 108,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1x4QrgGI9binAtdeJoFKJsbCe5hvgLoAq/preview"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/2881"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/q7wiush4"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T23:03:51.863038",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kakegurui Picture Drama 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 108,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1KdkIqI8KUFvkae5zkdqQae4reL_dLTYF/preview"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/2882"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/49a4ix3i"
+        },
+        {
+          "fansub_id": 108,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-7plmbjht7v3x.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T23:03:51.863038",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kakegurui Picture Drama 3. Bölüm Final",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 108,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1GSG6o5tzvzZgkZ8tzzdjrOgjii1t5PWE/preview"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/2883"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/iry3syr5"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T23:03:51.863038",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

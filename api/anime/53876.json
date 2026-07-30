@@ -1,0 +1,109 @@
+{
+  "turkanime": {
+    "isim": "Pokemon (2023)",
+    "puan": "0.00",
+    "bolum_durumu": "1/?",
+    "ozet": "Tüm Pokémon dünyasında geçen yeni bir rüya ve macera, Liko adında bir kız ve Roy adında bir oğlanın ardından yepyeni bir Pokémon serisinde ortaya çıkıyor.",
+    "slug": "pokemon-2023"
+  },
+  "jikan": {
+    "mal_id": 53876,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1703/137216.jpg",
+    "trailer_id": "fs6IVwrmMZo",
+    "title": "Pokemon (2023)",
+    "title_english": "Pokémon Horizons: The Series",
+    "type": "TV",
+    "source": "Game",
+    "status": "Currently Airing",
+    "year": 2023,
+    "season": "spring",
+    "airing": true,
+    "aired": {
+      "from": "2023-04-14T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "24 min",
+    "rating": "PG - Children",
+    "score": 7.41,
+    "popularity": 3988,
+    "synopsis": "In a world filled with strange yet majestic creatures known as Pokémon, a new adventure begins! Hailing from the pristine region of Paldea, the timid Liko travels to the Kanto region to attend the Indigo Academy and become a Pokémon trainer—a person who forms relationships with Pokémon and trains them to participate in battles. Soon, Liko acquires Nyahoja, a fickle Grass-type cat Pokémon, as her first partner.\n\nPrior to Liko's transfer to Kanto, her grandmother gives her a uniquely patterned and gleaming pendant as a protective charm. However, an enigmatic organization—The Explorers—seems to know a secret about the pendant and nearly succeeds in stealing it from Liko. Fortunately, she is rescued by the Rising Volt Tacklers, a group of adventurers led by a Lizardon-riding trainer named Friede.\n\nAfter a series of encounters with The Explorers, Liko decides to join Friede's team, accompanying him and his crew members on a grand journey across the regions. Along the way, they aim to unravel not only the mysteries of the world of Pokémon, but also the power that resides within her pendant.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      1,
+      2,
+      4,
+      10
+    ],
+    "themes": [],
+    "demographics": [
+      15
+    ],
+    "studios": [
+      28
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          175379,
+          157491
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entries": [
+          56218
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          527,
+          53327,
+          56712,
+          57199,
+          57488,
+          61027,
+          60799,
+          62885
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 158871,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-jKfsW5HCGA3K.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Pokemon (2023) 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 15,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1z6w-8MfSJjirZUAmm2mD4iANBP0zbtJA/preview"
+        },
+        {
+          "fansub_id": 15,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7432059985078517895"
+        },
+        {
+          "fansub_id": 15,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/6gtv2lcxjnas"
+        },
+        {
+          "fansub_id": 15,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-krsilmik70at.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T02:24:41.774087",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

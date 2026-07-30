@@ -1,0 +1,158 @@
+{
+  "turkanime": {
+    "isim": "Tsubasa: Shunraiki",
+    "puan": "7.29",
+    "bolum_durumu": "2/2",
+    "ozet": "CLAMP'ın Tsubasa Chronicle serisinden uyarlanacak olan yeni OVA'dır. xxxHOLIC Shunmuki ile bağlantılıdır.",
+    "slug": "tsubasa-shunraiki"
+  },
+  "jikan": {
+    "mal_id": 4938,
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/33841.jpg",
+    "trailer_id": null,
+    "title": "Tsubasa: Shunraiki",
+    "title_english": "Tsubasa RESERVoir CHRoNiCLE: Spring Thunder Chronicle",
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2009-03-17T00:00:00+00:00",
+      "to": "2009-05-15T00:00:00+00:00"
+    },
+    "duration": "28 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 8.08,
+    "popularity": 3121,
+    "synopsis": "After the battle in Celes, Fai escapes with Kurogane's aid while helping Syaoran and Sakura as well. Now in the land of Nihon, Kurogane meets with Tomoyo once more. Seishirou appears and Syaoran battles him for the feather. After finally gaining the feather, he enters the Dream World where he meets Sakura, Watanuki and the Clone.\n\n(Source: Metacritic)",
+    "genres": [
+      1,
+      2,
+      8,
+      10,
+      22
+    ],
+    "themes": [],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      10
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          2685
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          9
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entries": [
+          4918
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 4938,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/4938-cfKO9S2kFuJz.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Tsubasa Shunraiki 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 2,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/13YvBm2GCjd3S9pfN5tX4ebia5NFeGEbp/preview"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985851724"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/686.html"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2639639"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4440203"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1630349"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-byd0ddthn7zs.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T18:30:26.493621",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Tsubasa Shunraiki 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 2,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/15xFagolRgSJbOut06xTbJl_nno6-I0KL/preview"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985851725"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/687.html"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2639641"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4440204"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1630353"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T18:30:26.493621",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

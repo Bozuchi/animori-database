@@ -1,0 +1,775 @@
+{
+  "turkanime": {
+    "isim": "Karneval",
+    "puan": "7.67",
+    "bolum_durumu": "13/1+",
+    "ozet": "Nai, kendisi için çok önemli birini arıyordur. Elindeki tek ipucu ise ondan kalan bir bilekliktir. Gareki, geçimini sağlamak ve hayatta kalabilmek için hırsızlık yapmaktadır. İkisi tuhaf bir malikanede karşılaşırlar ve oradan birlikte kaçarlar. Güvenlik güçlerinden kaçarken bir trene binerler. Burada ise kendilerini hiç ummadıkları ve bir o kadar da tehlikeli bir olaya karışmış halde bulurlar. İşte tam o anda karşılarına ülkenin en güçlü savunma teşkilatı Circus çıkar...",
+    "slug": "karneval"
+  },
+  "jikan": {
+    "mal_id": 16033,
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/43467.jpg",
+    "trailer_id": null,
+    "title": "Karneval",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2012-10-25T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "5 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.98,
+    "popularity": 5680,
+    "synopsis": "DVD bundled with the limited edition of the 10th volume of the manga, previewing the upcoming TV anime and including footage that will not be used in the series.",
+    "genres": [
+      10,
+      24
+    ],
+    "themes": [],
+    "demographics": [
+      43
+    ],
+    "studios": [
+      32
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          10270
+        ]
+      },
+      {
+        "relation": "Full Story",
+        "entries": [
+          16035
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 16033,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Karneval 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1799609"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3796323"
+        },
+        {
+          "fansub_id": 52,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1xdOrpXVJ7-Nh-4BOMsrAzfYkbA3MefHO/preview"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4505168"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-1vz7tu9kubo0.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-lwysl54ernug.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/l9vzva51"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/wovuaqs3"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1090931"
+        },
+        {
+          "fansub_id": 52,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-lx9rfh5yhkby.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1233199"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T00:58:53.092932",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Karneval 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ph67gliwsz3o.html"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1799610"
+        },
+        {
+          "fansub_id": 52,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1MI1tW2VvZmBc15XaUvqLPgJa_sTf6eUx/preview"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3796336"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-88e0c5eidded.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/h17tesvo"
+        },
+        {
+          "fansub_id": 52,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-esxzzihg6iy9.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T00:58:53.092932",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Karneval 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359657508"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1799611"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3796356"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4451189"
+        },
+        {
+          "fansub_id": 52,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/15B4kQrzZNfXhuKv7bXA6V9jC3r2teA4r/preview"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-tumye5hgtod6.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-v63qqsk4t8yv.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/gzei3on3"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/h2wi9odb"
+        },
+        {
+          "fansub_id": 52,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-p2892pf9fgnb.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1233207"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T00:58:53.092932",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Karneval 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3796372"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1799612"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-r3lo8gafq3v6.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/1ye5ezke"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1KfG8IIB9OzgiauOcRaByK6KxC18ocSSP/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1117634"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1233210"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4505171"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/d7jics9n"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ncdyigaq0svg.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-imu5k0696lp0.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T00:58:53.092932",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Karneval 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1799613"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4451205"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359657509"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3796383"
+        },
+        {
+          "fansub_id": 52,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1zjrsPEZPWoZntyUBst4SD5V26FsqTrb6/preview"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-e5qpqwya8xpp.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-l2zoywvmrga9.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/3ikcy52q"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/elu2do9j"
+        },
+        {
+          "fansub_id": 52,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-de2tg1wc8so5.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1233212"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T00:58:53.092932",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Karneval 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1799614"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-znj4sbzfc32d.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ywzk6b7y"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3796391"
+        },
+        {
+          "fansub_id": 52,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1f0oXbZSCOOjshnHdPif-KwKGJAMXRO7N/preview"
+        },
+        {
+          "fansub_id": 52,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-sg4x60vo0329.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1233214"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T00:58:53.092932",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Karneval 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1n0vInOTwlzkHnKzhxRcd4XXUlhJb-Ikx/preview"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3796404"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4451213"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359657510"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1799615"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-fz0uxa2x96f1.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-9g0so8qtp5f0.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/pvmbs2z4"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/a7mf49wn"
+        },
+        {
+          "fansub_id": 52,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-pcb0tzi4xkh4.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1233204"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T00:58:53.092932",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Karneval 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1aMZun8OeQZtGxgJHg_dVopZdU0-IiX1Z/preview"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1799616"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ezoehc9djeo6.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vswfp2xpxqpi.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3796416"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ml1gg0q9"
+        },
+        {
+          "fansub_id": 52,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-cpvdomi12tux.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1233216"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T00:58:53.092932",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Karneval 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1XItH7lb8tfLWAqQ6Vnmcs0Ui8IloVsvb/preview"
+        },
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1799617"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3796429"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-j2mt19kl6gb2.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4505334"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-mx41av5navc2.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-2ybidaplk4ba.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/nxo4ft7h"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/0zzj93qv"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1160678"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T00:58:53.092932",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Karneval 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-qml7crfe1637.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1WWudnStRlMTPvgK7bpRPRd8ACUgsDL7t/preview"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/cqtzgehl"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3796431"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1233219"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T00:58:53.092932",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Karneval 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4451214"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359657511"
+        },
+        {
+          "fansub_id": 52,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1pQxp8eP2SDRPOUjTOtScaLr1yfNpXkP3/preview"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-s5ikyyudnai6.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3796433"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-qlfwwhxd0hh3.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/fwp9c5t9"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/z0f5v0fx"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T00:58:53.092932",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Karneval 12. Bölüm",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1799621"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-hl84ka69w7p7.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3796436"
+        },
+        {
+          "fansub_id": 52,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/180uVXIiFaTmxomygmqfpiB3J7WRda32_/preview"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4505338"
+        },
+        {
+          "fansub_id": 52,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-c0it98o9xay5.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/su5aqwqr"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1178985"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1233224"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T00:58:53.092932",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Karneval 13. Bölüm Final",
+      "episode_number": 13,
+      "videos": [
+        {
+          "fansub_id": 46,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1799622"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3796438"
+        },
+        {
+          "fansub_id": 52,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1XwBQjskT_VvTKQMWA5uAyTbJ0CpPanUT/preview"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ke6js5l0"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-8yn1tb7satuc.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T00:58:53.092932",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

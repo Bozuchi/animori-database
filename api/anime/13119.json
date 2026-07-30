@@ -1,0 +1,97 @@
+{
+  "turkanime": {
+    "isim": "Hakuouki Movie 2: Shikon Soukyuu",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Hakuouki filmlerinin ikinci bölümüdür. İlk filmin devamı.",
+    "slug": "hakuouki-movie-2-shikon-soukyuu"
+  },
+  "jikan": {
+    "mal_id": 13119,
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/71796.jpg",
+    "trailer_id": "UfK1Htx0vrQ",
+    "title": "Hakuouki Movie 2: Shikon Soukyuu",
+    "title_english": "Hakuoki ~Demon of the Fleeting Blossom~ Warrior Spirit of the Blue Sky",
+    "type": "Movie",
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2014-03-08T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 27 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.69,
+    "popularity": 5113,
+    "synopsis": "Second part of two Hakuouki movies.",
+    "genres": [
+      1,
+      8,
+      37
+    ],
+    "themes": [
+      13,
+      21
+    ],
+    "demographics": [
+      43
+    ],
+    "studios": [
+      37
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          13117
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          9065
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 13119,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Hakuouki Movie 2: Shikon Soukyuu",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1C3hhphl6qr4T3rh2uNVxNK2pZlah42wy/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933018113"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1912027"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-dapxpv9ok34l.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T01:54:40.006108",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

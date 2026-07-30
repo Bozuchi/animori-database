@@ -1,0 +1,101 @@
+{
+  "turkanime": {
+    "isim": "Amagi Brilliant Park: Nonbirishiteiru Hima ga Nai!",
+    "puan": "8.76",
+    "bolum_durumu": "1/1",
+    "ozet": "Televizyonda yayınlanmamış, 7. Blu-ray Disc kutusundan çıkan, ana serinin 14. bölümü niteliğindeki 24 dakikalık bölümdür.",
+    "slug": "amagi-brilliant-park-nonbirishiteiru-hima-ga-nai"
+  },
+  "jikan": {
+    "mal_id": 30206,
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/74772.jpg",
+    "trailer_id": null,
+    "title": "Amagi Brilliant Park: Nonbirishiteiru Hima ga Nai!",
+    "title_english": "Amagi Brilliant Park: No Time to Take It Easy!",
+    "type": "Special",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2015-06-26T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.2,
+    "popularity": 2300,
+    "synopsis": "Amagi Brilliant Park is a place where everyone takes on the role that is perfect for them. But every once in a while, situations arise that will force staff members to step out of their comfort zone and take on a new role. The goofball employees are soon to realize just how difficult this can be.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      4,
+      37
+    ],
+    "themes": [
+      48
+    ],
+    "demographics": [],
+    "studios": [
+      2
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          22147
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 21077,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n21077-Uy7QveRT0R48.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Amagi Brilliant Park: Nonbirishiteiru Hima ga Nai! 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 10,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4980680"
+        },
+        {
+          "fansub_id": 10,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-smfhzhi5pwqp.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685363131"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1899043"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-leo5icdbuwyr.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 41.381,
+          "end": 131.381
+        },
+        "ed": {
+          "start": 1331.822,
+          "end": 1421.822
+        }
+      },
+      "added_date": "2026-07-21T21:27:07.156784",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "turkanime": {
+    "isim": "Yokohama Kaidashi Kikou",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Bir felaket, dünyayı uykuya daldırmıştır. Kalan insan nüfusu, medeniyetin günbatımında sessiz ve huzurlu bir şekilde hayatlarını sürdürmektedir. Hatsuseno Alpha, Yokohama sınırında çalışan ve sahibinin dönmesini bekleyen bir androiddir.\nBir gün başka bir android, kurye Kokone Takatsu, Alpha'ya sahibinden bir paket getirir. İçerisinde, hatıralarını ölümsüzleştirmesi için sahibinin Alpha'ya gönderdiği bir kamera vardır.",
+    "slug": "yokohama-kaidashi-kikou"
+  },
+  "jikan": {
+    "mal_id": 975,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1167/150175.jpg",
+    "trailer_id": null,
+    "title": "Yokohama Kaidashi Kikou",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1998-05-21T00:00:00+00:00",
+      "to": "1998-12-02T00:00:00+00:00"
+    },
+    "duration": "28 min per ep",
+    "rating": "G - All Ages",
+    "score": 7.46,
+    "popularity": 3715,
+    "synopsis": "After a disaster leaves the world in a state of decline, the remaining human population lives out their lives peacefully and quietly in the twilight of the human age. Alpha Hatsuseno is an android who works at a cafe bordering Yokohama that rarely gets visitors, and is waiting for her owner to return.\n\nOne day, another android, the courier Kokone Takatsu, brings Alpha a package from her master. Inside is a camera, given to Alpha so she can take pictures to reminisce about.\n\nYokohama Kaidashi Kikou is a slow and contemplative anime that follows an android girl as she takes beautiful pictures and experiences touching moments, all amidst a calming sense of peace.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      24,
+      36
+    ],
+    "themes": [
+      63
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      30
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          976
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          4
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 975,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/975-6Fcen4DGT5vD.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Yokohama Kaidashi Kikou 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669166621"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-wbw46abp35zb.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T18:22:09.286226",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Yokohama Kaidashi Kikou 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669166620"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-qe9huij8uwvo.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T18:22:09.286226",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

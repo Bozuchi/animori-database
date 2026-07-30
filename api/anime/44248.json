@@ -1,0 +1,118 @@
+{
+  "turkanime": {
+    "isim": "Fate/Grand Carnival",
+    "puan": "0.00",
+    "bolum_durumu": "2/4",
+    "ozet": "Birinci sezonun ilk bölümü, Fate Project Yılbaşı Gecesi TV Özel 2020 Programı'nda önceden yayımlandı.",
+    "slug": "fate-grand-carnival"
+  },
+  "jikan": {
+    "mal_id": 44248,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1239/117596.jpg",
+    "trailer_id": null,
+    "title": "Fate/Grand Carnival",
+    "title_english": "Fate/Grand Carnival",
+    "type": "OVA",
+    "source": "Game",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2020-12-31T00:00:00+00:00",
+      "to": "2021-10-13T00:00:00+00:00"
+    },
+    "duration": "15 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.7,
+    "popularity": 3206,
+    "synopsis": "The first episode of \"season\" one was pre-aired on the Fate Project New Year's Eve TV Special 2020 program.",
+    "genres": [
+      4,
+      10
+    ],
+    "themes": [
+      20
+    ],
+    "demographics": [],
+    "studios": [
+      456
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entries": [
+          10012,
+          34321,
+          38084
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 127149,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/127149-GM94EEdeNcWh.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Fate/Grand Carnival Special 1. ve 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 16,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1gkA2EffEo1D9vQIQdvm3IwdmYySGsIfh/preview"
+        },
+        {
+          "fansub_id": 16,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/17PxBUbUDw9h-w7RAQPBztLwzz_7vDK1B/preview"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140716534"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4468198"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4329948"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ip1jasin"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/wr47ifx0"
+        },
+        {
+          "fansub_id": 16,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-sbbqebdnjxuq.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 28,
+          "end": 117
+        },
+        "ed": {
+          "start": 1824,
+          "end": 1913
+        }
+      },
+      "added_date": "2026-07-25T01:18:15.161280",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

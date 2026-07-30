@@ -1,0 +1,104 @@
+{
+  "turkanime": {
+    "isim": "Redline",
+    "puan": "8.14",
+    "bolum_durumu": "1/1",
+    "ozet": "Red Line, beş yılda bir yapılmakta olan evrenin en büyük yarışıdır. Erkek ya da kadın, herkes kazanmak için girer ve tüm hünerlerini sergiler. Gelecekteki yarışlarda neler olacağı ise tam bir merak konusudur...",
+    "slug": "redline"
+  },
+  "jikan": {
+    "mal_id": 6675,
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/28553.jpg",
+    "trailer_id": "RB-2Hjj_eEg",
+    "title": "Redline",
+    "title_english": "Redline",
+    "type": "Movie",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2009-08-14T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 42 min",
+    "rating": "R+ - Mild Nudity",
+    "score": 8.29,
+    "popularity": 631,
+    "synopsis": "Every five years, an exhilarating race called Redline is held, and the universe's most anticipated competition has only one rule: that there are none. Racers are pushed to their absolute limit—a feeling that daredevil driver JP knows all too well. Having just qualified to participate in Redline, he is eager to battle against the other highly skilled drivers, particularly the beautiful rising star and the only other human that qualified, Sonoshee McLaren.\n\nBut this year's Redline may be far more dangerous than usual—it has been announced to take place on the planet Roboworld with its trigger-happy military and criminals who look to turn the race to their own advantage. However, the potential danger doesn't stop the racers; in fact, it only adds to the thrill. Relying solely on his vehicle's speed, JP prepares for the event to come, aiming to take first place in the biggest race of his life.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      1,
+      24
+    ],
+    "themes": [
+      50,
+      3
+    ],
+    "demographics": [],
+    "studios": [
+      11
+    ],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          11483
+        ]
+      },
+      {
+        "relation": "Character",
+        "entries": [
+          1980
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 6675,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6675-E49elTPWWrcl.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Redline",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 120,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1X1lY6dM-dC6ArymZkMVfuMXrjW5pND0s/preview"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/945.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933016040"
+        },
+        {
+          "fansub_id": 120,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-8ae81ltk48l6.html"
+        },
+        {
+          "fansub_id": 62,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/baryshx/_myvideo/286.html"
+        },
+        {
+          "fansub_id": 62,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1900356"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T04:17:25.028922",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

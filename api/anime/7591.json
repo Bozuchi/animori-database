@@ -1,0 +1,113 @@
+{
+  "turkanime": {
+    "isim": "Tono to Issho",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Serinin parodi OVA bölümüdür.",
+    "slug": "tono-to-issho"
+  },
+  "jikan": {
+    "mal_id": 7591,
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/18878.jpg",
+    "trailer_id": null,
+    "title": "Tono to Issho",
+    "title_english": null,
+    "type": "OVA",
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2010-03-25T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "37 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.49,
+    "popularity": 10168,
+    "synopsis": "Comedy parodying famous samurai generals and historical events.",
+    "genres": [
+      4
+    ],
+    "themes": [
+      13,
+      20,
+      21
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      400
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          104913
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          8961,
+          10324
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          9794
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 7591,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/7591-iLgQjOYSqTE3.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Tono to Issho OVA",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1aFCnhUNks8_vTUHG1E_-smy2Ex3iUCiN/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Id-NSHypdMFv5ewwbF8vaJWsqu5ARGyM/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359661784"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4589915"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-0bgscc2mwf4e.html"
+        },
+        {
+          "fansub_id": 21,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-w8memgrm49b9.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T17:44:53.717812",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

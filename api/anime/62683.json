@@ -1,0 +1,159 @@
+{
+  "turkanime": {
+    "isim": "Let's Go Kaiki-gumi",
+    "puan": "0.00",
+    "bolum_durumu": "4/12",
+    "ozet": "Let's Go Kaiki-gumi, sıradan bir insana kıyasla doğaüstü olaylara karşı tam altı kat daha savunmasız ve hassas olan isimsiz bir kahramanın hikayesini konu alıyor. Günün birinde kahramanımız; insanları tehdit eden hayaletlerin, ruhların ve canavarların davranışlarını denetleyen \"Kaiki-gumi\" adlı organizasyonun başındaki gizemli kız Mechako ile karşılaşır. Bir şekilde kendini bu organizasyonun yeniden ayağa kalkmasına yardım ederken bulan kahramanımız, bu süreçte birbirinden tuhaf olayların ve ürkütücü maceraların tam ortasına çekilir.",
+    "slug": "let-s-go-kaiki-gumi"
+  },
+  "jikan": {
+    "mal_id": 62683,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1024/158581.jpg",
+    "trailer_id": "3DKfmW2aDhY",
+    "title": "Let's Go Kaiki-gumi",
+    "title_english": "Let's Go Kaikigumi",
+    "type": "TV",
+    "source": "Web manga",
+    "status": "Currently Airing",
+    "year": 2026,
+    "season": "summer",
+    "airing": true,
+    "aired": {
+      "from": "2026-07-05T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": 6.15,
+    "popularity": 9209,
+    "synopsis": "The story of Let's Go Kaiki-gumi follows a nameless protagonist who is six times more vulnerable to spiritual phenomena than the average human being. One day, the protagonist encounters Mechako, a mysterious girl who runs the Kaiki-gumi, an organization that polices the behavior of the ghosts and monsters that threaten human beings, and he somehow gets roped into helping the Kaiki-gumi re-establish itself, resulting in all sorts of strange events and spooky shenanigans.\n\n(Source: Crunchyroll)",
+    "genres": [
+      4,
+      37
+    ],
+    "themes": [
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      1075
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          153538
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 200230,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Let's Go Kaiki-gumi 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ehIlb3uhqJGNCGVOpcIno8fO_tvuhLZ9/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/om8sr89l"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 132.374,
+          "end": 222.815
+        },
+        "ed": {
+          "start": 1282.383,
+          "end": 1372.399
+        }
+      },
+      "added_date": "2026-07-27T08:03:36.941261",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Let's Go Kaiki-gumi 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/hr6br6q1hokn"
+        },
+        {
+          "fansub_id": 1,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-zcl29i1sn8mv.html"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-bft88hw55a6h.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T08:03:36.941261",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Let's Go Kaiki-gumi 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/igqmpchujsjy"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-dkpak1i7gojs.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T08:03:36.941261",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Let's Go Kaiki-gumi 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/vx4lkx0samob"
+        },
+        {
+          "fansub_id": 1,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-wwokqcstil6d.html"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ifey8uelu542.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-28T23:21:56.480951",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

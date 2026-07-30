@@ -1,0 +1,112 @@
+{
+  "turkanime": {
+    "isim": "Asura",
+    "puan": "7.78",
+    "bolum_durumu": "1/1",
+    "ozet": "Asura ;orta çağ Japonyas’ındaki bir çocuğun hayatta kalmak için verdiği amansız mücadelelerin konu alan bir dramadır.",
+    "slug": "asura"
+  },
+  "jikan": {
+    "mal_id": 8475,
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/44289.jpg",
+    "trailer_id": "Ny7S349OI68",
+    "title": "Asura",
+    "title_english": null,
+    "type": "Movie",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2012-09-29T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 15 min",
+    "rating": "R+ - Mild Nudity",
+    "score": 6.97,
+    "popularity": 4362,
+    "synopsis": "Asura is an unrelentingly dark drama that follows the struggles of a young boy who did whatever it took to survive during a time of war and famine in medieval Japan.",
+    "genres": [
+      46,
+      8
+    ],
+    "themes": [
+      13
+    ],
+    "demographics": [],
+    "studios": [
+      18
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          101088
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 8475,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Asura Movie",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 99,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1WLfsOdmklLeQ-GUwJb_Dx_lMqNV_wEiw/preview"
+        },
+        {
+          "fansub_id": 99,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/xsiyahbeyazx31/31/129.html"
+        },
+        {
+          "fansub_id": 99,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/xsiyahbeyazx31/31/131.html"
+        },
+        {
+          "fansub_id": 99,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4506686"
+        },
+        {
+          "fansub_id": 99,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-i730bwmlycee.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3186676"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-n5xp80720ise.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/bk/schneizel/video/embed/_myvideo/864"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-938z5nbhka3y.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T03:11:03.529170",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

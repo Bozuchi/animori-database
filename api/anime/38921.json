@@ -1,0 +1,103 @@
+{
+  "turkanime": {
+    "isim": "Tsurune: Kazemai Koukou Kyuudoubu - Yabai",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Tsurune: Kazemai Koukou Kyuudoubu animesinin özel bölümüdür.",
+    "slug": "tsurune-kazemai-koukou-kyuudoubu-yabai"
+  },
+  "jikan": {
+    "mal_id": 38921,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1377/100872.jpg",
+    "trailer_id": "erk1U4iQf6M",
+    "title": "Tsurune: Kazemai Koukou Kyuudou-bu - Yabai",
+    "title_english": "Tsurune: Kazemai High School Japanese Archery Club - Dangerous Shoot",
+    "type": "Special",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2019-03-03T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "24 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.27,
+    "popularity": 4276,
+    "synopsis": "Unaired episode pre-screened at the event and later included with the 5th Blu-ray/DVD release.",
+    "genres": [
+      30
+    ],
+    "themes": [
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      2
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          36653
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          52826
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          114744
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 107506,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Tsurune: Kazemai Koukou Kyuudoubu - Yabai Special",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/12L6seYUc96Bv51Pv9BMIFeMneLjc_znb/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/4914"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3642750"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-50kesvxp0p1l.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/grlr8nl5"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T18:46:05.607718",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

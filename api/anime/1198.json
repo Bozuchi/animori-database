@@ -1,0 +1,78 @@
+{
+  "turkanime": {
+    "isim": "Tsuyokiss",
+    "puan": "0.00",
+    "bolum_durumu": "1/12",
+    "ozet": "Sunao Konoe yeni okulunun ilk gününde drama kulübüne katılmak ister fakat kulübün olmadığını öğrenince şaşırır. Bu yüzden o kulübü kendi kurmak ister. Ancak uzun zamandır görmediği çocukluk arkadaşı, çılgın öğrenci topluluğu ve kibirli öğrenci konseyi başkanının onu her fırsatta engellemeye çalışması yüzünden kulübü kurmak düşündüğünden daha zor olacak gibi duruyor.",
+    "slug": "tsuyokiss"
+  },
+  "jikan": {
+    "mal_id": 1198,
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/14108.jpg",
+    "trailer_id": null,
+    "title": "Tsuyokiss",
+    "title_english": null,
+    "type": "TV",
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "year": 2006,
+    "season": "summer",
+    "airing": false,
+    "aired": {
+      "from": "2006-07-02T00:00:00+00:00",
+      "to": "2006-09-17T00:00:00+00:00"
+    },
+    "duration": "25 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.53,
+    "popularity": 5421,
+    "synopsis": "Sunao Konoe starts her first day at a new school and is surprised to find that there is no drama club. So, she decides to make one of her own. But between a childhood friend showing up, the crazy student body, and the arrogant student council president blocking her at every turn, it seems that actually creating the club is going to be more difficult than she thought.\n\n(Source: ZomgAnime)",
+    "genres": [
+      4,
+      22
+    ],
+    "themes": [
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      63,
+      101
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          17456
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 1198,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Tsuyokiss 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5143518"
+        },
+        {
+          "fansub_id": 21,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/jpau7hmyxrl8"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T18:48:00.025767",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

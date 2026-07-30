@@ -1,0 +1,124 @@
+{
+  "turkanime": {
+    "isim": "Sol Bianca",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Beş kadın korsan Sol Bianca'nın, bilinen diğer gemilerden çok daha yüksek düzey teknolojisi olan bir uzay gemisinin, pilotluğunu yapıyor. Onunla hazineleri arıyorlar, mesela Gnosis, efsanevi güçlü bir eşya ve pasha, galaksideki en değerli mineral. Yolculuk esnasında kaçak bir yolcunun sevdiği kişiyi kurtarma arayışını göz önünde bulundurmaları gerekir ve onlara haksızlık yapanlara karşı intikam arayışına düşerler.",
+    "slug": "sol-bianca"
+  },
+  "jikan": {
+    "mal_id": 1443,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1928/150179.jpg",
+    "trailer_id": null,
+    "title": "Sol Bianca",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1990-03-21T00:00:00+00:00",
+      "to": "1991-07-21T00:00:00+00:00"
+    },
+    "duration": "47 min per ep",
+    "rating": "R+ - Mild Nudity",
+    "score": 6.38,
+    "popularity": 7611,
+    "synopsis": "Five female pirates pilot the Sol Bianca, a starship with a higher level of technology than any other known. With it, they seek out riches, such as the Gnosis, an legendary item of power, and pasha, the most valuable mineral in the galaxy. Along the way, they must consider a stowaway's quest to save the one he loves, and seek revenge against those that have wronged them. \n\n(Source: ANN)",
+    "genres": [
+      1,
+      2,
+      24
+    ],
+    "themes": [
+      29
+    ],
+    "demographics": [],
+    "studios": [
+      48
+    ],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          1444
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 1443,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Sol Bianca 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/109-ocOwlFbd6SV3rX3wyDl43jtpQqAPC/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656270"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439443"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T11:14:09.175727",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Sol Bianca 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1VoHRzAyILFvEbkpxMRT93qqGhwyHocU3/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656273"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439447"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-8wusbd2e90f5.html"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-aqf8x2yim7fg.html"
+        },
+        {
+          "fansub_id": 21,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-piynovuqldld.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T11:14:09.175727",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

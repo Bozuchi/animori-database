@@ -1,0 +1,131 @@
+{
+  "turkanime": {
+    "isim": "Souryuuden",
+    "puan": "0.00",
+    "bolum_durumu": "3/12",
+    "ozet": "Dört Ryudo kardeşi, çok sıkıntılı bir antik sırra sahipler. Ne sırrı mı? Ejderhaların soyundan geldikleri sırrı. Efsanevi atalarının hızına, gücüne ve kuvvetine sahipler. Üstelik gün geçtikçe daha da güçleniyorlar. Ancak sınırlarını zorladıklarında mitolojideki korkunç ve kontrol edilemez ejderhalara dönüşüyorlar. Bu güçleri, sınırsız kaynak ve silahlara sahip karanlık örgütlerin dikkatini çekiyor ve kardeşleri kontrol etmek için ellerinden gelen her şeyi yapıyorlar.",
+    "slug": "souryuuden"
+  },
+  "jikan": {
+    "mal_id": 1742,
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/31923.jpg",
+    "trailer_id": null,
+    "title": "Souryuuden",
+    "title_english": "Legend of the Dragon Kings",
+    "type": "OVA",
+    "source": "Novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1991-06-25T00:00:00+00:00",
+      "to": "1993-03-10T00:00:00+00:00"
+    },
+    "duration": "45 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 6.62,
+    "popularity": 10354,
+    "synopsis": "The four Ryudo brothers hold an ancient secret -  they are descended from the dragons. They have the speed, strength and  power of their legendary ancestors - and they're getting stronger. But when pushed to the limit, they become the terrifying, uncontrollable dragons of mythology. These powers have attracted the attention of some powerful enemies - shadowy organizations with unlimited resources and weapons who will stop at nothing to control the brothers.\n\n(Source: U.S. Manga)",
+    "genres": [
+      8,
+      7,
+      37
+    ],
+    "themes": [
+      31
+    ],
+    "demographics": [],
+    "studios": [
+      2256
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          11792,
+          25713
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 1742,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Souryuuden 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5191110"
+        },
+        {
+          "fansub_id": 21,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/yuqzn4xui97m"
+        },
+        {
+          "fansub_id": 21,
+          "player": "UQLOAD",
+          "url": "https://uqload.co/embed-kjjsz1of3goj.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T11:48:12.097955",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Souryuuden 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5194733"
+        },
+        {
+          "fansub_id": 21,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/pk96pucnoaio"
+        },
+        {
+          "fansub_id": 21,
+          "player": "UQLOAD",
+          "url": "https://uqload.co/embed-7dj4p0feg8d4.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T11:48:12.097955",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Souryuuden 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5223439"
+        },
+        {
+          "fansub_id": 21,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/quj33r0exmyw"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T11:48:12.097955",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

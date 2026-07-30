@@ -1,0 +1,91 @@
+{
+  "turkanime": {
+    "isim": "Hanasakeru Seishounen Recaps",
+    "puan": "0.00",
+    "bolum_durumu": "1/3",
+    "ozet": "Hanasakeru Seishounen serisinin Recap Special bölümleridir.",
+    "slug": "hanasakeru-seishounen-recaps"
+  },
+  "jikan": {
+    "mal_id": 6726,
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/15465.jpg",
+    "trailer_id": null,
+    "title": "Hanasakeru Seishounen Recaps",
+    "title_english": null,
+    "type": "TV Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2009-06-28T00:00:00+00:00",
+      "to": "2009-10-18T00:00:00+00:00"
+    },
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.76,
+    "popularity": 9892,
+    "synopsis": "Recap specials of Hanasakeru Seishounen.",
+    "genres": [
+      8,
+      22
+    ],
+    "themes": [
+      73
+    ],
+    "demographics": [
+      25
+    ],
+    "studios": [
+      1
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entries": [
+          5835
+        ]
+      }
+    ]
+  },
+  "anilist": null,
+  "episodes": [
+    {
+      "turkanime_title": "Hanasakeru Seishounen Recap 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1TPJlu5hF_qeLkmPPl3O0JLf57iQU3sT5/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/67/107.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933018963"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1063002"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-p6efdzcafjo0.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T02:06:55.291306",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

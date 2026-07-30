@@ -1,0 +1,118 @@
+{
+  "turkanime": {
+    "isim": "Bishoujo Senshi Sailor Moon Cosmos Movie",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Her şeyi yok edip evrene hükmetmek isteyen yeni ve korkunç bir düşman, Ay Savaşçısı'nın arkadaşlarını ve sevdiklerini teker teker hedef almaya başlar.",
+    "slug": "bishoujo-senshi-sailor-moon-cosmos-movie"
+  },
+  "jikan": {
+    "mal_id": 51716,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1388/133092.jpg",
+    "trailer_id": "LhmHTock6R0",
+    "title": "Bishoujo Senshi Sailor Moon Cosmos Movie",
+    "title_english": "Pretty Guardian Sailor Moon Cosmos the Movie",
+    "type": "Movie",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2023-06-09T00:00:00+00:00",
+      "to": "2023-06-30T00:00:00+00:00"
+    },
+    "duration": "1 hr 20 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.84,
+    "popularity": 4781,
+    "synopsis": "The final battle for the Sailor Guardians begins as they face Sailor Iron Mouse, Sailor Aluminum Siren, Sailor Lead Crow, Sailor Tin Nyanko and more.\n\n(Source: Netflix)",
+    "genres": [
+      22
+    ],
+    "themes": [
+      66
+    ],
+    "demographics": [
+      25
+    ],
+    "studios": [
+      18,
+      37
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          40429
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          92
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          996
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          55637
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 148149,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/148149-dVUcKlezzLG0.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Bishoujo Senshi Sailor Moon Cosmos Movie 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 67,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682372134"
+        },
+        {
+          "fansub_id": 67,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/3feh7qg7yclo"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T04:51:45.064970",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Bishoujo Senshi Sailor Moon Cosmos Movie 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 67,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682372135"
+        },
+        {
+          "fansub_id": 67,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/ixok7hxhraj0"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T04:51:45.064970",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

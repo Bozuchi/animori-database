@@ -1,0 +1,96 @@
+{
+  "turkanime": {
+    "isim": "KimiKiss Pure Rouge: Love Fighter",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Kimikiss Pure Rouge Animesinin OVA Bölümüdür.",
+    "slug": "kimikiss-pure-rouge-love-fighter"
+  },
+  "jikan": {
+    "mal_id": 4205,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1203/127869.jpg",
+    "trailer_id": null,
+    "title": "KimiKiss Pure Rouge: Love Fighter",
+    "title_english": null,
+    "type": "Special",
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2008-08-22T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "24 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.92,
+    "popularity": 6551,
+    "synopsis": "DVD only episode entitled 'love fighter'. It features the whole cast but focuses on Megumi Kuryuu.",
+    "genres": [
+      22
+    ],
+    "themes": [
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      7
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          2927
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 4205,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Kimi Kiss Pure Rouge OVA",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 2,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1CjTFyh-cynrSnGNoUOhill4YYjhojZIU/preview"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985851855"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2735951"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4440555"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-izgu87qg99d7.html"
+        },
+        {
+          "fansub_id": 75,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vfmemcwmvnzt.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T03:36:36.659843",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

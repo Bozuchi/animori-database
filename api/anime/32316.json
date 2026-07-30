@@ -1,0 +1,142 @@
+{
+  "turkanime": {
+    "isim": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's Mini Picture Drama",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "The Movie 2nd A's Mini Picture Drama: Filmin BD sürümüne dahil olan özel animasyon şovu.",
+    "slug": "mahou-shoujo-lyrical-nanoha-the-movie-2nd-a-s-mini-picture-drama"
+  },
+  "jikan": {
+    "mal_id": 32316,
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/83502.jpg",
+    "trailer_id": null,
+    "title": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's Mini Picture Drama",
+    "title_english": null,
+    "type": "Special",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2013-03-22T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "3 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.88,
+    "popularity": 12855,
+    "synopsis": "Short picture drama specials included with the BD release of the film.",
+    "genres": [
+      4
+    ],
+    "themes": [
+      20
+    ],
+    "demographics": [],
+    "studios": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          35501,
+          37933
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          10153
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 108549,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Nurse Girl Medical Shamal Prelude",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1As5TswgRGcK4a-ob3xlNe1XVrUSwV3Co/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685362696"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4515800"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-tudsy1mqg27b.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-bckgg8rmmghp.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:43:00.285477",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Magical Family Wolken Prelude",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1NJvfR5GNGLIHbRvXhPlRzgvkevDYzod_/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685362698"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359662269"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4602551"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-gbejm73yqkhv.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ew585tlx1qpe.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-e6d1g1qvbiuz.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:43:00.285477",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

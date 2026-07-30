@@ -1,0 +1,103 @@
+{
+  "turkanime": {
+    "isim": "Kuma Miko Specials",
+    "puan": "0.00",
+    "bolum_durumu": "1/2",
+    "ozet": "Bluray ve DVD lere eklenen özel bölümler.",
+    "slug": "kuma-miko-specials"
+  },
+  "jikan": {
+    "mal_id": 33118,
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/79557.jpg",
+    "trailer_id": null,
+    "title": "Kuma Miko Specials",
+    "title_english": null,
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2016-06-24T00:00:00+00:00",
+      "to": "2016-08-24T00:00:00+00:00"
+    },
+    "duration": "15 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.54,
+    "popularity": 8021,
+    "synopsis": "Special episodes included in the Blu-ray and DVD boxes of Kuma Miko.",
+    "genres": [
+      4
+    ],
+    "themes": [],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      290,
+      1264
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          63295
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          31804
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 21784,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Kuma Miko Specials 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 26,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1sEonYQlotXr6wEVGDWRx0MC0m0OXZje0/preview"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/puzzle.vatican/video/embed/_myvideo/175"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271188446"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359660524"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-li438m4at96r.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-8rz4uuf97hw1.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T06:42:23.579212",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

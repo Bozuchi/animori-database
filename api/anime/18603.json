@@ -1,0 +1,94 @@
+{
+  "turkanime": {
+    "isim": "Kennosuke-sama",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Günümüz Tokyo'sunda yaşayan eski moda samurai ailesinin genç oğlunun önemli bir randevuya çıkmasını konu alan bir komedi.",
+    "slug": "kennosuke-sama"
+  },
+  "jikan": {
+    "mal_id": 18603,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1521/94554.jpg",
+    "trailer_id": null,
+    "title": "Kennosuke-sama",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1990-07-07T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "20 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.65,
+    "popularity": 12345,
+    "synopsis": "A comedy about a family of old-fashioned samurai living in modern-day Tokyo whose young son has to head out for an important date.\n\n(Source: The Anime Encyclopedia)",
+    "genres": [
+      2,
+      4
+    ],
+    "themes": [],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      18
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          16038
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          896,
+          11659
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 18603,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Kennosuke-sama",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 115,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1rLA7Fe6I4p1ku_ZphCe8NX6AjdIK7AcG/preview"
+        },
+        {
+          "fansub_id": 115,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/mertkara90/video/embed/_myvideo/177"
+        },
+        {
+          "fansub_id": 115,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933013962"
+        },
+        {
+          "fansub_id": 115,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-p9jyaz909y8e.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T02:47:07.450831",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

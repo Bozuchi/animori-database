@@ -1,0 +1,588 @@
+{
+  "turkanime": {
+    "isim": "Grisaia no Rakuen",
+    "puan": "8.89",
+    "bolum_durumu": "10/10",
+    "ozet": "Grisaia no rakuen serisi, Grisaia no Meikyuu'dan sonrasını konu alır ve üçlemeyi sonlandırır. Ayrıca beş karakterin Mihama Akademisine varış hikayesinide içerir.",
+    "slug": "grisaia-no-rakuen"
+  },
+  "jikan": {
+    "mal_id": 29095,
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/72855.jpg",
+    "trailer_id": "cXI6Rb3RqSg",
+    "title": "Grisaia no Rakuen",
+    "title_english": "The Eden of Grisaia",
+    "type": "TV",
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "year": 2015,
+    "season": "spring",
+    "airing": false,
+    "aired": {
+      "from": "2015-04-19T00:00:00+00:00",
+      "to": "2015-06-21T00:00:00+00:00"
+    },
+    "duration": "23 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.72,
+    "popularity": 618,
+    "synopsis": "Grisaia no Rakuen begins right at the end of the previous installment, Grisaia no Meikyuu. Kazami Yuuji is arrested under suspicion for terrorism. A video showing apparently concrete proof that Yuuji committed these acts, and he is held in custody by Ichigaya.\n\nIchigaya knows full well that Yuuji didn't commit the crimes he has been accused of. But he did fail to assassinate Heath Oslo, who is the leader of the terrorist organization with an extremely devastating weapon in their possession. In fact, Ichigaya have their own plans for Yuuji... \n\nBut all may not be lost for Yuuji. The girls of the Mihama Academy are not about to let Yuuji be used for political gain, and neither may the mysterious new figure which appears before them.",
+    "genres": [
+      8,
+      22,
+      41
+    ],
+    "themes": [
+      35,
+      40
+    ],
+    "demographics": [],
+    "studios": [
+      441
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          29093
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          35868
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          88482
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entries": [
+          31368
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 21006,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21006-z684WIz3TZcy.png"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Grisaia no Rakuen 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 26,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1G9nOYmQmGtYDOU6688v9bkMeTQBHUiLy/preview"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/hdfilmdizi/_myvideo/274.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271193988"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4529513"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2gs8qkq0e4qc.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/90q3675z"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/78fvse5g"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-kl21o6dw2s9v.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1327,
+          "end": 1415
+        }
+      },
+      "added_date": "2026-07-26T00:42:41.493165",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Grisaia no Rakuen 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 26,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ofjgeEC8HGmDsZ-U6kt8PcQ0ZnbmniNp/preview"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271193989"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/uploadpuzz7/_myvideo/101.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4506177"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-fb69srdyq024.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/4ugf9uyl"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-yjzbs3nwtjme.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 16.154,
+          "end": 106.154
+        }
+      },
+      "added_date": "2026-07-26T00:42:41.493165",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Grisaia no Rakuen 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 26,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1PZvIj8oECVtQzUC-gQnTKxFSBywwp85T/preview"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/mutlu.meric/29/933.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271193990"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4506179"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-6xwknxo188wi.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/vb8mbo7q"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-f5iwtctis76g.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 28.713,
+          "end": 118.713
+        }
+      },
+      "added_date": "2026-07-26T00:42:41.493165",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Grisaia no Rakuen 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 26,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/11xiHSfopdZcxjP8fdqKNUjj-LatmOho3/preview"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/hdfilmdizi/_myvideo/297.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271193991"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4529520"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-8ofboabnwinw.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/tfj8mpfz"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-csxr865zgnxs.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1273.421,
+          "end": 1363.421
+        }
+      },
+      "added_date": "2026-07-26T00:42:41.493165",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Grisaia no Rakuen 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 26,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1vmsfMtKjUVRl8lvQgrpiOjUR_DsvpoUW/preview"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/mutlu.meric/29/937.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271193992"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4529522"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-nfa5jvmgxdu6.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/vh7yi3cp"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-5cm7dnakxiwz.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 14.094,
+          "end": 104.094
+        }
+      },
+      "added_date": "2026-07-26T00:42:41.493165",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Grisaia no Rakuen 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 26,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1OqI6LHoQsiduIyW_hM5-VTM0cXE6WvKb/preview"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/hdfilmdizi/_myvideo/341.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271193993"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1788629"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4529533"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/cjib3ury"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-6zp1zuwl7ond.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 49.472,
+          "end": 139.472
+        },
+        "ed": {
+          "start": 1325,
+          "end": 1413
+        }
+      },
+      "added_date": "2026-07-26T00:42:41.493165",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Grisaia no Rakuen 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 26,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1mou6k_bhrz6c43JTjyesYnyEZRCt4gyJ/preview"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271193994"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4506181"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/5rg1gnw0"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-gov5dqzy134y.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 66.48,
+          "end": 156.48
+        },
+        "ed": {
+          "start": 1327,
+          "end": 1410
+        }
+      },
+      "added_date": "2026-07-26T00:42:41.493165",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Grisaia no Rakuen 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 26,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1tfjblabRe_IK_iEbp6CmfjNEjhr9AbQM/preview"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271193995"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/hdfilmdizi/_myvideo/362.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4506185"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-j8mrqn3yphkm.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/w4tl67v9"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-q9lxfnk7kop6.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 69.394,
+          "end": 159.394
+        },
+        "ed": {
+          "start": 1327,
+          "end": 1412
+        }
+      },
+      "added_date": "2026-07-26T00:42:41.493165",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Grisaia no Rakuen 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 26,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1C7pgQ56CEu31kaLy8INa7uqhtiaPJR0_/preview"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271193996"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/hdfilmdizi/_myvideo/388.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4506188"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-wc5cg8smuet0.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ql18d1v0"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-3rliokqafv4v.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 41.583,
+          "end": 131.583
+        }
+      },
+      "added_date": "2026-07-26T00:42:41.493165",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Grisaia no Rakuen 10. Bölüm Final",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 26,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1rKNEF7fOOh_7Z_u1FULgoXY7LONxq3oe/preview"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271193997"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/hdfilmdizi/_myvideo/414.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4506192"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/7ai0cyxa"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-kn525qs0e00f.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 52.593,
+          "end": 142.593
+        }
+      },
+      "added_date": "2026-07-26T00:42:41.493165",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

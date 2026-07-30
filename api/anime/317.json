@@ -1,0 +1,108 @@
+{
+  "turkanime": {
+    "isim": "Final Fantasy VII: Advent Children",
+    "puan": "7.75",
+    "bolum_durumu": "1/1",
+    "ozet": "Final Fantasy VII’nin sonundan iki sene sonra, Dünya toparlanmaya ve \nyeni bir gelecek için çalışmaya başlamıştır. Ancak Geostigma isimli bir \nhastalık ve Jenova’yı arayan üç adamın ile birlikte yeni tehditler \nortaya çıkar. Cloud ve arkadaşları bir kez daha bu tehditi yok etmek \niçin bir araya gelirler.",
+    "slug": "final-fantasy-vii-advent-children"
+  },
+  "jikan": {
+    "mal_id": 317,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1/317.jpg",
+    "trailer_id": "Qy9hiWlk8yk",
+    "title": "Final Fantasy VII: Advent Children",
+    "title_english": null,
+    "type": "Movie",
+    "source": "Game",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2005-09-14T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 41 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.71,
+    "popularity": 1291,
+    "synopsis": "Two years ago, the world was changed forever. The young Cloud Strife and his band of friends may have defeated Sephiroth and thwarted his plan to crash a giant meteor into the Earth, but this victory was not without great cost. The highly populated city of Midgar was nearly ripped apart in the conflict. Fortunately, many of the city's citizens were able to evacuate to safety, and in the years afterward have formed a new home called Edge.\n\nFinal Fantasy VII: Advent Children revolves around Cloud and Tifa as they try to make new lives for themselves, as well as for those around them, in this new city. Together they run a courier service, and tend to their mutual friend Barret’s adopted daughter Marlene and a young orphan by the name of Denzel. Denzel, Cloud, and scores of children are suffering from a mysterious new illness called \"Geostigma.\"\n\nThe children of the city have one other threat looming over their heads—a trio of powerful men are kidnapping infected kids for unknown reasons. Cloud is determined to save these young ones, not only from Geostigma, but from the kidnappers as well. He has no idea, however, that these men share a link to his old enemy, Sephiroth, and Cloud’s quest to vanquish them will bring him back into conflict with the demons of his past. If there is any hope in conquering these threats, it lays within the bonds of friendship between Cloud and his allies who saved the world once, and now must do so again.",
+    "genres": [
+      1,
+      10
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      1847
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          408
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entries": [
+          6151
+        ]
+      },
+      {
+        "relation": "Summary",
+        "entries": [
+          6152
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          2952
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 317,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n317-I8gaZ4rexNQX.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Final Fantasy VII: Advent Children",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Dli-r3qkGjEjCtpKRMRYGbSfUz3Owxg4/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359654335"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140718348"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4065297"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/yilj1rvn"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T01:34:09.430164",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

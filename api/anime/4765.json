@@ -1,0 +1,175 @@
+{
+  "turkanime": {
+    "isim": "Gunslinger Girl: Il Teatrino OVA",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Gunslinger Girl: Il Teatrino serisine ait OVA bölümlerdir.",
+    "slug": "gunslinger-girl-il-teatrino-ova"
+  },
+  "jikan": {
+    "mal_id": 4765,
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/12641.jpg",
+    "trailer_id": null,
+    "title": "Gunslinger Girl: Il Teatrino OVA",
+    "title_english": "Gunslinger Girl: Il Teatrino OVA",
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2008-10-24T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 6.95,
+    "popularity": 5057,
+    "synopsis": "Episodes 14 and 15 of Gunslinger Girl: Il Teatrino.",
+    "genres": [
+      1,
+      8,
+      24
+    ],
+    "themes": [
+      38
+    ],
+    "demographics": [],
+    "studios": [
+      8
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          3231
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          649
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 4765,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Gunslinger Girls II Teatrino OVA 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/17ApRkjmRgJpjK079tVlNsviMBsBLzjH7/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1NtFN_GUB7YqpQeeFJvWNrhKRcQAEy2zo/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933018947"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4517340"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1701681"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-hvdujyyqvumo.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-9edrlqkau0wt.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/z8h0g3za"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-cyqu9v66n2tr.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T01:05:12.464269",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Gunslinger Girls II Teatrino OVA 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1lK8C88z6OJLRaH3ptBPbACU5GI0vtjmG/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1tfYoGrCduxrA5O6uQL1Id61AIl9RtAUf/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933018948"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4517353"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1701686"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-6ito6zjvmgz1.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ze1yjox035r2.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/a8t6bvb4"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-eonhv69gzwlo.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T01:05:12.464269",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

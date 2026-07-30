@@ -1,0 +1,108 @@
+{
+  "turkanime": {
+    "isim": "Air Recap",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Air serisine ait özet bölümdür.",
+    "slug": "air-recap"
+  },
+  "jikan": {
+    "mal_id": 36032,
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/87100.jpg",
+    "trailer_id": null,
+    "title": "Air Recap",
+    "title_english": "Air: Memories",
+    "type": "Special",
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2005-04-01T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "22 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.25,
+    "popularity": 8003,
+    "synopsis": "A recap of Air. It was also included on its own DVD release, separate from the original show's DVD/BD releases.",
+    "genres": [
+      8,
+      22,
+      37
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      2
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entries": [
+          101
+        ]
+      }
+    ]
+  },
+  "anilist": null,
+  "episodes": [
+    {
+      "turkanime_title": "Air Recap Special",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1UZJZmosPwMS_0IDdd5OUwBe2NKmhcLCu/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/2106"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1104367"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4505225"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4079938"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3051685"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-94bvkkrdsdvt.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/bm2ykfgz"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-gukws3cr3wa5.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-20T04:26:51.183001",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

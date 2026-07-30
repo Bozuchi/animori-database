@@ -1,0 +1,129 @@
+{
+  "turkanime": {
+    "isim": "Break Blade 4: Sanka no Chi",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Break Blade animesinin 4. filmidir.",
+    "slug": "break-blade-4-sanka-no-chi"
+  },
+  "jikan": {
+    "mal_id": 9465,
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/68085.jpg",
+    "trailer_id": null,
+    "title": "Break Blade Movie 4: Sanka no Chi",
+    "title_english": "Broken Blade 4",
+    "type": "Movie",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2010-10-30T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "49 min",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.82,
+    "popularity": 2975,
+    "synopsis": "Fourth Break Blade Movie.",
+    "genres": [
+      10
+    ],
+    "themes": [
+      50,
+      18,
+      38
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      10,
+      27
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          9252
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          9724
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          4608
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          22433
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 9465,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Break Blade 5: Shisen no Hate Movie",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1al1Ebp0IoELJQIkxLkN3T9QumbtCRGSx/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/keshinn62/_myvideo/17.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2585716"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4114459"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4501428"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1140806"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/pfk2uek8"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-zf2h74dnnuxx.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T07:01:22.294383",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

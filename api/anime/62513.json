@@ -1,0 +1,91 @@
+{
+  "turkanime": {
+    "isim": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
+    "puan": "0.00",
+    "bolum_durumu": "1/13",
+    "ozet": "Clevatess Animesinin 2. Sezonu",
+    "slug": "clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou"
+  },
+  "jikan": {
+    "mal_id": 62513,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1741/157105.jpg",
+    "trailer_id": "0N1-8XY_3Rs",
+    "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
+    "title_english": "Clevatess Season 2",
+    "type": "TV",
+    "source": "Web manga",
+    "status": "Currently Airing",
+    "year": 2026,
+    "season": "summer",
+    "airing": true,
+    "aired": {
+      "from": "2026-07-08T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "Unknown",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.38,
+    "popularity": 3427,
+    "synopsis": "Second season of Clevatess.",
+    "genres": [
+      1,
+      10
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      1087
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          59205
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          138396
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 198946,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/dcnja7sadwqn"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-fc0dl2kdlwzs.html"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6237309"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/n0b0c82d"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T16:13:41.499386",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

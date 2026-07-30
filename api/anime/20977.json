@@ -1,0 +1,108 @@
+{
+  "turkanime": {
+    "isim": "Tonari no Seki-kun OVA",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Manganın 5. cildiyle gelen OVA bölümdür.",
+    "slug": "tonari-no-seki-kun-ova"
+  },
+  "jikan": {
+    "mal_id": 20977,
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/62613.jpg",
+    "trailer_id": null,
+    "title": "Tonari no Seki-kun OVA",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2014-01-04T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "13 min",
+    "rating": "G - All Ages",
+    "score": 7.38,
+    "popularity": 4041,
+    "synopsis": "OVA of Tonari no Seki-kun bundled with the fifth manga volume.",
+    "genres": [
+      4
+    ],
+    "themes": [
+      23
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      247
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          18139
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 20600,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Tonari no Seki-kun OVA",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 192,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1hBC6e3Dtai18r-x7j4ihNf9xbFh9sACy/preview"
+        },
+        {
+          "fansub_id": 192,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4524612"
+        },
+        {
+          "fansub_id": 192,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ttztr5j3vk2d.html"
+        },
+        {
+          "fansub_id": 192,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-znta3d6j4eg1.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271192188"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1380444"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1433256"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/dk4ma2eg"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T17:38:12.517219",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

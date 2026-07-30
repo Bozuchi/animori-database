@@ -1,0 +1,138 @@
+{
+  "turkanime": {
+    "isim": "Yuusha, Yamemasu: Kenshuu Ryokou wa Mokuteki wo Miushinau na",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Yuusha, Yamemasu animenin özel bölümleridir.",
+    "slug": "yuusha-yamemasu-kenshuu-ryokou-wa-mokuteki-wo-miushinau-na"
+  },
+  "jikan": {
+    "mal_id": 51562,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1369/123738.jpg",
+    "trailer_id": null,
+    "title": "Yuusha, Yamemasu: Kenshuu Ryokou wa Mokuteki wo Miushinau na",
+    "title_english": "I'm Quitting Heroing: Remember, the Work Trip is First and Foremost a Learning Opportunity",
+    "type": "Special",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2022-06-24T00:00:00+00:00",
+      "to": "2022-08-24T00:00:00+00:00"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.55,
+    "popularity": 4195,
+    "synopsis": "A two-part new animation released with both Blu-ray/DVD boxes.",
+    "genres": [
+      1,
+      2,
+      4,
+      10
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      1264
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          50175
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 151126,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Yuusha, Yamemasu: Kenshuu Ryokou wa Mokuteki wo Ushinau no 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 15,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ceANbL8NG5oB3IAfCZZCRFRGBx46NNz4/preview"
+        },
+        {
+          "fansub_id": 15,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1dvPeO57KjZR7Mtq1c5NYYf1uG5qaY0s7/preview"
+        },
+        {
+          "fansub_id": 15,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ifdtostWNoSrdcLPpMeZRjNN-1o_RG3t/preview"
+        },
+        {
+          "fansub_id": 15,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4767577"
+        },
+        {
+          "fansub_id": 15,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-06f5jz5vxas7.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 0,
+          "end": 90
+        }
+      },
+      "added_date": "2026-07-30T20:45:11.913606",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Yuusha, Yamemasu: Kenshuu Ryokou wa Mokuteki wo Miushinau na 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 15,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1GX1j9Nc_kVFd2AsLoRa7phyNEtdLFppX/preview"
+        },
+        {
+          "fansub_id": 15,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5013091"
+        },
+        {
+          "fansub_id": 15,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/3iy7utj9ziuf"
+        },
+        {
+          "fansub_id": 15,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/edbzpohb"
+        },
+        {
+          "fansub_id": 15,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-84etez20utv6.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 552,
+          "end": 599
+        }
+      },
+      "added_date": "2026-07-30T20:45:11.913606",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

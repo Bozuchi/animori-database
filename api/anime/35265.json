@@ -1,0 +1,97 @@
+{
+  "turkanime": {
+    "isim": "Monsuto Anime: Katsubou no Hate no Risoukyou",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Monster Strike serisinin 2. sezonuna ait 0. bölümdür.",
+    "slug": "monsuto-anime-katsubou-no-hate-no-risoukyou"
+  },
+  "jikan": {
+    "mal_id": 35265,
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/84955.jpg",
+    "trailer_id": null,
+    "title": "Monster Strike: Katsubou no Hate no Risoukyou",
+    "title_english": "The Night Before Special: The Long-Awaited Utopia",
+    "type": "ONA",
+    "source": "Game",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2017-03-25T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "15 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.96,
+    "popularity": 11652,
+    "synopsis": "Episode 0 of Monsuto Anime. It is the first item in the franchise to be completely animated in CG.\n\nThe big threat is passed, but the gang's still got little threats to handle. The monsters are becoming a part of daily life, but there's one big thing missing: Oragon. One day, a powerful monster appears in the middle of town. It's got Oragon inside!\n\n(Source: Crunchyroll)",
+    "genres": [
+      1,
+      10
+    ],
+    "themes": [
+      11
+    ],
+    "demographics": [],
+    "studios": [
+      537,
+      1573,
+      1687
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          34661
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          34670
+        ]
+      }
+    ]
+  },
+  "anilist": null,
+  "episodes": [
+    {
+      "turkanime_title": "Monster Strike 2 0. Bölüm",
+      "episode_number": 0,
+      "videos": [
+        {
+          "fansub_id": 28,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1YEd96QN-8f9MIoHXBtk10VxCfRUJvrWL/preview"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/monster.strike2/video/embed/_myvideo/1"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4619376"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-9kmcces989hq.html"
+        },
+        {
+          "fansub_id": 28,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-41ts52tlxjl3.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T13:18:48.073565",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

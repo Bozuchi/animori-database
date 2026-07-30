@@ -1,0 +1,161 @@
+{
+  "turkanime": {
+    "isim": "Uchuu Senkan Tiramisù Specials",
+    "puan": "0.00",
+    "bolum_durumu": "2/3",
+    "ozet": "Uchuu Senkan Tiramisù serisinin televizyonda yayımlanmamış olan kısa bölümleridir.",
+    "slug": "uchuu-senkan-tiramisu-specials"
+  },
+  "jikan": {
+    "mal_id": 37866,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1770/92820.jpg",
+    "trailer_id": null,
+    "title": "Uchuu Senkan Tiramisù Specials",
+    "title_english": "Space Battleship Tiramisu Specials",
+    "type": "Special",
+    "source": "Web manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2018-06-27T00:00:00+00:00",
+      "to": "2018-07-25T00:00:00+00:00"
+    },
+    "duration": "7 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.32,
+    "popularity": 10274,
+    "synopsis": "Unaired episodes included with the Blu-ray volumes.",
+    "genres": [
+      4,
+      24
+    ],
+    "themes": [
+      18,
+      20,
+      29
+    ],
+    "demographics": [],
+    "studios": [
+      3
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          109403
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          36267
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 102979,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Uchuu Senkan Tiramisù Specials 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 34,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1y4EMLYB8jUgTJrEyvcBt7c_Sz2mFuYpb/preview"
+        },
+        {
+          "fansub_id": 34,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1YGPeEtHm_M52jG0W3aZlsNUEjWeKeX9r/preview"
+        },
+        {
+          "fansub_id": 34,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359660897"
+        },
+        {
+          "fansub_id": 34,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/2444636457931912002"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3637027"
+        },
+        {
+          "fansub_id": 34,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-au7kfbuondxi.html"
+        },
+        {
+          "fansub_id": 34,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-kp8glxx3f6x7.html"
+        },
+        {
+          "fansub_id": 34,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-13ol5p2lo02n.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T19:12:39.782874",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Uchuu Senkan Tiramisù Specials 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 34,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1iaupOAv29w8BUV--bD-T6JQOzDBvkj1M/preview"
+        },
+        {
+          "fansub_id": 34,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1RbaIJpZSb0XFhnLNPOotKV8SjBlWPk4V/preview"
+        },
+        {
+          "fansub_id": 34,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/lowsubs/video/embed/_myvideo/379"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4517147"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3637090"
+        },
+        {
+          "fansub_id": 34,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-pczxudjc8vwk.html"
+        },
+        {
+          "fansub_id": 34,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-nysrcwnskrup.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T19:12:39.782874",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

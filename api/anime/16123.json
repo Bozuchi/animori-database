@@ -1,0 +1,852 @@
+{
+  "turkanime": {
+    "isim": "Saki Zenkoku-hen",
+    "puan": "0.00",
+    "bolum_durumu": "13/13",
+    "ozet": "Saki serisinin Liseler Arası Ulusal Mahjong turnuvasında geçen hikayesidir.",
+    "slug": "saki-zenkoku-hen"
+  },
+  "jikan": {
+    "mal_id": 16123,
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/57979.jpg",
+    "trailer_id": "wfTvHYjFFjA",
+    "title": "Saki: Zenkoku-hen",
+    "title_english": "Saki: The Nationals",
+    "type": "TV",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": 2014,
+    "season": "winter",
+    "airing": false,
+    "aired": {
+      "from": "2014-01-06T00:00:00+00:00",
+      "to": "2014-04-07T00:00:00+00:00"
+    },
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.43,
+    "popularity": 4148,
+    "synopsis": "Saki Miyanaga, along with the rest of Kiyosumi High School's mahjong team, proceeds to the national level of the Interhigh Mahjong Championship. However, reaching the top will prove difficult as she faces opponents on par with and, quite possibly, exceeding her skills. Even so, she refuses to back down, vowing to stop at nothing to fulfill her goal: to see her sister face-to-face once more.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      36
+    ],
+    "themes": [
+      23,
+      11
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      418
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          5671
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          6310
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entries": [
+          10884,
+          15989
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 16123,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/16123-n9vKZiyHdCN1.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Saki Zenkoku-hen 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/17yEEkqL9bYC_wCHkyHWIF5EDLR7MJXyY/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685361576"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4079653"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4502590"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-rtdwzqewx6qb.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-20niyqeormow.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/x8ry7khc"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-79in9lpbd32t.html"
+        },
+        {
+          "fansub_id": 86,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2562591"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1277,
+          "end": 1372
+        }
+      },
+      "added_date": "2026-07-29T06:17:47.625537",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Saki Zenkoku-hen 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1qJ_7hs-ce-5Bje0NhuYysNuyQv8fGQrj/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359664688"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685361577"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4618028"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4079654"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-x8euxh4friwo.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-j5lbsox9kq1b.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-7771od04t0gz.html"
+        },
+        {
+          "fansub_id": 86,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2562677"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1335,
+          "end": 1414
+        }
+      },
+      "added_date": "2026-07-29T06:17:47.625537",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Saki Zenkoku-hen 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1QEnqxFm4cXODN0lUQ2NuZA8fD72VhhZ2/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685361578"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4079659"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4529026"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-3xmn9txtpz4q.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-nvvfci7wmuih.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-idllmasob6fd.html"
+        },
+        {
+          "fansub_id": 86,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2562689"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1335,
+          "end": 1414
+        }
+      },
+      "added_date": "2026-07-29T06:17:47.625537",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Saki Zenkoku-hen 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1EFTo0Wvxhmc_inmFGVHHKT9mfB6Pt9pW/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685361579"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4529030"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4079661"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-038cpp05j5bf.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-o4mckbkzzvz1.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-lilvbt96i44o.html"
+        },
+        {
+          "fansub_id": 86,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2562694"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 40,
+          "end": 129
+        },
+        "ed": {
+          "start": 1335,
+          "end": 1414
+        }
+      },
+      "added_date": "2026-07-29T06:17:47.625537",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Saki Zenkoku-hen 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1c_rsjXnrES66kMPEeQEZnKXmE-eSebEM/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359664689"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685361580"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2562714"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4618034"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4079663"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-dvpwmna49c4z.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-rvxr51f1qesb.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-rqyt7d1xi0wx.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 23,
+          "end": 112
+        },
+        "ed": {
+          "start": 1308,
+          "end": 1387
+        }
+      },
+      "added_date": "2026-07-29T06:17:47.625537",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Saki Zenkoku-hen 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1v_yY_7RCqxe658doJA2zZyYBMAtZS3yY/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685361581"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4079665"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4507178"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-b4t5mh9spo9q.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-fbanrit3dizi.html"
+        },
+        {
+          "fansub_id": 86,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2567867"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 27,
+          "end": 117
+        },
+        "ed": {
+          "start": 1335,
+          "end": 1414
+        }
+      },
+      "added_date": "2026-07-29T06:17:47.625537",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Saki Zenkoku-hen 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/10FiNwTDh_QbFtFQzNMpSgx5sQo5FuJiN/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685361582"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359664690"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4079667"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4618037"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-x7zuaoutldyw.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-zfgc8i9re7mg.html"
+        },
+        {
+          "fansub_id": 86,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2569804"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 44,
+          "end": 133
+        },
+        "ed": {
+          "start": 1335,
+          "end": 1414
+        }
+      },
+      "added_date": "2026-07-29T06:17:47.625537",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Saki Zenkoku-hen 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/10t1Cri0IqRk2qewD_YwvlD2B7NKPBP7_/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685361583"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359660700"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4079668"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-8haakmkmr875.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-nk4rkyhl92gw.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-vjf67wv3n9xe.html"
+        },
+        {
+          "fansub_id": 86,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2574386"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 33,
+          "end": 122
+        },
+        "ed": {
+          "start": 1335,
+          "end": 1414
+        }
+      },
+      "added_date": "2026-07-29T06:17:47.625537",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Saki Zenkoku-hen 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1tD6ozGSWyThSPiH957LLVx3MZ-dxg2wY/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685361584"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4079669"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4529036"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5ors5mg1zmyz.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-n88jihrd5i0n.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-spbmctz5i91w.html"
+        },
+        {
+          "fansub_id": 86,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2574398"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 44,
+          "end": 133
+        },
+        "ed": {
+          "start": 1335,
+          "end": 1414
+        }
+      },
+      "added_date": "2026-07-29T06:17:47.625537",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Saki Zenkoku-hen 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1WRHHqkO2kaY1pUhST8DyUMjruA4z7Biz/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685361585"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359664691"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2586967"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4079670"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4618042"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-3xyh26uh51md.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2uxb9uudanxb.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-4hv4i45nhife.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 29,
+          "end": 119
+        },
+        "ed": {
+          "start": 1335,
+          "end": 1414
+        }
+      },
+      "added_date": "2026-07-29T06:17:47.625537",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Saki Zenkoku-hen 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1U2sZqT9kRDG2K_szaVRlFPoeKPoIXcs_/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359664692"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685361597"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4618045"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4090856"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2587054"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-mgaa1tjgs1i2.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-021r6jzukj69.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-wgjd7d9ffyu1.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1335,
+          "end": 1414
+        }
+      },
+      "added_date": "2026-07-29T06:17:47.625537",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Saki Zenkoku-hen 12. Bölüm",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1-TeV0l3ZVZz1H1Rpxqe3sv3p3-GrU0aa/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685361586"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4079671"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4502600"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2u4x3b4vuowz.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-i7jv9y41zp5c.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-8w0n08d9prsr.html"
+        },
+        {
+          "fansub_id": 86,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2588633"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1280,
+          "end": 1359
+        }
+      },
+      "added_date": "2026-07-29T06:17:47.625537",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Saki Zenkoku-hen 13. Bölüm Final",
+      "episode_number": 13,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1GwMhjPPxWnngKmSU_XB-vw7OmKZWQdt1/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359658189"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685361587"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4453199"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4079672"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2lct75s6ji7y.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-rr8js8mpkps3.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/py2elfqn"
+        },
+        {
+          "fansub_id": 86,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2587119"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1322,
+          "end": 1412
+        }
+      },
+      "added_date": "2026-07-29T06:17:47.625537",
+      "jikan_mal_id": 13,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

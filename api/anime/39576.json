@@ -1,0 +1,103 @@
+{
+  "turkanime": {
+    "isim": "Goblin Slayer: Goblin's Crown",
+    "puan": "9.12",
+    "bolum_durumu": "1/1",
+    "ozet": "Light novel'ın beşinci cildini konu alan, televizyon serisinin devam filmidir.",
+    "slug": "goblin-slayer-goblin-s-crown"
+  },
+  "jikan": {
+    "mal_id": 39576,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1699/110724.jpg",
+    "trailer_id": "GwQXCqud3g8",
+    "title": "Goblin Slayer: Goblin's Crown",
+    "title_english": "Goblin Slayer: Goblin's Crown",
+    "type": "Movie",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2020-02-01T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 25 min",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.26,
+    "popularity": 867,
+    "synopsis": "Goblin Slayer and his party head up to the snowy mountains in the north after receiving a request from the Sword Maiden. A small village gets attacked, they encounter a mysterious chapel, and something about how these goblins are acting bothers the Goblin Slayer.\n\n(Source: Crunchyroll)",
+    "genres": [
+      1,
+      2,
+      10
+    ],
+    "themes": [
+      58
+    ],
+    "demographics": [],
+    "studios": [
+      314
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          37349
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          47160
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          98720,
+          114865,
+          154386,
+          95311
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 108623,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108623-9FL63jABa1N9.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Goblin Slayer: Goblin's Crown",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359669458"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-10dxf2evn9b8.html"
+        },
+        {
+          "fansub_id": 121,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/ksklee555/video/embed/_myvideo/694"
+        },
+        {
+          "fansub_id": 233,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/mirusubs/video/embed/_myvideo/1663"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T00:09:14.934970",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

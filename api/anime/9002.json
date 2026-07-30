@@ -1,0 +1,85 @@
+{
+  "turkanime": {
+    "isim": "True Tears: Raigomaru to Jibeta no Monogatari",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Seriye ait special bölümdür.",
+    "slug": "true-tears-raigomaru-to-jibeta-no-monogatari"
+  },
+  "jikan": {
+    "mal_id": 9002,
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/24906.jpg",
+    "trailer_id": null,
+    "title": "True Tears: Raigomaru to Jibeta no Monogatari",
+    "title_english": null,
+    "type": "Special",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2010-03-26T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "8 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.15,
+    "popularity": 7882,
+    "synopsis": "Full version of the story featured in the TV series. Released as a special.",
+    "genres": [
+      8,
+      22
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      132
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entries": [
+          2129
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 9002,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "True Tears Special: Raigomaru to Jibeta no Monogatari",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682366351"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2642542"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-r3uz0z7x7gly.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/8gkq1vut"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T18:27:25.240869",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

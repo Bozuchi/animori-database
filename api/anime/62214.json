@@ -1,0 +1,85 @@
+{
+  "turkanime": {
+    "isim": "Koisuru One Piece Zenyasai Tokubetsu-hen",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Tek Parça Aşk'ın TEK PARÇA 25. GÜN etkinliği için yayımladığı özel bölümdür.",
+    "slug": "koisuru-one-piece-zenyasai-tokubetsu-hen"
+  },
+  "jikan": {
+    "mal_id": 62214,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1842/151384.jpg",
+    "trailer_id": null,
+    "title": "Koisuru One Piece Zenyasai Tokubetsu-hen",
+    "title_english": "One Piece in Love Festival Eve Special",
+    "type": "ONA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2025-08-09T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.25,
+    "popularity": 13246,
+    "synopsis": "A special episode of Koisuru One Piece released to commemorate the ONE PIECE DAY '25 event.",
+    "genres": [
+      4,
+      22
+    ],
+    "themes": [
+      20
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      18
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          61293
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          120401
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 197179,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197179-fu2DKwrWOD4u.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Koisuru One Piece Zenyasai Tokubetsu-hen ONA",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 115,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/16uuu4fgPyWyvbUF8dKHW31J8KRiLOeMj/preview"
+        },
+        {
+          "fansub_id": 115,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/odj63zij"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T04:33:19.677987",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

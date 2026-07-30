@@ -1,0 +1,75 @@
+{
+  "turkanime": {
+    "isim": "Happy☆Lesson: Hoka Hoka★Kanna to Futari Kiri",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Happy☆Lesson (TV) serisinin special (11.5) bölümüdür.",
+    "slug": "happy-lesson-hoka-hoka-kanna-to-futari-kiri"
+  },
+  "jikan": {
+    "mal_id": 7579,
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/18198.jpg",
+    "trailer_id": null,
+    "title": "Happy☆Lesson: Hokahoka★Kanna to Futari Kiri",
+    "title_english": null,
+    "type": "TV Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2002-01-01T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "25 min",
+    "rating": "G - All Ages",
+    "score": 6.57,
+    "popularity": 10319,
+    "synopsis": "Special episode.\n\nKanna strikes back with her plan to capture Chitose, this time getting rid off all the obstacles (mothers, sisters, Fumitsuki) - sending them off on trip to hot springs. Now, what will happen to Chitose when he is alone in home with Kanna?",
+    "genres": [
+      4,
+      22
+    ],
+    "themes": [
+      35
+    ],
+    "demographics": [],
+    "studios": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          260
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 7579,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Happy☆Lesson (TV) 11,5. Bölüm",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1p6J04SVMfDumT5FX4ifGtmAt48lypA_i/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5066520"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T02:20:37.067361",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

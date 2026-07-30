@@ -1,0 +1,100 @@
+{
+  "turkanime": {
+    "isim": "Yuuki Yuuna wa Yuusha de Aru: Hidamari",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Yuuki Yuuna wa Yuusha de Aru (2014) serisinin özet bölümüdür.",
+    "slug": "yuuki-yuuna-wa-yuusha-de-aru-hidamari"
+  },
+  "jikan": {
+    "mal_id": 36798,
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/89061.jpg",
+    "trailer_id": null,
+    "title": "Yuuki Yuuna wa Yuusha de Aru: Hidamari",
+    "title_english": "Yuki Yuna is a Hero: A Sunny Place",
+    "type": "Special",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2017-11-18T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "24 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.99,
+    "popularity": 7235,
+    "synopsis": "A recap episode of the original series made to connect Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou to the sequel series Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou.",
+    "genres": [
+      8
+    ],
+    "themes": [
+      66
+    ],
+    "demographics": [],
+    "studios": [
+      418
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          34284
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          34445
+        ]
+      },
+      {
+        "relation": "Full Story",
+        "entries": [
+          25519
+        ]
+      }
+    ]
+  },
+  "anilist": null,
+  "episodes": [
+    {
+      "turkanime_title": "Yuuki Yuuna wa Yuusha de Aru: Hidamari 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1KbAnafFZTDC6efLlXVa9aJBkcvxJVYLn/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1gmTyG6mbu77wOH6uad2LRoZPcoSxH9iX/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/ok/571224138646/video/embed/_myvideo/144"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682367575"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/2444636457931911762"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T20:31:52.576382",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "turkanime": {
+    "isim": "Kandagawa Jet Girls OVA",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Playstation 4'teki Kandagawa Jet Girls oyunuyla bağlantılı olarak piyasaya sürülen OVA bölümü.",
+    "slug": "kandagawa-jet-girls-ova"
+  },
+  "jikan": {
+    "mal_id": 41146,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1643/105654.jpg",
+    "trailer_id": null,
+    "title": "Kandagawa Jet Girls: Koko kara Hajimaru Tokyo Girls Promotion",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Mixed media",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2020-01-24T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "22 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.63,
+    "popularity": 7517,
+    "synopsis": "OVA which was released as a tie-in to the Kandagawa Jet Girls  video game for PlayStation 4.",
+    "genres": [
+      24,
+      9
+    ],
+    "themes": [
+      3
+    ],
+    "demographics": [],
+    "studios": [
+      120
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          40196
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 114926,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Kandagawa Jet Girls OVA",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 218,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1_PfD4GgJucMNiSD7iNXS0HIQwews-MRu/preview"
+        },
+        {
+          "fansub_id": 218,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685365233"
+        },
+        {
+          "fansub_id": 218,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/y4arka0a"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T23:49:34.641433",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "turkanime": {
+    "isim": "Candy Candy: Candy no Natsu Yasumi",
+    "puan": "0.00",
+    "bolum_durumu": "2/1+",
+    "ozet": "Dizinin devamıdır.",
+    "slug": "candy-candy-candy-no-natsu-yasumi"
+  },
+  "jikan": {
+    "mal_id": 2802,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1510/94758.jpg",
+    "trailer_id": null,
+    "title": "Candy Candy: Candy no Natsu Yasumi",
+    "title_english": "Candy Candy: Candy's Summer Vacation",
+    "type": "Movie",
+    "source": "Unknown",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1978-07-22T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "18 min",
+    "rating": "G - All Ages",
+    "score": 6.74,
+    "popularity": 10991,
+    "synopsis": "A continuation of the television series.",
+    "genres": [
+      8,
+      22
+    ],
+    "themes": [],
+    "demographics": [
+      25
+    ],
+    "studios": [
+      18
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          2801
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          1388
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          2800,
+          723
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 2802,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n2802-NhgrSIyyWFbS.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Candy Candy OVA - Yaz Tatili",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ysxoqmc3ip8w.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T07:36:22.030568",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

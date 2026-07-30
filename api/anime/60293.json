@@ -1,0 +1,330 @@
+{
+  "turkanime": {
+    "isim": "Ballpark de Tsukamaete!",
+    "puan": "0.00",
+    "bolum_durumu": "12/12",
+    "ozet": "kılan bir ofis çalışanının hayatı, bir bira satıcısının yanından ayrılmamasıyla bir romantik komediye dönüşür.",
+    "slug": "ballpark-de-tsukamaete"
+  },
+  "jikan": {
+    "mal_id": 60293,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1065/148659.jpg",
+    "trailer_id": "ofvB4LYH7bE",
+    "title": "Ballpark de Tsukamaete!",
+    "title_english": "Catch Me at the Ballpark!",
+    "type": "TV",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": 2025,
+    "season": "spring",
+    "airing": false,
+    "aired": {
+      "from": "2025-04-02T00:00:00+00:00",
+      "to": "2025-06-18T00:00:00+00:00"
+    },
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.12,
+    "popularity": 3702,
+    "synopsis": "For Koutarou Murata, an overworked salaryman, his local ballpark is the only place where he can truly unwind from his arduous daily life. One evening, he is approached by Ruriko, the new lively beer vendor, trying to sell her first drink to him. Koutarou accepts Ruriko's offer, marking the start of their friendship and lots of playful teasing.\n\nWhile Koutarou tries to enjoy baseball to the fullest and Ruriko diligently seeks for more customers, many fans with heartwarming stories of their own come to fill the ballpark and enjoy the space that brings them all together.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      36,
+      30
+    ],
+    "themes": [
+      50,
+      77
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      1264
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          129774
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 184279,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184279-MiADtn9N8rI3.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Ballpark de Tsukamaete 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/125mVtrnUHw-p1pfXcrg6Rm6ayoGtA9WO/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5866273"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 49,
+          "end": 139
+        },
+        "ed": {
+          "start": 1335,
+          "end": 1424
+        }
+      },
+      "added_date": "2026-07-23T03:59:45.885602",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ballpark de Tsukamaete 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/12X2a7po_EqfmS3czlKFezez9L2VzkF32/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "MAIL",
+          "url": "https://my.mail.ru//mail/denizkeskinupload/video/embed/_myvideo/36"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5872422"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/tmmdapso"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T03:59:45.885602",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ballpark de Tsukamaete 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1MaCXard-w43_OUEIkhB_-ZhhN3IB1Zg6/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5881361"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1331,
+          "end": 1429
+        }
+      },
+      "added_date": "2026-07-23T03:59:45.885602",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ballpark de Tsukamaete 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/10Us065PEc5sk3S4uOKqyA8Z7pdLSEx25/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5889060"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T03:59:45.885602",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ballpark de Tsukamaete 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1GhfWSDN7SiHFR3nZoCog_xRFe07JMhZQ/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5896473"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T03:59:45.885602",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ballpark de Tsukamaete 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/165D4FqAfHPlk63w82NQKZnlTxsOt2_oV/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5903752"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T03:59:45.885602",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ballpark de Tsukamaete 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1aPBBGUlazFPeuX-j2f1zDNaCioT7Ay6Q/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5911245"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T03:59:45.885602",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ballpark de Tsukamaete 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1a-qYTihhSoW6qdrl8gVMPepSMbc7Q6Iu/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "MAIL",
+          "url": "https://my.mail.ru//mail/denizkeskinupload/video/embed/_myvideo/62"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5917868"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T03:59:45.885602",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ballpark de Tsukamaete 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Btl_RdpXraOi_MdCCavHViKPod5VLM2J/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5926132"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T03:59:45.885602",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ballpark de Tsukamaete 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1DmjTkJIYU-BjlFpC2_Uw_9e-JntOT17Q/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5929140"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T03:59:45.885602",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ballpark de Tsukamaete 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1hUtI-4lWQ__VsWXEreXPRZCpXN-QK-5A/preview"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T03:59:45.885602",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ballpark de Tsukamaete 12. Bölüm Final",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1-uwPCBrh6bBWWFgoJxKG2XiFUSjIoY-E/preview"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T03:59:45.885602",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

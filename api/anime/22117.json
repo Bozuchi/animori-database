@@ -1,0 +1,87 @@
+{
+  "turkanime": {
+    "isim": "Witch Craft Works: Takamiya-kun to Imouto no Warudakumi",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Seriye ait OVA bölümdür.",
+    "slug": "witch-craft-works-takamiya-kun-to-imouto-no-warudakumi"
+  },
+  "jikan": {
+    "mal_id": 22117,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1685/112971.jpg",
+    "trailer_id": null,
+    "title": "Witch Craft Works: Takamiya-kun to Imouto no Warudakumi",
+    "title_english": "Witch Craft Works: Takamiya-kun and His Sister's Conspiracy",
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2015-01-07T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.77,
+    "popularity": 4210,
+    "synopsis": "DVD OVA of Witch Craft Works bundled with the eighth manga volume.",
+    "genres": [
+      1,
+      37
+    ],
+    "themes": [],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      7
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          21085
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 20601,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Witch Craft Works OVA",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 25,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1H1b-aMqRp5s5IVaS_77LbclKfEE9EhWw/preview"
+        },
+        {
+          "fansub_id": 25,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/2444636457931910963"
+        },
+        {
+          "fansub_id": 25,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1692520"
+        },
+        {
+          "fansub_id": 25,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-tso3znz6yfh0.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T16:14:25.693427",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

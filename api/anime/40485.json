@@ -1,0 +1,655 @@
+{
+  "turkanime": {
+    "isim": "Strike The Blood IV",
+    "puan": "9.14",
+    "bolum_durumu": "12/12",
+    "ozet": "Serinin dördüncü sezonudur.",
+    "slug": "strike-the-blood-iv"
+  },
+  "jikan": {
+    "mal_id": 40485,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1692/116875.jpg",
+    "trailer_id": "oGP74AGPlNQ",
+    "title": "Strike the Blood IV",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2020-04-08T00:00:00+00:00",
+      "to": "2021-06-30T00:00:00+00:00"
+    },
+    "duration": "25 min per ep",
+    "rating": "R+ - Mild Nudity",
+    "score": 6.94,
+    "popularity": 2476,
+    "synopsis": "Fourth season of Strike the Blood.",
+    "genres": [
+      1,
+      10,
+      9
+    ],
+    "themes": [
+      35,
+      23,
+      82,
+      32
+    ],
+    "demographics": [],
+    "studios": [
+      957
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          37449
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          49316
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          40901,
+          41021
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 112296,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Strike The Blood IV 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 24,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359669909"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3908987"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4782671"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-90a6rxr1bd3i.html"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/n33v3f11"
+        },
+        {
+          "fansub_id": 24,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-z25muoxoastz.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1tW50n6VX1iEXdBBzckqJDWICTgAoE2W_/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/szerzno/video/embed/_myvideo/118"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4195781"
+        },
+        {
+          "fansub_id": 73,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271189333"
+        },
+        {
+          "fansub_id": 73,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4195066"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685360803"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4028630"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T13:18:12.613806",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Strike The Blood IV 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 24,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3913181"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ohex92lf"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/18o9WHDMZ2JuV6CyaJ_7Vduf6_EaqM5Eu/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/szerzno/video/embed/_myvideo/119"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4195782"
+        },
+        {
+          "fansub_id": 73,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271189334"
+        },
+        {
+          "fansub_id": 73,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4195074"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685360804"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4028635"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T13:18:12.613806",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Strike The Blood IV 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/10-begWHeKDmqPdn4qdHpEOADo8XqVFy1/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/szerzno/video/embed/_myvideo/120"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4195783"
+        },
+        {
+          "fansub_id": 73,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271189335"
+        },
+        {
+          "fansub_id": 73,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4195099"
+        },
+        {
+          "fansub_id": 73,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/3xa9tqq8"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685360806"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4028642"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T13:18:12.613806",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Strike The Blood IV 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1qo_U4_XxBxGhaxbh7UUdv-P4AabBa_fO/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/szerzno/video/embed/_myvideo/117"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4195359"
+        },
+        {
+          "fansub_id": 73,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271189336"
+        },
+        {
+          "fansub_id": 73,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4195117"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685362712"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359669910"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4782674"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/idx3ou66"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-tjtzguzh7th0.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T13:18:12.613806",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Strike The Blood IV 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1VIUighr-V0lThFSeoS5CFxEc-r5nCiEB/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/szerzno/video/embed/_myvideo/121"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4195788"
+        },
+        {
+          "fansub_id": 73,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271189338"
+        },
+        {
+          "fansub_id": 73,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4195146"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685362713"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4213189"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T13:18:12.613806",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Strike The Blood IV 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1TlpllxFGmHncj3tHXR3BaBHshL_6wp6b/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/szerzno/video/embed/_myvideo/126"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4197729"
+        },
+        {
+          "fansub_id": 73,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271189564"
+        },
+        {
+          "fansub_id": 73,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4196425"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685362714"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4213673"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/4u7ok82u"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T13:18:12.613806",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Strike The Blood IV 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 73,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1KgxgOfwR4lZMbKPMBtRrCF9BK0kIafda/preview"
+        },
+        {
+          "fansub_id": 73,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271190350"
+        },
+        {
+          "fansub_id": 73,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4203721"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685362715"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4213194"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T13:18:12.613806",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Strike The Blood IV 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ym4tSWez-ZQx0Fof5gCRr4tfPsOwV1X4/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685362716"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4213200"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T13:18:12.613806",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Strike The Blood IV 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 16,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1XU7jlyQHvUnct_lUtWpOB7bLUv13002n/preview"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuroupload00/video/embed/_myvideo/306"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140717516"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4298479"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4472156"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ljfgy67b"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/umeb0ijl"
+        },
+        {
+          "fansub_id": 16,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-fz3dogihjke4.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T13:18:12.613806",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Strike The Blood IV 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 16,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1D5NFVnnzkz6OJ9yJ-BzDm0nuleXZjbuE/preview"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140717518"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuroupload00/video/embed/_myvideo/450"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4472158"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4321741"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-dn3i7ycl44gd.html"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/axq0f6e8"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/qn0d05b8"
+        },
+        {
+          "fansub_id": 16,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-8ncak9hb00wd.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T13:18:12.613806",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Strike The Blood IV 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 16,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1RcaTGfp0xi-QuehasuYvjY2VXX1y_M09/preview"
+        },
+        {
+          "fansub_id": 16,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1u-BnlIZsBF0qEssMWo62O4Wc9OqMVqjM/preview"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuroupload00/video/embed/_myvideo/770"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4380910"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4516398"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-hllp5wkzexgo.html"
+        },
+        {
+          "fansub_id": 16,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-13afznsocdy1.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T13:18:12.613806",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Strike The Blood IV 12. Bölüm",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 16,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1JgMBT7CVSLO_AXxPz876EdCs2dWnMGSc/preview"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuroupload00/video/embed/_myvideo/844"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4392975"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T13:18:12.613806",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

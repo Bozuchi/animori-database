@@ -1,0 +1,97 @@
+{
+  "turkanime": {
+    "isim": "R-15: R15 Shounen Hyouryuuki",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "R-15 serisine ait OVA bölümüdür.",
+    "slug": "r-15-r15-shounen-hyouryuuki"
+  },
+  "jikan": {
+    "mal_id": 10933,
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/30175.jpg",
+    "trailer_id": null,
+    "title": "R-15: R15 Shounen Hyouryuuki",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Unknown",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2011-12-13T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "29 min",
+    "rating": "R+ - Mild Nudity",
+    "score": 6.63,
+    "popularity": 5609,
+    "synopsis": "According to Kadokawa, an OVA of R-15 will be bundled with the tenth volume of the novel.",
+    "genres": [
+      2,
+      4,
+      22,
+      9
+    ],
+    "themes": [
+      35,
+      20
+    ],
+    "demographics": [],
+    "studios": [
+      48
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          10611
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          23496,
+          23465
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 10933,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "R-15 OVA",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 164,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1nXHkpEdJAuiQqpb2a7-eLUDVJ_Td1Y2a/preview"
+        },
+        {
+          "fansub_id": 164,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3832165"
+        },
+        {
+          "fansub_id": 164,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-oobgw1obfugl.html"
+        },
+        {
+          "fansub_id": 164,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-0u1xi0toq57f.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T03:28:59.174180",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

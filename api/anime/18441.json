@@ -1,0 +1,128 @@
+{
+  "turkanime": {
+    "isim": "Blood Lad: Wagahai wa Neko de wa Nai",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Blood Lad mangasının sınırlı versiyon 10. sayısında gelen OVA bölümdür.",
+    "slug": "blood-lad-wagahai-wa-neko-de-wa-nai"
+  },
+  "jikan": {
+    "mal_id": 18441,
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/52611.jpg",
+    "trailer_id": null,
+    "title": "Blood Lad: Wagahai wa Neko de wa Nai",
+    "title_english": "Blood Lad OVA",
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2013-12-04T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "27 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.1,
+    "popularity": 2114,
+    "synopsis": "Bundled with the tenth limited-edition volume of Blood Lad manga.",
+    "genres": [
+      1,
+      4,
+      10
+    ],
+    "themes": [
+      55,
+      6,
+      32
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      112
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          11633
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          21614
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 18441,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Blood Lad OVA",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 25,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668032"
+        },
+        {
+          "fansub_id": 25,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/muobaba/video/embed/_myvideo/110"
+        },
+        {
+          "fansub_id": 25,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4762813"
+        },
+        {
+          "fansub_id": 25,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2843158"
+        },
+        {
+          "fansub_id": 25,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-da6vsowzol99.html"
+        },
+        {
+          "fansub_id": 25,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/8vxh6v2l"
+        },
+        {
+          "fansub_id": 25,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-p15r5l1808e2.html"
+        },
+        {
+          "fansub_id": 119,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682366142"
+        },
+        {
+          "fansub_id": 119,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1744430"
+        },
+        {
+          "fansub_id": 119,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/6emo9tqs"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T05:50:18.287119",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

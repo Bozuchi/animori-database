@@ -1,0 +1,105 @@
+{
+  "turkanime": {
+    "isim": "MahoYome: Aisatsu",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Mahoutsukai no Yome serisine ait haftalık yayınlanmış parodi bölümlerin ilk bölümüdür.",
+    "slug": "mahoyome-aisatsu"
+  },
+  "jikan": {
+    "mal_id": 36501,
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/88136.jpg",
+    "trailer_id": null,
+    "title": "MahoYome: Aisatsu",
+    "title_english": "MahoYome: Greeting",
+    "type": "ONA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2017-10-03T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "46 sec",
+    "rating": "G - All Ages",
+    "score": 6.01,
+    "popularity": 7173,
+    "synopsis": "The official Twitter account for Mahoutsukai no Yome began streaming an episode 0 of the MahoYome anime shorts on Tuesday. In the episode, Chise, Elias, and Ruth debate about who should speak, and Chise eventually introduces the anime.\n\n(Source: ANN)",
+    "genres": [
+      4
+    ],
+    "themes": [
+      20
+    ],
+    "demographics": [],
+    "studios": [
+      1396,
+      1673
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          36502
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          35062
+        ]
+      }
+    ]
+  },
+  "anilist": null,
+  "episodes": [
+    {
+      "turkanime_title": "MahoYome: Aisatsu",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 108,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1K6LbSs8-xFedG6xo6nFqJ1SXtJVWpG1g/preview"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/3730"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359660315"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4460336"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3549752"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-m1o8wdrh0onq.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/j1rvdcvf"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T10:02:23.308548",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

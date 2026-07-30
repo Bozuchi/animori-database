@@ -1,0 +1,128 @@
+{
+  "turkanime": {
+    "isim": "Shingeki no Kyojin Movie 1: Guren no Yumiya",
+    "puan": "9.01",
+    "bolum_durumu": "1/1",
+    "ozet": "Shingeki no Kyojin anime serisinin ilk 13 bölümünü konu alan filmidir.",
+    "slug": "shingeki-no-kyojin-movie-1-guren-no-yumiya"
+  },
+  "jikan": {
+    "mal_id": 23775,
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/63283.jpg",
+    "trailer_id": "s6nrFDihaNg",
+    "title": "Shingeki no Kyojin Movie 1: Guren no Yumiya",
+    "title_english": "Attack on Titan: Crimson Bow and Arrow",
+    "type": "Movie",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2014-11-22T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 58 min",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.88,
+    "popularity": 1815,
+    "synopsis": "Recap of episodes 1-13.",
+    "genres": [
+      1,
+      8,
+      41
+    ],
+    "themes": [
+      58,
+      76
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      858
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          23777
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          19285
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          16498
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 20691,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20691-xKJkvnhezBb0.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Shingeki no Kyojin Movie 1: Guren no Yumiya",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359667183"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-7gy4cae60z59.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/hdfilmdizi/_myvideo/287.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1777289"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1777316"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-0kf9njzwhdxt.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/147RyJQdmG-QW7foqWhPWkpi9qgCGhmEt/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669166507"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-v1xh48kuays0.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T09:18:50.059944",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

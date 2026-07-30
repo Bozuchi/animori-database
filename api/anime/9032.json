@@ -1,0 +1,97 @@
+{
+  "turkanime": {
+    "isim": "Inazuma Eleven: Saikyou Gundan Ogre Shuurai",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Inazuma Eleven Go Serisinin Filmidir.",
+    "slug": "inazuma-eleven-saikyou-gundan-ogre-shuurai"
+  },
+  "jikan": {
+    "mal_id": 9032,
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/31189.jpg",
+    "trailer_id": "pv1VzUUQmnw",
+    "title": "Inazuma Eleven: Saikyou Gundan Ogre Shuurai",
+    "title_english": null,
+    "type": "Movie",
+    "source": "Game",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2010-12-23T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 30 min",
+    "rating": "G - All Ages",
+    "score": 7.43,
+    "popularity": 4209,
+    "synopsis": "An organization in the future sends the specially trained Team Ogre to defeat Endou Mamoru and his team, to prevent him from influencing the world with his soccer.\n\n(Source: AniDB)",
+    "genres": [
+      30
+    ],
+    "themes": [
+      31,
+      77
+    ],
+    "demographics": [],
+    "studios": [
+      28
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          5231
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 9032,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/9032-GYseH3yrOCCE.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Inazuma Eleven Movie",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 2,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Q7AluxhfaqeZD-NdjL6QLUgcQ4t1N8qM/preview"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359653194"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985850103"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4020225"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/hue88gq1"
+        },
+        {
+          "fansub_id": 2,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ixspx0fmom3b.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T05:26:44.531165",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

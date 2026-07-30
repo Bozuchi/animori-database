@@ -1,0 +1,104 @@
+{
+  "turkanime": {
+    "isim": "Captain Tsubasa Special",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Captain Tsubasa'nın kısa özel bölümüdür.",
+    "slug": "captain-tsubasa-special"
+  },
+  "jikan": {
+    "mal_id": 40606,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1173/139465.jpg",
+    "trailer_id": null,
+    "title": "Captain Tsubasa (2018) Special",
+    "title_english": null,
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2019-11-03T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.33,
+    "popularity": 14084,
+    "synopsis": "Short special of Captain Tsubasa (2018) animated for the FNS27 2019 event.",
+    "genres": [
+      30
+    ],
+    "themes": [
+      77
+    ],
+    "demographics": [],
+    "studios": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          36934
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 177434,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Captain Tsubasa Special",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1TsGCv5-dT0KzVBlVeX2R4PFlDUGIjeP9/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985850363"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/6753"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4433135"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3763474"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-6wqgqjin5l84.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-3d61uiof1wij.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/4pc81u7e"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T07:49:54.078940",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

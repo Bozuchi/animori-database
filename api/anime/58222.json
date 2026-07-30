@@ -1,0 +1,78 @@
+{
+  "turkanime": {
+    "isim": "Given Movie 3: Umi e",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Given serisinin 3. filmi, Hiiragi Mix filminin devamıdır.",
+    "slug": "given-movie-3-umi-e"
+  },
+  "jikan": {
+    "mal_id": 58222,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1663/144261.jpg",
+    "trailer_id": "s0Srq7l6kSM",
+    "title": "Given Movie 3: Umi e",
+    "title_english": "given The Movie: To the Sea",
+    "type": "Movie",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2024-09-20T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 20 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.5,
+    "popularity": 4509,
+    "synopsis": "Second part of Given Movie: Hiiragi Mix.",
+    "genres": [
+      28,
+      8
+    ],
+    "themes": [
+      19
+    ],
+    "demographics": [],
+    "studios": [
+      456
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          54791
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          79085
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 175199,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Given Movie 3: Umi e",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 242,
+          "player": "MAIL",
+          "url": "https://my.mail.ru//mail/arceus.tag/video/embed/_myvideo/69"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T23:58:55.591496",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

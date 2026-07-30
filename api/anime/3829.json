@@ -1,0 +1,81 @@
+{
+  "turkanime": {
+    "isim": "Anne no Nikki",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Amsterdam, 12 Haziran 1942. Anne 13. doğum gününü kutluyor ve \"Kitty\" diye çağırdığı günlüğünü yazmaya başlıyor. 2 yıl Alman tehdidinden saklandıktan sonra genç kız dünya hakkında idealist görüşlerini, hırsını, korkularını ve ilk aşkı Peter'i yazıyor.",
+    "slug": "anne-no-nikki"
+  },
+  "jikan": {
+    "mal_id": 3829,
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/46771.jpg",
+    "trailer_id": null,
+    "title": "Anne no Nikki",
+    "title_english": "The Diary of Anne Frank",
+    "type": "Movie",
+    "source": "Book",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1995-08-19T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 42 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.74,
+    "popularity": 7656,
+    "synopsis": "Amsterdam, June 12, 1942. Anne celebrates her 13th birthday and begins her diary, which she calls \"Kitty\". Hiding for two years from the German threat, the young girl writes about her idealistic views on the world, her ambitions, her fears and her first love, Peter.",
+    "genres": [
+      8
+    ],
+    "themes": [
+      13
+    ],
+    "demographics": [],
+    "studios": [
+      11
+    ],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          12027
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 3829,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n3829-uh48A5XtzoxX.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Anne no Nikki",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1jIvU-baBAIJ7ZSuZidNjmNt1243muXVa/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656201"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4438866"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-21T21:47:51.767903",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

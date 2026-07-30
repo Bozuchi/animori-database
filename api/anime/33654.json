@@ -1,0 +1,929 @@
+{
+  "turkanime": {
+    "isim": "Hitorijime My Hero",
+    "puan": "9.17",
+    "bolum_durumu": "12/12",
+    "ozet": "Hikaye Hitorijime Boyfriend'deki Kensuke'nin erkek kardeşi Ooshiba Kousuke ve arkadaşı Setagawa Masashiro'yu konu alır.",
+    "slug": "hitorijime-my-hero"
+  },
+  "jikan": {
+    "mal_id": 33654,
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/86825.jpg",
+    "trailer_id": "925gdwq9Jzo",
+    "title": "Hitorijime My Hero",
+    "title_english": "Hitorijime My Hero",
+    "type": "TV",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": 2017,
+    "season": "summer",
+    "airing": false,
+    "aired": {
+      "from": "2017-07-08T00:00:00+00:00",
+      "to": "2017-09-23T00:00:00+00:00"
+    },
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.24,
+    "popularity": 1514,
+    "synopsis": "Masahiro Setagawa is a hopeless teenager who is often used by the neighborhood bullies as an errand boy. Defenseless, Masahiro knows that nobody will ever save him. However, his life drastically changes when he meets Kousuke Ooshiba, a man known as the \"Bear Killer,\" who takes down neighborhood gangs.\n\nA year later, Masahiro and his former friend, Kensuke Ooshiba, attend high school, only to find that Kousuke is their math teacher. While the three grow closer, Masahiro starts to view Kousuke as his \"hero,\" and Kousuke develops an urging desire to protect Masahiro. However, their normal lives take a turn when Kensuke's childhood friend, Asaya Hasekura, returns, seeing Kensuke as more than just a friend, much to his surprise. Will the three boys be able to live a regular high school life? Or will forbidden love keep them apart forever?\n\n[Written by MAL Rewrite]",
+    "genres": [
+      28,
+      8
+    ],
+    "themes": [
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      354
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          43889,
+          44111
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 87494,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/87494-vS35Lp1rpWNG.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Hitorijime My Hero 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/inci.dondurma/video/embed/_myvideo/4"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2984285"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3794274"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-52uk3cq0empl.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/o2nif2s6"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/rcsnyfxg"
+        },
+        {
+          "fansub_id": 29,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1EOwsEbCxU1HCFOU2znWJp25CFquN3zfd/preview"
+        },
+        {
+          "fansub_id": 29,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/nepenthefansub/video/embed/5/66"
+        },
+        {
+          "fansub_id": 29,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4901353"
+        },
+        {
+          "fansub_id": 29,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-jl888ml08e2a.html"
+        },
+        {
+          "fansub_id": 29,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-eb2q6l6m0j0a.html"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/yandex.com/momokuri/video/embed/_myvideo/224"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-nsy1l0qzlbnc.html"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/archi3g0"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/sweetparade2/video/embed/_myvideo/249"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2974820"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4901358"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-23cfk2fvkfk8.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1316,
+          "end": 1403
+        }
+      },
+      "added_date": "2026-07-26T03:53:22.579346",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Hitorijime My Hero 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/inci.dondurma/video/embed/_myvideo/7"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3794276"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2985436"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5gagpbr0dwz6.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/yf4gko0t"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/wb44azy1"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/uragisisubs/video/embed/_myvideo/80"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-i7ffr8hjuam3.html"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/clej80uq"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/sweetparade2/video/embed/_myvideo/483"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2984201"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4901364"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-7xic8zn3x1om.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 35,
+          "end": 123
+        },
+        "ed": {
+          "start": 1318,
+          "end": 1405
+        }
+      },
+      "added_date": "2026-07-26T03:53:22.579346",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Hitorijime My Hero 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/inci.dondurma/video/embed/_myvideo/15"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3794280"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2998435"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-dwycugcft0cu.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/50a0qb4z"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/spuzs6za"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/uragisisubs/video/embed/_myvideo/90"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4903627"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-0bnyfeiqb8ky.html"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/8zc4duqx"
+        },
+        {
+          "fansub_id": 28,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-f5jy1k61gqpz.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojin_a/video/embed/_myvideo/1366"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4903631"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3032622"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-nx78z7imptr2.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1316,
+          "end": 1405
+        }
+      },
+      "added_date": "2026-07-26T03:53:22.579346",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Hitorijime My Hero 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/inci.dondurma/video/embed/_myvideo/18"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3794283"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3000168"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-earlid3h7mc0.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/tmviqq5f"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/uragisisubs/video/embed/_myvideo/105"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-gccu6umji3ik.html"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/t99vtdxh"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojin_a/video/embed/_myvideo/1367"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4903633"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3032623"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-7zulivyd6u1f.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1288,
+          "end": 1375
+        }
+      },
+      "added_date": "2026-07-26T03:53:22.579346",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Hitorijime My Hero 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/inci.dondurma/video/embed/_myvideo/22"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3794285"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3025871"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-rb97u6v1mwba.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/9plu2v8e"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/uragiri.subs/video/embed/_myvideo/201"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-sk4ep5dd3x1j.html"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/v9voz8e9"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojin_a/video/embed/_myvideo/1368"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4903635"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3032624"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-muqks4iodymp.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 58,
+          "end": 142
+        },
+        "ed": {
+          "start": 1363,
+          "end": 1406
+        }
+      },
+      "added_date": "2026-07-26T03:53:22.579346",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Hitorijime My Hero 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/inci.dondurma/video/embed/_myvideo/46"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3794287"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3039801"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-u2weira9776f.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/y266tged"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/rc6h4ctz"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/yandex.com/momokuri/video/embed/_myvideo/274"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-wsgsdbc09b9f.html"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/bfsr4z6w"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1317,
+          "end": 1404
+        }
+      },
+      "added_date": "2026-07-26T03:53:22.579346",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Hitorijime My Hero 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/inci.dondurma/video/embed/_myvideo/54"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3046043"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3794290"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-std0l81tq6z5.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/8erfucc7"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/shounenhollywood/video/embed/_myvideo/221"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-wje6knmv3tgb.html"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/i771zk6r"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 31,
+          "end": 117
+        },
+        "ed": {
+          "start": 1318,
+          "end": 1404
+        }
+      },
+      "added_date": "2026-07-26T03:53:22.579346",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Hitorijime My Hero 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/inci.dondurma/video/embed/_myvideo/55"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3046046"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3794293"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-n8bljidwgfcc.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/52l2l2o5"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/shirokumacafe/video/embed/_myvideo/167"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-r2lf20wokyuu.html"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/jo9ktvom"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1317,
+          "end": 1404
+        }
+      },
+      "added_date": "2026-07-26T03:53:22.579346",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Hitorijime My Hero 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/inci.dondurma/video/embed/_myvideo/61"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3056695"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3794295"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-zwfr8y7dydtk.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/8ob7hjk4"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/4xfdmb70"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/uragisisubs/video/embed/_myvideo/131"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ktodacud0kip.html"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/5tx0c06x"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 39,
+          "end": 126
+        },
+        "ed": {
+          "start": 1320,
+          "end": 1405
+        }
+      },
+      "added_date": "2026-07-26T03:53:22.579346",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Hitorijime My Hero 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/inci.dondurma/video/embed/_myvideo/63"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3794296"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3065164"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-tbwdfr7ost5q.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/wxgj0k01"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/37hguhzm"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/shirokumacafe/video/embed/_myvideo/170"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-1qfiawqdbnmt.html"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ilzr1rky"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1267,
+          "end": 1357
+        }
+      },
+      "added_date": "2026-07-26T03:53:22.579346",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Hitorijime My Hero 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/inci.dondurma/video/embed/_myvideo/67"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3794297"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3083346"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-4od0mdh2ic03.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ivw21lxi"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/sndg7xv7"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/yandex.com/momokuri/video/embed/_myvideo/314"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4903640"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-lvde1q4wcafx.html"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ntlh27nu"
+        },
+        {
+          "fansub_id": 28,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-jvr40t0tktcg.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 54,
+          "end": 136
+        },
+        "ed": {
+          "start": 1316,
+          "end": 1405
+        }
+      },
+      "added_date": "2026-07-26T03:53:22.579346",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Hitorijime My Hero 12. Bölüm Final",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/inci.dondurma/video/embed/_myvideo/68"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3794298"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3083352"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-6quuwjrzxzub.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/w0h26y2m"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/uragisisubs/video/embed/_myvideo/144"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2c9lcc122kvr.html"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/r7z7kg68"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 43,
+          "end": 133
+        }
+      },
+      "added_date": "2026-07-26T03:53:22.579346",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

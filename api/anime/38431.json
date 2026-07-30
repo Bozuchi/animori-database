@@ -1,0 +1,140 @@
+{
+  "turkanime": {
+    "isim": "Persona 5 the Animation TV Specials",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Persona 5 The Animation'un sonrasını anlatan devam yayınıdır.",
+    "slug": "persona-5-the-animation-tv-specials"
+  },
+  "jikan": {
+    "mal_id": 38431,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1115/96897.jpg",
+    "trailer_id": "lGk6mv-EkeQ",
+    "title": "Persona 5 the Animation TV Specials",
+    "title_english": null,
+    "type": "TV Special",
+    "source": "Game",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2018-12-31T00:00:00+00:00",
+      "to": "2019-03-23T00:00:00+00:00"
+    },
+    "duration": "50 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 6.9,
+    "popularity": 4138,
+    "synopsis": "In the wake of Ren Amamiya's apparent suicide, the other members of the Phantom Thieves are heartbroken and without purpose. As Sae Niijima rushes over to Cafe Leblanc, she brings the team a shocking revelation that spurs them to pull off one more spectacular heist. The hardened warriors of the metaverse make one last attempt to prove to the world that they fight for justice, and to bring down their teammate turned traitor, Gorou Akechi. Watch them closely, or they might just steal your heart.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      1,
+      37
+    ],
+    "themes": [
+      23,
+      31
+    ],
+    "demographics": [],
+    "studios": [
+      1835
+    ],
+    "relations": [
+      {
+        "relation": "Side Story",
+        "entries": [
+          39591
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          36023
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 106169,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106169-jii7ZYqMJC1u.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Persona 5 the Animation TV Specials 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 24,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1QvwTz8NxNWjHlmeCAZJeLBKO6nEQJAWQ/preview"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985850484"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4434004"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3999225"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/807v74jc"
+        },
+        {
+          "fansub_id": 24,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-k0uygdddtllx.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T01:31:10.861762",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Persona 5 the Animation TV Specials 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 24,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1y7ql0wWzx-e__ZmhJiGW6KV8DaZ5rHFr/preview"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985850485"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4003138"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4434011"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/xdyuihjx"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T01:31:10.861762",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

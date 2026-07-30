@@ -1,0 +1,94 @@
+{
+  "turkanime": {
+    "isim": "Kabukichou Sherlock OVA",
+    "puan": "0.00",
+    "bolum_durumu": "1/6",
+    "ozet": "Kabukicho Sherlock animesinin OVA bölümü.",
+    "slug": "kabukichou-sherlock-ova"
+  },
+  "jikan": {
+    "mal_id": 41659,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1456/108076.jpg",
+    "trailer_id": "W5dnZ_mguQI",
+    "title": "Kabukichou Sherlock OVA",
+    "title_english": "Case File nº221: Kabukicho OVA",
+    "type": "OVA",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2020-08-26T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "4 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.7,
+    "popularity": 8452,
+    "synopsis": "A fun collection of six short side stories depicting the past and present of Sherlock, Watson, Moriarty, and the rest of the Row House as they go about their everyday lives in their home of Kabukicho.",
+    "genres": [
+      4,
+      8,
+      7
+    ],
+    "themes": [
+      50,
+      39
+    ],
+    "demographics": [],
+    "studios": [
+      10
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          38161
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 117532,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Kabukichou Sherlock OVA",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 19,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/13H7oX1ctBBGg1z_h4Aj0FbRxOHwsBVoP/preview"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140716710"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4469192"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/jrd0splh"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-l1dtseh816dd.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T22:28:42.759285",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

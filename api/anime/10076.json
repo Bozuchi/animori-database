@@ -1,0 +1,179 @@
+{
+  "turkanime": {
+    "isim": "Kämpfer für die Liebe",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Kämpfer für die Liebe Animesinin Special Bölümleridir.",
+    "slug": "kampfer-fur-die-liebe"
+  },
+  "jikan": {
+    "mal_id": 10076,
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/29811.jpg",
+    "trailer_id": null,
+    "title": "Kämpfer für die Liebe",
+    "title_english": "Kämpfer für die Liebe",
+    "type": "Special",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2011-03-06T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.42,
+    "popularity": 3133,
+    "synopsis": "A two-episode special. They are designated as Episodes 13 and 14, and the first episode is a direct sequel to the previous series while the second episode is about the trans-sex of Natsuru.",
+    "genres": [
+      1,
+      4,
+      22,
+      9
+    ],
+    "themes": [
+      35,
+      65,
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      70
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          6205
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          11606,
+          11607
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 10076,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Kampfer Fur die Liebe OVA 1",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1NvjMLM8bPnQtxIQZ8DJK7SCYBlCu0IQg/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/2048/2061.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985851402"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847991"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1177115"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439372"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4086587"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-fcck5hf4oi5y.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-zevezkhihzd7.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T23:46:46.761894",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Kampfer Fur die Liebe OVA 2",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/18E1s2w2mpvoRzv3IGzOHeh7lDbrbHu5a/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/2048/2062.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847992"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985851403"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1177116"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4086597"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439373"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-bqn7efnnhc37.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-202y1lv8ugxh.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T23:46:46.761894",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

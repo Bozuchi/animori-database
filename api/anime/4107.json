@@ -1,0 +1,103 @@
+{
+  "turkanime": {
+    "isim": "Tengen Toppa Gurren Lagann Movie 1: Gurren-hen",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "İlk filmi takip ederek TV serisinin ikinci yarısını yeni görseller ve bazı eklenen sahnelerle yeniden anlatan bir filmdir.",
+    "slug": "tengen-toppa-gurren-lagann-movie-1-gurren-hen"
+  },
+  "jikan": {
+    "mal_id": 4107,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1270/115752.jpg",
+    "trailer_id": null,
+    "title": "Tengen Toppa Gurren Lagann Movie 1: Gurren-hen",
+    "title_english": "Gurren Lagann The Movie: Childhood's End",
+    "type": "Movie",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2008-09-06T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 52 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.18,
+    "popularity": 1446,
+    "synopsis": "Animation studio Gainax presented a website for the release of a movie adaptation of the Tengen Toppa Gurren Lagann TV series in the fall of 2008. Both the original director and series script editor will return to work on the new project. Gainax will also be hosting four events to celebrate this occasion at this year's Tokyo International Anime Fair, featuring voice actors from the anime.",
+    "genres": [
+      24
+    ],
+    "themes": [
+      18
+    ],
+    "demographics": [],
+    "studios": [
+      6
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          4565
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          2001
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          5947
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 4107,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/4107-AEaJQo7InYJ1.png"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Tengen Toppa Gurren-Lagann Movie 1",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1EYqnRwVYBUjgt0-pZ6kFkNs76Kyy60P0/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985845659"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4064036"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/6u26084h"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ili3zy359886.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T15:42:04.968200",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "turkanime": {
+    "isim": "One Piece Film: Gold Episode 0 - 711 ver.",
+    "puan": "9.19",
+    "bolum_durumu": "1/1",
+    "ozet": "One Piece special bölümüdür.",
+    "slug": "one-piece-film-gold-episode-0-711-ver"
+  },
+  "jikan": {
+    "mal_id": 33606,
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/83792.jpg",
+    "trailer_id": null,
+    "title": "One Piece Film: Gold Episode 0 - 711 ver.",
+    "title_english": "One Piece Film: Gold Episode 0 - 711 ver.",
+    "type": "ONA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2016-07-02T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "10 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.19,
+    "popularity": 4783,
+    "synopsis": "A short web prequel to One Piece Film: Gold featuring the nine Straw hat crew members on the ship, planning what to do when they arrive the Casino.",
+    "genres": [
+      1,
+      2,
+      4,
+      10
+    ],
+    "themes": [],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      18
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          31490
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          21
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 21880,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21880-9gGzVvnzqiNA.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "One Piece Film: Gold ~Episode 0~ 711 ver.",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271187893"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2637217"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/4v08y4dw"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2636212"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/q397k8gk"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T20:54:40.844789",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

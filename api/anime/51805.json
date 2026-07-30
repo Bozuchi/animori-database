@@ -1,0 +1,151 @@
+{
+  "turkanime": {
+    "isim": "Ginga Eiyuu Densetsu: Die Neue These - Sakubou",
+    "puan": "0.00",
+    "bolum_durumu": "3/12",
+    "ozet": "Galaktik Kahramanlar Efsanesi: Yeni Tez'in 4. sezonudur.",
+    "slug": "ginga-eiyuu-densetsu-die-neue-these-sakubou"
+  },
+  "jikan": {
+    "mal_id": 51805,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1700/123762.jpg",
+    "trailer_id": "AfDKYKRGG54",
+    "title": "Ginga Eiyuu Densetsu: Die Neue These - Sakubou",
+    "title_english": "Legend of the Galactic Heroes: Die Neue These - Intrigue",
+    "type": "Movie",
+    "source": "Novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2022-09-30T00:00:00+00:00",
+      "to": "2022-11-25T00:00:00+00:00"
+    },
+    "duration": "25 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 8.32,
+    "popularity": 5656,
+    "synopsis": "After Yang Wen-li successfully captures the Iserlohn Fortress, the Free Planets Alliance grows bolder in its militaristic ambitions. With recent incursions into Galactic Empire territory and the possession of a perfect beachhead, the Alliance is now able to deal significant damage to the Empire. However, Reinhard von Lohengramm has no intention of allowing the Free Planets Alliance to gain a foothold. He is adamant about carrying on his best friend Siegfried Kircheis' dearest wish: to be the one to unite the universe. \n\nAs wide-scale military clashes continue, the opportunist Adrian Rubinsky, Fezzan's ambitious leader, attempts to take advantage of the war to further his personal goals.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      8,
+      24
+    ],
+    "themes": [
+      50,
+      38,
+      29
+    ],
+    "demographics": [],
+    "studios": [
+      10
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          42886
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          57071
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          11941,
+          93287,
+          6978
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          820
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 148970,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/148970-m7zWb5ywBsEd.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Ginga Eiyuu Densetsu: Die Neue These - Sakubou 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 242,
+          "player": "MAIL",
+          "url": "https://my.mail.ru//mail/arceus.tag/video/embed/_myvideo/78"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 83.651,
+          "end": 172.64
+        }
+      },
+      "added_date": "2026-07-25T23:30:19.591655",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ginga Eiyuu Densetsu: Die Neue These - Sakubou 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 242,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/cm8od6gp416q"
+        },
+        {
+          "fansub_id": 242,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/5hchgnpm"
+        },
+        {
+          "fansub_id": 242,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-1p0ajq60y78c.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T23:30:19.591655",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ginga Eiyuu Densetsu: Die Neue These - Sakubou 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 242,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/ge86lwskzryf"
+        },
+        {
+          "fansub_id": 242,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/uudtzebg"
+        },
+        {
+          "fansub_id": 242,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-w128oe9jl6xb.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T23:30:19.591655",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

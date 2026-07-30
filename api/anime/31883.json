@@ -1,0 +1,120 @@
+{
+  "turkanime": {
+    "isim": "Bakuon!! OVA",
+    "puan": "0.00",
+    "bolum_durumu": "1/2",
+    "ozet": "Manganın 7. ve 9. cildiyle beraber gelen OVA bölümlerdir.",
+    "slug": "bakuon-ova"
+  },
+  "jikan": {
+    "mal_id": 31883,
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/79867.jpg",
+    "trailer_id": null,
+    "title": "Bakuon!! OVA",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2016-03-18T00:00:00+00:00",
+      "to": "2016-12-20T00:00:00+00:00"
+    },
+    "duration": "22 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.45,
+    "popularity": 6988,
+    "synopsis": "Bundled with the 7th and 9th volumes of the Bakuon!! manga.",
+    "genres": [
+      36
+    ],
+    "themes": [
+      52,
+      23
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      73
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          31337
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          30795
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 21441,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Bakuon!! OVA 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 2,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668033"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4762817"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2600223"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-7m8hgsg3mj6f.html"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/xhh5iffm"
+        },
+        {
+          "fansub_id": 2,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ixxyos025yf2.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Au7RezDaRN716V2EIGWv_2ZIBMrTKfmF/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933018608"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-3mu81ktj63y8.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T03:47:53.260581",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

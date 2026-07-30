@@ -1,0 +1,87 @@
+{
+  "turkanime": {
+    "isim": "Luo Xiao Hei Zhan Ji (Movie)",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Web animesi Luo Xiao Hei Zhan Ji'nin tanım filmi. İzleyiciler Xiao Hei‘nin son ismi Luo‘yu nasıl elde ettiğini keşfedecek.",
+    "slug": "luo-xiao-hei-zhan-ji-movie"
+  },
+  "jikan": {
+    "mal_id": 40211,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1583/108598.jpg",
+    "trailer_id": "wkmD3lLIjq4",
+    "title": "Luo Xiaohei Zhanji (Movie)",
+    "title_english": "The Legend of Hei",
+    "type": "Movie",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2019-09-07T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 41 min",
+    "rating": "G - All Ages",
+    "score": 8.32,
+    "popularity": 3850,
+    "synopsis": "Luo Xiaohei is a young monster who normally takes the form of a small black cat. Living freely in the forests, gradual deforestation and human development force him to flee and find a new home. Wandering the city streets, the black cat struggles to survive until he encounters Feng Xi, a fellow monster who takes Xiaohei to an isolated island inhabited by a small group of monsters. Excited to find what he thinks is his new home, Xiaohei lives with the monsters for only a short time before Wuxian, a human Guild Executor, arrives on the island in pursuit of Feng Xi.\n\nFeng Xi and his companions manage to teleport off the island, leaving Xiaohei and Wuxian alone. Though Xiaohei refuses to cooperate with the man who attacked his friends, Wuxian forces the black cat to travel to the Guild along with him. Embarking on an uncertain journey, Xiaohei is exposed to a new perspective on the relations between humans and monsters in a rapidly changing world.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      2,
+      8,
+      10
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      2513
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          33443,
+          61952
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 112023,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112023-n0AXMF851QK8.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Luo Xiao Hei Zhan Ji",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1JKrgf90t1oEAqEIF8jcMNxHif5_i4EBk/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1EMraCwTqdKbamIIR13e_LWiXFRULYFTZ/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140718391"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-rtpq8tlgwcd8.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T08:50:12.397544",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

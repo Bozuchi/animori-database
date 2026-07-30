@@ -1,0 +1,89 @@
+{
+  "turkanime": {
+    "isim": "Toriko Movie: Bishokushin no Special Menu",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "2013 yaz sezonu için planlanan, Toriko animesinin yeni moviesidir.",
+    "slug": "toriko-movie-bishokushin-no-special-menu"
+  },
+  "jikan": {
+    "mal_id": 17699,
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/47417.jpg",
+    "trailer_id": "VsH34X1HIj4",
+    "title": "Toriko Movie: Bishokushin no Special Menu",
+    "title_english": "Toriko the Movie: Secret Recipe of Gourmet God!",
+    "type": "Movie",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2013-07-27T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 21 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.11,
+    "popularity": 8031,
+    "synopsis": "The new Toriko movie, planned for Summer 2013.",
+    "genres": [
+      1,
+      2,
+      4,
+      10
+    ],
+    "themes": [],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      18
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          10033
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 17699,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n17699-1ZGLVyZQrw00.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Toriko Movie: Bishokushin no Special Menu",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Njs8IWjMWkjGSKdB16vTXgA6yU04yOYB/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7706652796388377583"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4506951"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-be8bp5xdmwh5.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T17:59:14.437937",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

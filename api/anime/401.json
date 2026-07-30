@@ -1,0 +1,131 @@
+{
+  "turkanime": {
+    "isim": "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Kaoru, her gün limana gidip Kenshin'in dönüp dönmediğini kontrol eder. Bir süre sonra, Kenshin'le yaşadığı geçmişini ve olan biten her şeyi gözden geçirmeye başlar.",
+    "slug": "rurouni-kenshin-meiji-kenkaku-romantan-seisou-hen"
+  },
+  "jikan": {
+    "mal_id": 401,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1971/90877.jpg",
+    "trailer_id": null,
+    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen",
+    "title_english": "Samurai X: Reflection",
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2001-12-19T00:00:00+00:00",
+      "to": "2002-03-20T00:00:00+00:00"
+    },
+    "duration": "41 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.96,
+    "popularity": 2585,
+    "synopsis": "Kaoru goes to the harbor every day to see if Kenshin has returned. After a while, she starts looking back at her life with Kenshin and all the things that have happened.\n\n(Source: ANN)",
+    "genres": [
+      8,
+      22
+    ],
+    "themes": [
+      13,
+      21
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      37
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          45
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 401,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/401-XmgxPxn31gOY.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/10iifNPiKZVBu1prMTyf9LSVlNPUtR-GI/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Ze1UuOuGq6LKjMu2GXtd2cVBOtO4lXH6/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1725583"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-481gkwqn12wn.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T05:16:09.225664",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1XKjbGtKMNH26Q9G4uX-sB636b_IReBT4/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Tn5xiG5N9CosrxNfG-ATLiVyKlqzw94K/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/2444636457931910079"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/2444636457931910080"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1725594"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-y0q7eoepdd1y.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T05:16:09.225664",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

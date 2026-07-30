@@ -1,0 +1,151 @@
+{
+  "turkanime": {
+    "isim": "Samurai Spirits 2: Asura Zanmaden",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Tüm zamanların en popüler video oyunlarından biri olan Samurai Shodown'un iki bölümden oluşan ova'sıdır. Hareketli ve görkemli savaş sahnelerine sahip kısa metrajlı bir animedir.",
+    "slug": "samurai-spirits-2-asura-zanmaden"
+  },
+  "jikan": {
+    "mal_id": 839,
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/2959.jpg",
+    "trailer_id": null,
+    "title": "Samurai Spirits 2: Asura Zanmaden",
+    "title_english": "Samurai Spirits 2",
+    "type": "OVA",
+    "source": "Game",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1999-06-25T00:00:00+00:00",
+      "to": "1999-09-30T00:00:00+00:00"
+    },
+    "duration": "30 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 6.22,
+    "popularity": 11247,
+    "synopsis": "One hundred years after their deaths at the hands of a former colleage, six legendary holy warriors are reborn to seek justice against the teammate who betrayed them into the hands of an evil god. Based upon one of the most popular video games of all time, Samurai Shodown is a sprawling feature-length saga of reincarnation and revenge, featuring some of the most spectacular battle sequences ever animated! Join Charlotte, Wan Fu, Nakoruru, Galford and Tamtam as they search the feudal province of Edo questing for their lost comrade, Haohmaru, and their sworn nemesis Shirou Amakusa. Will the followers of the divine light triumph over the forces of the dark, or is the course of history destined to repeat itself? Before their hundred-year journey has ended, six samurai will prove that the only thing stronger than their holy blades is the steel of their wills! \n\n(Source: AniDB)",
+    "genres": [
+      1,
+      10
+    ],
+    "themes": [
+      17,
+      21,
+      31
+    ],
+    "demographics": [],
+    "studios": [
+      30
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          2591
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entries": [
+          1937
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 839,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Samurai Spirits 2 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Qbeh_b78MzCHDiD5EytPcj9EyRu09UWP/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985846748"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4071823"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/odqa3zgs"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-31b33cfxzye4.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T06:34:53.501711",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Samurai Spirits 2 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1FNGXa0wQnnbuDVTSGhzcSAw0_Yo0w6Qy/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985846749"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985852265"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4071825"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4442173"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-m93c138gwfp6.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/q097237m"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-gxh29ksm1iri.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T06:34:53.501711",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

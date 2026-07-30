@@ -1,0 +1,104 @@
+{
+  "turkanime": {
+    "isim": "Beatless Intermission",
+    "puan": "0.00",
+    "bolum_durumu": "1/4",
+    "ozet": "Beatless animesine ait özet bölümler.",
+    "slug": "beatless-intermission"
+  },
+  "jikan": {
+    "mal_id": 37277,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1709/90468.jpg",
+    "trailer_id": null,
+    "title": "Beatless Intermission",
+    "title_english": null,
+    "type": "TV Special",
+    "source": "Novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2018-02-17T00:00:00+00:00",
+      "to": "2018-06-02T00:00:00+00:00"
+    },
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.67,
+    "popularity": 6497,
+    "synopsis": "Recap episodes of Beatless.",
+    "genres": [
+      1,
+      8,
+      22,
+      24
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      51
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entries": [
+          36516
+        ]
+      }
+    ]
+  },
+  "anilist": null,
+  "episodes": [
+    {
+      "turkanime_title": "Beatless 5.5. Bölüm",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 26,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1-uuMWmCJrWBXaMNcm-KqJROSu-62BMcR/preview"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7706652796388377662"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/puzzle.vatican/video/embed/_myvideo/391"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4491705"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-adel19wqkcu2.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/dzwmsumj"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/hrv17mxk"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-qrqtxlqcoh6z.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T04:31:54.355407",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

@@ -1,0 +1,947 @@
+{
+  "turkanime": {
+    "isim": "Hibike! Euphonium 2",
+    "puan": "0.00",
+    "bolum_durumu": "13/13",
+    "ozet": "Hibike! Euphonium serisinin 2. sezonudur.",
+    "slug": "hibike-euphonium-2"
+  },
+  "jikan": {
+    "mal_id": 31988,
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/81155.jpg",
+    "trailer_id": "d2Di5swwzxg",
+    "title": "Hibike! Euphonium 2",
+    "title_english": "Sound! Euphonium 2",
+    "type": "TV",
+    "source": "Novel",
+    "status": "Finished Airing",
+    "year": 2016,
+    "season": "fall",
+    "airing": false,
+    "aired": {
+      "from": "2016-10-06T00:00:00+00:00",
+      "to": "2016-12-29T00:00:00+00:00"
+    },
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.35,
+    "popularity": 1099,
+    "synopsis": "Following their success in the qualifying round for the Kansai regional competition, the members of the Kitauji High School concert band set their sights on the next upcoming performance. Utilizing their summer break to the utmost, the band participates in a camp where they are instructed by their band advisor Noboru Taki and his friends who make their living as professional musicians.\n\nKumiko Oumae and her friends remain determined to attain gold at the Kansai competition, but trouble arises when a student who once quit the band shows interest in rejoining and sparks unpleasant memories for the second-year members. Kumiko also learns about her teacher's surprising past and the motivation behind his desire to lead the band to victory. Reaching nationals will require hard work, and the adamant conviction in each student's commitment to the band will be put to the test.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      8
+    ],
+    "themes": [
+      19,
+      70,
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      2
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          27989
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          35678
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          87640,
+          96125,
+          113830
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entries": [
+          34204,
+          35677
+        ]
+      },
+      {
+        "relation": "Summary",
+        "entries": [
+          35082
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          52931
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 21460,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21460-hAHHLxSxkxr0.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Hibike! Euphonium 2 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Q1bcvzId9hLOCczdTs_Vp6Takigx1bfJ/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/dmuratli/_myvideo/481.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359658408"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4453907"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ssbdxcdvhx86.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/yjnam6qa"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/shp3ljbb"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-svmnf1mqy85b.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/enes.mert.97/video/embed/7/475"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2844017"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-bcqalsybnocs.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 66,
+          "end": 156
+        },
+        "ed": {
+          "start": 2771,
+          "end": 2860
+        }
+      },
+      "added_date": "2026-07-26T03:07:32.081070",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Hibike! Euphonium 2 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/dmuratli/_myvideo/522.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ntqgyd6ujxu3.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/apx0oojd"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-0pxh51wesz2s.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-953cz9720ttb.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/s3a5fiya"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-vcybzqkxw0hb.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1EDM3PBny4ndxEO58PjuyDMlCHTavuj29/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/enes.mert.97/video/embed/7/476"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2844030"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4500077"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-4alxqyzierpf.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-5hewj2fkmyyv.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T03:07:32.081070",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Hibike! Euphonium 2 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/dmuratli/_myvideo/528.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xk8qdkswpls6.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/5mleefxq"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-801eai3m06pm.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1b2nqPNZl1JEiB_5-mOAMKbFqYxePl_Hg/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359658409"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/enes.mert.97/video/embed/7/477"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2844034"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4453914"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-891gns8ymg72.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/2odia7s4"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 15,
+          "end": 105
+        },
+        "ed": {
+          "start": 1332,
+          "end": 1420
+        }
+      },
+      "added_date": "2026-07-26T03:07:32.081070",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Hibike! Euphonium 2 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1WeCKlHkul_bcbRufM2gCd_-eckRXbdQ0/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/dmuratli/_myvideo/605.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359661312"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/wo1ckjqt"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-333cvzxfutfi.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-9vev7kh92uyo.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ue680ps1r5az.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/enes.mert.97/video/embed/7/478"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2844036"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-txa3op3zwew0.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-frgy0sd3ksvn.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 15,
+          "end": 105
+        },
+        "ed": {
+          "start": 1332,
+          "end": 1420
+        }
+      },
+      "added_date": "2026-07-26T03:07:32.081070",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Hibike! Euphonium 2 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1qo1HASsoVVgHtbfsgVHRepruLKGN1mnr/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed//mail/akat.suki/_myvideo/19.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359658410"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4453922"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/0dabj7wl"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/ksklee555/video/embed/_myvideo/66"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-9c0z0md46jb3.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-zul5roka4mdp.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/enes.mert.97/video/embed/7/479"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-g9y0fnl73hbx.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/s25sqi6b"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-dc1d33ouzb3t.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T03:07:32.081070",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Hibike! Euphonium 2 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 153,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1RWlVenWTwclcY1nEvVsdlLny1U-ZF2C2/preview"
+        },
+        {
+          "fansub_id": 153,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/akfsub/video/embed/_myvideo/101"
+        },
+        {
+          "fansub_id": 153,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3216327"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/tosunoglu21/video/embed/_myvideo/4"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-au646k7pxjeu.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/enes.mert.97/video/embed/7/480"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-c8ec87h9i8zo.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/oh9erxc1"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-sa1fka7mcwp9.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T03:07:32.081070",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Hibike! Euphonium 2 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3259561"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-h075hrsmsolq.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/17UUItWl6tnpjVmHJSB0uaKxWr85q94kO/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/enes.mert.97/video/embed/7/481"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2844050"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-764chj2szqbo.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/akh4jjw0"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 15,
+          "end": 105
+        },
+        "ed": {
+          "start": 1332,
+          "end": 1420
+        }
+      },
+      "added_date": "2026-07-26T03:07:32.081070",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Hibike! Euphonium 2 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 153,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3259570"
+        },
+        {
+          "fansub_id": 153,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-x8p1tt8fh3x0.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/slytherzzs/video/embed/_myvideo/13"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2888474"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-fwj6tlhyqkyy.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-2gblwe3fll2q.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1xReBKvvpRkd1lil6lw7B5SmXp1LALi2F/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/enes.mert.97/video/embed/7/482"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2844053"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4500082"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-043zg0vgk7vs.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-6hagagyrosq7.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T03:07:32.081070",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Hibike! Euphonium 2 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 153,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3259578"
+        },
+        {
+          "fansub_id": 153,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-qgkyim03ub8c.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/slytherzzzs/video/embed/_myvideo/6"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2895866"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-flg1hfwzwcjn.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-38djbgi8a0ey.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1O2J6WstmzBUzJMU9gDVq3zM9kVSxYN2C/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/enes.mert.97/video/embed/7/483"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2844055"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4500086"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-492teev00xpk.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/7ncvu6it"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/er2wpq1i"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-lh1n88zy84c6.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T03:07:32.081070",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Hibike! Euphonium 2 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 153,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3259581"
+        },
+        {
+          "fansub_id": 153,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-oirlwmwx59hn.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1BfhqAXirKKAmyzYDMfzDoDwvuHIfexLv/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/enes.mert.97/video/embed/7/484"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2844057"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 15,
+          "end": 105
+        },
+        "ed": {
+          "start": 1332,
+          "end": 1420
+        }
+      },
+      "added_date": "2026-07-26T03:07:32.081070",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Hibike! Euphonium 2 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 153,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3259585"
+        },
+        {
+          "fansub_id": 153,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-5ktvqszkybek.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1hq5nLXZVMsZP8Yf39kYeGzEgO_aCuHzZ/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/enes.mert.97/video/embed/7/485"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2844059"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-d9necxwgsmci.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T03:07:32.081070",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Hibike! Euphonium 2 12. Bölüm",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 153,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3259590"
+        },
+        {
+          "fansub_id": 153,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-xsrefit0j20p.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1bfawuTO4Q693VmIqW7nP5ON7joV6AGg4/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/enes.mert.97/video/embed/7/486"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359658411"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2844060"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4453929"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-utns1pt52gjr.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/13mvguzm"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 15,
+          "end": 105
+        },
+        "ed": {
+          "start": 1332,
+          "end": 1420
+        }
+      },
+      "added_date": "2026-07-26T03:07:32.081070",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Hibike! Euphonium 2 13. Bölüm Final",
+      "episode_number": 13,
+      "videos": [
+        {
+          "fansub_id": 153,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3261885"
+        },
+        {
+          "fansub_id": 153,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-tanax5dhfwb3.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/puzzle.keijo/video/embed/_myvideo/13"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ut5buc6cx65y.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-3pc8muk6r855.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1olM8sEmkqr5FbtAl9IcEH_hhb3E9inxV/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/enes.mert.97/video/embed/7/487"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359658412"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4453937"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-tgvbxu2apmvu.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/kj64y0rm"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/fnga2wu9"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T03:07:32.081070",
+      "jikan_mal_id": 13,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

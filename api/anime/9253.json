@@ -1,0 +1,1647 @@
+{
+  "turkanime": {
+    "isim": "Steins;Gate",
+    "puan": "8.76",
+    "bolum_durumu": "24/24",
+    "ozet": "Steins Gate, özelleştirilmiş bir mikrodalga cihazıyla kendi geçmişlerine mesaj gönderebilen bir grup arkadaş hakkındadır. Pek çok farklı deney yapmaktadırlar. SERN isimli organizasyon ise kendi zaman yolculuğu araştırmalarını yapmaktadır. Karakterler bir yol bulup yakalanmamak zorundadır.",
+    "slug": "steins-gate"
+  },
+  "jikan": {
+    "mal_id": 9253,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
+    "trailer_id": "27OZc-ku6is",
+    "title": "Steins;Gate",
+    "title_english": "Steins;Gate",
+    "type": "TV",
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "year": 2011,
+    "season": "spring",
+    "airing": false,
+    "aired": {
+      "from": "2011-04-06T00:00:00+00:00",
+      "to": "2011-09-14T00:00:00+00:00"
+    },
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 9.07,
+    "popularity": 14,
+    "synopsis": "Eccentric scientist Rintarou Okabe has a never-ending thirst for scientific exploration. Together with his ditzy but well-meaning friend Mayuri Shiina and his roommate Itaru Hashida, Okabe founds the Future Gadget Laboratory in the hopes of creating technological innovations that baffle the human psyche. Despite claims of grandeur, the only notable \"gadget\" the trio have created is a microwave that has the mystifying power to turn bananas into green goo.\n\nHowever, when Okabe attends a conference on time travel, he experiences a series of strange events that lead him to believe that there is more to the \"Phone Microwave\" gadget than meets the eye. Apparently able to send text messages into the past using the microwave, Okabe dabbles further with the \"time machine,\" attracting the ire and attention of the mysterious organization SERN.\n\nDue to the novel discovery, Okabe and his friends find themselves in an ever-present danger. As he works to mitigate the damage his invention has caused to the timeline, Okabe fights a battle to not only save his loved ones but also to preserve his degrading sanity.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      8,
+      24,
+      41
+    ],
+    "themes": [
+      40,
+      78
+    ],
+    "demographics": [],
+    "studios": [
+      314
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          10863
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          17517
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          32188
+        ]
+      },
+      {
+        "relation": "Alternative Setting",
+        "entries": [
+          4975,
+          13599,
+          32962,
+          30485
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          27957
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 9253,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n9253-JIhmKgBKsWUN.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Steins;Gate 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 20,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715526330"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/u11bvenv"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599871"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4406988"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-qwavbz9vapg3.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-3w5yfjb253p8.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaiupload03/_myvideo/1034.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2652966"
+        },
+        {
+          "fansub_id": 29,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1wQFf2g9s4c0VdIiazvD95DKdVRMcHyEy/preview"
+        },
+        {
+          "fansub_id": 29,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/nepenthefansub/video/embed/_myvideo/72"
+        },
+        {
+          "fansub_id": 29,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-lb1jc3wihxfv.html"
+        },
+        {
+          "fansub_id": 29,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/zj1as3na"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 638.489,
+          "end": 728.489
+        },
+        "ed": {
+          "start": 1331.713,
+          "end": 1421.713
+        }
+      },
+      "added_date": "2026-07-29T13:04:17.961279",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Steins;Gate 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 20,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715526331"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1352702"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/d9fseodt"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599872"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4406991"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-v7hf8m8lzxyp.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-abeccnc1qxgc.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaiupload03/_myvideo/1035.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2652969"
+        },
+        {
+          "fansub_id": 29,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1GhsqL89vNbvbL96Ffhj7f2Qy-_MkcT5M/preview"
+        },
+        {
+          "fansub_id": 29,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/nepenthefansub/video/embed/9/77"
+        },
+        {
+          "fansub_id": 29,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4216634"
+        },
+        {
+          "fansub_id": 29,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xocxekdxafyk.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 80.054,
+          "end": 170.054
+        },
+        "ed": {
+          "start": 1330.444,
+          "end": 1420.444
+        }
+      },
+      "added_date": "2026-07-29T13:04:17.961279",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Steins;Gate 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 20,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715526332"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1352706"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599873"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4406993"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-64oegjkcwf2k.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-fe120ad7hlk5.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaiupload03/_myvideo/1036.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2652970"
+        },
+        {
+          "fansub_id": 29,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/nepenthesubs/video/embed/7/12"
+        },
+        {
+          "fansub_id": 29,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-x4v8i5y4awy7.html"
+        },
+        {
+          "fansub_id": 29,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/l4f7c4ax"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 98.311,
+          "end": 188.311
+        },
+        "ed": {
+          "start": 1330.746,
+          "end": 1420.746
+        }
+      },
+      "added_date": "2026-07-29T13:04:17.961279",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Steins;Gate 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 20,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715526333"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1352709"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599874"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4406998"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-a732195i8zu9.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-61m8onz0zhnr.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaiupload03/_myvideo/1037.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2652973"
+        },
+        {
+          "fansub_id": 29,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/nepenthesubs/video/embed/7/13"
+        },
+        {
+          "fansub_id": 29,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-s437gqhq7pcz.html"
+        },
+        {
+          "fansub_id": 29,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/gnq7xyiw"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 94.262,
+          "end": 184.262
+        },
+        "ed": {
+          "start": 1330.593,
+          "end": 1420.593
+        }
+      },
+      "added_date": "2026-07-29T13:04:17.961279",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Steins;Gate 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 20,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715526334"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1352711"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599875"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4407001"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-wf9vv5e5yyf1.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-tm4zoydh7mgn.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaiupload03/_myvideo/1038.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2652975"
+        },
+        {
+          "fansub_id": 29,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/nepenthesubs/video/embed/7/14"
+        },
+        {
+          "fansub_id": 29,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-qyscd2383dqm.html"
+        },
+        {
+          "fansub_id": 29,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/56cy2yrd"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 117.573,
+          "end": 207.573
+        },
+        "ed": {
+          "start": 1331.744,
+          "end": 1421.744
+        }
+      },
+      "added_date": "2026-07-29T13:04:17.961279",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Steins;Gate 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 20,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715526335"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1352716"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599876"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4407004"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-fx6bjupj1ku1.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-nsy5jfpsre8z.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaiupload03/_myvideo/1039.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2652977"
+        },
+        {
+          "fansub_id": 29,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/nepenthesubs/video/embed/7/27"
+        },
+        {
+          "fansub_id": 29,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-cyy7hs4tpdhi.html"
+        },
+        {
+          "fansub_id": 29,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/sp4u0amk"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 65.773,
+          "end": 155.773
+        },
+        "ed": {
+          "start": 1330.427,
+          "end": 1420.427
+        }
+      },
+      "added_date": "2026-07-29T13:04:17.961279",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Steins;Gate 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 20,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715526336"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1352718"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599877"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4407007"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-4sbs5oqyhkeb.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-8p1bhwb2a3k2.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaiupload03/_myvideo/1040.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2652979"
+        },
+        {
+          "fansub_id": 29,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/nepenthesubs/video/embed/7/26"
+        },
+        {
+          "fansub_id": 29,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-o8h41czj9lzo.html"
+        },
+        {
+          "fansub_id": 29,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/5i0o5nv8"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 125.148,
+          "end": 215.148
+        },
+        "ed": {
+          "start": 1330,
+          "end": 1445
+        }
+      },
+      "added_date": "2026-07-29T13:04:17.961279",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Steins;Gate 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 20,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715526337"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1352723"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599878"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4407012"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-yece7105mrv2.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-x2m6k0h6z7rc.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaiupload03/_myvideo/1041.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2652981"
+        },
+        {
+          "fansub_id": 29,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-gop3de9z3hp0.html"
+        },
+        {
+          "fansub_id": 29,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/vt2l7cw6"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 120.906,
+          "end": 210.906
+        },
+        "ed": {
+          "start": 1335.48,
+          "end": 1425.48
+        }
+      },
+      "added_date": "2026-07-29T13:04:17.961279",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Steins;Gate 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 20,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715526338"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1352725"
+        },
+        {
+          "fansub_id": 120,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1wyYnnD6x0XIiBFuWMlfVbnh8c3D7TAOq/preview"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359665458"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaiupload03/_myvideo/1042.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4624300"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2652985"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-r53jd1qxa90j.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-cx1na7nldg1c.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 59.797,
+          "end": 149.797
+        }
+      },
+      "added_date": "2026-07-29T13:04:17.961279",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Steins;Gate 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 20,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715526339"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1352729"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599880"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4407018"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-760cg6x6ljgq.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-g840pcqzx2o2.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaiupload03/_myvideo/1043.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2652986"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 52.167,
+          "end": 142.54
+        },
+        "ed": {
+          "start": 1329.009,
+          "end": 1419.009
+        }
+      },
+      "added_date": "2026-07-29T13:04:17.961279",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Steins;Gate 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 20,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715526340"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1352734"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599881"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4407023"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-7r1ii6m87xb6.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-wq979uigynqw.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaiupload03/_myvideo/1044.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2652989"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 88.334,
+          "end": 178.334
+        },
+        "ed": {
+          "start": 1337.058,
+          "end": 1427.558
+        }
+      },
+      "added_date": "2026-07-29T13:04:17.961279",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Steins;Gate 12. Bölüm",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 20,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715526341"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1352736"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599882"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4407027"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ae2nqfy50con.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-mzdax42t11tb.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaiupload03/_myvideo/1045.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2652992"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 114.399,
+          "end": 204.399
+        },
+        "ed": {
+          "start": 1336.051,
+          "end": 1425.051
+        }
+      },
+      "added_date": "2026-07-29T13:04:17.961279",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Steins;Gate 13. Bölüm",
+      "episode_number": 13,
+      "videos": [
+        {
+          "fansub_id": 20,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715526342"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1352739"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599883"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4407029"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-la6ygfnsrud4.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-8feopugzfwk5.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaiupload03/_myvideo/1046.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2652995"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 176.996,
+          "end": 266.996
+        },
+        "ed": {
+          "start": 1337.67,
+          "end": 1426.635
+        }
+      },
+      "added_date": "2026-07-29T13:04:17.961279",
+      "jikan_mal_id": 13,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Steins;Gate 14. Bölüm",
+      "episode_number": 14,
+      "videos": [
+        {
+          "fansub_id": 20,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715526343"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1352741"
+        },
+        {
+          "fansub_id": 20,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-cmev2cf4b18l.html"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/s13ca72k"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599884"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4407033"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-zth33l4z6ctj.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-bqb2t69bokd7.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 139.48,
+          "end": 229.48
+        },
+        "ed": {
+          "start": 1335.877,
+          "end": 1425.877
+        }
+      },
+      "added_date": "2026-07-29T13:04:17.961279",
+      "jikan_mal_id": 14,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Steins;Gate 15. Bölüm",
+      "episode_number": 15,
+      "videos": [
+        {
+          "fansub_id": 20,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715526344"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1352745"
+        },
+        {
+          "fansub_id": 20,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-3zkjmgm5wpgt.html"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/4207zk4j"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599885"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4407036"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-wl5ptgy5nulq.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ngto0901bbi3.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 23.051,
+          "end": 112.051
+        },
+        "ed": {
+          "start": 1337.305,
+          "end": 1427.305
+        }
+      },
+      "added_date": "2026-07-29T13:04:17.961279",
+      "jikan_mal_id": 15,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Steins;Gate 16. Bölüm",
+      "episode_number": 16,
+      "videos": [
+        {
+          "fansub_id": 20,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715526345"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1352747"
+        },
+        {
+          "fansub_id": 20,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-j1of0xwzffou.html"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ffacqi8q"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599886"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4407039"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5b62lbzop7mi.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-kcgtfgsinpsg.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 91.414,
+          "end": 181.414
+        },
+        "ed": {
+          "start": 1337.904,
+          "end": 1427.904
+        }
+      },
+      "added_date": "2026-07-29T13:04:17.961279",
+      "jikan_mal_id": 16,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Steins;Gate 17. Bölüm",
+      "episode_number": 17,
+      "videos": [
+        {
+          "fansub_id": 20,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715526346"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1352749"
+        },
+        {
+          "fansub_id": 20,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-wnu1ec72d8ii.html"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ujb0rr9a"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599887"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4407040"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-fefy0depotb2.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-25mamrasflyi.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 48.419,
+          "end": 138.419
+        },
+        "ed": {
+          "start": 1336.802,
+          "end": 1427.302
+        }
+      },
+      "added_date": "2026-07-29T13:04:17.961279",
+      "jikan_mal_id": 17,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Steins;Gate 18. Bölüm",
+      "episode_number": 18,
+      "videos": [
+        {
+          "fansub_id": 20,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715526347"
+        },
+        {
+          "fansub_id": 20,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-9utheusungkv.html"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/lduwrhif"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/i17modmt"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599888"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4407043"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-3jwtasg2s04x.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-q4sl17nrwra5.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 33.389,
+          "end": 123.389
+        },
+        "ed": {
+          "start": 1329.536,
+          "end": 1418
+        }
+      },
+      "added_date": "2026-07-29T13:04:17.961279",
+      "jikan_mal_id": 18,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Steins;Gate 19. Bölüm",
+      "episode_number": 19,
+      "videos": [
+        {
+          "fansub_id": 20,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715526348"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1352754"
+        },
+        {
+          "fansub_id": 20,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2j42wz4hzo5i.html"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/bb0nh2yx"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599889"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4407044"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-3rj454cupkq9.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ybq20y7h6ea4.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 32.183,
+          "end": 122.183
+        },
+        "ed": {
+          "start": 1329,
+          "end": 1433
+        }
+      },
+      "added_date": "2026-07-29T13:04:17.961279",
+      "jikan_mal_id": 19,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Steins;Gate 20. Bölüm",
+      "episode_number": 20,
+      "videos": [
+        {
+          "fansub_id": 20,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715526349"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1352757"
+        },
+        {
+          "fansub_id": 20,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-gjm0tslehd3y.html"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/se0g2m5x"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599890"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4407045"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ewwbth9zd27y.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-9hps4t2lxjts.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 50.958,
+          "end": 141.399
+        },
+        "ed": {
+          "start": 1331,
+          "end": 1420
+        }
+      },
+      "added_date": "2026-07-29T13:04:17.961279",
+      "jikan_mal_id": 20,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Steins;Gate 21. Bölüm",
+      "episode_number": 21,
+      "videos": [
+        {
+          "fansub_id": 20,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715526350"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1352759"
+        },
+        {
+          "fansub_id": 20,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-i7c8upkyx66t.html"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/61cr790a"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599891"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4407046"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-dx1ug7v87u4h.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-r1qe4yhb54vy.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 18.437,
+          "end": 108.437
+        },
+        "ed": {
+          "start": 1330,
+          "end": 1419
+        }
+      },
+      "added_date": "2026-07-29T13:04:17.961279",
+      "jikan_mal_id": 21,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Steins;Gate 22. Bölüm",
+      "episode_number": 22,
+      "videos": [
+        {
+          "fansub_id": 20,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715526351"
+        },
+        {
+          "fansub_id": 20,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-i3nwao04ud1e.html"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/z6evh2ju"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599892"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4407047"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-t2vw5m041htk.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-e69g3vapg0va.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 12.745,
+          "end": 102.745
+        },
+        "ed": {
+          "start": 1318,
+          "end": 1373
+        }
+      },
+      "added_date": "2026-07-29T13:04:17.961279",
+      "jikan_mal_id": 22,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Steins;Gate 23. Bölüm",
+      "episode_number": 23,
+      "videos": [
+        {
+          "fansub_id": 20,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715526352"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1352763"
+        },
+        {
+          "fansub_id": 20,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-9fzgltx361ej.html"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/f3k2acv9"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599893"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4407048"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-dmfwtpo94dy7.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-i39ckqhi5fj2.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 107.486,
+          "end": 197.486
+        },
+        "ed": {
+          "start": 1367,
+          "end": 1429
+        }
+      },
+      "added_date": "2026-07-29T13:04:17.961279",
+      "jikan_mal_id": 23,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Steins;Gate 24. Bölüm Final",
+      "episode_number": 24,
+      "videos": [
+        {
+          "fansub_id": 20,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715526353"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1352767"
+        },
+        {
+          "fansub_id": 20,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-rm21umfqcxg1.html"
+        },
+        {
+          "fansub_id": 20,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/4td902oz"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599894"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4407050"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-orhgnup3ahxu.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-0ejngt88gyth.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 105.884,
+          "end": 195.884
+        }
+      },
+      "added_date": "2026-07-29T13:04:17.961279",
+      "jikan_mal_id": 24,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

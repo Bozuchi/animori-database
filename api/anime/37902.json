@@ -1,0 +1,83 @@
+{
+  "turkanime": {
+    "isim": "One Piece: Episode of Sorajima",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Animesindeki Skypiea hikâyesini ele alan özel bölümdür. Animedeki orijinal Skypiea hikâyesinde görünmeyen bir karakter bu özel bölümde görünecektir.",
+    "slug": "one-piece-episode-of-sorajima"
+  },
+  "jikan": {
+    "mal_id": 37902,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1533/92968.jpg",
+    "trailer_id": null,
+    "title": "One Piece: Episode of Sorajima",
+    "title_english": "One Piece: Episode of Skypiea",
+    "type": "TV Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2018-08-25T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 45 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.19,
+    "popularity": 4400,
+    "synopsis": "The Straw Hats embark on a dangerous trip to the sky where their destination comes straight out of a fairytale. The island of Skypiea and its grand city of gold await among the clouds, but a clash of winged clans and a man who calls himself God won’t make things easy! Only Luffy can resist this God’s mighty power and light the mysteries of the past.\n\n(Source: Funimation)",
+    "genres": [
+      1,
+      2,
+      10
+    ],
+    "themes": [],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      18
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entries": [
+          21
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 101918,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101918-jUG4Mb1hCxVS.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "One Piece: Episode of Sorajima",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 115,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1w4PltjcWceALLZ-ZpEE1pNDG5kGlgd9s/preview"
+        },
+        {
+          "fansub_id": 115,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Wn1xS_xtcDzX44VjJODjssVCnK-N_oMK/preview"
+        },
+        {
+          "fansub_id": 115,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/0epxqicn10jx"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T20:56:23.355405",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

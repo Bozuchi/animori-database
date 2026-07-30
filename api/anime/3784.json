@@ -1,0 +1,122 @@
+{
+  "turkanime": {
+    "isim": "Evangelion Movie 2: Ha",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Evangelion Animesinin 2. Filmdir.",
+    "slug": "evangelion-movie-2-ha"
+  },
+  "jikan": {
+    "mal_id": 3784,
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/74983.jpg",
+    "trailer_id": null,
+    "title": "Evangelion Movie 2: Ha",
+    "title_english": "Evangelion: 2.0 You Can (Not) Advance",
+    "type": "Movie",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2009-06-27T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 52 min",
+    "rating": "R+ - Mild Nudity",
+    "score": 8.29,
+    "popularity": 423,
+    "synopsis": "When the threat of the Angel menace escalates, mankind's defense force is pushed to its limits, with NERV at the forefront of the struggle. Shinji Ikari and his partner Rei Ayanami are assisted by two new pilots: the fiery Asuka Langley Shikinami and the mysterious Mari Illustrious Makinami.\n\nWith the aid of their mechanized Evangelion units, equipped with weapons perfect for engaging their monstrous opponents, the four young souls fight desperately to protect their loved ones and prevent an impending apocalypse. But when startling secrets are brought to light, will the heroes' greatest challenge prove to be the monsters...or humanity itself?\n\n[Written by MAL Rewrite]",
+    "genres": [
+      8,
+      24,
+      41
+    ],
+    "themes": [
+      18,
+      40
+    ],
+    "demographics": [],
+    "studios": [
+      47
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          2759
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          3785
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          30
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          32311
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 3784,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3784-OYyfe6vR2687.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Neon Genesis Evangelion : You Can [Not] Advance",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1caKkfuDUKLzubcFO2HC-Js7HT8JJCN4L/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1fpx8aP69G5CMjMt7imILbzPlWaIFq0TR/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/5038"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933015927"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/5sfc1bqx"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-eucnjw5mdh0w.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-cs2re2gv69c5.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T00:29:48.087514",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

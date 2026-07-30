@@ -1,0 +1,162 @@
+{
+  "turkanime": {
+    "isim": "Break Blade Picture Drama",
+    "puan": "0.00",
+    "bolum_durumu": "2/6",
+    "ozet": "Break Blade animesinin kısa özel bölümleridir.",
+    "slug": "break-blade-picture-drama"
+  },
+  "jikan": {
+    "mal_id": 8648,
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/23822.jpg",
+    "trailer_id": null,
+    "title": "Break Blade Movie Picture Drama",
+    "title_english": "Broken Blade Picture Drama",
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2010-07-23T00:00:00+00:00",
+      "to": "2011-07-22T00:00:00+00:00"
+    },
+    "duration": "4 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.54,
+    "popularity": 8536,
+    "synopsis": "DVD/BD extra.",
+    "genres": [
+      4,
+      10
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      10,
+      27
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          6772
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 8648,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Break Blade Drama 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1XKWsCmqBNlzByx3t8M1rjtdTG385K8qh/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4513276"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1140809"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4064496"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4114486"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-pwyonjeagqnk.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-kn9gkh442px8.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/lk8p3ro1"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-cz5n4ww3mpsu.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T07:01:34.540947",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Break Blade Drama 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4534844"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4064662"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1140810"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4114492"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5k4wlj5ykowv.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-trwxrm6pfedt.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/tqstxxg3"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-p54wg55leexs.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T07:01:34.540947",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

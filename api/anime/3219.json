@@ -1,0 +1,88 @@
+{
+  "turkanime": {
+    "isim": "Gakuen Utopia Manabi Straight!: Natsu da! Manabi da! Kyouka Gasshuku da!",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Bu bölüm kızların, Okul Fuarından önceki yaz tatillerini anlatır.",
+    "slug": "gakuen-utopia-manabi-straight-natsu-da-manabi-da-kyouka-gasshuku-da"
+  },
+  "jikan": {
+    "mal_id": 3219,
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/26354.jpg",
+    "trailer_id": null,
+    "title": "Gakuen Utopia Manabi Straight!: Natsu da! Manabi da! Kyouka Gasshuku da!",
+    "title_english": null,
+    "type": "Special",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2007-10-10T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "24 min",
+    "rating": "G - All Ages",
+    "score": 7.05,
+    "popularity": 8199,
+    "synopsis": "This episode takes place before the actual planning of the School Fair and shows how the girls spend their summer holidays.",
+    "genres": [
+      4,
+      24
+    ],
+    "themes": [
+      52,
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      43
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          1858
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 3219,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3219-eippKzYD9Lay.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Gakuen Utopia Manabi Straight! Ova",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685362888"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4532520"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-mu1s48aovgou.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-yyy5zoc1wgt3.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T22:24:46.617700",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

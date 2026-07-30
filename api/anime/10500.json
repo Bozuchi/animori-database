@@ -1,0 +1,113 @@
+{
+  "turkanime": {
+    "isim": "Ojiisan no Lamp",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Küçük bir çocuk saklambaç oynarken değişik bir nesne bulur. Bu bulduğu eşyanın üstüne, dedesi gençliğini ve fenerin bir zamanlar ne kadar önemli olduğunu anlatır.",
+    "slug": "ojiisan-no-lamp"
+  },
+  "jikan": {
+    "mal_id": 10500,
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/76455.jpg",
+    "trailer_id": null,
+    "title": "Ojiisan no Lamp",
+    "title_english": null,
+    "type": "Movie",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2011-03-05T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "24 min",
+    "rating": "G - All Ages",
+    "score": 7.48,
+    "popularity": 5351,
+    "synopsis": "When a young boy named Tooichi stumbles upon an old lamp in his grandfather's shed, he mistakes it for a toy and takes it outside to play. When his grandfather discovers this, he reprimands the boy and begins recounting the story behind the artifact—of how a small, traditional Japanese town became Westernized. \n\nIn his youth, Tooichi's grandfather, Minosuke, made a living by doing errands and chores for the townspeople. After one errand takes him to a nearby town, he witnesses Western lamps—a technology unfamiliar to him—light up the streets, igniting a spark in the young boy. From that moment on, lamps became Minosuke's passion and profession, changing his and the townspeople's lives forever.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      8
+    ],
+    "themes": [
+      13
+    ],
+    "demographics": [],
+    "studios": [
+      94
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entries": [
+          10501,
+          10016,
+          10502
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 10500,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Ojisan no Lamp Special",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1k-qZxeTEr42_-TzksJcGDanEVCEzBZyS/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1qA6dRQpJ9bzr7J2hvJydf7jUuKka13YX/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359667560"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4682039"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-sdcatxw6m1ro.html"
+        },
+        {
+          "fansub_id": 21,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-crugo51dr0y3.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359652038"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3969331"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xqlv446fpm6b.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T19:16:47.371415",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

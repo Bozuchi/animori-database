@@ -1,0 +1,76 @@
+{
+  "turkanime": {
+    "isim": "One Piece: Dr. Chopper no Bouken Karte - Uragirimono-tachi no Masquerade",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Çokbilmiş öyküsünün dokuzuncu özet bölümüdür.",
+    "slug": "one-piece-dr-chopper-no-bouken-karte-uragirimono-tachi-no-masquerade"
+  },
+  "jikan": {
+    "mal_id": 62593,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1402/152287.jpg",
+    "trailer_id": null,
+    "title": "One Piece: Dr. Chopper no Bouken Karte - Uragirimono-tachi no Masquerade",
+    "title_english": "One Piece: Dr. Chopper's Adventure Checkup - Traitors Masquerade",
+    "type": "TV Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2025-10-12T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.04,
+    "popularity": 12991,
+    "synopsis": "The ninth recap special of the Egghead arc.",
+    "genres": [
+      1,
+      2,
+      4,
+      10
+    ],
+    "themes": [],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      18
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entries": [
+          21
+        ]
+      }
+    ]
+  },
+  "anilist": null,
+  "episodes": [
+    {
+      "turkanime_title": "One Piece 1145,5. Bölüm",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 115,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/16FC1FTsMEFBeJ_1RR3NyFdcyB6q26ocD/preview"
+        },
+        {
+          "fansub_id": 115,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6084906"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T20:56:07.260839",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

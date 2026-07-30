@@ -1,0 +1,82 @@
+{
+  "turkanime": {
+    "isim": "Perfect Day",
+    "puan": "8.46",
+    "bolum_durumu": "1/1",
+    "ozet": "SuperCell'in orijinal animasyonlu müzik videosudur.",
+    "slug": "perfect-day"
+  },
+  "jikan": {
+    "mal_id": 10445,
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/29356.jpg",
+    "trailer_id": null,
+    "title": "Perfect Day",
+    "title_english": null,
+    "type": "Music",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2011-02-01T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 7.34,
+    "popularity": 6812,
+    "synopsis": "Original animated music video for SuperCell.",
+    "genres": [],
+    "themes": [
+      19
+    ],
+    "demographics": [],
+    "studios": [
+      11
+    ],
+    "relations": []
+  },
+  "anilist": {
+    "id": 10445,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Perfect Day",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1tVCJQuTyUPnCD2An0p4BNC4ZM2ctBRHA/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/5772.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933017647"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1534073"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ccgqh3y01pr0.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T01:26:28.573763",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

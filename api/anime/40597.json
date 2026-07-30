@@ -1,0 +1,78 @@
+{
+  "turkanime": {
+    "isim": "Sol Levante",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Genç bir savaşçı ve onun büyülü hayvanı, dilekleri gerçekleştirdiğine inanılan kutsal bir yeri bulmaya çalışır. Ama kadim muhafızları ve ruhları kızdırmamak en iyisidir.",
+    "slug": "sol-levante"
+  },
+  "jikan": {
+    "mal_id": 40597,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1980/108459.jpg",
+    "trailer_id": null,
+    "title": "Sol Levante",
+    "title_english": null,
+    "type": "ONA",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2020-04-02T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 4.93,
+    "popularity": 5357,
+    "synopsis": "A young warrior and her familiar search for the sacred place said to fulfill wishes. It's best not to anger the ancient guardians and spirits.\n\n(Source: Netflix)",
+    "genres": [
+      1,
+      10
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      10
+    ],
+    "relations": []
+  },
+  "anilist": {
+    "id": 116384,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/116384-gLKcXdbpQCet.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Sol Levante ONA",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1GTrbWU3kKLCeSwXW5i3YLEY-eRPQNR5p/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/2444636457931907413"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4311987"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-o1zkhu93vlwu.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T11:14:34.355620",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

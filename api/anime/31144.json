@@ -1,0 +1,72 @@
+{
+  "turkanime": {
+    "isim": "Mottainai (Special)",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Japon kamu spotu gibi bir şey.",
+    "slug": "mottainai-special"
+  },
+  "jikan": {
+    "mal_id": 31144,
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/74819.jpg",
+    "trailer_id": "ffBfmiazfLY",
+    "title": "Mottainai (Special)",
+    "title_english": null,
+    "type": "CM",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2015-07-01T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "30 sec",
+    "rating": "G - All Ages",
+    "score": 6.37,
+    "popularity": 10012,
+    "synopsis": "Joint campaign by NHK and Advertising Council Japan.",
+    "genres": [
+      36
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      291
+    ],
+    "relations": []
+  },
+  "anilist": {
+    "id": 102652,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102652-gxLuEd2CF1Sn.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Mottainai",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 108,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1_eSehBX-O-oJuEA-lKPmMFma4vh62zEd/preview"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/bk/schneizel/video/embed/_myvideo/865"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2917905"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T13:23:23.196554",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

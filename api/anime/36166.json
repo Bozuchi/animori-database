@@ -1,0 +1,142 @@
+{
+  "turkanime": {
+    "isim": "Fireball Humorous",
+    "puan": "0.00",
+    "bolum_durumu": "2/3",
+    "ozet": "Disney'in kısa bölümlü anime serisi Fireball'ın 3. sezonudur.",
+    "slug": "fireball-humorous"
+  },
+  "jikan": {
+    "mal_id": 36166,
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/87385.jpg",
+    "trailer_id": null,
+    "title": "Fireball Humorous",
+    "title_english": null,
+    "type": "TV",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": 2017,
+    "season": "fall",
+    "airing": false,
+    "aired": {
+      "from": "2017-10-06T00:00:00+00:00",
+      "to": "2017-12-18T00:00:00+00:00"
+    },
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.84,
+    "popularity": 10102,
+    "synopsis": null,
+    "genres": [
+      4,
+      24
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      444
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          4362
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          43350
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 100282,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100282-BNO3i0ZfCNpi.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Fireball Humorous 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 124,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ETF1UWXE5VSBBP5Z562Epe3DOhPcd0k0/preview"
+        },
+        {
+          "fansub_id": 124,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/dhenis3116/video/embed/_myvideo/2"
+        },
+        {
+          "fansub_id": 124,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4460745"
+        },
+        {
+          "fansub_id": 124,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-nx91rhrcjifi.html"
+        },
+        {
+          "fansub_id": 124,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/vzxu7wbn"
+        },
+        {
+          "fansub_id": 124,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-tdtseierlbes.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T01:37:08.222957",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Fireball Humorous 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 124,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1jaO1bwe_oRLoD1NGl709YYZjzfJdomLm/preview"
+        },
+        {
+          "fansub_id": 124,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1pXwL9zp-UXgvJR1uTtgPtIvRzasgVpEq/preview"
+        },
+        {
+          "fansub_id": 124,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4523595"
+        },
+        {
+          "fansub_id": 124,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-yjqfd9klrrig.html"
+        },
+        {
+          "fansub_id": 124,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-y7dspt99x0nw.html"
+        },
+        {
+          "fansub_id": 124,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-seh3pkudig2z.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T01:37:08.222957",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "turkanime": {
+    "isim": "Sekaiichi Hatsukoi OVA",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Sekaiichi Hatsukoi serisine ait OVA bölümlerdir.",
+    "slug": "sekaiichi-hatsukoi-ova"
+  },
+  "jikan": {
+    "mal_id": 8063,
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/35863.jpg",
+    "trailer_id": null,
+    "title": "Sekaiichi Hatsukoi OVA",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2011-03-22T00:00:00+00:00",
+      "to": "2011-09-27T00:00:00+00:00"
+    },
+    "duration": "21 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.84,
+    "popularity": 2892,
+    "synopsis": "Two OVA episodes featuring additional stories. \n\nEpisode 0: Ritsu and Takano used to date back in high school, but broke up due to a misunderstanding. This is that story. \n\nEpisode 12.5: Hatori and Chiaki go to visit the latter's family. It's really awkward in many, many ways.",
+    "genres": [
+      28
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      37
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          10573
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          9926
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 8063,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Sekai-ichi Hatsukoi OVA 1",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1xdKfrHeNcV7JaSw27zukTHXN3qzDeG0o/preview"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3798466"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-sjk42ocedgxa.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-78gyz1erhdy9.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/bbc2yo1f"
+        },
+        {
+          "fansub_id": 52,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-tp98pp72w9fi.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T07:37:09.773261",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Sekai-ichi Hatsukoi OVA 2",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1zhtk3y06lQ7vDY8dHGMy-hc42FGvMszT/preview"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985852151"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4442028"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3798473"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-pix7twgxpnpz.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-tajcp270dnzd.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/hrmvdnzz"
+        },
+        {
+          "fansub_id": 52,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-twb0war1ddky.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1413879"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T07:37:09.773261",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

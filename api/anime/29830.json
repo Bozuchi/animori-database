@@ -1,0 +1,93 @@
+{
+  "turkanime": {
+    "isim": "Tamayura: Sotsugyou Shashin Part 3 - Akogare",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "4 film olarak planlanan Tamayura: Sotsugyou Shashin filmlerinin üçüncüsüdür.",
+    "slug": "tamayura-sotsugyou-shashin-part-3-akogare"
+  },
+  "jikan": {
+    "mal_id": 29830,
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/76022.jpg",
+    "trailer_id": "BYxV0NB89l4",
+    "title": "Tamayura: Sotsugyou Shashin Part 3 - Akogare",
+    "title_english": null,
+    "type": "Movie",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2015-11-28T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "51 min",
+    "rating": "G - All Ages",
+    "score": 7.88,
+    "popularity": 6782,
+    "synopsis": "The third movie of a four-part finale of Tamayura.",
+    "genres": [
+      36
+    ],
+    "themes": [
+      52,
+      63
+    ],
+    "demographics": [],
+    "studios": [
+      333
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          29829
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          29831
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 21324,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21324-VvmFeOXLtRmg.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Tamayura: Sotsugyou Shashin Part 3. - Akogare",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 26,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1N69FCgGoz6eNLGHlh_BrV2Fiw1iKW55w/preview"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/ksklee555/video/embed/_myvideo/384"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3694378"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-03dz5vi0m4ur.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T15:05:18.825927",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

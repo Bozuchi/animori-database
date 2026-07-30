@@ -1,0 +1,137 @@
+{
+  "turkanime": {
+    "isim": "Kamisama Hajimemashita OVA",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "- Güncellenecek -",
+    "slug": "kamisama-hajimemashita-ova"
+  },
+  "jikan": {
+    "mal_id": 18661,
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/56425.jpg",
+    "trailer_id": null,
+    "title": "Kamisama Hajimemashita OVA",
+    "title_english": "Kamisama Kiss OVA",
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2013-08-20T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "14 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.09,
+    "popularity": 1794,
+    "synopsis": "Kamisama, Suterareru\nRiding the high of a heartfelt kiss she shared with her familiar Tomoe, Nanami Momozono seems like nothing can bring her down. However, that changes when she witnesses Tomoe receive a mysterious black box and claim that possessing it, he no longer needs Nanami. By creating the perfect diversion, Nanami is determined to find out what this box contains.\n\nKamisama, Onsen ni Iku\nAfter Nanami overhears her familiar Mizuki talk about her possibly being too spoiled by Tomoe, she becomes hell-bent on proving her capability to be independent. During her trip with Tomoe to a hot spring hotel, Nanami learns about a stone that allegedly grants a lifetime of happiness to couples who touch it together. However, the long path to the stone may prove a bit overwhelming as long as Nanami refuses Tomoe's help.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      4,
+      22,
+      37
+    ],
+    "themes": [
+      6
+    ],
+    "demographics": [
+      25
+    ],
+    "studios": [
+      73
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          8157
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          14713
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 18661,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Kamisama Hajimemashita OVA 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682370593"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5237116"
+        },
+        {
+          "fansub_id": 3,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/wazx2n1w6a5e"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-8rs1181tnetj.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-yg3ienvh7hdg.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 1.756,
+          "end": 91.756
+        }
+      },
+      "added_date": "2026-07-26T23:39:26.287680",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kamisama Hajimemashita OVA 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682370594"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5237117"
+        },
+        {
+          "fansub_id": 3,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/orazdqkajh6g"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-cdcltwdus2a7.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T23:39:26.287680",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

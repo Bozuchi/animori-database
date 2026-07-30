@@ -1,0 +1,85 @@
+{
+  "turkanime": {
+    "isim": "One Piece: Dai Tettei Kaibou! Gekitou! 5-nin no Shin Sedai",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "1030,5. bölüme denk gelen special One Piece bölümdür.",
+    "slug": "one-piece-dai-tettei-kaibou-gekitou-5-nin-no-shin-sedai"
+  },
+  "jikan": {
+    "mal_id": 53235,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1360/128759.jpg",
+    "trailer_id": "676DwrqLjRk",
+    "title": "One Piece: Dai Tettei Kaibou! Gekitou! 5-nin no Shin Sedai",
+    "title_english": "One Piece: A Comprehensive Anatomy! Fierce Fight! The Five from the New Generation",
+    "type": "TV Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2022-10-09T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "24 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.59,
+    "popularity": 8736,
+    "synopsis": "Special that recaps the fight on the Skull Dome's roof between the Worst Generation and Kaidou and Big Mom.",
+    "genres": [
+      1,
+      2,
+      10
+    ],
+    "themes": [],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      18
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entries": [
+          21
+        ]
+      }
+    ]
+  },
+  "anilist": null,
+  "episodes": [
+    {
+      "turkanime_title": "One Piece 1035,5. Bölüm",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 115,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1xwSTXOyC3X2Sps7L2L111KVcF6aCZrA2/preview"
+        },
+        {
+          "fansub_id": 115,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/8275262434374058938"
+        },
+        {
+          "fansub_id": 115,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/jopid42k"
+        },
+        {
+          "fansub_id": 115,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/66t0gx4z"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T20:55:47.308937",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

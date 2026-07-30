@@ -1,0 +1,84 @@
+{
+  "turkanime": {
+    "isim": "Yofukashi no Uta Mini",
+    "puan": "0.00",
+    "bolum_durumu": "1/22",
+    "ozet": "Yofukashi no Uta animesinin Twitter'da yayımlanan kısa eğlenceli bölümleri.",
+    "slug": "yofukashi-no-uta-mini"
+  },
+  "jikan": {
+    "mal_id": 52015,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1075/124359.jpg",
+    "trailer_id": null,
+    "title": "Yofukashi no Uta Mini",
+    "title_english": "Call of the Night Mini",
+    "type": "ONA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2022-06-07T00:00:00+00:00",
+      "to": "2022-10-02T00:00:00+00:00"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.31,
+    "popularity": 8048,
+    "synopsis": "Mini anime of Yofukashi no Uta released on the official Twitter.",
+    "genres": [
+      4
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      2071
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entries": [
+          50346
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 150583,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Yofukashi no Uta Mini 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 43,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1c4N_5Ly-zFjo1ROtrp3NIK979PrSOfmf/preview"
+        },
+        {
+          "fansub_id": 43,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4748163"
+        },
+        {
+          "fansub_id": 43,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/zlyeca0a"
+        },
+        {
+          "fansub_id": 43,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-vl4gvs9xo8bq.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T18:19:55.496923",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

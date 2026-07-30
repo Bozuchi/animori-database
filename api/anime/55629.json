@@ -1,0 +1,87 @@
+{
+  "turkanime": {
+    "isim": "Iya na Kao sare nagara Opantsu Misete Moraitai ver 3.0",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Iya na Kao sare nagara Opantsu Misete Moraitai animesinin 3. sezon olarak geçen OVA bölümüdür.",
+    "slug": "iya-na-kao-sare-nagara-opantsu-misete-moraitai-ver-3-0"
+  },
+  "jikan": {
+    "mal_id": 55629,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1137/136423.jpg",
+    "trailer_id": null,
+    "title": "Iya na Kao sare nagara Opantsu Misete Moraitai ver 3.0",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Other",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2023-02-10T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "6 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.49,
+    "popularity": 8618,
+    "synopsis": null,
+    "genres": [
+      9
+    ],
+    "themes": [
+      38
+    ],
+    "demographics": [],
+    "studios": [
+      1882
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          38163
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          62155
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 166050,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166050-4T6rEnskUVDH.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Iya na Kao sare nagara Opantsu Misete Moraitai ver 3.0 OVA",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 269,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1DsB-ZG2A5VPKQ65l3hFx7Z0prjnXd0rp/preview"
+        },
+        {
+          "fansub_id": 269,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5834736"
+        },
+        {
+          "fansub_id": 269,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/jfhbgpa9"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T06:27:49.115054",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

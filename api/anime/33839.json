@@ -1,0 +1,100 @@
+{
+  "turkanime": {
+    "isim": "Alice in Deadly School",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Hikaye, okullu kızların huzurlu günlük hayatlarının, eski okul arkadaşlarının zombiye dönüşmesinin ardından yerle bir olmasıyla başlar; sağ kalan kızların okulun çatısında yaptıklarıyla devam eder.",
+    "slug": "alice-in-deadly-school"
+  },
+  "jikan": {
+    "mal_id": 33839,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1614/110455.jpg",
+    "trailer_id": "NJadE80gnjM",
+    "title": "Alice in Deadly School",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Other",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2021-03-03T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "41 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.17,
+    "popularity": 5537,
+    "synopsis": "A group of young girls are cornered on the roof of their school when everyone else has turned into zombies. Realizing that the chances of being rescued are slim, they begin planning their escape using their knowledge and skills. In the girls' desperate struggle to survive, they must also find time to contemplate their friendship.\n\n[Written by MAL Rewrite]",
+    "genres": [],
+    "themes": [
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      346
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          100503
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          32455
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 21569,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21569-h2QFSN4V5xou.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Alice in Deadly School Ova",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ZmPv-vESFito21vMTIA1gu2GfNIuErKt/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/19ynHrGg0mFfiaICdDRUjJSuIgKsiCakH/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685363771"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4515589"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-f1bthxjzvyvh.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-lv4ss5x2k6d4.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-20T06:25:18.916349",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

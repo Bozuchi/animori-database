@@ -1,0 +1,80 @@
+{
+  "turkanime": {
+    "isim": "Space Neko Theater",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Kedilere has reklamlar.",
+    "slug": "space-neko-theater"
+  },
+  "jikan": {
+    "mal_id": 11729,
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/32735.jpg",
+    "trailer_id": null,
+    "title": "Space Neko Theater",
+    "title_english": "Space Neko Theater",
+    "type": "ONA",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2008-12-09T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "8 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.35,
+    "popularity": 14683,
+    "synopsis": "Cat lovers by cat-lover, love for cats, which are animated omnibus CM and assortment of fictional programs.",
+    "genres": [
+      4
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [],
+    "relations": []
+  },
+  "anilist": {
+    "id": 11729,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Space Neko Theater ONA",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1lvrroUHb6S09-6gnWe0_gbq3w5z8dMut/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933016701"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/feeling7d/_myvideo/350.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2553667"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vlgz6nsmzuzu.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T12:03:51.953006",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

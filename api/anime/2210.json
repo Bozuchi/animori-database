@@ -1,0 +1,101 @@
+{
+  "turkanime": {
+    "isim": "Tooi Sekai",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "İlişkileri hakkında konuşan bir kadın ve erkeğin hikayesi.",
+    "slug": "tooi-sekai"
+  },
+  "jikan": {
+    "mal_id": 2210,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1427/103656.jpg",
+    "trailer_id": null,
+    "title": "Tooi Sekai",
+    "title_english": "Other Worlds",
+    "type": "ONA",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1999-02-01T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.21,
+    "popularity": 5815,
+    "synopsis": "A man and a woman, talking over their relationship.",
+    "genres": [
+      8,
+      22
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [],
+    "relations": []
+  },
+  "anilist": {
+    "id": 2210,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Tooi Sekai",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1hNXZq6HRRrT53lf6pP8Ctv6y7xr5-fsp/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933017624"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1700482"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-arnruyr4t40b.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/5697.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1525256"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5003760"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-lzje1l11j1ai.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-1on7ou68so0b.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T17:45:59.448568",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

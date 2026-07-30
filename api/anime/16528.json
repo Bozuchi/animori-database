@@ -1,0 +1,116 @@
+{
+  "turkanime": {
+    "isim": "Hal",
+    "puan": "8.64",
+    "bolum_durumu": "1/1",
+    "ozet": "Kurumi ve Hal’ın mutlu hayatları uçak kazası sonucunda bambaşka bir hale gelmiştir. Hal’ı kaybeden Karumi, beraberinde yaşama isteğini de kaybeder. Hal’ın yerine geçen robot Hal, O’nun tarafından kabul edilip Karumi’ye yaşama isteğini geri verebilecek midir?",
+    "slug": "hal"
+  },
+  "jikan": {
+    "mal_id": 16528,
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/46549.jpg",
+    "trailer_id": "OS43cCcWU0A",
+    "title": "Hal",
+    "title_english": "Hal",
+    "type": "Movie",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2013-06-08T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.37,
+    "popularity": 1765,
+    "synopsis": "Kurumi is a beautiful young woman whose beloved boyfriend, Hal, died in a sudden airplane accident. Left heartbroken and gloomy, she isolates herself in a small house. But this soon comes to change when her grandfather requests the help of a humanoid robot named Q01.\n\nTaking on the appearance of Hal, Q01 is sent to Kurumi's house in order to save her from her state of despair. As Hal returns day after day and increases his efforts, Kurumi, despite her initial reluctance, slowly begins to open up to him and break free from her depression. But there is more to Hal than meets the eye, and these two will soon learn an unexpected truth about this relationship between a human and an android.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      8,
+      22,
+      24
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      858
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          49611
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 16528,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n16528-htgsyOO7MuPR.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Hal",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 120,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1CqxEZqHNAM6JF7mIr9iWala7O8WCwyEp/preview"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985852748"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/bk/mugen38/36/746.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4444107"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2720309"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/79tdfsri"
+        },
+        {
+          "fansub_id": 120,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-hxdxz7h9utq7.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-9kza36q1jqju.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1570235"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-eu32cdvy4ior.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T01:56:56.847557",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

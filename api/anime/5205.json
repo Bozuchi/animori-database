@@ -1,0 +1,119 @@
+{
+  "turkanime": {
+    "isim": "Kara no Kyoukai 7: Satsujin Kousatsu (Kou)",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "7 film olarak planlanan Kara no Kyoukai filmlerinin yedincisi ve sonuncusudur.",
+    "slug": "kara-no-kyoukai-7-satsujin-kousatsu-kou"
+  },
+  "jikan": {
+    "mal_id": 5205,
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/56619.jpg",
+    "trailer_id": "cgbjyA458m0",
+    "title": "Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go)",
+    "title_english": "The Garden of Sinners Chapter 7: A Study in Murder - Part 2",
+    "type": "Movie",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2009-08-08T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "2 hr 1 min",
+    "rating": "R+ - Mild Nudity",
+    "score": 8.36,
+    "popularity": 1295,
+    "synopsis": "In February 1999, a string of murders has Shiki Ryougi and Mikiya Kokutou on edge. These crimes share a disturbing resemblance to a similar set of homicides from 1995, when Shiki and Mikiya first met, and awaken a dark, murderous desire that has laid dormant within Shiki's soul ever since then.\n\nWith Shiki under suspicion due to her involvement in the past killings and supposed resemblance to the killer, she and Mikiya set out to find the true perpetrator. In the midst of their separate investigations, Mikiya grows increasingly concerned with Shiki's well-being and hurries to find the one responsible in order to protect Shiki from her own impulses. With the lead he receives from his cousin, police investigator Daisuke Akimi, Mikiya is led into the underbelly of Mifune City, as the salvation of Shiki's soul lies in his determination to prove her innocence once and for all.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      1,
+      10,
+      7,
+      22,
+      41
+    ],
+    "themes": [
+      82
+    ],
+    "demographics": [],
+    "studios": [
+      43
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          5204
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          6954
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          23947,
+          2062
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          23697
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 5205,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5205-Xfnek0viLdCj.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Kara no Kyoukai 7: Satsujin Kousatsu (Part 2)",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 47,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1SS80hxwgNgUZysEf2MDleumaWgMBQwEX/preview"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/doruk.n/12/122.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359658660"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2667830"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/9o84k3bk"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-rkfslr1je6b6.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T00:14:31.121859",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

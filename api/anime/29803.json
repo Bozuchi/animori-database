@@ -1,0 +1,2768 @@
+{
+  "turkanime": {
+    "isim": "Overlord",
+    "puan": "8.98",
+    "bolum_durumu": "13/13",
+    "ozet": "Hikayemiz popüler bir online oyun olan Yggdrasil’in bir gün kapatılması ile başlıyor, ama baş kahramanımız olan Momonga oyundan çıkış yapmamaya karar veriyor. Daha sonra Momonga ‘’ En Güçlü Büyücü’’ olan iskelet bir varlığa dönüşüyor. Dünya değişmeye devam eder ve oyun yapımı karakterler olan NPC’ler duygular hissetmeye başlar. Hiç bir ailesi, arkadaşı ya da toplumda bir yeri olmayan bu sıradan genç adam Momonga, bu yeni oyun dünyasını ele geçirmek için çabalamaya başlar.",
+    "slug": "overlord"
+  },
+  "jikan": {
+    "mal_id": 29803,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1945/136600.jpg",
+    "trailer_id": "3jE9moHQePI",
+    "title": "Overlord",
+    "title_english": "Overlord",
+    "type": "TV",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": 2015,
+    "season": "summer",
+    "airing": false,
+    "aired": {
+      "from": "2015-07-07T00:00:00+00:00",
+      "to": "2015-09-29T00:00:00+00:00"
+    },
+    "duration": "24 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.9,
+    "popularity": 69,
+    "synopsis": "The final hour of the popular virtual reality game Yggdrasil has come. However, Momonga, a powerful wizard and master of the dark guild Ainz Ooal Gown, decides to spend his last few moments in the game as the servers begin to shut down. To his surprise, despite the clock having struck midnight, Momonga is still fully conscious as his character and, moreover, the non-player characters appear to have developed personalities of their own!\n\nConfronted with this abnormal situation, Momonga commands his loyal servants to help him investigate and take control of this new world, with the hopes of figuring out what has caused this development and if there may be others in the same predicament.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      1,
+      2,
+      10
+    ],
+    "themes": [
+      62
+    ],
+    "demographics": [],
+    "studios": [
+      11
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          35073
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          81667,
+          169454,
+          81669
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entries": [
+          37264,
+          31138,
+          33372,
+          38693
+        ]
+      },
+      {
+        "relation": "Summary",
+        "entries": [
+          34161,
+          34428
+        ]
+      },
+      {
+        "relation": "Character",
+        "entries": [
+          38472,
+          39988,
+          41567,
+          61851
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          36683,
+          36497
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 20832,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20832-NswCiSYMoI2k.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Overlord 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/128"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3647488"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/2mfkizo9"
+        },
+        {
+          "fansub_id": 45,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-d6kvkhqltvmo.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599247"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-z2y2ymawatzu.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/511.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1929792"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987091"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-x28ov9ul17ag.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ixof9zk2uyn0.html"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/aysupload/video/embed/_myvideo/32"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/dhenis3116/video/embed/_myvideo/449"
+        },
+        {
+          "fansub_id": 133,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2968070"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-zdy4zzr9ubz1.html"
+        },
+        {
+          "fansub_id": 133,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/hyxyl9mm"
+        },
+        {
+          "fansub_id": 8,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987081"
+        },
+        {
+          "fansub_id": 8,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ie615v7q09fi.html"
+        },
+        {
+          "fansub_id": 8,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-3c8xc97qnr1y.html"
+        },
+        {
+          "fansub_id": 33,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Gu3uk_oHoE4WDGb85J7rZ0C4rq-E_EiA/preview"
+        },
+        {
+          "fansub_id": 33,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4337266"
+        },
+        {
+          "fansub_id": 33,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-1dpeuwfemab2.html"
+        },
+        {
+          "fansub_id": 33,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/bre4s05y"
+        },
+        {
+          "fansub_id": 33,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-rf84uomzpwts.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/mutlu.meric/_myvideo/973.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987100"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-pxuom398e7ab.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/eupj35lv"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-zjfrir1tru14.html"
+        },
+        {
+          "fansub_id": 10,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/fbjank7i"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/13As2CbtjnBL74H7gsgj2rBzdhqHWTQGr/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669166308"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1841420"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-k972lk4c10d7.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/fkxr2dvv"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-e4hbh531zlrl.html"
+        },
+        {
+          "fansub_id": 42,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1CBX49hcs6Q2jxruMQDFqRj8lAMhP_0it/preview"
+        },
+        {
+          "fansub_id": 42,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7725655522707244292"
+        },
+        {
+          "fansub_id": 42,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/05pgggpu7jus"
+        },
+        {
+          "fansub_id": 42,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/jgtdz8dmwixh"
+        },
+        {
+          "fansub_id": 42,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-2iwk5a461o8b.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 158.082,
+          "end": 248.082
+        },
+        "ed": {
+          "start": 1361.789,
+          "end": 1485
+        }
+      },
+      "added_date": "2026-07-29T00:53:39.594954",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Overlord 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/129"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3647495"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/6j8gtrqx"
+        },
+        {
+          "fansub_id": 45,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-iuo3skc4c728.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599248"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987109"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-rmig94cbfv7n.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-sqgneqgi76xo.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-yhyhncp69ki8.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/512.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987115"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-00pu4qq4pl91.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-5byq6t14e8t8.html"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/aysupload/video/embed/_myvideo/33"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/dhenis3116/video/embed/_myvideo/450"
+        },
+        {
+          "fansub_id": 133,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2968074"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-sbad1tfxc4qf.html"
+        },
+        {
+          "fansub_id": 133,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/h4ij9gye"
+        },
+        {
+          "fansub_id": 33,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1jBCF7O3gZBDQpYt-xiHnQBM3jl_qhCmo/preview"
+        },
+        {
+          "fansub_id": 33,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4337268"
+        },
+        {
+          "fansub_id": 33,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-kk5cpw48y5iv.html"
+        },
+        {
+          "fansub_id": 33,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/yvdqexiq"
+        },
+        {
+          "fansub_id": 33,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ygp6c0gokboo.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/hdfilmdizi/_myvideo/514.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987121"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-o6zx5xxql911.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/sp5tdlf5"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-s1lr95ndd7lq.html"
+        },
+        {
+          "fansub_id": 10,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987126"
+        },
+        {
+          "fansub_id": 10,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/u0nr19zj"
+        },
+        {
+          "fansub_id": 10,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-cuhj2q5i9bud.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1a8yuWMT6wV1FkahSGzoLlzOkIMB7g0AP/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669166309"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1850521"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-1sfxu5ldl738.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-iwvcknfj02l0.html"
+        },
+        {
+          "fansub_id": 42,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ow0FLn9sxBLNpbm9KS9V-B7n5bA4s-xO/preview"
+        },
+        {
+          "fansub_id": 42,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7725655522707244305"
+        },
+        {
+          "fansub_id": 42,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/2imkb64b1lfw"
+        },
+        {
+          "fansub_id": 42,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-0g290ska74sj.html"
+        },
+        {
+          "fansub_id": 42,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-y2b98p4lqtlp.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 143,
+          "end": 231
+        },
+        "ed": {
+          "start": 1362.792,
+          "end": 1452
+        }
+      },
+      "added_date": "2026-07-29T00:53:39.594954",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Overlord 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715527824"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3647499"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ah27pp85"
+        },
+        {
+          "fansub_id": 45,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-zczicafgczrg.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599249"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-rjg1xpghyxax.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/513.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987139"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1929797"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-usib6rr3c83a.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-6eejww74sw4x.html"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/aysupload/video/embed/_myvideo/34"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/dhenis3116/video/embed/_myvideo/451"
+        },
+        {
+          "fansub_id": 133,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2968075"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-qgfbm2qezf3g.html"
+        },
+        {
+          "fansub_id": 133,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/49gm880v"
+        },
+        {
+          "fansub_id": 8,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987133"
+        },
+        {
+          "fansub_id": 8,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-sazpq2x8ur98.html"
+        },
+        {
+          "fansub_id": 8,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-x15y5dve05jx.html"
+        },
+        {
+          "fansub_id": 33,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1dxBnaJuq0mkkHGILewHyMzoxtVMOC-qK/preview"
+        },
+        {
+          "fansub_id": 33,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4346887"
+        },
+        {
+          "fansub_id": 33,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-flaahiswds4y.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/mutlu.meric/29/999.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987143"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-rh93n9f59b9w.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/1fwik2ax"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-rul8olg36c8u.html"
+        },
+        {
+          "fansub_id": 10,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/uqk4wizr"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/19cE0mhPVliEwEMEJaeDhTbuvQkWiTV66/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669166310"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1851955"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2yk621o8j2fw.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-g6pl93mp8jna.html"
+        },
+        {
+          "fansub_id": 42,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Of0VXDRBvg0wK60mJmosFpt-b8J-tm_f/preview"
+        },
+        {
+          "fansub_id": 42,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7725655522707244306"
+        },
+        {
+          "fansub_id": 42,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/jk3yzsj6h6o6"
+        },
+        {
+          "fansub_id": 42,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-lrda0731pcav.html"
+        },
+        {
+          "fansub_id": 42,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-tlqkf3dqdjtx.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 137.708,
+          "end": 228.75
+        },
+        "ed": {
+          "start": 1363.667,
+          "end": 1453
+        }
+      },
+      "added_date": "2026-07-29T00:53:39.594954",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Overlord 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/131"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3647502"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/oznao4hm"
+        },
+        {
+          "fansub_id": 45,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ogb339p3ckn0.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599250"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987148"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-fzophwh3qlpl.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-yuhf0dnptn1p.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-2wnkhsotulk1.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/514.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987152"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-p6llhli96cvi.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-nhycinyrbqt0.html"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/aysupload/video/embed/_myvideo/35"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/dhenis3116/video/embed/_myvideo/452"
+        },
+        {
+          "fansub_id": 133,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2968078"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-7h7mwa7jgzdj.html"
+        },
+        {
+          "fansub_id": 133,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/a2jsfh1o"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/mutlu.meric/29/996.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987185"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-fj5xgqj1g14u.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/tvwkk9id"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-yps5j5kc3ru4.html"
+        },
+        {
+          "fansub_id": 10,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/ksklee555/video/embed/_myvideo/403"
+        },
+        {
+          "fansub_id": 10,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987175"
+        },
+        {
+          "fansub_id": 10,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-tiuc7sem6tn5.html"
+        },
+        {
+          "fansub_id": 10,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/sozs8t2k"
+        },
+        {
+          "fansub_id": 10,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-bha3rjtc8q6k.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/122KBSBhKpa6nQK5hrwyxZVYOSRf6var-/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669166311"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1862514"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-q656g6jgxk2p.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ieh136ox1hih.html"
+        },
+        {
+          "fansub_id": 42,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7725655522707244307"
+        },
+        {
+          "fansub_id": 42,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/6406yz374yzg"
+        },
+        {
+          "fansub_id": 42,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-wpph27ntl5x6.html"
+        },
+        {
+          "fansub_id": 42,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-a6qjl01ad94o.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 95.591,
+          "end": 185.591
+        },
+        "ed": {
+          "start": 1320.708,
+          "end": 1410.708
+        }
+      },
+      "added_date": "2026-07-29T00:53:39.594954",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Overlord 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/132"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3647508"
+        },
+        {
+          "fansub_id": 45,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-yrjt6733xiz3.html"
+        },
+        {
+          "fansub_id": 45,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-3x9fy6gcaq3g.html"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/qtdfc8qu"
+        },
+        {
+          "fansub_id": 45,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-n2nkggenhal4.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599251"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987197"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-o0tms8x8hy35.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-rvslaf66yoi2.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-lk4m4ejagdvz.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/515.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987206"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1929799"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xx7kyeho8te5.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-6amlzjzjqhqt.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/7548.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987253"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-jrnh4c3cgo17.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-luz78lsu1sam.html"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/aysupload/video/embed/_myvideo/36"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/dhenis3116/video/embed/_myvideo/453"
+        },
+        {
+          "fansub_id": 133,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2968081"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vsh4tnokqpbv.html"
+        },
+        {
+          "fansub_id": 133,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/gvd4finh"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1877349"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987240"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-h39u4zhewbte.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/6a6j4loc"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-to3hp3ls47di.html"
+        },
+        {
+          "fansub_id": 10,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/ksklee555/video/embed/_myvideo/404"
+        },
+        {
+          "fansub_id": 10,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987226"
+        },
+        {
+          "fansub_id": 10,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-31em4xh25kze.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1azrmoOJwAylaJA7o4ppjIp5HUWa1V_go/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669166312"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1877370"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-jvxignm3xs3x.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 214.981,
+          "end": 304.981
+        },
+        "ed": {
+          "start": 1333.351,
+          "end": 1423.351
+        }
+      },
+      "added_date": "2026-07-29T00:53:39.594954",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Overlord 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/133"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3647511"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/wo7vew38"
+        },
+        {
+          "fansub_id": 45,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-w5ju24phi5qi.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599252"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987268"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-a6f3p25py7fa.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-08i11dne40wn.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-r0kie98yki0x.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/516.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987278"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1929800"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-j13qim59dx8u.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-18tqvq5vaqby.html"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/dhenis3116/video/embed/_myvideo/454"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/aysupload/video/embed/_myvideo/37"
+        },
+        {
+          "fansub_id": 133,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2968089"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-dvbjoalbrevj.html"
+        },
+        {
+          "fansub_id": 133,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/okgfvnj6"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/nacres041/_myvideo/6.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-o8o5qftl7fhd.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/3t7gmy9t"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-qetg40i28717.html"
+        },
+        {
+          "fansub_id": 10,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/ksklee555/video/embed/_myvideo/405"
+        },
+        {
+          "fansub_id": 10,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987296"
+        },
+        {
+          "fansub_id": 10,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/404eo9dw"
+        },
+        {
+          "fansub_id": 10,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-d3nl5wq55bmk.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/15iLGZF0_b182ZqPxWkThlGA-2-tkl5KD/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669166313"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1879283"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-titeqbnyjkzf.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-wtaz7xu3ac6p.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/7579.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987306"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1877690"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-qrt7vigo5d6t.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ip41azi5flyt.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 159.359,
+          "end": 249.359
+        },
+        "ed": {
+          "start": 1353.304,
+          "end": 1443.304
+        }
+      },
+      "added_date": "2026-07-29T00:53:39.594954",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Overlord 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/134"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3647516"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/j2rir2ro"
+        },
+        {
+          "fansub_id": 45,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-7napmhv5exw1.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599253"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987317"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ukb2ekkyez9l.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-rup8tjlaatuq.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-dpdp8v89e2a0.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/517.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987324"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1929801"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-bn3ftk3eo6ij.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-gw04jkid70kz.html"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/dhenis3116/video/embed/_myvideo/455"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/aysupload/video/embed/_myvideo/38"
+        },
+        {
+          "fansub_id": 133,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2968091"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-b62g56rici84.html"
+        },
+        {
+          "fansub_id": 133,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/zrmilhxc"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/puzzlegintama/_myvideo/2.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987332"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2737257"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-7pn90qt4dxjt.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/vizz7m58"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/gfiltzg8"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-09o7bkz13sgm.html"
+        },
+        {
+          "fansub_id": 10,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/ksklee555/video/embed/_myvideo/406"
+        },
+        {
+          "fansub_id": 10,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987338"
+        },
+        {
+          "fansub_id": 10,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/73p5q3ps"
+        },
+        {
+          "fansub_id": 10,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-1ru6xfi5qj2t.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1aAmK5rUbfYHTAvAWxUwez-05W2Ezs1c9/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669166314"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1930544"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-slqf7ujkq0pe.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-0d87u5nozidx.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/7606.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1881709"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987349"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-yrvj47vcmx4b.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-dau3b3n89a5c.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 134.513,
+          "end": 224.513
+        },
+        "ed": {
+          "start": 1330.951,
+          "end": 1420.951
+        }
+      },
+      "added_date": "2026-07-29T00:53:39.594954",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Overlord 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/135"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3647543"
+        },
+        {
+          "fansub_id": 45,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-796kad9ozl3w.html"
+        },
+        {
+          "fansub_id": 45,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-tqm4ck8ckgk5.html"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/nrtev02q"
+        },
+        {
+          "fansub_id": 45,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-hfctcrr8vspx.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599254"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987361"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-45d4d0bu63fj.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-p6kez9u7tr7b.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-t2y4eixfk45s.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/518.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987372"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1929804"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-mehvvmozfl2k.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-mzldke702qzc.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/7638.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1886197"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/pqmf8vz3"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/aysupload/video/embed/_myvideo/39"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/dhenis3116/video/embed/_myvideo/456"
+        },
+        {
+          "fansub_id": 133,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2968094"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-9j745n0m34wo.html"
+        },
+        {
+          "fansub_id": 133,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/uf4bnc38"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/mutlu.meric/29/1014.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987390"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-i0jwndrx1su3.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/9bf4kyko"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-pnk0a07orrf3.html"
+        },
+        {
+          "fansub_id": 10,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/ksklee555/video/embed/_myvideo/407"
+        },
+        {
+          "fansub_id": 10,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987378"
+        },
+        {
+          "fansub_id": 10,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-bngldugwsool.html"
+        },
+        {
+          "fansub_id": 10,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/0uz9y5ak"
+        },
+        {
+          "fansub_id": 10,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-52loya54ebdn.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1P3qUje6c9CK7TmgXdAV-ZTdDr5Q7swRi/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669166315"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1930622"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-p4yb6pgnwsoa.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-oigv77ks0zmk.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 147.204,
+          "end": 237.204
+        },
+        "ed": {
+          "start": 1363.667,
+          "end": 1453
+        }
+      },
+      "added_date": "2026-07-29T00:53:39.594954",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Overlord 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715527830"
+        },
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/136"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3647523"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/mz6guidp"
+        },
+        {
+          "fansub_id": 45,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-25pfdufzanvm.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599255"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987394"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-0uotsoxguvdg.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-k1n97fbokvyh.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-yw4h9mmn9m1f.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/519.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987398"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1929805"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-i1ke51aj060r.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-f6vc0wq7ldnm.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/7781.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1890659"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/3qvv5y1q"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/aysupload/video/embed/_myvideo/40"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/dhenis3116/video/embed/_myvideo/457"
+        },
+        {
+          "fansub_id": 133,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2968095"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-blkjgzcom4if.html"
+        },
+        {
+          "fansub_id": 133,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/w77kss7r"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1912177"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987422"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-bmgcymxhqnj2.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-t4vqt5o3gva6.html"
+        },
+        {
+          "fansub_id": 10,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/ksklee555/video/embed/_myvideo/408"
+        },
+        {
+          "fansub_id": 10,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987408"
+        },
+        {
+          "fansub_id": 10,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/p6sbm276"
+        },
+        {
+          "fansub_id": 10,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-s9nfrmkzj6za.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/13LTAQ6Kx0RC04MmVCGnTc7_8sT02wLgD/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669166316"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1960055"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-fwko5vbndbw9.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-x9cvgb0q8e4g.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 95.225,
+          "end": 185.225
+        },
+        "ed": {
+          "start": 1276.794,
+          "end": 1366.794
+        }
+      },
+      "added_date": "2026-07-29T00:53:39.594954",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Overlord 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/137"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3647526"
+        },
+        {
+          "fansub_id": 45,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-7vw9zl95yvgb.html"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/jcbnbezt"
+        },
+        {
+          "fansub_id": 45,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-5hxpaptdc5vn.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599256"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987432"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-b65z74vbum1x.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-kvlclzna61pm.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-x0x8fsj40wsp.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/520.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1929806"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-po9omgvqkgmn.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-tfuetd82n123.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/7838.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987439"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-r9j06eif8dhz.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-szcmwk7jsoxm.html"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/aysupload/video/embed/_myvideo/41"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/dhenis3116/video/embed/_myvideo/458"
+        },
+        {
+          "fansub_id": 133,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2968101"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-qaa8hv1akx29.html"
+        },
+        {
+          "fansub_id": 133,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/vzt4vvtw"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987450"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-d8gcuwc5u8gz.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-nr3z8d0bfkhd.html"
+        },
+        {
+          "fansub_id": 10,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/ksklee555/video/embed/_myvideo/409"
+        },
+        {
+          "fansub_id": 10,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987443"
+        },
+        {
+          "fansub_id": 10,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/li1rtvk5"
+        },
+        {
+          "fansub_id": 10,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-x8cb6k6mch19.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1kSpUdeSUBJ16HWAZftBSBLQaHxgUD_BV/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669166317"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1960091"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-1xmpi1n2ql6h.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ihv3164fpaij.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 163.785,
+          "end": 253.785
+        },
+        "ed": {
+          "start": 1363.708,
+          "end": 1453
+        }
+      },
+      "added_date": "2026-07-29T00:53:39.594954",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Overlord 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/138"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3647531"
+        },
+        {
+          "fansub_id": 45,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-0k97q7yilh74.html"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/9bl8qn6g"
+        },
+        {
+          "fansub_id": 45,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-rsaqna1p75h8.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599257"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987456"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-whsh4qq639jz.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-kgfrjlfsaznc.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-sznc5cs0eow9.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/521.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987460"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1929808"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5uv455d85ktr.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ce4mvlng02xl.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/7870.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1900205"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/anqorp00"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/aysupload/video/embed/_myvideo/42"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/dhenis3116/video/embed/_myvideo/459"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-bsvf90jy8d0z.html"
+        },
+        {
+          "fansub_id": 133,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/s6ifsuyn"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/nacres041/_myvideo/26.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987465"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-51ion0q6hplr.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-j6uegb5zlqhc.html"
+        },
+        {
+          "fansub_id": 10,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/ksklee555/video/embed/_myvideo/410"
+        },
+        {
+          "fansub_id": 10,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987472"
+        },
+        {
+          "fansub_id": 10,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/g61rb63d"
+        },
+        {
+          "fansub_id": 10,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-eo3r3h4a48hs.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1QHdR2oULbqcGev8LqPuL5Bf09Kex0DiF/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669166318"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1968530"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-mack1847dlly.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-5sxnqorgwp92.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 41,
+          "end": 129
+        },
+        "ed": {
+          "start": 1363.708,
+          "end": 1453
+        }
+      },
+      "added_date": "2026-07-29T00:53:39.594954",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Overlord 12. Bölüm",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/139"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3647535"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/y8uvgdja"
+        },
+        {
+          "fansub_id": 45,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-7dpd167rrgcg.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599258"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987481"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-j45hlmrfw0wk.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-83masta6dd86.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-16vblubtcbrw.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/522.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1929809?utm_source=player&utm_medium="
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987489"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-iidzdh9nzpwq.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-u23lzigt3qpt.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/7930.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987495"
+        },
+        {
+          "fansub_id": 108,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-fssa581e7ct2.html"
+        },
+        {
+          "fansub_id": 108,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-1t1u9i7vcz6h.html"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/aysupload/video/embed/_myvideo/43"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/dhenis3116/video/embed/_myvideo/460"
+        },
+        {
+          "fansub_id": 133,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2968104"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-8mjn6scm9cyn.html"
+        },
+        {
+          "fansub_id": 133,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/275ph2e8"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/nacres041/_myvideo/29.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987503"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-s9qx3b4yub5n.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-11pwwkwj95cx.html"
+        },
+        {
+          "fansub_id": 10,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/ksklee555/video/embed/_myvideo/411"
+        },
+        {
+          "fansub_id": 10,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/58i494et"
+        },
+        {
+          "fansub_id": 10,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-tcsy89i5edat.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/157m7opgYKSpF2wAw_IfaYN6tGbQOaASz/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669166319"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1968564"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-92hll5dxiu5q.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-oz6tygo2t58p.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 68.519,
+          "end": 158.519
+        },
+        "ed": {
+          "start": 1361.3,
+          "end": 1451.3
+        }
+      },
+      "added_date": "2026-07-29T00:53:39.594954",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Overlord 13. Bölüm Final",
+      "episode_number": 13,
+      "videos": [
+        {
+          "fansub_id": 45,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/alperdemiroglu/video/embed/_myvideo/140"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3647540"
+        },
+        {
+          "fansub_id": 45,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/x2nbtt2p"
+        },
+        {
+          "fansub_id": 45,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-4znjz52onspo.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461599259"
+        },
+        {
+          "fansub_id": 101,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987516"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ypcmbwkuwoa5.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-225zpbwb12yx.html"
+        },
+        {
+          "fansub_id": 101,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-r4du2jy6xghm.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/618.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987520"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1945395"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-or4q1kcknz72.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-tgchfbkjzz92.html"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/aysupload/video/embed/_myvideo/44"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/dhenis3116/video/embed/_myvideo/461"
+        },
+        {
+          "fansub_id": 133,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2968106"
+        },
+        {
+          "fansub_id": 133,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-bjne5khwm3ca.html"
+        },
+        {
+          "fansub_id": 133,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/y9uaz8sz"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/nacres041/_myvideo/50.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987528"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-oyz6ddoertvo.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-6ces73gnvkcu.html"
+        },
+        {
+          "fansub_id": 10,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/ksklee555/video/embed/_myvideo/412"
+        },
+        {
+          "fansub_id": 10,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4987534"
+        },
+        {
+          "fansub_id": 10,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/e6fzp1ve"
+        },
+        {
+          "fansub_id": 10,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-bdb7buazukib.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1glsqf5TQR1qf-KgmLvaSIh9_bjvU25__/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5017021353669166320"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1968570"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-s1t17zaxrxfq.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-olq3ft2473hm.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1363.708,
+          "end": 1453
+        }
+      },
+      "added_date": "2026-07-29T00:53:39.594954",
+      "jikan_mal_id": 13,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

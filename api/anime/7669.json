@@ -1,0 +1,95 @@
+{
+  "turkanime": {
+    "isim": "\"Bungaku Shoujo\" Kyou no Oyatsu: Hatsukoi",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Bungaku Shoujo'nun 1 bölümlük OVA Serisidir.",
+    "slug": "bungaku-shoujo-kyou-no-oyatsu-hatsukoi"
+  },
+  "jikan": {
+    "mal_id": 7669,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1671/127574.jpg",
+    "trailer_id": null,
+    "title": "\"Bungaku Shoujo\" Kyou no Oyatsu: Hatsukoi",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2009-12-26T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "15 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.85,
+    "popularity": 5542,
+    "synopsis": "Short episode bundled with the limited edition release of \"Bungaku Shoujo\" Minarai no, Shoushin.",
+    "genres": [
+      4,
+      10
+    ],
+    "themes": [
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      10
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          11776,
+          36037,
+          10000
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          6408
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 7669,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Bungaku Shoujo: Kyou no Oyatsu - Hatsukoi",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 8,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1eGTokwN2bjnvEgK42c4zU2lx9yg85oYk/preview"
+        },
+        {
+          "fansub_id": 8,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933017480"
+        },
+        {
+          "fansub_id": 8,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2602347"
+        },
+        {
+          "fansub_id": 8,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-hhq5kd53u51m.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-17T05:13:50.431489",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

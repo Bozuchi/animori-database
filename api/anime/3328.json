@@ -1,0 +1,98 @@
+{
+  "turkanime": {
+    "isim": "School Days: Magical Heart Kokoro-chan",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "School Days serisine ait OVA bölümdür.",
+    "slug": "school-days-magical-heart-kokoro-chan"
+  },
+  "jikan": {
+    "mal_id": 3328,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1746/121860.jpg",
+    "trailer_id": null,
+    "title": "School Days: Magical Heart Kokoro-chan",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2008-03-26T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "24 min",
+    "rating": "R+ - Mild Nudity",
+    "score": 5.52,
+    "popularity": 3783,
+    "synopsis": "Originally an April's Fool in 2007, this one episode OVA is a spin-off of the School Days game by 0verflow, and shows Kokoro Katsura, the little sister of one of the main characters, from her other side. A mahou shoujo out to save the world, or something like that.\n\n(Source: AniDB)",
+    "genres": [
+      4,
+      9
+    ],
+    "themes": [
+      66,
+      20
+    ],
+    "demographics": [],
+    "studios": [
+      120
+    ],
+    "relations": [
+      {
+        "relation": "Spin-Off",
+        "entries": [
+          2476
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 3328,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3328-qwTlGId0YJfB.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "School Days OVA: Magical Heart Kokoro Chan",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1iH9w8cSbGby3M6MLPHtUOgCxoI2xOMDR/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4447960"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1300056"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-m6nexy7xv2r6.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/u9wfo22l"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/rztih1ux"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T06:56:00.820488",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

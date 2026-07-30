@@ -1,0 +1,153 @@
+{
+  "turkanime": {
+    "isim": "Chain Chronicle: Short Animation",
+    "puan": "0.00",
+    "bolum_durumu": "3/8",
+    "ozet": "Chain Chronicle mobil oyununun anime uyarlamasıdır. \nHikayeyi, ortamı ve karakterleri tanıtan 8 kısa bölümdür.\nBirleştirilerek 2 bölüm haline getirilmiştir.",
+    "slug": "chain-chronicle-short-animation"
+  },
+  "jikan": {
+    "mal_id": 25431,
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/67751.jpg",
+    "trailer_id": null,
+    "title": "Chain Chronicle: Short Animation",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Game",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2014-09-06T00:00:00+00:00",
+      "to": "2014-12-18T00:00:00+00:00"
+    },
+    "duration": "5 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.91,
+    "popularity": 6867,
+    "synopsis": "An anime adaptation of the game for mobile devices Chain Chronicle.\n\nFeatures eight short episodes that introduces the story, setting, and characters.",
+    "genres": [
+      1,
+      2,
+      10
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      1851
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          33728,
+          28833
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 20787,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Chain Chronicle: Short Animation 1-2-3-4. Bölüm",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1oYynM7R5iXj0SgVwMhrEGqzzESKn3Xlo/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847146"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4074209"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-do7zafp1bu9l.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xnfpmd6pxbok.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/w7cj5x2j"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ghz7mrqs"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-55i03pdan123.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T08:47:52.160101",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Chain Chronicle: Short Animation 5-6-7-8. Bölüm",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ziqKXTONNRNWft5Z2tO0a7YFu1skl1YZ/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933019426"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847147"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4074211"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-mzoe4ggzqjyy.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-fj9nc9xwdysk.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/icgi0wim"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T08:47:52.160101",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

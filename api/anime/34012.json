@@ -1,0 +1,915 @@
+{
+  "turkanime": {
+    "isim": "Isekai Shokudou",
+    "puan": "8.85",
+    "bolum_durumu": "12/12",
+    "ozet": "İş merkezinin yanındaki alışveriş mevkiinde, köpek tabelası olan bir binanın zemin katında, kapısında kedi işlemesi olan \"Youshoku no Nekoya\" isimli bir kafe bulunmaktadır. Elli yıldır açıktır ve çevre ofislerden çok sayıda çalışan burada takılır. Batı mutfağı restoranı olmasına rağmen menüsü çok zengindir. Yaşadığımız dünya insanının biricik ve tek kafesidir.\nBununla birlikte \"Nekoya\" adlı bir sırrı vardır. Kafe, her cumartesi gecesi özel müşterilerini ağırlamak için halka kapatılır. Kapı çaldığında bambaşka yerlerde doğmuş farklı ırklarda müşteriler ortaya çıkıp gizemli ve lezzetli yiyecekler isterler. Aslında kafe genel müşterilerine hep aynı yemekleri sunar. Ancak bu özel misafirler yemekleri her zamankinden daha egzotik bulmaktadırlar. Kafe, fevkalade hizmet vermeyi amaçladığı için \"Isekai Shokudou\" olarak anılır.",
+    "slug": "isekai-shokudou"
+  },
+  "jikan": {
+    "mal_id": 34012,
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/86666.jpg",
+    "trailer_id": "auIcebhIzMc",
+    "title": "Isekai Shokudou",
+    "title_english": "Restaurant to Another World",
+    "type": "TV",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": 2017,
+    "season": "summer",
+    "airing": false,
+    "aired": {
+      "from": "2017-07-04T00:00:00+00:00",
+      "to": "2017-09-19T00:00:00+00:00"
+    },
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.42,
+    "popularity": 969,
+    "synopsis": "Western Restaurant Nekoya is a popular eatery located on a street corner in a Tokyo shopping district. Serving both traditional Japanese fare as well as Western dishes, this eating establishment is popular among Tokyo's residents. But this seemingly ordinary restaurant is also popular with another type of clientele...\n\nWhile the restaurant is thought to be closed on Saturdays, the truth is that on this special day each week, its doors are instead opened to the inhabitants of other worlds. From dragons and elves to fairies and mages, this restaurant has no shortage of strange customers. Nevertheless, the enigmatic chef known only as \"Master\" will be waiting to serve up their favorite dishes with a kind smile and keep them coming back for many more Saturdays to come. \n\n[Written by MAL Rewrite]",
+    "genres": [
+      10,
+      47,
+      36
+    ],
+    "themes": [
+      62
+    ],
+    "demographics": [],
+    "studios": [
+      300
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          48804
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          102671,
+          137205,
+          86591
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 97617,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97617-yjsKEVRcjQWk.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Isekai Shokudou 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 275,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4899976"
+        },
+        {
+          "fansub_id": 275,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ytjxdd4rryhj.html"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2986044"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685361331"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/vk/262414138/video/embed/_myvideo/154"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2969488"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-9epda09fyu02.html"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/yandex.com/momokuri/video/embed/_myvideo/214"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4899982"
+        },
+        {
+          "fansub_id": 28,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-3qz6hx2l4yvj.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojin_a/video/embed/_myvideo/1369"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4899980"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3032626"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-z5f7lrdvsf12.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 70.184,
+          "end": 160.184
+        },
+        "ed": {
+          "start": 1325.239,
+          "end": 1415.239
+        }
+      },
+      "added_date": "2026-07-26T06:10:12.437359",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Isekai Shokudou 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 152,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4899986"
+        },
+        {
+          "fansub_id": 152,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-s7hsth5izo6c.html"
+        },
+        {
+          "fansub_id": 34,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/depsan/video/embed/_myvideo/10"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4899991"
+        },
+        {
+          "fansub_id": 34,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-9rvnraxyzs4g.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685361332"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/inci.dondurma/video/embed/_myvideo/2"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2977137"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-cm1ifmh6ep32.html"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/yandex.com/momokuri/video/embed/_myvideo/232"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4900002"
+        },
+        {
+          "fansub_id": 28,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ibb068r70mjm.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojin_a/video/embed/_myvideo/1370"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4899998"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3032627"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-s1vk1u3hi6x3.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 0.25,
+          "end": 90
+        },
+        "ed": {
+          "start": 1325.547,
+          "end": 1414.797
+        }
+      },
+      "added_date": "2026-07-26T06:10:12.437359",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Isekai Shokudou 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 152,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4900015"
+        },
+        {
+          "fansub_id": 152,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-9c11unjmu85a.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685361333"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/inci.dondurma/video/embed/_myvideo/9"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2985488"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-qpfsl7lyibid.html"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/yandex.com/momokuri/video/embed/_myvideo/243"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4900030"
+        },
+        {
+          "fansub_id": 28,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-t35d1oo5zmmj.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojin_a/video/embed/_myvideo/1371"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3032630"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4900025"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-gbrdiy8pv9j0.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 0,
+          "end": 89.419
+        },
+        "ed": {
+          "start": 1282.647,
+          "end": 1372.397
+        }
+      },
+      "added_date": "2026-07-26T06:10:12.437359",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Isekai Shokudou 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 152,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4900035"
+        },
+        {
+          "fansub_id": 152,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-3xm4kpqu09ui.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685361334"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/inci.dondurma/video/embed/_myvideo/13"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2993629"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-rkd45xeby24y.html"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/uragisisubs/video/embed/_myvideo/95"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4900040"
+        },
+        {
+          "fansub_id": 28,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-zrhm4qmd2rt2.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 0.25,
+          "end": 89.532
+        },
+        "ed": {
+          "start": 1325.442,
+          "end": 1414.942
+        }
+      },
+      "added_date": "2026-07-26T06:10:12.437359",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Isekai Shokudou 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 152,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4900044"
+        },
+        {
+          "fansub_id": 152,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-cm5erwzsjgwp.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685361335"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/inci.dondurma/video/embed/_myvideo/20"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3000953"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-dwca2vq6jeha.html"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/yandex.com/momokuri/video/embed/_myvideo/256"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4900048"
+        },
+        {
+          "fansub_id": 28,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-r7znbmligi45.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 0,
+          "end": 90.43
+        },
+        "ed": {
+          "start": 1325.246,
+          "end": 1414.996
+        }
+      },
+      "added_date": "2026-07-26T06:10:12.437359",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Isekai Shokudou 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 152,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4900051"
+        },
+        {
+          "fansub_id": 152,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-6cjzbh1sn8iw.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685361336"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/inci.dondurma/video/embed/_myvideo/48"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3039853"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-tlu4clqkgzpq.html"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/yandex.com/momokuri/video/embed/_myvideo/262"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4900055"
+        },
+        {
+          "fansub_id": 28,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-snw5237tng4o.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 284,
+          "end": 374
+        },
+        "ed": {
+          "start": 1324.511,
+          "end": 1415.438
+        }
+      },
+      "added_date": "2026-07-26T06:10:12.437359",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Isekai Shokudou 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 152,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4900059"
+        },
+        {
+          "fansub_id": 152,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-04dyk0885bqf.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685361337"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/inci.dondurma/video/embed/_myvideo/49"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3039905"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-mwjxpw3obyns.html"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/sweetparade2/video/embed/_myvideo/504"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3033216"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4900063"
+        },
+        {
+          "fansub_id": 28,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-7dsl3ugppuvd.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 28.291,
+          "end": 118.041
+        },
+        "ed": {
+          "start": 1325.689,
+          "end": 1414.939
+        }
+      },
+      "added_date": "2026-07-26T06:10:12.437359",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Isekai Shokudou 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685361338"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/inci.dondurma/video/embed/_myvideo/50"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3039931"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vyf636qm3veu.html"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/pennorie/video/embed/_myvideo/452"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3040471"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4900065"
+        },
+        {
+          "fansub_id": 28,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-3nyfj1r43qcl.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 0,
+          "end": 90.25
+        },
+        "ed": {
+          "start": 1291.93,
+          "end": 1382.013
+        }
+      },
+      "added_date": "2026-07-26T06:10:12.437359",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Isekai Shokudou 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 152,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4900070"
+        },
+        {
+          "fansub_id": 152,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-e09h1gdonmrs.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/vk/327365270/video/embed/_myvideo/47"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685361339"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-iiyjwcveoj31.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/zteq9tak"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/yandex.com/momokuri/video/embed/_myvideo/289"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4900073"
+        },
+        {
+          "fansub_id": 28,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-y9e8vwt9t3oi.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 0,
+          "end": 90.05
+        },
+        "ed": {
+          "start": 1325.168,
+          "end": 1415.157
+        }
+      },
+      "added_date": "2026-07-26T06:10:12.437359",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Isekai Shokudou 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 152,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4900079"
+        },
+        {
+          "fansub_id": 152,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-qkrgouxnvmaw.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/vk/327365270/video/embed/_myvideo/48"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685361340"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ffx1ri9r5qcw.html"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/uragisisubs/video/embed/_myvideo/136"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4900082"
+        },
+        {
+          "fansub_id": 28,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-qmdcxhi9ap1j.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 0,
+          "end": 90.058
+        },
+        "ed": {
+          "start": 1325.382,
+          "end": 1415.034
+        }
+      },
+      "added_date": "2026-07-26T06:10:12.437359",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Isekai Shokudou 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 152,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4900087"
+        },
+        {
+          "fansub_id": 152,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/3bi7bo5c"
+        },
+        {
+          "fansub_id": 152,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-63iia4v4e1rx.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685361341"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/vk/327365270/video/embed/_myvideo/49"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-lm1m5fwaqifk.html"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/yandex.com/momokuri/video/embed/_myvideo/306"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4900091"
+        },
+        {
+          "fansub_id": 28,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-9wox2idvbev7.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 225.89,
+          "end": 316.052
+        },
+        "ed": {
+          "start": 1325.277,
+          "end": 1415.027
+        }
+      },
+      "added_date": "2026-07-26T06:10:12.437359",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Isekai Shokudou 12. Bölüm Final",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 152,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1wAVcQzs2Z9NvyEzjgHuST4VQ2Xi1IOjf/preview"
+        },
+        {
+          "fansub_id": 152,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4527277"
+        },
+        {
+          "fansub_id": 152,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-e2u1ul51mm7e.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685361342"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-641bcbk5r1nr.html"
+        },
+        {
+          "fansub_id": 28,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/yandex.com/momokuri/video/embed/_myvideo/318"
+        },
+        {
+          "fansub_id": 28,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4900095"
+        },
+        {
+          "fansub_id": 28,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-2mvxt944ttja.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 82.878,
+          "end": 173.128
+        },
+        "ed": {
+          "start": 1302.221,
+          "end": 1391.221
+        }
+      },
+      "added_date": "2026-07-26T06:10:12.437359",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

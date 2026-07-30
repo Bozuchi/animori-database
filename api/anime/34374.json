@@ -1,0 +1,98 @@
+{
+  "turkanime": {
+    "isim": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 1 - Tomodachi",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "\"Yuuki Yuuna wa Yuusha de Aru\" serisinin iki yıl öncesinde gelişen olayları anlatan ve üç kısımdan oluşan film serisinin ilk filmidir.",
+    "slug": "yuuki-yuuna-wa-yuusha-de-aru-washio-sumi-no-shou-1-tomodachi"
+  },
+  "jikan": {
+    "mal_id": 34374,
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/86481.jpg",
+    "trailer_id": "64_b0hVbI3w",
+    "title": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 1 - Tomodachi",
+    "title_english": null,
+    "type": "Movie",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2017-03-18T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "48 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.6,
+    "popularity": 5998,
+    "synopsis": "The first movie in the Washio Sumi no Shou trilogy.",
+    "genres": [
+      8
+    ],
+    "themes": [
+      66
+    ],
+    "demographics": [],
+    "studios": [
+      418
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          34375
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          34284
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          34394
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 97858,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97858-ZzGSqTZ27NOx.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 153,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1D_nv5G4Hph5TJhmPN7tqnv_zTHJVEos_/preview"
+        },
+        {
+          "fansub_id": 153,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1shCbLSCXythBIYwDuI6MclHaUG6QxYQu/preview"
+        },
+        {
+          "fansub_id": 153,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/dmuratli/video/embed/_myvideo/707"
+        },
+        {
+          "fansub_id": 153,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-eacn4zvcs8x9.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T20:32:19.048475",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

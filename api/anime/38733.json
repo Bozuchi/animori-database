@@ -1,0 +1,100 @@
+{
+  "turkanime": {
+    "isim": "Hataraku Saibou: Kaze Shoukougun",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Hataroku Saibou animesinin özel bölümüdür.",
+    "slug": "hataraku-saibou-kaze-shoukougun"
+  },
+  "jikan": {
+    "mal_id": 38733,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1888/96676.jpg",
+    "trailer_id": null,
+    "title": "Hataraku Saibou: Kaze Shoukougun",
+    "title_english": "Cells at Work!: The Common Cold",
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2018-12-27T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.21,
+    "popularity": 3606,
+    "synopsis": "For the regular cells of the human body, life consists of countless repetitive tasks. They spend every day multiplying, leaving little time for other activities. But one day, this monotony is abruptly interrupted by a cell with an odd-looking hat. Tired of unending drudgery, another cell named Ippan Saibou decides to join this quirky stranger for a day of pranks, jokes, and mischief.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      4
+    ],
+    "themes": [
+      51,
+      56,
+      67
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      287
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          37141
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 105662,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n105662-nckOkQODboJB.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Hataraku Saibou: Kaze Shoukogun 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/16h3xI7Pd6dLgFHnlhIDGDnjuoqPRZhrd/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3518584"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4427439"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-buduvwgpgfpr.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/jjy6vyqj"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1315,
+          "end": 1406
+        }
+      },
+      "added_date": "2026-07-26T02:30:12.992844",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

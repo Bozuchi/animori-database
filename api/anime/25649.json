@@ -1,0 +1,942 @@
+{
+  "turkanime": {
+    "isim": "Junjou Romantica 3",
+    "puan": "9.02",
+    "bolum_durumu": "13/12+",
+    "ozet": "Junjou Romantica serisinin üçüncü sezonu.",
+    "slug": "junjou-romantica-3"
+  },
+  "jikan": {
+    "mal_id": 25649,
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/74170.jpg",
+    "trailer_id": "yDrkg7RO2bk",
+    "title": "Junjou Romantica 3",
+    "title_english": "Junjo Romantica 3",
+    "type": "TV",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": 2015,
+    "season": "summer",
+    "airing": false,
+    "aired": {
+      "from": "2015-07-09T00:00:00+00:00",
+      "to": "2015-09-24T00:00:00+00:00"
+    },
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.58,
+    "popularity": 2023,
+    "synopsis": "After living together for three years, Misaki Takahashi and Akihiko \"Usagi\" Usami's relationship has been progressing smoothly. However, all great relationships have problems, and theirs is just beginning. With a new rival on the horizon, Usagi worries about Misaki's feelings towards him. \n\nMeanwhile, Ryuuichirou Isaka has always loved to intrude on Misaki and Usagi's love life, but his own love life hasn't been all smooth sailing—Isaka and his secretary Kaoru Asahina have been dating for a few years; however, Asahina prefers to keep their professional and private lives separate, often leading to troubled waters between them.\n\nAs for Nowaki Kusama and Hiroki Kamijou, now that their careers are finally taking off, they hardly see each other anymore. With the time they spend together lessening, doubts and insecurities threaten to creep in between them. On the other hand, the 17-year age gap between Shinobu Takatsuki and You Miyagi has been a constant barrier in their relationship, but as they learn more about each other, their self-consciousness continues to fade.\n\nThe beloved couples of Junjou Romantica, Junjou Egoist, and Junjou Terrorist are back again, this time with a new addition: Junjou Mistake!\n\n[Written by MAL Rewrite]",
+    "genres": [
+      28,
+      4,
+      8
+    ],
+    "themes": [
+      50
+    ],
+    "demographics": [],
+    "studios": [
+      37
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          4814
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          765
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entries": [
+          13767
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 20796,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20796-znkTkdoe9a4z.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Junjou Romantica 3 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/49/478.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1922367"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4984668"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ro51p0tq6c2q.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-zubwh36kq2pp.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/266/7554.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3795560"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1870587"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-6npm15ilmomk.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-25cggidjxftn.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/4omwv8ey"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/dq9jwn69"
+        },
+        {
+          "fansub_id": 282,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4984674"
+        },
+        {
+          "fansub_id": 282,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-1e098okirbg4.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/hdfilmdizi/_myvideo/443.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4984677"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-uzyo89erf9ak.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-99n7sx1wvx9l.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T22:05:40.733722",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Junjou Romantica 3 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/49/479.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4984680"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1922370"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vu9scmgd4xb6.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-h4f6byxzrb7m.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/266/7555.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1870589"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3795597"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-8jmof0hgxne1.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-7yo3oitawpc7.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/wyyg69fj"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/qskwgurb"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/hdfilmdizi/_myvideo/449.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4984683"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-8ncowq4f1k38.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-afnyqcjscmzx.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T22:05:40.733722",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Junjou Romantica 3 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/49/480.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4984687"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1922374"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-91d2578hab97.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-zhgobd63fy3t.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/266/7556.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1870592"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3795635"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-0iz44n6pfwx2.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-0mqj3t3f01cx.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/j4oaqntu"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/zghcjt3s"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/hdfilmdizi/_myvideo/477.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4984690"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-0piq0ipu6lhi.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-lb8wus89xdwr.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T22:05:40.733722",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Junjou Romantica 3 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/266/7557.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1870594"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3795663"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-uynwdwzje8jv.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-go3ehud0aln8.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/lnqtdfwd"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ir145krb"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/hdfilmdizi/_myvideo/510.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4984698"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-99q70v1vptbr.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-mp47ywtx1yb7.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T22:05:40.733722",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Junjou Romantica 3 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/266/7558.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1870596"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3795693"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-kzxpf5kpeozh.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vfvhgb8c5jd4.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/dzzyx9ka"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/hgtxnam5"
+        },
+        {
+          "fansub_id": 26,
+          "player": "GDRIVE",
+          "url": "https://docs.google.com/file/d/0B5W0acE0stGGRk1EdkJrOWt3c00/preview"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/hdfilmdizi/_myvideo/524.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4984708"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-r0yqzg4tsgoy.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ra6gdixws1at.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T22:05:40.733722",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Junjou Romantica 3 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3795723"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-dpx2suebk4n9.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-p9lcvj0xwr7f.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/lvfju61z"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/7pv9a7o7"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/hdfilmdizi/_myvideo/543.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4984712"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-q8jqdyg5t6jf.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-u57dajys197x.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T22:05:40.733722",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Junjou Romantica 3 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3795750"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-4lciqsp8mmvr.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-hn6tekupr5lt.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/h8qyj5yg"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/1eu2u6y4"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/hdfilmdizi/_myvideo/554.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4984717"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-d29fldr2622o.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-qa4t5z1xx5br.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T22:05:40.733722",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Junjou Romantica 3 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3795777"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-9c6ojdgqd2tl.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-mximpkhgdpjn.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/bttfnnra"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/f7zqpkg4"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/hdfilmdizi/_myvideo/569.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4984721"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-fqsc0yeho8pz.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-3l6k3a2c7ktk.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T22:05:40.733722",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Junjou Romantica 3 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3795806"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-git023n7hmup.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-c418u56o31gm.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/xnw3uih8"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/gmr57sdd"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/hdfilmdizi/_myvideo/580.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4984730"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-703l0wtgocfs.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-5jvlnctdi590.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T22:05:40.733722",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Junjou Romantica 3 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3795843"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-oybpuu77rzfw.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-0fh9yorh7jbw.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/cqr3mexr"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/eh1zmem2"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/hdfilmdizi/_myvideo/595.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4984754"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-twxm11zpi99c.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-orrs33af98ld.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T22:05:40.733722",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Junjou Romantica 3 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1900633"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3795884"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3794946"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-m07iq1ql5vix.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-441ywqj33woj.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/jsctlzcf"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/mqgybtee"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/hdfilmdizi/_myvideo/619.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4984787"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-opw7g4iot4hp.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-c2fhwy7hxabi.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T22:05:40.733722",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Junjou Romantica 3 12. Bölüm Final",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/7931.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1915815"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3795914"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3794942"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-m1ceplksdzxw.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-rw8j6b45645z.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/y7n9ytwy"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/71lzwm0y"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4984794"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2nbucbklnmay.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-hhi5yzvyqaaz.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T22:05:40.733722",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Junjou Romantica 3 OVA",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3795931"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3794958"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ymc2ndfwf7i9.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-3k000cs447g6.html"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/3f3ktrl9"
+        },
+        {
+          "fansub_id": 52,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/r2e30vr8"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T22:05:40.733722",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

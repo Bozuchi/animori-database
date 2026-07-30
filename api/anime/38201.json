@@ -1,0 +1,114 @@
+{
+  "turkanime": {
+    "isim": "Osomatsu-san Movie",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Film, bir lise buluşmasında altızları konu alıyor. Şirket işleri ile \"düzgün\" yetişkin olmuş tüm eski sınıf arkadaşlarını görüyorlar. Altızlar bu işe surat asarak eve gidip uyuyana kadar içiyorlar. Ama uyandıklarında, bir olay onları bekliyor.",
+    "slug": "osomatsu-san-movie"
+  },
+  "jikan": {
+    "mal_id": 38201,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1492/113860.jpg",
+    "trailer_id": "tLANwQLLDTc",
+    "title": "Osomatsu-san Movie",
+    "title_english": "Mr. Osomatsu the Movie",
+    "type": "Movie",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2019-03-15T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 48 min",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.88,
+    "popularity": 5884,
+    "synopsis": "After an embarrassing high school class reunion with their successful classmates, who have \"proper\" jobs, relationships, and even children, the Matsuno sextuplets return home to sulk about their status as NEETs. They spend the night drinking away their sorrows, eventually falling unconscious, until they awaken in a strange world of memories, centered around one of the brothers' biggest high school regret.\n\nAs the sextuplets navigate this memory world, they encounter their embarrassing past selves from high school, as well as those of their friends. All the while, they try to uncover whose regret was great enough to trap them in this strange world, so that they can make their way back to reality. However, they're running out of time; this world of memories is unstable, and the sextuplets may lose their chance to make things right if they're too slow....",
+    "genres": [
+      4
+    ],
+    "themes": [
+      57,
+      20
+    ],
+    "demographics": [],
+    "studios": [
+      1
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          49119
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          35067
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          41052
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 104213,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Osomatsu-san Movie",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 100,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1DEeKMelAGspLfXVkfDegmgvOhXFteyj7/preview"
+        },
+        {
+          "fansub_id": 100,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359665003"
+        },
+        {
+          "fansub_id": 100,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682366821"
+        },
+        {
+          "fansub_id": 100,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4619436"
+        },
+        {
+          "fansub_id": 100,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4342031"
+        },
+        {
+          "fansub_id": 100,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/i6u7zgf7"
+        },
+        {
+          "fansub_id": 100,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-qfbibnknz8yb.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T00:29:19.826764",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

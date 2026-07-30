@@ -1,0 +1,142 @@
+{
+  "turkanime": {
+    "isim": "Schick x Evangelion",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Schick x Evangelion reklamları.",
+    "slug": "schick-x-evangelion"
+  },
+  "jikan": {
+    "mal_id": 31115,
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/74747.jpg",
+    "trailer_id": null,
+    "title": "Schick x Evangelion",
+    "title_english": null,
+    "type": "CM",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2015-05-11T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.32,
+    "popularity": 7238,
+    "synopsis": "Schick x Evangelion commercials.",
+    "genres": [
+      4
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      47
+    ],
+    "relations": [
+      {
+        "relation": "Character",
+        "entries": [
+          30
+        ]
+      }
+    ]
+  },
+  "anilist": null,
+  "episodes": [
+    {
+      "turkanime_title": "Schick x Evangelion 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1eXLD4VDnq4lMjoDen6XdGZmryLes_6zI/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/bk/swagnemite/_myvideo/315.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2800513"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2800514"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2800522"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T06:55:16.478925",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Schick x Evangelion 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/15uLNGPSai8jEWP1wByRAbI-wbXB3E6VA/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359658542"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/bk/swagnemite/_myvideo/316.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4454405"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2800524"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2800525"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2800541"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-uwq84tjhz09f.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/po04r339"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T06:55:16.478925",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

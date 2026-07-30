@@ -1,0 +1,112 @@
+{
+  "turkanime": {
+    "isim": "Haiyore! Nyaruko-san: Yasashii Teki no Shitome-kata",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Haiyore! Nyaruko-san serisine ait OVA bölümüdür.",
+    "slug": "haiyore-nyaruko-san-yasashii-teki-no-shitome-kata"
+  },
+  "jikan": {
+    "mal_id": 18713,
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/50123.jpg",
+    "trailer_id": null,
+    "title": "Haiyore! Nyaruko-san: Yasashii Teki no Shitome-kata",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2012-11-23T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "14 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.09,
+    "popularity": 4424,
+    "synopsis": "Adaptation of the short story written by Manta Aisora for the first issue of GA Bunko magazine.",
+    "genres": [
+      4,
+      24
+    ],
+    "themes": [
+      20
+    ],
+    "demographics": [],
+    "studios": [
+      27
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          11785
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 18713,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Haiyore! Nyaruko-san OVA",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 47,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1zJac21h4iRVdcbn9vSlNCBeX17uXgd58/preview"
+        },
+        {
+          "fansub_id": 47,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1MUwskyWMMdm0L2Gn1qi_OgV488DOlGOC/preview"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/2444636457931908146"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/1898/2396.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4521356"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1199829"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-a2e017em5zes.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vlf0fku06npk.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-9ncc2cghpsil.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T01:38:00.118619",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

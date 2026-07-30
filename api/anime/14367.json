@@ -1,0 +1,84 @@
+{
+  "turkanime": {
+    "isim": "Tenshi na Konamaiki Specials",
+    "puan": "0.00",
+    "bolum_durumu": "1/13",
+    "ozet": "Seriye ait 33'er saniyelik speciallerin tek bölüme toplanmış hâlidir.",
+    "slug": "tenshi-na-konamaiki-specials"
+  },
+  "jikan": {
+    "mal_id": 14367,
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/39411.jpg",
+    "trailer_id": null,
+    "title": "Tenshi na Konamaiki Specials",
+    "title_english": "Cheeky Angel DVD Specials",
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2002-08-21T00:00:00+00:00",
+      "to": "2003-08-21T00:00:00+00:00"
+    },
+    "duration": "33 sec per ep",
+    "rating": "G - All Ages",
+    "score": 5.95,
+    "popularity": 13927,
+    "synopsis": "Short DVD extras that feature Megu in various costumes and poses.",
+    "genres": [],
+    "themes": [],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      73
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          200
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 14367,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Tenshi na Konamaiki Specials",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 78,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1TmAIzKaM3lN6Lsy5Z8bOsKQGk7cYpQE0/preview"
+        },
+        {
+          "fansub_id": 78,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/797"
+        },
+        {
+          "fansub_id": 78,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-1419o256oc0w.html"
+        },
+        {
+          "fansub_id": 78,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-zz1gsm8xlrsq.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T16:06:50.148436",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

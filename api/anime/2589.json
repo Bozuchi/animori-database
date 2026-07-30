@@ -1,0 +1,101 @@
+{
+  "turkanime": {
+    "isim": "Black Cat (TV): Toozakaru Neko",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Black Cat animesinin OVA bölümüdür.",
+    "slug": "black-cat-tv-toozakaru-neko"
+  },
+  "jikan": {
+    "mal_id": 2589,
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/22527.jpg",
+    "trailer_id": null,
+    "title": "Black Cat: Toozakaru Neko",
+    "title_english": "Black Cat Special",
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2006-07-26T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "24 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.06,
+    "popularity": 5281,
+    "synopsis": "Black Cat DVD only episode.",
+    "genres": [
+      1,
+      2,
+      4,
+      24
+    ],
+    "themes": [
+      31
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      3
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          68
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 2589,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Black Cat (TV): Toozakaru Neko OVA",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 4,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/136k3l7Vyjj_bE3mBS2pqjby5q0AbcK_O/preview"
+        },
+        {
+          "fansub_id": 4,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140715660"
+        },
+        {
+          "fansub_id": 4,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715528028"
+        },
+        {
+          "fansub_id": 4,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4464847"
+        },
+        {
+          "fansub_id": 4,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-7j0fm3ecv2xx.html"
+        },
+        {
+          "fansub_id": 4,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/repzmobx"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T04:59:37.622894",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

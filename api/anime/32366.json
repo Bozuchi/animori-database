@@ -1,0 +1,131 @@
+{
+  "turkanime": {
+    "isim": "Gintama°: Aizome Kaori-hen",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "-Güncellenecek-",
+    "slug": "gintama-aizome-kaori-hen"
+  },
+  "jikan": {
+    "mal_id": 32366,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1962/133573.jpg",
+    "trailer_id": null,
+    "title": "Gintama°: Aizome Kaori-hen",
+    "title_english": "Gintama: Love Incense Arc",
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2016-08-04T00:00:00+00:00",
+      "to": "2016-11-04T00:00:00+00:00"
+    },
+    "duration": "25 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.37,
+    "popularity": 2532,
+    "synopsis": "The red-light district, Yoshiwara, is suddenly taken over by \"Aizen Kou,\" an incense that has the ability to make anyone fall in love with the first person they see. Having been outlawed for its strong potency, the love drug was thought to have disappeared from the red-light district for good; however, it seems to have found its way back inside Yoshiwara's walls and now has the entire district under its influence.\n\nOf those affected is the cold-hearted Hyakka captain, Tsukuyo, and the first person she sees after inhaling the smoke is none other than the brazen Yorozuya leader, Gintoki Sakata. Unbeknownst to everyone else though, she was already attracted to Gintoki. With those hidden feelings now intensified, Tsukuyo must overcome her afflictions and work with the Yorozuya to return everyone back to normal. \n\n[Written by MAL Rewrite]",
+    "genres": [
+      4
+    ],
+    "themes": [
+      57,
+      20
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      1258
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          44
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          28977
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 21588,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Gintama°: Aizome Kaori-hen OVA 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 26,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ozSEaMl8xZxq9KwsuSZ8uNtvnNV3s2Dd/preview"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/puzzlef2016/_myvideo/18.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2671474"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/3u8xcjvg"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-4exfq4c6jd8g.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T23:52:59.739994",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Gintama°: Aizome Kaori-hen OVA 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 26,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1XcNrxxDPcsbVztrB55rVEDwKVNKFmd30/preview"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/yunusemresuser/_myvideo/265.html"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/d13bb2li"
+        },
+        {
+          "fansub_id": 26,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-7ynqekek214n.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-25T23:52:59.739994",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

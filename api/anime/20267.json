@@ -1,0 +1,578 @@
+{
+  "turkanime": {
+    "isim": "Wooser no Sono Higurashi: Kakusei-hen",
+    "puan": "0.00",
+    "bolum_durumu": "12/12",
+    "ozet": "Wooser no Sono Higurashi serisinin 2. sezonudur.",
+    "slug": "wooser-no-sono-higurashi-kakusei-hen"
+  },
+  "jikan": {
+    "mal_id": 20267,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1347/102594.jpg",
+    "trailer_id": null,
+    "title": "Wooser no Sono Higurashi: Kakusei-hen",
+    "title_english": "Wooser's Hand-to-Mouth Life: Awakening Arc",
+    "type": "TV",
+    "source": "Web manga",
+    "status": "Finished Airing",
+    "year": 2014,
+    "season": "winter",
+    "airing": false,
+    "aired": {
+      "from": "2014-01-08T00:00:00+00:00",
+      "to": "2014-03-26T00:00:00+00:00"
+    },
+    "duration": "4 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.54,
+    "popularity": 8394,
+    "synopsis": "Second season of Wooser no Sono Higurashi.",
+    "genres": [
+      4,
+      10
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      537,
+      839
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          16738
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          29017
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 20267,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Wooser no Sono Higurashi Kakusei-hen 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 120,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359667221"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4657619"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4078962"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1798501"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-hp6lygqf34ph.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-3enmb08ulutk.html"
+        },
+        {
+          "fansub_id": 57,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/1898/4714.html"
+        },
+        {
+          "fansub_id": 57,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/1898/4954.html"
+        },
+        {
+          "fansub_id": 57,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4078978"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T16:31:00.412844",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Wooser no Sono Higurashi Kakusei-hen 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 120,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359667222"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4657620"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1838923"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4078963"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-hwe2r4kh25rm.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-h2z87b6zbpu7.html"
+        },
+        {
+          "fansub_id": 57,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/1898/4955.html"
+        },
+        {
+          "fansub_id": 57,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4078979"
+        },
+        {
+          "fansub_id": 57,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-8so319i0ke67.html"
+        },
+        {
+          "fansub_id": 57,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-49u7q07ws41d.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T16:31:00.412844",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Wooser no Sono Higurashi Kakusei-hen 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 120,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359667223"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4657621"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1838924"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4078964"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-zdirma6b7lom.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-5pjbwc6phwql.html"
+        },
+        {
+          "fansub_id": 57,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/1898/4956.html"
+        },
+        {
+          "fansub_id": 57,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4078980"
+        },
+        {
+          "fansub_id": 57,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-nkkl2z42z6jb.html"
+        },
+        {
+          "fansub_id": 57,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-xqo83gj3ka5h.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T16:31:00.412844",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Wooser no Sono Higurashi Kakusei-hen 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1838926"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4078965"
+        },
+        {
+          "fansub_id": 57,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/1898/4957.html"
+        },
+        {
+          "fansub_id": 57,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4078982"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T16:31:00.412844",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Wooser no Sono Higurashi Kakusei-hen 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 120,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359667373"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4078966"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1838934"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4661882"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vl425px1fbj2.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-yypweq9c57fk.html"
+        },
+        {
+          "fansub_id": 57,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/1898/4958.html"
+        },
+        {
+          "fansub_id": 57,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4078984"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T16:31:00.412844",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Wooser no Sono Higurashi Kakusei-hen 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4078967"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1838936"
+        },
+        {
+          "fansub_id": 57,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/1898/4987.html"
+        },
+        {
+          "fansub_id": 57,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4078985"
+        },
+        {
+          "fansub_id": 57,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1456738"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T16:31:00.412844",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Wooser no Sono Higurashi Kakusei-hen 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 120,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1sWhVOJFYqeJM2yWEVRgPGz_gq3mV9-pX/preview"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359666499"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4078968"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1838937"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-mbdjoateto19.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-zdlm5c68k3ud.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T16:31:00.412844",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Wooser no Sono Higurashi Kakusei-hen 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 120,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1fa49r9ONwf2S9yG2n7P30LBdtnPCWaPe/preview"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359666500"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4078969"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1838939"
+        },
+        {
+          "fansub_id": 120,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-hyyrn9w9y4cy.html"
+        },
+        {
+          "fansub_id": 120,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-xvj9wzn0wrue.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T16:31:00.412844",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Wooser no Sono Higurashi Kakusei-hen 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4078970"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1838941"
+        },
+        {
+          "fansub_id": 57,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz844/_myvideo/177.html"
+        },
+        {
+          "fansub_id": 57,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4078986"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T16:31:00.412844",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Wooser no Sono Higurashi Kakusei-hen 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4078971"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1838945"
+        },
+        {
+          "fansub_id": 57,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/5219.html"
+        },
+        {
+          "fansub_id": 57,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4078987"
+        },
+        {
+          "fansub_id": 57,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1489673"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T16:31:00.412844",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Wooser no Sono Higurashi Kakusei-hen 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4078972"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1838946"
+        },
+        {
+          "fansub_id": 57,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/5235.html"
+        },
+        {
+          "fansub_id": 57,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1489883"
+        },
+        {
+          "fansub_id": 57,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4078988"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T16:31:00.412844",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Wooser no Sono Higurashi Kakusei-hen 12. Bölüm Final",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1838949"
+        },
+        {
+          "fansub_id": 120,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4078973"
+        },
+        {
+          "fansub_id": 57,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/5236.html"
+        },
+        {
+          "fansub_id": 57,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1489885"
+        },
+        {
+          "fansub_id": 57,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4078990"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T16:31:00.412844",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

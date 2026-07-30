@@ -1,0 +1,162 @@
+{
+  "turkanime": {
+    "isim": "Ichigo Mashimaro OVA",
+    "puan": "0.00",
+    "bolum_durumu": "3/3",
+    "ozet": "Ichigo Mashimaro serisine ait OVA bölümlerdir.",
+    "slug": "ichigo-mashimaro-ova"
+  },
+  "jikan": {
+    "mal_id": 1888,
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/4325.jpg",
+    "trailer_id": null,
+    "title": "Ichigo Mashimaro OVA",
+    "title_english": "Strawberry Marshmallow OVA",
+    "type": "OVA",
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2007-02-23T00:00:00+00:00",
+      "to": "2007-04-25T00:00:00+00:00"
+    },
+    "duration": "25 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.65,
+    "popularity": 4639,
+    "synopsis": "Based on Barasui's manga series, Ichigo Mashimaro follows the life of Nobue Itou, her younger sister Chika, and her friends. The basic premise of the show can be summed up in \"cute girls do cute things in cute ways\", be it trying to quit smoking, going outside to play, celebrating a holiday, or doing school work. This OVA picks up where the series left off, continuing the adventures of your everyday life, only cuter. \n\n(Source: AniDB)",
+    "genres": [
+      36
+    ],
+    "themes": [
+      52,
+      63,
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      39
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          488
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          4811
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          371
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 1888,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1888-xX0n1atmBEVp.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Ichigo Mashimaro OVA 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 2,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1hqJWMAJMKsgoEQTuW6ytRhL2SbAy4m82/preview"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933015922"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1986050"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ttwvxmipjill.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T04:58:54.092779",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Ichigo Mashimaro OVA 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 2,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1pjW9Y8MtlEW9woCzlfYSgBXuB90Fd3aH/preview"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933015923"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1986053"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-rcx7355nu132.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T04:58:54.092779",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Ichigo Mashimaro OVA 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 2,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1bUc-PUES68GaKqmA3VnwaGdVMBp6tsMe/preview"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933015924"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1986057"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-9wai5w8tonak.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T04:58:54.092779",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

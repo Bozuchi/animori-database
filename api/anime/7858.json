@@ -1,0 +1,103 @@
+{
+  "turkanime": {
+    "isim": "Sora no Otoshimono: Project Pink",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Sora no Otoshimono serisine ait OVA bölümdür.",
+    "slug": "sora-no-otoshimono-project-pink"
+  },
+  "jikan": {
+    "mal_id": 7858,
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/19135.jpg",
+    "trailer_id": null,
+    "title": "Sora no Otoshimono: Project Pink",
+    "title_english": "Heaven's Lost Property OVA",
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2010-09-09T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.34,
+    "popularity": 2198,
+    "synopsis": "The gang goes to an indoor swimming pool for some fun in the sun.  As expected, all hell breaks loose when Tomoki goes on one of his perverted missions.\n\nMeanwhile, Nymph is having some issues with the loss of her master and considers asking Tomoki to be her replacement master.\n\nThis episode was not aired on TV because it was deemed too dangerous...",
+    "genres": [
+      4,
+      24,
+      37,
+      9
+    ],
+    "themes": [
+      35
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      88
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          5958
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          8407
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          8144
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 7858,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/7858-4uhiYXL9ZlOq.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Sora no Otoshimono OVA: Project Pink",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1uRan4yDPHcTyc_OLrrzhoW71DoovPUcw/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/list/schneizel/video/embed/_myvideo/53"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933015399"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3431572"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T11:27:59.818809",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

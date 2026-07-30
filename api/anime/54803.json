@@ -1,0 +1,99 @@
+{
+  "turkanime": {
+    "isim": "Captain Tsubasa Season 2: Junior Youth-hen",
+    "puan": "0.00",
+    "bolum_durumu": "1/39",
+    "ozet": "Captain Tsubasa'nın (2018) ikinci sezonudur.",
+    "slug": "captain-tsubasa-season-2-junior-youth-hen"
+  },
+  "jikan": {
+    "mal_id": 54803,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1716/137279.jpg",
+    "trailer_id": "d41ni2IAPiE",
+    "title": "Captain Tsubasa Season 2: Junior Youth-hen",
+    "title_english": "Captain Tsubasa: Junior Youth Arc",
+    "type": "TV",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": 2023,
+    "season": "fall",
+    "airing": false,
+    "aired": {
+      "from": "2023-10-01T00:00:00+00:00",
+      "to": "2024-06-30T00:00:00+00:00"
+    },
+    "duration": "22 min per ep",
+    "rating": "G - All Ages",
+    "score": 7.49,
+    "popularity": 5829,
+    "synopsis": "The International Junior Youth Tournament in Paris, France, is about to begin, and Tsubasa, Misaki, Wakabayashi, Hyuga, and Wakashimazu are ready. Japan’s team of elite players is to face off against the best the soccer world has to offer. Germany’s Schneider, France’s Pierre, Argentina’s Diaz, and Italy’s Hernandez await, along with a host of other new rivals. Let the battle begin!\n\n(Source: VIZ Media)",
+    "genres": [
+      30
+    ],
+    "themes": [
+      77
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      1997
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          36934
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          1789
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          2117
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 163024,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163024-rFtOWsDQy12B.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Captain Tsubasa Season 2: Junior Youth-hen 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 100,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7801974450152276151"
+        },
+        {
+          "fansub_id": 100,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/cp3kd247hta5"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 1421.115,
+          "end": 1430
+        },
+        "ed": {
+          "start": 1336.598,
+          "end": 1426.598
+        }
+      },
+      "added_date": "2026-07-23T07:49:49.674280",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

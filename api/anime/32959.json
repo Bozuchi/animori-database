@@ -1,0 +1,155 @@
+{
+  "turkanime": {
+    "isim": "Mirai no Watashi",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "McDonald's'ın yeni part-time çalışan almak için yaptığı \"Crew ni Narou.(Bize Katılın) Kampanyası\" reklamı.",
+    "slug": "mirai-no-watashi"
+  },
+  "jikan": {
+    "mal_id": 32959,
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/79144.jpg",
+    "trailer_id": null,
+    "title": "Mirai no Watashi",
+    "title_english": null,
+    "type": "CM",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2016-03-15T00:00:00+00:00",
+      "to": "2017-04-27T00:00:00+00:00"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.27,
+    "popularity": 9765,
+    "synopsis": "The shorts are part of McDonald's new \"Crew ni Narou. Campaign\" (Join the Crew. Campaign) to attract part-time restaraunt staff members.\n\n(Source: ANN)",
+    "genres": [
+      36
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      1033
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entries": [
+          40799
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 98089,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Mirai no Watashi 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1u-yPSHznHe8uimrYlg6p6mWlZJ22iOos/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed//mail/eren.puzzle/_myvideo/233.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2816671"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2816672"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4499490"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-d0zfhgk31sco.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/dx6p01q7"
+        },
+        {
+          "fansub_id": 22,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-kzbdjxmowwx2.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T12:15:22.261310",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Mirai no Watashi 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1q7zVqsWxO8pCubCcM8rDrOp3ZePcBICW/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1CdabH6ngZWPB2cHEOT9y8JOU57bNhriQ/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1IWxctI38oiT4x4YWhOmqYjGFezRSr-o5/preview"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/szerzno/video/embed/_myvideo/217"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4292877"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4499498"
+        },
+        {
+          "fansub_id": 22,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-529a163zhu93.html"
+        },
+        {
+          "fansub_id": 22,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/keza1851"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T12:15:22.261310",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

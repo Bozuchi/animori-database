@@ -1,0 +1,100 @@
+{
+  "turkanime": {
+    "isim": "Karakai Jouzu no Takagi-san Movie",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Takagi ve Nishikata'nın ortaokuldaki son yaz tatilleri başlamadan, sahipsiz bir kedi yavrusu görür. İkisi birlikte bu sahipsiz kedi yavrusunun annesini bulana kadar bakmaya karar verir.",
+    "slug": "karakai-jouzu-no-takagi-san-movie"
+  },
+  "jikan": {
+    "mal_id": 49722,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1376/123398.jpg",
+    "trailer_id": "PesTvkh1nh4",
+    "title": "Karakai Jouzu no Takagi-san Movie",
+    "title_english": "Teasing Master Takagi-san: The Movie",
+    "type": "Movie",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2022-06-10T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 13 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.4,
+    "popularity": 2460,
+    "synopsis": "Takagi and Nishikata's final summer in junior high is about to begin, and it's already off to a heartwarming start! When the pair find an abandoned kitten, they decide to work together and take care of their adorable new companion until they can locate its missing mother.\n\n(Source: Sentai Filmworks)",
+    "genres": [
+      22
+    ],
+    "themes": [
+      74,
+      23
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      247
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          49721
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          78537
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 138425,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/138425-v3xOYaw4MbXT.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Karakai Jouzu no Takagi-san Movie",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461601681"
+        },
+        {
+          "fansub_id": 12,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4998517"
+        },
+        {
+          "fansub_id": 12,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/o2g8n1f5ojj7"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-17ylhumtjy1x.html"
+        },
+        {
+          "fansub_id": 12,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-qumdzwzaqh4y.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T00:18:41.406708",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "turkanime": {
+    "isim": "CLAMP in Wonderland",
+    "puan": "0.00",
+    "bolum_durumu": "2/1+",
+    "ozet": "LAMP'ın en popüler anime ve manga karakterlerinden oluşan kısa bir videodur. Videoya eşlik eden parça Harikalar Diyarı'nı hayal gücü, büyü ve rüyalarla doldurmuştur",
+    "slug": "clamp-in-wonderland"
+  },
+  "jikan": {
+    "mal_id": 2274,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1449/112563.jpg",
+    "trailer_id": null,
+    "title": "CLAMP in Wonderland",
+    "title_english": null,
+    "type": "Music",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1994-11-21T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "7 min",
+    "rating": "G - All Ages",
+    "score": 6.85,
+    "popularity": 5632,
+    "synopsis": "A short video set to music featuring many of CLAMP's most popular anime and manga characters (at the time of its production). The accompanying song tells of a Wonderland filled with imagination, magic, and dreams.\n\n(Source: ANN)",
+    "genres": [],
+    "themes": [
+      19
+    ],
+    "demographics": [],
+    "studios": [
+      155
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          2768
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 2274,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "CLAMP in Wonderland 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1D6jgRtZkloXBFwBPuHe4BrhfWkxNgWu4/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359657774"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271188012"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/5686.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4451950"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1525244"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-6k36fzyr80yd.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/p79pdqad"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-o0ixtt2fxjdv.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T16:06:40.712038",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "CLAMP in Wonderland 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271188013"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/5687.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1525245"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4533088"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-u8864cropz1a.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-towwrti67srs.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T16:06:40.712038",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

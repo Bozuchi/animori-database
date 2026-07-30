@@ -1,0 +1,632 @@
+{
+  "turkanime": {
+    "isim": "Softenni",
+    "puan": "0.00",
+    "bolum_durumu": "12/12",
+    "ozet": "Bu tenis komedisi, ortaokullu kız soft tenis takımı oyuncularının hayatını anlatırken, kızların ulusallara katılmayı amaçlamasını da konu alıyor.​",
+    "slug": "softenni"
+  },
+  "jikan": {
+    "mal_id": 10109,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1736/153365.jpg",
+    "trailer_id": "OjJpZexoicU",
+    "title": "Softenni",
+    "title_english": "Softenni! the Animation",
+    "type": "TV",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": 2011,
+    "season": "spring",
+    "airing": false,
+    "aired": {
+      "from": "2011-04-08T00:00:00+00:00",
+      "to": "2011-06-24T00:00:00+00:00"
+    },
+    "duration": "24 min per ep",
+    "rating": "R+ - Mild Nudity",
+    "score": 6.49,
+    "popularity": 4978,
+    "synopsis": "The tennis comedy centers around the members of a female middle school soft tennis team and the twists and turns that their lives take as they aim for the nationals.\n\n(Source: MU)",
+    "genres": [
+      4,
+      30,
+      9
+    ],
+    "themes": [
+      23
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      27
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          17989
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entries": [
+          10796
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 10109,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10109-pfgyWrBkaJVH.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Softenni 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 153,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1JM-vJPPuxZ6q2a9zen7OsK0WDFZkUnBM/preview"
+        },
+        {
+          "fansub_id": 153,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1L_3vgnbme4HGAkb9knjgIn7RgYVymR74/preview"
+        },
+        {
+          "fansub_id": 153,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/softenakatsuki/video/embed/_myvideo/2"
+        },
+        {
+          "fansub_id": 153,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140719571"
+        },
+        {
+          "fansub_id": 153,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3431615"
+        },
+        {
+          "fansub_id": 153,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4486476"
+        },
+        {
+          "fansub_id": 153,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/mxc86zvr"
+        },
+        {
+          "fansub_id": 153,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-vxcngul6v1ok.html"
+        },
+        {
+          "fansub_id": 39,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1333"
+        },
+        {
+          "fansub_id": 39,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3977753"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T11:13:52.131762",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Softenni 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 153,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1B8mi7WjAviDbc9MFzxAfCQijQHxwSWXI/preview"
+        },
+        {
+          "fansub_id": 153,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1AZFvk2VC_S_JQNC1fhxb6hYiOwSOKqXY/preview"
+        },
+        {
+          "fansub_id": 153,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/softenakatsuki/video/embed/_myvideo/1"
+        },
+        {
+          "fansub_id": 153,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4622649"
+        },
+        {
+          "fansub_id": 153,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3432623"
+        },
+        {
+          "fansub_id": 153,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-24g8n2ikz4zt.html"
+        },
+        {
+          "fansub_id": 39,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1334"
+        },
+        {
+          "fansub_id": 39,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3977755"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T11:13:52.131762",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Softenni 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 153,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1cycE07648PuTPX5XfIijorNiOsXcsbYU/preview"
+        },
+        {
+          "fansub_id": 153,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1MZeZNwLdzNVDf1JR4t11X75VHJWL-2rh/preview"
+        },
+        {
+          "fansub_id": 153,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140719574"
+        },
+        {
+          "fansub_id": 153,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/softenakatsuki/video/embed/_myvideo/3"
+        },
+        {
+          "fansub_id": 153,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4486481"
+        },
+        {
+          "fansub_id": 153,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3433093"
+        },
+        {
+          "fansub_id": 153,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/0nkt1u9a"
+        },
+        {
+          "fansub_id": 153,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-0pz1qgawuq43.html"
+        },
+        {
+          "fansub_id": 39,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1335"
+        },
+        {
+          "fansub_id": 39,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3977757"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T11:13:52.131762",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Softenni 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 153,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1KxczaOp16V6rW8_t6sqRNTqYdv3pg_ZF/preview"
+        },
+        {
+          "fansub_id": 153,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1bkhhYCLgTxGmYub2Zhud148s_DLG2WZq/preview"
+        },
+        {
+          "fansub_id": 153,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/softenakatsuki/video/embed/_myvideo/6"
+        },
+        {
+          "fansub_id": 153,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4622656"
+        },
+        {
+          "fansub_id": 153,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3433825"
+        },
+        {
+          "fansub_id": 153,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-awrbd38xppzy.html"
+        },
+        {
+          "fansub_id": 39,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1336"
+        },
+        {
+          "fansub_id": 39,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3977760"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T11:13:52.131762",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Softenni 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 153,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Tzz1w_kMUJk7zbE8-MccUP0JO1h_chEB/preview"
+        },
+        {
+          "fansub_id": 153,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ZaRd8jz2LViWTeS98_JWXRfV8e66oLef/preview"
+        },
+        {
+          "fansub_id": 153,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/softenakatsuki/video/embed/_myvideo/9"
+        },
+        {
+          "fansub_id": 153,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4622665"
+        },
+        {
+          "fansub_id": 153,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3435684"
+        },
+        {
+          "fansub_id": 153,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-v7e5fpeihckp.html"
+        },
+        {
+          "fansub_id": 39,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1337"
+        },
+        {
+          "fansub_id": 39,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3977761"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T11:13:52.131762",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Softenni 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 153,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1J60rDmbL9pgj2CAPGvcrnBuQGh5TNIwG/preview"
+        },
+        {
+          "fansub_id": 153,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1c_1gV0HBJjJfJpurAr3Dj52VTEXL--fU/preview"
+        },
+        {
+          "fansub_id": 153,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/softenakatsuki/video/embed/_myvideo/28"
+        },
+        {
+          "fansub_id": 153,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3448999"
+        },
+        {
+          "fansub_id": 153,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4622675"
+        },
+        {
+          "fansub_id": 153,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-12zjc7o2wlrz.html"
+        },
+        {
+          "fansub_id": 39,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1338"
+        },
+        {
+          "fansub_id": 39,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3977764"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T11:13:52.131762",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Softenni 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 153,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1DsKT1bHFNgiFsq2fiUsEFeO2bLNuhY4q/preview"
+        },
+        {
+          "fansub_id": 153,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1iiZRgAG7piN--zHg-zkOKCY2CMsN53d4/preview"
+        },
+        {
+          "fansub_id": 153,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140719579"
+        },
+        {
+          "fansub_id": 153,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/softenakatsuki/video/embed/_myvideo/29"
+        },
+        {
+          "fansub_id": 153,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4486485"
+        },
+        {
+          "fansub_id": 153,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3451702"
+        },
+        {
+          "fansub_id": 153,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/anw6frcw"
+        },
+        {
+          "fansub_id": 153,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-czpoy2uri01s.html"
+        },
+        {
+          "fansub_id": 39,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1339"
+        },
+        {
+          "fansub_id": 39,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3977766"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T11:13:52.131762",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Softenni 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 153,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1I2WKtRqZVhY9YeKIaFj9tnO0b4eXFzMB/preview"
+        },
+        {
+          "fansub_id": 153,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1uyTAq23f-lv4xCV8YhAzuFDlfW-i5CtY/preview"
+        },
+        {
+          "fansub_id": 153,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/softenakatsuki/video/embed/_myvideo/32"
+        },
+        {
+          "fansub_id": 153,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4622685"
+        },
+        {
+          "fansub_id": 153,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3454403"
+        },
+        {
+          "fansub_id": 153,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-68t0zivc4deu.html"
+        },
+        {
+          "fansub_id": 39,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1340"
+        },
+        {
+          "fansub_id": 39,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3977769"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T11:13:52.131762",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Softenni 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 153,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1NBaq79aggw37JftZESuuV5GcowwdUKM7/preview"
+        },
+        {
+          "fansub_id": 153,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1XvCrtQUJFATfMH9BOxLtW-s0naJBeOuN/preview"
+        },
+        {
+          "fansub_id": 153,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/softenakatsuki/video/embed/_myvideo/57"
+        },
+        {
+          "fansub_id": 153,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4622686"
+        },
+        {
+          "fansub_id": 153,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3480659"
+        },
+        {
+          "fansub_id": 153,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-gjo4qrzf3wr9.html"
+        },
+        {
+          "fansub_id": 39,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1341"
+        },
+        {
+          "fansub_id": 39,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3977771"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T11:13:52.131762",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Softenni 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 39,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/17sulZIRaPf6kGAkXt83XoldQXXJZuXRE/preview"
+        },
+        {
+          "fansub_id": 39,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1342"
+        },
+        {
+          "fansub_id": 39,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3977772"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T11:13:52.131762",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Softenni 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 39,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1yCmczX90cYCsj2tMzQ-bM0e8EWbg0r-G/preview"
+        },
+        {
+          "fansub_id": 39,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1343"
+        },
+        {
+          "fansub_id": 39,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3977774"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T11:13:52.131762",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Softenni 12. Bölüm Final",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 39,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1PwMxdnwzFsGCnbcS_LuW_rnV7aKt4Qm6/preview"
+        },
+        {
+          "fansub_id": 39,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1344"
+        },
+        {
+          "fansub_id": 39,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3977775"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T11:13:52.131762",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

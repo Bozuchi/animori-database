@@ -1,0 +1,118 @@
+{
+  "turkanime": {
+    "isim": "Rebirth",
+    "puan": "0.00",
+    "bolum_durumu": "1/48",
+    "ozet": "Seri ticari kart oyunu Rebirth For You oynamayı seven 12 liseli kızdan oluşan takım etrafında dönüyor.",
+    "slug": "rebirth"
+  },
+  "jikan": {
+    "mal_id": 40129,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1640/115820.jpg",
+    "trailer_id": "6bTmYlPpIfA",
+    "title": "Rebirth",
+    "title_english": null,
+    "type": "TV",
+    "source": "Card game",
+    "status": "Finished Airing",
+    "year": 2020,
+    "season": "winter",
+    "airing": false,
+    "aired": {
+      "from": "2020-01-05T00:00:00+00:00",
+      "to": "2021-06-23T00:00:00+00:00"
+    },
+    "duration": "3 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.82,
+    "popularity": 9497,
+    "synopsis": "The series revolve around a team of 12 high school students who love to play the trading card game Rebirth For You.\n\n(Source: ANN)",
+    "genres": [
+      4
+    ],
+    "themes": [
+      11
+    ],
+    "demographics": [],
+    "studios": [
+      839
+    ],
+    "relations": [
+      {
+        "relation": "Side Story",
+        "entries": [
+          42797,
+          53675
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          58607
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 113469,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Rebirth 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 100,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1eR6z8QcYGi80f0LPYCwaYE2virQVcxmp/preview"
+        },
+        {
+          "fansub_id": 100,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359666977"
+        },
+        {
+          "fansub_id": 100,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682366731"
+        },
+        {
+          "fansub_id": 100,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4643264"
+        },
+        {
+          "fansub_id": 100,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4340844"
+        },
+        {
+          "fansub_id": 100,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-da2xqpyyv6ko.html"
+        },
+        {
+          "fansub_id": 100,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-63iw85y2hqgf.html"
+        },
+        {
+          "fansub_id": 100,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/tk1rp8xp"
+        },
+        {
+          "fansub_id": 100,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-sqenp8mwjfuu.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T04:10:14.585390",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

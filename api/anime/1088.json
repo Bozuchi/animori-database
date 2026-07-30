@@ -1,0 +1,1764 @@
+{
+  "turkanime": {
+    "isim": "Macross",
+    "puan": "0.00",
+    "bolum_durumu": "38/36+",
+    "ozet": "1999 yılında Güney Atalia adasına düşen bir uzay gemisi insanoğluna evrende kendilerininki dışında başka uygarlıkların da bulunduğu gerçeğini göstermiştir. Çarpmanın ardından geçen on yılda enkazdan elde edilen veriler sayesinde teknolojide büyük atlamalar gerçekleştirilmiştir. On yılın sonunda uzay gemisi onarılmış ve SDF-1 Macross adı ile kalkışa hazır hale getirilmiştir. SDF-1'in kalkışının gerçekleştirileceği gün insanoğlu bir başka uygarlık olan Zentraedi ırkı ile karşı karşıya kalır. Geminin ve barındırdığı teknolojiyi insanlığın elinden almak isteyen Zentraediler dünyaya yıkıcı bir saldırı gerçekleştirirler. Birleşmiş Milletler ile Zentraedi kuvvetleri arasında yaşanan bu çatışma her iki ırkın kaderini sonsuza kadar değiştirecek kozmik bir savaşa dönüşecektir.",
+    "slug": "macross"
+  },
+  "jikan": {
+    "mal_id": 1088,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1553/137717.jpg",
+    "trailer_id": null,
+    "title": "Macross",
+    "title_english": "Super Dimension Fortress Macross",
+    "type": "TV",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": 1982,
+    "season": "fall",
+    "airing": false,
+    "aired": {
+      "from": "1982-10-03T00:00:00+00:00",
+      "to": "1983-06-26T00:00:00+00:00"
+    },
+    "duration": "25 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.89,
+    "popularity": 2067,
+    "synopsis": "After a mysterious spaceship crashes into Earth, humanity realizes that they are not alone. Fearing a potential threat from space, the world pushes aside their nationalism, conflicting interests, and cultural differences, unifying under the banner of the United Nations. The newly formed UN forces decide to repurpose the alien spacecraft, naming it SDF-1 Macross. Unfortunately, on the day of its maiden voyage, a fleet of spaceships belonging to a race of aliens known as the Zentradi descend upon Earth, and the SDF-1 Macross, acting of its own accord, shoots down the incoming squadron, sparking an intergalactic war.\n\nIn an attempt to escape, the Macross tries to launch itself into the Moon's orbit, but the ship—as well as the city it was in—is teleported to the far reaches of space. Caught up in this mess are Hikaru Ichijou, a free-spirited acrobatic pilot, and Minmay Lynn, an aspiring singer. These two, alongside Macross' crew, experience an epic journey rife with grief and drama, coming face-to-face with the cruelties of war along the way.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      22,
+      24
+    ],
+    "themes": [
+      18,
+      38,
+      19,
+      29
+    ],
+    "demographics": [],
+    "studios": [
+      103
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          194
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          474
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          16675,
+          17259
+        ]
+      },
+      {
+        "relation": "Summary",
+        "entries": [
+          1504
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          1089
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          5051,
+          31494
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 1088,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1088-qEDmlgWXrKH3.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Robotech 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1mhVkZzVtFXiB_MEqoQbZVHp-l5mBf3G9/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1gddHYkYLzWkCxNi2TndbkFByzha3Uoa9/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140718717"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4476537"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xht88jii3svi.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-0i7468pic3ku.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/s42b9kk5"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ktkues1koyya.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1tSFRlwkSL9PPYG2wllPFwLVUCEMaQRlj/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847956"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140718718"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4086271"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1355815"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4476539"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-gx3mptr8xrth.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-nrayvt8ybwic.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/h6vphn60"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ckmu9hy56fv4.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1muIhSaJ-qu0TFTYZDqOGJuAYG1Eoi2Li/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847958"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985851581"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1355828"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4086274"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439891"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ucd8a6skic2d.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-irtmv8x20o6u.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/13E6hDwc1x27U0qLoky9SQymO4QwqlAaZ/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1uJuo2R0RmFXc--HP2LtiV2FeBREBJyCU/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985848793"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4423852"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4516243"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-d06ndvrni4nu.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-2lej2huonyfk.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-mauvb5t36lud.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1DKduGYba7yb35BChLbQXtNBywNZe2p-D/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140718719"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847960"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1355842"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4476540"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4086276"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-lm1o3apua7tb.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/oj6yhrt6"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-uorcj6ygbalt.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1iY_JVo-ww4qi-5K1cNWVTlk_fpsPcRCn/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/11GxtEQogj7UjsYf0mrmjSc9Y-5NJo_ou/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140718720"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4476542"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-pmavpuhofm05.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-9sl2marljivi.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/j206vr59"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-md2osmt6ltqu.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1pQFcGITSfkFJ9DYljhGLRoTclAqnwSk3/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985848794"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4423853"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-t53bii9s7tcp.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-0jht4lj0lvpb.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1XdNN0dBgIXc65VIj5ZlXQzIiMYo1BZDa/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1xlAF0bQZlxhWnPKW8cW2BESeUikOvOn5/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140719292"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4485434"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5wyundpvgtof.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2ialo8wh7vxd.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/dbhk338a"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-mexjnzk9syzs.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1TQ8hGpX5ku2PXPGxlhDuHzdHkwFhAuNo/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1wTxP1bV0lHOO3fWEMwuidJGtsEjJK5mw/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140718721"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4476543"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-am4k65jj0q8t.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-82ojwpet80yk.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/kvheryur"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-i7ft4wln6ona.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1408,
+          "end": 1517
+        }
+      },
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1PxPZ7iQ3ke1WHnLZZiwbDLcFwWKkHSgW/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ePIJ5VRQBF3foSU_ok7_hygNq--80Jwj/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4516244"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-m8g465acq17f.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-7r8mfiqm6ytd.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-oeikohtaj72r.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-694hjzrjqibh.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/13oNLDHEWPHyyHP0F3kjRsvcU9o0hD-NW/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985848803"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4423862"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-4jz1b59osuhe.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 12. Bölüm",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1DMvGHTTbPMmcCakHF9Q4lYTbVwlrA79O/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1xgS0LZid28i8hIuhHPSGOk-fG-E--i6v/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140718722"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4476545"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2izuu701dd2p.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-bxemjj4803tq.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/8xvf1a14"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-rb8oe36guof6.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 13. Bölüm",
+      "episode_number": 13,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1zJUSZf3gc9ezBk3GywWwZvN962SYjg-W/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682368634"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4688418"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-4l5h4zipffgz.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-e0uzs4jy3rr8.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 13,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 14. Bölüm",
+      "episode_number": 14,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/10k2TqQD_ZF4n290XtqBBQ4bm0Pgd8065/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985848799"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4423858"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-mv8a2i22jkat.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1442,
+          "end": 1517
+        }
+      },
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 14,
+      "filler": false,
+      "recap": true
+    },
+    {
+      "turkanime_title": "Robotech 15. Bölüm",
+      "episode_number": 15,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1tGMycCPXufY7DE2lBEaJmiDv2cJ1-9yM/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847955"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985851582"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4086270"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439893"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ryh4p2oewa3r.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-r9l8k3b7tqx5.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1442,
+          "end": 1517
+        }
+      },
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 15,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 16. Bölüm",
+      "episode_number": 16,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Rl0ep2lPAMOFq6xwmizig8PE-Uzd5M3X/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1DKGNvm8azru-NVC19N6gayliYSXNRD4p/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4516246"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xrs3gycu9exj.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-euunyd61j3cd.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-6bok7b6zymtu.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-as5b4exoiocw.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 16,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 17. Bölüm",
+      "episode_number": 17,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1svP4Wh-AsFnYhyxbfN9OgWUu5dq8pujG/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359659477"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4458051"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-t0iq7bf8x8ub.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/kw7sqsei"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 17,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 18. Bölüm",
+      "episode_number": 18,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1PRGsWrb9XHW_R-Z7GHa8IVpt7ggtPCuT/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682368635"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4688422"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-h46c5twlrqdh.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-dqzp8pcsuqib.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 18,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 19. Bölüm",
+      "episode_number": 19,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Ng6BUE1m--sbSbcm5QenJTVnSfT-BJdF/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1lsUIvGIGqme5Lb6TM7boGuhtO1jEt70e/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4516248"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-qdizbzkxndyq.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-uysvo8ru9p0h.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-33sn9znre846.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1442,
+          "end": 1517
+        }
+      },
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 19,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 20. Bölüm",
+      "episode_number": 20,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Yb7AE-B2rhOoOzju2Pa2MpwskPDpWeFG/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847957"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140718724"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4086273"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1355898"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4476548"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-6rpum8dwf23g.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-6222zrutkota.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/6b2bhh5t"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-9ckzac5ek5g3.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 20,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 21. Bölüm",
+      "episode_number": 21,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1lPUElg1giUigZ__zEIdU3DnzsmlVr7C8/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/19DwpoH5j599GMjZ1ZhJsiD_MyFgeftNx/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140718725"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4476553"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ju34oyoxsj2s.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/5n8ptrpt"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-jh9irjo8mz55.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 21,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 22. Bölüm",
+      "episode_number": 22,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/10tU5kc5kwzqS30__iOMUCdI8f1_8ZO05/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985849547"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4429617"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4423859"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-1ysc064vqwut.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 22,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 23. Bölüm",
+      "episode_number": 23,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/11_Lo5Yun9VN7GA1p6fvbujIT3gq3wFCH/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985848802"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4423861"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 23,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 24. Bölüm",
+      "episode_number": 24,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1crrWIIJdVw1MAWU-szouMCqOv2qwHUTK/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985848804"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4423863"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 24,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 25. Bölüm",
+      "episode_number": 25,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1RtsGNPguQQ6Ju0-EMohR_P3qENp6KfR6/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985848805"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4423864"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-m5wopl3th7t7.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 25,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 26. Bölüm",
+      "episode_number": 26,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1I41CU42QMPFBU7LKuMZ-2IbN-zsbwCkG/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/15OVcFgT8chf1mUd0f2Z_BSCC2exdUS3R/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985849319"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4516249"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4427079"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-8g5nwe7gzc5a.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-l7fbv6siec7v.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-wn7qjc7uumzm.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 26,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 27. Bölüm",
+      "episode_number": 27,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1XjGNE3zJhPprqNClAdRVmkkyz3jttse5/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359659479"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4458054"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-3ggkh7fe5ywz.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ousnli8a"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 27,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 28. Bölüm",
+      "episode_number": 28,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1l5XSROt3VYVEWVyWvqMIJ4Nyj3GMBh7B/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1QOlImUecmVLKOo4uaBdXjuX0EBkpH54Q/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985849322"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4427087"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4516252"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-rih52txqx0o8.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-hjttwru94mzq.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-yvw35t83wf2b.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-kvr8djsy3y31.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 28,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 29. Bölüm",
+      "episode_number": 29,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Ac8tBl80GYtFnJ69TOPwgFOAB7p5Aibk/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985848782"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4423831"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 29,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 30. Bölüm",
+      "episode_number": 30,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1LWltuBemux0wjyyW-PYl9BedVNA8oyQp/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1NZJZ-DSkLVIh-oWJ2_cfW6CqYlOokw9Z/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4516254"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-v5wn13mn61wt.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-mewv2d2uk89g.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-4jee094j7mz5.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 30,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 31. Bölüm",
+      "episode_number": 31,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Gz9kw-VKiIPXTQ8_KRs4BrWUaGTGpIrB/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985849548"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4429619"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-wkycyfrxxg9m.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 31,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 32. Bölüm",
+      "episode_number": 32,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1UYXJl6XxdbvUSW2ah8QNifgLu6hDCn4r/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847959"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140718727"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1355935"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4086275"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4476555"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-jcwyrvbu0o12.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-73b4hqqc9iah.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/7y72o4ke"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-7dd6cjka5eae.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 32,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 33. Bölüm",
+      "episode_number": 33,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1bkZq4zrUEf3osBxpcjssGM-9v9ihC6Ww/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985849549"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4429621"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xsqoe3zr9s5g.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 33,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 34. Bölüm",
+      "episode_number": 34,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1bnC1W9Y9lRuj4PFaAwKBlCyqrygmniDJ/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1dyz1BGdaMijH5x21VBD78Qr9oqHFhv7S/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140718729"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4476558"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-tw3jor05o6wc.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-mhk02jsmdizg.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/8vfe87iw"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-bbz8m176vwia.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 34,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 35. Bölüm",
+      "episode_number": 35,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1xOaNEImQ2PWAWq422wOIIhBeQlXEYFLg/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1GTRElBaOLVH7kZZR6gwO5Jr3hs882Epo/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140718731"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4476561"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-1tiwqxx0oz50.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ru091h3x"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-sjyv3zxf9sls.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 35,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech 36. Bölüm Final",
+      "episode_number": 36,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1lz7ioh0OtoA1cuc2BH0zq8I_5nbCx9uv/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1dwwSIpuYfqbfm9WIFTty4XxCcuPP-ytE/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140718733"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4476563"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-yvq5r2wtkefc.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xq74e7zfol4b.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/8eqp4z1h"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-i259wdzjt14h.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-g9zvsljoqiyy.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": 36,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Robotech II : The Sentinels",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/11PdauPKe0nUCPsfUikXvoVuTf-BcB1N3/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985845939"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985851583"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4066715"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439894"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-d90tob0y83q7.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ajfysshv64fm.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Robotech : The Shadow Chronicles",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1gNZz-WRrpwyjphmYVgaQFWG8Idxlf-sa/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985845940"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933015104"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4066720"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ad7sczslui07.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:08:52.550270",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

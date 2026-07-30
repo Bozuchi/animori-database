@@ -1,0 +1,91 @@
+{
+  "turkanime": {
+    "isim": "Mahouka Koukou no Rettousei: Yoku Wakaru Mahouka! - Saiseitte Nani?",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Blu-ray ve DVD ile birlikte gelen ekstra special bölüm.",
+    "slug": "mahouka-koukou-no-rettousei-yoku-wakaru-mahouka-saiseitte-nani"
+  },
+  "jikan": {
+    "mal_id": 31448,
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/75785.jpg",
+    "trailer_id": null,
+    "title": "Yoku Wakaru Mahouka! - Saiseitte Nani?",
+    "title_english": null,
+    "type": "Special",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2015-02-25T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.36,
+    "popularity": 6564,
+    "synopsis": "Extra episode of Mahouka Koukou no Rettousei: Yoku Wakaru Mahouka! included in the BD/DVD.",
+    "genres": [
+      4
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      11
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          23341
+        ]
+      }
+    ]
+  },
+  "anilist": null,
+  "episodes": [
+    {
+      "turkanime_title": "Mahouka Koukou no Rettousei: Yoku Wakaru Mahouka! Special",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1VAFvBWlFWQ5Ym-a8afMTPRvY6rHAdui5/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271191730"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/1"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3043630"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4526773"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-6eunfsyw2ed9.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:54:30.487735",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

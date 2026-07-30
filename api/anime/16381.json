@@ -1,0 +1,84 @@
+{
+  "turkanime": {
+    "isim": "Santa Company",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Noel Baba şirketinin bir stajyeri olan Noel White, resmi bir tonttu olabilmek için sınavına hazırlanır. Onun görevi \"Bir Noel Baba için en önemli şey\"i bulmaktır.\n\nSon teslim tarihinin bitmesine çok az kala bir çocuktan gelen mektup şirkete geç gelir. Bu mektup elden çıkarılmak üzereyken Noel ve arkadaşları o hediyeyi teslim etmek için maceraya doğru yola çıkarlar. Fakat Noel, görevi için aradığı cevabı bulabilecek midir?",
+    "slug": "santa-company"
+  },
+  "jikan": {
+    "mal_id": 16381,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1211/112792.jpg",
+    "trailer_id": "sFmOgIZxXyc",
+    "title": "Santa Company",
+    "title_english": null,
+    "type": "Movie",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2014-10-25T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "28 min",
+    "rating": "PG - Children",
+    "score": 5.73,
+    "popularity": 9203,
+    "synopsis": "As a trainee of Santa Company, Noel White prepares for her test to become an official Tonttu, her assignment being \"To find the most important thing for a Santa Claus.\"\n\nThe deadline nears with an answer yet to be found, when a single letter from a child arrives late at the company. As the letter is about to be handled as a defect, Noel and friends set out on an adventure for the present - but will Noel find the answer to her assignment?\n\nSet a year after the events of the novel.",
+    "genres": [
+      10
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      852
+    ],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          39931
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 16381,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/16381-gKM2OHmQyDD1.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Santa Company",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685361670"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1732380"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4091968"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-qz2hs98c6s5s.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T06:39:45.539916",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

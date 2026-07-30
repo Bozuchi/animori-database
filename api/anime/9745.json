@@ -1,0 +1,106 @@
+{
+  "turkanime": {
+    "isim": "Sengoku Basara Movie: The Last Party",
+    "puan": "7.22",
+    "bolum_durumu": "1/1",
+    "ozet": "Film, Toyotomi Hideyoshi tarafından başlatılan savaştan sonra, ancak Japonya'nın Shogun'unu belirleyecek olan Sekigahara savaşını konu alıyor.",
+    "slug": "sengoku-basara-movie-the-last-party"
+  },
+  "jikan": {
+    "mal_id": 9745,
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/50871.jpg",
+    "trailer_id": "AkIPG8JR-wc",
+    "title": "Sengoku Basara Movie: The Last Party",
+    "title_english": "Sengoku Basara - Samurai Kings: The Movie",
+    "type": "Movie",
+    "source": "Game",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2011-06-04T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 33 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.55,
+    "popularity": 4609,
+    "synopsis": "The story of the film is set after the conflict instigated by Toyotomi Hideyoshi ended, but not before the Battle of Sekigahara determines who shall be the Shogun of Japan.\n\n(Source: ANN)",
+    "genres": [
+      1,
+      10
+    ],
+    "themes": [
+      13,
+      17,
+      21
+    ],
+    "demographics": [],
+    "studios": [
+      10
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          6634
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entries": [
+          18549
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          23201
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 9745,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Sengoku Basara: The Last Party 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1DT4-RlOfNM4i-GFt5wqVNxiPfOzHtaM7/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985845719"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985852271"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4064532"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-3urqipwxieam.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T07:42:21.116753",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "turkanime": {
+    "isim": "Nichijou: Original Jikai Yokoku",
+    "puan": "0.00",
+    "bolum_durumu": "1/25",
+    "ozet": "Nichijou Animesinin Special Bölümleridir.",
+    "slug": "nichijou-original-jikai-yokoku"
+  },
+  "jikan": {
+    "mal_id": 10807,
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/29848.jpg",
+    "trailer_id": null,
+    "title": "Nichijou: Original Jikai Yokoku",
+    "title_english": "My Ordinary Life Specials",
+    "type": "Special",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2011-06-24T00:00:00+00:00",
+      "to": "2012-06-29T00:00:00+00:00"
+    },
+    "duration": "30 sec per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.05,
+    "popularity": 5462,
+    "synopsis": "Original next episode trailers included in the Blu-ray and DVD volumes of Nichijou.",
+    "genres": [
+      4
+    ],
+    "themes": [
+      57,
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      2
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          10165
+        ]
+      }
+    ]
+  },
+  "anilist": null,
+  "episodes": [
+    {
+      "turkanime_title": "Nichijou Special 1",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 118,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/17QjScckdaT123ikodXOuk4Mm2yPg7stY/preview"
+        },
+        {
+          "fansub_id": 118,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/18mzOS-k1IWRHzB_olqbfBpcCY1G7oIX0/preview"
+        },
+        {
+          "fansub_id": 118,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/bk/swagnemite/_myvideo/78.html"
+        },
+        {
+          "fansub_id": 118,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/2444636457931911193"
+        },
+        {
+          "fansub_id": 118,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359664769"
+        },
+        {
+          "fansub_id": 118,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4618335"
+        },
+        {
+          "fansub_id": 118,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ix1e7pqfusda.html"
+        },
+        {
+          "fansub_id": 118,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-94k78xbyv7un.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T16:00:36.051881",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

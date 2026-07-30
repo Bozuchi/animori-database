@@ -1,0 +1,96 @@
+{
+  "turkanime": {
+    "isim": "Yawara!: Sore Yuke Koshinuke Kids!!",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Yawara, bir grup ilkokul çocuğunun korkularını yenmesine destek verir ve bir judo yarışmasında rekabet etmelerine yardımcı olur. Çocuklardan biri Hanazono'nun kuzeni iken, bir diğeri de Yawara'ya çok benzeyen bir kızdır.",
+    "slug": "yawara-sore-yuke-koshinuke-kids"
+  },
+  "jikan": {
+    "mal_id": 2008,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1188/111846.jpg",
+    "trailer_id": null,
+    "title": "Yawara! Sore Yuke Koshinuke Kids!!",
+    "title_english": null,
+    "type": "Movie",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1992-08-01T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.39,
+    "popularity": 11218,
+    "synopsis": "Yawara helps a group of timid grade school kids overcome their fears and compete in a judo competition. One of the kids is Hanazono's cousin, which is how she meets them. Another is a girl who seems a whole lot like Yawara.\n\n(Source: ANN)",
+    "genres": [
+      4,
+      22,
+      30
+    ],
+    "themes": [
+      54
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      11
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          853
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          691
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 2008,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Yawara! Movie: Sore Yuke Koshinuke Kids!!",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1y3FDWBSRQNYzO5rfIK03jLud2yGgtWBk/preview"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/1456ha/video/embed/_myvideo/106"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933018533"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3748273"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T18:10:07.176245",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

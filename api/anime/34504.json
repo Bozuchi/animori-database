@@ -1,0 +1,111 @@
+{
+  "turkanime": {
+    "isim": "Seitokai Yakuindomo Movie",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Seitokai Yakuindomo serisinin filmidir.",
+    "slug": "seitokai-yakuindomo-movie"
+  },
+  "jikan": {
+    "mal_id": 34504,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1655/114726.jpg",
+    "trailer_id": "BSzTepK9Wv4",
+    "title": "Seitokai Yakuindomo Movie",
+    "title_english": null,
+    "type": "Movie",
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2017-07-21T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.82,
+    "popularity": 3098,
+    "synopsis": "Ousai Academy was originally an all-girls high school. Due to the declining birth rates in recent years, it was converted into a co-ed school. The first year male students would find themselves surrounded by girls and unfortunately, Tsuda Takatoshi is one of them. What's worse, he gets scolded on his first day by the student council president Shino Amakusa, which did not give a good first impression of him. Tsuda also meets the other student council members while getting scolded, and in the end, he gets late for class. As an apology for ruining his morning, Shino lets him join the student council for various of \"reasons\" and he accepts it, or rather, he's forced to accept. Thus begins his days as Tsuda soon realizes that he's the only normal student in Ousai Academy...",
+    "genres": [
+      4
+    ],
+    "themes": [
+      57,
+      23
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      309
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          40814
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          14110
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          26123
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 98240,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98240-T0x2InvtO1B0.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Seitokai Yakuindomo Movie",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 34,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1rP-SWWD20JmUiyX9DlQfYASJIsTdaEgD/preview"
+        },
+        {
+          "fansub_id": 34,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359660266"
+        },
+        {
+          "fansub_id": 34,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271190335"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/btkhvp5g"
+        },
+        {
+          "fansub_id": 34,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/x7bsizho"
+        },
+        {
+          "fansub_id": 34,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-mzxxmb0ukfhz.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T07:28:52.024223",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "turkanime": {
+    "isim": "Date A Live: Date to Date",
+    "puan": "9.07",
+    "bolum_durumu": "1/1",
+    "ozet": "Date A Live serisinin özel bölümüdür.",
+    "slug": "date-a-live-date-to-date"
+  },
+  "jikan": {
+    "mal_id": 17641,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1629/112503.jpg",
+    "trailer_id": "6sFhY9ICfQs",
+    "title": "Date A Live: Date to Date",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2013-12-06T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.31,
+    "popularity": 1276,
+    "synopsis": "When Origami Tobiichi asks Shidou Itsuka out on a date, Shidou considers this his best opportunity to set the record straight and end their relationship. However, even with the help of the Ratatoskr crew, his attempts to break up with her fail; in fact, Origami gladly tolerates Shidou's humiliating requests and blunt comments! Shidou's unconventional mission incidentally complicates his relationship with Tooka Yatogami, and it seems that easing the tension is only possible by going on another date.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      22,
+      24
+    ],
+    "themes": [
+      35,
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      292
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          15583
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          19163
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          37163,
+          70919,
+          37523
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 17641,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n17641-FG1ApLpAYoyw.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Date A Live OVA",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 151,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4905273"
+        },
+        {
+          "fansub_id": 151,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1769379"
+        },
+        {
+          "fansub_id": 151,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2khwt57nqvje.html"
+        },
+        {
+          "fansub_id": 151,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-v0yc3e6amfya.html"
+        },
+        {
+          "fansub_id": 51,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7395625562758185623"
+        },
+        {
+          "fansub_id": 51,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/d0fhczwt"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-24T10:24:39.048770",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "turkanime": {
+    "isim": "San-biki no Koguma-san",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Kaybolan bir ördeği aramaya çıkan üç küçük kardeş ayıcığın hikayesi.",
+    "slug": "san-biki-no-koguma-san"
+  },
+  "jikan": {
+    "mal_id": 29559,
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/71031.jpg",
+    "trailer_id": null,
+    "title": "San-biki no Koguma-san",
+    "title_english": "Three Little Bears",
+    "type": "Movie",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1931-01-01T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "9 min",
+    "rating": "G - All Ages",
+    "score": 4.87,
+    "popularity": 16763,
+    "synopsis": "A story of three little bears going on an adventure to find the lost little duck.",
+    "genres": [],
+    "themes": [],
+    "demographics": [
+      15
+    ],
+    "studios": [],
+    "relations": []
+  },
+  "anilist": {
+    "id": 125790,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "San-biki no Koguma-san Movie",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 25,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1BuMC_iYevEPP4XAhD0djoVdw3-4Qw0FX/preview"
+        },
+        {
+          "fansub_id": 25,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5727601449156739525"
+        },
+        {
+          "fansub_id": 25,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/5727601449156739245"
+        },
+        {
+          "fansub_id": 25,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4860789"
+        },
+        {
+          "fansub_id": 25,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4819991"
+        },
+        {
+          "fansub_id": 25,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/nxgd0cxg4sz5"
+        },
+        {
+          "fansub_id": 25,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-slfavxi08ioe.html"
+        },
+        {
+          "fansub_id": 25,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-iuaxt9bjggrh.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T06:34:58.690365",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

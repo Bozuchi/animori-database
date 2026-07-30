@@ -1,0 +1,99 @@
+{
+  "turkanime": {
+    "isim": "Isekai Quartet Movie: Another World",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Sınıfımız başka bir büyülü dünyanın kapısını aralar. Fakat bu dünyada robotlara karşı mücadele vereceklerinden haberleri yoktur.\n\nIsekai Quartet serisinin devam filmidir.",
+    "slug": "isekai-quartet-movie-another-world"
+  },
+  "jikan": {
+    "mal_id": 41567,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1222/122000.jpg",
+    "trailer_id": "4B46KQbobms",
+    "title": "Isekai Quartet Movie: Another World",
+    "title_english": "Isekai Quartet The Movie: Another World",
+    "type": "Movie",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2022-06-10T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 52 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.46,
+    "popularity": 2489,
+    "synopsis": "The class arrives in another world and they encounter a desolate environment dominated by a rampaging magical automaton.",
+    "genres": [
+      4,
+      10
+    ],
+    "themes": [
+      62,
+      20
+    ],
+    "demographics": [],
+    "studios": [
+      443
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          39988
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          61851
+        ]
+      },
+      {
+        "relation": "Character",
+        "entries": [
+          29803,
+          30831,
+          31240,
+          32615,
+          35790
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 117074,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/117074-NC4KTWOK4niT.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Isekai Quartet Movie: Another World Film",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 12,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Vqu9nqTPYHPHJAGvWd6DhiDjjFKUPxyW/preview"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7424468136461601791"
+        },
+        {
+          "fansub_id": 12,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-j37tzg7en5r6.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T06:08:56.557764",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

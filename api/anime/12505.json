@@ -1,0 +1,115 @@
+{
+  "turkanime": {
+    "isim": "C³: Rinkan Gakkou Confusion!",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Seriye ait yayınlanmamış bölümdür. Ekibin okul gezisini anlatmaktadır.",
+    "slug": "c-rinkan-gakkou-confusion"
+  },
+  "jikan": {
+    "mal_id": 12505,
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/79351.jpg",
+    "trailer_id": null,
+    "title": "C³: Rinkan Gakkou Confusion!",
+    "title_english": "C³ - CubexCursedxCurious - Outdoor School Confusion",
+    "type": "Special",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2012-04-25T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "29 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.68,
+    "popularity": 4749,
+    "synopsis": "Unaired episode included with the fifth volume of the Blu-ray. The gang goes on a school trip.",
+    "genres": [
+      1,
+      4,
+      37,
+      9
+    ],
+    "themes": [
+      35,
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      300
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          10578
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 12505,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "C³ Cube x Cursed x Curious Special",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 2,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9173325596158070855"
+        },
+        {
+          "fansub_id": 2,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1778092"
+        },
+        {
+          "fansub_id": 2,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-fey3lcgel2vb.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359668031"
+        },
+        {
+          "fansub_id": 47,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/bk/mugen38/48/709.html"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4762806"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2695678"
+        },
+        {
+          "fansub_id": 47,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/itm5htk6"
+        },
+        {
+          "fansub_id": 47,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-hsx293ygh02r.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T07:26:48.317110",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

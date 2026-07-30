@@ -1,0 +1,144 @@
+{
+  "turkanime": {
+    "isim": "Kuroshitsuji: Book of Murder",
+    "puan": "9.15",
+    "bolum_durumu": "2/2",
+    "ozet": "Kuroshitsuji: Book of Circus tan sonraki Ova serisidir.",
+    "slug": "kuroshitsuji-book-of-murder"
+  },
+  "jikan": {
+    "mal_id": 23317,
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/74392.jpg",
+    "trailer_id": "SMK4HSpyALE",
+    "title": "Kuroshitsuji: Book of Murder",
+    "title_english": "Black Butler: Book of Murder",
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2015-01-28T00:00:00+00:00",
+      "to": "2015-02-25T00:00:00+00:00"
+    },
+    "duration": "1 hr 1 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 8.04,
+    "popularity": 1037,
+    "synopsis": "At the behest of the Queen, Earl Ciel Phantomhive hosts a lavish dinner party attended by several of the finest members of polite society—as well as struggling author, Arthur. But as the party reaches its high, a terrible murder takes place and none other than the Earl himself is suspected of the crime.\n\nAs a violent storm rages on outside, the death count continues to climb. The Phantomhive household and their eminent guests find they must cooperate in order to solve this mystery before they too fall prey to the mysterious murderer. However, it seems that not even the perfect butler, Sebastian Michaelis, is safe from this horror.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      1,
+      7,
+      37
+    ],
+    "themes": [
+      13,
+      6
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      56
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          22145
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          31812
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          3866
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 20670,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20670-65RnHI2EgP5P.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Kuroshitsuji: Book of Murder 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 62,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1XdpetHCfYUYMsYHtHiQrGkvrh5PfxzPS/preview"
+        },
+        {
+          "fansub_id": 62,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/2444636457931911073"
+        },
+        {
+          "fansub_id": 62,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1822932"
+        },
+        {
+          "fansub_id": 62,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-t2yt8kh2akh1.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T07:06:40.985726",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kuroshitsuji: Book of Murder 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 62,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1N-l3egviwTTQhT_bWcVf8vX1BvwfNwh8/preview"
+        },
+        {
+          "fansub_id": 62,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847084"
+        },
+        {
+          "fansub_id": 62,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4073699"
+        },
+        {
+          "fansub_id": 62,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1832989"
+        },
+        {
+          "fansub_id": 62,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/2tyv2nhn"
+        },
+        {
+          "fansub_id": 62,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-o4d6lc2uv3yc.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T07:06:40.985726",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

@@ -1,0 +1,978 @@
+{
+  "turkanime": {
+    "isim": "Shironeko Project: Zero Chronicle",
+    "puan": "8.12",
+    "bolum_durumu": "12/12",
+    "ozet": "Çok sayıda adadan oluşan bir dünyada, Astora Adası’ndan genç bir kahraman maceracı Kyle ile karşılaşır ve onu adada bir keşif gezisinde takip eder. Iris ve konuşan beyaz bir kedi adında gizemli bir kızla tanışırlar ve birlikte uçan bir ada buldukları ada kalıntılarına giderler. Kyle orada karanlık tarafından tüketilir ve kalan grup Kyle’ın sözlerini takip ederek yedi “Büyük Rünü” bulmak için uçan adada dünyanın uçlarına seyahat etmeye karar verir.",
+    "slug": "shironeko-project-zero-chronicle"
+  },
+  "jikan": {
+    "mal_id": 38843,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1072/111360.jpg",
+    "trailer_id": "16HJFVZVVDk",
+    "title": "Shironeko Project: Zero Chronicle",
+    "title_english": "Shironeko Project ZERO CHRONICLE",
+    "type": "TV",
+    "source": "Game",
+    "status": "Finished Airing",
+    "year": 2020,
+    "season": "spring",
+    "airing": false,
+    "aired": {
+      "from": "2020-04-06T00:00:00+00:00",
+      "to": "2020-06-22T00:00:00+00:00"
+    },
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.41,
+    "popularity": 2239,
+    "synopsis": "The world is divided into two kingdoms: the Kingdom of White, which floats in the heavens and is ruled by their queen Iris, and the Kingdom of Black, which stands upon desolate land below and houses the King of Darkness as its ruler. As of late, forces of evil have amassed great power, posing a threat to the entire world. Being the main representative of the Light, it is Iris' duty to maintain the balance of the world and fight off the darkness in her kingdom.\n\nMeanwhile in the Kingdom of Black, rampaging monsters annihilate a certain boy's village, leaving him the sole survivor. As he grieves in hopelessness, an armored man named Skeer notices the child and comforts him. Soon after, Skeer recognizes the boy's potential to change the kingdom's status quo and makes him his heir before passing away. The boy then vows to become the Prince of Darkness—the one who will replace the King—to bring the world back to its rightful path.\n\nAs Iris and Prince of Darkness each challenge the impending doom the world faces in their own respective ways, their destinies will converge with each other, and perhaps, their bond will decide the fate of the world.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      1,
+      2,
+      10
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      439
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entries": [
+          49525
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 110458,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/110458-qXLCQ16XUVRu.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Shironeko Project: Zero Chronicle 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 24,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359670215"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4784313"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/zymd03yi"
+        },
+        {
+          "fansub_id": 24,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-q24uw90840b6.html"
+        },
+        {
+          "fansub_id": 41,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359670217"
+        },
+        {
+          "fansub_id": 41,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4784335"
+        },
+        {
+          "fansub_id": 41,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/qkf2eeq5"
+        },
+        {
+          "fansub_id": 41,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-3li1g5a31vct.html"
+        },
+        {
+          "fansub_id": 30,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359670216"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4784319"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/srivhm9y"
+        },
+        {
+          "fansub_id": 30,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-qnr692p9pkq7.html"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1102"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-y6kuax52pyly.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 19.076,
+          "end": 109.076
+        },
+        "ed": {
+          "start": 1335.997,
+          "end": 1425.997
+        }
+      },
+      "added_date": "2026-07-29T09:59:58.132637",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Shironeko Project: Zero Chronicle 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 24,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359670218"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4784350"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-60kgua4653ji.html"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-sbvwnrvjkz3h.html"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ywwk1dra"
+        },
+        {
+          "fansub_id": 24,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-8ghoelb4ivr1.html"
+        },
+        {
+          "fansub_id": 41,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359670219"
+        },
+        {
+          "fansub_id": 41,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4784366"
+        },
+        {
+          "fansub_id": 41,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/1c9v6j6n"
+        },
+        {
+          "fansub_id": 41,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-coszbt0w3q5e.html"
+        },
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1AciTVSLq5nRI0OhrNdVYEphy46r0ELVF/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/incursio1283/video/embed/_myvideo/1"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1159"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3904655"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-gcv1s3f3ysas.html"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/e21eau8m"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 55.496,
+          "end": 145.496
+        },
+        "ed": {
+          "start": 1284.037,
+          "end": 1374.037
+        }
+      },
+      "added_date": "2026-07-29T09:59:58.132637",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Shironeko Project: Zero Chronicle 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 24,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359670220"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4784391"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-awgbdq42u3ga.html"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-4oxb6abyn1c0.html"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ejloocve"
+        },
+        {
+          "fansub_id": 24,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-udpgiqb43umi.html"
+        },
+        {
+          "fansub_id": 41,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715528711"
+        },
+        {
+          "fansub_id": 41,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/yf1fxbvm"
+        },
+        {
+          "fansub_id": 30,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359670221"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4784397"
+        },
+        {
+          "fansub_id": 30,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-sonmym4ghxeq.html"
+        },
+        {
+          "fansub_id": 30,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ya590xyhy9c2.html"
+        },
+        {
+          "fansub_id": 30,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-dcux3ujrvtvk.html"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7598"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359670222"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4784410"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-91feideu3h5b.html"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/im8s9eqz"
+        },
+        {
+          "fansub_id": 16,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-8m9m82ec7jzc.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 83.108,
+          "end": 173.108
+        },
+        "ed": {
+          "start": 1313.635,
+          "end": 1403.635
+        }
+      },
+      "added_date": "2026-07-29T09:59:58.132637",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Shironeko Project: Zero Chronicle 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 24,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359670223"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4784421"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-f0w92c85k14s.html"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-e59xtvdrls1s.html"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/axxtjgj1"
+        },
+        {
+          "fansub_id": 24,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-8h23hezqw65n.html"
+        },
+        {
+          "fansub_id": 41,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/c3saf8op"
+        },
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1rdCa54DRY4cwHNspum46u81c5xGyBoOr/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1kWJcUIsVj0ahHW12bcv9UWOe-DUT2xOC/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7320964432559866172"
+        },
+        {
+          "fansub_id": 30,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-eqfxxobnq713.html"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1236"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3946686"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/p0mkbcnq"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 126.688,
+          "end": 216.688
+        },
+        "ed": {
+          "start": 1328.766,
+          "end": 1418.766
+        }
+      },
+      "added_date": "2026-07-29T09:59:58.132637",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Shironeko Project: Zero Chronicle 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 24,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359670224"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4784432"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vieh19d8zm59.html"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/3rsd77f7"
+        },
+        {
+          "fansub_id": 24,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-wiqoj8o18z1t.html"
+        },
+        {
+          "fansub_id": 41,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715528744"
+        },
+        {
+          "fansub_id": 41,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/u8364zq5"
+        },
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1E2-WmCXnmYIa2EN2aC6RMgHqlnsBG1_K/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1qioNfoP12cBfofnA6H2EvwWd51V-sPqq/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4200834"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3977708"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1237"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3946689"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 49.902,
+          "end": 139.902
+        },
+        "ed": {
+          "start": 1328.267,
+          "end": 1418.267
+        }
+      },
+      "added_date": "2026-07-29T09:59:58.132637",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Shironeko Project: Zero Chronicle 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 24,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359670225"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4784436"
+        },
+        {
+          "fansub_id": 24,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-o8ahl4prr4ts.html"
+        },
+        {
+          "fansub_id": 24,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/q72t1tg1"
+        },
+        {
+          "fansub_id": 24,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-q7ch624xhzqt.html"
+        },
+        {
+          "fansub_id": 41,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715528745"
+        },
+        {
+          "fansub_id": 41,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/p7alpv76"
+        },
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1h6hdaPv7cJ7Q3IacNoeQ6wv1Y5BZAtl6/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1yzoL2kOnEgDUVttugl85hExSy-0l1BeH/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-m2wkvkpn3sw2.html"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1238"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3946691"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T09:59:58.132637",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Shironeko Project: Zero Chronicle 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 41,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/v6uskxzi"
+        },
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/14jtYM5patRxFfWwlmIhtCMTykO6ukNid/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-tkv260txryku.html"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/35h18ln2"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359670226"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1261"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4784445"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ukmt9cr3u7j8.html"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/z1mxlzqk"
+        },
+        {
+          "fansub_id": 16,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-5p1gupk50efp.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1330.806,
+          "end": 1420.806
+        }
+      },
+      "added_date": "2026-07-29T09:59:58.132637",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Shironeko Project: Zero Chronicle 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 41,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/l0uf3hwa"
+        },
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/19WoTD_SzHeXlwy1IXXsQLNk3YO-vOpy0/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/h9rh2shd"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359670227"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1271"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4784455"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-0w3om2ff5zz7.html"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/zik90la2"
+        },
+        {
+          "fansub_id": 16,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-s29s0ex6pfy8.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 32.438,
+          "end": 122.438
+        },
+        "ed": {
+          "start": 1327.86,
+          "end": 1417.86
+        }
+      },
+      "added_date": "2026-07-29T09:59:58.132637",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Shironeko Project: Zero Chronicle 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 41,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/5zh69how"
+        },
+        {
+          "fansub_id": 41,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/2y0xvhmq"
+        },
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1lJxIvhroZQKIWrMvifknUrTab6cT9JNK/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-f1d64hw19hbo.html"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1272"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359670228"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4784460"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-d1qy4u1i51yc.html"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/eeb36qy5"
+        },
+        {
+          "fansub_id": 16,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-1g8pgs9uoq8l.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 100.39,
+          "end": 190.39
+        },
+        "ed": {
+          "start": 1329.521,
+          "end": 1419.521
+        }
+      },
+      "added_date": "2026-07-29T09:59:58.132637",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Shironeko Project: Zero Chronicle 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 41,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715528706"
+        },
+        {
+          "fansub_id": 41,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/vcpi8ets"
+        },
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1DcQjeG1-yE-1-wThjgJyHssCMfhJmtzV/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7320964432559866181"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4200845"
+        },
+        {
+          "fansub_id": 30,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/b70wvyhj"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1332"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359670229"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4784469"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-qasupdy0gvxj.html"
+        },
+        {
+          "fansub_id": 16,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-zzs2nzxrj12k.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 74.787,
+          "end": 164.787
+        },
+        "ed": {
+          "start": 1329.4,
+          "end": 1419.4
+        }
+      },
+      "added_date": "2026-07-29T09:59:58.132637",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Shironeko Project: Zero Chronicle 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 41,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/kj02dfch"
+        },
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1vJcK37eOoQ24bk6s60vAMTRcdS98Og5j/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7320964432559866180"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1349"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/qrszsv8a"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 135.526,
+          "end": 225.526
+        },
+        "ed": {
+          "start": 1332.561,
+          "end": 1422.561
+        }
+      },
+      "added_date": "2026-07-29T09:59:58.132637",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Shironeko Project: Zero Chronicle 12. Bölüm Final",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 41,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7852876293715528707"
+        },
+        {
+          "fansub_id": 41,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/bqgbgob4"
+        },
+        {
+          "fansub_id": 30,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1vAAtm1ghBp7PqzxhV07gY73MxRTos2yX/preview"
+        },
+        {
+          "fansub_id": 30,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7320964432559866179"
+        },
+        {
+          "fansub_id": 16,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1368"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3990154"
+        },
+        {
+          "fansub_id": 16,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/j5v6y3oz"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1284.845,
+          "end": 1374.845
+        }
+      },
+      "added_date": "2026-07-29T09:59:58.132637",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

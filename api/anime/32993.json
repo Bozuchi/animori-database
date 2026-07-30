@@ -1,0 +1,107 @@
+{
+  "turkanime": {
+    "isim": "Sore ga Seiyuu!: Petit Uchiage",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Sore ga Seiyuu! serisine ait OVA bölümdür.",
+    "slug": "sore-ga-seiyuu-petit-uchiage"
+  },
+  "jikan": {
+    "mal_id": 32993,
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/79138.jpg",
+    "trailer_id": null,
+    "title": "Sore ga Seiyuu!: Petit Uchiage",
+    "title_english": null,
+    "type": "Special",
+    "source": "Web manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2016-03-23T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "14 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.47,
+    "popularity": 9139,
+    "synopsis": "Special episode of Sore ga Seiyuu! bundled in BD &amp; DVD Vol.7",
+    "genres": [
+      4
+    ],
+    "themes": [
+      75,
+      48
+    ],
+    "demographics": [],
+    "studios": [
+      3
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          29163
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 21737,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21737-90vdrkPUhPNj.png"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Sore ga Seiyuu! OVA: Petit Uchiage",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 216,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1OdcIGXY6LIH3n1zV9fRgnDaTb29rm5iJ/preview"
+        },
+        {
+          "fansub_id": 216,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1qWjiX_sdlznjXCm8B8gIiWo054o46db9/preview"
+        },
+        {
+          "fansub_id": 216,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140716599"
+        },
+        {
+          "fansub_id": 216,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271187733"
+        },
+        {
+          "fansub_id": 216,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/moriohfansub/video/embed/2/15"
+        },
+        {
+          "fansub_id": 216,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4468530"
+        },
+        {
+          "fansub_id": 216,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/50nlo8rh"
+        },
+        {
+          "fansub_id": 216,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-9h00913pcnp0.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T11:30:48.926567",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "turkanime": {
+    "isim": "Show By Rock!! Mashumairesh!!",
+    "puan": "0.00",
+    "bolum_durumu": "1/12",
+    "ozet": "Bir mucizeyle tanışmış olabilirsiniz. Kuzeyde küçük bir kasabada doğup büyüyen beyaz tilki kız Howan müzik seçmelerine katılmak için Kuzey Zawa şehrine gider. Burada Masashima Himeko, Delmin ve Ruhuyu'yla tanışır. Grup kurulacak mı? Parıltılı bir rock müziği macerası başlamak üzere.",
+    "slug": "show-by-rock-mashumairesh"
+  },
+  "jikan": {
+    "mal_id": 40763,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1297/110719.jpg",
+    "trailer_id": "XzU8ZehQQ7g",
+    "title": "Show By Rock!! Mashumairesh!!",
+    "title_english": "SHOW BY ROCK!! Mashumairesh!!",
+    "type": "TV",
+    "source": "Game",
+    "status": "Finished Airing",
+    "year": 2020,
+    "season": "winter",
+    "airing": false,
+    "aired": {
+      "from": "2020-01-09T00:00:00+00:00",
+      "to": "2020-03-26T00:00:00+00:00"
+    },
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.1,
+    "popularity": 5749,
+    "synopsis": "New Show by Rock!! TV Series featuring the new band Mashumairesh!!.",
+    "genres": [
+      4,
+      10
+    ],
+    "themes": [
+      19
+    ],
+    "demographics": [],
+    "studios": [
+      290
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          41520
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          27441
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 113470,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113470-WNIVHuI8DfDb.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Show By Rock!! Mashumairesh!! 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 27,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1mClJU1xKAhE1VNznVfIeGTrIuDbYzZ9L/preview"
+        },
+        {
+          "fansub_id": 27,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682368745"
+        },
+        {
+          "fansub_id": 27,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4772891"
+        },
+        {
+          "fansub_id": 27,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/km7j93a8g6wv"
+        },
+        {
+          "fansub_id": 27,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-8okj1yw0274g.html"
+        },
+        {
+          "fansub_id": 27,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-kkm7o3attax1.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T10:25:38.946920",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

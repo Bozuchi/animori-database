@@ -1,0 +1,698 @@
+{
+  "turkanime": {
+    "isim": "Takunomi.",
+    "puan": "0.00",
+    "bolum_durumu": "12/12",
+    "ozet": "20 yaşındaki Michiru Amatsuki, kariyer değişikliği nedeniyle Tokyo'ya taşındı. Farklı yaş ve meslek sahipleri ile \"Stella House Haruno\" adlı bir kadın pansiyonunda yaşamaya karar verdi. Lezzetli yemek ve alkol olduğunda hep eğlencelidir!",
+    "slug": "takunomi"
+  },
+  "jikan": {
+    "mal_id": 36108,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1869/95731.jpg",
+    "trailer_id": "WcJwO3Gq-hs",
+    "title": "Takunomi.",
+    "title_english": "Takunomi",
+    "type": "TV",
+    "source": "Web manga",
+    "status": "Finished Airing",
+    "year": 2018,
+    "season": "winter",
+    "airing": false,
+    "aired": {
+      "from": "2018-01-12T00:00:00+00:00",
+      "to": "2018-03-30T00:00:00+00:00"
+    },
+    "duration": "12 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.44,
+    "popularity": 3589,
+    "synopsis": "20-year-old Michiru Amatsuki moved to Tokyo after a career change, and now finds herself living in a woman only share house, Stella House Haruno, with a few other women of varying age and occupation. Every night the girls settle down and have a drink or two (or more) as drama ensues.",
+    "genres": [
+      4,
+      47
+    ],
+    "themes": [
+      50,
+      52
+    ],
+    "demographics": [],
+    "studios": [
+      1053
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          108731
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 99753,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Takunomi. 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 19,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1dYZyP6iRaJkoLbq4op7djRd8MukAJZtA/preview"
+        },
+        {
+          "fansub_id": 19,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/11xzfBTEZE3d_IW-2G2e1ZJH4ufHNd5lL/preview"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847784"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4491675"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4084749"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-hwruj74yzov2.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-oeiwmcnj9hup.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/dz4lw1zz"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-fvq2vp06texp.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T14:57:44.223739",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Takunomi. 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 19,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1L70LYsktR05SOSY-wuQbK2N9r2mjD7NX/preview"
+        },
+        {
+          "fansub_id": 19,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1cT3EXfynJMLnMxrXQSozHtry1fD3tStC/preview"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847785"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4522450"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-hpnain7ktjs0.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-9ekz5uwpfonl.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-bzbl6a9748vv.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 42,
+          "end": 129
+        },
+        "ed": {
+          "start": 625.878,
+          "end": 716.458
+        }
+      },
+      "added_date": "2026-07-29T14:57:44.223739",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Takunomi. 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 19,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/169sUCyhoW4Mn3AoWUQ7WRFFetJVtmQod/preview"
+        },
+        {
+          "fansub_id": 19,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1UtYdsMAdWIRd6g_UuneRFPqTucK4BjP0/preview"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847786"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ar1007p95qcy.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-pi1w3uss84nu.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-m780dsq1vems.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 48.957,
+          "end": 139.25
+        },
+        "ed": {
+          "start": 625.667,
+          "end": 716.542
+        }
+      },
+      "added_date": "2026-07-29T14:57:44.223739",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Takunomi. 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 19,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1YT-ojl1JudPcyVx3Y2OsN_EIDM8eTK66/preview"
+        },
+        {
+          "fansub_id": 19,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/13Ydzp7R1GoZ7Mil8xXvLY3UjSLzgx2Yt/preview"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847787"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359664787"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3225130"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4618551"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-outb9wtm6xgr.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-bjd9mdox2jgm.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-alvo658ug7jl.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 19,
+          "end": 108
+        },
+        "ed": {
+          "start": 623,
+          "end": 713
+        }
+      },
+      "added_date": "2026-07-29T14:57:44.223739",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Takunomi. 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 19,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Qpi8pQKG51enUyGiBUBuEmdRm0fS84ty/preview"
+        },
+        {
+          "fansub_id": 19,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1IOITTWK60qYSlwMxSRyxC7fYUt9ZZciS/preview"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847788"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4460893"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3235290"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-e3fwvxejgajy.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-dnhzlb5seww1.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ajeo5de3"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 33,
+          "end": 121
+        },
+        "ed": {
+          "start": 626,
+          "end": 715
+        }
+      },
+      "added_date": "2026-07-29T14:57:44.223739",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Takunomi. 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 19,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/13y1cO_XNFiQhcxnfm8DVRtdOLupO8rF5/preview"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847789"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4460896"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3239875"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-cok1kthpkxex.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-0ejew8fhko2w.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/wl6228fa"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 35.966,
+          "end": 123.919
+        }
+      },
+      "added_date": "2026-07-29T14:57:44.223739",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Takunomi. 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847790"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4532431"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3241281"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-jsz87095gn9q.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-nuhbp1xsu0o6.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-foslsg6utl2f.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T14:57:44.223739",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Takunomi. 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 19,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/19qOO-jcg5uBpeMHnWXVD0EdMoYECtCOK/preview"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847791"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4460899"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-bylplzfc8zcm.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-g18gwkcsegzy.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/4gmbuqyj"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/q820v4jm"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T14:57:44.223739",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Takunomi. 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 19,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1UFXFJMzxoQQCD6gh4UP_u9LGYTyL5vtr/preview"
+        },
+        {
+          "fansub_id": 19,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1q9ci31b1S5A8YEONY3gUIHKTYk-CGmyw/preview"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847792"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4491684"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-l8oaq5rkoyd6.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-s59drk8vuv6u.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/6j4a8cog"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-s78cp611ga33.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T14:57:44.223739",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Takunomi. 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 19,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ztZtKBjyZFmzdwHBXpysg1Ah7U4Hhi93/preview"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847793"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4491692"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5ni12bk6jm2h.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-27qqzssmh4br.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 36,
+          "end": 125
+        },
+        "ed": {
+          "start": 626,
+          "end": 715
+        }
+      },
+      "added_date": "2026-07-29T14:57:44.223739",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Takunomi. 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 19,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Wg6j3qPJWd09GPix0B2aN8E9nN4rtdR9/preview"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847794"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359664788"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3506867"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4618552"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-pa0xxwn63eeu.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-a1tdilg78f20.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ojyh5augk8n9.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 30,
+          "end": 118
+        },
+        "ed": {
+          "start": 626,
+          "end": 715
+        }
+      },
+      "added_date": "2026-07-29T14:57:44.223739",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Takunomi. 12. Bölüm Final",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 19,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1lHVRpvIj1Yut6MjJM-WvCqKawee08mSQ/preview"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847795"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359664789"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4618557"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=3506866"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vg4jt5m0xcmm.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-1lg7xssxqv4d.html"
+        },
+        {
+          "fansub_id": 19,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/rn6rw8kd"
+        },
+        {
+          "fansub_id": 19,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-x2jlyv7ptx1i.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 50,
+          "end": 138
+        }
+      },
+      "added_date": "2026-07-29T14:57:44.223739",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

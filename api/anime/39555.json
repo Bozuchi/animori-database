@@ -1,0 +1,785 @@
+{
+  "turkanime": {
+    "isim": "Baki 2nd Season",
+    "puan": "8.83",
+    "bolum_durumu": "13/13",
+    "ozet": "Baki animesinin 2. sezonudur.",
+    "slug": "baki-2nd-season"
+  },
+  "jikan": {
+    "mal_id": 39555,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1924/109353.jpg",
+    "trailer_id": "SIZjS5cVkbs",
+    "title": "Baki: Dai Raitaisai-hen",
+    "title_english": "Baki: The Great Raitai Tournament Saga",
+    "type": "ONA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2020-06-04T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "24 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.52,
+    "popularity": 1183,
+    "synopsis": "Weakened by the poison from his last battle, Baki Hanma finds himself on the verge of death with no salvation in sight. However, after Baki's friend, Retsu Kaiou, brings him to China, he learns about the centurial Raitai Tournament, where the fiercest warriors fight to be crowned as the strongest martial artist in all of China. \n\nAs it is now allowing entry to foreigners, Baki is informed that he will have to compete in the tournament as it holds the cure to his illness. Unfortunately, Baki's father, deemed the \"Strongest Creature on Earth,\" is participating too. Baki 2nd Season details the events of the grand Chinese tournament, as well as Baki's encounter with the eccentric yet powerful Mohammad Alai Jr.\n\n[Written by MAL Rewrite]",
+    "genres": [
+      30
+    ],
+    "themes": [
+      54,
+      58
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      73
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          34443
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          42940
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          5157
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 108522,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Baki 2nd Season 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 148,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7571497515682372551"
+        },
+        {
+          "fansub_id": 148,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/dqowh9pftscm"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1JcR_o3z7F4fTMDKkX8BzhU083XXWt_ku/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985850463"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4433883"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-vy0j8fwekxt3.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/hjjrdyh6"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-493ufta2qve7.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 0,
+          "end": 100
+        },
+        "ed": {
+          "start": 1342,
+          "end": 1437
+        }
+      },
+      "added_date": "2026-07-23T03:39:02.165884",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Baki 2nd Season 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 148,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/xxluwlojydpo"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1ZqEPRA_yqUMAKIzl22QZ_vRowcdOPDan/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985850464"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4433887"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-6vd74x7xd2i2.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/qjfs2t1j"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-wooem8od27m8.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 26.591,
+          "end": 116.591
+        },
+        "ed": {
+          "start": 1284,
+          "end": 1376
+        }
+      },
+      "added_date": "2026-07-23T03:39:02.165884",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Baki 2nd Season 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 148,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/6ba9jzy8qeqx"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/156tYsMVa2ztz8lh9OkS3ojchfKZusGCY/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985850465"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4433890"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-p7uft9zju8xl.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/s2hfjelb"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-50a2f8l3jhx5.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 17.222,
+          "end": 107.222
+        },
+        "ed": {
+          "start": 1344,
+          "end": 1437
+        }
+      },
+      "added_date": "2026-07-23T03:39:02.165884",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Baki 2nd Season 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 148,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/ewi4qohljtqm"
+        },
+        {
+          "fansub_id": 148,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-q9phst54fiao.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1u_OIySL_wsIFcBlKSOoNDYpRqZMwWs8N/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985850466"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4433901"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-uzz1fnj08953.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/8hyfjxj3"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-mw50bpyj4b9s.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 15.352,
+          "end": 105.352
+        },
+        "ed": {
+          "start": 1338,
+          "end": 1437
+        }
+      },
+      "added_date": "2026-07-23T03:39:02.165884",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Baki 2nd Season 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 148,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/auyae1yzacof"
+        },
+        {
+          "fansub_id": 148,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-svdu98flv6ut.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1_-pEzeGV9SmnvxQTrYQjc6Ggf59LccQ8/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985850467"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/61xnik85"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-kihh5bckc5e3.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 2.636,
+          "end": 105.636
+        },
+        "ed": {
+          "start": 1341,
+          "end": 1437
+        }
+      },
+      "added_date": "2026-07-23T03:39:02.165884",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Baki 2nd Season 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 148,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/jv4kccc1xfem"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1hKCkJI8UcY8IRnLi6_zmEIpuQuW_VYW_/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985850468"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4433909"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/im0e87zu"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ioyrzyhhcws1.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 17.041,
+          "end": 107.041
+        },
+        "ed": {
+          "start": 1340,
+          "end": 1437
+        }
+      },
+      "added_date": "2026-07-23T03:39:02.165884",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Baki 2nd Season 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 148,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/qed49bz86us7"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1eio3ZF6zN2YNGBVrpinpZ8xqKNz-knWo/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985850469"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4433913"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-lxhm2dw0adjb.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/297ctukl"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-2gp3bj8gpx1f.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 1.739,
+          "end": 91.739
+        },
+        "ed": {
+          "start": 1342,
+          "end": 1428
+        }
+      },
+      "added_date": "2026-07-23T03:39:02.165884",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Baki 2nd Season 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 148,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/1pm6p6b0vwyz"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/19iVYx0ebSCt5iEeEbuEHMq5Vc-ajyfOt/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985850470"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4433917"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-xrqzkk8wl9wz.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/mkvdk8d2"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-4rtmo6qnnbxw.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 14.321,
+          "end": 104.321
+        },
+        "ed": {
+          "start": 1339,
+          "end": 1435
+        }
+      },
+      "added_date": "2026-07-23T03:39:02.165884",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Baki 2nd Season 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 148,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/dmg0vo29eikn"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1pFv9Dt4Rrm10cI-vhFoDeChVpA-3XLlG/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985850471"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4433923"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-tkn447ntcm99.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/7iu4is7f"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-5xor7obfl4mx.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 23.69,
+          "end": 113.69
+        },
+        "ed": {
+          "start": 1340,
+          "end": 1437
+        }
+      },
+      "added_date": "2026-07-23T03:39:02.165884",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Baki 2nd Season 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 148,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/irkpmyp6ngsi"
+        },
+        {
+          "fansub_id": 148,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5bdzj9w9vfjc.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/18ILAdLqoJ24opn6w_JiWXFIjJ8ZOIivX/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985850472"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4433930"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ke1h51x01lj8.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/bf2h34rg"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-nme9wm7kljji.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 12.924,
+          "end": 102.924
+        },
+        "ed": {
+          "start": 1343,
+          "end": 1436
+        }
+      },
+      "added_date": "2026-07-23T03:39:02.165884",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Baki 2nd Season 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 148,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/sk50qkt5mfgk"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1lwQ5dR-HRjbP3TQLcn8SiB1Fea2e7MrA/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985850473"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4433938"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-9wdzfd9ritsx.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/z4di5uh2"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-kmas24wwwdnj.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 11.708,
+          "end": 101.708
+        },
+        "ed": {
+          "start": 1341,
+          "end": 1437
+        }
+      },
+      "added_date": "2026-07-23T03:39:02.165884",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Baki 2nd Season 12. Bölüm",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 148,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/bx1hqxrwbfuw"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1IbALxxsqMNiRvFxCKwiZLCGI0kicSr31/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985850474"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4433942"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-cihmjd4odsm2.html"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/q8j681m9"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-5t2t7b2qpfo0.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 8.438,
+          "end": 98.438
+        },
+        "ed": {
+          "start": 1344,
+          "end": 1437
+        }
+      },
+      "added_date": "2026-07-23T03:39:02.165884",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Baki 2nd Season 13. Bölüm Final",
+      "episode_number": 13,
+      "videos": [
+        {
+          "fansub_id": 148,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/59ihu8h2p6o2"
+        },
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1q0Fpz_V5iFt5q1lXN3e_F3K4GIG-0G2N/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985850475"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4433950"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/mbiskzzo"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-7cmbwsuhxllo.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 16.242,
+          "end": 106.242
+        },
+        "ed": {
+          "start": 1342,
+          "end": 1436
+        }
+      },
+      "added_date": "2026-07-23T03:39:02.165884",
+      "jikan_mal_id": 13,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

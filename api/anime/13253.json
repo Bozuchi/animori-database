@@ -1,0 +1,80 @@
+{
+  "turkanime": {
+    "isim": "Blossom",
+    "puan": "7.52",
+    "bolum_durumu": "1/1",
+    "ozet": "3 Mart 2011 tarihinde Japonya Tohoku'da meydana gelen deprem ve tsunami felaketi anısına yapılmış tek bölümlük bir anime eseridir.",
+    "slug": "blossom"
+  },
+  "jikan": {
+    "mal_id": 13253,
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/37105.jpg",
+    "trailer_id": null,
+    "title": "Blossom",
+    "title_english": null,
+    "type": "Music",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2012-03-24T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "5 min",
+    "rating": "G - All Ages",
+    "score": 6.49,
+    "popularity": 9329,
+    "synopsis": "Blossom is a short work of animation set to music. It is dedicated to memory of Japan's 3/11 Tohoku earthquake and tsunami disaster that \"reminds us not to forget those who were directly affected.\" \n\n(Source: Crunchyroll News)",
+    "genres": [],
+    "themes": [
+      19
+    ],
+    "demographics": [],
+    "studios": [
+      334
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entries": [
+          25549,
+          23365
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 13253,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Blossom",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1tf6MxlQdn_mrnZSAExwqRASdfnV42yDi/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933017033"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1794566"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T05:54:50.659732",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "turkanime": {
+    "isim": "Ryuu no Haisha",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Hikaye Ejderha Ülkesi’ nde geçiyor. Nonoko yeni atanmış bir dişçidir ve görevi ülkenin koruyucusu olan ejderhayı diş çürütücü bakterilerden korumaktır. Bir gün komşu ülkeyle giderek artan şiddetli savaşların arasında, Nonoko ejderhanın dişleri üzerinde bilinçsiz yatan bir düşman askeri bulur. Bulduğu askerin adı Bell' dir ve ejderhanın dişinin içinden yaşama geri dönmüştür ki bu olay efsanelerde büyük felaketlerden önce olduğu anlatılan doğaüstü bir fenomendir. Nonoko ve Bell şiddetli mücadeleler serisinden geçtikçe sonunda kaderlerini kabul etmeyi öğrenecekler.",
+    "slug": "ryuu-no-haisha"
+  },
+  "jikan": {
+    "mal_id": 34549,
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/83336.jpg",
+    "trailer_id": "i2JNphL1meU",
+    "title": "Ryuu no Haisha",
+    "title_english": "The Dragon Dentist",
+    "type": "TV Special",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2017-02-18T00:00:00+00:00",
+      "to": "2017-02-25T00:00:00+00:00"
+    },
+    "duration": "46 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.36,
+    "popularity": 3838,
+    "synopsis": "War rages between two neighboring countries, but one side has an ace up their sleeve: an ancient dragon bound by a pact to protect the nation. Despite these overpowering creatures being capable of leveling entire battlefields, they are rendered useless by cavities. And so, a special unit—the dragon dentists—has the important duty of caring for the dragon's teeth.\n\nNonoko Kishii was the only one of many brave volunteers who survived a recent round of recruitment; in order to join the dragon dentists, one has to witness their future demise and accept it without a fight. Knowing the exact circumstances of their fated ends, the dragon dentists devote themselves to their work. One day, they gain a new member who did not undergo the test: Bernard \"Bel\" Octavius, a young enemy officer killed by his own men and revived by the dragon's teeth. Despite his appearance being an omen of a great disaster, he is placed under the care of Nonoko as a dentist-in-training. Will Bel come around to the dragon dentists' attitudes toward death and help them face the painful future that is to come?\n\n[Written by MAL Rewrite]",
+    "genres": [
+      2,
+      10
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      47
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          108906
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          28149
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 87539,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/87539-zwD4Nx4NWbuw.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Ryuu no Haisha 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 26,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1SHKfkjNLR8IuzPOQuJEvniPM5s-AleL9/preview"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847769"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/ynssr/video/embed/_myvideo/3"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359658608"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4454563"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4084723"
+        },
+        {
+          "fansub_id": 26,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/ady0dwdt"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T05:20:38.347559",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Ryuu no Haisha 2. Bölüm Final",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 26,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1q_KtzFYT-leAjVD0NwanpZcQl_laBqe8/preview"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985847770"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985850839"
+        },
+        {
+          "fansub_id": 26,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/ynssr/video/embed/_myvideo/5"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T05:20:38.347559",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

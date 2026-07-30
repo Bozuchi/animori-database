@@ -1,0 +1,639 @@
+{
+  "turkanime": {
+    "isim": "Barakamon: Mijikamon",
+    "puan": "8.63",
+    "bolum_durumu": "13/13",
+    "ozet": "Barakamon'un, her normal bölümünden önce resmi YouTube kanalında yayınlanan parodi bölümleridir.",
+    "slug": "barakamon-mijikamon"
+  },
+  "jikan": {
+    "mal_id": 25045,
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/75964.jpg",
+    "trailer_id": null,
+    "title": "Mijikamon",
+    "title_english": null,
+    "type": "ONA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2014-07-03T00:00:00+00:00",
+      "to": "2014-09-28T00:00:00+00:00"
+    },
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.77,
+    "popularity": 4472,
+    "synopsis": "2-minute specials for Barakamon featuring chibi characters. These specials were streamed exclusively on YouTube only in Japan after every episode of the main series.",
+    "genres": [
+      4
+    ],
+    "themes": [
+      80
+    ],
+    "demographics": [],
+    "studios": [
+      290
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          39217
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          22789
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 20782,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Barakamon: Mijikamon 0. Bölüm",
+      "episode_number": 0,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/inbox/nouens/_myvideo/26.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685362315"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4170527"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1535406"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2amtsskgiink.html"
+        },
+        {
+          "fansub_id": 83,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1555337"
+        },
+        {
+          "fansub_id": 83,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1535768"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T04:14:10.093656",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Barakamon: Mijikamon 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/inbox/nouens/_myvideo/27.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685362316"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4170528"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1535407"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-dj4iyt8u27vq.html"
+        },
+        {
+          "fansub_id": 83,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1555338"
+        },
+        {
+          "fansub_id": 83,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1535769"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T04:14:10.093656",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Barakamon: Mijikamon 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/inbox/nouens/_myvideo/28.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685362317"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1535409"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4170529"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-q4mttzi6820y.html"
+        },
+        {
+          "fansub_id": 83,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1555339"
+        },
+        {
+          "fansub_id": 83,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1535770"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T04:14:10.093656",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Barakamon: Mijikamon 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/inbox/nouens/_myvideo/29.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685362318"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4170531"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-zmqq9bg17t7g.html"
+        },
+        {
+          "fansub_id": 83,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1555340"
+        },
+        {
+          "fansub_id": 83,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1535772"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T04:14:10.093656",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Barakamon: Mijikamon 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/inbox/nouens/_myvideo/30.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685362319"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1535410"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4170532"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-3r7d285wz8em.html"
+        },
+        {
+          "fansub_id": 83,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1555341"
+        },
+        {
+          "fansub_id": 83,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1535780"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T04:14:10.093656",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Barakamon: Mijikamon 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/inbox/nouens/_myvideo/31.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685362320"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4170533"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1535411"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-2kx44zxkc1xv.html"
+        },
+        {
+          "fansub_id": 83,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1555342"
+        },
+        {
+          "fansub_id": 83,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1535787"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T04:14:10.093656",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Barakamon: Mijikamon 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685362321"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/inbox/nouens/_myvideo/32.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4170534"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1535412"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-7jpejkx1vjhl.html"
+        },
+        {
+          "fansub_id": 83,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1555343"
+        },
+        {
+          "fansub_id": 83,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1535788"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T04:14:10.093656",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Barakamon: Mijikamon 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685362322"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/inbox/nouens/_myvideo/33.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4170536"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1535413"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-q6b0y3whkord.html"
+        },
+        {
+          "fansub_id": 83,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1555344"
+        },
+        {
+          "fansub_id": 83,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1539319"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T04:14:10.093656",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Barakamon: Mijikamon 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685362323"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/inbox/nouens/_myvideo/34.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4170537"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1535414"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-o4ovuuqo2a33.html"
+        },
+        {
+          "fansub_id": 83,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1555345"
+        },
+        {
+          "fansub_id": 83,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1539326"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T04:14:10.093656",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Barakamon: Mijikamon 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685362324"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/inbox/nouens/_myvideo/35.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4170538"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1544438"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-zi8nfdap4dzt.html"
+        },
+        {
+          "fansub_id": 83,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1555346"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T04:14:10.093656",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Barakamon: Mijikamon 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685362325"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/inbox/nouens/_myvideo/36.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4170539"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1553531"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-wsl66cu60z63.html"
+        },
+        {
+          "fansub_id": 83,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1555347"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T04:14:10.093656",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Barakamon: Mijikamon 11. Bölüm",
+      "episode_number": 11,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/inbox/nouens/_myvideo/37.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685362326"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4170540"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4533080"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1563985"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-aqnl2fw9k03l.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-o11c5zh7qyah.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-g2n5ow84cxow.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T04:14:10.093656",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Barakamon: Mijikamon 12. Bölüm Final",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/inbox/nouens/_myvideo/38.html"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9216453574685362327"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1565997"
+        },
+        {
+          "fansub_id": 5,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4170541"
+        },
+        {
+          "fansub_id": 5,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-e9vcbt6lpvdj.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T04:14:10.093656",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "turkanime": {
+    "isim": "Saibi",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "İyi kim? Kötü kim? Aralarındaki sınır ne? İyi kalpli birinin yalan konuşmasını ve kötü huylu birinin gerçeği konuşmasını konu alan gerilim animesidir.",
+    "slug": "saibi"
+  },
+  "jikan": {
+    "mal_id": 21027,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1056/112684.jpg",
+    "trailer_id": null,
+    "title": "Saibi",
+    "title_english": "The Fake",
+    "type": "Movie",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2013-11-21T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 40 min",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 6.64,
+    "popularity": 9498,
+    "synopsis": "Who is good and who is evil? What is the boundary between them? An animated thriller about the tension between a good-hearted person speaking falsely and an evil-natured person speaking truthfully, and of those that surround them.\n\n(Source: Hancinema)",
+    "genres": [
+      8,
+      41
+    ],
+    "themes": [
+      40
+    ],
+    "demographics": [],
+    "studios": [],
+    "relations": []
+  },
+  "anilist": {
+    "id": 100931,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Saibi",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Zq7ZDD6Q-yV8EqteFe79Yum-lb_vlnfH/preview"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933018757"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/4015"
+        },
+        {
+          "fansub_id": 21,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-fz80ufku1oxs.html"
+        },
+        {
+          "fansub_id": 160,
+          "player": "MAIL",
+          "url": "https://videoapi.my.mail.ru/videos/embed/mail/feeling7d/_myvideo/919.html"
+        },
+        {
+          "fansub_id": 160,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-b62e22n1ovqn.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T05:30:57.455125",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

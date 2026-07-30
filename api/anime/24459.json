@@ -1,0 +1,95 @@
+{
+  "turkanime": {
+    "isim": "Tales of Zestiria: Doushi no Yoake",
+    "puan": "8.79",
+    "bolum_durumu": "1/1",
+    "ozet": "Bandai Namco Games'in role playing oyunu (rol yapma oyunu) Tales of Zestiria'nın TV anime özel bölümü.",
+    "slug": "tales-of-zestiria-doushi-no-yoake"
+  },
+  "jikan": {
+    "mal_id": 24459,
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/69719.jpg",
+    "trailer_id": "mGrAwQzjcfo",
+    "title": "Tales of Zestiria: Doushi no Yoake",
+    "title_english": "Tales of Zestiria: Dawn of the Shepherd",
+    "type": "TV Special",
+    "source": "Game",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2014-12-30T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "44 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.35,
+    "popularity": 3857,
+    "synopsis": "TV anime special of Bandai Namco Games' Tales of Zestiria role-playing game.",
+    "genres": [
+      10
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      43
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          84933
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          30911
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 20730,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20730.jpg"
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Tales of Zestiria: Doushi no Yoake",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 119,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1TMgBjwXEcdgA394tI3GKLvCTiIBsB1pX/preview"
+        },
+        {
+          "fansub_id": 119,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=1979769"
+        },
+        {
+          "fansub_id": 119,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-39bdg1vegwf6.html"
+        },
+        {
+          "fansub_id": 119,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/4ek9rqfu"
+        },
+        {
+          "fansub_id": 119,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-bpygmg5dlqdk.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T15:02:36.722200",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

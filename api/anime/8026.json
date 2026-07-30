@@ -1,0 +1,101 @@
+{
+  "turkanime": {
+    "isim": "Super Street Fighter IV",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Street Fighter II'den kısa süre sonrasını ve IV'ün ana konusunu anlatacak olan bir filmdir.",
+    "slug": "super-street-fighter-iv"
+  },
+  "jikan": {
+    "mal_id": 8026,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1345/141455.jpg",
+    "trailer_id": null,
+    "title": "Super Street Fighter IV",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Game",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2010-04-28T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "35 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.33,
+    "popularity": 8007,
+    "synopsis": "This OVA will reveal the truth about Juri's evil eye and feature plenty of Cammy and the Dolls.\n\n(Source: Capcom)",
+    "genres": [
+      1,
+      2
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      3
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          17379
+        ]
+      },
+      {
+        "relation": "Spin-Off",
+        "entries": [
+          5369
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 8026,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Street Fighter IV Movie",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 3,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/11kcUbCS-TAj1eQmLtNompcXxMO1Tdp-S/preview"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7384122149985845828"
+        },
+        {
+          "fansub_id": 3,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7370103204933016471"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4065012"
+        },
+        {
+          "fansub_id": 3,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/xqc84c6l"
+        },
+        {
+          "fansub_id": 3,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-skuijx4q3g3c.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T13:44:02.995285",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

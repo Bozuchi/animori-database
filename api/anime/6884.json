@@ -1,0 +1,168 @@
+{
+  "turkanime": {
+    "isim": "Ookami to Koushinryou II: Holo no Short Anime",
+    "puan": "0.00",
+    "bolum_durumu": "2/2",
+    "ozet": "Ookami to Koushinryou II serisine ait 3 dakikalık specail bölümlerdir.",
+    "slug": "ookami-to-koushinryou-ii-holo-no-short-anime"
+  },
+  "jikan": {
+    "mal_id": 6884,
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/17117.jpg",
+    "trailer_id": null,
+    "title": "Ookami to Koushinryou II: Holo no Short Anime",
+    "title_english": "Spice and Wolf II Specials",
+    "type": "Special",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2009-10-07T00:00:00+00:00",
+      "to": "2009-11-04T00:00:00+00:00"
+    },
+    "duration": "3 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.04,
+    "popularity": 3151,
+    "synopsis": "Extra short anime featuring Holo from BD volumes 1 and 2.",
+    "genres": [
+      37
+    ],
+    "themes": [
+      50
+    ],
+    "demographics": [],
+    "studios": [
+      112,
+      553
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entries": [
+          5341
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 6884,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Spice And Wolf Special 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/17XXXHmRJMKHMC1z9RbDHtQsL0WUJpEOg/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140717236"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7893414565877121242"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4471210"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2603438"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-eqcmmobeazhw.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/3kp2up6g"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/agjjgf18"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-bvpk2ykf7sm6.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-28T23:43:57.048432",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Spice And Wolf Special 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 68,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1pt8q-16wdGkUJEa6CSOEh46uEl0VtUk4/preview"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140717237"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7893414565877121243"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4471212"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=2603439"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-sio5rz2h7t1j.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-226ftozu1y58.html"
+        },
+        {
+          "fansub_id": 68,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/o6w6z2he"
+        },
+        {
+          "fansub_id": 68,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-gv614k4pg4h6.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-28T23:43:57.048432",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    }
+  ]
+}

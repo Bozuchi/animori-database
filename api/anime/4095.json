@@ -1,0 +1,95 @@
+{
+  "turkanime": {
+    "isim": "Chuumon no Ooi Ryouriten (1991)",
+    "puan": "0.00",
+    "bolum_durumu": "1/1",
+    "ozet": "Ormana ava giden iki kişinin gizli bir restorant’a rastlamalarıyla birlikte başlarına gelenleri anlatıyor…",
+    "slug": "chuumon-no-ooi-ryouriten-1991"
+  },
+  "jikan": {
+    "mal_id": 4095,
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/7479.jpg",
+    "trailer_id": null,
+    "title": "Chuumon no Ooi Ryouriten (1991)",
+    "title_english": null,
+    "type": "Movie",
+    "source": "Book",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "1991-01-01T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "19 min",
+    "rating": "G - All Ages",
+    "score": 6.25,
+    "popularity": 8886,
+    "synopsis": "A short film based on a story by Japanese writer Kenji Miyazawa. \nTwo young British hunters get lost in the woods and discover a strange restaurant. Are the hunters about to discover how it feels to be the hunted?\n\n(Source: ANN)",
+    "genres": [
+      46,
+      14,
+      37
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          7621,
+          30967
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 4095,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "The Restaurant of Many Orders",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 192,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1psPbvqAUzT3Kf_fQ-llfDT892WZKfpjW/preview"
+        },
+        {
+          "fansub_id": 192,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/9165530183271193556"
+        },
+        {
+          "fansub_id": 192,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4251935"
+        },
+        {
+          "fansub_id": 192,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4502286"
+        },
+        {
+          "fansub_id": 192,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/v9rtw198"
+        },
+        {
+          "fansub_id": 192,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-p46f8i7e4qvv.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-23T15:55:29.564479",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

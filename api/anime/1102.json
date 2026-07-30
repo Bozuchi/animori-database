@@ -1,0 +1,76 @@
+{
+  "turkanime": {
+    "isim": "Urda",
+    "puan": "0.00",
+    "bolum_durumu": "1/5",
+    "ozet": "1943 senesi, Naziler Urda adında gizli bir tasarı yürütüyor. İki ajan Janet ve Erna da bu tasarının ne olduğunu ortaya çıkarıp durdurmaya çalışıyor.",
+    "slug": "urda"
+  },
+  "jikan": {
+    "mal_id": 1102,
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/33543.jpg",
+    "trailer_id": null,
+    "title": "Urda",
+    "title_english": null,
+    "type": "ONA",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2002-01-05T00:00:00+00:00",
+      "to": "2003-01-05T00:00:00+00:00"
+    },
+    "duration": "6 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 4.39,
+    "popularity": 9861,
+    "synopsis": "This fictional story took place in Europe around 1943. At that time Nazi secretly plotted a plan called Urda. Two agents, Janet and Erna received a task to investigate and prevent the completion of the secret plan.\n\n(Source: AniDB)",
+    "genres": [
+      1,
+      24
+    ],
+    "themes": [
+      13,
+      38
+    ],
+    "demographics": [],
+    "studios": [
+      591
+    ],
+    "relations": []
+  },
+  "anilist": {
+    "id": 1102,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Urda",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 21,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/3095424634359656255"
+        },
+        {
+          "fansub_id": 21,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4439063"
+        },
+        {
+          "fansub_id": 21,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-gbem079b0yrb.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T19:43:48.624767",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}

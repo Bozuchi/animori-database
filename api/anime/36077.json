@@ -1,0 +1,106 @@
+{
+  "turkanime": {
+    "isim": "Macross Δ Movie: Gekijou no Walküre",
+    "puan": "0.00",
+    "bolum_durumu": "1/7",
+    "ozet": "Flim TV animesinden farklı bir hikayeyi konu alacaktır.",
+    "slug": "macross-movie-gekijou-no-walkure"
+  },
+  "jikan": {
+    "mal_id": 36077,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1217/94351.jpg",
+    "trailer_id": null,
+    "title": "Macross Δ Movie: Gekijou no Walküre",
+    "title_english": "Macross Delta the Movie: Passionate Walkure",
+    "type": "Movie",
+    "source": "Original",
+    "status": "Finished Airing",
+    "year": null,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2018-02-09T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 hr 59 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.79,
+    "popularity": 6868,
+    "synopsis": "The movie recompiles scenes from the Macross Δ television anime with new scenes to tell a different story.\n\n(Source: AniDB)",
+    "genres": [
+      24
+    ],
+    "themes": [
+      18,
+      38,
+      19,
+      29
+    ],
+    "demographics": [],
+    "studios": [
+      41
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          38373
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          28013
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          38676
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 101126,
+    "banner_image": null
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Macross Δ Movie: Gekijou no Walküre",
+      "episode_number": null,
+      "videos": [
+        {
+          "fansub_id": 39,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1a1CFi_zMGfd7oqQsY7KGgUGF6UBLd1uf/preview"
+        },
+        {
+          "fansub_id": 39,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1-KgPKPhGzDt-NABmUD-5AeQqg8uZiTKU/preview"
+        },
+        {
+          "fansub_id": 39,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140717822"
+        },
+        {
+          "fansub_id": 39,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1030"
+        },
+        {
+          "fansub_id": 39,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-tvbokn0p7kpm.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-27T09:12:48.978863",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    }
+  ]
+}
