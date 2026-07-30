@@ -92,7 +92,7 @@ class MalHtmlEnricher:
 
     def _request_with_retry(self, url: str) -> str | None:
         """
-        HTTP GET isteği yapar. 429/403 hatalarında backoff ile tekrar dener.
+        HTTP GET isteği yapar. 429/403/5xx hatalarında backoff ile tekrar dener.
 
         Returns:
             str: HTML yanıt metni veya None (hata durumunda).
@@ -106,21 +106,45 @@ class MalHtmlEnricher:
 
                 if response.status_code in (429, 403):
                     wait_time = RETRY_BACKOFF * (attempt + 1)
-                    self.logger.warning(f"HTTP {response.status_code}! {wait_time}s bekleniyor... (Deneme {attempt + 1}/{RETRY_MAX})")
+                    self.logger.warning(
+                        f"HTTP {response.status_code}! {wait_time}s bekleniyor... "
+                        f"(Deneme {attempt + 1}/{RETRY_MAX}): {url}"
+                    )
                     time.sleep(wait_time)
                     continue
 
-                # Diğer HTTP hataları
-                self.logger.warning(f"HTTP {response.status_code}: {url}")
+                if response.status_code in (500, 502, 503, 504):
+                    wait_time = RETRY_BACKOFF * (attempt + 1)
+                    self.logger.warning(
+                        f"Sunucu hatası (HTTP {response.status_code}). {wait_time}s bekleniyor... "
+                        f"(Deneme {attempt + 1}/{RETRY_MAX}): {url}"
+                    )
+                    time.sleep(wait_time)
+                    continue
+
+                if response.status_code == 404:
+                    self.logger.warning(f"Sayfa bulunamadı (HTTP 404): {url}")
+                    return None
+
+                # Diğer HTTP hataları (örneğin 400, 401 vb. tekrar denemeye değmez)
+                self.logger.error(f"HTTP {response.status_code} hatası: {url}")
                 return None
 
             except requests.exceptions.Timeout:
-                self.logger.warning(f"Timeout hatası (Deneme {attempt + 1}/{RETRY_MAX}): {url}")
-                time.sleep(3)
+                wait_time = RETRY_BACKOFF * (attempt + 1)
+                self.logger.warning(
+                    f"Timeout hatası. {wait_time}s bekleniyor... "
+                    f"(Deneme {attempt + 1}/{RETRY_MAX}): {url}"
+                )
+                time.sleep(wait_time)
 
             except requests.exceptions.RequestException as e:
-                self.logger.warning(f"Bağlantı hatası (Deneme {attempt + 1}/{RETRY_MAX}): {e}")
-                time.sleep(3)
+                wait_time = RETRY_BACKOFF * (attempt + 1)
+                self.logger.warning(
+                    f"Bağlantı hatası: {e}. {wait_time}s bekleniyor... "
+                    f"(Deneme {attempt + 1}/{RETRY_MAX}): {url}"
+                )
+                time.sleep(wait_time)
 
         self.logger.error(f"Tüm denemeler başarısız ({RETRY_MAX}x): {url}")
         return None

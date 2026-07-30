@@ -64,7 +64,15 @@ def setup_logger(name: str, error_log_path: str = "errors.log") -> logging.Logge
         return logger
 
     # ── Konsol handler (INFO ve üstü, renkli) ──
-    console = logging.StreamHandler(sys.stdout)
+    # Windows'ta cp1254 gibi legacy encoding'lerde emoji karakterler
+    # UnicodeEncodeError fırlatır; stdout'u UTF-8'e çeviriyoruz.
+    stdout = sys.stdout
+    if hasattr(stdout, "reconfigure"):
+        try:
+            stdout.reconfigure(encoding="utf-8")
+        except Exception:
+            pass
+    console = logging.StreamHandler(stdout)
     console.setLevel(logging.INFO)
     console.setFormatter(_ColoredFormatter(
         "%(asctime)s [%(name)s] %(levelname)s — %(message)s",
