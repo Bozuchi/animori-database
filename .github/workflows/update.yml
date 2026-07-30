@@ -49,9 +49,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "📭 Değişiklik yok, commit atlanıyor."
           else
-            TIMESTAMP=$(date -u +'%Y-%m-%d %H:%M UTC')
-            ANIME_COUNT=$(python -c "import json; print(json.load(open('api/version.json'))['total_anime'])" 2>/dev/null || echo "?")
-            git commit -m "🔄 Anime database updated — ${TIMESTAMP} (${ANIME_COUNT} anime)"
+            git commit -m "🔄 Anime database updated"
             git push
             echo "✅ Değişiklikler push edildi."
           fi
