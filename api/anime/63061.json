@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Uchi no Otouto-domo ga Sumimasen",
     "puan": "0.00",
-    "bolum_durumu": "4/24",
+    "bolum_durumu": "5/24",
     "ozet": "Lise birinci sınıfın sonundaki bahar tatilinde Ito, annesinin yeniden evlenmesi nedeniyle taşınmak zorunda kalacağını öğrenir. Ancak onu bekleyen asıl sürpriz, aynı çatı altında aniden dört üvey erkek kardeşe sahip olmaktır.\n\nYeni ailesiyle iyi geçinmeye kararlı olan Ito, bu duruma uyum sağlamak için elinden geleni yapar; fakat kardeşlerin en büyüğü olan Gen, mesafeli ve ne düşündüğü pek anlaşılmayan biridir. Yine de birlikte daha fazla vakit geçirdikçe Ito, Gen'in bu mesafeli dış görünüşünün ardındaki gizli nezaketi yavaş yavaş fark etmeye başlar.",
     "slug": "uchi-no-otouto-domo-ga-sumimasen"
   },
@@ -147,9 +147,35 @@
       ],
       "skip_times": null,
       "added_date": "2026-07-29T18:59:30.341301",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Uchi no Otouto-domo ga Sumimasen 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/4fq0t4vfo97p"
+        },
+        {
+          "fansub_id": 1,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5wez59fetd6s.html"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-dk09dsy5spvp.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-02T02:54:21.393194",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
     }
   ]
 }
