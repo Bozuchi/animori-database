@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Tetsunabe no Jan!",
     "puan": "0.00",
-    "bolum_durumu": "4/?",
+    "bolum_durumu": "5/?",
     "ozet": "Orijinal Iron Wok Jan! mangası, Jan Akiyama adındaki dahi ve genç bir şefe odaklanmaktadır. Jan, üst düzey bir restoranda çalışmakta ve burada sürekli olarak restoran sahibinin torunu olan, kendisi de son derece başarılı bir şef konumundaki Kiriko Gobanchou'ya meydan okumaktadır. Kiriko, yiyeceklerin müşterinin mutluluğu ve memnuniyeti göz önünde bulundurularak yapılması gerektiğine inanırken; Jan ise yemek yapmanın tamamen bir rekabet ve yarış aracı olarak kullanılması gerektiğini savunmaktadır.",
     "slug": "tetsunabe-no-jan"
   },
@@ -216,6 +216,32 @@
       "jikan_mal_id": 4,
       "filler": false,
       "recap": false
+    },
+    {
+      "turkanime_title": "Tetsunabe no Jan! 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/zru8xqbdiusd"
+        },
+        {
+          "fansub_id": 1,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-p4yxg2a85fm4.html"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-rx8hawcc8twj.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-03T02:57:39.913712",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
     }
   ]
 }

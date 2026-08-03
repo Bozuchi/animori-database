@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
     "puan": "0.00",
-    "bolum_durumu": "3/?",
+    "bolum_durumu": "4/?",
     "ozet": "Narukami Ryusei, tam anlamıyla sıradan bir NEET’tir (okumayan ve çalışmayan genç). Günlerini dünyadaki hiçbir şeyi umursamadan, odasına kapanıp video oyunları oynayarak tembel bir şekilde geçirmektedir. Ancak işin aslı, Ryusei geçmişte başka bir dünyada hüküm süren oldukça güçlü bir iblis kraldır! Peki, madem bu yeni hayata geldi, neden canı ne istiyorsa onu yaparak gününü gün etmesindir ki?\n\nKüçük bir sorun dışında: Bu dünyaya reenkarne olan tek kişi kendisi değildir. Geçmiş dünyada onu alt eden kahraman da bu dünyadadır ve üstelik son derece sevimli bir lise kızına dönüşmüştür?! Ryusei, yeni bir dünyada can düşmanıyla yeniden bir araya gelip hayatta kalmayı başarabilecek midir, yoksa bu hayatında da kendini amansız bir mücadelenin ortasında mı bulacaktır?",
     "slug": "hanaori-san-wa-tensei-shitemo-kenka-ga-shitai"
   },
@@ -107,9 +107,9 @@
       ],
       "skip_times": null,
       "added_date": "2026-07-26T02:05:07.013062",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
     },
     {
       "turkanime_title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai 3. Bölüm",
@@ -142,6 +142,27 @@
         }
       },
       "added_date": "2026-07-27T00:50:33.995502",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/oxrunjmgpxow"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-tqlfalkn08pf.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-03T02:55:27.318647",
       "jikan_mal_id": null,
       "filler": null,
       "recap": null
