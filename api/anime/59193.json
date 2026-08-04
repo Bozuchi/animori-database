@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
     "puan": "0.00",
-    "bolum_durumu": "5/14",
+    "bolum_durumu": "6/14",
     "ozet": "Rudeus’un evlenip aile hayatı kurduğu ve babası Paul’ün kaybının ardından toparlanmaya çalıştığı 3. sezonda, sakin günler gizemli İnsan Tanrısı Hitogami’nin hain planlarıyla altüst olur. Gelecekteki kendisinden dehşet verici uyarılı bir mesaj alan Rudeus, ailesini ve sevdiklerini korumak için Hitogami’ye açıkça savaş ilan eder. Bu amansız mücadelede hayatta kalabilmek adına dünyanın en güçlü varlığı olan Ejder Tanrısı Orsted ile ölümcül bir ittifak kuran Rudeus, yeni zırh teknolojileri geliştirerek hayatının en epik ve en zorlu savaşlarına adım atar.",
     "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu"
   },
@@ -116,9 +116,9 @@
         }
       },
       "added_date": "2026-07-27T13:52:35.530623",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
     },
     {
       "turkanime_title": "Mushoku Tensei III: Isekai Ittara Honki Dasu 3. Bölüm",
@@ -199,6 +199,27 @@
       ],
       "skip_times": null,
       "added_date": "2026-07-27T13:52:35.530623",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Mushoku Tensei III: Isekai Ittara Honki Dasu 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/pk6r9ps3j175"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-nmulaa79qxiq.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-04T02:38:27.228657",
       "jikan_mal_id": null,
       "filler": null,
       "recap": null
