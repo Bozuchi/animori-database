@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "One Piece",
     "puan": "8.96",
-    "bolum_durumu": "1165/108+",
+    "bolum_durumu": "1166/108+",
     "ozet": "Korsan Kral Gold Roger, bu dünyadaki herşeyi elde eder ve idam edilirken, tüm servetinin Grand Line'da olduğunu, onu arayıp bulmaları gerektiğini söyler. Bu olaydan sonra herkes Grand Line'a gider. Ancak Grand Line'a girmek çok zor, Grand Line'da canlı kalabilmek imkansızdır.\n\nKahramanımız Monkey D. Luffy'nin rüyası, Korsan Kral olmak ve One Piece denen kimsenin bilmediği, görmediği hazineyi ele geçirmektir. Küçük yaşlardan beri hep korsan olmak isteyen Luffy, kazara bir şeytan meyvası (Akuma No Mi) yemiştir. 3 farklı şeytan meyvası vardır ve bu meyvalar yiyenlere çok üstün güçler sağlamaktadır ancak bu güçlerin bedeli asla yüzememektir. Luffy'nin yediği meyva onu bir lastik çocuğa çevirir. Bu olaydan yıllar sonra Luffy denize açılır. Yolculuğu sırasında ekibini toplayacak ve One Piece'i bulmak için Grand Line'da birbirinden tehlikeli ve komik maceralara atılacaktır.",
     "slug": "one-piece"
   },
@@ -68605,9 +68605,9 @@
         }
       },
       "added_date": "2026-07-27T20:27:10.365612",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 1169,
+      "filler": false,
+      "recap": false
     },
     {
       "turkanime_title": "One Piece 1170. Bölüm",
@@ -68631,9 +68631,9 @@
       ],
       "skip_times": null,
       "added_date": "2026-07-27T20:27:10.365612",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 1170,
+      "filler": false,
+      "recap": false
     },
     {
       "turkanime_title": "One Piece 1171. Bölüm",
@@ -68652,6 +68652,32 @@
       ],
       "skip_times": null,
       "added_date": "2026-07-27T20:27:10.365612",
+      "jikan_mal_id": 1171,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "One Piece 1172. Bölüm",
+      "episode_number": 1172,
+      "videos": [
+        {
+          "fansub_id": 115,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1lYaSc4x7QS8OLXi8tsceJi79qRxNzFIo/preview"
+        },
+        {
+          "fansub_id": 115,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6258056"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 1.185813,
+          "end": 100.5695
+        }
+      },
+      "added_date": "2026-08-06T02:40:49.079499",
       "jikan_mal_id": null,
       "filler": null,
       "recap": null
