@@ -70,6 +70,8 @@ def _build_embed(stats: dict, elapsed: str, error_lines: list[str], crash_error:
         "ozet_cekilen": "Özet Çekilen",
         "jikan_basarili": "Jikan Başarılı",
         "jikan_atlanan": "Jikan Atlandı",
+        "jikan_airing_guncellenen": "Jikan Airing Güncellenen",
+        "jikan_airing_ayni": "Jikan Airing Aynı",
         "jikan_basarisiz": "Jikan Başarısız",
         "anilist_basarili": "AniList Başarılı",
         "anilist_atlanan": "AniList Atlandı",
