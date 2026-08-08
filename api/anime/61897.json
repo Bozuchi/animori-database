@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Katainaka no Ossan, Kensei ni Naru II",
     "puan": "0.00",
-    "bolum_durumu": "4/?",
+    "bolum_durumu": "5/?",
     "ozet": "Katainaka no Ossan, Kensei ni Naru (The Old Man from the Countryside Becomes a Sword Saint) serisinin aksiyon dolu ve mütevazı hikayesini devam ettiren 2. sezonu, taşradaki köyünde sıradan bir dojo eğitmeniyken başkente çağrılan ve bir anda ülkenin en güçlü şövalyelerini eğitmeye başlayan orta yaşlı kılıç ustası Bexpert’in (Beryll Gardenant) maceralarını konu alıyor.\n\nKısa Özet:\nBeryll, kendisinin hâlâ \"sıradan bir ihtiyar\" olduğunu düşünmeye devam etse de, etrafındaki herkes onun akılalmaz kılıç dehasının ve gücünün tamamen farkındadır. 2. sezonda, başkentteki şövalye akademisindeki eğitmenlik günleri sürerken, krallığı tehdit eden çok daha büyük komplolar, tehlikeli canavarlar ve karanlık tarikatlar gün yüzüne çıkmaya başlar. Beryll, yetiştirdiği eski öğrencilerinin (şimdi her biri krallığın en üst düzey şövalyeleri ve büyücüleridir) ve yeni müritlerinin yardımıyla, istemeden de olsa kendini yine devasa hesaplaşmaların tam ortasında bulur. Kendi yeteneğinin büyüklüğünü bir türlü idrak edemeyen bu mütevazı \"ihtiyar\", saf kılıç tekniğiyle efsaneler yazmaya ve krallığın en parlak kılıç azizi (Sword Saint) olma yolunda istemeye istemeye ilerlemeye devam eder.",
     "slug": "katainaka-no-ossan-kensei-ni-naru-ii"
   },
@@ -170,9 +170,39 @@
           "url": "https://uqload.com/embed-9wb5fmumtmw1.html"
         }
       ],
-      "skip_times": null,
+      "skip_times": {
+        "op": {
+          "start": 46.95211,
+          "end": 135.81705
+        },
+        "ed": {
+          "start": 1284.557,
+          "end": 1374.0713
+        }
+      },
       "added_date": "2026-07-30T21:29:49.926565",
       "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Katainaka no Ossan, Kensei ni Naru II 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/xwixa9ukysxc"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-45s51vmz6qq3.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-08T01:44:36.523154",
+      "jikan_mal_id": 5,
       "filler": false,
       "recap": false
     }

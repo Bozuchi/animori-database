@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Lv999 no Murabito",
     "puan": "0.00",
-    "bolum_durumu": "6/12",
+    "bolum_durumu": "7/12",
     "ozet": "Seviye (level) kavramının gerçek olduğu bu dünyada, hayatını canavarları yenerek kazananlar dışındaki çoğu insan yalnızca 1 ila 5 seviye arasındadır. Üstelik herkes öylece dışarı çıkıp canavar avlayamaz; bu durum, Tanrı tarafından kişiye bahşedilen rollerle (sınıflarla) doğrudan ilişkilidir. Avlanmaya uygun sekiz temel rol bulunur: Savaşçı, Dövüşçü, Rahip, Büyücü, Haydut, Tüccar, Avcı ve Kara Büyücü. Olağanüstü güçlerle kutsanmış olanlar ise üç sınıfa ayrılır: Kraliyet Soyu, Kahramanlar ve Bilgeler. Ancak nüfusun büyük bir çoğunluğu bu tarz güçlerden yoksundur; tarımla uğraşarak ya da dükkan işleterek hayatlarını sürdürürler. Şehirler ve kasabalar, en zayıf role sahip olanlar tarafından inşa edilip geliştirilir... Yani köylüler tarafından.\n\nGüçsüz köylüler için dışarı çıkıp canavar avlamaya çalışmak intihar etmekle eş değerdir. Ancak günün birinde, köylü rolü bahşedilmiş henüz iki yaşındaki bir çocuk bir şeyin farkına varır:\n\nBir canavarı alt etmeyi başardığında... Muazzam bir servet kazanabilirsin.",
     "slug": "lv999-no-murabito"
   },
@@ -258,9 +258,9 @@
       ],
       "skip_times": null,
       "added_date": "2026-07-27T08:57:37.646636",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
     },
     {
       "turkanime_title": "Lv999 no Murabito 6. Bölüm",
@@ -282,8 +282,29 @@
           "url": "https://uqload.com/embed-dy7rrr8qqd2i.html"
         }
       ],
-      "skip_times": null,
+      "skip_times": {
+        "op": {
+          "start": 84.99006,
+          "end": 174.3723
+        }
+      },
       "added_date": "2026-07-30T14:58:38.614673",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Lv999 no Murabito 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/cjm4ch61mu3v"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-08T01:44:48.988053",
       "jikan_mal_id": null,
       "filler": null,
       "recap": null

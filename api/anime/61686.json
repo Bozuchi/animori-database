@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
     "puan": "0.00",
-    "bolum_durumu": "6/12",
+    "bolum_durumu": "7/12",
     "ozet": "\"Dünyanın en harika hizmetçisi olacağım!\" Siyah-beyaz eteğini uçurarak haykırdı genç kız. Adı Melody. Yeniden doğmuş eski bir Japon kızı olan Melody, Théolas Krallığı'ndaki fakir bir kontun ailesi için her işe koşan bir hizmetçi olarak çalışarak yeni hayatındaki hayalinin peşinden gidiyor. O elini attığında, ucuz çaylar bile lüks bir içeceğe dönüşüyor ve köhne bir malikane hızla yepyeni bir hâle bürünüyor! Temizlik, servis, avcılık, kendin yap (DIY) projeleri—güçlü sihri sayesinde hepsini ona bırakın.\n\nMelody'nin bilmediği şey ise, bu dünyanın aslında bir otome oyunu ve kendisinin de en güçlü, yenilmez baş kadın kahraman, yani azize (saint) olduğudur! Ancak o bu durumdan tamamen habersizdir. Yakışıklı erkeklerle aşk yaşamak mı? İblis Kral'ın saldırıları mı? Onun için önce iş gelir! Kaderi farkında olmadan paramparça eden, yanlış anlaşılmalarla dolu iş odaklı bir fantastik hikaye!",
     "slug": "heroine-seijo-iie-all-works-maid-desu-hokori"
   },
@@ -233,7 +233,16 @@
           "url": "https://uqload.com/embed-ygb1rdwt1ddc.html"
         }
       ],
-      "skip_times": null,
+      "skip_times": {
+        "op": {
+          "start": 104,
+          "end": 194
+        },
+        "ed": {
+          "start": 1319,
+          "end": 1409
+        }
+      },
       "added_date": "2026-07-26T02:52:34.214182",
       "jikan_mal_id": 4,
       "filler": false,
@@ -264,7 +273,16 @@
           "url": "https://uqload.com/embed-3qsw0up5k478.html"
         }
       ],
-      "skip_times": null,
+      "skip_times": {
+        "op": {
+          "start": 70,
+          "end": 160
+        },
+        "ed": {
+          "start": 1319,
+          "end": 1409
+        }
+      },
       "added_date": "2026-07-26T02:52:34.214182",
       "jikan_mal_id": 5,
       "filler": false,
@@ -290,8 +308,44 @@
           "url": "https://uqload.com/embed-va7gf2rz3jp9.html"
         }
       ],
-      "skip_times": null,
+      "skip_times": {
+        "op": {
+          "start": 31,
+          "end": 121
+        }
+      },
       "added_date": "2026-07-30T14:58:29.003360",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)! 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/rwd3hjdsfykw"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-vdgslj7zcimg.html"
+        },
+        {
+          "fansub_id": 143,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/27a0jvecoeue"
+        },
+        {
+          "fansub_id": 143,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-m7psvpgt88g5.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-08T01:44:27.389924",
       "jikan_mal_id": null,
       "filler": null,
       "recap": null
