@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Tensei shitara Slime Datta Ken 4th Season",
     "puan": "0.00",
-    "bolum_durumu": "16/24",
+    "bolum_durumu": "17/24",
     "ozet": "İblis Lordu Rimuru'nun insanlar ve canavarlar arasında bir ittifak kurma hayali, gerçekleşmeye bir adım daha yaklaşıyor. Tempest refah içinde büyümeye devam ederken, Granville Rozzo ve torunu Maribel Rozzo, insanlığı hükmederek koruma planları doğrultusunda İblis Lordu Rimuru ile karşı karşıya gelir. Bu sırada El Dorado'da, İblis Lordu Leon kendi hedefleri doğrultusunda çalışmaktadır. Yeni bir Kahraman'ın uyanışı yaklaşıyor!",
     "slug": "tensei-shitara-slime-datta-ken-4th-season"
   },
@@ -22,11 +22,11 @@
       "from": "2026-04-03T00:00:00+00:00",
       "to": null
     },
-    "duration": "24 min",
+    "duration": "24 min. per ep.",
     "rating": "PG-13 - Teens 13 or older",
-    "score": 8.09,
-    "popularity": 1299,
-    "synopsis": "Demon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!\n\n(Source: Crunchyroll)",
+    "score": 8.14,
+    "popularity": 1212,
+    "synopsis": "Demon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!(Source: Crunchyroll)",
     "genres": [
       1,
       4,
@@ -745,11 +745,51 @@
           "url": "https://uqload.com/embed-qhzw4qb9dky3.html"
         }
       ],
-      "skip_times": null,
+      "skip_times": {
+        "op": {
+          "start": 91,
+          "end": 180
+        },
+        "ed": {
+          "start": 1345,
+          "end": 1434.9
+        }
+      },
       "added_date": "2026-07-29T16:03:50.401186",
       "jikan_mal_id": 16,
       "filler": false,
       "recap": false
+    },
+    {
+      "turkanime_title": "Tensei shitara Slime Datta Ken 4th Season 17. Bölüm",
+      "episode_number": 17,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/0v0z7aqwg9pi"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-tzcd5evag5bo.html"
+        },
+        {
+          "fansub_id": 143,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/zg0iqxg84mnk"
+        },
+        {
+          "fansub_id": 143,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-aidt3g2mg3qi.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-09T01:52:37.994470",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
     }
   ]
 }
