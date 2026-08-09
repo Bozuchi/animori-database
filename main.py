@@ -203,49 +203,24 @@ def main():
                     # Bölüm durumu birebir aynıysa diske yazma!
                     bolum_ayni = existing_turkanime.get("bolum_durumu") == tk_data.get("bolum_durumu")
 
-                    # Currently Airing kontrolü: score/status/airing değişmiş olabilir
+                    # Currently Airing kontrolü: MAL verileri değişmiş olabilir
                     # Bölüm durumu değişsin veya değişmesin, her durumda MAL'dan güncel veriyi çek
                     fresh_jikan = None
                     if existing_jikan.get("status") == "Currently Airing":
                         _mal_id = existing_jikan.get("mal_id")
                         if _mal_id:
-                            logger.info(f"{progress} 📡 {tk_data['isim']} — Hala yayında, güncel score/status/airing kontrol ediliyor...")
+                            logger.info(f"{progress} 📡 {tk_data['isim']} — Hala yayında, MAL verisi kontrol ediliyor...")
                             fresh_jikan = jikan.enrich(mal_id=_mal_id, name=tk_data["isim"])
                             if fresh_jikan:
-                                old_score = existing_jikan.get("score")
-                                old_status = existing_jikan.get("status")
-                                old_airing = existing_jikan.get("airing")
-                                new_score = fresh_jikan.get("score")
-                                new_status = fresh_jikan.get("status")
-                                new_airing = fresh_jikan.get("airing")
-
-                                if old_score != new_score or old_status != new_status or old_airing != new_airing:
-                                    changes = []
-                                    if old_score != new_score:
-                                        changes.append(f"score: {old_score} → {new_score}")
-                                    if old_status != new_status:
-                                        changes.append(f"status: {old_status} → {new_status}")
-                                    if old_airing != new_airing:
-                                        changes.append(f"airing: {old_airing} → {new_airing}")
-                                    logger.info(
-                                        f"{progress} 🔄 {tk_data['isim']} — "
-                                        f"MAL verisi güncellendi ({', '.join(changes)})"
-                                    )
+                                if fresh_jikan != existing_jikan:
                                     stats["jikan_airing_guncellenen"] += 1
+                                    logger.info(f"{progress} 🔄 {tk_data['isim']} — MAL verisi güncellendi.")
                                 else:
                                     stats["jikan_airing_ayni"] += 1
 
                     if bolum_ayni:
-                        if fresh_jikan and fresh_jikan is not existing_jikan:
-                            # Currently Airing verisi değişmiş → güncel jikan ile kaydet
-                            old_score = existing_jikan.get("score")
-                            old_status = existing_jikan.get("status")
-                            old_airing = existing_jikan.get("airing")
-                            new_score = fresh_jikan.get("score")
-                            new_status = fresh_jikan.get("status")
-                            new_airing = fresh_jikan.get("airing")
-                            if old_score != new_score or old_status != new_status or old_airing != new_airing:
-                                storage.save_anime_detail(slug, tk_data, fresh_jikan)
+                        if fresh_jikan and fresh_jikan != existing_jikan:
+                            storage.save_anime_detail(slug, tk_data, fresh_jikan)
                         stats["jikan_atlanan"] += 1
                         continue
 
