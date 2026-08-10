@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Kimiai",
     "puan": "0.00",
-    "bolum_durumu": "5/12",
+    "bolum_durumu": "6/12",
     "ozet": "Görücü usulü bir evlilik. Birbirine tamamen yabancı iki insan. Ve sıcacık, sevimli bir aşk hikayesi!\n\nNeşeli ve hayat dolu bir soylu olan Elsa, geleceğin dükü olan mesafeli ve içine kapanık Julius ile aniden evlendirildiğinde, ikisi de bu siyasi evliliğin aralarında bambaşka bir kıvılcım çakacağını tahmin etmiyordu. Karşı karşıya kaldıkları tuhaf yanlış anlaşılmalar, birbirlerine yaptıkları küçük, tatlı jestler ve zamanla katlanarak büyüyen duygular üst üste bindikçe, bu yeni evli çift aşkın; evlilik hayatının hem en kolay hem de en zor parçası olduğunu keşfedecektir.",
     "slug": "kimiai"
   },
@@ -25,7 +25,7 @@
     "duration": "22 min. per ep.",
     "rating": "PG-13 - Teens 13 or older",
     "score": 6.77,
-    "popularity": 5727,
+    "popularity": 5707,
     "synopsis": "An arranged marriage. Two complete strangers. One adorable romance! When cheerful noblewoman Elsa is suddenly wed to the reserved duke-to-be Julius, neither expects their political marriage to spark something more. As awkward misunderstandings, sweet gestures, and growing feelings pile up, these newlyweds discover that falling in love might be the easiest—and hardest—part of married life.(Source: Crunchyroll)",
     "genres": [
       22
@@ -205,8 +205,38 @@
           "url": "https://www.mp4upload.com/embed-bxqfxr5xlx34.html"
         }
       ],
-      "skip_times": null,
+      "skip_times": {
+        "op": {
+          "start": 59.08091,
+          "end": 150.49295
+        },
+        "ed": {
+          "start": 1213.6696,
+          "end": 1303.6815
+        }
+      },
       "added_date": "2026-08-03T02:54:43.484888",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": " Kimiai 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/lzvlsto0ujwj"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-dk1mememyis1.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-10T01:55:33.161820",
       "jikan_mal_id": null,
       "filler": null,
       "recap": null
