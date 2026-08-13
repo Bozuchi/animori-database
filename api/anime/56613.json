@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Azur Lane: Bisoku Zenshin! Ni!!",
     "puan": "0.00",
-    "bolum_durumu": "0/12",
+    "bolum_durumu": "5/12",
     "ozet": "Savaş gemisi kızların askeri mücadelelerden uzak, limandaki huzurlu ve neşeli günlük yaşantılarını konu alan serinin 2. sezonunda; Javelin, Ayanami, Laffey ve Z23 dörtlüsünün tatlı maceraları hız kesmeden devam eder. Limana farklı uluslardan yepyeni gemi kızlarının katılmasıyla arkadaşlık bağları ve yaşanan eğlenceli kaos daha da büyür. Savaş stratejilerinin yerini tamamen dostluğa bıraktığı bu sezonda kızlar; sahil festivalleri, mutfak krizleri ve pijama partileriyle liman hayatının tadını çıkarmayı sürdürürler.",
     "slug": "azur-lane-bisoku-zenshin-ni"
   },
@@ -25,7 +25,7 @@
     "duration": "8 min. per ep.",
     "rating": "PG-13 - Teens 13 or older",
     "score": 6.81,
-    "popularity": 8119,
+    "popularity": 8107,
     "synopsis": "Second season ofAzur Lane: Bisoku Zenshin!.",
     "genres": [
       4,
@@ -58,5 +58,121 @@
   "anilist": {
     "id": 169080,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169080-HcBclO97a4SE.jpg"
-  }
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Azur Lane: Bisoku Zenshin! Ni!! 1. Bölüm",
+      "episode_number": 1,
+      "videos": [],
+      "skip_times": null,
+      "added_date": "2026-08-13T02:07:08.489262",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Azur Lane: Bisoku Zenshin! Ni!! 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/774ff9se2zug"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-kcdiggwa71wp.html"
+        },
+        {
+          "fansub_id": 143,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/ci6nxfapipnv"
+        },
+        {
+          "fansub_id": 143,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-7lbcsuu9jkvr.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-13T02:07:08.489262",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Azur Lane: Bisoku Zenshin! Ni!! 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/17y4f9kcmrhr"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-xwaeangr5599.html"
+        },
+        {
+          "fansub_id": 143,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/h2wslrliy71m"
+        },
+        {
+          "fansub_id": 143,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-pzm7lq0ligo4.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-13T02:07:08.489262",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Azur Lane: Bisoku Zenshin! Ni!! 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/kiswu0ie939p"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-6q5y970mcwhl.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-13T02:07:08.489262",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Azur Lane: Bisoku Zenshin! Ni!! 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/72u10qsqa2oe"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-3y57a8kpqgfy.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-13T02:07:08.489262",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    }
+  ]
 }

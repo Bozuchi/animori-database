@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
     "puan": "0.00",
-    "bolum_durumu": "3/12",
+    "bolum_durumu": "5/12",
     "ozet": "Oyun dünyasına iskelet bir şövalye olarak reenkarne olan Arc’ın maceralarını konu alan serinin 2. sezonunda; kahramanımız elf yoldaşı Ariane ve sevimli Ponta ile birlikte esir düşen elfleri kurtarma görevine devam eder. Yolculukları bu kez büyük imparatorlukların taht kavgalarına, yozlaşmış soyluların karanlık canavar deneylerine ve ninja Chiyome’nin klanıyla olan iş birliklerine uzanır. Arc, bir yandan vücudundaki iskelet lanetini kaldırmanın yollarını ararken, diğer yandan sahip olduğu aşırı güçlü yeteneklerle dünyayı tehdit eden büyük siyasi komplolara karşı savaşır.",
     "slug": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii"
   },
@@ -86,9 +86,9 @@
         }
       },
       "added_date": "2026-07-25T22:14:29.977598",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
     },
     {
       "turkanime_title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II 2. Bölüm",
@@ -107,9 +107,9 @@
       ],
       "skip_times": null,
       "added_date": "2026-07-25T22:14:29.977598",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
     },
     {
       "turkanime_title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II 3. Bölüm",
@@ -126,11 +126,47 @@
           "url": "https://uqload.com/embed-dccqyjwvx2fa.html"
         }
       ],
-      "skip_times": null,
+      "skip_times": {
+        "op": {
+          "start": 103.00278,
+          "end": 192.40675
+        }
+      },
       "added_date": "2026-07-25T22:14:29.977598",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II 4. Bölüm",
+      "episode_number": 4,
+      "videos": [],
+      "skip_times": null,
+      "added_date": "2026-08-13T02:07:31.970041",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/7f2purr7muq9"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-lmmpsw44ht7z.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-13T02:07:31.970041",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
     }
   ]
 }

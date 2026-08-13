@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai",
     "puan": "0.00",
-    "bolum_durumu": "0/?",
+    "bolum_durumu": "4/?",
     "ozet": "Kızlar okulunda oynanan ateşli bir dövüş oyunu!!\n\nAya, kendini düzgün bir hanımefendiye dönüştürme hedefiyle bir ay önce Kuromi Kız Akademisi’ne transfer olmuştur. Nefes kesici Shirayuri ile tanıştıktan sonra, onun zarafetine ve asaletine adeta hayran kalır. Ancak okul çıkışında Shirayuri’yi tek başına bir dövüş oyunu oynarken bulduğunda yaşayacağı şaşkınlığı bir hayal edin! Üstelik bu kafa karıştırıcı durum yetmezmiş gibi, o hiç de hanımefendi olmayan Shirayuri tarafından ani bir düelloya davet edilir!",
     "slug": "tai-ari-deshita-ojousama-wa-kakutou-game-nante-shinai"
   },
@@ -25,7 +25,7 @@
     "duration": "23 min. per ep.",
     "rating": "PG-13 - Teens 13 or older",
     "score": 7.51,
-    "popularity": 3971,
+    "popularity": 3962,
     "synopsis": "A hot fighting game played at the girls' school!!Aya transferred into Kuromi Girls Academy a month ago with the goal of changing herself into a proper lady. After meeting the breathtaking Shirayuri, Aya is blown away by her elegance and posterity. Imagine her surprise when she finds Shirayuri after school playing... a fighting game?! And if that wasn't perplexing enough, she is challenged to a duel by the unladylike Shirayuri!(Source: MU)",
     "genres": [
       4,
@@ -53,5 +53,69 @@
   "anilist": {
     "id": 128757,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/128757-kBnCRYXdyw58.jpg"
-  }
+  },
+  "episodes": [
+    {
+      "turkanime_title": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai 1. Bölüm",
+      "episode_number": 1,
+      "videos": [],
+      "skip_times": null,
+      "added_date": "2026-08-13T02:10:07.906393",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/azglhbs31xmz"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-v68a3vjn2lnq.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-13T02:10:07.906393",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai 3. Bölüm",
+      "episode_number": 3,
+      "videos": [],
+      "skip_times": null,
+      "added_date": "2026-08-13T02:10:07.906393",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/dtlfcniort11"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-f2bviv5ca1ln.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-13T02:10:07.906393",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    }
+  ]
 }

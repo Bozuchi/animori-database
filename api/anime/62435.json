@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
     "puan": "0.00",
-    "bolum_durumu": "3/12",
+    "bolum_durumu": "5/12",
     "ozet": "Kurumsal hayatın kölesi olan Arihito Atobe'nin tuhaf bir otobüs kazasında ölmesi, \"Seeker\" (Arayıcı) adı verilen bir tür maceracı olarak yeni hayatının başlangıcı olur. Fantastik bir dünyada yeniden doğan Arihito, daha önce hiç bilinmeyen \"rearguard\" (artçı) adlı bir iş sınıfına yerleşir; bu sınıf, (tamamı kadınlardan oluşan) grubuna kritik saldırı, savunma ve iyileştirme desteği sağlama yeteneğine sahiptir. Üstelik bu işin ek bir avantajı daha vardır: Sadece grubun en arkasında yer almak bile yoldaşlarının ona olan sevgisini ve bağlılığını artırmaktadır! Kurumsal hayatın prangalarından kurtulan Arihito, çiçeği burnunda bir Seeker olarak yeni bir başlangıç yapmaya can atmaktadır!",
     "slug": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha"
   },
@@ -24,8 +24,8 @@
     },
     "duration": "23 min. per ep.",
     "rating": "PG-13 - Teens 13 or older",
-    "score": 5.77,
-    "popularity": 4582,
+    "score": 5.76,
+    "popularity": 4571,
     "synopsis": "Corporate slave Arihito Atobe's death in a freak bus accident marks the beginning of his new life as a kind of adventurer called a Seeker. Reborn into a fantasy world, he settles into a previously unknown job class called \"rearguard,\" capable of providing his (all-female) party with critical attack, defense, and recovery support. And it comes with an added bonus: Simply being at the back of the party line increases his companions' fondness for him! Freed from the shackles of corporate life, Arihito is eager to start fresh as a newly minted Seeker!(Source: Yen Press)",
     "genres": [
       1,
@@ -156,11 +156,70 @@
           "url": "https://uqload.com/embed-htgl2v04mz0x.html"
         }
       ],
-      "skip_times": null,
+      "skip_times": {
+        "op": {
+          "start": 95.76125,
+          "end": 185.3381
+        },
+        "ed": {
+          "start": 1330.655,
+          "end": 1336.3456
+        }
+      },
       "added_date": "2026-07-29T07:34:33.841312",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha 4. Bölüm",
+      "episode_number": 4,
+      "videos": [],
+      "skip_times": null,
+      "added_date": "2026-08-13T02:09:49.485009",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/6p3gkq55xfvz"
+        },
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/l43090vldcs9"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-jempyy9fdf3s.html"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-q0wuobgc4mlu.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 134,
+          "end": 224
+        },
+        "ed": {
+          "start": 1330.581,
+          "end": 1420
+        }
+      },
+      "added_date": "2026-08-13T02:09:49.485009",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
     }
   ]
 }
