@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Dogulwang",
     "puan": "0.00",
-    "bolum_durumu": "4/12",
+    "bolum_durumu": "5/12",
     "ozet": "Düşman hatlarının gerisinde gizli bir göreve atılan Jooheon'un, TKBM'ye acı çektirmek için hazırladığı en yeni plan, onları içeriden çökertmeyi hedefliyor! Kalıntılarını (relic) çalmak ve aralarına nifak sokup iç çatışma çıkarmak, grubun günahlarının bedelini ödetmek için yapacaklarının sadece küçük bir kısmıdır.\n\nAncak Gurur Kulesi'nin (Tower of Pride) ortaya çıkışıyla birlikte, tarihin en korkunç savaş ağalarını birbirine düşürmek zorunda kalan Jooheon'un insanları kışkırtma ve manipüle etme (rage-baiting) yetenekleri asıl büyük sınavını verecektir! Tarihin gördüğü en büyük fatihlerin bu amansız savaşında, Jooheon Suh nihayet en tepedeki isim olarak çıkmayı başarabilecek midir?",
     "slug": "dogulwang"
   },
@@ -24,8 +24,8 @@
     },
     "duration": "23 min. per ep.",
     "rating": "PG-13 - Teens 13 or older",
-    "score": 6.72,
-    "popularity": 4098,
+    "score": 6.71,
+    "popularity": 4089,
     "synopsis": "Undercover behind enemy lines, Jooheon's newest plan to torment TKBM will involve taking them down from the inside! Stealing their relics and causing infighting is just the tip of the iceberg on what he'll do to make the group pay for their sins. But with the appearance of the Tower of Pride, Jooheon's skills in rage-baiting will truly be tested as he must pit the most fearsome warlords against each other! Will Jooheon Suh come out on top in the battle of the greatest conquerors of history?(Source: Yen Press)",
     "genres": [
       1,
@@ -78,7 +78,12 @@
           "url": "https://sendvid.com/embed/th6ndxz5"
         }
       ],
-      "skip_times": null,
+      "skip_times": {
+        "op": {
+          "start": 202.9,
+          "end": 282.9
+        }
+      },
       "added_date": "2026-07-24T21:52:23.290095",
       "jikan_mal_id": 1,
       "filler": false,
@@ -99,7 +104,12 @@
           "url": "https://uqload.com/embed-utpj2q0h42o2.html"
         }
       ],
-      "skip_times": null,
+      "skip_times": {
+        "op": {
+          "start": 8.6,
+          "end": 88.6
+        }
+      },
       "added_date": "2026-07-24T21:52:23.290095",
       "jikan_mal_id": 2,
       "filler": false,
@@ -127,9 +137,9 @@
       ],
       "skip_times": null,
       "added_date": "2026-07-24T21:52:23.290095",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
     },
     {
       "turkanime_title": "Dogulwang 4. Bölüm",
@@ -141,8 +151,38 @@
           "url": "https://bysesukior.com/e/9d5ag1bv3hxp"
         }
       ],
-      "skip_times": null,
+      "skip_times": {
+        "op": {
+          "start": 6.595558,
+          "end": 89.62046
+        },
+        "ed": {
+          "start": 1293.8926,
+          "end": 1373.8926
+        }
+      },
       "added_date": "2026-07-30T14:58:19.363380",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Dogulwang 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/a4wyfylmmvs2"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-mrwpa1rbgy8z.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-14T02:05:44.131997",
       "jikan_mal_id": null,
       "filler": null,
       "recap": null

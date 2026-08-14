@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
     "puan": "0.00",
-    "bolum_durumu": "6/14",
+    "bolum_durumu": "7/14",
     "ozet": "Rudeus’un evlenip aile hayatı kurduğu ve babası Paul’ün kaybının ardından toparlanmaya çalıştığı 3. sezonda, sakin günler gizemli İnsan Tanrısı Hitogami’nin hain planlarıyla altüst olur. Gelecekteki kendisinden dehşet verici uyarılı bir mesaj alan Rudeus, ailesini ve sevdiklerini korumak için Hitogami’ye açıkça savaş ilan eder. Bu amansız mücadelede hayatta kalabilmek adına dünyanın en güçlü varlığı olan Ejder Tanrısı Orsted ile ölümcül bir ittifak kuran Rudeus, yeni zırh teknolojileri geliştirerek hayatının en epik ve en zorlu savaşlarına adım atar.",
     "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu"
   },
@@ -157,9 +157,9 @@
         }
       },
       "added_date": "2026-07-27T13:52:35.530623",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
     },
     {
       "turkanime_title": "Mushoku Tensei III: Isekai Ittara Honki Dasu 4. Bölüm",
@@ -178,9 +178,9 @@
       ],
       "skip_times": null,
       "added_date": "2026-07-27T13:52:35.530623",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
     },
     {
       "turkanime_title": "Mushoku Tensei III: Isekai Ittara Honki Dasu 5. Bölüm",
@@ -199,9 +199,9 @@
       ],
       "skip_times": null,
       "added_date": "2026-07-27T13:52:35.530623",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
     },
     {
       "turkanime_title": "Mushoku Tensei III: Isekai Ittara Honki Dasu 6. Bölüm",
@@ -220,9 +220,25 @@
       ],
       "skip_times": null,
       "added_date": "2026-08-04T02:38:27.228657",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Mushoku Tensei III: Isekai Ittara Honki Dasu 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/1h5seurrmgnb"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-14T02:07:13.133209",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
     }
   ]
 }

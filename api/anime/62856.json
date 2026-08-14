@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Nijusseiki Denki Mokuroku: Eureka Evrika",
     "puan": "0.00",
-    "bolum_durumu": "5/13",
+    "bolum_durumu": "6/13",
     "ozet": "Buhar gücüyle şekillenen farklı bir teknolojik gelişme nedeniyle Kyoto'nun sürekli dumanla kaplı olduğu alternatif bir 20. yüzyıl başında geçen hikayede; abisinin kaybıyla sarsılan bir çocuk, birlikte kurdukları \"Elektrik Çağı\" hayalinin yarım kalmasının ardından derin bir güvensizlik yaşamaktadır. İnançlarına sadık bir genç kız ise vefat eden annesine dair pişmanlıklarını ve hayallerini kalbinin derinliklerine gizlemiştir. Bu ikilinin yolları kesiştiğinde, özlemini duydukları geleceğe bir bakış sunan \"20. Yüzyıl Elektrik Kataloğu\"nun sırlarını keşfetmek için birlikte yola çıkarlar. Geçmişleriyle yüzleşmek zorunda kalan gençler, bir zamanlar inandıkları o geleceğe doğru yeni bir yol açmaya çalışırlar.",
     "slug": "nijusseiki-denki-mokuroku-eureka-evrika"
   },
@@ -25,7 +25,7 @@
     "duration": "23 min. per ep.",
     "rating": "PG-13 - Teens 13 or older",
     "score": 7.67,
-    "popularity": 2846,
+    "popularity": 2840,
     "synopsis": "In an alternate version of the early 20th century where technological progress evolved along a different path shaped by steam power, Kyoto is blanketed in constant smoke.A boy, hardened by the loss of his brother, grows distrustful after their shared dream of an \"Age of Electricity\" is cut short. A deeply devout girl hides her dreams and regrets for her deceased mother deep within her heart. When the two cross paths, they set about exploring the secrets of the 20th Century Electrical Catalog, a glimpse into the future they long for.Together, they must confront their pasts and carve a path toward the future they once believed in.(Source: Press Release)",
     "genres": [
       8
@@ -188,9 +188,25 @@
       ],
       "skip_times": null,
       "added_date": "2026-08-04T02:38:34.457692",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Nijusseiki Denki Mokuroku: Eureka Evrika 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/lamqfg3beva4"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-14T02:07:30.159759",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
     }
   ]
 }

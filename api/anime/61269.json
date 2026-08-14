@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Digimon Beatbreak",
     "puan": "0.00",
-    "bolum_durumu": "41/?",
+    "bolum_durumu": "42/?",
     "ozet": "Bu hikaye, Digimon evreninin en modern ve olgun halkalarından biri olan \"Digimon Liberator\" web romanı ve çizgi roman serisinin başlangıcını anlatıyor. Seri, klasik \"canavar eğitme\" formülünü modern teknoloji, yapay zeka ve ekonomik bir sistemle (ödül avcılığı) birleştiriyor.\n\n???? Tomorou Tenma: e-Pulse ve Dijital Hayaletler\nTomorou Tenma, insan düşüncelerinden ve duygularından doğan, Sapotama adı verilen yumurta şeklindeki yapay zeka cihazlarına güç veren benzersiz bir enerjiye, yani çok güçlü bir e-Pulse'a sahiptir. Dünya artık Sapotama'ların yardımına tam bağımlı hale gelse de, Tomorou'nun bu aşırı güçlü enerjisi cihazlarda sık sık arızalara (glitch) neden olmaktadır. Bir gece, cihazından Gekkoumon adında tuhaf bir varlık çıkar ve Tomorou'nun e-Pulse enerjisiyle beslenmek istediğini söyler.\n\nGekkoumon aslında bir Digimon'dur; Sapotama'lardaki bir hatadan doğan ve e-Pulse ile beslenen bir dijital yaşam formudur. Bazı vahşi Digimonlar, insanların enerjisini tamamen emerek onları \"Cold Heart\" (Soğuk Kalp) denilen bitkisel hayata sokmaktadır. Tomorou'nun ağabeyi Asuka bu durumun kurbanı olunca, Tomorou intikam yemini eder. Bu yolculukta, yasa dışı Digimonları ödül karşılığı avlayan \"Glowing Dawn\" grubuyla ve liderleri Kyou Sawashiro ile tanışır. Ağabeyini kurtarmanın tek yolunun bu tehlikeli dünyada onlarla iş birliği yapmak olduğunu anlar.",
     "slug": "digimon-beatbreak"
   },
@@ -1144,9 +1144,9 @@
       ],
       "skip_times": null,
       "added_date": "2026-07-24T21:30:11.338218",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 39,
+      "filler": false,
+      "recap": false
     },
     {
       "turkanime_title": "Digimon Beatbreak 40. Bölüm",
@@ -1191,6 +1191,22 @@
       ],
       "skip_times": null,
       "added_date": "2026-08-03T02:55:00.530960",
+      "jikan_mal_id": 41,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Digimon Beatbreak 42. Bölüm",
+      "episode_number": 42,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/wear3z55w6ha"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-14T02:05:15.912626",
       "jikan_mal_id": null,
       "filler": null,
       "recap": null

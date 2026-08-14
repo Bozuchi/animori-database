@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Tetsunabe no Jan!",
     "puan": "0.00",
-    "bolum_durumu": "5/?",
+    "bolum_durumu": "6/?",
     "ozet": "Orijinal Iron Wok Jan! mangası, Jan Akiyama adındaki dahi ve genç bir şefe odaklanmaktadır. Jan, üst düzey bir restoranda çalışmakta ve burada sürekli olarak restoran sahibinin torunu olan, kendisi de son derece başarılı bir şef konumundaki Kiriko Gobanchou'ya meydan okumaktadır. Kiriko, yiyeceklerin müşterinin mutluluğu ve memnuniyeti göz önünde bulundurularak yapılması gerektiğine inanırken; Jan ise yemek yapmanın tamamen bir rekabet ve yarış aracı olarak kullanılması gerektiğini savunmaktadır.",
     "slug": "tetsunabe-no-jan"
   },
@@ -25,7 +25,7 @@
     "duration": "23 min.",
     "rating": "PG-13 - Teens 13 or older",
     "score": 7.25,
-    "popularity": 6251,
+    "popularity": 6242,
     "synopsis": "The original Iron Wok Jan! manga centers on a brilliant young chef named Jan Akiyama, who works at a top class restaurant where he is constantly challenging Kiriko Gobanchou, the granddaughter of the restaurant's owner and a great chef in her own right. While Kiriko believes that food should be made with the customer in mind, Jan believes that cooking should be used for competition.(Source: ANN)",
     "genres": [
       47
@@ -237,9 +237,30 @@
       ],
       "skip_times": null,
       "added_date": "2026-08-03T02:57:39.913712",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Tetsunabe no Jan! 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/jjed7s4ucuhs"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-6z70vgpcp7qv.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-14T02:08:30.806681",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
     }
   ]
 }
