@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
     "puan": "0.00",
-    "bolum_durumu": "5/12",
+    "bolum_durumu": "6/12",
     "ozet": "Otome Game Sekai wa Mob ni Kibishii Sekai desu Animesinin 2. Sezonudur",
     "slug": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2"
   },
@@ -230,9 +230,39 @@
           "url": "https://uqload.com/embed-tk2r54tzdtce.html"
         }
       ],
-      "skip_times": null,
+      "skip_times": {
+        "op": {
+          "start": 40.532,
+          "end": 130.532
+        },
+        "ed": {
+          "start": 1316.483,
+          "end": 1406.483
+        }
+      },
       "added_date": "2026-08-08T01:45:03.760522",
       "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/shu6nzr3gmkv"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-pn43qwymw7mw.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-15T01:20:57.703922",
+      "jikan_mal_id": 6,
       "filler": false,
       "recap": false
     }

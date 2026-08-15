@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
     "puan": "0.00",
-    "bolum_durumu": "6/26",
+    "bolum_durumu": "7/26",
     "ozet": "\"Seni işe yaramaz evladım! Bir kılıç ustası sınıfı seçmen gerekiyordu, ama durumun bu kadar trajik olacağını hiç düşünmemiştim!\"\n\nBir çocuğun on beş yaşına bastığı gün, İlahi Kutsama Ritüeli'nden geçmesi gerekir. Köklü bir kılıç ustası soyundan gelen Elymas'ın da babasının izinden gitmesi bekleniyordu. Ancak ritüelde, kusurlu bir sınıf olan \"Ağır Şövalye\"yi (Heavy Knight) seçer. Bunun üzerine sadece geleceğin aile reisi olma unvanını kaybetmekle kalmaz, aynı zamanda sürgüne gönderilir. Dengesiz nitelikleri (statları) ve görünüşte işe yaramaz yetenekleriyle Ağır Şövalyeler, korkaklar ve tembeller için biçilmiş bir sınıf olarak görülmektedir.\n\nAncak Elymas gerçekleri bilmektedir. İçinde yaşadığı bu dünya, geçmişte oynadığı oyunun dünyasıyla tamamen aynıdır... Ve Ağır Şövalye, aslında tüm sınıfların içindeki en güçlüsüdür. Geçmiş hayatından kalan anılarını kullanan Elymas, bu dünyayı kelimenin tam anlamıyla fethetmek için yola koyulur.",
     "slug": "tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru"
   },
@@ -250,6 +250,36 @@
       "skip_times": null,
       "added_date": "2026-08-08T01:45:28.730027",
       "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/cvfi6jwhcein"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-iesq411ycxcs.html"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 183.08,
+          "end": 273.375
+        },
+        "ed": {
+          "start": 1299.917,
+          "end": 1390.542
+        }
+      },
+      "added_date": "2026-08-15T01:21:25.620414",
+      "jikan_mal_id": 7,
       "filler": false,
       "recap": false
     }

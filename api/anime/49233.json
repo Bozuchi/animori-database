@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Youjo Senki II",
     "puan": "0.00",
-    "bolum_durumu": "5/12",
+    "bolum_durumu": "6/12",
     "ozet": "Youjo Senki (The Saga of Tanya the Evil) serisinin acımasız, stratejik ve yoğun askeri mücadelelerini sürdüren 2. sezonu, İmparatorluk'un dahi ve gaddar lideri Tanya Degurechaff’ın, kendisini bu dünyaya reenkarne eden gizemli \"Varlık X\" (Being X) ile olan amansız savaşını ve cephedeki yükselişini anlatmaya devam ediyor.\n\nKısa Özet:\nİmparatorluk, dört bir yanındaki düşman hatlarını birer birer bozguna uğratmış olsa da savaş henüz bitmemiş, aksine küresel bir boyuta taşınmıştır. Tanya ve liderlik ettiği 203. Büyücü Hava Taburu, federasyon güçlerinin ve müttefiklerin bitmek bilmeyen saldırılarına karşı yeni cephelere sevk edilir. Bu sezonda Tanya, sadece cephedeki askeri dehalarla değil, babasının intikamını almak isteyen ve Varlık X tarafından muazzam bir büyü gücüyle kutsanan Mary Sioux ile doğrudan karşı karşıya gelir. Tanya, modern dünyanın rasyonel zekasını kullanarak savaşı bir an önce bitirip arka saflarda huzurlu bir yaşam sürmeyi hedeflerken; Varlık X'in engineered ettiği inanç savaşının ve tırmanan küresel kaosun tam ortasında, İmparatorluk'u mutlak bir yıkımdan kurtarmak için askeri dehasının sınırlarını zorlamak zorunda kalır.",
     "slug": "youjo-senki-ii"
   },
@@ -25,7 +25,7 @@
     "duration": "23 min. per ep.",
     "rating": "R - 17+ (violence & profanity)",
     "score": 8.32,
-    "popularity": 1136,
+    "popularity": 1135,
     "synopsis": "Second season ofYoujo Senki.",
     "genres": [
       1,
@@ -178,9 +178,34 @@
       "turkanime_title": "Youjo Senki II 5.Bölüm",
       "episode_number": 5,
       "videos": [],
-      "skip_times": null,
+      "skip_times": {
+        "op": {
+          "start": 42.016,
+          "end": 130.669
+        },
+        "ed": {
+          "start": 1274.33,
+          "end": 1362.093
+        }
+      },
       "added_date": "2026-08-06T02:44:24.536986",
       "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Youjo Senki II 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/ejuxztoh1uh5"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-15T01:21:31.684382",
+      "jikan_mal_id": 6,
       "filler": false,
       "recap": false
     }

@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
     "puan": "0.00",
-    "bolum_durumu": "7/12",
+    "bolum_durumu": "8/12",
     "ozet": "\"Dünyanın en harika hizmetçisi olacağım!\" Siyah-beyaz eteğini uçurarak haykırdı genç kız. Adı Melody. Yeniden doğmuş eski bir Japon kızı olan Melody, Théolas Krallığı'ndaki fakir bir kontun ailesi için her işe koşan bir hizmetçi olarak çalışarak yeni hayatındaki hayalinin peşinden gidiyor. O elini attığında, ucuz çaylar bile lüks bir içeceğe dönüşüyor ve köhne bir malikane hızla yepyeni bir hâle bürünüyor! Temizlik, servis, avcılık, kendin yap (DIY) projeleri—güçlü sihri sayesinde hepsini ona bırakın.\n\nMelody'nin bilmediği şey ise, bu dünyanın aslında bir otome oyunu ve kendisinin de en güçlü, yenilmez baş kadın kahraman, yani azize (saint) olduğudur! Ancak o bu durumdan tamamen habersizdir. Yakışıklı erkeklerle aşk yaşamak mı? İblis Kral'ın saldırıları mı? Onun için önce iş gelir! Kaderi farkında olmadan paramparça eden, yanlış anlaşılmalarla dolu iş odaklı bir fantastik hikaye!",
     "slug": "heroine-seijo-iie-all-works-maid-desu-hokori"
   },
@@ -25,7 +25,7 @@
     "duration": "23 min. per ep.",
     "rating": "PG-13 - Teens 13 or older",
     "score": 7.12,
-    "popularity": 4644,
+    "popularity": 4642,
     "synopsis": "\"I will become the world's most wonderful maid!\" With her skirt fluttering in black and white, the girl shouted. Her name is Melody. A reincarnated former Japanese girl, she now pursues her dream in her new life, working as an all-purpose maid for a poor count's family in the kingdom of Théolas. When she makes it, even cheap tea turns into a luxury brew, and a dilapidated mansion is quickly restored to new! Cleaning, serving, hunting, DIY—leave it all to her and her powerful magic.Unbeknownst to Melody, this world is actually an otome game, and she is the most powerful and invincible heroine, the saint! Yet, she remains oblivious to this fact. Romance with handsome men? Attacks by the Demon Lord? Work comes first! A fantasy of misunderstood work that unknowingly shatters destiny!(Source: Seven Seas Entertainment)",
     "genres": [
       10
@@ -344,11 +344,41 @@
           "url": "https://uqload.com/embed-m7psvpgt88g5.html"
         }
       ],
-      "skip_times": null,
+      "skip_times": {
+        "op": {
+          "start": 75.09,
+          "end": 165.09
+        },
+        "ed": {
+          "start": 1319.508,
+          "end": 1409.508
+        }
+      },
       "added_date": "2026-08-08T01:44:27.389924",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)! 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/7xw89qd6cdi5"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-buhuci6lamwx.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-15T01:20:31.346105",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
     }
   ]
 }
