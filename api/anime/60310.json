@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Mairimashita! Iruma-kun 4th Season",
     "puan": "0.00",
-    "bolum_durumu": "18/24",
+    "bolum_durumu": "19/24",
     "ozet": "\"Mairimashita! Iruma-kun\"un dördüncü sezonu.",
     "slug": "mairimashita-iruma-kun-4th-season"
   },
@@ -20,11 +20,11 @@
     "airing": true,
     "aired": {
       "from": "2026-04-04T00:00:00+00:00",
-      "to": "2026-09-19T00:00:00+00:00"
+      "to": "2026-09-21T00:00:00+00:00"
     },
     "duration": "25 min. per ep.",
     "rating": "PG-13 - Teens 13 or older",
-    "score": 8.11,
+    "score": 8.1,
     "popularity": 2619,
     "synopsis": "Fourth season ofMairimashita! Iruma-kun.",
     "genres": [
@@ -631,11 +631,36 @@
           "url": "https://uqload.com/embed-m8vfl3cygdqe.html"
         }
       ],
-      "skip_times": null,
+      "skip_times": {
+        "op": {
+          "start": 0,
+          "end": 90
+        },
+        "ed": {
+          "start": 1355.833,
+          "end": 1447.094
+        }
+      },
       "added_date": "2026-08-03T02:56:09.938806",
       "jikan_mal_id": 18,
       "filler": false,
       "recap": false
+    },
+    {
+      "turkanime_title": "Mairimashita! Iruma-kun 4th Season 19. Bölüm",
+      "episode_number": 19,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/z0i15gt7tpas"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-16T01:25:26.244579",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
     }
   ]
 }

@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
     "puan": "0.00",
-    "bolum_durumu": "6/?",
+    "bolum_durumu": "7/?",
     "ozet": "Onlarca yıl süren savaşın ardından Dias nihayet evine döner. Bir kahraman ilan edilerek anında kendi arazisiyle ödüllendirilir... Ancak bu ödülün, ucu bucağı görünmeyen boş ovalardan ibaret olduğu ortaya çıkar. Nüfus ise sıfırdır. Hayatı boyunca sadece savaşmayı bilmiş olan Dias, kendini büyük bir çaresizliğin içinde bulur. Gözünün alabildiğine uzanan otlardan başka hiçbir şeyin olmadığı bu topraklarda, burayı gelişen ve müreffeh bir egemenlik alanına dönüştürmek bir yana, hayatta kalmayı bile nasıl başaracaktır?\n\nNeyse ki Dias için, Alna adında boynuzlu bir kız bu ovalarda ilk bakışta görünenden çok daha fazlası olduğunu göstermek üzeredir!",
     "slug": "ryoumin-0-nin-start-no-henkyou-ryoushu-sama"
   },
@@ -24,8 +24,8 @@
     },
     "duration": "23 min. per ep.",
     "rating": "PG-13 - Teens 13 or older",
-    "score": 6.91,
-    "popularity": 4139,
+    "score": 6.9,
+    "popularity": 4127,
     "synopsis": "Dias finally returns home after decades of war. He's hailed a hero and promptly rewarded with his own domain...which turns out to be little more than empty plains. Population: zero. Dias, who has only ever known battle, finds himself at a loss. How is he supposed to survive, let alone cultivate his territory into a thriving, prosperous dominion when there's nothing but grass as far as he can see? Fortunately for Dias, a horned girl by the name of Alna is about to show him there's more to the plains than meets the eye!(Source: J-Novel Club)",
     "genres": [
       10
@@ -217,8 +217,38 @@
           "url": "https://uqload.com/embed-ac324w8ypppb.html"
         }
       ],
-      "skip_times": null,
+      "skip_times": {
+        "op": {
+          "start": 107,
+          "end": 197
+        },
+        "ed": {
+          "start": 1330,
+          "end": 1420
+        }
+      },
       "added_date": "2026-08-09T01:52:28.116913",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/4ms2krh5h7om"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-kcc59djeav8r.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-16T01:26:07.831063",
       "jikan_mal_id": null,
       "filler": null,
       "recap": null
