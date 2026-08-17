@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
     "puan": "0.00",
-    "bolum_durumu": "5/?",
+    "bolum_durumu": "6/?",
     "ozet": "Güçlü bir dükün göz ardı edilen kızı olan Leydi Carolina, görkemli ailesinin içinde kendisini her zaman dışlanmış bir kara koyun olarak görmüştür. Babası ülkenin seçkin başbakanı, ablası ise ulusun bir sonraki Azize'si olmaya aday dahi bir büyücüdür. Onların gölgesinde sessiz bir hayat yaşamayı kabullenen Carolina'nın kaderi, ani ve beklenmedik bir kraliyet fermanıyla tamamen değişir.\n\nCarolina, kendisini komşu Malcosias İmparatorluğu'nun ürkütücü ve \"Kanlı Prensi\" ile siyasi bir evliliğin tam ortasında bulur. Kendi değerini kanıtlamaya kararlı olan genç kız, hem siyasi hem de ölümcül tehlikelerle dolu bu yeni dünyaya cesur bir adım atar. Kraliyet sorumlulukları, gerçek aşkın ilk kıvılcımları ve kendi içinde saklı kalan kadim gücün uyanışıyla harmanlanırken; Carolina, \"sıra dışı\" olmanın gerçekte ne anlama geldiğini keşfetmeye her adımda daha da yaklaşacaktır.",
     "slug": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu"
   },
@@ -25,7 +25,7 @@
     "duration": "24 min. per ep.",
     "rating": "PG-13 - Teens 13 or older",
     "score": 6.52,
-    "popularity": 4910,
+    "popularity": 4903,
     "synopsis": "Lady Carolina, the overlooked daughter of a powerful duke, has always believed herself to be the black sheep amid her illustrious kin. Her father is the distinguished prime minister; her elder sister, a prodigious mage destined to become their nation's next Saint. In comparison, Carolina resigns herself to a quiet existence in their shadows until a sudden and unexpected royal decree alters her destiny, thrusting her into a political marriage with the formidable \"Bloodthirsty Prince\" of the neighboring Empire of Malcosias. Determined to prove her worth, Carolina takes a bold step into a world fraught with both political and mortal peril. As royal obligations intertwine with hints of true love and the stirrings of her own latent power, Carolina moves ever closer to understanding what it truly means to be exceptional.(Source: J-Novel Club)",
     "genres": [
       10,
@@ -263,9 +263,9 @@
         }
       },
       "added_date": "2026-07-27T13:33:06.152205",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
     },
     {
       "turkanime_title": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu 5. Bölüm",
@@ -287,11 +287,41 @@
           "url": "https://uqload.com/embed-wywa3qrwm3mk.html"
         }
       ],
-      "skip_times": null,
+      "skip_times": {
+        "op": {
+          "start": 84.10296,
+          "end": 173.28775
+        }
+      },
       "added_date": "2026-07-29T14:46:06.405800",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/g64kykr27u0k"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 100.45,
+          "end": 190.45
+        },
+        "ed": {
+          "start": 1405.629,
+          "end": 1495
+        }
+      },
+      "added_date": "2026-08-17T01:23:21.573245",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
     }
   ]
 }
