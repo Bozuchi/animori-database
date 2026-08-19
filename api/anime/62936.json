@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
     "puan": "0.00",
-    "bolum_durumu": "6/?",
+    "bolum_durumu": "7/?",
     "ozet": "Henüz havai fişekler için çok erken olan nisan ayında, bir Tokyo gecesinde üniversite öğrencisi Kakeru Mano, Koharu Fuyutsuki adında bir kadınla tanışır. Koharu; kalabalığın arasından sıyrılan, neşeli kahkahalar atan ve Kakeru'nun içe dönük yapısıyla taban tabana zıt olan sıcacık bir enerji yayan güzeller güzeli bir kızdır. Ancak Kakeru'nun ilk başta bilmediği bir şey vardır: Koharu göremiyordur.\n\nKakeru'nun aksine Koharu, görme engeline rağmen hayattaki hiçbir şeyden vazgeçmemiştir. Her gün üniversitesine gider, kulüplerle ilgilenir, arkadaşlıklar kurar ve en büyük hayali olarak bir gün gökyüzüne havai fişekler fırlatmayı düşler. Kakeru, göremediği halde onun neden böyle bir şeyi bu kadar çok istediğini merak eder... Ama belki de bunun bir önemi yoktur. Ve belki de Kakeru, her zaman yanında olan bu kız sayesinde, sonunda kendi hayatında da ileriye doğru adımlar atmaya başlayabilir.",
     "slug": "toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita"
   },
@@ -25,7 +25,7 @@
     "duration": "24 min. per ep.",
     "rating": "PG-13 - Teens 13 or older",
     "score": 8.06,
-    "popularity": 3065,
+    "popularity": 3046,
     "synopsis": "On an April night in Tokyo, as the cherry blossoms are in bloom, blind university student Koharu Fuyutsuki spends time with the man she loves, Kakeru Sorano. In the three years since they started dating, he's shown just how much he cares about her, and even though Koharu can't see him, she can tell what a wonderful person he is. After all, Kakeru is the man who gave her a future. But just because they were gifted a miracle once, there's nothing to say it will continue forever. Pain and joy—and all the vibrant hues in between—color their lives like fireworks in the sky.(Source: Yen Press)",
     "genres": [
       8,
@@ -260,9 +260,34 @@
           "url": "https://bysesukior.com/e/qxdd0fkttxgh"
         }
       ],
-      "skip_times": null,
+      "skip_times": {
+        "op": {
+          "start": 0,
+          "end": 90
+        },
+        "ed": {
+          "start": 1351.113,
+          "end": 1440
+        }
+      },
       "added_date": "2026-08-15T01:21:19.962680",
       "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/lkakp76ol53i"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-19T01:21:10.307679",
+      "jikan_mal_id": 7,
       "filler": false,
       "recap": false
     }
