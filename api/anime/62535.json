@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
     "puan": "0.00",
-    "bolum_durumu": "6/?",
+    "bolum_durumu": "7/?",
     "ozet": "Narukami Ryusei, tam anlamıyla sıradan bir NEET’tir (okumayan ve çalışmayan genç). Günlerini dünyadaki hiçbir şeyi umursamadan, odasına kapanıp video oyunları oynayarak tembel bir şekilde geçirmektedir. Ancak işin aslı, Ryusei geçmişte başka bir dünyada hüküm süren oldukça güçlü bir iblis kraldır! Peki, madem bu yeni hayata geldi, neden canı ne istiyorsa onu yaparak gününü gün etmesindir ki?\n\nKüçük bir sorun dışında: Bu dünyaya reenkarne olan tek kişi kendisi değildir. Geçmiş dünyada onu alt eden kahraman da bu dünyadadır ve üstelik son derece sevimli bir lise kızına dönüşmüştür?! Ryusei, yeni bir dünyada can düşmanıyla yeniden bir araya gelip hayatta kalmayı başarabilecek midir, yoksa bu hayatında da kendini amansız bir mücadelenin ortasında mı bulacaktır?",
     "slug": "hanaori-san-wa-tensei-shitemo-kenka-ga-shitai"
   },
@@ -186,7 +186,16 @@
           "url": "https://bysesukior.com/e/ltdtlpqie1mt"
         }
       ],
-      "skip_times": null,
+      "skip_times": {
+        "op": {
+          "start": 73.452,
+          "end": 163.452
+        },
+        "ed": {
+          "start": 1254.454,
+          "end": 1344.454
+        }
+      },
       "added_date": "2026-08-14T02:05:54.819567",
       "jikan_mal_id": 5,
       "filler": false,
@@ -207,11 +216,45 @@
           "url": "https://uqload.com/embed-n1amikp544c0.html"
         }
       ],
-      "skip_times": null,
+      "skip_times": {
+        "op": {
+          "start": 89.456,
+          "end": 179.456
+        },
+        "ed": {
+          "start": 1208.375,
+          "end": 1298.375
+        }
+      },
       "added_date": "2026-08-17T01:22:34.362186",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/gea0j54o9a10"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 34.355,
+          "end": 124.355
+        },
+        "ed": {
+          "start": 1290,
+          "end": 1380
+        }
+      },
+      "added_date": "2026-08-26T01:24:38.729770",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
     }
   ]
 }
