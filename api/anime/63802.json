@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Mebius Dust",
     "puan": "0.00",
-    "bolum_durumu": "4/?",
+    "bolum_durumu": "7/?",
     "ozet": "Gizemli bir meteoritin Dünya'ya çarpmasından 10 yıl sonra, \"Rams Taşıyıcıları\" olarak adlandırılan insanlar, \"Rams\" adı verilen süper insan yetenekleri geliştirirler. Ancak bu özel yetenekleri geliştiren kişiler, yalnızca devasa bir kristal tarafından salınan \"Mebius Tozu\"nun (Mebius Dust) varlığında hayatta kalabilmektedir; bu yüzden Shinkatsushika kasabasından ayrılmaları kesinlikle yasaktır.\n\nShinkatsushika'da yaşayan Rams Taşıyıcısı çocuklar, kasabadan çıkamamalarının verdiği can sıkıntısını hafifletmek için yeteneklerini kullanarak bir bölge fethetme oyunu oynarlar. Lise öğrencisi Araki; küçük kız kardeşi Stella ve çocukluk arkadaşı Olga ile birlikte \"Polis Hopper\" adlı bir takım kurarak kendilerini bu oyunun ortasına bırakırlar. Rams üzerine araştırmalar yapan Profesör Yuda'nın, onlardan belirli bir deneye katılmalarını istemesiyle birlikte, hepsinin kaderi tamamen değişmeye başlayacaktır...",
     "slug": "mebius-dust"
   },
@@ -25,7 +25,7 @@
     "duration": "23 min.",
     "rating": "PG-13 - Teens 13 or older",
     "score": 5.29,
-    "popularity": 8719,
+    "popularity": 8716,
     "synopsis": "10 years after a mysterious meteorite crashes to Earth, people called \"Rams Carriers\" develop superhuman abilities called \"Rams\". However, those who develop these special abilities can only survive in the presence of the \"Mebius Dust\" released by a giant crystal, and so they are forbidden from leaving the town of Shinkatsushika.Within Shinkatsushika, Rams Carrier children use their Rams to play a territory-conquering game to alleviate their boredom at being unable to leave town. High school student Araki along with his younger sister, Stella, and his childhood friend, Olga, form a team called \"Polis Hopper\" and throw themselves into the game. Their destinies begin to change when Professor Yuda, a researcher who studies Rams, asks them to participate in a certain experiment...(Source: Official Site)",
     "genres": [
       1
@@ -96,9 +96,9 @@
       ],
       "skip_times": null,
       "added_date": "2026-07-27T11:33:58.264804",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false
     },
     {
       "turkanime_title": "Mebius Dust 4. Bölüm",
@@ -112,9 +112,56 @@
       ],
       "skip_times": null,
       "added_date": "2026-08-01T02:54:58.582019",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Mebius Dust 5. Bölüm",
+      "episode_number": 5,
+      "videos": [],
+      "skip_times": null,
+      "added_date": "2026-08-31T04:51:26.494011",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Mebius Dust 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/8m1fl4vaqfeu"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-biqtv59heggp.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-31T04:51:26.494011",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Mebius Dust 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/xvso8diwy87j"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-31T04:51:26.494011",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
     }
   ]
 }

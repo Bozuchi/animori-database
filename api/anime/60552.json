@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Kabushikigaisha Magi-Lumière 2nd Season",
     "puan": "0.00",
-    "bolum_durumu": "5/?",
+    "bolum_durumu": "7/?",
     "ozet": "Sihirli kızlığı kurumsal bir meslek haline getiren serinin 2. sezonunda; butik Magilumiere şirketinin parlayan yıldızı Kana Sakuragi, üstün analiz yeteneğiyle yeni sihir yazılımlarını sahada uygulamaya devam eder. Şirketin sektörde dikkat çekmesiyle birlikte ekip, hem daha büyük ve tehlikeli canavar krizleriyle hem de devasa rakip firmaların acımasız kurumsal komplolarıyla yüzleşir. Kana ve arkadaşları, kar hırsıyla hareket eden sektörel tekelere karşı \"insanları koruma\" misyonunu savunarak tam bir startup ruhuyla amansız bir mücadeleye girişir.",
     "slug": "kabushikigaisha-magi-lumiere-2nd-season"
   },
@@ -151,9 +151,9 @@
       ],
       "skip_times": null,
       "added_date": "2026-07-27T00:50:40.554052",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
     },
     {
       "turkanime_title": "Kabushikigaisha Magi-Lumière 2nd Season 5. Bölüm",
@@ -177,9 +177,35 @@
       ],
       "skip_times": null,
       "added_date": "2026-08-03T02:55:38.065128",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kabushikigaisha Magi-Lumière 2nd Season 6. Bölüm",
+      "episode_number": 6,
+      "videos": [],
+      "skip_times": null,
+      "added_date": "2026-08-31T04:32:38.760304",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Kabushikigaisha Magi-Lumière 2nd Season 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/75l0etu07u86"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-31T04:32:38.760304",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
     }
   ]
 }

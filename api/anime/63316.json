@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Dogulwang",
     "puan": "0.00",
-    "bolum_durumu": "5/12",
+    "bolum_durumu": "7/12",
     "ozet": "Düşman hatlarının gerisinde gizli bir göreve atılan Jooheon'un, TKBM'ye acı çektirmek için hazırladığı en yeni plan, onları içeriden çökertmeyi hedefliyor! Kalıntılarını (relic) çalmak ve aralarına nifak sokup iç çatışma çıkarmak, grubun günahlarının bedelini ödetmek için yapacaklarının sadece küçük bir kısmıdır.\n\nAncak Gurur Kulesi'nin (Tower of Pride) ortaya çıkışıyla birlikte, tarihin en korkunç savaş ağalarını birbirine düşürmek zorunda kalan Jooheon'un insanları kışkırtma ve manipüle etme (rage-baiting) yetenekleri asıl büyük sınavını verecektir! Tarihin gördüğü en büyük fatihlerin bu amansız savaşında, Jooheon Suh nihayet en tepedeki isim olarak çıkmayı başarabilecek midir?",
     "slug": "dogulwang"
   },
@@ -25,7 +25,7 @@
     "duration": "23 min. per ep.",
     "rating": "PG-13 - Teens 13 or older",
     "score": 6.66,
-    "popularity": 3914,
+    "popularity": 3905,
     "synopsis": "Undercover behind enemy lines, Jooheon's newest plan to torment TKBM will involve taking them down from the inside! Stealing their relics and causing infighting is just the tip of the iceberg on what he'll do to make the group pay for their sins. But with the appearance of the Tower of Pride, Jooheon's skills in rage-baiting will truly be tested as he must pit the most fearsome warlords against each other! Will Jooheon Suh come out on top in the battle of the greatest conquerors of history?(Source: Yen Press)",
     "genres": [
       1,
@@ -183,9 +183,41 @@
       ],
       "skip_times": null,
       "added_date": "2026-08-14T02:05:44.131997",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Dogulwang 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/del1wszpefc2"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-31T04:22:06.546736",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Dogulwang 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/vg7v4mfbt71b"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-31T04:22:06.546736",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
     }
   ]
 }

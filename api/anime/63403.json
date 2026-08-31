@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Yani Neko",
     "puan": "0.00",
-    "bolum_durumu": "5/?",
+    "bolum_durumu": "8/?",
     "ozet": "Yani, gerçekten ciddi bir sigara bağımlılığı olan bir kedi kızdır. O kadar çok sigara içmektedir ki, dairesi tamamen kül kokmakta, etraf izmaritlerle ve yığınla çöple dolup taşmaktadır! Ne zaman sigarayı bırakmaya çalışsa, krizlerine yenik düşmekte ve neredeyse anında pes etmektedir. Acaba günün birinde hayatını düzene sokmayı başarabilecek midir, yoksa sonsuza dek zincirleme sigara içen pasaklı biri olarak yaşamaya mahkum mu kalacaktır?",
     "slug": "yani-neko"
   },
@@ -159,9 +159,9 @@
       ],
       "skip_times": null,
       "added_date": "2026-07-30T17:47:26.134066",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false
     },
     {
       "turkanime_title": "Yani Neko 5.Bölüm",
@@ -169,9 +169,56 @@
       "videos": [],
       "skip_times": null,
       "added_date": "2026-07-31T02:56:33.589280",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Yani Neko 6. Bölüm",
+      "episode_number": 6,
+      "videos": [],
+      "skip_times": null,
+      "added_date": "2026-08-31T05:26:40.902397",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Yani Neko 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/7q1vxmjjrwf5"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-zfu1mp7nfpi1.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-31T05:26:40.902397",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Yani Neko 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/3alv9sv681aj"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-31T05:26:40.902397",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
     }
   ]
 }

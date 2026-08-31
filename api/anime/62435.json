@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
     "puan": "0.00",
-    "bolum_durumu": "7/12",
+    "bolum_durumu": "8/12",
     "ozet": "Kurumsal hayatın kölesi olan Arihito Atobe'nin tuhaf bir otobüs kazasında ölmesi, \"Seeker\" (Arayıcı) adı verilen bir tür maceracı olarak yeni hayatının başlangıcı olur. Fantastik bir dünyada yeniden doğan Arihito, daha önce hiç bilinmeyen \"rearguard\" (artçı) adlı bir iş sınıfına yerleşir; bu sınıf, (tamamı kadınlardan oluşan) grubuna kritik saldırı, savunma ve iyileştirme desteği sağlama yeteneğine sahiptir. Üstelik bu işin ek bir avantajı daha vardır: Sadece grubun en arkasında yer almak bile yoldaşlarının ona olan sevgisini ve bağlılığını artırmaktadır! Kurumsal hayatın prangalarından kurtulan Arihito, çiçeği burnunda bir Seeker olarak yeni bir başlangıç yapmaya can atmaktadır!",
     "slug": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha"
   },
@@ -25,7 +25,7 @@
     "duration": "23 min. per ep.",
     "rating": "PG-13 - Teens 13 or older",
     "score": 5.67,
-    "popularity": 4424,
+    "popularity": 4411,
     "synopsis": "Corporate slave Arihito Atobe's death in a freak bus accident marks the beginning of his new life as a kind of adventurer called a Seeker. Reborn into a fantasy world, he settles into a previously unknown job class called \"rearguard,\" capable of providing his (all-female) party with critical attack, defense, and recovery support. And it comes with an added bonus: Simply being at the back of the party line increases his companions' fondness for him! Freed from the shackles of corporate life, Arihito is eager to start fresh as a newly minted Seeker!(Source: Yen Press)",
     "genres": [
       1,
@@ -268,9 +268,25 @@
       ],
       "skip_times": null,
       "added_date": "2026-08-18T01:20:09.773584",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha 8. Bölüm",
+      "episode_number": 8,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/01x7d4bw7k97"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-31T05:15:05.208920",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
     }
   ]
 }
