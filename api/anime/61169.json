@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Black Torch",
     "puan": "0.00",
-    "bolum_durumu": "8/?",
+    "bolum_durumu": "9/?",
     "ozet": "On yedi yaşındaki Jirou Azuma, hayvanlarla konuşabilme yeteneğini onları korumak ve onlarla arkadaş olmak için kullanarak büyükbabasıyla birlikte sakin bir hayat yaşamaktadır. Hem Jirou hem de büyükbabası, köklü bir shinobi klanının soyundan gelmektedir ve ailelerindeki savaş sanatını yaşatmak için dövüş eğitimleri almaktadırlar. Jirou'nun hayatı, görünüşte normal olan Ragou adında siyah bir kediyi kurtarmasıyla altüst olur; zira bu kedinin aslında insanlıkla uzun süredir savaş halinde olan bir \"mononoke\" (iblis ruhu) olduğu ortaya çıkar.\n\nDüşman bir mononoke Ragou'nun peşine düştüğünde, Jirou kediye siper olmak için shinobi eğitimini kullanır ancak ölümcül bir yara alır. Jirou'nun tükenmekte olan enerjisini yiyip eski tam gücüne kavuşmak ya da onu kurtarmak arasında kalan Ragou, bunun yerine kalan tüm enerjisini Jirou'ya vermeyi seçer. Bu aktarım genç çocuğu hayata döndürmekle kalmaz, aynı zamanda kendi shinobi dövüş tarzını tamamlayan muazzam doğaüstü güçler bahşeder.\n\nBu olaya, görevi saldırgan mononokeleri ortadan kaldırmak olan Casusluk Bürosu ajanı Ryousuke Shiba tanıklık eder. Shiba, Jirou ve büyükbabasına bir teklif sunar: Büronun yeni mangası \"Black Torch\"a katılmak ve masum insanları katletmek isteyen güçlü mononokelere karşı onlarla birlikte savaşmak.",
     "slug": "black-torch"
   },
@@ -24,8 +24,8 @@
     },
     "duration": "23 min.",
     "rating": "PG-13 - Teens 13 or older",
-    "score": 6.96,
-    "popularity": 2573,
+    "score": 6.95,
+    "popularity": 2569,
     "synopsis": "Seventeen-year-old Jirou Azuma lives a quiet life with his grandfather, utilizing his supernatural ability to speak with animals to befriend and protect them. Both Jirou and his grandfather are descendants of a long-standing shinobi clan, training in combat to keep the art of battle alive within their family. Jirou's life is thrown into upheaval after rescuing a seemingly normal black cat, Ragou, only to discover that the cat is actually a mononoke—a demonic spirit that has long been at war with mankind. When a hostile mononoke comes looking for Ragou, Jirou uses his shinobi training to jump to the cat's defense, but immediately suffers a mortal wound.Faced with the decision of whether or not to devour Jirou's fading energy and restore himself to full power, Ragou instead chooses to give his remaining energy to Jirou. Reviving the boy, the transfer also grants him great supernatural powers that complement his own shinobi fighting style. This act is witnessed by Ryousuke Shiba, an officer in the Bureau of Espionage whose job revolves around dispatching aggressive mononoke. Shiba extends Jirou and his grandfather an offer: to join the Bureau's new squad, Black Torch, and help them battle powerful mononoke who seek to devour innocent people.[Written by MAL Rewrite]",
     "genres": [
       1,
@@ -232,7 +232,16 @@
       "turkanime_title": "Black Torch 6. Bölüm",
       "episode_number": 6,
       "videos": [],
-      "skip_times": null,
+      "skip_times": {
+        "op": {
+          "start": 11,
+          "end": 91
+        },
+        "ed": {
+          "start": 1338.2,
+          "end": 1415.2
+        }
+      },
       "added_date": "2026-08-31T04:19:54.509053",
       "jikan_mal_id": 6,
       "filler": false,
@@ -248,7 +257,12 @@
           "url": "https://bysesukior.com/e/h30jrt564p6d"
         }
       ],
-      "skip_times": null,
+      "skip_times": {
+        "op": {
+          "start": 97.1,
+          "end": 187.1
+        }
+      },
       "added_date": "2026-08-31T04:19:54.509053",
       "jikan_mal_id": 7,
       "filler": false,
@@ -264,9 +278,39 @@
           "url": "https://bysesukior.com/e/95pqi8qs0rzc"
         }
       ],
-      "skip_times": null,
+      "skip_times": {
+        "op": {
+          "start": 89.2,
+          "end": 175.9
+        },
+        "ed": {
+          "start": 1335.7,
+          "end": 1425.1
+        }
+      },
       "added_date": "2026-08-31T04:19:54.509053",
       "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false
+    },
+    {
+      "turkanime_title": "Black Torch 9. Bölüm",
+      "episode_number": 9,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/8lqwe0y88w4n"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 86.9,
+          "end": 173.5
+        }
+      },
+      "added_date": "2026-09-05T03:26:05.586748",
+      "jikan_mal_id": 9,
       "filler": false,
       "recap": false
     }

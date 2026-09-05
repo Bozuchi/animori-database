@@ -2,7 +2,7 @@
   "turkanime": {
     "isim": "Bai Ri Cheng Wang",
     "puan": "0.00",
-    "bolum_durumu": "19/25",
+    "bolum_durumu": "21/25",
     "ozet": "Bir saniye önce restoran neşe içinde dolup taşarken, bir saniye sonra her yer adeta bir kan gölüne döndü… Halkını canıgönülden sevdiği apaçık ortada olan kral, aniden gözü dönmüş, kana susamış bir canavara dönüştü… \"Ming\" değer verdiği herkesi kaybetti; bu korkunç kral gerçekten tam bir iblis! İntikamımı mutlaka alacağım!\n\nBir dakika, yani şu an karşımda duran ve yaşamak için sadece 100 günü kalmış olan bu ruh, gerçek kral \"Lie\" mı?! Pekala, anlaştık! 100 gün içinde—hadi ikimiz birlikte tacı takıp kral olalım!",
     "slug": "bai-ri-cheng-wang"
   },
@@ -25,7 +25,7 @@
     "duration": "12 min. per ep.",
     "rating": "R - 17+ (violence & profanity)",
     "score": 6.71,
-    "popularity": 9335,
+    "popularity": 9310,
     "synopsis": "After a beloved king unleashes a brutal massacre, Ming loses everything and vows revenge. But as he sets out to kill the tyrant, he discovers the true King Lie has been forced from his own body. With only 100 days left to reclaim the throne, the king and his would-be assassin must join forces to expose an impostor before the kingdom falls into darkness.(Source: Crunchyroll)",
     "genres": [
       1,
@@ -607,8 +607,67 @@
           "url": "https://bysesukior.com/e/wzrked7ylnr7"
         }
       ],
-      "skip_times": null,
+      "skip_times": {
+        "op": {
+          "start": 5,
+          "end": 40
+        },
+        "ed": {
+          "start": 692,
+          "end": 725
+        }
+      },
       "added_date": "2026-09-01T04:02:43.226319",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Bai Ri Cheng Wang 20. Bölüm",
+      "episode_number": 20,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/tcxa5twv20la"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 5,
+          "end": 40
+        },
+        "ed": {
+          "start": 632,
+          "end": 664
+        }
+      },
+      "added_date": "2026-09-05T03:25:49.701033",
+      "jikan_mal_id": null,
+      "filler": null,
+      "recap": null
+    },
+    {
+      "turkanime_title": "Bai Ri Cheng Wang 21. Bölüm",
+      "episode_number": 21,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/7xp8fpifgl6s"
+        }
+      ],
+      "skip_times": {
+        "op": {
+          "start": 5,
+          "end": 40
+        },
+        "ed": {
+          "start": 605,
+          "end": 638
+        }
+      },
+      "added_date": "2026-09-05T03:25:49.701033",
       "jikan_mal_id": null,
       "filler": null,
       "recap": null
