@@ -1,9 +1,9 @@
 name: 🎌 Anime Database Update
 
 on:
-  # Her 24 saatte bir (gece yarısı) otomatik çalıştır
-  schedule:
-    - cron: '0 0 * * *'
+  # # Her 24 saatte bir (gece yarısı) otomatik çalıştır
+  # schedule:
+  #   - cron: '0 0 * * *'
 
   # Manuel tetikleme
   workflow_dispatch:
