@@ -21,9 +21,10 @@ import os
 import re
 import time
 import urllib.parse
-from typing import Any
-from Crypto.Cipher import AES
-import requests
+try:
+    from Crypto.Cipher import AES
+except ImportError:
+    AES = None
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
@@ -108,6 +109,9 @@ class AnimecixProvider:
         Dönüş: base64(ciphertext||tag) + "." + base64(iv)
         """
         plaintext = f"{{version}}{query_str}".encode("utf-8")
+        if AES is None:
+            logger.error("pycryptodome modülü yüklü değil, X-E-H imza üretilemedi.")
+            return ""
         iv = os.urandom(12)
         cipher = AES.new(XEH_KEY, AES.MODE_GCM, nonce=iv)
         ciphertext, tag = cipher.encrypt_and_digest(plaintext)
