@@ -8,15 +8,6 @@ on:
   # GitHub üzerinden tek tıkla manuel çalıştırma
   workflow_dispatch:
     inputs:
-      source:
-        description: 'Taranacak Kaynak'
-        required: true
-        type: choice
-        options:
-          - all
-          - anizm
-          - animecix
-        default: 'all'
       full_scrape:
         description: 'Tüm kataloğu baştan/kaldığı yerden çek (--full)'
         required: false
@@ -58,21 +49,20 @@ jobs:
       - name: 📦 Install Dependencies
         run: pip install -r requirements.txt
 
-      # 4. Güncelleme scriptini çalıştır
-      - name: 🔄 Run Database Update
+      # 4. AnimeciX güncelleme scriptini çalıştır
+      - name: 🔄 Run Database Update (AnimeciX)
         id: run_update
         run: |
-          SRC="${{ github.event.inputs.source || 'all' }}"
           WORKERS="${{ github.event.inputs.workers || '2' }}"
           MAX_HOURS="${{ github.event.inputs.max_hours || '5.5' }}"
           FULL="${{ github.event.inputs.full_scrape || 'false' }}"
 
-          echo "🚀 Kaynak: $SRC | Workers: $WORKERS | Max Süre: $MAX_HOURS saat | Full: $FULL"
+          echo "🚀 Workers: $WORKERS | Max Süre: $MAX_HOURS saat | Full: $FULL"
 
           if [ "$FULL" = "true" ]; then
-            python main.py --source "$SRC" --full --workers "$WORKERS" --max-hours "$MAX_HOURS"
+            python main.py --full --workers "$WORKERS" --max-hours "$MAX_HOURS"
           else
-            python main.py --source "$SRC" --workers "$WORKERS" --max-hours "$MAX_HOURS"
+            python main.py --workers "$WORKERS" --max-hours "$MAX_HOURS"
           fi
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}

@@ -1,16 +1,14 @@
 """
-main.py — Anime Veritabanı Orkestratörü (Multi-Source Mimarisi)
+main.py — Anime Veritabanı Orkestratörü
 
-Farklı anime kaynaklarını (AnimeciX, ve gelecekte Diziwatch, Anizm vb.)
-ayrık klasör mimarisinde (api/sources/<kaynak>/) yönetir ve günceller.
+AnimeciX kaynağını ayrık klasör mimarisinde (api/sources/animecix/) yönetir ve günceller.
 
 Kullanım:
-    python main.py                  # Varsayılan: Aktif kaynaklar için delta güncelleme yapar
-    python main.py --full           # Tüm aktif kaynakların arşivini baştan/kaldığı yerden çeker
-    python main.py --source animecix --delta
-    python main.py --source animecix --full
-    python main.py --source animecix --limit 10
-    python main.py --build-index
+    python main.py                  # Varsayılan: Akıllı senkronizasyon (smart_sync)
+    python main.py --full           # Tüm kataloğu baştan/kaldığı yerden çeker
+    python main.py --delta          # Yalnızca son eklenen bölümleri tarar
+    python main.py --limit 10       # Test için sınırlı çekim
+    python main.py --build-index    # animes.json vitrinini yeniden kurar
 """
 
 import os
@@ -23,8 +21,6 @@ from datetime import datetime
 from logger import setup_logger
 import animecix_scraper
 from animecix_scraper import AnimecixScraper
-import anizm_scraper
-from anizm_scraper import AnizmScraper
 from discord_notify import send_report
 
 logger = setup_logger("Main")
@@ -35,7 +31,6 @@ _shutdown_requested = False
 def _handle_shutdown(signum, frame):
     global _shutdown_requested
     animecix_scraper._shutdown_requested = True
-    anizm_scraper._shutdown_requested = True
     if _shutdown_requested:
         logger.warning("İkinci Ctrl+C algılandı, zorla kapatılıyor...")
         os._exit(1)
@@ -81,45 +76,17 @@ def run_animecix(args, stats: dict):
         scraper.delta_sync(pages=args.delta_pages)
         stats["animecix_delta_tamamlandi"] = "Evet"
     else:
-        # Varsayılan: Türkanime tarzı akıllı senkronizasyon (smart_sync)
+        # Varsayılan: Akıllı senkronizasyon (smart_sync)
         scraper.smart_sync(force_catalog=args.force_catalog, limit=args.limit)
         stats["animecix_smart_sync"] = "Tamamlandı"
         stats["animecix_toplam_anime"] = len(os.listdir(scraper.anime_dir))
-
-
-def run_anizm(args, stats: dict):
-    """Anizm kaynağını çalıştırır."""
-    logger.info("🎬 [Kaynak: Anizm] İşlem Başlatılıyor...")
-    scraper = AnizmScraper(workers=args.workers)
-
-    if args.build_index:
-        count = scraper.build_animes_index()
-        scraper.save_metadata()
-        scraper.update_latest_episodes()
-        scraper.update_calendar()
-        scraper.update_versions()
-        stats["anizm_indeks_toplam"] = count
-    elif args.full:
-        scraper.scrape_all(limit=args.limit, force_catalog=args.force_catalog)
-        stats["anizm_taranan"] = scraper.stats["successfully_scraped"]
-        stats["anizm_toplam_bolum"] = scraper.stats["total_episodes"]
-        stats["anizm_toplam_video"] = scraper.stats["total_videos"]
-        stats["anizm_fansub"] = len(scraper.fansubs)
-    elif args.delta:
-        scraper.delta_sync(pages=args.delta_pages)
-        stats["anizm_delta_tamamlandi"] = "Evet"
-    else:
-        scraper.smart_sync(force_catalog=args.force_catalog, limit=args.limit)
-        stats["anizm_smart_sync"] = "Tamamlandı"
-        stats["anizm_toplam_anime"] = len(os.listdir(scraper.anime_dir))
 
 
 def main():
     global _shutdown_requested
     signal.signal(signal.SIGINT, _handle_shutdown)
 
-    parser = argparse.ArgumentParser(description="Anime Veritabanı Multi-Source Orkestratörü")
-    parser.add_argument("--source", type=str, default="animecix", choices=["animecix", "anizm", "all"], help="Hedef kaynak (Varsayılan: animecix)")
+    parser = argparse.ArgumentParser(description="Anime Veritabanı Orkestratörü (AnimeciX)")
     parser.add_argument("--full", action="store_true", help="Tüm kataloğu baştan/kaldığı yerden çeker.")
     parser.add_argument("--delta", action="store_true", help="Yalnızca son eklenen bölümleri tarar ve günceller.")
     parser.add_argument("--limit", type=int, default=None, help="İşlenecek maksimum başlık adedi (Test için).")
@@ -142,7 +109,6 @@ def main():
             logger.warning(f"⏰ Maksimum çalışma süresi ({args.max_hours} saat) doldu. Güvenli kapanış başlatılıyor...")
             _shutdown_requested = True
             animecix_scraper._shutdown_requested = True
-            anizm_scraper._shutdown_requested = True
 
         timeout_sec = args.max_hours * 3600
         timer = threading.Timer(timeout_sec, _trigger_timeout)
@@ -152,17 +118,13 @@ def main():
 
     logger.info("=" * 65)
     logger.info(f"🎌 ANİME DATABASE ORKESTRATÖRÜ BAŞLADI ({start_time.strftime('%Y-%m-%d %H:%M:%S')})")
-    logger.info(f"📌 Kaynak: {args.source.upper()} | Mod: {'FULL' if args.full else ('LIMIT ' + str(args.limit) if args.limit else 'DELTA')}")
+    logger.info(f"📌 Mod: {'FULL' if args.full else ('LIMIT ' + str(args.limit) if args.limit else ('DELTA' if args.delta else 'SMART SYNC'))}")
     if args.max_hours:
         logger.info(f"⏱️  Maksimum Süre: {args.max_hours} saat")
     logger.info("=" * 65)
 
     try:
-        if args.source in ("animecix", "all"):
-            run_animecix(args, stats)
-
-        if args.source in ("anizm", "all"):
-            run_anizm(args, stats)
+        run_animecix(args, stats)
 
     except Exception as e:
         crash_error = f"{type(e).__name__}: {str(e)}"
