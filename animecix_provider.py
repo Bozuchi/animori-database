@@ -25,6 +25,7 @@ try:
     from Crypto.Cipher import AES
 except ImportError:
     AES = None
+import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
