@@ -1,9 +1,9 @@
 name: 🎌 Anime Database Update
 
 on:
-  # Günde 2 kere otomatik çalış (00:00 ve 12:00 UTC)
-  schedule:
-    - cron: '0 0,12 * * *'
+  # # Otomatik zamanlama devre dışı (Cloudflare geoblock sorunu)
+  # schedule:
+  #   - cron: '0 0,12 * * *'
 
   # GitHub üzerinden tek tıkla manuel çalıştırma
   workflow_dispatch:
