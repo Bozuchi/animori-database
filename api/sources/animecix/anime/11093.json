@@ -1,0 +1,883 @@
+{
+  "id": 11093,
+  "name": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+  "name_english": "Reborn as a Vending Machine, Now I Wander the Dungeon",
+  "name_romanji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+  "original_title": "自動販売機に生まれ変わった俺は迷宮を彷徨う",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2023,
+  "release_date": "2023-07-05",
+  "description": "Orta yaşlı, otomat tutkun bir adam, ironik bir kaza sonucu ölür ve başka bir dünyada bilinciyle birlikte bir otomat olarak yeniden doğar. Boxxo adı verilen bu otomat, görebilir ve duyabilir olsa da yalnızca programlanmış ifadeleri söyleyebiliyor; kendi başına hareket edemiyor.\n\nKurbağa adamlar ve diğer canavarların bulunduğu bir ormanda ortaya çıkan Boxxo’nun çalışmaya devam etmesi, stoğunu yenilemesi ve yeni yetenekler kazanması için madeni paraya ihtiyacı vardır. Genç bir kadın, onun canlı olduğunu fark edip bir insan yerleşimine götürür.\n\nHareket edememesi ve sınırlı iletişimine rağmen Boxxo, zamanla çevresini etkiler ve beklenmedik müttefikler edinir. Bu garip yeni hayat, bu fantastik dünyanın kaderini şaşırtıcı bir şekilde bir otomatın ellerine bırakır.",
+  "poster": "https://image.tmdb.org/t/p/original/bY6oLDoxDyP7JNLVGjeO3udND4g.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/q03KVhaq2AqffQIQ2oJT616pwei.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    4,
+    2,
+    1
+  ],
+  "tmdb_id": 207564,
+  "mal_id": 52619,
+  "anilist_id": 0,
+  "imdb_id": "tt28100731",
+  "season_count": 3,
+  "seasons": [
+    {
+      "id": 4684,
+      "season_number": 1,
+      "name": "",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 199776,
+          "episode_number": 1,
+          "name": "Otomat seyahat ediyor",
+          "description": "Zamansız ölümünden sonra, beklenmedik kahramanımız kendisini başka bir dünyada bulur, bir otomat olarak reenkarne olur. Şimdi hayatı insanlara bir şeyler satmak için dönüyor, ancak hiçbir müşterinin belirtisi olmadan hiçbir yerin ortasında sıkıştı.",
+          "release_date": "2023-07-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ruHd27xIc5rvipM5YdIiVHM2yI8.jpg",
+          "videos": [
+            {
+              "id": 725085,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68868f8504211985ac19842a",
+              "extra": "Çeviri: Leonis / Redakte & Encode: Ashirame",
+              "fansub": "Leonis / Redakte &",
+              "fansub_id": 643,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725086,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/1ncjhqos3auc",
+              "extra": "Çeviri: Leonis / Redakte & Encode: Ashirame",
+              "fansub": "Leonis / Redakte &",
+              "fansub_id": 643,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199777,
+          "episode_number": 2,
+          "name": "Kral Kurbağa Fiend görünür",
+          "description": "Avcılar Derneği, bir kurbağa av avı sırasında yiyecek sağlamak için Lammis ve Boxxo'yu işe alır ve korumaları olarak hareket eden bir ragtag grubu. Ancak şeytanlar beklenenden daha fazla olduğu kanıtlandığında işler uğursuz oluyor.",
+          "release_date": "2023-07-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/103Z7mr9u2LYpMjlool68m3QZle.jpg",
+          "videos": [
+            {
+              "id": 725091,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6886fdf504211985ac19842b",
+              "extra": "Çeviri: Leonis / Redakte: emirben / Encode: Ashirame",
+              "fansub": "Leonis",
+              "fansub_id": 644,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725092,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/vr9snwgnlydc",
+              "extra": "Çeviri: Leonis / Redakte: emirben / Encode: Ashirame",
+              "fansub": "Leonis",
+              "fansub_id": 644,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199778,
+          "episode_number": 3,
+          "name": "Yeniden inşa etme",
+          "description": "Köyü bulmak için sefer geri döndü, ancak neyse ki hasar sınırlı. Boxxo ve Lammis, iyileşme çabası sırasında her ikisinin de yardımcı olacak birçok yolu olduğunu keşfediyorlar.",
+          "release_date": "2023-07-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vLkDfh2mwNQS0DV37isEpkqqFwR.jpg",
+          "videos": [
+            {
+              "id": 725094,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6886fe88352c6c65ff219c41",
+              "extra": "Çeviri: Leonis / Redakte & Encode: Ashirame",
+              "fansub": "Leonis / Redakte &",
+              "fansub_id": 643,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725095,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/5l4qbu851c2h",
+              "extra": "Çeviri: Leonis / Redakte & Encode: Ashirame",
+              "fansub": "Leonis / Redakte &",
+              "fansub_id": 643,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199779,
+          "episode_number": 4,
+          "name": "Boxxo kaçırıldı",
+          "description": "Bir hırsız çetesi, parasını çıkarabilmeleri için Boxxo'yu uzaklaştırıyor, ancak gerçek sürpriz hırsızlığı nasıl çekeceğini anlaması gereken birey olduğu ortaya çıkıyor.",
+          "release_date": "2023-07-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8YrP1V7b8z27QYJ1f28BlzALwvP.jpg",
+          "videos": [
+            {
+              "id": 729121,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68bde7670e837004752d1f9b",
+              "extra": "Çeviri: Leonis / Redakte: Ashirame / Encode: Akeno-Sensei",
+              "fansub": "Leonis",
+              "fansub_id": 644,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 729122,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/bao8oq92rvo4",
+              "extra": "Çeviri: Leonis / Redakte: Ashirame / Encode: Akeno-Sensei",
+              "fansub": "Leonis",
+              "fansub_id": 644,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199780,
+          "episode_number": 5,
+          "name": "Vanity, Gurur ve otomat makinesi",
+          "description": "Boxxo, bugüne kadar sattığı eşyalar için köy boyunca zaten iyi biliniyor ve şimdi çeşitli sakinlere sorunları konusunda yardımcı olmanın yeni yollarını bulmaya başlıyor.",
+          "release_date": "2023-08-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vpoGsf3udJWu1t4JyOZ6BEaDzu6.jpg",
+          "videos": [
+            {
+              "id": 729127,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68bde9200e837004752d1f9c",
+              "extra": "Çeviri: Leonis / Redakte: Ashirame / Encode: Akeno-Sensei",
+              "fansub": "Leonis",
+              "fansub_id": 644,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199781,
+          "episode_number": 6,
+          "name": "Dövüş Veda Makinesi",
+          "description": "Boxxo yeni bir tabakaya düşüyor ve orada, uygun bir sihirli eşyadan başka bir şey olmadığını düşünen bazı aç avcılarla beklenmedik bir karşılaşma var.",
+          "release_date": "2023-08-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jCPSwdHafeX4wdU6PxEsdoLw5oo.jpg",
+          "videos": [
+            {
+              "id": 582826,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64dd26fdfff65ac2e55477cd",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199782,
+          "episode_number": 7,
+          "name": "Obur Şeytanlar",
+          "description": "Boxxo yeni bir tabakaya düşüyor ve orada, uygun bir sihirli eşyadan başka bir şey olmadığını düşünen bazı aç avcılarla beklenmedik bir karşılaşma var.",
+          "release_date": "2023-08-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ne2Gpl6mlQOQL4hdYU7DFxTx9pg.jpg",
+          "videos": [
+            {
+              "id": 582833,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64dd2c45fff65ac2e55477cf",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199783,
+          "episode_number": 8,
+          "name": "Labirent tabakasının alev iskeleti",
+          "description": "Boxxo, Lammis ve büyük bir müthiş grup, Labirent Stratum'da yerel Stratum Lord'u yenmek için bir kampanyaya giriyor. Bu arada Kerioyl, bu tür düşmanları hedefleme nedenlerini ilk etapta açıklıyor.",
+          "release_date": "2023-08-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kaSVO6UjJxJLRtAyCRFamZSisLx.jpg",
+          "videos": [
+            {
+              "id": 642000,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/663a8486ee3b7175ad487ce3",
+              "extra": "Yapay Çeviri",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199784,
+          "episode_number": 9,
+          "name": "İdeal olmayan bir kahraman",
+          "description": "Yönetmen Bear Komisyonları Boxxo, Lammis, Hulemy ve Gluttons grubu, labirentin dışını araştırmak için. Onlara katılmak, gözün karşılaşmasından daha fazla olan güçlü bir avcı.",
+          "release_date": "2023-08-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/eyk6eT5AMV7UUbwkpex3vsgIawg.jpg",
+          "videos": [
+            {
+              "id": 642001,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/663a8b46ee3b7175ad487ce4",
+              "extra": "Yapay Çeviri",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199785,
+          "episode_number": 10,
+          "name": "Gastrik Önlemler",
+          "description": "Munami ve restoran birliği bir yemek yarışması yapmaya karar verir, ancak bu bazı yerlilerin iştahları göz önüne alındığında riskli bir girişimdir. Boxxo günü bir kez daha kurtarabilir mi?",
+          "release_date": "2023-09-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/mTf8U5PrhKDwm0JKiqUH5TfqVj7.jpg",
+          "videos": [
+            {
+              "id": 642002,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/663a8f65ee3b7175ad487ce5",
+              "extra": "Yapay Çeviri",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199786,
+          "episode_number": 11,
+          "name": "Ölülerin Lament tabakası",
+          "description": "Kaptan Kerioyl bir grubun ölülerin ağıt tabakasını keşfetmesini ve sonunda tabakalı efendisini yenmesini istiyor, ancak büyük bir sorun var. Lammis, yerde yaşayan korkunç canavarlarla başa çıkamaz!",
+          "release_date": "2023-09-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pCjqT1rmDFXzYIwvaKPQgmorVuS.jpg",
+          "videos": [
+            {
+              "id": 642003,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/663a9318ee3b7175ad487ce6",
+              "extra": "Yapay Çeviri",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199787,
+          "episode_number": 12,
+          "name": "Bir otomat olarak ne yapılabilir",
+          "description": "Boxxo ve arkadaşlar Souls Stratum Lord'un Kralı'nı izler ve ona bir saldırı başlatır. Ancak plan raylardan kötü bir şekilde gittiğinde en büyük duruşmalarıyla karşılaşıyorlar.",
+          "release_date": "2023-09-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vGVnNZBrTeKVVORsxpdBVIzzqag.jpg",
+          "videos": [
+            {
+              "id": 642004,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/663a9709ee3b7175ad487ce7",
+              "extra": "Yapay Çeviri",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5901,
+      "season_number": 2,
+      "name": "",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 240843,
+          "episode_number": 1,
+          "name": "Avcılar ve Güdüler",
+          "description": "Büyük bir grup as avcısı, Netherlord'u sonsuza dek alt etmek için Ölülerin Ağıtı katmanında toplanır.",
+          "release_date": "2025-07-02T01:43:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cpKJHruceLjSOqnqCeybyTMkcaK.jpg",
+          "videos": [
+            {
+              "id": 724550,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68835e6db18f16fb20452ed4",
+              "extra": "Çevirmen: Leonis Redaktör: Ashirame Encoder: Ashirame",
+              "fansub": "Leonis",
+              "fansub_id": 644,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 724551,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ddf7o6ymfp9t",
+              "extra": "Çevirmen: Leonis Redaktör: Ashirame Encoder: Ashirame",
+              "fansub": "Leonis",
+              "fansub_id": 644,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 240844,
+          "episode_number": 2,
+          "name": "Karşılıklı Anlayış",
+          "description": "Boxxo ve ekibi, Clearflow Lake tabakasının köyünden geriye kalanları bir canavar sürüsüne karşı savunmak zorundadır.",
+          "release_date": "2025-07-09T01:44:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/Se5pIycTmE4sUfs6wH8SQ9KgkX.jpg",
+          "videos": [
+            {
+              "id": 724553,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68835f0371f7c699c1d7eab4",
+              "extra": "Çevirmen: Leonis Redaktör: Ashirame Encoder: Ashirame",
+              "fansub": "Leonis",
+              "fansub_id": 644,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 724554,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/efa8omp21q5q",
+              "extra": "Çevirmen: Leonis Redaktör: Ashirame Encoder: Ashirame",
+              "fansub": "Leonis",
+              "fansub_id": 644,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 240845,
+          "episode_number": 3,
+          "name": "Güçlü Duygular",
+          "description": "",
+          "release_date": "2025-07-16T01:44:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bED8rmtssdKjodFGIRTGPUN1Xzg.jpg",
+          "videos": [
+            {
+              "id": 724556,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68835f977959f6da22488167",
+              "extra": "Çevirmen: Leonis Redaktör: Ashirame Encoder: Ashirame",
+              "fansub": "Leonis",
+              "fansub_id": 644,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 724557,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/5fzcmoxkt09q",
+              "extra": "Çevirmen: Leonis Redaktör: Ashirame Encoder: Ashirame",
+              "fansub": "Leonis",
+              "fansub_id": 644,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 240846,
+          "episode_number": 4,
+          "name": "Din Adamı ve Otomat Makinesi",
+          "description": "",
+          "release_date": "2025-07-23T01:44:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jJEphTSd2OKZxqQ3fMyAWkEtf6F.jpg",
+          "videos": [
+            {
+              "id": 724368,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6881593a71f7c699c1d7eaa1",
+              "extra": " Çevirmen: Leonis Redaktör: Ashirame Encoder: Ashirame",
+              "fansub": "Leonis",
+              "fansub_id": 644,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 724369,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/vcqnrs0sy6au",
+              "extra": " Çevirmen: Leonis Redaktör: Ashirame Encoder: Ashirame",
+              "fansub": "Leonis",
+              "fansub_id": 644,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 240847,
+          "episode_number": 5,
+          "name": "Kişiye Özel Dilekler",
+          "description": "Origin tabakasını güvenli bir şekilde tahliye etmek için, önce düşman komutanı bulunmalı ve etkisiz hâle getirilmelidir.",
+          "release_date": "2025-07-30T01:44:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/muliiw1BFoGJEV6elIvKeLFBhzN.jpg",
+          "videos": [
+            {
+              "id": 725560,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/688c55187425b00d51bcf4ff",
+              "extra": "Çeviri: Leonis / Redakte & Encode: Ashirame",
+              "fansub": "Leonis / Redakte &",
+              "fansub_id": 643,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725561,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/be87ialiknbe",
+              "extra": "Çeviri: Leonis / Redakte & Encode: Ashirame",
+              "fansub": "Leonis / Redakte &",
+              "fansub_id": 643,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 240848,
+          "episode_number": 6,
+          "name": "Tatlı Cazibe",
+          "description": "Boxxo ve arkadaşları Menagerie of Fools'un üssünü ilk kez ziyaret ettiklerinde Kerioyl birçok sürpriz ortaya çıkarır.",
+          "release_date": "2025-08-06T01:44:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/q8OYD0d8JDaYJltU4QAAbHhdLOd.jpg",
+          "videos": [
+            {
+              "id": 726187,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6893894fc55023da2ac78f22",
+              "extra": "Yapay Çeviri",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 240849,
+          "episode_number": 7,
+          "name": "Hayvanlar ve Kız",
+          "description": "Boxxo ve Yönetmen Ayı, sihirli taşları ararken labirentin içinde sıra dışı bir üçlüye rastlarlar.",
+          "release_date": "2025-08-13T01:44:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2qMh8EhNNXZr3Smgv7lYXGnJ3eo.jpg",
+          "videos": [
+            {
+              "id": 726886,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/689ca7372b6c8a40dde159ad",
+              "extra": "Yapay Çeviri",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 240850,
+          "episode_number": 8,
+          "name": "Karanlık Orman Tabakası",
+          "description": "Boxxo ve arkadaşları kendilerini Karanlık Orman katmanında bulurlar ve burada yerlilerin bazı sorunlarına yardımcı olmaları gerekir.",
+          "release_date": "2025-08-20T01:45:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/hFcCOcecLfmLAwfaDD0v50JfjZy.jpg",
+          "videos": [
+            {
+              "id": 727665,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68a60884cc394bdbff51aaf0",
+              "extra": "Encoder:lowell",
+              "fansub": "lowell",
+              "fansub_id": 648,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 728010,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68aa3a89de99e6cf8d09679e",
+              "extra": "Çevirmen: darksoul296 Redakte: siMİTciq Encode: Ashirame",
+              "fansub": "darksoul296",
+              "fansub_id": 431,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 728011,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/pcb47m25tck2",
+              "extra": "Çevirmen: darksoul296 Redakte: siMİTciq Encode: Ashirame",
+              "fansub": "darksoul296",
+              "fansub_id": 431,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 240851,
+          "episode_number": 9,
+          "name": "Büyük Yangın",
+          "description": "Karanlık Orman tabakasının efendisi yenilmeli, ancak onu saldırıya kışkırtacak hiçbir şey yok gibi görünüyor.",
+          "release_date": "2025-08-27T01:45:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4BJl0Y18Eb5TBVUtsBQgNIuzL7g.jpg",
+          "videos": [
+            {
+              "id": 728833,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68b737cecc394bdbff51ab63",
+              "extra": "Çevirmen : Bedir Encoder : ꩜⋆｡°✩Ozonback ⋆｡°✩𖦹",
+              "fansub": "Bedir",
+              "fansub_id": 649,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731874,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68e77fd9f4be77412d824cea",
+              "extra": "Çevirmen: Ashirame Redaktör: xCenny Encoder: Ashirame",
+              "fansub": "Ashirame",
+              "fansub_id": 651,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731875,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ebxn5u9xbol2",
+              "extra": "Çevirmen: Ashirame Redaktör: xCenny Encoder: Ashirame",
+              "fansub": "Ashirame",
+              "fansub_id": 651,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731876,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-vkbffn4p0jve.html",
+              "extra": "Çevirmen: Ashirame Redaktör: xCenny Encoder: Ashirame",
+              "fansub": "Ashirame",
+              "fansub_id": 651,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 240852,
+          "episode_number": 10,
+          "name": "Zindan Tanrıçası Grand Prix",
+          "description": "Munami, moralleri yükseltmek için Clearflow Gölü tabakasında yaşayan kadınlar arasında bir popülerlik yarışması düzenler.",
+          "release_date": "2025-09-03T01:45:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vIUrTqR8fKCYFw5i9eyZY9zcCPm.jpg",
+          "videos": [
+            {
+              "id": 728911,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68b955f4f1b529177a325af5",
+              "extra": "Çevirmen : Bedir Encoder : lowell",
+              "fansub": "Bedir",
+              "fansub_id": 649,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 729371,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68c543489eb527138259cf7a",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 728912,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/57rv2sbd9n9a",
+              "extra": "Çevirmen : Bedir Encoder : lowell",
+              "fansub": "Bedir",
+              "fansub_id": 649,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 240853,
+          "episode_number": 11,
+          "name": "Kavurucu Çöle Doğru",
+          "description": "Heevee, kişisel bir meseleyi halletmek için Kavurucu Çöl tabakasına doğru yola çıktığında, diğer kahramanlar da onu takip eder.",
+          "release_date": "2025-09-10T01:45:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/Aq7fKR6RX2Gpcr2VmJ6QPV9bErk.jpg",
+          "videos": [
+            {
+              "id": 729253,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68c2e7fda5cf47d52bba9725",
+              "extra": "Thors - Borusama",
+              "fansub": "Thors",
+              "fansub_id": 650,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 729254,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/hvg7wuybg83c",
+              "extra": "Thors - Borusama",
+              "fansub": "Thors",
+              "fansub_id": 650,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 240854,
+          "episode_number": 12,
+          "name": "Çölde Kar Fırtınası",
+          "description": "Hevee, Tashtay ile yarım kalan işlerini hallederken, bazı beklenmedik düşmanlar gelerek işleri karmaşıklaştırır.",
+          "release_date": "2025-09-17T01:45:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/etdVarDzHRqMSrUj9877AeNR9JG.jpg",
+          "videos": [
+            {
+              "id": 730354,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68cf14ca2952a68bd2f02396",
+              "extra": "Çevirmen: ciklat Encoder : Asahina Yo KitsuneFansub",
+              "fansub": "ciklat",
+              "fansub_id": 87,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 730355,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/kcp1btrxirtw",
+              "extra": "Çevirmen: ciklat Encoder : Asahina Yo KitsuneFansub",
+              "fansub": "ciklat",
+              "fansub_id": 87,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6201,
+      "season_number": 3,
+      "name": null,
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 272874,
+          "episode_number": 1,
+          "name": "Her Biri Kendi Hikayesine",
+          "description": "Boxxo ve Kikoyu doğum günlerini kutlar ve parti, Köpek Dağı katmanına doğru yola çıkar.",
+          "release_date": "2026-04-01T20:59:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8JSZFFl3kauZ8Wd6s5WX2w3EcN0.jpg",
+          "videos": [
+            {
+              "id": 749563,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69da2744140a125ba837168b",
+              "extra": " https://discord.gg/somesub Çevirmen: S4Patrol, Encoder: S4Patrol-P Redektör:S4Patrol ",
+              "fansub": "S4Patrol",
+              "fansub_id": 380,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 749564,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/881qhidlqtx5",
+              "extra": " https://discord.gg/somesub Çevirmen: S4Patrol, Encoder: S4Patrol-P Redektör:S4Patrol ",
+              "fansub": "S4Patrol",
+              "fansub_id": 380,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 749565,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-dx0wcs8iyp9z.html",
+              "extra": " https://discord.gg/somesub Çevirmen: S4Patrol, Encoder: S4Patrol-P Redektör:S4Patrol ",
+              "fansub": "S4Patrol",
+              "fansub_id": 380,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 274975,
+          "episode_number": 2,
+          "name": "Deniz Tarağı ve Otomat Makinesi",
+          "description": "Boxxo'nun mürettebatı, eski ve yeni düşmanların onları beklediği Pity'nin adasına ulaşır.",
+          "release_date": "2026-04-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kAPhiGceuvGOePcv223foay1Ydx.jpg",
+          "videos": [
+            {
+              "id": 750021,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69de8a60b067130deed1c07d",
+              "extra": "https://discord.gg/somesub Çevirmen: S4Patrol, Encoder: S4Patrol-P, Redaktor: S4Patrol",
+              "fansub": "S4Patrol",
+              "fansub_id": 380,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750022,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/7x8rywaneve0",
+              "extra": "https://discord.gg/somesub Çevirmen: S4Patrol, Encoder: S4Patrol-P, Redaktor: S4Patrol",
+              "fansub": "S4Patrol",
+              "fansub_id": 380,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750023,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-7b3fqd5a4dop.html",
+              "extra": "https://discord.gg/somesub Çevirmen: S4Patrol, Encoder: S4Patrol-P, Redaktor: S4Patrol",
+              "fansub": "S4Patrol",
+              "fansub_id": 380,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 274976,
+          "episode_number": 3,
+          "name": "Düşman Bölgesinde Konaklama",
+          "description": "Boxxo ve Pity, Netherlord'un üssünden kaçmanın bir yolunu arar.",
+          "release_date": "2026-04-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/o1eoErsnwpVeqJo0R6ntmVnyNjN.jpg",
+          "videos": []
+        },
+        {
+          "id": 274977,
+          "episode_number": 4,
+          "name": "Sorunlar Sonsuza Kadar Devam Edecek",
+          "description": "Köpek Dağı katmanında durum gerginleşir ve Boxxo, Gorth'a aşk hayatında yardım etmeye çalışır.",
+          "release_date": "2026-04-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ofrgPzjLzSotHjWGi1rRdG24AxY.jpg",
+          "videos": []
+        },
+        {
+          "id": 274978,
+          "episode_number": 5,
+          "name": "Başka Bir Kargaşa",
+          "description": "Büyük bir canavar sürüsü köye saldırdığında, Sonsuz tabakayla mücadele planları askıya alınır.",
+          "release_date": "2026-04-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/mWnEs0E7WVycYi9gRXAXJaHpRFr.jpg",
+          "videos": []
+        },
+        {
+          "id": 274979,
+          "episode_number": 6,
+          "name": "Dünün Düşmanları Bugünün Düşmanlarıdır...",
+          "description": "Sonsuz katmana giden yol uzun, karanlık ve monotondur ancak bu, sürprizleri dışlamaz.",
+          "release_date": "2026-05-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/nQd7MXYlEl4WPqJY4R6H5PV40wE.jpg",
+          "videos": []
+        },
+        {
+          "id": 274980,
+          "episode_number": 7,
+          "name": "Sonun Başlangıcı",
+          "description": "Boxxo ve arkadaşları, Sonsuz katmanın en derin derinliklerinde beklenmedik zindan bilgilerini öğrenir.",
+          "release_date": "2026-05-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1Uu88RQ8va2rlEd6NokfKPbMs85.jpg",
+          "videos": []
+        },
+        {
+          "id": 274981,
+          "episode_number": 8,
+          "name": "Çırak olarak",
+          "description": "Zindanın çökmesi ve Boxxo'nun gitmesiyle, kahramanların geri kalanı durumu kurtarmak için ayrıldı.",
+          "release_date": "2026-05-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/24vUEoJmlojimiZ655il9XuZ4Ur.jpg",
+          "videos": []
+        },
+        {
+          "id": 274982,
+          "episode_number": 9,
+          "name": "Başparmak Genel",
+          "description": "Boxxo geri döner ancak grubu, diğer herkese yetişemeden bir kavgaya tutuşur.",
+          "release_date": "2026-05-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/659UbwHdVRHd5CBw1QuUtY5RCpf.jpg",
+          "videos": []
+        },
+        {
+          "id": 274983,
+          "episode_number": 10,
+          "name": "Ben Eşitsiz Bir Sahayım",
+          "description": "Field, İblis Lordu ile görüşmeye gider ve Netherlord'a karşı koyma planları şekillenmeye başlar.",
+          "release_date": "2026-06-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/44DuDcgFjIDxqLGGPttWVJs1v2X.jpg",
+          "videos": []
+        },
+        {
+          "id": 274984,
+          "episode_number": 11,
+          "name": "Son Karşılaşmaya",
+          "description": "Netherlord son savaşı ateşlerken Boxxo ve Lammis aşağıda ihanetle karşı karşıya kalır.",
+          "release_date": "2026-06-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/rJqG4ijVy6WnSf6u4AjrSnkDO2q.jpg",
+          "videos": []
+        },
+        {
+          "id": 274985,
+          "episode_number": 12,
+          "name": "Hayal dünyası",
+          "description": "Boxxo'nun güçlü Netherlord'la savaşmak için kitaptaki her numarayı kullanması gerekiyor. O ve Lammis dünyayı kurtarabilecek mi?",
+          "release_date": "2026-06-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pNuQ4gYWSCKQ4VFYb7SJnUWiGLe.jpg",
+          "videos": []
+        }
+      ]
+    }
+  ]
+}

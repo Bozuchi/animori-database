@@ -1,0 +1,5144 @@
+{
+  "id": 10768,
+  "name": "Wan Jie Shen Zhu",
+  "name_english": "Wan Jie Shen Zhu",
+  "name_romanji": "Wan Jie Shen Zhu",
+  "original_title": "万界神主",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2019,
+  "release_date": "2019-02-06 00:00:00",
+  "description": "Lord of the Universe",
+  "poster": "https://image.tmdb.org/t/p/original/7W301eMtzKpzisIV8aaLC9BqSDk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mACWM38UTIT3rjAS7q8lAGGQy58.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6
+  ],
+  "tmdb_id": 89338,
+  "mal_id": 39191,
+  "anilist_id": 0,
+  "imdb_id": null,
+  "season_count": 3,
+  "seasons": [
+    {
+      "id": 4222,
+      "season_number": 1,
+      "name": "",
+      "episode_count": 60,
+      "episodes": [
+        {
+          "id": 185316,
+          "episode_number": 1,
+          "name": "Wan Jie Shen Zhu",
+          "description": "Evrenin Efendisi",
+          "release_date": "2019-02-06T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 364292,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312da51a21596c7104eaed5",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297580,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768518",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185317,
+          "episode_number": 2,
+          "name": "Bölüm 2",
+          "description": "",
+          "release_date": "2019-02-09T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 364291,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312d980a21596c7104eaed4",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297588,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768554",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185318,
+          "episode_number": 3,
+          "name": "3. Bölüm",
+          "description": "",
+          "release_date": "2019-02-13T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 364289,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312d8bba21596c7104eaed2",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297595,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768561",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185319,
+          "episode_number": 4,
+          "name": "4. Bölüm",
+          "description": "",
+          "release_date": "2019-02-16T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 364288,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312d78ea21596c7104eaed1",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297602,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768570",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185320,
+          "episode_number": 5,
+          "name": "5. Bölüm",
+          "description": "",
+          "release_date": "2019-02-20T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 364286,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312d6aca21596c7104eaecf",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297611,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768583",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185321,
+          "episode_number": 6,
+          "name": "6. Bölüm",
+          "description": "",
+          "release_date": "2019-02-23T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 364284,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312d5dfa21596c7104eaecd",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297619,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768594",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185322,
+          "episode_number": 7,
+          "name": "7. Bölüm",
+          "description": "",
+          "release_date": "2019-02-27T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 364283,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312d4e1a21596c7104eaecc",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297626,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768603",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185323,
+          "episode_number": 8,
+          "name": "8. Bölüm",
+          "description": "",
+          "release_date": "2019-03-02T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312d40ba21596c7104eaeca-31.jpg",
+          "videos": [
+            {
+              "id": 364281,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312d40ba21596c7104eaeca",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297633,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768614",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185324,
+          "episode_number": 9,
+          "name": "9. Bölüm",
+          "description": "",
+          "release_date": "2019-03-06T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312d35da21596c7104eaec8-31.jpg",
+          "videos": [
+            {
+              "id": 364279,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312d35da21596c7104eaec8",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297642,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768623",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185325,
+          "episode_number": 10,
+          "name": "10. Bölüm",
+          "description": "",
+          "release_date": "2019-03-09T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312d2a1a21596c7104eaec7-18.jpg",
+          "videos": [
+            {
+              "id": 364278,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312d2a1a21596c7104eaec7",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297649,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768631",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185326,
+          "episode_number": 11,
+          "name": "11. Bölüm",
+          "description": "",
+          "release_date": "2019-03-13T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312d1fca21596c7104eaec5-5.jpg",
+          "videos": [
+            {
+              "id": 364276,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312d1fca21596c7104eaec5",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297656,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768637",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185327,
+          "episode_number": 12,
+          "name": "12. Bölüm",
+          "description": "",
+          "release_date": "2019-03-16T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312d195a21596c7104eaec4-2.jpg",
+          "videos": [
+            {
+              "id": 364275,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312d195a21596c7104eaec4",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297665,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768641",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185328,
+          "episode_number": 13,
+          "name": "13. Bölüm",
+          "description": "",
+          "release_date": "2019-03-20T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312d12aa21596c7104eaec3-1.jpg",
+          "videos": [
+            {
+              "id": 364274,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312d12aa21596c7104eaec3",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297673,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768650",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185329,
+          "episode_number": 14,
+          "name": "14. Bölüm",
+          "description": "",
+          "release_date": "2019-03-23T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312d0a1a21596c7104eaec2-32.jpg",
+          "videos": [
+            {
+              "id": 364273,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312d0a1a21596c7104eaec2",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297680,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768657",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185330,
+          "episode_number": 15,
+          "name": "15. Bölüm",
+          "description": "",
+          "release_date": "2019-03-27T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312d014a21596c7104eaec1-5.jpg",
+          "videos": [
+            {
+              "id": 364271,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312d014a21596c7104eaec1",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297688,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768662",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185331,
+          "episode_number": 16,
+          "name": "16.Bölüm",
+          "description": "",
+          "release_date": "2019-03-30T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312cfa9a21596c7104eaec0-16.jpg",
+          "videos": [
+            {
+              "id": 364269,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312cfa9a21596c7104eaec0",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297696,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768666",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185332,
+          "episode_number": 17,
+          "name": "17. Bölüm",
+          "description": "",
+          "release_date": "2019-04-03T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312cdeea21596c7104eaebd-24.jpg",
+          "videos": [
+            {
+              "id": 364266,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312cdeea21596c7104eaebd",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297729,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768673",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185333,
+          "episode_number": 18,
+          "name": "18. Bölüm",
+          "description": "",
+          "release_date": "2019-04-06T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312cd5fa21596c7104eaebc-28.jpg",
+          "videos": [
+            {
+              "id": 364265,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312cd5fa21596c7104eaebc",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297739,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768676",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185334,
+          "episode_number": 19,
+          "name": "19. Bölüm",
+          "description": "",
+          "release_date": "2019-04-10T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312ccaea21596c7104eaeba-28.jpg",
+          "videos": [
+            {
+              "id": 364263,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312ccaea21596c7104eaeba",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297747,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768679",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185335,
+          "episode_number": 20,
+          "name": "20. Bölüm",
+          "description": "",
+          "release_date": "2019-04-13T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312cbf3a21596c7104eaeb9-18.jpg",
+          "videos": [
+            {
+              "id": 364262,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312cbf3a21596c7104eaeb9",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297756,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768682",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185336,
+          "episode_number": 21,
+          "name": "21.Bölüm",
+          "description": "",
+          "release_date": "2019-04-17T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312cb44a21596c7104eaeb8-11.jpg",
+          "videos": [
+            {
+              "id": 364261,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312cb44a21596c7104eaeb8",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297764,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768685",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185337,
+          "episode_number": 22,
+          "name": "22.Bölüm",
+          "description": "",
+          "release_date": "2019-04-20T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312cacea21596c7104eaeb7-13.jpg",
+          "videos": [
+            {
+              "id": 364260,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312cacea21596c7104eaeb7",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297771,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768689",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185338,
+          "episode_number": 23,
+          "name": "23. Bölüm",
+          "description": "",
+          "release_date": "2019-04-24T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312ca42a21596c7104eaeb6-5.jpg",
+          "videos": [
+            {
+              "id": 364258,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312ca42a21596c7104eaeb6",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297781,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768695",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185339,
+          "episode_number": 24,
+          "name": "24. Bölüm",
+          "description": "",
+          "release_date": "2019-04-27T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312c99ea21596c7104eaeb4-24.jpg",
+          "videos": [
+            {
+              "id": 364256,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312c99ea21596c7104eaeb4",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297788,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768703",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185340,
+          "episode_number": 25,
+          "name": "25. Bölüm",
+          "description": "",
+          "release_date": "2019-05-01T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312c91ca21596c7104eaeb3-22.jpg",
+          "videos": [
+            {
+              "id": 364255,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312c91ca21596c7104eaeb3",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297796,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768712",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185341,
+          "episode_number": 26,
+          "name": "26.Bölüm",
+          "description": "",
+          "release_date": "2019-05-04T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312c866a21596c7104eaeb1-29.jpg",
+          "videos": [
+            {
+              "id": 364253,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312c866a21596c7104eaeb1",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297803,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768717",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185342,
+          "episode_number": 27,
+          "name": "27. Bölüm",
+          "description": "",
+          "release_date": "2019-05-08T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312c763a21596c7104eaeaf-0.jpg",
+          "videos": [
+            {
+              "id": 364251,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312c763a21596c7104eaeaf",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297810,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768720",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185343,
+          "episode_number": 28,
+          "name": "28. Bölüm",
+          "description": "",
+          "release_date": "2019-05-11T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312c695a21596c7104eaeae-21.jpg",
+          "videos": [
+            {
+              "id": 364250,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312c695a21596c7104eaeae",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297817,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768722",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185344,
+          "episode_number": 29,
+          "name": "29. Bölüm",
+          "description": "",
+          "release_date": "2019-05-15T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312c5b0a21596c7104eaead-1.jpg",
+          "videos": [
+            {
+              "id": 364249,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312c5b0a21596c7104eaead",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297825,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768724",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185345,
+          "episode_number": 30,
+          "name": "30. Bölüm",
+          "description": "",
+          "release_date": "2019-05-18T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312c498a21596c7104eaeab-25.jpg",
+          "videos": [
+            {
+              "id": 364247,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312c498a21596c7104eaeab",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297833,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768728",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185346,
+          "episode_number": 31,
+          "name": "31.Bölüm",
+          "description": "",
+          "release_date": "2019-05-22T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312c41ba21596c7104eaeaa-24.jpg",
+          "videos": [
+            {
+              "id": 364246,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312c41ba21596c7104eaeaa",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297840,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768736",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185347,
+          "episode_number": 32,
+          "name": "32. Bölüm",
+          "description": "",
+          "release_date": "2019-05-25T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312c397a21596c7104eaea9-13.jpg",
+          "videos": [
+            {
+              "id": 364245,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312c397a21596c7104eaea9",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297850,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768740",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185348,
+          "episode_number": 33,
+          "name": "33. Bölüm",
+          "description": "",
+          "release_date": "2019-05-29T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312c2e4a21596c7104eaea7-12.jpg",
+          "videos": [
+            {
+              "id": 364243,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312c2e4a21596c7104eaea7",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297861,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768746",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185349,
+          "episode_number": 34,
+          "name": "34. Bölüm",
+          "description": "",
+          "release_date": "2019-06-01T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312c24aa21596c7104eaea5-11.jpg",
+          "videos": [
+            {
+              "id": 364241,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312c24aa21596c7104eaea5",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297870,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768753",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185350,
+          "episode_number": 35,
+          "name": "35. Bölüm",
+          "description": "",
+          "release_date": "2019-06-05T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312c1cca21596c7104eaea3-25.jpg",
+          "videos": [
+            {
+              "id": 364239,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312c1cca21596c7104eaea3",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297883,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768759",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185351,
+          "episode_number": 36,
+          "name": "36. Bölüm",
+          "description": "",
+          "release_date": "2019-06-08T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312c14aa21596c7104eaea2-23.jpg",
+          "videos": [
+            {
+              "id": 364238,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312c14aa21596c7104eaea2",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297891,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768764",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185352,
+          "episode_number": 37,
+          "name": "37. Bölüm",
+          "description": "",
+          "release_date": "2019-06-12T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312c0baa21596c7104eaea0-11.jpg",
+          "videos": [
+            {
+              "id": 364236,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312c0baa21596c7104eaea0",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297899,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768767",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185353,
+          "episode_number": 38,
+          "name": "38. Bölüm",
+          "description": "",
+          "release_date": "2019-06-15T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312c017a21596c7104eae9e-15.jpg",
+          "videos": [
+            {
+              "id": 364234,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312c017a21596c7104eae9e",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297907,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768773",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185354,
+          "episode_number": 39,
+          "name": "39. Bölüm",
+          "description": "",
+          "release_date": "2019-06-19T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312befba21596c7104eae9c-24.jpg",
+          "videos": [
+            {
+              "id": 364232,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312befba21596c7104eae9c",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297915,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768783",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185355,
+          "episode_number": 40,
+          "name": "40. Bölüm",
+          "description": "",
+          "release_date": "2019-06-22T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312be79a21596c7104eae9a-14.jpg",
+          "videos": [
+            {
+              "id": 364230,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312be79a21596c7104eae9a",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297924,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768789",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185356,
+          "episode_number": 41,
+          "name": "41.Bölüm",
+          "description": "",
+          "release_date": "2019-06-26T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312bdd2a21596c7104eae99-1.jpg",
+          "videos": [
+            {
+              "id": 364229,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312bdd2a21596c7104eae99",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297932,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768795",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185357,
+          "episode_number": 42,
+          "name": "42. Bölüm",
+          "description": "",
+          "release_date": "2019-06-29T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312bd35a21596c7104eae97-22.jpg",
+          "videos": [
+            {
+              "id": 364227,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312bd35a21596c7104eae97",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297939,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768800",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185358,
+          "episode_number": 43,
+          "name": "43. Bölüm",
+          "description": "",
+          "release_date": "2019-07-03T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312bbe9a21596c7104eae96-11.jpg",
+          "videos": [
+            {
+              "id": 364226,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312bbe9a21596c7104eae96",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297949,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768806",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185359,
+          "episode_number": 44,
+          "name": "44. Bölüm",
+          "description": "",
+          "release_date": "2019-07-06T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312bb69a21596c7104eae95-10.jpg",
+          "videos": [
+            {
+              "id": 364225,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312bb69a21596c7104eae95",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297956,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768810",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185360,
+          "episode_number": 45,
+          "name": "45. Bölüm",
+          "description": "",
+          "release_date": "2019-07-10T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312ba6da21596c7104eae94-11.jpg",
+          "videos": [
+            {
+              "id": 364224,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312ba6da21596c7104eae94",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297964,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768813",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185361,
+          "episode_number": 46,
+          "name": "46.Bölüm",
+          "description": "",
+          "release_date": "2019-07-13T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312b977a21596c7104eae93-2.jpg",
+          "videos": [
+            {
+              "id": 364223,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312b977a21596c7104eae93",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297973,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768815",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185362,
+          "episode_number": 47,
+          "name": "47.Bölüm",
+          "description": "",
+          "release_date": "2019-07-17T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312b8e1a21596c7104eae91-10.jpg",
+          "videos": [
+            {
+              "id": 364221,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312b8e1a21596c7104eae91",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297985,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768818",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185363,
+          "episode_number": 48,
+          "name": "48. Bölüm",
+          "description": "",
+          "release_date": "2019-07-20T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312b84ea21596c7104eae90-19.jpg",
+          "videos": [
+            {
+              "id": 364219,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312b84ea21596c7104eae90",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 297992,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768821",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185364,
+          "episode_number": 49,
+          "name": "49.Bölüm",
+          "description": "",
+          "release_date": "2019-07-24T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312b790a21596c7104eae8e-9.jpg",
+          "videos": [
+            {
+              "id": 364210,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312b790a21596c7104eae8e",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 298000,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768823",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185365,
+          "episode_number": 50,
+          "name": "50. Bölüm",
+          "description": "",
+          "release_date": "2019-07-27T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312b6bba21596c7104eae8d-17.jpg",
+          "videos": [
+            {
+              "id": 364209,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312b6bba21596c7104eae8d",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 298008,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768825",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185366,
+          "episode_number": 51,
+          "name": "51.Bölüm",
+          "description": "",
+          "release_date": "2019-07-31T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312b61ea21596c7104eae8c-0.jpg",
+          "videos": [
+            {
+              "id": 364206,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312b61ea21596c7104eae8c",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 298016,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768829",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185367,
+          "episode_number": 52,
+          "name": "52.Bölüm",
+          "description": "",
+          "release_date": "2019-08-03T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312b58ca21596c7104eae8b-12.jpg",
+          "videos": [
+            {
+              "id": 364205,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312b58ca21596c7104eae8b",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 298027,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768834",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185368,
+          "episode_number": 53,
+          "name": "53. Bölüm",
+          "description": "",
+          "release_date": "2019-08-07T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312b520a21596c7104eae89-16.jpg",
+          "videos": [
+            {
+              "id": 364203,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312b520a21596c7104eae89",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 298036,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768837",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185369,
+          "episode_number": 54,
+          "name": "54. Bölüm",
+          "description": "",
+          "release_date": "2019-08-10T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312b4aea21596c7104eae88-11.jpg",
+          "videos": [
+            {
+              "id": 364202,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312b4aea21596c7104eae88",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 298043,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768840",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185370,
+          "episode_number": 55,
+          "name": "55. Bölüm",
+          "description": "",
+          "release_date": "2019-08-14T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312b433a21596c7104eae87-16.jpg",
+          "videos": [
+            {
+              "id": 364201,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312b433a21596c7104eae87",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 298053,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768844",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185371,
+          "episode_number": 56,
+          "name": "56.Bölüm",
+          "description": "",
+          "release_date": "2019-08-17T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312b3aea21596c7104eae86-11.jpg",
+          "videos": [
+            {
+              "id": 364200,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312b3aea21596c7104eae86",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 298060,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768846",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185372,
+          "episode_number": 57,
+          "name": "57.Bölüm",
+          "description": "",
+          "release_date": "2019-08-21T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312b2e8a21596c7104eae84-12.jpg",
+          "videos": [
+            {
+              "id": 364198,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312b2e8a21596c7104eae84",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 298069,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768851",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185373,
+          "episode_number": 58,
+          "name": "58. Bölüm",
+          "description": "",
+          "release_date": "2019-08-24T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312b1e6a21596c7104eae82-13.jpg",
+          "videos": [
+            {
+              "id": 364196,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312b1e6a21596c7104eae82",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 298076,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768862",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185374,
+          "episode_number": 59,
+          "name": "59.Bölüm",
+          "description": "",
+          "release_date": "2019-08-28T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312b16fa21596c7104eae81-26.jpg",
+          "videos": [
+            {
+              "id": 364195,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312b16fa21596c7104eae81",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 298084,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768874",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 185375,
+          "episode_number": 60,
+          "name": "60. Bölüm",
+          "description": "",
+          "release_date": "2019-08-31T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6312b105a21596c7104eae7f-1.jpg",
+          "videos": [
+            {
+              "id": 364193,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312b105a21596c7104eae7f",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 298103,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4768888",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4223,
+      "season_number": 2,
+      "name": "",
+      "episode_count": 48,
+      "episodes": [
+        {
+          "id": 185376,
+          "episode_number": 1,
+          "name": "Bölüm 1",
+          "description": "",
+          "release_date": "2020-02-01T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185377,
+          "episode_number": 2,
+          "name": "Bölüm 2",
+          "description": "",
+          "release_date": "2020-02-01T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185378,
+          "episode_number": 3,
+          "name": "3. Bölüm",
+          "description": "",
+          "release_date": "2020-02-01T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185379,
+          "episode_number": 4,
+          "name": "4. Bölüm",
+          "description": "",
+          "release_date": "2020-02-05T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185380,
+          "episode_number": 5,
+          "name": "5. Bölüm",
+          "description": "",
+          "release_date": "2020-02-08T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185381,
+          "episode_number": 6,
+          "name": "6. Bölüm",
+          "description": "",
+          "release_date": "2020-02-12T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185382,
+          "episode_number": 7,
+          "name": "7. Bölüm",
+          "description": "",
+          "release_date": "2020-02-15T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185383,
+          "episode_number": 8,
+          "name": "8. Bölüm",
+          "description": "",
+          "release_date": "2020-02-19T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185384,
+          "episode_number": 9,
+          "name": "9. Bölüm",
+          "description": "",
+          "release_date": "2020-02-22T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185385,
+          "episode_number": 10,
+          "name": "10. Bölüm",
+          "description": "",
+          "release_date": "2020-02-26T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185386,
+          "episode_number": 11,
+          "name": "11. Bölüm",
+          "description": "",
+          "release_date": "2020-02-29T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185387,
+          "episode_number": 12,
+          "name": "12. Bölüm",
+          "description": "",
+          "release_date": "2020-03-04T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185388,
+          "episode_number": 13,
+          "name": "13. Bölüm",
+          "description": "",
+          "release_date": "2020-03-07T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185389,
+          "episode_number": 14,
+          "name": "14. Bölüm",
+          "description": "",
+          "release_date": "2020-03-11T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185390,
+          "episode_number": 15,
+          "name": "15. Bölüm",
+          "description": "",
+          "release_date": "2020-03-14T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185391,
+          "episode_number": 16,
+          "name": "16. Bölüm",
+          "description": "",
+          "release_date": "2020-03-18T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185392,
+          "episode_number": 17,
+          "name": "17. Bölüm",
+          "description": "",
+          "release_date": "2020-03-21T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185393,
+          "episode_number": 18,
+          "name": "18. Bölüm",
+          "description": "",
+          "release_date": "2020-03-25T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185394,
+          "episode_number": 19,
+          "name": "19. Bölüm",
+          "description": "",
+          "release_date": "2020-03-28T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185395,
+          "episode_number": 20,
+          "name": "20. Bölüm",
+          "description": "",
+          "release_date": "2020-04-01T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185396,
+          "episode_number": 21,
+          "name": "21. Bölüm",
+          "description": "",
+          "release_date": "2020-04-04T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185397,
+          "episode_number": 22,
+          "name": "22. Bölüm",
+          "description": "",
+          "release_date": "2020-04-08T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185398,
+          "episode_number": 23,
+          "name": "23. Bölüm",
+          "description": "",
+          "release_date": "2020-04-11T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185399,
+          "episode_number": 24,
+          "name": "24. Bölüm",
+          "description": "",
+          "release_date": "2020-04-15T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185400,
+          "episode_number": 25,
+          "name": "25. Bölüm",
+          "description": "",
+          "release_date": "2020-04-18T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185401,
+          "episode_number": 26,
+          "name": "26.Bölüm",
+          "description": "",
+          "release_date": "2020-04-22T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185402,
+          "episode_number": 27,
+          "name": "27.Bölüm",
+          "description": "",
+          "release_date": "2020-04-25T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185403,
+          "episode_number": 28,
+          "name": "28. Bölüm",
+          "description": "",
+          "release_date": "2020-04-29T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185404,
+          "episode_number": 29,
+          "name": "29. Bölüm",
+          "description": "",
+          "release_date": "2020-05-02T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185405,
+          "episode_number": 30,
+          "name": "30. Bölüm",
+          "description": "",
+          "release_date": "2020-05-06T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185406,
+          "episode_number": 31,
+          "name": "31.Bölüm",
+          "description": "",
+          "release_date": "2020-05-09T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185407,
+          "episode_number": 32,
+          "name": "32.Bölüm",
+          "description": "",
+          "release_date": "2020-05-13T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185408,
+          "episode_number": 33,
+          "name": "33. Bölüm",
+          "description": "",
+          "release_date": "2020-05-16T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185409,
+          "episode_number": 34,
+          "name": "34. Bölüm",
+          "description": "",
+          "release_date": "2020-05-20T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185410,
+          "episode_number": 35,
+          "name": "35.Bölüm",
+          "description": "",
+          "release_date": "2020-05-23T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185411,
+          "episode_number": 36,
+          "name": "36.Bölüm",
+          "description": "",
+          "release_date": "2020-05-27T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185412,
+          "episode_number": 37,
+          "name": "37.Bölüm",
+          "description": "",
+          "release_date": "2020-05-30T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185413,
+          "episode_number": 38,
+          "name": "38.Bölüm",
+          "description": "",
+          "release_date": "2020-06-03T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185414,
+          "episode_number": 39,
+          "name": "39.Bölüm",
+          "description": "",
+          "release_date": "2020-06-06T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185415,
+          "episode_number": 40,
+          "name": "40. Bölüm",
+          "description": "",
+          "release_date": "2020-06-10T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185416,
+          "episode_number": 41,
+          "name": "41. Bölüm",
+          "description": "",
+          "release_date": "2020-06-13T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185417,
+          "episode_number": 42,
+          "name": "42.Bölüm",
+          "description": "",
+          "release_date": "2020-06-17T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185418,
+          "episode_number": 43,
+          "name": "43. Bölüm",
+          "description": "",
+          "release_date": "2020-06-20T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185419,
+          "episode_number": 44,
+          "name": "44.Bölüm",
+          "description": "",
+          "release_date": "2020-06-24T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185420,
+          "episode_number": 45,
+          "name": "45.Bölüm",
+          "description": "",
+          "release_date": "2020-06-27T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185421,
+          "episode_number": 46,
+          "name": "46.Bölüm",
+          "description": "",
+          "release_date": "2020-07-01T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185422,
+          "episode_number": 47,
+          "name": "47.Bölüm",
+          "description": "",
+          "release_date": "2020-07-04T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 185423,
+          "episode_number": 48,
+          "name": "48. Bölüm",
+          "description": "",
+          "release_date": "2020-07-08T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        }
+      ]
+    },
+    {
+      "id": 4224,
+      "season_number": 3,
+      "name": null,
+      "episode_count": 318,
+      "episodes": [
+        {
+          "id": 186300,
+          "episode_number": 1,
+          "name": "Bölüm 1",
+          "description": null,
+          "release_date": "2021-03-17T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186301,
+          "episode_number": 2,
+          "name": "Bölüm 2",
+          "description": null,
+          "release_date": "2021-03-17T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186302,
+          "episode_number": 3,
+          "name": "3. Bölüm",
+          "description": null,
+          "release_date": "2021-03-17T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186303,
+          "episode_number": 4,
+          "name": "4.Bölüm",
+          "description": null,
+          "release_date": "2021-03-20T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186304,
+          "episode_number": 5,
+          "name": "5.Bölüm",
+          "description": null,
+          "release_date": "2021-03-24T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186305,
+          "episode_number": 6,
+          "name": "6.Bölüm",
+          "description": null,
+          "release_date": "2021-03-27T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186306,
+          "episode_number": 7,
+          "name": "7. Bölüm",
+          "description": null,
+          "release_date": "2021-03-31T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186307,
+          "episode_number": 8,
+          "name": "8. Bölüm",
+          "description": null,
+          "release_date": "2021-04-03T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186308,
+          "episode_number": 9,
+          "name": "9.Bölüm",
+          "description": null,
+          "release_date": "2021-04-07T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186309,
+          "episode_number": 10,
+          "name": "10.Bölüm",
+          "description": null,
+          "release_date": "2021-04-10T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186310,
+          "episode_number": 11,
+          "name": "11.Bölüm",
+          "description": null,
+          "release_date": "2021-04-14T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186311,
+          "episode_number": 12,
+          "name": "12.Bölüm",
+          "description": null,
+          "release_date": "2021-04-17T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186312,
+          "episode_number": 13,
+          "name": "13.Bölüm",
+          "description": null,
+          "release_date": "2021-04-21T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186313,
+          "episode_number": 14,
+          "name": "14.Bölüm",
+          "description": null,
+          "release_date": "2021-04-24T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186314,
+          "episode_number": 15,
+          "name": "15.Bölüm",
+          "description": null,
+          "release_date": "2021-04-28T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186315,
+          "episode_number": 16,
+          "name": "16.Bölüm",
+          "description": null,
+          "release_date": "2021-05-01T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186316,
+          "episode_number": 17,
+          "name": "17.Bölüm",
+          "description": null,
+          "release_date": "2021-05-05T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186317,
+          "episode_number": 18,
+          "name": "18.Bölüm",
+          "description": null,
+          "release_date": "2021-05-08T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186318,
+          "episode_number": 19,
+          "name": "19.Bölüm",
+          "description": null,
+          "release_date": "2021-05-12T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186319,
+          "episode_number": 20,
+          "name": "20.Bölüm",
+          "description": null,
+          "release_date": "2021-05-15T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186320,
+          "episode_number": 21,
+          "name": "21.Bölüm",
+          "description": null,
+          "release_date": "2021-05-19T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186321,
+          "episode_number": 22,
+          "name": "22.Bölüm",
+          "description": null,
+          "release_date": "2021-05-22T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186322,
+          "episode_number": 23,
+          "name": "23.Bölüm",
+          "description": null,
+          "release_date": "2021-05-26T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186323,
+          "episode_number": 24,
+          "name": "24.Bölüm",
+          "description": null,
+          "release_date": "2021-05-29T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186324,
+          "episode_number": 25,
+          "name": "25.Bölüm",
+          "description": null,
+          "release_date": "2021-06-02T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186325,
+          "episode_number": 26,
+          "name": "26.Bölüm",
+          "description": null,
+          "release_date": "2021-06-05T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186326,
+          "episode_number": 27,
+          "name": "27.Bölüm",
+          "description": null,
+          "release_date": "2021-06-09T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186327,
+          "episode_number": 28,
+          "name": "28.Bölüm",
+          "description": null,
+          "release_date": "2021-06-12T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186328,
+          "episode_number": 29,
+          "name": "29.Bölüm",
+          "description": null,
+          "release_date": "2021-06-16T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186329,
+          "episode_number": 30,
+          "name": "30.Bölüm",
+          "description": null,
+          "release_date": "2021-06-19T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186330,
+          "episode_number": 31,
+          "name": "31.Bölüm",
+          "description": null,
+          "release_date": "2021-06-23T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186331,
+          "episode_number": 32,
+          "name": "32.Bölüm",
+          "description": null,
+          "release_date": "2021-06-26T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186332,
+          "episode_number": 33,
+          "name": "33.Bölüm",
+          "description": null,
+          "release_date": "2021-06-30T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186333,
+          "episode_number": 34,
+          "name": "34.Bölüm",
+          "description": null,
+          "release_date": "2021-07-03T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186334,
+          "episode_number": 35,
+          "name": "35.Bölüm",
+          "description": null,
+          "release_date": "2021-07-07T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186335,
+          "episode_number": 36,
+          "name": "36.Bölüm",
+          "description": null,
+          "release_date": "2021-07-10T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186336,
+          "episode_number": 37,
+          "name": "37.Bölüm",
+          "description": null,
+          "release_date": "2021-07-14T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186337,
+          "episode_number": 38,
+          "name": "38.Bölüm",
+          "description": null,
+          "release_date": "2021-07-17T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186338,
+          "episode_number": 39,
+          "name": "39.Bölüm",
+          "description": null,
+          "release_date": "2021-07-21T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186339,
+          "episode_number": 40,
+          "name": "40.Bölüm",
+          "description": null,
+          "release_date": "2021-07-24T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186340,
+          "episode_number": 41,
+          "name": "41.Bölüm",
+          "description": null,
+          "release_date": "2021-07-28T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186341,
+          "episode_number": 42,
+          "name": "42.Bölüm",
+          "description": null,
+          "release_date": "2021-07-31T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186342,
+          "episode_number": 43,
+          "name": "43.Bölüm",
+          "description": null,
+          "release_date": "2021-08-04T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186343,
+          "episode_number": 44,
+          "name": "44.Bölüm",
+          "description": null,
+          "release_date": "2021-08-07T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186344,
+          "episode_number": 45,
+          "name": "45.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186345,
+          "episode_number": 46,
+          "name": "46.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186346,
+          "episode_number": 47,
+          "name": "47.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186347,
+          "episode_number": 48,
+          "name": "48.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186348,
+          "episode_number": 49,
+          "name": "49.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186349,
+          "episode_number": 50,
+          "name": "50.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186350,
+          "episode_number": 51,
+          "name": "51.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186351,
+          "episode_number": 52,
+          "name": "52.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186352,
+          "episode_number": 53,
+          "name": "53.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186353,
+          "episode_number": 54,
+          "name": "54.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186354,
+          "episode_number": 55,
+          "name": "55.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186355,
+          "episode_number": 56,
+          "name": "56.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186356,
+          "episode_number": 57,
+          "name": "57.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186357,
+          "episode_number": 58,
+          "name": "58.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186358,
+          "episode_number": 59,
+          "name": "59.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186359,
+          "episode_number": 60,
+          "name": "60.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186360,
+          "episode_number": 61,
+          "name": "61.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186361,
+          "episode_number": 62,
+          "name": "62.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186362,
+          "episode_number": 63,
+          "name": "63.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186363,
+          "episode_number": 64,
+          "name": "64.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186364,
+          "episode_number": 65,
+          "name": "65.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186365,
+          "episode_number": 66,
+          "name": "66.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186366,
+          "episode_number": 67,
+          "name": "67.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186367,
+          "episode_number": 68,
+          "name": "68.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186368,
+          "episode_number": 69,
+          "name": "69.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186369,
+          "episode_number": 70,
+          "name": "70.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186370,
+          "episode_number": 71,
+          "name": "71.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186371,
+          "episode_number": 72,
+          "name": "72.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186372,
+          "episode_number": 73,
+          "name": "73.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186373,
+          "episode_number": 74,
+          "name": "74.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186374,
+          "episode_number": 75,
+          "name": "75.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186375,
+          "episode_number": 76,
+          "name": "76.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186376,
+          "episode_number": 77,
+          "name": "77.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186377,
+          "episode_number": 78,
+          "name": "78.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186378,
+          "episode_number": 79,
+          "name": "79.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186379,
+          "episode_number": 80,
+          "name": "80.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186380,
+          "episode_number": 81,
+          "name": "81.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186381,
+          "episode_number": 82,
+          "name": "82.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186382,
+          "episode_number": 83,
+          "name": "83.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186383,
+          "episode_number": 84,
+          "name": "84.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186384,
+          "episode_number": 85,
+          "name": "85.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186385,
+          "episode_number": 86,
+          "name": "86.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186386,
+          "episode_number": 87,
+          "name": "87.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186387,
+          "episode_number": 88,
+          "name": "88.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186388,
+          "episode_number": 89,
+          "name": "89.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186389,
+          "episode_number": 90,
+          "name": "90.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186390,
+          "episode_number": 91,
+          "name": "91.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186391,
+          "episode_number": 92,
+          "name": "92.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186392,
+          "episode_number": 93,
+          "name": "93.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186393,
+          "episode_number": 94,
+          "name": "94.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186394,
+          "episode_number": 95,
+          "name": "95.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186395,
+          "episode_number": 96,
+          "name": "96.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186396,
+          "episode_number": 97,
+          "name": "97.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186397,
+          "episode_number": 98,
+          "name": "98.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186398,
+          "episode_number": 99,
+          "name": "99.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186399,
+          "episode_number": 100,
+          "name": "100.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186400,
+          "episode_number": 101,
+          "name": "101.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186401,
+          "episode_number": 102,
+          "name": "102.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186402,
+          "episode_number": 103,
+          "name": "103.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186403,
+          "episode_number": 104,
+          "name": "104.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186404,
+          "episode_number": 105,
+          "name": "105.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186405,
+          "episode_number": 106,
+          "name": "106.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186406,
+          "episode_number": 107,
+          "name": "107.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186407,
+          "episode_number": 108,
+          "name": "108.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186408,
+          "episode_number": 109,
+          "name": "109.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186409,
+          "episode_number": 110,
+          "name": "110.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186410,
+          "episode_number": 111,
+          "name": "111.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186411,
+          "episode_number": 112,
+          "name": "112.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186412,
+          "episode_number": 113,
+          "name": "113.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186413,
+          "episode_number": 114,
+          "name": "114.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186414,
+          "episode_number": 115,
+          "name": "115.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186415,
+          "episode_number": 116,
+          "name": "116.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186416,
+          "episode_number": 117,
+          "name": "117.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186417,
+          "episode_number": 118,
+          "name": "118.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186418,
+          "episode_number": 119,
+          "name": "119.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186419,
+          "episode_number": 120,
+          "name": "120.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186420,
+          "episode_number": 121,
+          "name": "121.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186421,
+          "episode_number": 122,
+          "name": "122.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186422,
+          "episode_number": 123,
+          "name": "123.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186423,
+          "episode_number": 124,
+          "name": "124.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186424,
+          "episode_number": 125,
+          "name": "125.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186425,
+          "episode_number": 126,
+          "name": "126.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186426,
+          "episode_number": 127,
+          "name": "127.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186427,
+          "episode_number": 128,
+          "name": "128.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186428,
+          "episode_number": 129,
+          "name": "129.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186429,
+          "episode_number": 130,
+          "name": "130.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186430,
+          "episode_number": 131,
+          "name": "131.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186431,
+          "episode_number": 132,
+          "name": "132.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186432,
+          "episode_number": 133,
+          "name": "133.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186433,
+          "episode_number": 134,
+          "name": "134.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186434,
+          "episode_number": 135,
+          "name": "135.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186435,
+          "episode_number": 136,
+          "name": "136.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186436,
+          "episode_number": 137,
+          "name": "137.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186437,
+          "episode_number": 138,
+          "name": "138.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186438,
+          "episode_number": 139,
+          "name": "139.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186439,
+          "episode_number": 140,
+          "name": "140.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186440,
+          "episode_number": 141,
+          "name": "141.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186441,
+          "episode_number": 142,
+          "name": "142.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186442,
+          "episode_number": 143,
+          "name": "143.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186443,
+          "episode_number": 144,
+          "name": "144.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186444,
+          "episode_number": 145,
+          "name": "145.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186445,
+          "episode_number": 146,
+          "name": "146.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186446,
+          "episode_number": 147,
+          "name": "147.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186447,
+          "episode_number": 148,
+          "name": "148.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186448,
+          "episode_number": 149,
+          "name": "149.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186449,
+          "episode_number": 150,
+          "name": "150.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186450,
+          "episode_number": 151,
+          "name": "151.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186451,
+          "episode_number": 152,
+          "name": "152.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186452,
+          "episode_number": 153,
+          "name": "153.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186453,
+          "episode_number": 154,
+          "name": "154.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186454,
+          "episode_number": 155,
+          "name": "155.Bölüm",
+          "description": null,
+          "release_date": null,
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186455,
+          "episode_number": 156,
+          "name": "156.Bölüm",
+          "description": null,
+          "release_date": "2022-09-03T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186456,
+          "episode_number": 157,
+          "name": "157.Bölüm",
+          "description": null,
+          "release_date": "2022-09-07T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186457,
+          "episode_number": 158,
+          "name": "158.Bölüm",
+          "description": null,
+          "release_date": "2022-09-10T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186458,
+          "episode_number": 159,
+          "name": "159.Bölüm",
+          "description": null,
+          "release_date": "2022-09-14T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 186459,
+          "episode_number": 160,
+          "name": "160.Bölüm",
+          "description": null,
+          "release_date": "2022-09-17T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189454,
+          "episode_number": 161,
+          "name": "161.Bölüm",
+          "description": null,
+          "release_date": "2022-09-21T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189455,
+          "episode_number": 162,
+          "name": "162.Bölüm",
+          "description": null,
+          "release_date": "2022-09-24T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189456,
+          "episode_number": 163,
+          "name": "163.Bölüm",
+          "description": null,
+          "release_date": "2022-09-28T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189457,
+          "episode_number": 164,
+          "name": "164.Bölüm",
+          "description": null,
+          "release_date": "2022-10-01T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189458,
+          "episode_number": 165,
+          "name": "165.Bölüm",
+          "description": null,
+          "release_date": "2022-10-05T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189459,
+          "episode_number": 166,
+          "name": "166.Bölüm",
+          "description": null,
+          "release_date": "2022-10-08T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189460,
+          "episode_number": 167,
+          "name": "167.Bölüm",
+          "description": null,
+          "release_date": "2022-10-12T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189461,
+          "episode_number": 168,
+          "name": "168.Bölüm",
+          "description": null,
+          "release_date": "2022-10-15T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189462,
+          "episode_number": 169,
+          "name": "169.Bölüm",
+          "description": null,
+          "release_date": "2022-10-19T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189463,
+          "episode_number": 170,
+          "name": "170.Bölüm",
+          "description": null,
+          "release_date": "2022-10-22T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189464,
+          "episode_number": 171,
+          "name": "171.Bölüm",
+          "description": null,
+          "release_date": "2022-10-26T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189465,
+          "episode_number": 172,
+          "name": "172.Bölüm",
+          "description": null,
+          "release_date": "2022-10-29T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189466,
+          "episode_number": 173,
+          "name": "173.Bölüm",
+          "description": null,
+          "release_date": "2022-11-02T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189467,
+          "episode_number": 174,
+          "name": "174.Bölüm",
+          "description": null,
+          "release_date": "2022-11-05T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189468,
+          "episode_number": 175,
+          "name": "175.Bölüm",
+          "description": null,
+          "release_date": "2022-11-09T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189469,
+          "episode_number": 176,
+          "name": "176.Bölüm",
+          "description": null,
+          "release_date": "2022-11-12T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189470,
+          "episode_number": 177,
+          "name": "177.Bölüm",
+          "description": null,
+          "release_date": "2022-11-16T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189471,
+          "episode_number": 178,
+          "name": "178.Bölüm",
+          "description": null,
+          "release_date": "2022-11-19T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189472,
+          "episode_number": 179,
+          "name": "179.Bölüm",
+          "description": null,
+          "release_date": "2022-11-23T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189473,
+          "episode_number": 180,
+          "name": "180.Bölüm",
+          "description": null,
+          "release_date": "2022-11-26T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189474,
+          "episode_number": 181,
+          "name": "181.Bölüm",
+          "description": null,
+          "release_date": "2022-11-30T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189475,
+          "episode_number": 182,
+          "name": "182.Bölüm",
+          "description": null,
+          "release_date": "2022-12-03T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189476,
+          "episode_number": 183,
+          "name": "183.Bölüm",
+          "description": null,
+          "release_date": "2022-12-07T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189477,
+          "episode_number": 184,
+          "name": "184.Bölüm",
+          "description": null,
+          "release_date": "2022-12-10T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189478,
+          "episode_number": 185,
+          "name": "185.Bölüm",
+          "description": null,
+          "release_date": "2022-12-14T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189479,
+          "episode_number": 186,
+          "name": "186.Bölüm",
+          "description": null,
+          "release_date": "2022-12-17T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189480,
+          "episode_number": 187,
+          "name": "187.Bölüm",
+          "description": null,
+          "release_date": "2022-12-21T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189481,
+          "episode_number": 188,
+          "name": "188.Bölüm",
+          "description": null,
+          "release_date": "2022-12-24T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189482,
+          "episode_number": 189,
+          "name": "189.Bölüm",
+          "description": null,
+          "release_date": "2022-12-28T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189483,
+          "episode_number": 190,
+          "name": "190.Bölüm",
+          "description": null,
+          "release_date": "2022-12-31T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189484,
+          "episode_number": 191,
+          "name": "191.Bölüm",
+          "description": null,
+          "release_date": "2023-01-04T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189485,
+          "episode_number": 192,
+          "name": "192.Bölüm",
+          "description": null,
+          "release_date": "2023-01-07T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189486,
+          "episode_number": 193,
+          "name": "193.Bölüm",
+          "description": null,
+          "release_date": "2023-01-11T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189487,
+          "episode_number": 194,
+          "name": "194.Bölüm",
+          "description": null,
+          "release_date": "2023-01-14T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189488,
+          "episode_number": 195,
+          "name": "195.Bölüm",
+          "description": null,
+          "release_date": "2023-01-18T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189489,
+          "episode_number": 196,
+          "name": "196.Bölüm",
+          "description": null,
+          "release_date": "2023-01-21T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189490,
+          "episode_number": 197,
+          "name": "197.Bölüm",
+          "description": null,
+          "release_date": "2023-01-25T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189491,
+          "episode_number": 198,
+          "name": "198.Bölüm",
+          "description": null,
+          "release_date": "2023-01-28T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189492,
+          "episode_number": 199,
+          "name": "199.Bölüm",
+          "description": null,
+          "release_date": "2023-02-01T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 189493,
+          "episode_number": 200,
+          "name": "Bölüm 200",
+          "description": null,
+          "release_date": "2023-02-04T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 194578,
+          "episode_number": 201,
+          "name": "201.Bölüm",
+          "description": null,
+          "release_date": "2023-02-08T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 194579,
+          "episode_number": 202,
+          "name": "202.Bölüm",
+          "description": null,
+          "release_date": "2023-02-11T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 194580,
+          "episode_number": 203,
+          "name": "203.Bölüm",
+          "description": null,
+          "release_date": "2023-02-15T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 194581,
+          "episode_number": 204,
+          "name": "204.Bölüm",
+          "description": null,
+          "release_date": "2023-02-18T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 194582,
+          "episode_number": 205,
+          "name": "205.Bölüm",
+          "description": null,
+          "release_date": "2023-02-22T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 194583,
+          "episode_number": 206,
+          "name": "206.Bölüm",
+          "description": null,
+          "release_date": "2023-02-25T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 194584,
+          "episode_number": 207,
+          "name": "207.Bölüm",
+          "description": null,
+          "release_date": "2023-03-01T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 194585,
+          "episode_number": 208,
+          "name": "208.Bölüm",
+          "description": null,
+          "release_date": "2023-03-04T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 194586,
+          "episode_number": 209,
+          "name": "209.Bölüm",
+          "description": null,
+          "release_date": "2023-03-08T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 194587,
+          "episode_number": 210,
+          "name": "210.Bölüm",
+          "description": null,
+          "release_date": "2023-03-11T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212212,
+          "episode_number": 211,
+          "name": "211.Bölüm",
+          "description": null,
+          "release_date": "2022-03-05T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212213,
+          "episode_number": 212,
+          "name": "212.Bölüm",
+          "description": null,
+          "release_date": "2022-03-09T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212214,
+          "episode_number": 213,
+          "name": "213.Bölüm",
+          "description": null,
+          "release_date": "2022-03-12T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212215,
+          "episode_number": 214,
+          "name": "214.Bölüm",
+          "description": null,
+          "release_date": "2022-03-16T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212216,
+          "episode_number": 215,
+          "name": "215.Bölüm",
+          "description": null,
+          "release_date": "2022-03-19T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212217,
+          "episode_number": 216,
+          "name": "216.Bölüm",
+          "description": null,
+          "release_date": "2022-03-23T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212218,
+          "episode_number": 217,
+          "name": "217.Bölüm",
+          "description": null,
+          "release_date": "2022-03-26T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212219,
+          "episode_number": 218,
+          "name": "218.Bölüm",
+          "description": null,
+          "release_date": "2022-03-30T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212220,
+          "episode_number": 219,
+          "name": "219.Bölüm",
+          "description": null,
+          "release_date": "2022-04-02T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212221,
+          "episode_number": 220,
+          "name": "220.Bölüm",
+          "description": null,
+          "release_date": "2022-04-06T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212222,
+          "episode_number": 221,
+          "name": "221.Bölüm",
+          "description": null,
+          "release_date": "2022-04-09T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212223,
+          "episode_number": 222,
+          "name": "222.Bölüm",
+          "description": null,
+          "release_date": "2022-04-13T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212224,
+          "episode_number": 223,
+          "name": "223.Bölüm",
+          "description": null,
+          "release_date": "2022-04-16T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212225,
+          "episode_number": 224,
+          "name": "224.Bölüm",
+          "description": null,
+          "release_date": "2022-04-20T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212226,
+          "episode_number": 225,
+          "name": "225.Bölüm",
+          "description": null,
+          "release_date": "2022-04-23T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212227,
+          "episode_number": 226,
+          "name": "226.Bölüm",
+          "description": null,
+          "release_date": "2022-04-27T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212228,
+          "episode_number": 227,
+          "name": "227.Bölüm",
+          "description": null,
+          "release_date": "2022-04-30T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212229,
+          "episode_number": 228,
+          "name": "228.Bölüm",
+          "description": null,
+          "release_date": "2022-05-04T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212230,
+          "episode_number": 229,
+          "name": "229.Bölüm",
+          "description": null,
+          "release_date": "2022-05-07T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212231,
+          "episode_number": 230,
+          "name": "230.Bölüm",
+          "description": null,
+          "release_date": "2022-05-11T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212232,
+          "episode_number": 231,
+          "name": "231.Bölüm",
+          "description": null,
+          "release_date": "2022-05-14T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212233,
+          "episode_number": 232,
+          "name": "232.Bölüm",
+          "description": null,
+          "release_date": "2022-05-18T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212234,
+          "episode_number": 233,
+          "name": "233.Bölüm",
+          "description": null,
+          "release_date": "2022-05-21T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212235,
+          "episode_number": 234,
+          "name": "234.Bölüm",
+          "description": null,
+          "release_date": "2022-05-25T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212236,
+          "episode_number": 235,
+          "name": "235.Bölüm",
+          "description": null,
+          "release_date": "2022-05-28T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212237,
+          "episode_number": 236,
+          "name": "236.Bölüm",
+          "description": null,
+          "release_date": "2022-06-01T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212238,
+          "episode_number": 237,
+          "name": "237.Bölüm",
+          "description": null,
+          "release_date": "2022-06-04T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212239,
+          "episode_number": 238,
+          "name": "238.Bölüm",
+          "description": null,
+          "release_date": "2022-06-08T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212240,
+          "episode_number": 239,
+          "name": "239.Bölüm",
+          "description": null,
+          "release_date": "2022-06-11T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212241,
+          "episode_number": 240,
+          "name": "240.Bölüm",
+          "description": null,
+          "release_date": "2022-06-15T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212242,
+          "episode_number": 241,
+          "name": "241.Bölüm",
+          "description": null,
+          "release_date": "2022-06-18T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212243,
+          "episode_number": 242,
+          "name": "242.Bölüm",
+          "description": null,
+          "release_date": "2022-06-22T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212244,
+          "episode_number": 243,
+          "name": "243.Bölüm",
+          "description": null,
+          "release_date": "2022-06-25T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212245,
+          "episode_number": 244,
+          "name": "244.Bölüm",
+          "description": null,
+          "release_date": "2022-06-28T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212246,
+          "episode_number": 245,
+          "name": "245.Bölüm",
+          "description": null,
+          "release_date": "2022-07-02T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212247,
+          "episode_number": 246,
+          "name": "246.Bölüm",
+          "description": null,
+          "release_date": "2022-07-06T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212248,
+          "episode_number": 247,
+          "name": "247.Bölüm",
+          "description": null,
+          "release_date": "2022-07-09T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212249,
+          "episode_number": 248,
+          "name": "248.Bölüm",
+          "description": null,
+          "release_date": "2022-07-13T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212250,
+          "episode_number": 249,
+          "name": "249.Bölüm",
+          "description": null,
+          "release_date": "2022-07-16T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212251,
+          "episode_number": 250,
+          "name": "250.Bölüm",
+          "description": null,
+          "release_date": "2022-07-20T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212252,
+          "episode_number": 251,
+          "name": "251.Bölüm",
+          "description": null,
+          "release_date": "2022-07-23T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212253,
+          "episode_number": 252,
+          "name": "252.Bölüm",
+          "description": null,
+          "release_date": "2022-07-27T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212254,
+          "episode_number": 253,
+          "name": "253.Bölüm",
+          "description": null,
+          "release_date": "2022-07-30T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212255,
+          "episode_number": 254,
+          "name": "254.Bölüm",
+          "description": null,
+          "release_date": "2022-08-03T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212256,
+          "episode_number": 255,
+          "name": "255.Bölüm",
+          "description": null,
+          "release_date": "2022-08-06T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212257,
+          "episode_number": 256,
+          "name": "256.Bölüm",
+          "description": null,
+          "release_date": "2022-08-10T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212258,
+          "episode_number": 257,
+          "name": "257.Bölüm",
+          "description": null,
+          "release_date": "2022-08-13T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212259,
+          "episode_number": 258,
+          "name": "258.Bölüm",
+          "description": null,
+          "release_date": "2022-08-17T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212260,
+          "episode_number": 259,
+          "name": "259.Bölüm",
+          "description": null,
+          "release_date": "2022-08-20T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212261,
+          "episode_number": 260,
+          "name": "260.Bölüm",
+          "description": null,
+          "release_date": "2022-08-24T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212262,
+          "episode_number": 261,
+          "name": "261.Bölüm",
+          "description": null,
+          "release_date": "2022-08-27T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212263,
+          "episode_number": 262,
+          "name": "262.Bölüm",
+          "description": null,
+          "release_date": "2022-08-31T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212264,
+          "episode_number": 263,
+          "name": "263.Bölüm",
+          "description": null,
+          "release_date": "2022-09-03T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212265,
+          "episode_number": 264,
+          "name": "264.Bölüm",
+          "description": null,
+          "release_date": "2022-09-03T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212266,
+          "episode_number": 265,
+          "name": "265.Bölüm",
+          "description": null,
+          "release_date": "2022-09-07T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212267,
+          "episode_number": 266,
+          "name": "266.Bölüm",
+          "description": null,
+          "release_date": "2022-09-10T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212268,
+          "episode_number": 267,
+          "name": "267.Bölüm",
+          "description": null,
+          "release_date": "2022-09-14T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212269,
+          "episode_number": 268,
+          "name": "268.Bölüm",
+          "description": null,
+          "release_date": "2022-09-17T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212270,
+          "episode_number": 269,
+          "name": "269.Bölüm",
+          "description": null,
+          "release_date": "2022-09-21T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212271,
+          "episode_number": 270,
+          "name": "270.Bölüm",
+          "description": null,
+          "release_date": "2022-09-24T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212272,
+          "episode_number": 271,
+          "name": "271.Bölüm",
+          "description": null,
+          "release_date": "2022-09-28T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212273,
+          "episode_number": 272,
+          "name": "272.Bölüm",
+          "description": null,
+          "release_date": "2022-10-01T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212274,
+          "episode_number": 273,
+          "name": "273.Bölüm",
+          "description": null,
+          "release_date": "2022-10-05T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212275,
+          "episode_number": 274,
+          "name": "274.Bölüm",
+          "description": null,
+          "release_date": "2022-10-08T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212276,
+          "episode_number": 275,
+          "name": "275.Bölüm",
+          "description": null,
+          "release_date": "2022-10-12T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212277,
+          "episode_number": 276,
+          "name": "276.Bölüm",
+          "description": null,
+          "release_date": "2022-10-15T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212278,
+          "episode_number": 277,
+          "name": "277.Bölüm",
+          "description": null,
+          "release_date": "2022-10-19T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212279,
+          "episode_number": 278,
+          "name": "278.Bölüm",
+          "description": null,
+          "release_date": "2022-10-22T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212280,
+          "episode_number": 279,
+          "name": "279.Bölüm",
+          "description": null,
+          "release_date": "2022-10-26T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212281,
+          "episode_number": 280,
+          "name": "280.Bölüm",
+          "description": null,
+          "release_date": "2022-10-29T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212282,
+          "episode_number": 281,
+          "name": "281.Bölüm",
+          "description": null,
+          "release_date": "2022-11-02T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212283,
+          "episode_number": 282,
+          "name": "282.Bölüm",
+          "description": null,
+          "release_date": "2022-11-05T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212284,
+          "episode_number": 283,
+          "name": "283.Bölüm",
+          "description": null,
+          "release_date": "2022-11-09T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212285,
+          "episode_number": 284,
+          "name": "284.Bölüm",
+          "description": null,
+          "release_date": "2022-11-12T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212286,
+          "episode_number": 285,
+          "name": "285.Bölüm",
+          "description": null,
+          "release_date": "2022-11-16T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212287,
+          "episode_number": 286,
+          "name": "286.Bölüm",
+          "description": null,
+          "release_date": "2022-11-19T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212288,
+          "episode_number": 287,
+          "name": "287.Bölüm",
+          "description": null,
+          "release_date": "2022-11-23T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212289,
+          "episode_number": 288,
+          "name": "288.Bölüm",
+          "description": null,
+          "release_date": "2022-11-26T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212290,
+          "episode_number": 289,
+          "name": "289.Bölüm",
+          "description": null,
+          "release_date": "2022-11-30T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212291,
+          "episode_number": 290,
+          "name": "290.Bölüm",
+          "description": null,
+          "release_date": "2022-12-03T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212292,
+          "episode_number": 291,
+          "name": "291.Bölüm",
+          "description": null,
+          "release_date": "2022-12-07T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212293,
+          "episode_number": 292,
+          "name": "292.Bölüm",
+          "description": null,
+          "release_date": "2022-12-10T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212294,
+          "episode_number": 293,
+          "name": "293.Bölüm",
+          "description": null,
+          "release_date": "2022-12-14T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212295,
+          "episode_number": 294,
+          "name": "294.Bölüm",
+          "description": null,
+          "release_date": "2022-12-17T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212296,
+          "episode_number": 295,
+          "name": "295.Bölüm",
+          "description": null,
+          "release_date": "2022-12-21T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212297,
+          "episode_number": 296,
+          "name": "296.Bölüm",
+          "description": null,
+          "release_date": "2022-12-24T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212298,
+          "episode_number": 297,
+          "name": "297.Bölüm",
+          "description": null,
+          "release_date": "2022-12-28T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212299,
+          "episode_number": 298,
+          "name": "298.Bölüm",
+          "description": null,
+          "release_date": "2022-12-31T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212300,
+          "episode_number": 299,
+          "name": "299.Bölüm",
+          "description": null,
+          "release_date": "2023-01-04T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212301,
+          "episode_number": 300,
+          "name": "Bölüm 300",
+          "description": null,
+          "release_date": "2023-01-07T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212302,
+          "episode_number": 301,
+          "name": "301.Bölüm",
+          "description": null,
+          "release_date": "2023-01-11T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212303,
+          "episode_number": 302,
+          "name": "302.Bölüm",
+          "description": null,
+          "release_date": "2023-01-14T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212304,
+          "episode_number": 303,
+          "name": "303.Bölüm",
+          "description": null,
+          "release_date": "2023-01-18T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212305,
+          "episode_number": 304,
+          "name": "304.Bölüm",
+          "description": null,
+          "release_date": "2023-01-21T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212306,
+          "episode_number": 305,
+          "name": "305.Bölüm",
+          "description": null,
+          "release_date": "2023-01-25T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212307,
+          "episode_number": 306,
+          "name": "306.Bölüm",
+          "description": null,
+          "release_date": "2023-01-28T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212308,
+          "episode_number": 307,
+          "name": "307.Bölüm",
+          "description": null,
+          "release_date": "2023-02-01T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212309,
+          "episode_number": 308,
+          "name": "308.Bölüm",
+          "description": null,
+          "release_date": "2023-02-04T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212310,
+          "episode_number": 309,
+          "name": "309.Bölüm",
+          "description": null,
+          "release_date": "2023-02-08T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212311,
+          "episode_number": 310,
+          "name": "310.Bölüm",
+          "description": null,
+          "release_date": "2023-02-11T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212312,
+          "episode_number": 311,
+          "name": "311.Bölüm",
+          "description": null,
+          "release_date": "2023-02-15T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212313,
+          "episode_number": 312,
+          "name": "312.Bölüm",
+          "description": null,
+          "release_date": "2023-02-18T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212314,
+          "episode_number": 313,
+          "name": "313.Bölüm",
+          "description": null,
+          "release_date": "2023-02-22T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212315,
+          "episode_number": 314,
+          "name": "314.Bölüm",
+          "description": null,
+          "release_date": "2023-02-25T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212316,
+          "episode_number": 315,
+          "name": "315.Bölüm",
+          "description": null,
+          "release_date": "2023-03-01T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212317,
+          "episode_number": 316,
+          "name": "316.Bölüm",
+          "description": null,
+          "release_date": "2023-03-04T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212318,
+          "episode_number": 317,
+          "name": "Bölüm 317",
+          "description": null,
+          "release_date": "2023-03-08T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 212319,
+          "episode_number": 318,
+          "name": "Bölüm 318",
+          "description": null,
+          "release_date": "2023-03-11T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        }
+      ]
+    }
+  ]
+}

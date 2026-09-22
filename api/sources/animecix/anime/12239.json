@@ -1,0 +1,606 @@
+{
+  "id": 12239,
+  "name": "Guin Saga",
+  "name_english": "Guin Saga",
+  "name_romanji": "Guin Saga",
+  "original_title": "グイン・サーガ",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2009,
+  "release_date": "Mon May 04 2009 00:00:00 GMT+0000 (Coordinated Universal Time)",
+  "description": "\"Mühür yıllar sonra kırılacak\". Nospherus diyarında dört kahraman, yeni bir efsaneyi örecek bir kadere doğru yola çıkıyor. Hikaye, leopar kafalı güçlü bir kılıç ustası olan Guin'i, ergen kraliyet ikizleri Remus ve Rinda'yı ve Istvan adlı genç ve hırslı paralı askeri takip ediyor.",
+  "poster": "https://image.tmdb.org/t/p/original/4bipHVo1teci5N8dc0pe0VO5UHm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/njGP3uy9eMwT9Iju0LsJpKA3Xfs.jpg",
+  "rating": 7,
+  "vote_count": 11,
+  "genres": [
+    2,
+    1,
+    3
+  ],
+  "tmdb_id": 55018,
+  "mal_id": 5041,
+  "anilist_id": null,
+  "imdb_id": "tt1409058",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 5847,
+      "season_number": 1,
+      "name": null,
+      "episode_count": 26,
+      "episodes": [
+        {
+          "id": 234432,
+          "episode_number": 1,
+          "name": "Maskeli Leopar",
+          "description": "Kraliyet ikizleri Remus ve Rinda, işgalci Moğol ordusu tarafından kaçmak zorunda kalınca, leopar başlı gizemli bir savaşçı tarafından kurtarılırlar. Adı Guin ama ikizlerle tanışmadan önceki anısı yok. Gece çökerken grup gulyabanilerin saldırısına uğrar ve bir kez daha hayatları için savaşmak zorunda kalırlar.",
+          "release_date": "2009-05-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/rWHFEKikx4HxxojusfvH23i3AQQ.jpg",
+          "videos": [
+            {
+              "id": 715965,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68061e4b560e2c5569b02b41",
+              "extra": "AnimeOU / Uarahara / www.animeou.net",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715966,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/bv0tqml38o6v",
+              "extra": "AnimeOU / Uarahara / www.animeou.net",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 234433,
+          "episode_number": 2,
+          "name": "Kara Kont'un Kalesi",
+          "description": "Guin'lerle karşılaşmalarından sağ kurtulan Guin ve ikizler, Moğol ordusu tarafından yakalanıp Stafolos Kalesi'ne götürülür. Burada ikizlere işkence etmek ve Parros Krallığı'nın sırlarını açığa çıkarmakla tehdit eden Stafolos'un Kara Kontu Vanon ile tanışırlar. Bu sırada Guin, Valachia'lı paralı asker Istavan'la ölümüne bir savaşta karşı karşıya gelir.",
+          "release_date": "2009-12-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kqHcG3tawcfbiGi7afP1L893D5i.jpg",
+          "videos": []
+        },
+        {
+          "id": 234434,
+          "episode_number": 3,
+          "name": "Kızıl Paralı Asker",
+          "description": "Guin ile Istavan arasındaki maç ertelendikten sonra Rinda ve Remus, morallerini bozmak amacıyla Kont tarafından ayrılır. Sem'in kaleye gece baskını yapması hem Guin'e hem de Istavan'a kaçma şansı verir; ancak Rinda'yı kurtarmak için Guin'in önce Vanon'un kişisel koruması ve Kara Kont'un kendisiyle yüzleşmesi gerekir.",
+          "release_date": "2009-03-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4ObYjYit5iBXVCvyhepS4b2p54H.jpg",
+          "videos": []
+        },
+        {
+          "id": 234435,
+          "episode_number": 4,
+          "name": "Ölüm Nehrini Geçmek",
+          "description": "Vanon'un kalesinden kaçan Guin, ikizler ve Istavan, Argos Krallığı'na ulaşmak için Kes Nehri'ni geçmeye çalışır. Yolculuk kolay değildir ve grubun sadece tehlikeli yaratıklarla değil, aynı zamanda Prenses Amnelis ve Beyaz Şövalyeleriyle de uğraşması gerekir.",
+          "release_date": "2009-04-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kK83sbAr0zCwyFCCreXQfa1zvpW.jpg",
+          "videos": [
+            {
+              "id": 715968,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68061f82560e2c5569b02b42",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715969,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/mtkaexm3909j",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 234436,
+          "episode_number": 5,
+          "name": "Hedeflenen Toplantı",
+          "description": "Guin ve diğerleri, Prenses Amnelis ve Lord Marus liderliğindeki takip eden güçlerden kaçmaya çalışarak Raku kabilesiyle birlikte Suni'nin evine gider. Marus onların izini sürer ve Guin ile ikizler yakalanır; Korkulan Avalon Kalesi'ne götürülmeden önce kampa sızıp onları kurtarmak Istavan'a kalmış.",
+          "release_date": "2009-03-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dtD80rVSKN9X98M9Lz0Qp37PWUj.jpg",
+          "videos": [
+            {
+              "id": 715971,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68062008560e2c5569b02b43",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715972,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/jaaughqlbsxd",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 234437,
+          "episode_number": 6,
+          "name": "Semlerin Toplanması",
+          "description": "Mongaul ordusunun gruba yaklaşmasıyla Guin, ayakta durup savaşmaktan başka seçeneği olmadığına karar verir. Böylelikle Istavan ve ikizlerin ileri gitmesine izin verirken, kendisi de tüm bir lejyon askeri tek başına alt etmek için geri dönüyor.",
+          "release_date": "2009-10-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8WWDSo3JJMmnzNdqoVMYLhWwGcw.jpg",
+          "videos": [
+            {
+              "id": 715974,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6806208d560e2c5569b02b44",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715975,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/tgdx53mzmfnh",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 234438,
+          "episode_number": 7,
+          "name": "Nospherus Savaşı",
+          "description": "Şems ile Moğol ordusu arasındaki savaş nihayet başladı. İlk başta Mongaul'un sayısal üstünlüğü aşılmaz bir engel gibi görünse de Guin'in kararlı stratejileri Sem'lerin şansı eşitlemesine olanak tanır.",
+          "release_date": "2009-05-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/iK7vcmmN6hwAjj6yzPJ7adn4Jvn.jpg",
+          "videos": []
+        },
+        {
+          "id": 234439,
+          "episode_number": 8,
+          "name": "Kurtla Karşılaşma",
+          "description": "Bir Mongaul askeri kılığına giren Istavan, Guin'in saldırısının bir sonraki aşamasına hazırlık amacıyla Lord Marus'un adamlarının saflarına sızmayı başarır. Sem'ler yaklaşan savaşa hazırlanırken Guin, onları kendi davasına katmak için Largon'u aramaya başlar. Semler Moğol ordusuna karşı yalnızca dört gün dayanabilirler; Guin'in süre dolmadan geri dönmesi gerekiyor.",
+          "release_date": "2009-05-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oNn0aYhkAEbSKWTRNDscQIxabJM.jpg",
+          "videos": [
+            {
+              "id": 715977,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6806214f560e2c5569b02b45",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715978,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/nvyl23n7zsl8",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 234440,
+          "episode_number": 9,
+          "name": "Lagon Tutsağı",
+          "description": "Guin, onu kötü bir ruh sanan Largon tarafından yakalanır. Niyetini kanıtlamak için liderleri Hero Duodou ile savaşması gerektiğine karar verir; sonunda onları kendi davasına katılmaya ve Nospherus'un korunmasına yardım etmeye ikna etmeyi başarır. Bu arada Moğol ordusu ilerlemeye devam ediyor ve Semler son stratejilerini uygulamaya koyuyor.",
+          "release_date": "2009-05-31T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/gPIdyp53kRO2AfRCyRqQo9quE8x.jpg",
+          "videos": [
+            {
+              "id": 715980,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/680621d3560e2c5569b02b46",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715981,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/u8gip27ar3b2",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 234441,
+          "episode_number": 10,
+          "name": "Sınır Kralı",
+          "description": "Moğol ordusu, geceleri uyurken onları çevreleyen Sem'in saklandığı yeri keşfeder. Bu saldırıya şaşıran Şem'ler kısa bir mücadelenin ardından kaçmaya çalışırlar; Moğol ordusunun Semleri takip etmesiyle her şey kaybolmuş gibi görünüyor. Guin, Lagon'la birlikte gelir ve Moğol ordusuna karşı çıkarak onları geri çekilmeye zorlar.",
+          "release_date": "2009-06-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8ISiXg0czUXd1d8iI8CpSVPnnJ5.jpg",
+          "videos": [
+            {
+              "id": 715983,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68062258560e2c5569b02b47",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715984,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/zopb2r2eypnc",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 234442,
+          "episode_number": 11,
+          "name": "Savaşçılar",
+          "description": "Yenilen Leydi Amnelis, babasının yanına döner ve burada babasının kendisini evlendirme planları olduğunu öğrenir; Bu arada Guin, bir gün Lagon ve Sem'e döneceğine söz vererek Nospherus'tan ayrılmaya hazırlanır. Kristalin prensi şehrine geri döner ancak ihanete uğrar ve yakalanır.",
+          "release_date": "2009-06-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/b5u35qjDAkKDSy1hXdGMHpv4Pdu.jpg",
+          "videos": []
+        },
+        {
+          "id": 234443,
+          "episode_number": 12,
+          "name": "Yeni Bir Kader",
+          "description": "Lord Naris'in Beyaz Şövalyeler tarafından ele geçirilmesi, Parros ailesinden hayatta kalanları ve Mongaul'a karşı çıkanları savaşa hazırlanmaya sevk eder. Amnelis, Naris'le evlenmek ve Mongaul'un krallık üzerindeki iddiasını meşrulaştırmak için Crystal'e giderken Astrias, ne pahasına olursa olsun düğünü engellemeye karar verir. Nospherus'a dönen Guin, Rinda, Remus, Istavan ve Suni yola çıkıp yolculuklarına devam etmeye hazırlanır.",
+          "release_date": "2009-06-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fefAQimhwQ4OzfhsNi9c8tEGBnk.jpg",
+          "videos": [
+            {
+              "id": 715986,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6806231b560e2c5569b02b48",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715987,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ua50ik6cyot8",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 234444,
+          "episode_number": 13,
+          "name": "Denize",
+          "description": "Guin ve diğerleri nihayet Ross Kasabasına varırlar ve Lent Denizi'ni geçmeye hazırlanırlar; Argos'un Moğol'a savaş açtığını öğrenince planları tehlikeye girer. Astrias, kayıp ikizlerle ilgili bilgi almak için onu sorguya çeken ozan Marius kılığına giren Al Deen tarafından yakalanır. Naris, Amnelis'i kazanma planını harekete geçirir.",
+          "release_date": "2009-06-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/AvhvWVOwqRHE6az6NVDPVGIqaK.jpg",
+          "videos": [
+            {
+              "id": 715989,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/680623a1560e2c5569b02b49",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715990,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/1hgi6p74pa9e",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 234445,
+          "episode_number": 14,
+          "name": "Işık Gemisi, Işık Prensesi",
+          "description": "Guin ve diğerleri, geminin kaptanı tarafından aldatılınca Garm's Head'de başları belaya girer. Bir fırtına gemiye zarar verip Guin'i denize sürüklediğinde işler daha da kötüleşir, Istavan ve ikizler gemi mürettebatına karşı kendi başlarının çaresine bakmak zorunda kalır. Bu sırada Astrias, Crystal'e gelir ve büyücü Valerius ile karşılaşır ve Naris planlarına devam eder.",
+          "release_date": "2009-07-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cbZS55BOTk32cguuBawWTRm40Ak.jpg",
+          "videos": [
+            {
+              "id": 715992,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68062427560e2c5569b02b4a",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715993,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/oqzdi22zpcrf",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 234446,
+          "episode_number": 15,
+          "name": null,
+          "description": "Istavan ve ikizler, Garm's Head'den kaçma şansını dener ve kendilerini gizemli bir ıssız adaya bırakırlar. Geminin mürettebatı onları takip eder ve Guin yoldaşlarını savunana kadar işler kasvetli görünür. Argos'ta Lord Skarl ve güçleri, Kualos'a karşı yapılacak savaşa hazırlık amacıyla Lord Beck'e katılmak üzere Ruan Oasis'e doğru yola çıkar. Crystal Rana'ya döndüğünde Naris'in Amnelis'le evlenme niyetini sorgulamaya başlar.",
+          "release_date": "2009-07-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dBF6TYVJa2FqBHAQCv3iI0zFXyY.jpg",
+          "videos": [
+            {
+              "id": 715995,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/680624ad560e2c5569b02b4b",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715996,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/pshy05peiypa",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 234447,
+          "episode_number": 16,
+          "name": "Hızlanma",
+          "description": "Gizemli bir mağarayı keşfeden Guin ve diğerleri, Rinda'yı bilinçsiz hale getiren tuhaf bir ışık topuyla karşılaşır. Küreden kaçmaya çalışırken dev bir canavarın saldırısına uğrarlar, ancak Garm's Head'e ulaşıp adadan kaçmayı başarırlar. Bu arada Mongaul Kralı, Amnelis'in Naris'le olan ilişkisinden endişe duymaktadır ve Kristal Prensi'ni ortadan kaldırma planları yapmaktadır. Vlad ayrıca ikizlerin kaçışından da rahatsızdır ve onları mümkün olduğu kadar çabuk bulması için Sid'i gönderir.",
+          "release_date": "2009-07-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/23jlGa9ShDrqXvvttF0yJ4Behge.jpg",
+          "videos": []
+        },
+        {
+          "id": 234448,
+          "episode_number": 17,
+          "name": "Elveda Sevgilim (Bölüm 1)",
+          "description": "Al Deen (hala ozan Marius olarak poz veriyor) Miail'e yakınlaşmaya devam ediyor, bu da genç Prens'e suikast yapma görevini fazlasıyla zorlaştırıyor; bunun yerine Arşidük'e suikast düzenlemek için cesur bir plana karar verir. Bu arada Naris ve Amnelis'in düğün günü yaklaşır ve hem Vlad hem de Linas'ın entrikaları nihayet meyvesini verir. Naris aptal değildir ve hazırlıklarını kendisi yapmıştır.",
+          "release_date": "2009-07-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/y6NyRstlZYU4BaO4yAGBRTGpoK6.jpg",
+          "videos": []
+        },
+        {
+          "id": 234449,
+          "episode_number": 18,
+          "name": "Elveda Sevgilim (Bölüm 2)",
+          "description": "Düğün gününde Naris'in Astrias tarafından öldürüldüğü anlaşılıyor; bunların hepsi Naris ve takipçilerinin Crystal'in yeniden ele geçirilmesini ve Parros'un kurtarılmasını hızlandırmak için hazırladığı ayrıntılı bir plandır. Marius'un Miail'i öldürme konusundaki isteksizliği Rorca'nın devreye girmesine neden olur ve suç Marius'a yüklenir.",
+          "release_date": "2009-08-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/eYyERLuJ6AWlAV16XReqFzL3GvQ.jpg",
+          "videos": [
+            {
+              "id": 715998,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68063380560e2c5569b02b4c",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715999,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/p1dnjwtufkq4",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 234450,
+          "episode_number": 19,
+          "name": "Serap",
+          "description": "Geçen bir gemi tarafından güvenli bir şekilde Agrayan Kraliyet Sarayı'na teslim edilen Guin ve ekibi, sonunda Argos'a ulaşmayı başarır. Rinda ve Istavan arasındaki sosyal statü farkı genç aşıklar için sorun haline gelir ve Istavan adını duyurmak için ayrılmaya karar verir. Bu sırada Lord Skarl ve Lord Beck, sürpriz bir saldırı başlatmak ve Parros'u geri almak için birliklerini Urien Dağları'na götürür. Kristalde herkesin öldüğüne inandığı Naris, Parros'un ıslahı için de planlar yapabilir.",
+          "release_date": "2009-08-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cKqyub832xTsxuaZcAVz6TgjN5G.jpg",
+          "videos": []
+        },
+        {
+          "id": 234451,
+          "episode_number": 20,
+          "name": "Kızıl Haberci",
+          "description": "Denizcilik eyaletleri Mongaul'la savaşa girmeye hazırlanırken Istavan, Parros'a gizli bir mesaj iletme görevini üstlenir. Lord Beck ve adamları dağlarda mahsur kalırken Remus, Argos'un güçlerine savaşa liderlik etmeye hazırlanıyor. Guin, Kitai'den bir suikastçının saldırısına uğrar, ancak olası katili kolaylıkla öldürmeyi başarır. Crystal'e dönen Karthron ve Naris planlarını yapmaya devam ediyor.",
+          "release_date": "2009-08-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ugQuXCYAvyaJTwJUKm27DOfceuo.jpg",
+          "videos": [
+            {
+              "id": 716001,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68063443560e2c5569b02b4d",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716002,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/puqqvty5wncz",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 234452,
+          "episode_number": 21,
+          "name": "Kristal İsyanı",
+          "description": "Mongaul güçlerinin çoğu, yaklaşan isyancı ordusuyla çatışmak için Crystal'ı terk ederken Naris, bir isyanı kışkırtma ve başkenti geri alma fırsatını yakalar. Savaşta Karthron öldürülünce Regia yıkılır. Bu sırada Remus ve adamları, Kualos'un güçleri tarafından durdurulur ve Parros'a ulaşabilmek için savaşı hızla bitirmenin bir yolunu bulmaları gerekir.",
+          "release_date": "2009-08-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/loVKcyTI3sBc5b3sJneG7vVOmEj.jpg",
+          "videos": [
+            {
+              "id": 716004,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/680634c8560e2c5569b02b4e",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716005,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/2rrl6aq4fcun",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 234453,
+          "episode_number": 22,
+          "name": "İntikam Tanrıçası",
+          "description": "Crystal'ın Sarayı'nın geri alındığı ve Naris'in hâlâ hayatta olduğu haberi Mongaul'a ulaşır. Böylelikle Amnelis, Maongaul Generali rolünü yeniden üstleniyor ve ordusunun Parros'u geri almasına liderlik etmeye hazırlanıyor; Böyle bir saldırıyı öngören Lord Skarl, adamlarına Parros-Mongaul sınırına gitmelerini emreder. Bu sırada Istavan, Crystal'e gelir ve gizli mesajını Naris'e iletir.",
+          "release_date": "2009-08-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dMFI1RlRVw0PLbfkVKHhkL2dFSd.jpg",
+          "videos": []
+        },
+        {
+          "id": 234454,
+          "episode_number": 23,
+          "name": "Hangi Yıldızın Bize Rehberlik Ettiği Önemli Değil",
+          "description": "Naris, Istvan'ın eşliğinde adamlarını Lord Skarl ile güçlerini birleştireceği ve Mongaul'un son işgaline hazırlanacağı Yuno'ya götürür. Rinda'nın aslında Naris'le birlikte olmak isteyebileceğinin ortaya çıkması, Istavan'ın hedeflerini yeniden düşünmesine neden olur ve tek başına yola çıkar. Bu sırada Kitai suikastçılarının sonuncusunu yendikten sonra Guin, Sid'in Torus'ta beklediğini ve geçmişi hakkında bir şeyler biliyor olabileceğini öğrenir.",
+          "release_date": "2009-09-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/t7yCqPy0a2z22EbVYpwblwSIG6w.jpg",
+          "videos": []
+        },
+        {
+          "id": 234455,
+          "episode_number": 24,
+          "name": "Moğol'un Son Günü",
+          "description": "Babasının ölümünün ardından Amnelis, Torus'a geri dönmek zorunda kalır. Ne yazık ki Mongaul'un eski müttefiki Khum bağlılıklarını değiştirdi ve Prenses'in kaçan ordusu iki güç arasında sıkışıp kaldı. Amnelis'in savaşma kararlılığına rağmen karşı konulmaz zorluklar, adamlarını teslim olmaya zorlar. Kısa süre sonra Parros'un müttefiklerinin geri kalanı Torus'a varır ve Moğollar teslim olmak zorunda kalır. Bu sırada Guin, Sid tarafından yakalanır ve genç koğuşun Parros'un antik makinesini aradığını öğrenir.",
+          "release_date": "2009-09-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/layuNrde3S26m3iRNihvVAVxeqM.jpg",
+          "videos": [
+            {
+              "id": 716007,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/680635c8560e2c5569b02b4f",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716008,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/rb9een7w5vnw",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 234456,
+          "episode_number": 25,
+          "name": "Kaderle Savaş",
+          "description": "Mongaul'un mağlup edilmesinin ardından Skarl, orada güçlü bir silahın saklandığı iddialarını araştırmak için Nospherus'a gider. Remus ve Rinda, Parros'a giderken Sid tarafından tuzağa düşürülür; Guin'in ortaya çıkmasıyla son anda kurtarılırlar. Bu arada Khum'da Amnelis geleceğiyle ilgili zor bir kararla karşı karşıyadır.",
+          "release_date": "2009-09-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7NHBgPsgTvgDiseDcwT74ZDsloB.jpg",
+          "videos": [
+            {
+              "id": 716010,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6806364d560e2c5569b02b50",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716011,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ibsgkq97uckd",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 234457,
+          "episode_number": 26,
+          "name": "Bir Yolculuk Başlıyor",
+          "description": "Rinda ve Remus nihayet Parros'a döndüler ve Remus'un taç giyme töreni için hazırlıklar oldukça sürüyor. O gün Rinda, kardeşinin karanlık geleceği hakkında korkunç bir vizyona sahip olur. Bu arada Guin, geçmişiyle ilgili cevaplar bulmak için kuzeye doğru giderken eski arkadaşı Istavan'la tanışır. Kral olmak için Guin'in gücünü kullanmak istiyor; Ne yazık ki Guin bunu reddeder ve ikili arkadaş olarak değil, kaderlerinde düşman olarak ayrılır.",
+          "release_date": "2009-09-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vVzPJ8kJUmNpLR3bMttgtgHT5lX.jpg",
+          "videos": []
+        }
+      ]
+    }
+  ]
+}

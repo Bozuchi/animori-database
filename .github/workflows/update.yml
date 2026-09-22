@@ -1,12 +1,37 @@
 name: 🎌 Anime Database Update
 
 on:
-  # # Her 24 saatte bir (gece yarısı) otomatik çalıştır
-  # schedule:
-  #   - cron: '0 0 * * *'
+  # Günde 2 kere otomatik çalış (00:00 ve 12:00 UTC)
+  schedule:
+    - cron: '0 0,12 * * *'
 
-  # Manuel tetikleme
+  # GitHub üzerinden tek tıkla manuel çalıştırma
   workflow_dispatch:
+    inputs:
+      source:
+        description: 'Taranacak Kaynak'
+        required: true
+        type: choice
+        options:
+          - all
+          - anizm
+          - animecix
+        default: 'all'
+      full_scrape:
+        description: 'Tüm kataloğu baştan/kaldığı yerden çek (--full)'
+        required: false
+        type: boolean
+        default: false
+      workers:
+        description: 'Paralel Worker Sayısı (Önerilen: 2-3)'
+        required: false
+        type: string
+        default: '2'
+      max_hours:
+        description: 'Maksimum Çalışma Süresi (Saat)'
+        required: false
+        type: string
+        default: '5.5'
 
 permissions:
   contents: write
@@ -14,12 +39,14 @@ permissions:
 jobs:
   update-database:
     runs-on: ubuntu-latest
-    timeout-minutes: 360  # 6 saat (büyük arşiv için yeterli süre)
+    timeout-minutes: 360  # 6 saat (GitHub Actions maksimum runner sınırı)
 
     steps:
       # 1. Repo'yu checkout et
       - name: 📥 Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
 
       # 2. Python kur
       - name: 🐍 Setup Python 3.12
@@ -33,23 +60,41 @@ jobs:
 
       # 4. Güncelleme scriptini çalıştır
       - name: 🔄 Run Database Update
-        run: python main.py
+        id: run_update
+        run: |
+          SRC="${{ github.event.inputs.source || 'all' }}"
+          WORKERS="${{ github.event.inputs.workers || '2' }}"
+          MAX_HOURS="${{ github.event.inputs.max_hours || '5.5' }}"
+          FULL="${{ github.event.inputs.full_scrape || 'false' }}"
+
+          echo "🚀 Kaynak: $SRC | Workers: $WORKERS | Max Süre: $MAX_HOURS saat | Full: $FULL"
+
+          if [ "$FULL" = "true" ]; then
+            python main.py --source "$SRC" --full --workers "$WORKERS" --max-hours "$MAX_HOURS"
+          else
+            python main.py --source "$SRC" --workers "$WORKERS" --max-hours "$MAX_HOURS"
+          fi
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
 
-      # 5. Değişiklikleri commit & push et
+      # 5. Değişiklikleri commit & push et (Süre aşımı veya hata olsa dahi mevcut ilerlemeyi kaydeder)
       - name: 📤 Commit & Push Changes
+        if: always() && steps.run_update.outcome != 'skipped'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
-          git add api/ errors.log
+          # Veritabanı ve checkpoint dosyalarını ekle
+          git add api/
+          [ -d data ] && git add data/
+          [ -f errors.log ] && git add errors.log
           
           # Değişiklik varsa commit et, yoksa atla
           if git diff --staged --quiet; then
             echo "📭 Değişiklik yok, commit atlanıyor."
           else
-            git commit -m "🔄 Anime database updated"
-            git push
+            git commit -m "🔄 Anime database updated [skip ci]"
+            git pull --rebase origin main || true
+            git push origin main
             echo "✅ Değişiklikler push edildi."
           fi

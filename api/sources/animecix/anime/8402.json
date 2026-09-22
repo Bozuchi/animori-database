@@ -1,0 +1,95 @@
+{
+  "id": 8402,
+  "name": "Grisaia: Phantom Trigger The Animation",
+  "name_english": "Grisaia: Phantom Trigger The Animation",
+  "name_romanji": "Grisaia: Phantom Trigger The Animation",
+  "original_title": "グリザイア：ファントムトリガー THE ANIMATION",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2019,
+  "release_date": "2019-03-15",
+  "description": "heath oslo olayının ardından, abd-japon terörle mücadele örgütü cirs'in varlığı kamuoyu tarafından bilinir hale geldi. cirs baştan aşağı yeniden inşa edildi ve en gizli işlevleri yeni bir ajansa devredildi: SORD (Sosyal Operasyonlar, Araştırma ve Geliştirme).  SORD'un amacı ülkeyi gelecekteki tehditlere karşı savunacak yeni nesil ajanlar yetiştirmektir. Bu amaçla örgüt ülke çapında bir dizi okul kurmuştur. Aniden kapatıldıktan sonra çürümeye terk edilen Mihama Akademisi'ne de bu tür bir 'uzman eğitim okulu' olarak yeni bir amaç verildi. Artık bu okulda okuyan uyumsuz kızlara silah ve gerçek mühimmat emanet ediliyor.  Hayat onları ne kadar ezerse ezsin, silahın yolunu seçen bu kızları nasıl bir gelecek beklemektedir?",
+  "poster": "https://image.tmdb.org/t/p/original/cllFRaJmSyWlIYwJNbVslRoR9dP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qvUiNH0VwtIfGNXCBgmWsh22aWb.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    16,
+    6
+  ],
+  "tmdb_id": 601980,
+  "mal_id": 35868,
+  "anilist_id": 0,
+  "imdb_id": "tt9730868",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 5828,
+      "season_number": 1,
+      "name": "1. Sezon",
+      "episode_count": 2,
+      "episodes": [
+        {
+          "id": 229130,
+          "episode_number": 1,
+          "name": "Grisaia: Phantom Trigger The Animation Movie 1 ",
+          "description": "",
+          "release_date": "2019-03-28T10:16:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 713085,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67e6512767ce33985e793a3d",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 713086,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/5cfcu77tjs3g",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "1080p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 229131,
+          "episode_number": 2,
+          "name": "Grisaia: Phantom Trigger The Animation Movie 2",
+          "description": "",
+          "release_date": "2019-03-28T10:16:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 713088,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67e6563167ce33985e793a3e",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 713089,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/fo4y03ptb0d2",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "1080p",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

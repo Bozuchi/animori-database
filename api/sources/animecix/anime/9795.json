@@ -1,0 +1,994 @@
+{
+  "id": 9795,
+  "name": "Petit Eva: Evangelion@School",
+  "name_english": "Petit Eva: Evangelion@School",
+  "name_romanji": "Petit Eva: Evangelion@School",
+  "original_title": "ぷちえゔぁ",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2007,
+  "release_date": "2007-03-20 00:00:00",
+  "description": "Dizi, orijinal dizinin tüm oyuncu kadrosunun artık Tokyo-3'te ortaokula birlikte giden sıradan öğrenciler olduğu Neon Genesis Evangelion'un bir parodisidir. Dizide üç Rei kız kardeş yer alıyor: biri Rei 1'e dayalı olarak diğerlerinden daha küçük bir çocuk, ikincisi Rei 2'ye (normal serilerin çoğunda görülen Rei) dayanıyor ve üçüncü Rei aslında hiperaktif ve klutzy Alternate Rei (orijinal dizinin son bölümündeki alternatif gerçeklik rüya sekansında görülüyor). Dahası, Evangelion Unit 01'in kendisi sınıf arkadaşlarından biridir, ancak bu sefer sınıf zorbası gibi davranan insan boyutunda bir robot olarak. Jet Alone robotu bile dizide bir karakter olarak yeniden tasarlandı.",
+  "poster": "https://image.tmdb.org/t/p/original/nIz8aT83wqmjtIUczkhEYgoXejU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2yKVIQ9xVKkvsmF4qYjXZPXntAX.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6
+  ],
+  "tmdb_id": 99639,
+  "mal_id": 4130,
+  "anilist_id": 0,
+  "imdb_id": "tt2891516",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 3378,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 24,
+      "episodes": [
+        {
+          "id": 168448,
+          "episode_number": 1,
+          "name": "Okula gidiyor",
+          "description": "",
+          "release_date": "2007-03-20T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/67c4cedbed01ed6a75608083-2.jpg",
+          "videos": [
+            {
+              "id": 743278,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697f7e76c0da000447f8c9b3",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743279,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/faxt0du65p47",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743280,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-122t6cdk2eif.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 168449,
+          "episode_number": 2,
+          "name": "Temizlik zamanı",
+          "description": "",
+          "release_date": "2007-03-20T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 743281,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697f7eebeb1a5915e492ac6f",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743282,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/qsj0dak36c7v",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743283,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ozng378xdfiz.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 168450,
+          "episode_number": 3,
+          "name": "Dostluk",
+          "description": "",
+          "release_date": "2007-03-20T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 743284,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697f7f5ff8d39f6943842a22",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743285,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/gazs689iwwzv",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743286,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ttula0qcn2ed.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 168451,
+          "episode_number": 4,
+          "name": "buldum",
+          "description": "",
+          "release_date": "2007-03-20T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 743287,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697f7fd3f8d39f6943842a23",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743288,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/b4imau1anh63",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743289,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-wbe8jyikuawj.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 168452,
+          "episode_number": 5,
+          "name": "Gençlik Zamanı",
+          "description": "",
+          "release_date": "2007-03-20T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 743290,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697f8047a09ea30ace48394e",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743291,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/oy152qhfopgs",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743292,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-e0v8i0l9mm3d.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 168453,
+          "episode_number": 6,
+          "name": "Spor Zamanı",
+          "description": "",
+          "release_date": "2007-03-20T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 743293,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697f80bbfd4c16eef7c2404a",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743294,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/uc3fyq03201j",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743295,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-5esb98bpsnts.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 168454,
+          "episode_number": 7,
+          "name": "Kim bu?",
+          "description": "",
+          "release_date": "2007-03-20T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 743296,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697f812fc0da000447f8c9b4",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743297,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/na6u2woxs8xs",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743298,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-rds9oqff5aov.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 168455,
+          "episode_number": 8,
+          "name": "Romantik?",
+          "description": "",
+          "release_date": "2007-03-20T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 743299,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697f81a3fd4c16eef7c2404b",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743300,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/cb85i1kie961",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743301,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-txez9yy91z46.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 168456,
+          "episode_number": 9,
+          "name": "Mektup Yazma Zamanı",
+          "description": "",
+          "release_date": "2007-03-20T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 743302,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697f8217c0da000447f8c9b5",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743303,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/jvjdgjqsquu0",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743304,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-xirv44a3la4x.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 168457,
+          "episode_number": 10,
+          "name": "Spor Salonu Zamanı -Bitirme-",
+          "description": "",
+          "release_date": "2009-03-11T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 743305,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697f828bfaa4f0fe3c14618b",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743306,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/wqpo3jbfh7zb",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743307,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-nqyberwwrxkx.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 168458,
+          "episode_number": 11,
+          "name": "Üç Kızkardeş",
+          "description": "",
+          "release_date": "2009-03-11T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 743308,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697f82ffa09ea30ace48394f",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743309,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/pezszww5x976",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743310,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-moyjrlppwrlq.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 168459,
+          "episode_number": 12,
+          "name": "Dövmek",
+          "description": "",
+          "release_date": "2009-03-11T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 743311,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697f8372faa4f0fe3c14618c",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743312,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/8ys67ug29qv5",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743313,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-n6nkygv2gwe2.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 168460,
+          "episode_number": 13,
+          "name": "Şekerleme vakti",
+          "description": "",
+          "release_date": "2009-03-11T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 743314,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697f83e6fd4c16eef7c2404c",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743315,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/2568do8eo521",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743316,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-id5hi9ywexwr.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 168461,
+          "episode_number": 14,
+          "name": "Temizlik Süresi -Bitirme-",
+          "description": "",
+          "release_date": "2009-03-11T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 743317,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697f845dc0da000447f8c9b6",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743318,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/jo1i0mmdy7gf",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743319,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-06j99lathmc9.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 168462,
+          "episode_number": 15,
+          "name": "İkari",
+          "description": "",
+          "release_date": "2009-03-11T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 743320,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697f84d1c0da000447f8c9b7",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743321,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/gqor3ztvqubq",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743322,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ejed3yieogdr.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 168463,
+          "episode_number": 16,
+          "name": "Yeni oyuncak",
+          "description": "",
+          "release_date": "2009-03-11T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 743323,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697f8545e4b357250ada92ab",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743324,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/s6tm7ppbcydu",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743325,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-mij1necri15y.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 168464,
+          "episode_number": 17,
+          "name": "Öğle Yemeği Mola Zamanı",
+          "description": "",
+          "release_date": "2009-03-11T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 743326,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697f85b71d66f6c39d1404b4",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743327,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/fa3xqvxkoq96",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743328,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-tk6v1xych7c4.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 168465,
+          "episode_number": 18,
+          "name": "Gençlik Zamanı -Bitiriyor-",
+          "description": "",
+          "release_date": "2009-03-11T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 743329,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697f862aeb1a5915e492ac70",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743330,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/al56qyt1fybr",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743331,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-66ryv9nm3jpd.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 168466,
+          "episode_number": 19,
+          "name": "arkadaş",
+          "description": "",
+          "release_date": "2009-03-11T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 743332,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697f869c1d66f6c39d1404b5",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743333,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/e18tkq04r23h",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743334,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-14c19tmpg5hk.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 168467,
+          "episode_number": 20,
+          "name": "Geç kaldın!",
+          "description": "",
+          "release_date": "2009-03-11T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 743335,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697f870feb1a5915e492ac71",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743336,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ktf2ch4p3csw",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743337,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ycpw9y5hwyv2.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 168468,
+          "episode_number": 21,
+          "name": "Çay dükkanı",
+          "description": "",
+          "release_date": "2009-03-11T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 743338,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697f8781e4b357250ada92ac",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743339,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/plip5scby05c",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743340,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ht8chcdxywmb.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 168469,
+          "episode_number": 22,
+          "name": "Hesaplaşma",
+          "description": "",
+          "release_date": "2009-03-11T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 743341,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697f87f4faa4f0fe3c14618d",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743342,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/0413jxdd1kge",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743343,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-cxkxjqh8rfad.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 168470,
+          "episode_number": 23,
+          "name": "Soğuk algınlığı",
+          "description": "",
+          "release_date": "2009-03-11T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 743344,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697f8866c0da000447f8c9b8",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743345,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/obnh36ct1y9g",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743346,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-rhtvpkitt49d.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 168471,
+          "episode_number": 24,
+          "name": "Uçan",
+          "description": "",
+          "release_date": "2009-03-11T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 743347,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697f88d9faa4f0fe3c14618e",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743348,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/d2opyomgropw",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743349,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-07kzaqqvkbur.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

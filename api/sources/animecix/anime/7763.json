@@ -1,0 +1,186 @@
+{
+  "id": 7763,
+  "name": "BLACK LAGOON Roberta’s Blood Trail",
+  "name_english": "BLACK LAGOON Roberta’s Blood Trail",
+  "name_romanji": "BLACK LAGOON Roberta’s Blood Trail",
+  "original_title": "BLACK LAGOON Roberta’s Blood Trail",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2010,
+  "release_date": "2010-06-27 00:00:00",
+  "description": "",
+  "poster": "https://image.tmdb.org/t/p/original/areZJP6ZD5JXoLvSN4aFn586cZX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hk3mBwkVZj31807gaiUM8UxDbXJ.jpg",
+  "rating": "7.8",
+  "vote_count": 4,
+  "genres": [
+    9,
+    6,
+    1
+  ],
+  "tmdb_id": 101776,
+  "mal_id": 0,
+  "anilist_id": 0,
+  "imdb_id": "tt1992386",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 1360,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 5,
+      "episodes": [
+        {
+          "id": 132215,
+          "episode_number": 1,
+          "name": "1. Bölüm",
+          "description": null,
+          "release_date": "2010-06-26T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 378304,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6325469ba74d029266fd3eee",
+              "extra": "NetRip",
+              "fansub": "NetRip",
+              "fansub_id": 418,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 261125,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4718902",
+              "extra": "NetRip",
+              "fansub": "NetRip",
+              "fansub_id": 418,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 132216,
+          "episode_number": 2,
+          "name": "2. Bölüm",
+          "description": null,
+          "release_date": "2010-09-29T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 378303,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632545d2a74d029266fd3eed",
+              "extra": "NetRip",
+              "fansub": "NetRip",
+              "fansub_id": 418,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 261132,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4718911",
+              "extra": "NetRip",
+              "fansub": "NetRip",
+              "fansub_id": 418,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 132217,
+          "episode_number": 3,
+          "name": "3. Bölüm",
+          "description": null,
+          "release_date": "2011-01-07T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 378302,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63254535a74d029266fd3eec",
+              "extra": "NetRip",
+              "fansub": "NetRip",
+              "fansub_id": 418,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 261140,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4718916",
+              "extra": "NetRip",
+              "fansub": "NetRip",
+              "fansub_id": 418,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 132218,
+          "episode_number": 4,
+          "name": "4. Bölüm",
+          "description": "",
+          "release_date": "2011-03-11T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 378301,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632544b3a74d029266fd3eeb",
+              "extra": "NetRip",
+              "fansub": "NetRip",
+              "fansub_id": 418,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 261147,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4718924",
+              "extra": "NetRip",
+              "fansub": "NetRip",
+              "fansub_id": 418,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 132219,
+          "episode_number": 5,
+          "name": "5. Bölüm",
+          "description": null,
+          "release_date": "2011-06-21T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 378300,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632543fda74d029266fd3eea",
+              "extra": "NetRip",
+              "fansub": "NetRip",
+              "fansub_id": 418,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 261154,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4718931",
+              "extra": "NetRip",
+              "fansub": "NetRip",
+              "fansub_id": 418,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

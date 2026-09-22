@@ -1,0 +1,1973 @@
+{
+  "id": 12107,
+  "name": "The Beginning After the End",
+  "name_english": "The Beginning After the End",
+  "name_romanji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?",
+  "original_title": "最強の王様、二度目の人生は何をする？",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2025,
+  "release_date": "2025-04-02",
+  "description": "Gizemli ölümünden sonra King Gray, Dicathen'in büyülü kıtasında Arthur Leywin olarak yeniden doğar. Ama bu hayatına bebek olarak  başlamasına rağmen, önceki bilgeliği kaybolmamıştır. Geçmiş yaşamının hatalarını düzeltmeye çalışırken büyüde ustalaşmaya başlar ve kendi yolunda ilerler.",
+  "poster": "https://image.tmdb.org/t/p/original/az0jQSgRLezKw5uHaEjPH20NexD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/xiFu26relCPxf0OpU6gLswd51mj.jpg",
+  "rating": null,
+  "vote_count": null,
+  "genres": [
+    3,
+    1
+  ],
+  "tmdb_id": 274671,
+  "mal_id": 60146,
+  "anilist_id": null,
+  "imdb_id": "tt34119820",
+  "season_count": 2,
+  "seasons": [
+    {
+      "id": 5736,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 228834,
+          "episode_number": 1,
+          "name": "Kralın Yeniden Doğuşu",
+          "description": "Sayısız düşmanı yenerek, servet, şöhret ve akla gelebilecek her şey, en güçlü kral, gri, aniden ölüyor. Daha sonra aniden uyanır, büyünün var olduğu bir dünyada reenkarne olur. Ona Arthur adı verilir ve sevgi dolu ebeveynlerle ikinci bir hayat yaşamaya başlar.",
+          "release_date": "2025-04-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/hc6mJvyEG4KVsko8A8Fc5Ua7zmV.jpg",
+          "videos": [
+            {
+              "id": 713720,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67ed8c755eaf06b6b69270e1",
+              "extra": ":3 pikacu",
+              "fansub": ":3 pikacu",
+              "fansub_id": 3111,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 713726,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67ed96085eaf06b6b69270e3",
+              "extra": "Çeviri: LudifyEncoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 713734,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67edb06e5eaf06b6b69270e5",
+              "extra": "Çeviri: MoonRise",
+              "fansub": "MoonRise",
+              "fansub_id": 40,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 713745,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67ee6dfb5eaf06b6b69270e9",
+              "extra": "Aslı",
+              "fansub": "Aslı",
+              "fansub_id": 3112,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715166,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67fd1b8c83130d9119e1b1f6",
+              "extra": "Çevirmen: Maetarenn Encoder: Maetarenn",
+              "fansub": "Maetarenn",
+              "fansub_id": 1596,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 718192,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/681f11cdf8146af586df9dee",
+              "extra": "Çevirmen: suaviefendi",
+              "fansub": "suaviefendi",
+              "fansub_id": 616,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 713721,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/cwa0a4os62nu",
+              "extra": ":3 pikacu",
+              "fansub": ":3 pikacu",
+              "fansub_id": 3111,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 713727,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/l2wkvhmsur9d",
+              "extra": "Çeviri: LudifyEncoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 713735,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/xnknyjg0abc0",
+              "extra": "Çeviri: MoonRise",
+              "fansub": "MoonRise",
+              "fansub_id": 40,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 713746,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/t6c3p7hd05d3",
+              "extra": "Aslı",
+              "fansub": "Aslı",
+              "fansub_id": 3112,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715167,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/5vka3gs33sga",
+              "extra": "Çevirmen: Maetarenn Encoder: Maetarenn",
+              "fansub": "Maetarenn",
+              "fansub_id": 1596,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 718193,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/xnp4zbxw008z",
+              "extra": "Çevirmen: suaviefendi",
+              "fansub": "suaviefendi",
+              "fansub_id": 616,
+              "quality": "1080p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 229346,
+          "episode_number": 2,
+          "name": "Kral, Saldırı Altında",
+          "description": "Leywin ailesi yüzen Xyrus şehrine gider, böylece Arthur resmi eğitimine sihirle başlayabilir. Reynolds ve Alice'in ait olduğu maceracı parti, İkiz Boynuzlar, beklenmedik bir şeyle karşılaştıklarında onlara gardiyan olarak eşlik ediyor ...",
+          "release_date": "2025-04-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/rgNAvsE5jcklJOBrGZD4psoEFFC.jpg",
+          "videos": [
+            {
+              "id": 714483,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67f6c2ed40a799312beebd20",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714495,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67f6c78940a799312beebd24",
+              "extra": " Çeviri: LudifyEncoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714516,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67f7d914d84c92e6c5a46d4c",
+              "extra": "Çeviri: MoonRise",
+              "fansub": "MoonRise",
+              "fansub_id": 40,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715547,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68027b21560e2c5569b02ab2",
+              "extra": "Çevirmen: Knave / Encoder: Maetarenn",
+              "fansub": "Knave",
+              "fansub_id": 1800,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716123,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6806b930560e2c5569b02b73",
+              "extra": "Aslı",
+              "fansub": "Aslı",
+              "fansub_id": 3112,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718244,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/681fb012f8146af586df9dff",
+              "extra": "Çevirmen: suaviefendi",
+              "fansub": "suaviefendi",
+              "fansub_id": 616,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 714484,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/w1kyljkh9l8q",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714496,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/x5fwrthh9k01",
+              "extra": " Çeviri: LudifyEncoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714517,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/5lktsymei8hw",
+              "extra": "Çeviri: MoonRise",
+              "fansub": "MoonRise",
+              "fansub_id": 40,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715548,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/m0tynawca5if",
+              "extra": "Çevirmen: Knave / Encoder: Maetarenn",
+              "fansub": "Knave",
+              "fansub_id": 1800,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716124,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/tyhanclsh9gs",
+              "extra": "Aslı",
+              "fansub": "Aslı",
+              "fansub_id": 3112,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718245,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/k9kjoju8iwun",
+              "extra": "Çevirmen: suaviefendi",
+              "fansub": "suaviefendi",
+              "fansub_id": 616,
+              "quality": "1080p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 229347,
+          "episode_number": 3,
+          "name": "Kral ile Tanışmak",
+          "description": "Haydutlarla savaş sırasında Arthur bir uçurumdan düşer. Uyandığında zırhla kaplı gizemli bir canavarla karşılaşır. Adı Sylvia. Arthur'a yardım ediyor ve ailesinin nerede olduğunu biliyor gibi görünüyor, ama gerçekten kim ...?",
+          "release_date": "2025-04-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/A3c7ILkGZV03hw9k65zutfPK1md.jpg",
+          "videos": [
+            {
+              "id": 715432,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6801265560a6523e4ee16742",
+              "extra": " Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715435,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/680126f760a6523e4ee16743",
+              "extra": "Çevirmen: MoonRise",
+              "fansub": "MoonRise",
+              "fansub_id": 40,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715591,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6802f0c5560e2c5569b02ac5",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715606,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68037e65560e2c5569b02aca",
+              "extra": "Çevirmen: Knave Encoder: Knave",
+              "fansub": "Knave",
+              "fansub_id": 1800,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 716126,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6806b9bd560e2c5569b02b74",
+              "extra": "Aslı",
+              "fansub": "Aslı",
+              "fansub_id": 3112,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718447,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6824a8dff8146af586df9e36",
+              "extra": "Çevirmen: suaviefendi",
+              "fansub": "suaviefendi",
+              "fansub_id": 616,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 715400,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1jL8wID1P2e-MQYIqGtwCoWk4mqrk8H3g/preview",
+              "extra": " Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715401,
+              "player": "DAILYMOTION",
+              "url": "https://dai.ly/k53j2F4U5JjZnPCSnLk",
+              "extra": " Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715402,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/9218643331689",
+              "extra": " Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715403,
+              "player": "VIDMOLY",
+              "url": "http://vidmoly.to/embed-t1y0m7qevofh.html",
+              "extra": " Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715408,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/a62pou9saelo",
+              "extra": "Çevirmen: MoonRise",
+              "fansub": "MoonRise",
+              "fansub_id": 40,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715422,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/150EtAvWzjxfJS7corP-lKT0rwYUxmTkY/preview",
+              "extra": "Çevirmen: MoonRise",
+              "fansub": "MoonRise",
+              "fansub_id": 40,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715433,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/1r3fgb2weg0b",
+              "extra": " Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715436,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/8o6h9lyrffes",
+              "extra": "Çevirmen: MoonRise",
+              "fansub": "MoonRise",
+              "fansub_id": 40,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715592,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ujzxknjogckh",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715607,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/s8js2z69bexm",
+              "extra": "Çevirmen: Knave Encoder: Knave",
+              "fansub": "Knave",
+              "fansub_id": 1800,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 716127,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/wb8hw8v6fyjc",
+              "extra": "Aslı",
+              "fansub": "Aslı",
+              "fansub_id": 3112,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718448,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/2w1ufff1dsnf",
+              "extra": "Çevirmen: suaviefendi",
+              "fansub": "suaviefendi",
+              "fansub_id": 616,
+              "quality": "1080p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 229348,
+          "episode_number": 4,
+          "name": "Kral, Kurtarıldı",
+          "description": "Sylvia ile yollarını ayıran Arthur, ormanda bir kızın çığlığını duyar. Sese doğru koştuğunda, köle tacirleri tarafından esir alınmış Tessia adında bir elf kızıyla karşılaşır. Sylvia'nın “yeni hayatında ışık araması” yönündeki sözleri kulaklarında çınlarken, Arthur onlara tek başına meydan okumaya karar verir.",
+          "release_date": "2025-04-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/h2CTGxcyDjwwOuH7Ib4DXJaRLDW.jpg",
+          "videos": [
+            {
+              "id": 716261,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/680947be560e2c5569b02b8d",
+              "extra": "Çevirmen: Ludify Encoder: Kingsama",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716448,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/680a9d2d560e2c5569b02bc9",
+              "extra": "Aslı",
+              "fansub": "Aslı",
+              "fansub_id": 3112,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716556,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/680c1c82560e2c5569b02be3",
+              "extra": "Çevirmen: Ayça",
+              "fansub": "Ayça",
+              "fansub_id": 1942,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716834,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/680e4bab560e2c5569b02c1d",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 717757,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6817b9bef8146af586df9d5e",
+              "extra": "Çevirmen: Hasan12Q / Encode: Maetarenn",
+              "fansub": "Hasan12Q",
+              "fansub_id": 1598,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718566,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68277037f8146af586df9e5b",
+              "extra": "Çevirmen: suaviefendi",
+              "fansub": "suaviefendi",
+              "fansub_id": 616,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 716246,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1mHL0DQtOQPRu31wU80K1ymadMh1n9L0N/preview",
+              "extra": "Çevirmen: Ludify Encoder: Kingsama",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716247,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/8870170855967",
+              "extra": "Çevirmen: Ludify Encoder: Kingsama",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716254,
+              "player": "VIDMOLY",
+              "url": "http://vidmoly.to/embed-rrenn2oetiad.html",
+              "extra": "Çevirmen: Ludify Encoder: Kingsama",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716255,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x9ie7wm",
+              "extra": "Çevirmen: Ludify Encoder: Kingsama",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716259,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/t4h91mlwy3o2",
+              "extra": "Çevirmen: Ludify Encoder: Kingsama",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716262,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/qhwl8bgz5pd3",
+              "extra": "Çevirmen: Ludify Encoder: Kingsama",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716449,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/tcgg6a5dsh2i",
+              "extra": "Aslı",
+              "fansub": "Aslı",
+              "fansub_id": 3112,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716557,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/1kp60pggbkdu",
+              "extra": "Çevirmen: Ayça",
+              "fansub": "Ayça",
+              "fansub_id": 1942,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716835,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/jh0qh61sfd1v",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 717758,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/auoted02b74s",
+              "extra": "Çevirmen: Hasan12Q / Encode: Maetarenn",
+              "fansub": "Hasan12Q",
+              "fansub_id": 1598,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718567,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/5fy6v26m4se0",
+              "extra": "Çevirmen: suaviefendi",
+              "fansub": "suaviefendi",
+              "fansub_id": 616,
+              "quality": "1080p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 230513,
+          "episode_number": 5,
+          "name": "Kralın Sınavı",
+          "description": "Arthur, Tessia ile birlikte Elenoir Krallığı'na varır ve insanlara karşı derin bir kin besleyen elf askerleri tarafından tutuklanır. Elenoir'ın eski hükümdarı Virion onu serbest bırakana kadar işler gergin görünmektedir. Arthur daha sonra krallığın kalesine davet edilir. Ancak mana çekirdeğindeki acı giderek artıyor gibi görünmektedir...",
+          "release_date": "2025-04-30T18:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dt9PtZbKGCHhm6I0BJVFmiStA8o.jpg",
+          "videos": [
+            {
+              "id": 717205,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68127deef8146af586df9cd8",
+              "extra": "Çeviri: Ludify Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 717220,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68134844f8146af586df9cdd",
+              "extra": "Aslı",
+              "fansub": "Aslı",
+              "fansub_id": 3112,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 717882,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6819040af8146af586df9d86",
+              "extra": "Çeviri: Hasan12Q / Encode: Arda The Doctor",
+              "fansub": "Hasan12Q",
+              "fansub_id": 1598,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718102,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/681cd440f8146af586df9dd7",
+              "extra": "Çevirmen: Ayça",
+              "fansub": "Ayça",
+              "fansub_id": 1942,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 717206,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/m7pyk7md9ttc",
+              "extra": "Çeviri: Ludify Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 717221,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/zh0elvku4x0v",
+              "extra": "Aslı",
+              "fansub": "Aslı",
+              "fansub_id": 3112,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 717883,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/apm1dqnxnj02",
+              "extra": "Çeviri: Hasan12Q / Encode: Arda The Doctor",
+              "fansub": "Hasan12Q",
+              "fansub_id": 1598,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718103,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/xs47934y46su",
+              "extra": "Çevirmen: Ayça",
+              "fansub": "Ayça",
+              "fansub_id": 1942,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 230514,
+          "episode_number": 6,
+          "name": "Kralın Eğitimi",
+          "description": "Reynolds ve Alice'e hayatta kaldığını bildirmenin bir yolunu öğrenen Arthur, Virion'a katılır ve bir cadının evine giderler. Özel bir büyü kullanarak anne ve babasını görebilir. Kederlerinin derinliğine tanık olan Arthur, değer verdiği kişileri korumak ve içinde büyüyen tehlikeli gücü kontrol etmek için Virion'un altında eğitim almaya karar verir.",
+          "release_date": "2025-05-07T18:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/eUvln3ituko7QJRkIEIdSdKFJkC.jpg",
+          "videos": [
+            {
+              "id": 718072,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/681bb597f8146af586df9dcd",
+              "extra": "Çeviri: Ludify Encoder: Mercury  - www.instagram.com/codeanimee",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718105,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/681cd4fdf8146af586df9dd8",
+              "extra": "Çevirmen: Ayça",
+              "fansub": "Ayça",
+              "fansub_id": 1942,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718150,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/681d25d3f8146af586df9de0",
+              "extra": "Aslı",
+              "fansub": "Aslı",
+              "fansub_id": 3112,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718073,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/3l6mc4gi3xms",
+              "extra": "Çeviri: Ludify Encoder: Mercury  - www.instagram.com/codeanimee",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718106,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/irkna8c8o2uh",
+              "extra": "Çevirmen: Ayça",
+              "fansub": "Ayça",
+              "fansub_id": 1942,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718151,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/t034ecoi7jzt",
+              "extra": "Aslı",
+              "fansub": "Aslı",
+              "fansub_id": 3112,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 230515,
+          "episode_number": 7,
+          "name": "Kral Veda Ediyor",
+          "description": "Arthur'un Elenoir Krallığı'nda eğitimine başlamasının üzerinden üç yıl geçmiştir ve ikisi de güçlenirken Tessia ile birlikte çalışmıştır. Arthur, mana çekirdeğinde uyuyan canavarı uyandırmak için Virion'dan yardım ister. Sonra bir gece, Sylvia'nın ona verdiği taş parlamaya başlar...",
+          "release_date": "2025-05-14T18:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bUX3eOnKxSEcQwlcdpwcVokNpo8.jpg",
+          "videos": [
+            {
+              "id": 718465,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6824e94ff8146af586df9e3c",
+              "extra": "Çeviri: Ludify Encoder: Mercury  - www.instagram.com/codeanimee",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718474,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68257f00f8146af586df9e3f",
+              "extra": "Aslı",
+              "fansub": "Aslı",
+              "fansub_id": 3112,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718495,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6825f9c2f8146af586df9e46",
+              "extra": "Çevirmen: suaviefendi",
+              "fansub": "suaviefendi",
+              "fansub_id": 616,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 718851,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/682bb779f8146af586df9eab",
+              "extra": "Çevirmen: Ayça",
+              "fansub": "Ayça",
+              "fansub_id": 1942,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718466,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/w7o3trp2xmje",
+              "extra": "Çeviri: Ludify Encoder: Mercury  - www.instagram.com/codeanimee",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718475,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/8tddggt9ec2n",
+              "extra": "Aslı",
+              "fansub": "Aslı",
+              "fansub_id": 3112,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718496,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/kciwfovwhwfz",
+              "extra": "Çevirmen: suaviefendi",
+              "fansub": "suaviefendi",
+              "fansub_id": 616,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 718852,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/koinpxji4buk",
+              "extra": "Çevirmen: Ayça",
+              "fansub": "Ayça",
+              "fansub_id": 1942,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 230516,
+          "episode_number": 8,
+          "name": "Kral ile Yeniden Bir Araya Gelmek",
+          "description": "Xyrus şehrine varan Arthur, küçük kız kardeşi Eleanor'la tanışmaktan ve anne babasıyla yeniden bir araya gelmekten büyük heyecan duyar. Reynolds ile dövüşürken ne kadar büyüdüğünü gösterir. Arthur'un gücüne tanık olan Vincent Helstea, yeniden doğan kralın prestijli bir büyücülük okulu olan Xyrus Akademisi'ne kaydolmasını önerir.",
+          "release_date": "2025-05-21T18:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/o7Lh7zVpESEtiT0OxIwDZ5klAO5.jpg",
+          "videos": [
+            {
+              "id": 718913,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/682e264cf8146af586df9eba",
+              "extra": "Çeviri: Ludify Encoder: Mercury  - www.instagram.com/codeanimee",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718919,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/682e3db0f8146af586df9ebc",
+              "extra": "Çevirmen: suaviefendi",
+              "fansub": "suaviefendi",
+              "fansub_id": 616,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 719384,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6833735cf8146af586df9f37",
+              "extra": "Aslı",
+              "fansub": "Aslı",
+              "fansub_id": 3112,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 719711,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6838c95bf8146af586df9fa4",
+              "extra": "Çevirmen: Ayça",
+              "fansub": "Ayça",
+              "fansub_id": 1942,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718914,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/1v3npnq439t3",
+              "extra": "Çeviri: Ludify Encoder: Mercury  - www.instagram.com/codeanimee",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718920,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/a0ctrxmlwe2w",
+              "extra": "Çevirmen: suaviefendi",
+              "fansub": "suaviefendi",
+              "fansub_id": 616,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 719385,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/u8m9mm63v1w3",
+              "extra": "Aslı",
+              "fansub": "Aslı",
+              "fansub_id": 3112,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 719712,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/oa3tw4hel03r",
+              "extra": "Çevirmen: Ayça",
+              "fansub": "Ayça",
+              "fansub_id": 1942,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 230517,
+          "episode_number": 9,
+          "name": "Kral Öğretiyor",
+          "description": "Vincent ve karısı Tabitha, kızları Lilia'yı Xyrus Akademisi'ne kaydettirmeyi ummaktadır. Lilia ailesinin beklentilerini karşılamayı umarken, henüz manasını uyandıramamıştır. Bu arada Arthur, kasabada alışveriş yaparken akademi öğrencilerinden bir grupla karşılaşır.",
+          "release_date": "2025-05-28T18:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9ezCZG7wqPY5RdzJNQdvHQt04xx.jpg",
+          "videos": [
+            {
+              "id": 719677,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/683763aff8146af586df9f98",
+              "extra": "Çeviri: Ludify Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 719979,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/683f5f3f3ff5a03b6a8df458",
+              "extra": "Çevirmen: Ayça",
+              "fansub": "Ayça",
+              "fansub_id": 1942,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 721457,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6856bd916ab95c187cfffeeb",
+              "extra": "Aslı",
+              "fansub": "Aslı",
+              "fansub_id": 3112,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 719678,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/zh7vhzedfbjt",
+              "extra": "Çeviri: Ludify Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 719980,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/08yutybejv17",
+              "extra": "Çevirmen: Ayça",
+              "fansub": "Ayça",
+              "fansub_id": 1942,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 721458,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/gzf9m6p5m4f3",
+              "extra": "Aslı",
+              "fansub": "Aslı",
+              "fansub_id": 3112,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 230518,
+          "episode_number": 10,
+          "name": "Kralın Meydan Okuması",
+          "description": "Sapin Krallığı'nın kraliyet üyelerinin bile katıldığı Helstea Müzayedesi açılır. Vincent, Arthur'u müzayede evine davet eder. Arthur, müzayededeki değerli eşyalar arasında Sylvie'nin kaybolduğunu ve Sapin Kraliyet ailesinin hizmetindeki bir saray büyücüsünün dikkatini çektiğini keşfeder!",
+          "release_date": "2025-06-04T18:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jekqMKbli7C2hRHegh41jkiBhDu.jpg",
+          "videos": [
+            {
+              "id": 720091,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68409a8ba9b3e344a3e4cd60",
+              "extra": "Çeviri: Ludify Encode: Zehif_06",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 721460,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6856be336ab95c187cfffeec",
+              "extra": "Aslı",
+              "fansub": "Aslı",
+              "fansub_id": 3112,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 720086,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5929208",
+              "extra": "Çeviri: Ludify Encode: Zehif_06",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 720083,
+              "player": "VIDMOLY",
+              "url": "http://vidmoly.to/embed-4yzqy3xywdku.html",
+              "extra": "Çeviri: Ludify Encode: Zehif_06",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 720084,
+              "player": "LULUVDOO",
+              "url": "https://luluvdoo.com/jgrxmoxl9ohf",
+              "extra": "Çeviri: Ludify Encode: Zehif_06",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 720085,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/18kg-iDU5e5Nvbz0ugi2b6jmZB3FVTGkd/preview",
+              "extra": "Çeviri: Ludify Encode: Zehif_06",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 720087,
+              "player": "DAILYMOTION",
+              "url": "https://dai.ly/k3rxXXqcmNBEc5Dc21a",
+              "extra": "Çeviri: Ludify Encode: Zehif_06",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 720092,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/j0nc6mmx6sxs",
+              "extra": "Çeviri: Ludify Encode: Zehif_06",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 721461,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ry7yoxi5q2c6",
+              "extra": "Aslı",
+              "fansub": "Aslı",
+              "fansub_id": 3112,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 230519,
+          "episode_number": 11,
+          "name": "Kralın Kararı",
+          "description": "Xyrus Akademisi'ne varan Arthur, yeteneklerini okulun müdürü Cynthia'ya sergiler ve Cynthia'nın, prestijli büyü akademisinin başı olarak konumunun gerektirdiği kadar zorlu olduğunu kanıtlar. Arthur bunalmış olmasına rağmen gücünü gösterir ve ikili bir anlaşma yapar...",
+          "release_date": "2025-05-11T18:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/hzgXnbkEtISkkVD4oaX1Msqkq3o.jpg",
+          "videos": [
+            {
+              "id": 720732,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6849de1cc0cdcda52570a115",
+              "extra": "Çeviri: Ludify Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 721463,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6856bed76ab95c187cfffeed",
+              "extra": "Aslı",
+              "fansub": "Aslı",
+              "fansub_id": 3112,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 720733,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/njog51eql16a",
+              "extra": "Çeviri: Ludify Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 721464,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/6uctdcv8x634",
+              "extra": "Aslı",
+              "fansub": "Aslı",
+              "fansub_id": 3112,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 230520,
+          "episode_number": 12,
+          "name": "Kralın Ayrılışı",
+          "description": "Arthur, Jasmine tarafından yeni yolculuğuna başlayacağı maceracı loncasına kadar eşlik edilir.",
+          "release_date": "2025-06-18T18:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sS60rAjNvprLpBStVA2Yg3Xkqzl.jpg",
+          "videos": [
+            {
+              "id": 721319,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/685312f1fbf74d0fb179530f",
+              "extra": "Çeviri: Ludify Encoder: Mercury- www.instagram.com/codeanimee",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 721466,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6856bf786ab95c187cfffeee",
+              "extra": "Aslı",
+              "fansub": "Aslı",
+              "fansub_id": 3112,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756507,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a3c3a53002a74333f66adcf",
+              "extra": "Çeviri: irisWatch Encoder: Mercury  - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 721320,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/p2ht9gmj04xs",
+              "extra": "Çeviri: Ludify Encoder: Mercury- www.instagram.com/codeanimee",
+              "fansub": "Ludify",
+              "fansub_id": 313,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 721467,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/dret83jy7xcf",
+              "extra": "Aslı",
+              "fansub": "Aslı",
+              "fansub_id": 3112,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756508,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/dbjgb8ykuw8h",
+              "extra": "Çeviri: irisWatch Encoder: Mercury  - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756509,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-r8po9px2j9vq.html",
+              "extra": "Çeviri: irisWatch Encoder: Mercury  - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6199,
+      "season_number": 2,
+      "name": "Season 2",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 272859,
+          "episode_number": 1,
+          "name": "Kral, Maceraya Atılıyor",
+          "description": "Arthur, Note takma adıyla Jasmine'le birlikte maceralara atılıyor ve ikili tehlikeli bir karşılaşma yaşıyor.",
+          "release_date": "2026-04-01T20:59:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pUy16xI4lLuG0j38b486rwjgllO.jpg",
+          "videos": [
+            {
+              "id": 748677,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69cdf07c98be3e47efffd7e7",
+              "extra": "Sasurai - Anya Forger - Mono",
+              "fansub": "Sasurai",
+              "fansub_id": 3113,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748686,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69ce85d0140a125ba8371662",
+              "extra": "Ç: irisWatch E: Karamak-Sama  -  www.instagram.com/codeanimee",
+              "fansub": "Ç: irisWatch E: Karamak-Sama",
+              "fansub_id": 941,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748692,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69ce874398be3e47efffd7e8",
+              "extra": "https://discord.gg/ESTSBpxGUk Çevirmen: Yuki, Redaktör: S4Patrol, Encoder: S4Patrol-P, Uploader: S4Patrol",
+              "fansub": "Yuki",
+              "fansub_id": 3114,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748678,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/fpl26ajyzasn",
+              "extra": "Sasurai - Anya Forger - Mono",
+              "fansub": "Sasurai",
+              "fansub_id": 3113,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748679,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-wh5reez5lnce.html",
+              "extra": "Sasurai - Anya Forger - Mono",
+              "fansub": "Sasurai",
+              "fansub_id": 3113,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748687,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/3kiz31h4i9at",
+              "extra": "Ç: irisWatch E: Karamak-Sama  -  www.instagram.com/codeanimee",
+              "fansub": "Ç: irisWatch E: Karamak-Sama",
+              "fansub_id": 941,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748688,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-wscw1bwm9857.html",
+              "extra": "Ç: irisWatch E: Karamak-Sama  -  www.instagram.com/codeanimee",
+              "fansub": "Ç: irisWatch E: Karamak-Sama",
+              "fansub_id": 941,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748693,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/jtwm0a8qrdbs",
+              "extra": "https://discord.gg/ESTSBpxGUk Çevirmen: Yuki, Redaktör: S4Patrol, Encoder: S4Patrol-P, Uploader: S4Patrol",
+              "fansub": "Yuki",
+              "fansub_id": 3114,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748694,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-qgs3fwnehx77.html",
+              "extra": "https://discord.gg/ESTSBpxGUk Çevirmen: Yuki, Redaktör: S4Patrol, Encoder: S4Patrol-P, Uploader: S4Patrol",
+              "fansub": "Yuki",
+              "fansub_id": 3114,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 273323,
+          "episode_number": 2,
+          "name": "Prenses, Maceraya Atılıyor",
+          "description": "Tessia'nın bir maceracı olarak ırklar arası uyumu teşvik etme misyonu var, ancak işler pek yolunda gitmiyor.",
+          "release_date": "2026-04-08T20:59:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kmzG88qXhBRbSz6Xr0SJy3LZbsN.jpg",
+          "videos": [
+            {
+              "id": 749180,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69d6a2dbb923b3ffeb12b5b6",
+              "extra": "Çeviri: İrisWatch Encoder: Mercury  - www.instagram.com/codeanimee",
+              "fansub": "İrisWatch",
+              "fansub_id": 184,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 749560,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69da10d85d4202aa1736c0ce",
+              "extra": "Çeviri: Sasurasi Redakte: Anya Forger Encode: Mono",
+              "fansub": "Sasurasi",
+              "fansub_id": 3115,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750027,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69de905f5d4202aa1736c0df",
+              "extra": "https://discord.gg/somesub Çevirmen: Yuki, Encoder: S4Patrol-P, Redaktor: Velnoxy",
+              "fansub": "Yuki",
+              "fansub_id": 3114,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 749181,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/sz93gwnpy66k",
+              "extra": "Çeviri: İrisWatch Encoder: Mercury  - www.instagram.com/codeanimee",
+              "fansub": "İrisWatch",
+              "fansub_id": 184,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 749182,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-xmjbp3laocua.html",
+              "extra": "Çeviri: İrisWatch Encoder: Mercury  - www.instagram.com/codeanimee",
+              "fansub": "İrisWatch",
+              "fansub_id": 184,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 749561,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/t9nzt4tadgv5",
+              "extra": "Çeviri: Sasurasi Redakte: Anya Forger Encode: Mono",
+              "fansub": "Sasurasi",
+              "fansub_id": 3115,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 749562,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-a2orlqwyze5a.html",
+              "extra": "Çeviri: Sasurasi Redakte: Anya Forger Encode: Mono",
+              "fansub": "Sasurasi",
+              "fansub_id": 3115,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750028,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/jz1rki58zi15",
+              "extra": "https://discord.gg/somesub Çevirmen: Yuki, Encoder: S4Patrol-P, Redaktor: Velnoxy",
+              "fansub": "Yuki",
+              "fansub_id": 3114,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750029,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-b3xeyokd12r3.html",
+              "extra": "https://discord.gg/somesub Çevirmen: Yuki, Encoder: S4Patrol-P, Redaktor: Velnoxy",
+              "fansub": "Yuki",
+              "fansub_id": 3114,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 274963,
+          "episode_number": 3,
+          "name": "Kral, Mahsur Kalıyor",
+          "description": "Arthur, Elijah ve Lucas; kendilerini ıssız bir adada bulurlar ve eve dönmenin bir yolunu aramaya başlarlar.",
+          "release_date": "2026-04-15T20:59:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1avtrO9cXyZOCEHvvm9YEyldYBE.jpg",
+          "videos": [
+            {
+              "id": 750127,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69e0025398be3e47efffd823",
+              "extra": "Çeviri: irisWatch Encoder: Mercury  - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750128,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/p7mkirpzr7ao",
+              "extra": "Çeviri: irisWatch Encoder: Mercury  - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750129,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-353s7cupr2ua.html",
+              "extra": "Çeviri: irisWatch Encoder: Mercury  - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 275791,
+          "episode_number": 4,
+          "name": "Kralın Eve Dönüşü",
+          "description": "Son zamanlarda yaşanan Mana Canavarı sorunları nedeniyle görevler durma noktasına geldiği için Arthur, bir süre evde vakit geçiriyor.",
+          "release_date": "2026-04-22T20:59:00.000Z",
+          "poster": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=cover/catalog/crunchyroll/85e25bc7516c0563ab2fff6ed5dc1eab.png",
+          "videos": [
+            {
+              "id": 750819,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69e9186d76acb7a32c3537fb",
+              "extra": "Çeviri: irisWatch  Encoder: Mercury  - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 751034,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69ed2d09b84256f1db55eafc",
+              "extra": "Çevirmen: realgooddoctorArda, Redakte & Encode & Upload: SendemiBrütüs",
+              "fansub": "realgooddoctorArda, Redakte",
+              "fansub_id": 3116,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750820,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/j7c51f76pcyu",
+              "extra": "Çeviri: irisWatch  Encoder: Mercury  - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750821,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-e3hplxdadzfd.html",
+              "extra": "Çeviri: irisWatch  Encoder: Mercury  - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 751035,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/7dlttjdiicyj",
+              "extra": "Çevirmen: realgooddoctorArda, Redakte & Encode & Upload: SendemiBrütüs",
+              "fansub": "realgooddoctorArda, Redakte",
+              "fansub_id": 3116,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 751036,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-pnhauwf5i6z9.html",
+              "extra": "Çevirmen: realgooddoctorArda, Redakte & Encode & Upload: SendemiBrütüs",
+              "fansub": "realgooddoctorArda, Redakte",
+              "fansub_id": 3116,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 276025,
+          "episode_number": 5,
+          "name": "Kral, Mücadele Ediyor",
+          "description": "Arthur ve Jasmine, görünenden çok daha tehlikeli hâle gelen bir zindan baskınına katılır.",
+          "release_date": "2026-04-29T20:59:00.000Z",
+          "poster": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=cover/catalog/crunchyroll/df2b59efde749d22c5b5262970d8bfd5.png",
+          "videos": [
+            {
+              "id": 751544,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69f4a8ccb84256f1db55eb11",
+              "extra": "Çeviri: irisWatch Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 751545,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/dkzbr2mezjxz",
+              "extra": "Çeviri: irisWatch Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 751546,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-cs8n2ad8wmeu.html",
+              "extra": "Çeviri: irisWatch Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 277073,
+          "episode_number": 6,
+          "name": "Kral, İhanete Uğruyor",
+          "description": "Zindanın en alt katında Arthur ve ekibi, korkunç bir olayla karşı karşıya kalır.",
+          "release_date": "2026-05-06T20:59:00.000Z",
+          "poster": "https://firebasestorage.googleapis.com/v0/b/saikyo2dome-prod.appspot.com/o/pages%2Fstory%2Fnld90n9qumk.jpg?alt=media&token=26648c57-6c90-4460-88cc-a783cdbec675",
+          "videos": [
+            {
+              "id": 751976,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69fb842f140a125ba83716fd",
+              "extra": "ç:IrısWatch e:Zehif_06  - www.instagram.com/codeanimee",
+              "fansub": "ç:IrısWatch e:Zehif_06 -",
+              "fansub_id": 3117,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 751977,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/hqi01brtz2gw",
+              "extra": "ç:IrısWatch e:Zehif_06  - www.instagram.com/codeanimee",
+              "fansub": "ç:IrısWatch e:Zehif_06 -",
+              "fansub_id": 3117,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 751978,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-tx6t4d5rf5jk.html",
+              "extra": "ç:IrısWatch e:Zehif_06  - www.instagram.com/codeanimee",
+              "fansub": "ç:IrısWatch e:Zehif_06 -",
+              "fansub_id": 3117,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 278747,
+          "episode_number": 7,
+          "name": "Kral, Hayatta Kalıyor",
+          "description": "Elijah ve Arthur, zindandan bir çıkış yolu bulmaya çalışırken Elijah, beklenmedik bir yeteneği sayesinde Arthur’un hayatını kurtarır.",
+          "release_date": "2026-05-13T20:59:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/yEeuR9mc8dwGVUPQ0rdGIFqTmjA.jpg",
+          "videos": [
+            {
+              "id": 752965,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a04e6fa3ce9df29592aac93",
+              "extra": "ç:irisWatch e:Zehif_06  - www.instagram.com/codeanimee",
+              "fansub": "ç:irisWatch e:Zehif_06 -",
+              "fansub_id": 3118,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 752966,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/qriurdv5x15y",
+              "extra": "ç:irisWatch e:Zehif_06  - www.instagram.com/codeanimee",
+              "fansub": "ç:irisWatch e:Zehif_06 -",
+              "fansub_id": 3118,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 752967,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-jfdsx0363x6p.html",
+              "extra": "ç:irisWatch e:Zehif_06  - www.instagram.com/codeanimee",
+              "fansub": "ç:irisWatch e:Zehif_06 -",
+              "fansub_id": 3118,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 280855,
+          "episode_number": 8,
+          "name": "Kral, Mahkemeye Çıkıyor",
+          "description": "Note, Loncada bir soruşturma ile karşı karşıya kalırken Lucas ise ihanetinin sorumluluğundan kurtulmak için entrikalar çeviriyor.",
+          "release_date": "2026-05-20T18:17:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oMDl4kR8YB7Jk6xM9MAPdsE0EXj.jpg",
+          "videos": [
+            {
+              "id": 753726,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a0dfa688505007c2b75ab8a",
+              "extra": "Çeviri: irisWatch Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 753727,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/n1vmlagmqiy4",
+              "extra": "Çeviri: irisWatch Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 753728,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-6rljzam3nrc3.html",
+              "extra": "Çeviri: irisWatch Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 281199,
+          "episode_number": 9,
+          "name": "Kralın Minnettarlığı",
+          "description": "Elijah ile birlikte eve dönen Arthur, akademideki okula hazırlanır ve Jasmine’e veda eder.",
+          "release_date": "2026-06-03T12:16:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qpJFVrsZtlWfyivts9NvZsWyhSa.jpg",
+          "videos": [
+            {
+              "id": 755368,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a201adb88f797a4519f7864",
+              "extra": "Çeviri: irisWatch  Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 755369,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/mcmrkslr7fnq",
+              "extra": "Çeviri: irisWatch  Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 755370,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-81h3lar4hh0i.html",
+              "extra": "Çeviri: irisWatch  Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 281206,
+          "episode_number": 10,
+          "name": "Kral, Müzakere Ediyor",
+          "description": "Arthur, Eleanor’a doğum günü hediyesi olarak ne alacağını ararken ilginç bir karşılaşma yaşar.",
+          "release_date": "2026-06-03T20:58:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/z917N0chfTpo7HLDz3S2HQF73pk.jpg",
+          "videos": [
+            {
+              "id": 755419,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a209518e24203d706723b24",
+              "extra": "Çeviri: irisWatch Encoder: Zehif_06 - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 755420,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/5gudfb7nt6fy",
+              "extra": "Çeviri: irisWatch Encoder: Zehif_06 - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 755421,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-73ycsex3127i.html",
+              "extra": "Çeviri: irisWatch Encoder: Zehif_06 - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 281249,
+          "episode_number": 11,
+          "name": "Kral, Kutluyor",
+          "description": "Bugün Eleanor'un doğum günü ve Arthur'un, küçük kız kardeşi için özel bir hediyesi var.",
+          "release_date": "2026-06-10T18:30:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ji7aIja69CI9i8G32N2k75Te70U.jpg",
+          "videos": [
+            {
+              "id": 755856,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a29acf0224010c9ef3ebc19",
+              "extra": "Çeviri: irisWatch Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756144,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a31884cd5ce148fbbb33871",
+              "extra": "Çeviri: ItsParadize Redaksiyon: ItsParadize Encode: ItsParadize",
+              "fansub": "ItsParadize",
+              "fansub_id": 292,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 755857,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/lr8glffu6mwh",
+              "extra": "Çeviri: irisWatch Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 755858,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-tvfmaya9gwzx.html",
+              "extra": "Çeviri: irisWatch Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756145,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/dlnyckpcv8r6",
+              "extra": "Çeviri: ItsParadize Redaksiyon: ItsParadize Encode: ItsParadize",
+              "fansub": "ItsParadize",
+              "fansub_id": 292,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756146,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-u4s2g6u7p68h.html",
+              "extra": "Çeviri: ItsParadize Redaksiyon: ItsParadize Encode: ItsParadize",
+              "fansub": "ItsParadize",
+              "fansub_id": 292,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 281442,
+          "episode_number": 12,
+          "name": "Kral, Akademiye Başlıyor",
+          "description": "Xyrus Akademisi’ne kaydolmadan önce Arthur, felaketle sonuçlanan zindan baskınından sorumlu kişiyle yüzleşir.",
+          "release_date": "2026-06-24T20:59:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/g9P6EfQXiUkzOiudROJzjZoplnE.jpg",
+          "videos": [
+            {
+              "id": 756513,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a3c449459edd8529b31222a",
+              "extra": "Çeviri: irisWatch Encoder: Zehif_06  - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756514,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/e72c0x6l7svw",
+              "extra": "Çeviri: irisWatch Encoder: Zehif_06  - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756515,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-mhi1yj1xu1f9.html",
+              "extra": "Çeviri: irisWatch Encoder: Zehif_06  - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

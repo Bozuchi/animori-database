@@ -1,0 +1,4837 @@
+{
+  "id": 4769,
+  "name": "Altair: A Record of Battles",
+  "name_english": "Altair: A Record of Battles",
+  "name_romanji": "Shoukoku no Altair",
+  "original_title": "将国のアルタイル",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2017,
+  "release_date": "Fri Jul 07 2017 00:00:00 GMT+0000 (Coordinated Universal Time)",
+  "description": "Tuğrul Mahmut, Türkiye Stratokrasisi Divanı'nda görev yapan genç bir paşadır. Saldırgan bir İmparatorluğun tehdidi nedeniyle ülkesinin üzerinde savaş bulutları toplanıyor. Divan'ın savaş çığırtkanları ve pasifistler arasında bölünmesiyle Mahmut, ne pahasına olursa olsun barışı koruma arayışına başlar. Kendini antik dünyanın siyasetinin derinliklerinde buldukça, yeni düşmanlar ve müttefikler ortaya çıkıyor. Kim galip gelecek? Savaşın kaçınılmaz olduğu ortaya çıkarsa Mahmut ne yapacak?",
+  "poster": "https://image.tmdb.org/t/p/original/g8LNOGIqvzpMlb6XzmJhY46j1t5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/p6B9vmnqKVVvOzxITubYbzhzQWq.jpg",
+  "rating": 7.3,
+  "vote_count": 9,
+  "genres": [
+    3,
+    1,
+    5,
+    2
+  ],
+  "tmdb_id": 72519,
+  "mal_id": 34547,
+  "anilist_id": 0,
+  "imdb_id": "tt12875720",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 749,
+      "season_number": 1,
+      "name": "",
+      "episode_count": 24,
+      "episodes": [
+        {
+          "id": 120110,
+          "episode_number": 1,
+          "name": "Altın Kartal Genel",
+          "description": "Mahmut, Paşa olarak yeni atandıktan sonra arkadaşı İbrahim ile bir festivalde vakit geçirir ve İbrahim'in arkadaş olduğu dansçı Shara ile tanışır. Ertesi gün Mahmut, bir imparatorluk bakanı Franz'ın Türkiye sınırında ölü bulunmasının ardından Balt-Rhein İmparatorluğu'nun taleplerini görüşmek üzere Divan'a çağrılır. Bir Paşa, Zağanos, bunun imparatorluğun Türkiye'yi işgal etmek için bir oyun olduğunu biliyor ve onlara önleyici bir saldırı teklif ediyor.",
+          "release_date": "2017-07-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/81bsytort3mf8o9NjIG2q784wAe.jpg",
+          "videos": [
+            {
+              "id": 703543,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/679b391bb00f138db1d44be0",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 36510,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3049718",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36517,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=2974045",
+              "extra": "AYS",
+              "fansub": "AYS",
+              "fansub_id": 222,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36522,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3215670",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36541,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=2973171",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36556,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=2974139",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36557,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=2974186",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36498,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B3LDSW2VS7qcTFpTUkhNTE51SjQ/preview",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36502,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7194952",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36505,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/l9j0j6rj",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36506,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B60uuDASykGSY25QWFZmLVhKT0k/preview",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36511,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7190380",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36512,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x5suiwx?wmode=transparent",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36518,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/c224ffe85b41403e8a6919d91052a038",
+              "extra": "AYS",
+              "fansub": "AYS",
+              "fansub_id": 222,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36523,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7582042",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36524,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/2710fdbe3a2142b3b4030a4de18911d8",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36527,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/4tgmgfri",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36528,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/nnodncsmnstbldmt",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36529,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B929NLaF3TVYZkhrN2d5aW9RSEk/preview",
+              "extra": "Izanami",
+              "fansub": "Izanami",
+              "fansub_id": 614,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36530,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x5syl8f?wmode=transparent",
+              "extra": "Izanami",
+              "fansub": "Izanami",
+              "fansub_id": 614,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36535,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7190628",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36536,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x5sviy9?wmode=transparent",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36540,
+              "player": "RUTUBE",
+              "url": "https://www.rutube.ru/play/embed/4a20cf618dedd84799cf3444a8adf65e?autoStart=false&amp;wmode=transparent",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36542,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7190449",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36543,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/3a0090fe09a349059cbf9a6bcdebd2ff",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36546,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B9yE9nLiApMJSkRSYnVqOWNSaDg/preview",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36547,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B9yE9nLiApMJQU92NlFWUmN4dVU/preview",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36558,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7191291",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36559,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7191431",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36560,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/64efaa31b53a49c3afbcfcb5f26f1f9f",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36561,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/8c6627865e4d4835b10faaae565a73af",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120109,
+          "episode_number": 2,
+          "name": "Kale Şehri",
+          "description": "Mahmut ve Divan'a, Hisar köyünün Araba Aşireti ile Türkiye'ye isyan ettiği ve Hisar'ın Valisi olduğu için İbrahim'in önderlik ettiği bilgisi verilir. Hisar kendi yetki alanına girerken, Balt-Rhein'in isyanı işgal için bir fırsat olarak kullanacağını bilen Zağanos, askerleriyle birlikte isyanı durdurma sorumluluğunu üstlenir. Araba kıyafetlerini karıştırmak için kullanan Mahmut ve Shara, araştırmak ve İbrahim'in imparatorluğun ajanları Röd Orm ve Araba Kabilesi'ne itaat etmeye zorlandığını keşfetmek için Hisar'a giderler çünkü Hisar vatandaşlarını yağa batırılmış bir çadırda rehin tutarlar.",
+          "release_date": "2017-07-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ujXlraEcywTZC2AsWhK4omu677w.jpg",
+          "videos": [
+            {
+              "id": 703544,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/679b398db00f138db1d44be1",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 35679,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3049719",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35687,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=2984343",
+              "extra": "AYS",
+              "fansub": "AYS",
+              "fansub_id": 222,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35693,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3215673",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35709,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=2983341",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35724,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=2982414",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35725,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=2983318",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35668,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B3LDSW2VS7qcUTNXSW9mdTcwWDg/preview",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35672,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7307912",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35675,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B60uuDASykGSV1dWbW43Y0pnY0U/preview",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35680,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7202067",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35681,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x5tkj6k?wmode=transparent",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35686,
+              "player": "RUTUBE",
+              "url": "https://www.rutube.ru/play/embed/b2dd7bc46d6d27d8ac77a552630538ab?autoStart=false&amp;wmode=transparent",
+              "extra": "AYS",
+              "fansub": "AYS",
+              "fansub_id": 222,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35688,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7203225",
+              "extra": "AYS",
+              "fansub": "AYS",
+              "fansub_id": 222,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35689,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/2019ac9d13b84d9c84124a2dba6ad380",
+              "extra": "AYS",
+              "fansub": "AYS",
+              "fansub_id": 222,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35694,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7582043",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35695,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/5773c24c75764842b7f39c0349eca446",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35698,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/ubeukjl4",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35699,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/kfocdamnsadbmcrc",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35700,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7202134",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35701,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x5tkol0?wmode=transparent",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35704,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/m583m249",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35708,
+              "player": "RUTUBE",
+              "url": "https://www.rutube.ru/play/embed/b7a1f8fa8cf3c1fdf2d177c386866a4f?autoStart=false&amp;wmode=transparent",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35710,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7203817",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35711,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/b2550c24b4314d76857a9d8634122ffb",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35714,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B9yE9nLiApMJbmcxUzd4WVI2VHM/preview",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35715,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B9yE9nLiApMJU1pNRkZXREFYcGM/preview",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35726,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7202353",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35727,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7203777",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35728,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/7d375c1c244f441885bbf72aa1f640f7",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35729,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/70fc80527bea41fe935de489cb589eb4",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120108,
+          "episode_number": 3,
+          "name": "Generaller Konseyi",
+          "description": "Hisar'ın dışında, Lelederik ve Glalat sabırsızlanırlar ve kendi başlarına hareket etmeyi planlarlar, müdahale etmemesi için Röd Orm ajanını onlarla birlikte öldürürler. 40.000 Araba yoldayken, Zağanos onları durdurmak için zehir kullanmayı düşünür. Arabalar, Hisar'ın içinde, rehineleri yakmakla ve suçu Araba Kabilesi'ne yüklemekle tehdit eden bir Röd Orm ajanı Eleanor'u sorgular. Mahmut'un emriyle Shara, yağa bulanmış çadırın üzerindeki elbiselerin bir kısmını keserek İskender'in (Mahmut'un altın kartalı) ve büyük bir kartal sürüsünün çadırı kaldırıp rehineleri serbest bırakmasına izin verir.",
+          "release_date": "2017-07-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/rNEbXxklQR8NkJUVlWX2wyy4NQU.jpg",
+          "videos": [
+            {
+              "id": 703545,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/679b39e8b00f138db1d44be2",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 35746,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3049720",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35752,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3215677",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35775,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=2989910",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35776,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=2993363",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35734,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B3LDSW2VS7qcR0FzMWk2dF9CdGM/preview",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35738,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7307913",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35741,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/pcwbcwbp",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35742,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B4qIWgasVZboUHJxZEdpR2JnNFE/preview",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35747,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7217522",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35748,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x5udry5?wmode=transparent",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35753,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7582044",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35754,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/57b13ce35a384abaa76c1ce45cd3c0d6",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35757,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/61yxlmqi",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35758,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/mtnfbtbbdrttlemo",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35761,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7221452",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35764,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/e9umgxfz",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35765,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B7sbwEEMRkodaXZpLVowT0M5N1E/preview",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35766,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B7sbwEEMRkodNVZEZ2FobHI2cUE/preview",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35777,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7217535",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35778,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7224813",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35779,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/37ca93b4c13e4abda45fde300758390b",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35780,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/8b8a1090f12c49ae98bdcda309d3084f",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120107,
+          "episode_number": 4,
+          "name": "Kartal'ın Ortak Mücadelesi",
+          "description": "Tuğril aşireti katliamının kabusunu gören Mahmut, yıkıldıktan sonra yeniden inşa edilen memleketine geri döner. Mahmut, ölülere saygısını sunduktan sonra köyün su tapınağında Zağanos'un Pyramis büyüsünü kullanır ve casus Barbaros ile temasa geçer. Mahmut'a casus ağının nasıl çalıştığını ve Louis'in emriyle Türkiye casuslarının Röd Orm tarafından öldürüldüğünü açıklar. Barbaros, Tuğril aşiretinden kurtulan casus şebekesinin şefi Süleyman ile tanışması için onu yönlendirir. Süleyman, Mahmut'a özgeçmişini, Zağanos ile nasıl tanıştığını ve casus şebekesinin şefi olduğunu anlatır.",
+          "release_date": "2017-07-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/nQaR3IF81PdkyuverPxWdOtvC1k.jpg",
+          "videos": [
+            {
+              "id": 703546,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/679b3a46b00f138db1d44be3",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 35797,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3049721",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35804,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3215682",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35785,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B3LDSW2VS7qcUEdpZUNCRGZ6WWs/preview",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35789,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7307914",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35792,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/cmc0s6yk",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35793,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B4qIWgasVZboVlpVMzVEX0pOd2c/preview",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35798,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7246816",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35799,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x5v6s7f?wmode=transparent",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35802,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/66de2xmv",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35805,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7582045",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35806,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/ce704f38a4384049a3360572ec227231",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35809,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/t7r7k960",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35810,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/adbbfqtdpbksqltl",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120106,
+          "episode_number": 5,
+          "name": "Deniz Feneri Şehri",
+          "description": "Mahmut Phoinikē'ye varır ve limana demirlemiş bir Balt-Rhein gemisi görür. Türkiye casusu Kyros ile tanışır ve kendisine kaldığı süre boyunca başını belaya sokacağını söyler. Mahmut, yurtsever Magistros Konstantinos ve Phoinikē senatosunun diğer üyeleri tarafından çağrılır ve Mahmut'un imparatorluğun limanlarını kendilerine devretme taleplerini görüşmek üzere senato toplantısında oturmasını ister. Sezar Apollodorus imparatorluğun taleplerini kabul etmek isterken, Konstantinos bunun Centro denizini işgal etmek ve kontrolü ele geçirmek için bir bahane olduğunu söylüyor.",
+          "release_date": "2017-08-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/3FzG4e8ds4dZghyyGMFjKAPvYz.jpg",
+          "videos": [
+            {
+              "id": 703547,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/679b3ab9b00f138db1d44be4",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 35820,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3049722",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35826,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3215686",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35811,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B3LDSW2VS7qca0V2V21USVRKbm8/preview",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35815,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7330500",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35816,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/su9kxv1u",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35821,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7304953",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35822,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x5xct3b?wmode=transparent",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35827,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7582046",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35828,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/79b09d8410f54e578420f418d9a5067c",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35831,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/cgozwnzf",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35832,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/dloenossfaalppbp",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35833,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B5ebAEE3LubPM1RzbTVQbG1ZYTA/preview",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35834,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7305062",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35835,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x5xcybu?wmode=transparent",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35838,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/wscje0k7",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35839,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/16iAigbedEbFei0W8t9K44J7lfkRZ6mvJ/preview",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120105,
+          "episode_number": 6,
+          "name": "Demir Zincirler",
+          "description": "Kuşatma devam ederken Konstantinos, Apollodorus'u savaş çabalarına yardım etmediği için azarlar ve ikisi, imparatorluğun ilhak ettiği ulusların vatandaşlarına nasıl acımasız davranıldığı göz önüne alındığında, Balt-Rhein'e karşı savaşa girmenin doğru karar olup olmadığını tartışır. Geceleri Glalat, planlarını uygulamak için adamlarının ve askere alınan askerlerin hayatlarını umursamadan orduyu bir sonraki saldırıya hazırlar.",
+          "release_date": "2017-08-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fhSqntoWneWQHH9p4r230pHMY73.jpg",
+          "videos": [
+            {
+              "id": 703548,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/679b3b2db00f138db1d44be5",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 35851,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3049723",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35858,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3215688",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35873,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3185903",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35842,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B3LDSW2VS7qcamtWQ1gzcVJqY1k/preview",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35846,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7330501",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35847,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B4qIWgasVZbodEUzcTR3UFk2cDA/preview",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35852,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7317970",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35853,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x5y8alp?wmode=transparent",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35856,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/wrlxqa7h",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35859,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7582047",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35860,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/19c8f5495ada4fc6a1a1a65926966e1e",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35863,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/8ws6v4ga",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35864,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/srndmsoffkkqcbcn",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35865,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7324962",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35866,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x5yqegn?wmode=transparent",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35869,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/btas7htf",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35870,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1-9Y0dJGJLbMmYIYlpqQs8GcGFanLy217/preview",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35874,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7510459",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35877,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/k03wbatq",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120104,
+          "episode_number": 7,
+          "name": "Batan Şehir",
+          "description": "Phoinikē yanarken herkes dehşet içinde bakarken, Konstantinos şehri savunmak için asker toplamaya çalışır, ancak Apollodorus konuşan tüpleri sabote eder ve durumun gerçeğini görmediği için onu azarlar. Vatandaşları katliamdan kurtarmak için Apollodorus ve senato, Balt-Rhein'e teslim olmayı ve mesajı şehirdeki herkese iletmeyi kabul eder.",
+          "release_date": "2017-08-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7amU6QLkdiB9or6p2sq8d9hvQ02.jpg",
+          "videos": [
+            {
+              "id": 703549,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/679b3bb6b00f138db1d44be6",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 35889,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3049725",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35896,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3215690",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35911,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3185905",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35878,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B3LDSW2VS7qcalZSMkFwbXV0M0U/preview",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35884,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/5pj0dbg5",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35885,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B4qIWgasVZboRzlHbTF3N2pPdzA/preview",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35890,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7318397",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35891,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x5yan1u?wmode=transparent",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35894,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/93mkdllk",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35897,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7582048",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35898,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/87f19e3993ce464cbc9ec4d29c30bcf2",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35901,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/yj8etni7",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35902,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/eadqsemsppeooplo",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35903,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7324977",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35904,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x5yqf86?wmode=transparent",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35907,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/1ds2fg34",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35908,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/18AT_xl3dEPRjfGJR9RzeAwHYR2wWJM_I/preview",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35912,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7510460",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35915,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/nnnw7ue3",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120103,
+          "episode_number": 8,
+          "name": "samimiyet maskeli balo",
+          "description": "Mahmut ve Kyros, Venedik'in Phoiníkē'yi terk etmesinin sebebinin Balt-Rhein'i bir düşman haline getirmemek olduğunu öğrenir. Doge Lucio'yu anlaşmaya ihanet etmekle suçlarken, Lucio ittifaktaki boşluğu pragmatik bir şekilde açıklıyor ve ticaretleri için Phoiníkē'nin kristallerini kullanmaya devam etmek için imparatorlukla iş yapmaya istekli olduklarını açıklıyor.",
+          "release_date": "2017-09-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/c4ZNa1v2UCITMjt2MJF80QtY1QJ.jpg",
+          "videos": [
+            {
+              "id": 703550,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/679b3c20b00f138db1d44be7",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 35928,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3049227",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35936,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3215691",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35945,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3481637",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35954,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3185906",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35916,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B3LDSW2VS7qcQU1YNUVnOGFOdGM/preview",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35922,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/m677cmpn",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35923,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B4qIWgasVZboQU1NWDk3TG0xM0U/preview",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35929,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7331101",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35930,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/6d97f466276843dea351e3edae7609cd",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35931,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x5z3il5?wmode=transparent",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35934,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/oy5vfk1g",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35937,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7582049",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35938,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/0365ec3f6a7e410e8abb01e37af195fc",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35941,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/w6ncuwmd",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35942,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/mllteobmlrteaoel",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35946,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=8090858",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35948,
+              "player": "RAPIDVIDEO",
+              "url": "https://www.rapidvideo.com/embed/FWXML9SC9O",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35949,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/qeqbakcnrsatllct",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35950,
+              "player": "YOURUPLOAD",
+              "url": "https://www.yourupload.com/embed/YhE237V1mTJQ",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35951,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1w5CIf_9NCtMK6wcgKZi5Vixq5G2n-P5I/preview",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120102,
+          "episode_number": 9,
+          "name": "Kızıl Kaplan Sultanı",
+          "description": "Mahmut ve Kyros, Venedik'in Phoiníkē'yi terk etmesinin sebebinin Balt-Rhein'i bir düşman haline getirmemek olduğunu öğrenir. Doge Lucio'yu anlaşmaya ihanet etmekle suçlarken, Lucio ittifaktaki boşluğu pragmatik bir şekilde açıklıyor ve ticaretleri için Phoiníkē'nin kristallerini kullanmaya devam etmek için imparatorlukla iş yapmaya istekli olduklarını açıklıyor.",
+          "release_date": "2017-09-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bE0YeGfsZmrB7JGuycE95y7b0f1.jpg",
+          "videos": [
+            {
+              "id": 703551,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/679b3ca5b00f138db1d44be8",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 35970,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3215735",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35979,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3481640",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35990,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3185908",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35955,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B3LDSW2VS7qcLXpkay1aUjlnUlE/preview",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35961,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/wx7iofan",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35962,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B3tePNk4FjGxQUluZnV6TDg5bEk/preview",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35965,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7341590",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35966,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x601hff?wmode=transparent",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35971,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7582050",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35972,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/b18dd85d8bb347ae980a6e1bfa8b1aad",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35975,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/8c89jnw4",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35976,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/dtotflkeoccqdmrr",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35980,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=8090849",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35984,
+              "player": "RAPIDVIDEO",
+              "url": "https://www.rapidvideo.com/embed/FWXML91OMZ",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35985,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/nsrqossltmcedspl",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35986,
+              "player": "YOURUPLOAD",
+              "url": "https://www.yourupload.com/embed/jThAWy4kPYt1",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35987,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1yBQNo2xTobQNqcYEUYz4_ed3ngCzKHkS/preview",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35991,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7510462",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35994,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/jxk654r6",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120101,
+          "episode_number": 10,
+          "name": "Mehtaplı Güzelin Dansı",
+          "description": "Röd Orm'un Mızrak'taki varlığıyla Mahmut, dört stratokrasinin Türkiye muhalefetinin arkasında Louis'in olduğu sonucuna varır. Röd Orm'la savaşıp Mızrak Süvari'sinden kaçan Mahmut ve grubu, Süleyman, Beyazıt ve Ayşe ile karşılaşır. Süleyman, mevcut padişahlara karşı bir isyan başlatma ve onların yerine Büyük Türkiye federasyonunu destekleyecek yeni hükümdarlar getirme emrini Divan Mahmut'a iletir. Grup, Biçki Stratokrasi'nin başkentine gider ve onlar için aranan afişler olduğunu öğrenir.",
+          "release_date": "2017-09-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jnXfsIFXBReYVeeilRCk4qZAcZU.jpg",
+          "videos": [
+            {
+              "id": 703552,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/679b3cfdb00f138db1d44be9",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 36010,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3215736",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36019,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3481643",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36030,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3185910",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 35995,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1E0cPxByL-McRoRqqeGJoZQ-0gSvAIw5Q/preview",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36001,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/es0hlmph",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36002,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B4_wRlZ6cbp5cUxmbE9YNXp2RVk/preview",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36005,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7353117",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36006,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x60w5ae?wmode=transparent",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36011,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7582051",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36012,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/35c94abff437431ea1cf1131e7786856",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36015,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/2mii7qje",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36016,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/pfcdqnatdaqonlco",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36020,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=8090855",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36024,
+              "player": "RAPIDVIDEO",
+              "url": "https://www.rapidvideo.com/embed/FWXML7VALL",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36025,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/tftttbfctcqoqqpo",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36026,
+              "player": "YOURUPLOAD",
+              "url": "https://www.yourupload.com/embed/vR2aCgi8Xuf7",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36027,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/126apvNFxI6RMfUGotfXw4vtUonSOya8j/preview",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36031,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7510463",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36034,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/58geiumx",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120100,
+          "episode_number": 11,
+          "name": "Kılıçların Prensi",
+          "description": "Orhan ve Ayşe'nin düğünü ve devam eden suikast için hazırlıklar sürerken İsmail, yeni yöneticilerin tahtları onursuzca talep edeceği için kamuoyunun onayını alma konusunda endişelerini dile getiriyor.",
+          "release_date": "2017-09-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/hGLSQgLrAvbfl1VrXDQfnF6rXkb.jpg",
+          "videos": [
+            {
+              "id": 703553,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/679b3d55b00f138db1d44bea",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 36051,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3215737",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36060,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3481644",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36071,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3185911",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36035,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/153Y9zgONBwwUHvXr4JWpsCozDxEsBj1l/preview",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36041,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/0bem4neh",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36042,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B3tePNk4FjGxVEs0VmFVQ2p2Q3M/preview",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36043,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B4_wRlZ6cbp5RF81d2RCdDRya00/preview",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36046,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7363639",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36047,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x61n9li?wmode=transparent",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36052,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7582052",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36053,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/7cd81caeae7d4af8a43b4b7031994e35",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36056,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/dsbv726d",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36057,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/ebckdaqfecrlsbcl",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36061,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=8090850",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36065,
+              "player": "RAPIDVIDEO",
+              "url": "https://www.rapidvideo.com/embed/FWXML8SVYC",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36066,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/ldcqorafpooqfaeb",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36067,
+              "player": "YOURUPLOAD",
+              "url": "https://www.yourupload.com/embed/Q1a3dDTRf76J",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36068,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/17Mht4aMXmhfErBrYhvF6XPauDPGF_v-G/preview",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36072,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7510464",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36075,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/yf1uo6dg",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120099,
+          "episode_number": 12,
+          "name": "Olağandışı Kaya Oluşumunda Savaş",
+          "description": "Bir dizi geri dönüşte Louis, Balaban'ı Balt-Rhein ile güçlerini birleştirmeye ikna eder ve Balaban'ın uzun zamandır aradığı Büyük Türkiye'den bağımsızlık hayaline hitap eder. Hırslı kardeşi Beyazıt, vatanını korumak ve Balaban'ın karanlık bir yola girmesini önlemek için casuslarından biri olmak için Zağanos'a yaklaşır. Günümüzde Mahmut, divan'ın diğer saltanatların başkentlerini almayı planladığını, bu nedenle Türkiye'den takviye bekleyemeyeceklerini diğerlerine açıklar.",
+          "release_date": "2017-09-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/n2rXbE7kMuYe32NjCtegan412Og.jpg",
+          "videos": [
+            {
+              "id": 703554,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/679b3da6b00f138db1d44beb",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 36090,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3215739",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36099,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3481646",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36108,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3185913",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36076,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1aucBL2VlGdbyDaznob3tjVLC62aVEJHg/preview",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36082,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/2gynne6p",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36083,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B3tePNk4FjGxN1lMa3BvMnE2SGs/preview",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36084,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B4_wRlZ6cbp5Z3FZN2xFaTE4dzA/preview",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36085,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7373441",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36086,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x62kdyx?wmode=transparent",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36091,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7582053",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36092,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/b41c1720564f4ad8a63354fa436e0bcf",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36095,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/s48thhh7",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36096,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/pnfadopdkfkslrkn",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36100,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=8090853",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36103,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/rcmmeemqtcatsnpe",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36104,
+              "player": "YOURUPLOAD",
+              "url": "https://www.yourupload.com/embed/xpsfHkOXlh50",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36105,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1x_glmvgYdEufVX1elf-1zrQo_ry2jzQt/preview",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36109,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7510469",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36112,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/6oijdqkz",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120098,
+          "episode_number": 13,
+          "name": "İç Savaşın Sonuçlanması",
+          "description": "Balaban'ın yokluğunda Uzun, ordusunu Kılıç'ın güçlerini bitirmek için yönetir, ancak Mahmut ve grubu Balaban'ın kopmuş kafasıyla geri döner ve herkese yenildiğini göstermek için Uzun'u geri çeker. Uzun'u takip eden İsmail ve Beyazıt'ın silah birliği, silahları askerler arasında panik ve kafa karışıklığı yaratmak için kullanır ve İsmail'e babasını tek başına öldürme şansı verir. Fatma ve küçük oğlu Kemal, Mahmut ve arkadaşlarını yakaladıktan sonra. Fatma'nın ihanet için protokolün gerektirdiği şekilde idam edilip edilmeyeceğini tartışın.",
+          "release_date": "2017-10-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/3m1NYtZQlabjlcxjwfNrq7kKSg7.jpg",
+          "videos": [
+            {
+              "id": 703555,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/679b3e23b00f138db1d44bec",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 36129,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3215745",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36138,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3481649",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36147,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3185914",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36113,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1RLFC10OMz3YvTjUm35iJzMm9xUyFdun2/preview",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36119,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/pxh68zyb",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36120,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B60hWnUpCcgAZGNLQTAtQldmaTA/preview",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36121,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B4_wRlZ6cbp5Rl9NbF9JMkFHVU0/preview",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36124,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7383773",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36125,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x63j8ew?wmode=transparent",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36130,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7582054",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36131,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/4e971cb4142e4b559e66d11385301bbb",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36134,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/r7i9k5ok",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36135,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/pofmapcqrtqlafrp",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36139,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=8090851",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36142,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/qmmtpmttssktbpan",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36143,
+              "player": "YOURUPLOAD",
+              "url": "https://www.yourupload.com/embed/qFphm1504ejY",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36144,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1srSRrbIxEy2XNXcglNWMLUtkdCCAybNG/preview",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36148,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7510470",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36151,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/a2r5bnyh",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120097,
+          "episode_number": 14,
+          "name": "karavan kızı",
+          "description": "Ticari şehir devleti Argyros'a seyahat eden Mahmut, şehri yöneten \"Üç Büyük Tüccar\"dan biri olan Rohmonov'dan Rumelinin doğusu ile ticaret yapmak için izin almaya çalışır. Ancak Rohmonov, siyasete karışmak ticaret hukukuna aykırı olduğu için Mahmut'u reddediyor. Markette Mahmut ve co. Tüccar babası kısa süre önce vefat eden ve ticaret lisansını devralan genç bir kız olan Niki Al-Bahram, babasının eski çalışanları ve iş ortakları tarafından işten atılıyor.",
+          "release_date": "2017-10-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kXotd2dpL2ayLH90LrzPN0xz9vw.jpg",
+          "videos": [
+            {
+              "id": 703556,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/679b3e96b00f138db1d44bed",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 36168,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3215747",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36183,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3185940",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36152,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1zn8jfO3UoeCwwrnYmAE_M9lTM3uc8x8w/preview",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36158,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/ymbgkrxf",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36159,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B4_wRlZ6cbp5dWJOLVBCa2dSaVk/preview",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36162,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7395828",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36163,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x64gl2v?wmode=transparent",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36166,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/cdqnbktltlaoqerd",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36169,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7582055",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36170,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/be9cd951438145e1a32498b78f25f8b9",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36173,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/nxasy1ab",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36174,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/lmtcnsfnkeeqdeot",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36175,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7398123",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36176,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x64nzbg?wmode=transparent",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36179,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/wlogi1ok",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36180,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1AqvX7lEdzefwrq8Kt3hO4sDBO81jNZTl/preview",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36184,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7510471",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36187,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/3zuiizhh",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120096,
+          "episode_number": 15,
+          "name": "Kuzey Krallığı",
+          "description": "Deniz savaşının ardından Venedik ve Balt-Rhein buğday üzerinde bir barış anlaşması imzalar ve Venedik imparatorluk tutsaklarını serbest bırakır. Ancak imparatorluğun buğday sevkiyatı korsanlar tarafından saldırıya uğradı ve Amiral Lowe, Venedik'in korsanların kendi topraklarında özgürce dolaşmasını sağladığı sonucuna varıyor ve Venedik'in artık onları bir düşman olarak gördüğünü anlıyor.",
+          "release_date": "2017-10-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/77708Zqjd7kDaV3WwnQTSrMpMRy.jpg",
+          "videos": [
+            {
+              "id": 703557,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/679b3efcb00f138db1d44bee",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 36205,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3215749",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36214,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3481653",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36225,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3185942",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36188,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/13kI9c4DXxaQrTQEisp20EVF_hCWpZ5zE/preview",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36194,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/dm0nwphu",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36195,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B60hWnUpCcgAVWhLTXdxdDRFdnM/preview",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36196,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B4_wRlZ6cbp5YmZQUS1zc2VHWXc/preview",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36199,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7409241",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36200,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x65hea7?wmode=transparent",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36203,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/tobcstcfmmabpptl",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36206,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7582056",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36207,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/2704dd2692454196a4402cfc7ee4a1f9",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36210,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/o2b6qgus",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36211,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/mbdrtfoeptonnaln",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36215,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=8090857",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36219,
+              "player": "RAPIDVIDEO",
+              "url": "https://www.rapidvideo.com/embed/FWXMM551UC",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36220,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/ncrmtbqbcmolemmr",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36221,
+              "player": "YOURUPLOAD",
+              "url": "https://www.yourupload.com/embed/15sVxFT4qWpp",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36222,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1gLfRuPhFGOYlvlKqL50rRW8SUVZYuvKC/preview",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36226,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7510472",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36229,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/2pmcrii1",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120095,
+          "episode_number": 16,
+          "name": "Büyük Savaşın Başlangıcı",
+          "description": "Balt-Rhein'de, Louis, İmparator Goldbalt IX ve danışmanları, Danışman Duke Eisenstein ve General Corentin Pineau'nun protestolarına rağmen Centro şehir devletlerini devralmaya hazırlanıyor. Venedik, Centro'da rakip ulus olan L'isonlani Cumhuriyeti'nin, imparatorluğun donanma gemilerine korsan saldırılarından yardım ederek on bir Centro ulusu arasındaki gizli anlaşmayı ihlal ettiğini gördü.",
+          "release_date": "2017-10-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oDrJLeH2ATRyRTvkFyjzOjos4bN.jpg",
+          "videos": [
+            {
+              "id": 703558,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/679b3f6cb00f138db1d44bef",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 36246,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3215751",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36255,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3481655",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36266,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3185944",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36230,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1MT-qXRdzzp-BSbPu4uahPHiku4f1o3Mt/preview",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36236,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/3n3ckdto",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36237,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B3Cdy9cQe6QuUl8wQUdhTm1HOHc/preview",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36240,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7421710",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36241,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x66iisl?wmode=transparent",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36244,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/qlmpofaodonppmns",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36247,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7582057",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36248,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/50d0380c2dd0471dab6ac64b61104ae2",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36251,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/akr4kdfj",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36252,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/bsnobbadqsboebqk",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36256,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=8090852",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36260,
+              "player": "RAPIDVIDEO",
+              "url": "https://www.rapidvideo.com/embed/FWXMM6R0WH",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36261,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/fbfbsnqotmbblerq",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36262,
+              "player": "YOURUPLOAD",
+              "url": "https://www.yourupload.com/embed/yW385QOfsbqo",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36263,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1R9shdFbZwgxvWT1SuM5uva9w1ICq72zj/preview",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36267,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7510473",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36270,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/ayiawhlw",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120094,
+          "episode_number": 17,
+          "name": "Çiçeğin Planı",
+          "description": "Mahmut ve co. Cuore di Rumeliana bölgesine girdiklerinde, 34 şehir devletinin hepsinin Balt-Rhein'e karşı kendilerini savunmak için askeri güce sahip olmadığını ve görünüşte kayıtsız tavırlarından rahatsız olduklarını çabucak öğrenirler. Türk ordusunun topraklarından geçmesine izin vermek için Floransa Cumhuriyeti'nden izin almaları gerektiğini öğrenen grup, oraya yönelir ve Floransa'nın lideri ve Süleyman'ın eski sevgilisi Gonfaloniere Caterina di Rossi ile bir görüşme ayarlar.",
+          "release_date": "2017-11-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/avBvUo9L1NM9vJJFJrPfe38DAsA.jpg",
+          "videos": [
+            {
+              "id": 703559,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/679b3fd6b00f138db1d44bf0",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 36288,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3215752",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36297,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3481657",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36308,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3185951",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36271,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/13moLxW3Z9XPifxKaHHwlCOH3N2VDdzmR/preview",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36277,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/y00l5ynd",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36278,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/0B2dKENv7WOueTjhGMXZxbTRyTmM/preview",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36282,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7433851",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36283,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x67kmcx?wmode=transparent",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36286,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/arqamkmtottnorbr",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36289,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7582058",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36290,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/cecf18f0e405400180d1a6998d9507f4",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36293,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/auvunapf",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36294,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/qdpbfortdoqsaaps",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36298,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=8090856",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36302,
+              "player": "RAPIDVIDEO",
+              "url": "https://www.rapidvideo.com/embed/FWXMM6OVTP",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36303,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/npdfdnptnlmbrcba",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36304,
+              "player": "YOURUPLOAD",
+              "url": "https://www.yourupload.com/embed/6hE8HxadL5m1",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36305,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1sK17ehzmIqix1YSk2U9Z7CHYJAQgKSYh/preview",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36309,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7510474",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36312,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/ayxi8x1b",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120093,
+          "episode_number": 18,
+          "name": "yıldızlarda dilek",
+          "description": "Caterina, Mahmut ve arkadaşlarına açıklar. Cuore İttifakının tarafsız kalacağını ve Süleyman'ın Balt-Rhein'in Scoglio'ya karşı kazandığı zaferi ve eski Phoinikē İmparatorluğu topraklarını fethetme ilanını açıklamadan önce Türk ordusunun topraklarından geçmesini yasakladığını söyledi. Ancak, Cuore liderleri şüpheci ve Mahmut ve arkadaşlarına sahip. hapse atılır, ancak casusları çok geçmeden Türklerin sözlerini doğrulayan haberlerle gelir. Cuore Alliance'ın imparatorlukla savaşmak için donanımlı olmadığını bilen Caterina, Mahmut'un grubunu serbest bırakır ve onlara Türk ordusu için geçiş izni verir.",
+          "release_date": "2017-11-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/eAy1lQKPYuGYSqRqVUrxk4bZKzU.jpg",
+          "videos": [
+            {
+              "id": 703560,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/679b4036b00f138db1d44bf1",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 36330,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3215755",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36339,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3481658",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36350,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3185958",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36313,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1T9RjXJpmf-AfOWQrKdQjcWoMmy2oH5Qo/preview",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36319,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/5im3rc42",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36320,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1QPRntG3ZgjwfulUnHCLac9aDbctMgnWW/preview",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36324,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7446172",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36325,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x68o47r?wmode=transparent",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36328,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/ckfnrodqlmodtakt",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36331,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7582059",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36332,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/f887f70f67194fdda362bc01eeef1615",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36335,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/qvicoo56",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36336,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/afpmnaklfbrmrlkq",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36340,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=8090854",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36344,
+              "player": "RAPIDVIDEO",
+              "url": "https://www.rapidvideo.com/embed/FWXMM6WSVS",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36345,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/dscsmcqekkoskpnm",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36346,
+              "player": "YOURUPLOAD",
+              "url": "https://www.yourupload.com/embed/013d5RLDuh6t",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36347,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/18qdSTEXxZGXJre99kO0AAcMURMvOkcy5/preview",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36351,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7510475",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36354,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/r94jcg5x",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120092,
+          "episode_number": 19,
+          "name": "Cennet Kafesi",
+          "description": "Mahmut, Erbach, and co. Chielo'ya varın ve eyalet şehrinin lideri Carvajal ve sekreteri Cassandra ile tanışın. Balt-Rhein ordusu çevredeki bölgeleri yağmalarken, binlerce mülteci yardım ve barınak aramak için Chielo'ya (sağlık temelli güçlü bir sisteme sahip) geliyor. Bu onların gıda arzını olumsuz etkilemesine rağmen, Carvajal mültecilerin Chielo'yu korumak için Anti-İmparatorluk İttifakına girmesine izin verir ve katılmayı kabul eder.",
+          "release_date": "2017-12-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dOe26yl81ZJPe13PcdNxX5PMnBK.jpg",
+          "videos": [
+            {
+              "id": 703561,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/679b409ab00f138db1d44bf2",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 36371,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3215756",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36386,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3185964",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36355,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1s9N2Unl9xH4glBFCYZNNwzANcSWu9TWG/preview",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36361,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/wdsbsl36",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36362,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1OGKifx8u5BIiBJpp5GeQCU4SYhdjf8CX/preview",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36365,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7457540",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36366,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x69qdn7?wmode=transparent",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36369,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/camsfsnlncsntrer",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36372,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7582060",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36373,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/fdacf1e7b7b849a68876de7362f397a1",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36376,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/nq7dufnj",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36377,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/epasfdasppkommmo",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36378,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1dGpTefx9vM0TWeCMG-rjEtHEr5cZnDlk/preview",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36379,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x6lvjbf?wmode=transparent",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36382,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/qodrktolbmmqdoaq",
+              "extra": "PuzzleFansub",
+              "fansub": "PuzzleFansub",
+              "fansub_id": 247,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36383,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1pz1Opo95FkfZ6x-FmBAkm6jM0F5rQiHS/preview",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36387,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7510476",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36390,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/vr53khit",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120091,
+          "episode_number": 20,
+          "name": "Uzak Cenaze Çanları",
+          "description": "Kuşatma varlıkları olarak, Balt-Rhein ordusunun erzak sıkıntısı çekmesi, Pineau'nun daha savunmasız Türk ordusundan çalmak için büyük bir asker müfrezesi almasına neden olur. Çatışmalardan kaçınmak isteyen Halil ve ordusu, imparatorluk ordusunun çoğu piyadeden oluştuğu için iki günlük bir mesafeyi korumayı tercih ediyor. On gün boyunca çatışmadan başarılı bir şekilde kaçındıktan sonra, İmparatorluk ordusu Askeri Amir Lily Kokoschka'nın on birinci günde yürüyüş rotalarını kesmesinden ve orduya mesafe boşluğunu kapatmak için nehir sallarını kullanma emri vermesinden sonra onları yakalamayı başarır.",
+          "release_date": "2017-11-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xKgGNfBfMVeW8T3framu1NHqU7h.jpg",
+          "videos": [
+            {
+              "id": 703562,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/679b4108b00f138db1d44bf3",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 36408,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3215759",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36418,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3185970",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36391,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1C-c8m7Hp7c0P8o9kOn4vZrCmD4idi-uD/preview",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36397,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/7b8qpzbg",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36398,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1ksqlPAGn29Nnc3tdR1Ad1fnVDde75dQW/preview",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36402,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7469468",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36403,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x6ak2y9?wmode=transparent",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36406,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/bakslcrtbcstkofn",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36409,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7582061",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36410,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/c6e96ffa15b7489abbda456783b04a78",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36413,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/my15oxk2",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36414,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/spdnskfcadqnockt",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36415,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1CGRUYRo3VWhhihhLvestXpnNW7jpix-H/preview",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36421,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/lf5v4ikf",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120090,
+          "episode_number": 21,
+          "name": "İmparatorluğa Karşı İttifak",
+          "description": "Halil'in ölümü ve kalan Türk ordusunun dağılmasıyla Mahmut, Venedik'ten deniz yoluyla erzak göndermesini ister, ancak Balt-Rhein ile çalışan L'isonlani'nin Boccanegra donanması tarafından engellenirler. Ancak Venedik, L'isonlani üzerinde tam bir saltanat kazanmak ve rakip Boccanegra ailesini ortadan kaldırmak için imparatorluğa ihanet eden Doge Doria'nın yardımıyla ablukayı kazanır ve ablukasını kırar. Centro'yu imparatorluğun elinden kurtarmasına rağmen, mevsimsel olmayan büyük bir fırtına Venedik filosunu engeller ve Chielo'ya gitmelerini engeller.",
+          "release_date": "2017-12-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zTHLpI17XBttTCw83RvSVkKqwxa.jpg",
+          "videos": [
+            {
+              "id": 703563,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/679b4170b00f138db1d44bf4",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 36439,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3215762",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36422,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1v6L7YsXrOe7TBPXaGQXPdapwMFCzCpHX/preview",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36428,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/4rt2b1at",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36429,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1-DP4i2kllrXv3RpeVA0-_wWHQ2gcVOxF/preview",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36433,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7481170",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36434,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x6awrop?wmode=transparent",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36437,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/cnqqrsonmcokdpqk",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36440,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7582063",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36441,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/3950bb2077fc4d62a88f075d5c34e01b",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36444,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/y04efo9f",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36445,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/bdffbqcloospqotd",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120089,
+          "episode_number": 22,
+          "name": "Altın Kartal Peşinde",
+          "description": "Üstün sayılarına rağmen, Balt-Rhein ordusu Anti-İmparatorluk İttifakı tarafından kuşatılır ve sallarını ateşli oklarla yakar. Pineau, komutanlarına, kendilerini kuşatan düşmanlarıyla, geri kalanı da bir kuşatma içinde olan Türk ordusuyla uğraşmalarını emreder. Savaş alanını önceden seçen Anti-İmparatorluk İttifakı, bölgeyi kendi avantajlarına göre şekillendirdi ve İmparatorluk ordusunu hızla alt etti. El Toro paralı askerleri 13. tümen balistasını yok ettikten sonra, Mahmut ve ordusu daha savunmasız birlikleri ele geçirmek için kuşatmadan kaçarlar ve iki imparatorluk tümenini kırıp geçirirler.",
+          "release_date": "2017-12-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kC3Z1c8WAxiSvVhmcCTg3Ayn3q3.jpg",
+          "videos": [
+            {
+              "id": 703564,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/679b41f2b00f138db1d44bf5",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 36462,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3215774",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36446,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1Gt8osLRtGsOEi07QTyiRkp3P9F9ZkeSW/preview",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36452,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/9bi4eqbf",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36453,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1iqp3sNkjxnV2E8y2QaCymIHHxKizNNLA/preview",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36456,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7494859",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36457,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x6bcjdq?wmode=transparent",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36460,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/ksamtcrcfeosebod",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36463,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7582064",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36464,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/726182e592774aed870d83667a47df63",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36467,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/4064qro0",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36468,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/dbrmmmtfrqmbsemc",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120088,
+          "episode_number": 23,
+          "name": "Cennetin Sonu",
+          "description": "Savaş başladığında, Balt-Rhein ordusu, Lince paralı askerlerinin Espada'da büyük bir güce sahip olduğunu öğrenir ve bu da Lily'nin ilk hesaplamasıyla çelişir. Büyük ölçüde geride kalan İmparatorluk ordusu, Mahmut'un Pineau'nun bizzat kafasını kesmesiyle ve yüksek rütbeli personelin geri kalanının öldürülmesiyle hızla yok edildi. Ganimetler ve esirler müttefikler arasında paylaştırılırken, Mahmut ve Türk ordusu Chielo'ya dönmeden önce dinlenmeyi seçer. Bu arada Blanca ve Vasco, verilen savaşa rağmen Türkiye Stratokrasisine gitmeye devam eder.",
+          "release_date": "2017-12-15T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 563684,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64b82cf9b64b25167a11e805",
+              "extra": "RedGhost /",
+              "fansub": "RedGhost",
+              "fansub_id": 628,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 563687,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5202374",
+              "extra": "RedGhost /",
+              "fansub": "RedGhost",
+              "fansub_id": 628,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 36469,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1yySeIYfwc3T4qhYSysa7bPLXXIn-purc/preview",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36475,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/73fcsoym",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120087,
+          "episode_number": 24,
+          "name": "kışkırtma",
+          "description": "Anti-İmparatorluk İttifakı'nın ülke liderleri arasında yapılan bir toplantıda Doge Lucio, Balt-Rhein'a karşı en güçlü muhalif güç oldukları için diğerlerini Chielo'nun kontrolünü Türkiye'ye vermeye ikna eder. Divan'da askeri görevler dağıtılır ve Mahmut yeni Chielo eyaletinin valisi olarak atanır. Halil'in öğrencisi ve tadilattan sorumlu mimar olan Mimar Zeki Paşa, şehri nasıl imar edeceklerini tartışırken, inşa etmeyi planladıkları imarete yer açmak için fakir evlerinden kurtulmayı teklif eder.",
+          "release_date": "2017-12-22T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 703565,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/679ba0f7b00f138db1d44bf7",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 36491,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3215779",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36476,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1kmFYDK-vLS1BB9ZqwqKSegWp9qOy1Hg8/preview",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36480,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/mpvm68l5",
+              "extra": "Adonis Fansub",
+              "fansub": "Adonis Fansub",
+              "fansub_id": 843,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36481,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1ATs4foQRFXEDSp7vMYb2gJhjDvZYZATn/preview",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36485,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7521727",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36486,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x6c3xpx?wmode=transparent",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36489,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/dntdreorkefkcpnd",
+              "extra": "Akatsuki",
+              "fansub": "Akatsuki",
+              "fansub_id": 627,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36492,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7582066",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36493,
+              "player": "VIMPLE",
+              "url": "https://player.vimple.ru/iframe/81f7bc484f5f46bc8c339a6dcbdd38e5",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36496,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/el755jdv",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 36497,
+              "player": "STREAMANGO",
+              "url": "https://streamango.com/embed/rfmalrkmarbtamkb",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

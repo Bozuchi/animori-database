@@ -1,0 +1,3290 @@
+{
+  "id": 7249,
+  "name": "High School DxD",
+  "name_english": "High School DxD",
+  "name_romanji": "High School DxD",
+  "original_title": "ハイスクールD×D",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2012,
+  "release_date": "Fri Jan 06 2012 00:00:00 GMT+0000 (Coordinated Universal Time)",
+  "description": "Issei Hyodo, hayattaki tek dileği kendi haremine sahip olmak olan sıradan sapkın bir lise öğrencisidir, ancak çevredeki en şanssız adamlardan biri olması gerekir. Bir kızla ilk randevusuna çıkar ancak vahşice saldırıya uğrar ve öldürülür. Ancak kızın gerçekten de düşmüş bir melek olduğu ortaya çıkar. Hepsinden önemlisi, daha sonra muhteşem senpai'si tarafından bir şeytan olarak reenkarne edilir ve ona kendisinin de bir şeytan ve artık onun efendisi olduğunu söyler! Kesin olan bir şey var ki, huzurlu günleri artık sona erdi. Şeytanlar ve melekler arasındaki savaşta kim kazanacak?",
+  "poster": "https://image.tmdb.org/t/p/original/5a9vaaLDAZTYjgfWIw7ZYhL1m1A.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oF8PNdntjZ7DUrAvnhNPPNRi0q6.jpg",
+  "rating": 8.5,
+  "vote_count": 2069,
+  "genres": [
+    3,
+    1,
+    4,
+    2
+  ],
+  "tmdb_id": 45950,
+  "mal_id": 11617,
+  "anilist_id": 0,
+  "imdb_id": "tt2230051",
+  "season_count": 4,
+  "seasons": [
+    {
+      "id": 754,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 20,
+      "episodes": [
+        {
+          "id": 120257,
+          "episode_number": 1,
+          "name": "Bir Kız Arkadaşım Var!",
+          "description": "Issei Hyodo'nun yeni kız arkadaşıyla ilk randevusu, kız bir canavara dönüşüp onu karnından bıçakladığında kötü biter. Neyse ki, okulunun Occult Research Club'ın dolgun başkanı Rias tarafından kurtarıldı. Ve sonra işler gerçekten garipleşmeye başlar...",
+          "release_date": "2012-01-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/n6PE7WDBKP4AA1o3NXpGdiIWW90.jpg",
+          "videos": [
+            {
+              "id": 627244,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65d8ffa871b8322dba091065",
+              "extra": "BD",
+              "fansub": "BD",
+              "fansub_id": 743,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 636100,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6619a6c03706592e956b3c40",
+              "extra": "ShinigamiKhan - Prenses | https://animewho.com/ | https://discord.com/invite/kXkg3pY",
+              "fansub": "ShinigamiKhan",
+              "fansub_id": 742,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 627248,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5443411",
+              "extra": "BD",
+              "fansub": "BD",
+              "fansub_id": 743,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 636104,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5503160",
+              "extra": "ShinigamiKhan - Prenses | https://animewho.com/ | https://discord.com/invite/kXkg3pY",
+              "fansub": "ShinigamiKhan",
+              "fansub_id": 742,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120256,
+          "episode_number": 2,
+          "name": "İnsanlığı Bitirdim!",
+          "description": "Sürpriz! Okült Araştırma Kulübü'nün tüm üyeleri, tüm \"şeytani güç\" olayını anlamakta güçlük çeken yeni acemi Issei de dahil olmak üzere şeytandır. Belki de Fallen Angels ortaya çıkıp onu öldürmeye çalışmayı bırakırsa daha şanslı olabilirdi.",
+          "release_date": "2012-01-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/y7LiMwl4GqyRQyNR7vFLf1gonAu.jpg",
+          "videos": [
+            {
+              "id": 627249,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65d9010235424e1e68a23a3e",
+              "extra": "BD",
+              "fansub": "BD",
+              "fansub_id": 743,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 636105,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6619b1703706592e956b3c42",
+              "extra": "ShinigamiKhan - Prenses | https://animewho.com/ | https://discord.com/invite/kXkg3pY",
+              "fansub": "ShinigamiKhan",
+              "fansub_id": 742,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 627253,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5443419",
+              "extra": "BD",
+              "fansub": "BD",
+              "fansub_id": 743,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 636109,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5503169",
+              "extra": "ShinigamiKhan - Prenses | https://animewho.com/ | https://discord.com/invite/kXkg3pY",
+              "fansub": "ShinigamiKhan",
+              "fansub_id": 742,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120255,
+          "episode_number": 3,
+          "name": "Arkadaş Edindim!",
+          "description": "Issei, kasabanın kilisesine hizmet etmek için gelen bir Rahibe olan Asia Argento adında bir kızla tanışır ve arkadaş olur. Issei, bir parçası haline geldiği satranç oyunu ve onun ve diğer şeytanların oynadığı roller hakkında daha fazla şey öğrenir.",
+          "release_date": "2012-01-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/mQs4o0Lls5zaZMVGzhcUc06IeL.jpg",
+          "videos": [
+            {
+              "id": 627254,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65d9025535424e1e68a23a3f",
+              "extra": "BD",
+              "fansub": "BD",
+              "fansub_id": 743,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 636113,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6619ba193706592e956b3c43",
+              "extra": "ShinigamiKhan - Prenses | https://animewho.com/ | https://discord.com/invite/kXkg3pY",
+              "fansub": "ShinigamiKhan",
+              "fansub_id": 742,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 627258,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5443425",
+              "extra": "BD",
+              "fansub": "BD",
+              "fansub_id": 743,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 636117,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5503176",
+              "extra": "ShinigamiKhan - Prenses | https://animewho.com/ | https://discord.com/invite/kXkg3pY",
+              "fansub": "ShinigamiKhan",
+              "fansub_id": 742,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120254,
+          "episode_number": 4,
+          "name": "Arkadaşımı Kurtarıyorum!",
+          "description": "Issei güçlenmeye kararlıdır. Asya ile biraz daha zaman geçiriyor, ama bir kez daha koşulları onları ayrı tutuyor. Issei, piyonların çok güçlü olmasalar da diğer satranç taşları gibi hareket etmelerini sağlayan bir güce sahip olduklarını öğrenir.",
+          "release_date": "2012-01-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/icmGQ1i72QsiOvQQ4wXEBuDkmiL.jpg",
+          "videos": [
+            {
+              "id": 627259,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65d903c935424e1e68a23a40",
+              "extra": "BD",
+              "fansub": "BD",
+              "fansub_id": 743,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 636133,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6619cb013706592e956b3c47",
+              "extra": "ShinigamiKhan - Prenses | https://animewho.com/ | https://discord.com/invite/kXkg3pY",
+              "fansub": "ShinigamiKhan",
+              "fansub_id": 742,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 627263,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5443435",
+              "extra": "BD",
+              "fansub": "BD",
+              "fansub_id": 743,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 636137,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5503193",
+              "extra": "ShinigamiKhan - Prenses | https://animewho.com/ | https://discord.com/invite/kXkg3pY",
+              "fansub": "ShinigamiKhan",
+              "fansub_id": 742,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120253,
+          "episode_number": 5,
+          "name": "Eski Sevgilimi Yeneceğim!",
+          "description": "Kiba ve Koneko onu desteklerken, Issei kritik bir şekilde yaralanan Asya'yı kurtarmak için koşar. Diğerlerini geride bırakan Raynare ve Issei, ölümüne bir düelloya girerler! Başka bir yerde, Rias ve Akeno'nun eli Raynare'nin düşmüş melekleriyle dolu.",
+          "release_date": "2012-02-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kW5dbfBU5c7jhQkS1s0TE6kfOnm.jpg",
+          "videos": [
+            {
+              "id": 364765,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6313740daaa5e211ba383226",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 636138,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6619d15b3706592e956b3c48",
+              "extra": "ShinigamiKhan - Prenses | https://animewho.com/ | https://discord.com/invite/kXkg3pY",
+              "fansub": "ShinigamiKhan",
+              "fansub_id": 742,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 94508,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4261801",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 636142,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5503207",
+              "extra": "ShinigamiKhan - Prenses | https://animewho.com/ | https://discord.com/invite/kXkg3pY",
+              "fansub": "ShinigamiKhan",
+              "fansub_id": 742,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 94507,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/1LbaqV6bVbFeYD8",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 94502,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x7zyq31",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 94501,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-6d3w0j5001ar.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 94506,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/kmnvzxperwmo.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 94498,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/69foo9mb58uw",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120252,
+          "episode_number": 6,
+          "name": "Bir Şeytan Olarak Çalışıyorum!",
+          "description": "Kulüp odasında yaşamakta olan Asya için yeni yaşam düzenlemeleri yapılır. Bu arada, Issei, fiziksel uygunluğunu geliştirmek için Rias ile yeni bir eğitim rejimine başlar. Asia, Issei'nin sınıfına yerleştirildiği okula gitmeye başlar.",
+          "release_date": "2012-02-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2VE70GSq5yrz4HvzAbapvvZZDMf.jpg",
+          "videos": [
+            {
+              "id": 364771,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631374fcaaa5e211ba383229",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 636144,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6619d5353706592e956b3c49",
+              "extra": "ShinigamiKhan - Prenses | https://animewho.com/ | https://discord.com/invite/kXkg3pY",
+              "fansub": "ShinigamiKhan",
+              "fansub_id": 742,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 94518,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4261804",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 636148,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5503212",
+              "extra": "ShinigamiKhan - Prenses | https://animewho.com/ | https://discord.com/invite/kXkg3pY",
+              "fansub": "ShinigamiKhan",
+              "fansub_id": 742,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 94517,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/96J02XaB6ehalmJ",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 94516,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/qgf6eb7mud2r.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 94512,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-rjugn1ha1sin.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 94509,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/1t0o0xlyxqw7",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120251,
+          "episode_number": 7,
+          "name": "Bir Tanıdık Geliyor!",
+          "description": "Rias, Issei ve Asya'nın hizmetçi ailelere sahip olma zamanının geldiğine karar verir. Okulun öğrenci konseyi kulüp odasını ziyaret eder ve Issei onların başka bir şeytan fraksiyonu olduklarını öğrenir. İki grup, yeni tanıdıklar arasından ilk seçimi kimin yapacağını görmek için rekabet eder.",
+          "release_date": "2012-02-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/apUUUMyHJEQUuv27lThX1bDIJau.jpg",
+          "videos": [
+            {
+              "id": 522495,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6463c2ddda9db4a7c519896b",
+              "extra": "ShinigamiKhan - Prenses",
+              "fansub": "ShinigamiKhan",
+              "fansub_id": 742,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 364775,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631375d0aaa5e211ba38322d",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 94528,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4261807",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 522498,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5142244",
+              "extra": "ShinigamiKhan - Prenses",
+              "fansub": "ShinigamiKhan",
+              "fansub_id": 742,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 94527,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/yVRwb7wboqTwJz",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 94522,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-afy5ix7t0rdj.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 94526,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/kj5exuf4dtmw.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 94519,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/hd0wa8tcad10",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120250,
+          "episode_number": 8,
+          "name": "Bir Dövüş Seçiyorum!",
+          "description": "Issei, Rias ile evleneceğini hayal eder ve bu da onu iç ejderhasıyla temasa geçirmesine neden olur. Asya, Issei ile daha derin bir ilişkiye sahip olma arzusunu itiraf eder.",
+          "release_date": "2012-02-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pOqwhBlydJpV6kUkg5qOFkkiV8e.jpg",
+          "videos": [
+            {
+              "id": 522540,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6463c89eda9db4a7c519896c",
+              "extra": "ShinigamiKhan - Prenses",
+              "fansub": "ShinigamiKhan",
+              "fansub_id": 742,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 364778,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631376d4aaa5e211ba383230",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 94538,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4261813",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 522543,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5142265",
+              "extra": "ShinigamiKhan - Prenses",
+              "fansub": "ShinigamiKhan",
+              "fansub_id": 742,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 94537,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/OqazQQglaKiZ2Mz",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 94532,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-dpzrz2ymxfif.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 94536,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/uqa5f9ja1o0f.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 94529,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/3gx226lqtg42",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120249,
+          "episode_number": 9,
+          "name": "Eğitimime Başladım!",
+          "description": "Issei ve Asia, yaklaşmakta olan Reyting Oyununa hazırlanmak için diğer hane halkı üyeleriyle birlikte özel bir eğitim kampından geçiyor. Issei, kendi özel özelliğinin ne olduğunu anlamaya çalışır. Rias, şeytanlar ve Gremory ailesi hakkında daha fazla bilgi veriyor.",
+          "release_date": "2012-03-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wkUfTENeQnZsOOhYPPEIOQdZxd7.jpg",
+          "videos": [
+            {
+              "id": 522614,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6463cf52da9db4a7c519896d",
+              "extra": "ShinigamiKhan - Prenses",
+              "fansub": "ShinigamiKhan",
+              "fansub_id": 742,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 364758,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6313725faaa5e211ba383221",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 94419,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4261767",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 522617,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5142330",
+              "extra": "ShinigamiKhan - Prenses",
+              "fansub": "ShinigamiKhan",
+              "fansub_id": 742,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 94418,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/6a6k6BDYqju9MeV",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 94412,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-706rz2zyuz87.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 94413,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x7zyosc",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 94417,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/lkwj8huwxpeb.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 94409,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/ltnfx66mbw5j",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120248,
+          "episode_number": 10,
+          "name": "Hesaplaşma Başlıyor!",
+          "description": "Derecelendirme Oyununun başlama zamanı gelir ve yarışmacılar alternatif bir boyutta bir savaş alanına taşınır. Asya ve Rias üslerinde kalırken, Issei ve Koneko muhalefetle karşı karşıya ve Issei yeni imza hamlesini ortaya koyuyor.",
+          "release_date": "2012-03-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vUzZJY3r4jTPK8gyrYGsyILCdoS.jpg",
+          "videos": [
+            {
+              "id": 522654,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6463d563da9db4a7c519896e",
+              "extra": "ShinigamiKhan - Prenses",
+              "fansub": "ShinigamiKhan",
+              "fansub_id": 742,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 364781,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631377d2aaa5e211ba383233",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 94548,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4261818",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 522657,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5142361",
+              "extra": "ShinigamiKhan - Prenses",
+              "fansub": "ShinigamiKhan",
+              "fansub_id": 742,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 94547,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/VOBe7g0P2etKMOG",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 94546,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/9ja927yzcw3f.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 94542,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-qwidz8pcmy6e.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 94539,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/hi9hrdrpzy8i",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120247,
+          "episode_number": 11,
+          "name": "Alkışlanan Savaş Devam Ediyor!",
+          "description": "Kiba, Riser'ın şövalyelerinden Karlamine'e karşı savaşta yerleşirken, Akeno kraliçesi Yubelluna ile savaşır. Bu arada Issei, Ravel'i ve kalan diğer parçaları alır. Rias, Riser'a karşı ya hep ya hiç gizlice saldırır.",
+          "release_date": "2012-03-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1jo0n3TAZEiA3kEiicxoEni6JA6.jpg",
+          "videos": [
+            {
+              "id": 522674,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6463db46da9db4a7c519896f",
+              "extra": "ShinigamiKhan - Prenses",
+              "fansub": "ShinigamiKhan",
+              "fansub_id": 742,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 364784,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631378a9aaa5e211ba383236",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 94558,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4261825",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 522677,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5142387",
+              "extra": "ShinigamiKhan - Prenses",
+              "fansub": "ShinigamiKhan",
+              "fansub_id": 742,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 94557,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/zb4vBzl1dDHYwkw",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 94552,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-k4ev7a0xibqf.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 94556,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/lp8rpoeml266.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 94549,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/wa8ol2quobmb",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120246,
+          "episode_number": 12,
+          "name": "Sözümü Tutmak İçin Buradayım!",
+          "description": "Issei uyandığında savaşın bittiğini ve kaybettiğini öğrenir. Rias ve diğerleri, Riser ile nişanı şerefine bir partideler, ancak Grayfia ve Asya'nın biraz yardımıyla, Issei onu kırmaya, Rias'ı kurtarmaya ve onunla birlikte eve getirmeye karar verir!",
+          "release_date": "2012-03-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9wamgE5hRoBYqC0kMCKqvlmle0w.jpg",
+          "videos": [
+            {
+              "id": 522685,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6463e0e6da9db4a7c5198970",
+              "extra": "ShinigamiKhan - Prenses",
+              "fansub": "ShinigamiKhan",
+              "fansub_id": 742,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 364787,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631379a2aaa5e211ba383239",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 522688,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5142395",
+              "extra": "ShinigamiKhan - Prenses",
+              "fansub": "ShinigamiKhan",
+              "fansub_id": 742,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 94567,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/3Pj2GVZmZ8sdzDR",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 94562,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-nu3akyw0mcjy.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 94566,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/v9zh314opneq.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 94559,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/vdkqnygdum3n",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 220121,
+          "episode_number": 13,
+          "name": "Özel Bölüm 1 - Güneşlenmeye Gitmek",
+          "description": "\"High School DxD\" 1. sezonun özel bölümüdür.",
+          "release_date": "2012-03-20T08:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/mangacix/1733614527095.jpg",
+          "videos": [
+            {
+              "id": 699805,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6776942cc88ed221efe349f8",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            },
+            {
+              "id": 696920,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5751284",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            },
+            {
+              "id": 696921,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5751285",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            },
+            {
+              "id": 696926,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1X76Whlwp1zRcNWGoAYq2hlJDazp0VvcY/preview",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            },
+            {
+              "id": 696928,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/8629907753607",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 220122,
+          "episode_number": 14,
+          "name": "Özel Bölüm 2 - Akeno-senpai ile Özel Antrenman",
+          "description": "\"High School DxD\" 1. sezonun özel bölümüdür.",
+          "release_date": "2012-03-20T14:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/mangacix/1733614542751.jpg",
+          "videos": [
+            {
+              "id": 699806,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67769474c88ed221efe349f9",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            },
+            {
+              "id": 696938,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5751292",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            },
+            {
+              "id": 696939,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5751293",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            },
+            {
+              "id": 696944,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/15Xbpf07aIjJPS4SGjuiarhX4BHsk_W65/preview",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            },
+            {
+              "id": 696946,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/8630075067015",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 220123,
+          "episode_number": 15,
+          "name": "Özel Bölüm 3 - Koneko, Biraz Cesur... Miyav",
+          "description": "\"High School DxD\" 1. sezonun özel bölümüdür.",
+          "release_date": "2012-03-20T14:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/mangacix/1733614542751.jpg",
+          "videos": [
+            {
+              "id": 699807,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/677694c0c88ed221efe349fa",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            },
+            {
+              "id": 696956,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5751294",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            },
+            {
+              "id": 696957,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5751295",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            },
+            {
+              "id": 696962,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1xKt6P3M2JXCXRBQ2EfCi1-8NaJikadHB/preview",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            },
+            {
+              "id": 696964,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/8630116289159",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 220124,
+          "episode_number": 16,
+          "name": "Özel Bölüm 4 - Dress Break, Ortaya Çıkış Hikâyesi mi?",
+          "description": "\"High School DxD\" 1. sezonun özel bölümüdür.",
+          "release_date": "2012-03-20T14:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/mangacix/1733614542751.jpg",
+          "videos": [
+            {
+              "id": 699808,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67769505c88ed221efe349fb",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            },
+            {
+              "id": 696974,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5751300",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            },
+            {
+              "id": 696975,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5751301",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            },
+            {
+              "id": 696980,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1wliJ4JlUEekoVS7OoMWnYGMIHM8ZiagV/preview",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            },
+            {
+              "id": 696981,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/8630157773447",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 220125,
+          "episode_number": 17,
+          "name": "Özel Bölüm 5 - Udon Yapıyoruz!",
+          "description": "\"High School DxD\" 1. sezonun özel bölümüdür.",
+          "release_date": "2012-03-20T14:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/mangacix/1733614542751.jpg",
+          "videos": [
+            {
+              "id": 699809,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6776954cc88ed221efe349fc",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            },
+            {
+              "id": 696992,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5751302",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            },
+            {
+              "id": 696993,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5751303",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            },
+            {
+              "id": 696998,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1D4OTcMBodNCuMGEI7h3fdH2Jo7WvDXr5/preview",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            },
+            {
+              "id": 696999,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/8630197684871",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 220126,
+          "episode_number": 18,
+          "name": "Özel Bölüm 6 - Asia Dönüşüyor!",
+          "description": "\"High School DxD\" 1. sezonun özel bölümüdür.",
+          "release_date": "2012-03-20T14:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/mangacix/1733614542751.jpg",
+          "videos": [
+            {
+              "id": 699810,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67769591c88ed221efe349fd",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            },
+            {
+              "id": 697010,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5751308",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            },
+            {
+              "id": 697011,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5751309",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            },
+            {
+              "id": 697016,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1M6mX8dU4ZWYx1JPna71GZuMns_yF0S8u/preview",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            },
+            {
+              "id": 697017,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/8630239038087",
+              "extra": "Çevirmen: _ceyiz43_ | Redaktör: Lia | Kodlayıcı: Lia",
+              "fansub": "_ceyiz43_",
+              "fansub_id": 744,
+              "quality": "blu-ray",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 234983,
+          "episode_number": 19,
+          "name": "OVA 1 - Göğüsler Çiçek Açsın!",
+          "description": "",
+          "release_date": "2020-02-12T22:22:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 717506,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68159e7cf8146af586df9d39",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 717507,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/67vl7p3lvdau",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 234984,
+          "episode_number": 20,
+          "name": "OVA 2 - Göğüs Arıyorum!",
+          "description": "",
+          "release_date": "2020-11-11T22:22:00.000Z",
+          "poster": "",
+          "videos": []
+        }
+      ]
+    },
+    {
+      "id": 755,
+      "season_number": 2,
+      "name": "New",
+      "episode_count": 13,
+      "episodes": [
+        {
+          "id": 120269,
+          "episode_number": 1,
+          "name": "Bir Başka Rahatsız Edici Önsezi!",
+          "description": "Issei, Rias ve Asia'yla birlikte evinde yaşar ve Kiba, Issei'nin evinde kutsal bir kılıcın resmini gördüğünde tuhaf davranmaya başlar.",
+          "release_date": "2013-07-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/mrFC2SVhGp92wCPeRfwqzedYzLY.jpg",
+          "videos": [
+            {
+              "id": 374650,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631fb4eaaaa5e211ba38448f",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 744957,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/698dc72fa09ea30ace483994",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 39264,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=1793454",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39479,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=1793491",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39263,
+              "player": "RUTUBE",
+              "url": "https://www.rutube.ru/play/embed/1d72862ec4f804f2fef21a9dbdba48da?autoStart=false&wmode=transparent",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39265,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7484277",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39270,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/bhnwncnj",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39474,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/18yUKxyfhwtydOsu0pIvAP03-2skdVf2m/preview",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39478,
+              "player": "RUTUBE",
+              "url": "https://www.rutube.ru/play/embed/e4a3bd7cff224f7816d6a58c7c62aa38?autoStart=false&wmode=transparent",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39480,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7484289",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39485,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/m3nfoz3y",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39486,
+              "player": "STREAMANGO",
+              "url": "https://streamcherry.com/embed/dfsnkoesscmsdkca",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 214589,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/7bnkpk7qwo7c.html",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 744958,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/02ewwnw8slox",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 744959,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-izxtad6268zv.html",
+              "extra": "Hikigaya Fansub",
+              "fansub": "Hikigaya Fansub",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120268,
+          "episode_number": 2,
+          "name": "Kutsal Kılıç Burada!",
+          "description": "Issei, beyaz ejderha hakkında bir uyarı daha alır ve Kutsal Kılıçları taşıyan kilise takipçileri şeytanları ziyaret eder.",
+          "release_date": "2013-07-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/reQrIKSEuLCrbqVFwyDlwddYkox.jpg",
+          "videos": [
+            {
+              "id": 374652,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631fb5d3aaa5e211ba384490",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 39282,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=1793469",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39279,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1SPfSj3tSsx7LTo22Bl8vdALa4fbYcw0o/preview",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39281,
+              "player": "RUTUBE",
+              "url": "https://www.rutube.ru/play/embed/8ebe2ddf5ca48413b5f7840f04247387?autoStart=false&wmode=transparent",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39283,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7484278",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39288,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/4bkfuw8a",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39289,
+              "player": "STREAMANGO",
+              "url": "https://streamcherry.com/embed/lpqtfnpopofetbtf",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 214593,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/74yf4bes2yr0.html",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120267,
+          "episode_number": 3,
+          "name": "Kutsal Kılıcı Yok Edeceğim!",
+          "description": "Issei ve Kiba, Xenovia ve Irina ile savaşır ve Issei, kavgalarının sonuçlarıyla başa çıkmaya çalışır.",
+          "release_date": "2013-07-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/iduWJsUDGrfGLTPJTfHA8RDi7f8.jpg",
+          "videos": [
+            {
+              "id": 374655,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631fb735aaa5e211ba384492",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 39317,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=1793482",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39316,
+              "player": "RUTUBE",
+              "url": "https://www.rutube.ru/play/embed/73d3008f260a94e391e55f7f1210d065?autoStart=false&wmode=transparent",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39318,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7484279",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39324,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/6mgzyabf",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 214603,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/w9gc83yubxb9.html",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120266,
+          "episode_number": 4,
+          "name": "Güçlü Bir Düşman Ortaya Çıktı!",
+          "description": "Issei ve diğerleri, Freed'e karşı savaşmak için kiliseyle işbirliği yapar, ancak daha da büyük bir düşman ortaya çıkar.",
+          "release_date": "2013-07-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/yxgKRNOuhaKHkBtdbAJ0x6Vxx9H.jpg",
+          "videos": [
+            {
+              "id": 374656,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631fb7f3aaa5e211ba384493",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 39339,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=1793484",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39333,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1fjOkVd05vTN_NaofhdFSMmuWa3ZFg5Uq/preview",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39338,
+              "player": "RUTUBE",
+              "url": "https://www.rutube.ru/play/embed/9962e3b87251bd0225b04e73eb3c14d4?autoStart=false&wmode=transparent",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39340,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7484280",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39346,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/whczqoje",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39347,
+              "player": "STREAMANGO",
+              "url": "https://streamcherry.com/embed/oepnsdnopfonslpo",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 214607,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/hbun846gkgff.html",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120265,
+          "episode_number": 5,
+          "name": "Kuoh Akademisi'nde Kararlı Savaş!",
+          "description": "Kuoh Akademisi öğrencileri, okullarını ve kasabalarını savunmak için Kokabiel ve yardakçılarıyla savaşır.",
+          "release_date": "2013-08-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/15TDQov8V541wFlaIhnuDRU8GRx.jpg",
+          "videos": [
+            {
+              "id": 374657,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631fb8f3aaa5e211ba384494",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 39359,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=1793487",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39358,
+              "player": "RUTUBE",
+              "url": "https://www.rutube.ru/play/embed/b77acf80bb2b31ce2d36eee94ee09331?autoStart=false&wmode=transparent",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39360,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7484281",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39365,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/to0miboo",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 214611,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/xgwvfkpu005z.html",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120264,
+          "episode_number": 6,
+          "name": "Gitmek! Okült Araştırma Kulübü!",
+          "description": "Okült Araştırma Kulübü, Kokabiel ile savaşır ve melekler, düşmüş melekler ve şeytanlar arasındaki güç mücadelesi hakkında bazı şok edici gerçekleri öğrenir.",
+          "release_date": "2013-08-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ug4fK0Jgu2ae64CyOaFMmgQmOkm.jpg",
+          "videos": [
+            {
+              "id": 374658,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631fb9c2aaa5e211ba384495",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 39376,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=1793490",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39371,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1Z2nhE4Fnhqrb8014DV8lMzMt2A7hnOu1/preview",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39375,
+              "player": "RUTUBE",
+              "url": "https://www.rutube.ru/play/embed/0634be64e1ca8378d040036b92f030e8?autoStart=false&wmode=transparent",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39377,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7484282",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39380,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/f63mkaoy",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39381,
+              "player": "STREAMANGO",
+              "url": "https://streamcherry.com/embed/fplcacsqkpcaclks",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 214615,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/sbrlmhjqbejm.html",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120263,
+          "episode_number": 7,
+          "name": "Yaz! Banyo takımları! Zor durumdayım!",
+          "description": "Okült Araştırma Kulübü, öğrenci konseyine Kokabiel'e yardımlarından dolayı teşekkür etmek için havuzun temizliğini üstlenir ve Issei'nin başı büyük belaya girer.",
+          "release_date": "2013-08-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/t5PZWacd7aYYeT35D3sj75pRfKD.jpg",
+          "videos": [
+            {
+              "id": 711536,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67de1b7d47b862535fe060b4",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "720p",
+              "language": "tr"
+            },
+            {
+              "id": 711537,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/m64hetqlqmas",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "720p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120262,
+          "episode_number": 8,
+          "name": "Açık Ev Başlıyor!",
+          "description": "Issei, İkiz Gökyüzü Ejderhaları ile Rias ve Sona arasındaki düşmanlık hakkında daha fazla şey öğrenir ve Sona, Open House'da sorunlu aile üyeleriyle uğraşmak zorundadır.",
+          "release_date": "2013-08-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/6J3NqJ7RKl5c7Zm6qF6bXUUGKPg.jpg",
+          "videos": [
+            {
+              "id": 374662,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631fbb06aaa5e211ba384497",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 39408,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=1787732",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39403,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1tikA2nIh1JpotD2vMGqOrnWYyar78ohL/preview",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39407,
+              "player": "RUTUBE",
+              "url": "https://www.rutube.ru/play/embed/cdf1f699e25f57436111e5eb8b700e50?autoStart=false&wmode=transparent",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39409,
+              "player": "TUNE",
+              "url": "https://tune.pk/player/embed_player.php?vid=7484284",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39414,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/zcxpwp9i",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39415,
+              "player": "STREAMANGO",
+              "url": "https://streamcherry.com/embed/ffebereptrldoobk",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 214623,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/83kt72prlta7.html",
+              "extra": "AniSekai",
+              "fansub": "AniSekai",
+              "fansub_id": 198,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120261,
+          "episode_number": 9,
+          "name": "Bir Junior'ım Var!",
+          "description": "Gremory Evi'nin diğer Piskoposu serbest bırakılır ve Akeno, Issei'yi yeni bir tanıdıkla tanışmaya götürür.",
+          "release_date": "2013-09-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sQJlI9PqHCy836OPzPhmBcQdHOC.jpg",
+          "videos": [
+            {
+              "id": 547559,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64999964dbea6eaa65690107",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 547562,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5181588",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120260,
+          "episode_number": 10,
+          "name": "Çeşitli Üç Yollu Kilitlenmeler!",
+          "description": "Issei, Meleklerin Şefi Michael ile tanışır ve Liderler Zirvesi'ne giden günlerde Gasper'ı eğitmeye devam eder.",
+          "release_date": "2013-09-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/91PRKotW1cCyw9nrPoN8oUcn8l1.jpg",
+          "videos": [
+            {
+              "id": 547566,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64999be8dbea6eaa65690109",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 547569,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5181590",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120259,
+          "episode_number": 11,
+          "name": "Liderler Zirvesi Başlıyor!",
+          "description": "Liderler Zirvesi sırasında zaman durur ve Issei ve diğerleri yeni bir düşmanla tanışır.",
+          "release_date": "2013-09-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/mMXWM5cp06zOQ7TsMNs4K0vGQbj.jpg",
+          "videos": [
+            {
+              "id": 582905,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64de07a7f1108ecc9a709d55",
+              "extra": "Yuripp3, Supuhara, Hawkon, DirtyDragon ",
+              "fansub": "Yuripp3, Supuhara, Hawkon, D",
+              "fansub_id": 746,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 582907,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5228871",
+              "extra": "Yuripp3, Supuhara, Hawkon, DirtyDragon ",
+              "fansub": "Yuripp3, Supuhara, Hawkon, D",
+              "fansub_id": 746,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120258,
+          "episode_number": 12,
+          "name": "İkiz Gökyüzü Ejderhalarının Çatışması!",
+          "description": "Issei, Vali ile savaşır ve İkiz Gökyüzü Ejderhaları karşı karşıya gelirken gücünün gizli derinliklerini keşfeder.",
+          "release_date": "2013-09-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/owM0EM9QLEJqsIMM8E6KX00CZrz.jpg",
+          "videos": [
+            {
+              "id": 641642,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6637d2421bdfd50af63f7304",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 547729,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5181834",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 290949,
+          "episode_number": 13,
+          "name": "OVA - Göğüsleri Sarıp Sarmalıyorum!",
+          "description": "",
+          "release_date": "2015-03-10T20:59:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zUN9B1gCGMVhDACWStJrNnlEKVR.jpg",
+          "videos": [
+            {
+              "id": 763032,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6aaae32ef342e3f8d7f9058f",
+              "extra": "Hikigaya-kun",
+              "fansub": "Hikigaya-kun",
+              "fansub_id": 747,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 763033,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/x6s6j1axdr3p",
+              "extra": "Hikigaya-kun",
+              "fansub": "Hikigaya-kun",
+              "fansub_id": 747,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 763034,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-me4h8uwm2ywp.html",
+              "extra": "Hikigaya-kun",
+              "fansub": "Hikigaya-kun",
+              "fansub_id": 747,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1231,
+      "season_number": 3,
+      "name": "BorN",
+      "episode_count": 13,
+      "episodes": [
+        {
+          "id": 130714,
+          "episode_number": 1,
+          "name": "Yaz tatili! Yeraltı dünyasına!",
+          "description": "Hyodo Issei için yaz tatili hızla yaklaşıyor, ancak Rias'ın yeraltı dünyasına yaptığı ziyarette ona eşlik edeceğini öğrendiğinde tüm planları askıya alındı! Yeni bir macera başlamak üzere ve tüm bu süre boyunca Koneko kendini oynamıyor.",
+          "release_date": "2015-04-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/u3AdEaYh1aNrGkWWbYIhFNbSJvt.jpg",
+          "videos": [
+            {
+              "id": 605852,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/655ba32930e908b3e8e71fa6",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 699949,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6778317ac88ed221efe34a28",
+              "extra": "YukiKaze / http://www.hikigayafansub.tv",
+              "fansub": "YukiKaze",
+              "fansub_id": 750,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 605858,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5330421",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 671566,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5635705",
+              "extra": "YukiKaze / http://www.hikigayafansub.tv",
+              "fansub": "YukiKaze",
+              "fansub_id": 750,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 130713,
+          "episode_number": 2,
+          "name": "genç şeytanlar toplanıyor",
+          "description": "Issei ve diğerleri, her bir becerilerini geliştirmek için eğitimlerine başlarlar. Güçlü insanlar Kaos Tugayı'na karşı savaşmak için toplanırken, etraflarında her şey oluyor. Bütün genç şeytanlar tek bir yerde toplanır.",
+          "release_date": "2015-04-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/nEUDwZu5eLvzxbDtMceG6GLQSO5.jpg",
+          "videos": [
+            {
+              "id": 605859,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/655ba4bdda9c8055855488b0",
+              "extra": "HikigayaSubs",
+              "fansub": "HikigayaSubs",
+              "fansub_id": 49,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 701714,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/678a5985f6df680eca125b22",
+              "extra": "Chitanda / libero1i / http://www.anisekai.com",
+              "fansub": "Chitanda",
+              "fansub_id": 749,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 605865,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5330428",
+              "extra": "HikigayaSubs",
+              "fansub": "HikigayaSubs",
+              "fansub_id": 49,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 671569,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5635709",
+              "extra": "Chitanda / libero1i / http://www.anisekai.com",
+              "fansub": "Chitanda",
+              "fansub_id": 749,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 130712,
+          "episode_number": 3,
+          "name": "kedi ve ejderha",
+          "description": "Koneko'nun kız kardeşi Kuroka, kız kardeşini Rias Gremory'den alıp götürüyor gibi görünüyor. Issei ve Rias, bunun olmasını engellemek için onun peşinden gider. Aynı zamanda, büyük toplantıda mitolojiler arasındaki bu ittifaklara karşı çıkan bir figür ortaya çıkar.",
+          "release_date": "2015-04-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wz1bwfAo0yZLeyXOR6TClWFg4HJ.jpg",
+          "videos": [
+            {
+              "id": 605866,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/655ba647da9c8055855488b1",
+              "extra": "HikigayaSubs",
+              "fansub": "HikigayaSubs",
+              "fansub_id": 49,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 701715,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/678a59e0f6df680eca125b23",
+              "extra": "Chitanda / libero1i / http://www.anisekai.com",
+              "fansub": "Chitanda",
+              "fansub_id": 749,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 701717,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/678a5aa7f6df680eca125b25",
+              "extra": "Chitanda / libero1i / http://www.anisekai.com",
+              "fansub": "Chitanda",
+              "fansub_id": 749,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 605872,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5330460",
+              "extra": "HikigayaSubs",
+              "fansub": "HikigayaSubs",
+              "fansub_id": 49,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 671572,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5635712",
+              "extra": "Chitanda / libero1i / http://www.anisekai.com",
+              "fansub": "Chitanda",
+              "fansub_id": 749,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 130711,
+          "episode_number": 4,
+          "name": "Durdurma, Başlayın!",
+          "description": "Loki mühürlendi, ama sadece geçici olarak. Odin güçlü çekiç Mjolnir'i almak için Kuzey'e dönerken, Rias ve ailesi onu tutmaya çalışan gönüllüler arasındadır. Herkes ayağa kalkıp bir tanrıya karşı savaşabilecek mi?",
+          "release_date": "2015-04-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vssG6A1I9t1UyXHBAdAxPn6jpHa.jpg",
+          "videos": [
+            {
+              "id": 605873,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/655ba7c130e908b3e8e71fa7",
+              "extra": "HikigayaSubs",
+              "fansub": "HikigayaSubs",
+              "fansub_id": 49,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 701716,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/678a5a4bf6df680eca125b24",
+              "extra": "Chitanda / libero1i / http://www.anisekai.com",
+              "fansub": "Chitanda",
+              "fansub_id": 749,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 701718,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/678a5b01f6df680eca125b26",
+              "extra": "Chitanda / libero1i / http://www.anisekai.com",
+              "fansub": "Chitanda",
+              "fansub_id": 749,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 605879,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5330489",
+              "extra": "HikigayaSubs",
+              "fansub": "HikigayaSubs",
+              "fansub_id": 49,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 671575,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5635715",
+              "extra": "Chitanda / libero1i / http://www.anisekai.com",
+              "fansub": "Chitanda",
+              "fansub_id": 749,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 130710,
+          "episode_number": 5,
+          "name": "Yaz Tatilinin Son Günü!",
+          "description": "Loki'nin yenilmesiyle Rias ve ailesi, yazın son günlerini tamamlamak için insan dünyasına geri döner. Issei'yi bir yığın ev ödevi beklemektedir, ancak onun yerine Akeno ile randevuya çıkar! Akeno, korkunç geçmişini unutmayı umarak kendini Issei'ye atar.",
+          "release_date": "2015-05-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pPF2rjJCxOOSvcCiswmgbPDO3DY.jpg",
+          "videos": [
+            {
+              "id": 711137,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67d8829947b862535fe06034",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 711539,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67de1c0647b862535fe060b5",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "720p",
+              "language": "tr"
+            },
+            {
+              "id": 711138,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/oq51n3y9zqf9",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 711540,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/277rz6g1aejr",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "720p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 130709,
+          "episode_number": 6,
+          "name": "İkinci Trimester Başladı!",
+          "description": "Issei ve diğerleri okula ve günlük hayatlarına geri döndüler. Irina ve Rossweisse, Issei'nin evinde yaşamaya başlar ve spor festivali hızla yaklaşmaktadır. Tüm bunlar olurken, Diodora Astaroth Asya'nın karşısına çıkar ve ona evlenme mi teklif eder?!",
+          "release_date": "2015-05-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/i8E9Dj15xp3Vtsshl9buVwlJNGx.jpg",
+          "videos": [
+            {
+              "id": 605887,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/655baac030e908b3e8e71fa9",
+              "extra": "HikigayaSubs",
+              "fansub": "HikigayaSubs",
+              "fansub_id": 49,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 605894,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/655bac1cda9c8055855488b2",
+              "extra": "HikigayaSubs",
+              "fansub": "HikigayaSubs",
+              "fansub_id": 49,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 605893,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5330525",
+              "extra": "HikigayaSubs",
+              "fansub": "HikigayaSubs",
+              "fansub_id": 49,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 605900,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5330542",
+              "extra": "HikigayaSubs",
+              "fansub": "HikigayaSubs",
+              "fansub_id": 49,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 130708,
+          "episode_number": 7,
+          "name": "Savaştan Önceki Gece!",
+          "description": "Diodora, Reyting Oyunu yaklaştıkça tatlı Asya'yı rahatsız etmeye devam ediyor. Arka planda karanlık şeyler oluşurken Issei ve diğerleri savaşa hazırlanır. Gremory ailesi sahaya atladığında kendilerini beklenmedik bir savaşın içinde bulurlar!",
+          "release_date": "2015-05-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jHjnzqIffQrQVCenZo7GC5tkQnM.jpg",
+          "videos": [
+            {
+              "id": 605901,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/655bad6b30e908b3e8e71faa",
+              "extra": "YukiKaze / http://www.hikigayafansub.tv",
+              "fansub": "YukiKaze",
+              "fansub_id": 750,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 711542,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67de1c8f47b862535fe060b6",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 671578,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5635719",
+              "extra": "YukiKaze / http://www.hikigayafansub.tv",
+              "fansub": "YukiKaze",
+              "fansub_id": 750,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 711543,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/f7dn42gytotq",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 130707,
+          "episode_number": 8,
+          "name": "Asya'yı Kurtaracağız!",
+          "description": "Asya'yı kurtarmak için tapınağa doğru koşan Rias ve ailesi, Kaos Tugayı'nın savaşını yetişkinlere bırakır. Orada Diodora, Reyting Oyununu kendi küçük oyunuyla değiştirir. Asya'yı geri almak için güçlerine karşı savaşmaları gerekiyor!",
+          "release_date": "2015-05-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bUA2IkMEMxPCX2spsQx7yayFpfF.jpg",
+          "videos": [
+            {
+              "id": 524865,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6468e810da9db4a7c5198a72",
+              "extra": "Chitanda / libero1i",
+              "fansub": "Chitanda",
+              "fansub_id": 749,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 699950,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67783202c88ed221efe34a29",
+              "extra": "YukiKaze / http://www.hikigayafansub.tv",
+              "fansub": "YukiKaze",
+              "fansub_id": 750,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 524868,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5146900",
+              "extra": "Chitanda / libero1i",
+              "fansub": "Chitanda",
+              "fansub_id": 749,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 671581,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5635722",
+              "extra": "YukiKaze / http://www.hikigayafansub.tv",
+              "fansub": "YukiKaze",
+              "fansub_id": 750,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 130706,
+          "episode_number": 9,
+          "name": "Ejderha Ejderhası",
+          "description": "Asya'nın ani ölümü Issei'yi şaşırtıyor ve Juggernaut Drive'ı tetiklemesine neden oluyor. Rias ve ailesi onu kurtarmaya çalışırken Azazel ve Sir Zechs, Kaos Tugayı'nın lideriyle tanışır! Organizasyonu yaratma konusundaki gerçek niyeti nedir?",
+          "release_date": "2015-05-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/raP7PAAu5xrwQLOfNPEPAqy93Wt.jpg",
+          "videos": [
+            {
+              "id": 524872,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6468ea0dda9db4a7c5198a73",
+              "extra": "Chitanda / libero1i",
+              "fansub": "Chitanda",
+              "fansub_id": 749,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 699951,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6778325cc88ed221efe34a2a",
+              "extra": "YukiKaze / http://www.hikigayafansub.tv",
+              "fansub": "YukiKaze",
+              "fansub_id": 750,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 524875,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5146903",
+              "extra": "Chitanda / libero1i",
+              "fansub": "Chitanda",
+              "fansub_id": 749,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 671584,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5635725",
+              "extra": "YukiKaze / http://www.hikigayafansub.tv",
+              "fansub": "YukiKaze",
+              "fansub_id": 750,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 130705,
+          "episode_number": 10,
+          "name": "Okült Kulüp Kaybolur mu?!",
+          "description": "Asia, eksik dönüşümün ardından içindeki ejderhayı iyileştirerek Issei'yi kurtarır. Sonunda hepsi eve döner ve huzurlu günlerinin tadını çıkarırlar. Loki, Issei ile başarısız olduktan sonra, kötü kavrayışını Rias'a çevirir.",
+          "release_date": "2015-06-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/AhUyMGAOaq40heDG1aJWNAto2mB.jpg",
+          "videos": [
+            {
+              "id": 524881,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6468eb83da9db4a7c5198a74",
+              "extra": "Chitanda / libero1i",
+              "fansub": "Chitanda",
+              "fansub_id": 749,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 699952,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/677832b1c88ed221efe34a2b",
+              "extra": "YukiKaze / http://www.hikigayafansub.tv",
+              "fansub": "YukiKaze",
+              "fansub_id": 750,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 524884,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5146909",
+              "extra": "Chitanda / libero1i",
+              "fansub": "Chitanda",
+              "fansub_id": 749,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 671587,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5635729",
+              "extra": "YukiKaze / http://www.hikigayafansub.tv",
+              "fansub": "YukiKaze",
+              "fansub_id": 750,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 130704,
+          "episode_number": 11,
+          "name": "Dövüşeceğim!",
+          "description": "Issei, kendi içinde yeraltı dünyasına karşı bir eylem olan Vali'yi yardım için görmeye gider. Arthur ve Kutsal Kraliyet Kılıcı Collbrande'nin yardımıyla, Rias ailesi Boyut Boşluğuna gider. Orada Rias ile tanışırlar ve onu geri getirmeye çalışırlar.",
+          "release_date": "2015-06-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/muOFOhASjqg2QwVrp6kj2XMcxw4.jpg",
+          "videos": [
+            {
+              "id": 524888,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6468ed1fda9db4a7c5198a75",
+              "extra": "Chitanda / libero1i",
+              "fansub": "Chitanda",
+              "fansub_id": 749,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 699953,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67783307c88ed221efe34a2c",
+              "extra": "YukiKaze / http://www.hikigayafansub.tv",
+              "fansub": "YukiKaze",
+              "fansub_id": 750,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 524891,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5146912",
+              "extra": "Chitanda / libero1i",
+              "fansub": "Chitanda",
+              "fansub_id": 749,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 671590,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5635733",
+              "extra": "YukiKaze / http://www.hikigayafansub.tv",
+              "fansub": "YukiKaze",
+              "fansub_id": 750,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 130703,
+          "episode_number": 12,
+          "name": "Her Zaman, Her Zaman!",
+          "description": "Issei, Rias'a karşı savaşarak onu durdurmak zorundadır. Issei onu saldırılarla yumruklarken, onunla paylaştığı çeşitli anıları hatırlıyor. Rias'ı böyle bir durumda bırakamayan, hatırladığı asil ve onurlu Rias'ı geri getirmek için ileri doğru koşar.",
+          "release_date": "2015-06-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jjLg5jBpw8hVzm8PrLMWkQ72L.jpg",
+          "videos": [
+            {
+              "id": 524893,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6468eed7da9db4a7c5198a76",
+              "extra": "Chitanda / libero1i",
+              "fansub": "Chitanda",
+              "fansub_id": 749,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 699954,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67783360c88ed221efe34a2d",
+              "extra": "YukiKaze / http://www.hikigayafansub.tv",
+              "fansub": "YukiKaze",
+              "fansub_id": 750,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 524896,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5146929",
+              "extra": "Chitanda / libero1i",
+              "fansub": "Chitanda",
+              "fansub_id": 749,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 671593,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5635737",
+              "extra": "YukiKaze / http://www.hikigayafansub.tv",
+              "fansub": "YukiKaze",
+              "fansub_id": 750,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 290950,
+          "episode_number": 13,
+          "name": "OVA - Anka Kuşu'nu Sakın Diriltme",
+          "description": "",
+          "release_date": "2015-12-09T20:59:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 763056,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6aaaea78d5ce148fbbb33a37",
+              "extra": "Raigeki & farklyzz",
+              "fansub": "Raigeki",
+              "fansub_id": 751,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 763057,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/oefbgsmbnhyb",
+              "extra": "Raigeki & farklyzz",
+              "fansub": "Raigeki",
+              "fansub_id": 751,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 763058,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-yfhlf515nts1.html",
+              "extra": "Raigeki & farklyzz",
+              "fansub": "Raigeki",
+              "fansub_id": 751,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1232,
+      "season_number": 4,
+      "name": "Hero",
+      "episode_count": 13,
+      "episodes": [
+        {
+          "id": 212201,
+          "episode_number": 1,
+          "name": "Spor Salonunun Arkasındaki Kutsallık",
+          "description": "",
+          "release_date": "2018-04-10T02:18:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xhhWtaH6IokbAkmFX0K2nuaxapP.jpg",
+          "videos": [
+            {
+              "id": 652098,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66783ece3dbf15700611a118",
+              "extra": "OmC43 - farklyzz / www.puzzlesubs.com",
+              "fansub": "OmC43",
+              "fansub_id": 752,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 652101,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5573390",
+              "extra": "OmC43 - farklyzz / www.puzzlesubs.com",
+              "fansub": "OmC43",
+              "fansub_id": 752,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 212202,
+          "episode_number": 2,
+          "name": "Doğru, Kyoto'ya Gidelim",
+          "description": "",
+          "release_date": "2018-04-17T12:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ccwC7NDg8oXCyuIFHMFBMIWJrmW.jpg",
+          "videos": [
+            {
+              "id": 652102,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66783fd23dbf15700611a119",
+              "extra": "OmC43 - farklyzz / www.puzzlesubs.com",
+              "fansub": "OmC43",
+              "fansub_id": 752,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 652105,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5573399",
+              "extra": "OmC43 - farklyzz / www.puzzlesubs.com",
+              "fansub": "OmC43",
+              "fansub_id": 752,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 130717,
+          "episode_number": 3,
+          "name": "Okul Gezisi, Ani Bir Saldırı",
+          "description": "Issei ve sınıf arkadaşları Kyoto'ya varırlar. Issei, Kyoto'nun tadını sonuna kadar çıkarmaya hazır olsa da, güçlenmek her zaman aklındadır. Ancak, Kyoto'da endişelenecek tek şey eğitim değil gibi görünüyor. Güçlü gruplar hareket etmeye başladı.",
+          "release_date": "2018-04-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/etQj5HUd6wy0qbWMlOet9FSmdm8.jpg",
+          "videos": [
+            {
+              "id": 378165,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6324fe99a74d029266fd3e7e",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 264976,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4730524",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 130718,
+          "episode_number": 4,
+          "name": "Kahramanlar Partisi",
+          "description": "Issei ve diğerleri, Kyoto'da tamamen eğlenirken bile eğitimlerine devam ediyor. Issei'nin grubu, gizemli dokuz kuyruklu tilkiyle bir kez daha karşılaşır ve bu sefer, onlardan youkai'nin annesini Kaos Tugayı'ndan kurtarmasına yardım etmeleri için yalvarır.",
+          "release_date": "2018-05-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/yPm1dUw66oD4Ybg6NKEUq6WDCGM.jpg",
+          "videos": [
+            {
+              "id": 378164,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6324fdf5a74d029266fd3e7d",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 264983,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4730534",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 130719,
+          "episode_number": 5,
+          "name": "Hesaplaşma! Gremory Ailesi, Kyoto'daki Kahraman Fraksiyonuna Karşı",
+          "description": "Kahraman Fraksiyonu geldi ve Cao Cao, Azazel ve Kızıl Ejderha İmparatoru ile bıçakları çaprazlamak istiyor. Böylesine korkunç bir durumda, Issei tüm arkadaşlarının hayatta kalabilmesi için hızlı bir şekilde yanıt vermelidir. Hiç \"potansiyelini\" bulup serbest bırakacak mı?",
+          "release_date": "2018-05-07T18:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lmvJ2L3yp538ljz2aWhJntcj4XU.jpg",
+          "videos": [
+            {
+              "id": 378163,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6324fd98a74d029266fd3e7c",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 264990,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4730544",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 130720,
+          "episode_number": 6,
+          "name": "Potansiyelim Açığa Çıktı!",
+          "description": "Issei ve ekibi, Nijo Kalesi'nde Cao Cao ile buluşur ve orada Kunou'nun annesini bulur. İki grup arasında bir hesaplaşma başlar. Köşeye sıkışan Issei, sonunda içsel potansiyelini açığa çıkarmayı ve kendisine ait olanı aramayı kendi içinde bulur.",
+          "release_date": "2018-05-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/gNQS2b2Pbjes1P4htn8v24Gprvr.jpg",
+          "videos": [
+            {
+              "id": 378162,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6324fd4ca74d029266fd3e7b",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 264999,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4730552",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 130721,
+          "episode_number": 7,
+          "name": "Okul Gezisi Pandemonium'da",
+          "description": "Issei, sevgili Başkanını Kyoto'daki savaşın sıcağına çağırır. Önünde süzülürken, Elsha göğüslerini dürtmek için kulağına fısıldıyor. Düğmeye basmak, potansiyel gücünü serbest bırakır ve Issei, Cao Cao'ya bir kez daha meydan okur.",
+          "release_date": "2018-05-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qZVVo1fVCoBpGRJZDuLbbw8zwIn.jpg",
+          "videos": [
+            {
+              "id": 378156,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6324fc6aa74d029266fd3e7a",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 265006,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4730561",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 130722,
+          "episode_number": 8,
+          "name": "Okul Festivaline Hazırlanıyoruz!",
+          "description": "Kaos Tugayı, Kyoto'daki gösterilerinden bu yana sakinleşti, bu yüzden Issei ve diğerleri artık başka konulara odaklanmalı. Ne de olsa, oynanacak kahraman gösterileri, hazırlanmak için bir okul festivali ve Sairaorg ile her zaman ortaya çıkan Reyting Oyunu var...",
+          "release_date": "2018-05-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/5CGqzXGn5ubVb6V5WU3M73yvWwJ.jpg",
+          "videos": [
+            {
+              "id": 378155,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6324fbcba74d029266fd3e79",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 265013,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4730569",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 130723,
+          "episode_number": 9,
+          "name": "Bir Kızın Kalbi Karmaşıktır",
+          "description": "Gremory ailesi şimdi yaklaşan Reyting Oyunu için tam eğitim modunda. Ancak, Issei'nin tabağında başka birçok şey var. Hazırlanması gereken bir okul festivali ve üstesinden gelinmesi gereken bir basın toplantısı var. Üstüne üstlük Rias garip mi davranıyor?!",
+          "release_date": "2018-06-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/6REb80EVtKcwhicuzek4ZSDyaPL.jpg",
+          "videos": [
+            {
+              "id": 378154,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6324fb7da74d029266fd3e78",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 265020,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4730577",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 130724,
+          "episode_number": 10,
+          "name": "En Güçlü Gençlerin Karar Veren Savaşı Başlıyor!",
+          "description": "Reyting Oyunu başlamak üzere, ancak Issei'nin çözmesi gereken şeyler var. Rias'ın neden böyle davrandığına dair bir tahmin formüle etti, ama buna inanmaya cesaret ediyor mu? Kızları ona cesaret veriyor. Ve sonunda, ekipleri savaş alanına adım atar.",
+          "release_date": "2018-06-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/hnTY2uKv7ObCuZjTjqWoY3Z6Y7e.jpg",
+          "videos": [
+            {
+              "id": 378153,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6324fb32a74d029266fd3e77",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 265031,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4730589",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 130725,
+          "episode_number": 11,
+          "name": "Rias Gremory'nin Bir Aile Üyesi Olarak",
+          "description": "Reyting Oyunundaki rekabet kızışıyor. Team Gremory soğukkanlılığını ve üstünlüğünü koruyabilecek mi, yoksa Issei bir striptiz şovuyla geri mi alınacak?",
+          "release_date": "2018-06-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/h9cl71IijjT2DNFXf8vinIuaqg.jpg",
+          "videos": [
+            {
+              "id": 378152,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6324fae6a74d029266fd3e76",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 265038,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4730601",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 130726,
+          "episode_number": 12,
+          "name": "Adam Adama Karşı",
+          "description": "Sairaorg sonunda sahneye çıktı ve Kiba, Xenovia ve Rossweisse ona karşı takım oldu. Savaş hızlı ve acımasızdır ve Issei sonunda patlama noktasına ulaşır. Duygularını kanalize edebilecek mi? Yoksa kırgınlık mı devralacak?",
+          "release_date": "2018-06-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/42pfCCQSCxN24vxiXWqqr2xKzdB.jpg",
+          "videos": [
+            {
+              "id": 378151,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6324fa91a74d029266fd3e75",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 265046,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4730618",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 173502,
+          "episode_number": 13,
+          "name": "Okul Festivalinin Aslan Yüreği",
+          "description": "Issei, Kutsal Teçhizatının lanetini temizler ve bir Kraliçe parçası olarak bir kez daha ayağa kalkar. Sairaorg ve Issei, kazananın her şeyi aldığı son bir yumruk dövüşünde galip gelir. Bundan sonra endişelenmesi gereken tek şey Rias'a yapacağı itiraftır...",
+          "release_date": "2018-07-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dSQWXi54cdPq112WhgYbcwf051.jpg",
+          "videos": [
+            {
+              "id": 378150,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6324fa43a74d029266fd3e74",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 265053,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4730633",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

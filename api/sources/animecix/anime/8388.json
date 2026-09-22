@@ -1,0 +1,755 @@
+{
+  "id": 8388,
+  "name": "Ryuuou no Oshigoto!",
+  "name_english": "The Ryuo's Work is Never Done!",
+  "name_romanji": "The Ryuo's Work is Never Done!",
+  "original_title": "りゅうおうのおしごと！",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2018,
+  "release_date": "2018-01-08 00:00:00",
+  "description": "Hikaye bir shogi ustası olan gencin etrafında geçiyor.Bir gün evinde dokuz yaşındaki bir kız görür ve bu kız gencin öğrencisi olmak ister. Bu olaydan sonra tuhaf olaylar örgüsü başlar.",
+  "poster": "https://image.tmdb.org/t/p/original/lbHY3xFcffIQddcldG9WaEVWWhn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ih3YTbswHiOkbK4dxt8F4AuExw8.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    4
+  ],
+  "tmdb_id": 76141,
+  "mal_id": 35905,
+  "anilist_id": 0,
+  "imdb_id": "tt8271972",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 1836,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 143107,
+          "episode_number": 1,
+          "name": "Bir Öğrenci Fırtınalar İçinde",
+          "description": "",
+          "release_date": "2021-12-13T12:43:38.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aKTIZxUHGxekUf8NSlOrbJzSmDf.jpg",
+          "videos": [
+            {
+              "id": 384917,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632eddcadd931ae1fbad6e46",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 204016,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4542268",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204015,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/r3vq8ArazjTb62Y",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204011,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-7yl2o4opuq5n.html",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204014,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/runzkvsl3qo5.html",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 143108,
+          "episode_number": 2,
+          "name": "Bir Öğrenci ile Günler",
+          "description": "",
+          "release_date": "2018-01-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zVLx1cxf2pCOSfnQeR8JpGrBpbH.jpg",
+          "videos": [
+            {
+              "id": 384913,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632edd29dd931ae1fbad6e45",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 204024,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4542276",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204023,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/ezK0YZMZlofYVQx",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204019,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-9zn98pj9kswv.html",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204022,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/u5mz8m9i8njx.html",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 143109,
+          "episode_number": 3,
+          "name": "Eğitim Grubu Giriş Sınavı",
+          "description": "",
+          "release_date": "2018-01-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/rFvxGNRx8N5Kr0MX1WJk1Gei8fx.jpg",
+          "videos": [
+            {
+              "id": 384911,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632edc1fdd931ae1fbad6e44",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 204032,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4542283",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204031,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/r4Yg1DLVZwH3GK",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204027,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-2avkefnx65yo.html",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204030,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/9tp3fvphk9ix.html",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 143110,
+          "episode_number": 4,
+          "name": "diğer yapay zeka",
+          "description": "",
+          "release_date": "2018-01-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oGIm7moV923Tw7yt6NRjXqOPS7f.jpg",
+          "videos": [
+            {
+              "id": 384910,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632edb86dd931ae1fbad6e43",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 204039,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4542287",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204038,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/b2pl9l90KmuK0J",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204034,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-cohmri01vo0o.html",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204037,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/i9umua1z1ght.html",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 143111,
+          "episode_number": 5,
+          "name": "Sanatsal Kusursuz",
+          "description": "",
+          "release_date": "2018-02-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4JoYqjpujLTrccBxwPbyntNtSbU.jpg",
+          "videos": [
+            {
+              "id": 384909,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632edae1dd931ae1fbad6e42",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 204046,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4542293",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204045,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/x39evq4Oy2fkAer",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204041,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-up4vdsezgs4n.html",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204044,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/ighrzu5kt7wa.html",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 143112,
+          "episode_number": 6,
+          "name": "Her alanda başarılı",
+          "description": "",
+          "release_date": "2018-02-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/njeKhjzep1XP4Oe0RaxXeP9sYTX.jpg",
+          "videos": [
+            {
+              "id": 384908,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632eda5edd931ae1fbad6e41",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 204053,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4542305",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204052,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/QkProomVOwC0xP4",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204048,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-213kojw8bcaz.html",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204051,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/39smce9eczrw.html",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 143113,
+          "episode_number": 7,
+          "name": "Sevgili 10 Yaşındaki Ben",
+          "description": "",
+          "release_date": "2018-02-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/p0btA1bckWlhCqNuvx7yaiR1V72.jpg",
+          "videos": [
+            {
+              "id": 384906,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632ed9d8dd931ae1fbad6e40",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 204060,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4542318",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204059,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/ZbQJ6wAYGvHqX4W",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204055,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-cm936gkateqb.html",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204058,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/jt0pn3spaopf.html",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 143114,
+          "episode_number": 8,
+          "name": "İlk Turnuva",
+          "description": "",
+          "release_date": "2018-02-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wFWq4uDB4PahuQmMc1T3kuH2R5e.jpg",
+          "videos": [
+            {
+              "id": 384903,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632ed93bdd931ae1fbad6e3f",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 204067,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4542333",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204066,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/jVvQdwrk19Iz8gY",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204062,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-12uguhdgqkmx.html",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204065,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/9wtvgytjzmqj.html",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 143115,
+          "episode_number": 9,
+          "name": "1 Ağustos",
+          "description": "",
+          "release_date": "2018-03-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pEbIe66b178lE02AePDuj7mHRKN.jpg",
+          "videos": [
+            {
+              "id": 384900,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632ed8a0dd931ae1fbad6e3e",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 204074,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4542350",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204073,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/waRY0rLqqvco2q",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204069,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-shnumutrfocg.html",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204072,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/k0wef95bpnrn.html",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 143116,
+          "episode_number": 10,
+          "name": "dönen ejderha",
+          "description": "",
+          "release_date": "2018-03-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8rOrgppvug12lpfn5rcepti3bmk.jpg",
+          "videos": [
+            {
+              "id": 384896,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632ed620dd931ae1fbad6e3d",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 204081,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4542365",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204080,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/7Dy3PMboAMiAz8l",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204076,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-uxdzhsv3ail5.html",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204079,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/8hvb5r5yft5q.html",
+              "extra": "ShimazuSubs // Momo-Berhann",
+              "fansub": "ShimazuSubs",
+              "fansub_id": 844,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 143117,
+          "episode_number": 11,
+          "name": "En iyi dileklerimle",
+          "description": "",
+          "release_date": "2018-03-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/c7Yf3yVkm4KK3SztQbqBA1n1KOw.jpg",
+          "videos": [
+            {
+              "id": 384895,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632ed579dd931ae1fbad6e3c",
+              "extra": "Momo & Berhann /  http://neptuneofanime.blogspot.com.tr",
+              "fansub": "Momo",
+              "fansub_id": 2567,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 204088,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4542381",
+              "extra": "Momo & Berhann /  http://neptuneofanime.blogspot.com.tr",
+              "fansub": "Momo",
+              "fansub_id": 2567,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204087,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/4qvRo2KPR3uKw8Y",
+              "extra": "Momo & Berhann /  http://neptuneofanime.blogspot.com.tr",
+              "fansub": "Momo",
+              "fansub_id": 2567,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204083,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-pwza9ttk9yaz.html",
+              "extra": "Momo & Berhann /  http://neptuneofanime.blogspot.com.tr",
+              "fansub": "Momo",
+              "fansub_id": 2567,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204086,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/thp0dnkoe9ra.html",
+              "extra": "Momo & Berhann /  http://neptuneofanime.blogspot.com.tr",
+              "fansub": "Momo",
+              "fansub_id": 2567,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 143118,
+          "episode_number": 12,
+          "name": "Nihai Karar",
+          "description": "",
+          "release_date": "2018-03-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8gdSK5jKtnZ3t9qsVmQLP7AkJ4V.jpg",
+          "videos": [
+            {
+              "id": 384891,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632ed4ffdd931ae1fbad6e3b",
+              "extra": "Momo & Berhann /  http://neptuneofanime.blogspot.com.tr",
+              "fansub": "Momo",
+              "fansub_id": 2567,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 204095,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4542393",
+              "extra": "Momo & Berhann /  http://neptuneofanime.blogspot.com.tr",
+              "fansub": "Momo",
+              "fansub_id": 2567,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204094,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/wgKg3gklqBFJ3yA",
+              "extra": "Momo & Berhann /  http://neptuneofanime.blogspot.com.tr",
+              "fansub": "Momo",
+              "fansub_id": 2567,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204090,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-ia1nwxf3xjbv.html",
+              "extra": "Momo & Berhann /  http://neptuneofanime.blogspot.com.tr",
+              "fansub": "Momo",
+              "fansub_id": 2567,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204093,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/otuih0yolgnh.html",
+              "extra": "Momo & Berhann /  http://neptuneofanime.blogspot.com.tr",
+              "fansub": "Momo",
+              "fansub_id": 2567,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

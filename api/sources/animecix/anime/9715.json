@@ -1,0 +1,716 @@
+{
+  "id": 9715,
+  "name": "Kaizoku Oujo",
+  "name_english": "Fena: Pirate Princess",
+  "name_romanji": "Fena: Pirate Princess",
+  "original_title": "海賊王女",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2021,
+  "release_date": "2021-08-15 00:00:00",
+  "description": "Genç yetim bir kız olan Fena Houtman, Britanya İmparatorluğu'nun askerleri tarafından kullanılmak ve atılmak üzere, maldan başka bir şey olma umudunun olmadığı bir adada büyümüştür. Ancak Fena, yetimden daha fazlasıdır. Gizemli geçmişi kapısını çaldığında Fena, kendisine baskı yapanların zincirlerini kıracaktır. Amacı esaretten kurtularak yeni bir kimlik oluşturmak ve gerçekten ait olabileceği bir yer aramak ve \"Eden\" anahtar kelimesinin ardındaki gerçek gizemleri bulmak.",
+  "poster": "https://image.tmdb.org/t/p/original/o4WY3wl2i3dM2L5VSuJb3TlQ7zr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xBYfKcbDY0NktGn9f7QW8qaV96g.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    1,
+    2
+  ],
+  "tmdb_id": 106480,
+  "mal_id": 42544,
+  "anilist_id": 0,
+  "imdb_id": "tt12779780",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 3231,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 162076,
+          "episode_number": 1,
+          "name": "Hatıralar",
+          "description": "Umut, karanlık okyanusun tepesinde kıpkırmızı yanıyor... Genç Fena, Yukimaru tarafından kurtarılır ve gemiden kaçar. O zamandan beri on yıl geçti. Fena, \"Beyaz Marjinal\" olarak anılmaya layık güzel bir kadın haline geldi.",
+          "release_date": "2021-08-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/p99UBaNeSfJasv3RawONORKu6fE.jpg",
+          "videos": [
+            {
+              "id": 704010,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/679f9373b00f138db1d44c7d",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 173770,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4390958",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 173769,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/xrBwPKAq6bukgb3",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 173765,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-j37yodoc2mki.html",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 173768,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/7kae6k1suefb.html",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 162077,
+          "episode_number": 2,
+          "name": "Kalıtsal Bir Yolculuk",
+          "description": "Fena farkına varmadan, Pasifik Okyanusu'nun tam ortasında yüzen küçük bir teknedeydi! Kaçmasına yardım eden Otto ve Salman'ın eşliğinde, sisle çevrili yalnız bir adaya, Goblin Adası'na ulaşır.",
+          "release_date": "2021-08-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kyCNQQhUwxGZCOJdjO9T5qbfXI5.jpg",
+          "videos": [
+            {
+              "id": 594142,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65212ae4500b95f594abbf97",
+              "extra": "Yapay Çeviri ",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 164711,
+          "episode_number": 3,
+          "name": "Bar-Baral",
+          "description": "Babasının yolculuğunu devralmaya kararlı olan Fena ve samuray, Goblin Adası'ndan yola çıkar. Kaynak temin etmek için özgür Bar-Baral kasabasına uğrarlar. Fena, babasının geride bıraktığı taşa benzer bir ürünle karşılaşır.",
+          "release_date": "2021-08-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8aRiqq3pUVTiJHDW7ei02slCBSj.jpg",
+          "videos": [
+            {
+              "id": 387703,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63324bd7d03cb090cb4c54f9",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 723977,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/687e5f4ab18f16fb20452ea1",
+              "extra": "RevengeSubs",
+              "fansub": "RevengeSubs",
+              "fansub_id": 2181,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 177332,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4399547",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 177331,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/gRBWpPe0Z1iq6bJ",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 177327,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-z9rsjsjmgrq4.html",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 177330,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/cls5zpv920k5.html",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 723978,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/fsbx4nzhtg8v",
+              "extra": "RevengeSubs",
+              "fansub": "RevengeSubs",
+              "fansub_id": 2181,
+              "quality": "1080p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 164712,
+          "episode_number": 4,
+          "name": "Taşın Gizemi",
+          "description": "Takipçilerinden kaçtıktan sonra Fena ve mürettebat, taşın üretildiği Libar-Oberstein'a doğru yola çıkar. Yukimaru'nun yaralanmasına neden olmaktan hüsrana uğrayan Fena, arkadaşlarından ona dövüşmeyi öğretmeleri için yalvarır.",
+          "release_date": "2021-08-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/f5b5HmiL8ZG5SISwVXNBUEY2rbV.jpg",
+          "videos": [
+            {
+              "id": 387577,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6332130bd03cb090cb4c54a8",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 178797,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/Bk7MQBBrLVTyAmo",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 178793,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-igasiw3gvfz4.html",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 178796,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/395oi25uq1v0.html",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 164713,
+          "episode_number": 5,
+          "name": "koordinatlar",
+          "description": "Ekip, Libar-Oberstein'dan edindikleri bilgilerle, gizemli taşın çıkarıldığı Orleans'a ulaşır. Labirent benzeri madende Fena, belli bir şey tarafından yönlendiriliyormuş gibi göründüğü için uzak derinliklere doğru ilerliyor.",
+          "release_date": "2021-09-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zPviABgzMwzJDRbXnCzE4bwvlfq.jpg",
+          "videos": [
+            {
+              "id": 386487,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6330b754d22fe78a0265e48b",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 182927,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/m1WqWpXo7jhbA8y",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 182923,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-jmzfzwv74p5p.html",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 182926,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/adty1q1obuwc.html",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 164714,
+          "episode_number": 6,
+          "name": "Mavi Dev'de İsyan",
+          "description": "Madende mahsur kalan Yukimaru ve samuraylar, Fena'nın peşinden gitmek için kaçış planları yaparlar. Bu arada, kaçırılan Fena, Abel'ın beklediği Kraliyet Donanması gemisine götürülür.",
+          "release_date": "2021-09-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aOJTnQroNdiwySyjH8mzm2o3pAl.jpg",
+          "videos": [
+            {
+              "id": 386446,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6330af42d22fe78a0265e477",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 183261,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4422436",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 183260,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/XdbP0O6bmltXPz",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 183256,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-pq96ue460qlv.html",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 183259,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/zzhcfaxmn6l6.html",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 164715,
+          "episode_number": 7,
+          "name": "yanan deniz",
+          "description": "Yukimaru, Fena'yı kurtarmak için Bonito No.2'den tek başına yola çıkar. Samuray, Fena'yı kurtarmakla adalarının kurallarına uymak arasında bocalar. Geminin Rumble Rose tarafından saldırıya uğradığı haberini alan Abel, Fena'dan ayrılır.",
+          "release_date": "2021-09-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/w6412lI2oRDVOufiOEber8z6eNG.jpg",
+          "videos": [
+            {
+              "id": 370817,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631a1cc6aaa5e211ba383e54",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 184705,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4432768",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 184704,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/Xkalj1lXarhDyJq",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 184700,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-s164snygo9dp.html",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 184703,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/jqxhh948gkkh.html",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 164716,
+          "episode_number": 8,
+          "name": "Bir Şövalyenin Yemini",
+          "description": "Samuraylar Fena'yı Mavi Dev'den kurtarmayı başardılar, ancak Yukimaru'nun ağır yaralanması pahasına. Onu tedavi etmek için rotayı Chaouen'e çevirdiler.",
+          "release_date": "2021-09-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9CXSMLxA7cZxOWBoPpsU7Y0iZBH.jpg",
+          "videos": [
+            {
+              "id": 371138,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631a7e16aaa5e211ba383ecc",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 186773,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4439320",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 186772,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/41AROlbZDlTZpy",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 186768,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-rzbyh6jb5nee.html",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 186771,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/2utdofdqj99u.html",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 164717,
+          "episode_number": 9,
+          "name": "Tersine",
+          "description": "Kraliyet ailesinin en küçüğü olan Abel, herkes tarafından soğuk davranılmaktan sessizce büyümüştü. Bir gün bahçede gizemli bir kız olan Helena ile tanışır. Birlikte daha çok vakit geçirdikçe aralarında derin bir aşk filizlenir.",
+          "release_date": "2021-10-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2jI9tUP55fDxl7st412HK0cfXJS.jpg",
+          "videos": [
+            {
+              "id": 386255,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63309793dd931ae1fbad7143",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 187852,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4446542",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 187851,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/61Q4vz4MbDTo6o",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 187847,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-h9ku6ikp52b3.html",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 187850,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/uu7dmez1opbv.html",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 164718,
+          "episode_number": 10,
+          "name": "Perde Dorukta Yükseliyor",
+          "description": "Fena ve Yukimaru, koordinatların gizemini çözdüklerine göre, Eden'in yerini bulmayı başardılar. Fena, babasının geride bıraktığı gizemle ve kendi gizemiyle yüzleşmek için Eden'e ulaşır.",
+          "release_date": "2021-10-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/spaLsOoqKb1T1INRJKY556TZkqR.jpg",
+          "videos": [
+            {
+              "id": 386258,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6330982bdd931ae1fbad7145",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 187860,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4446545",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 187859,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/gvaWm2egoDsqqOA",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 187855,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-6hhdfhtvyx1b.html",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 187858,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/k2yai7c9bzh2.html",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 164719,
+          "episode_number": 11,
+          "name": "Görevin Sonunda",
+          "description": "",
+          "release_date": "2021-10-29T05:42:38.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 371366,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631b1c55aaa5e211ba383f5e",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 189971,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4472586",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 189970,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/oDV90RgqVaUKpD",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 189966,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-v3kjsh2arpx4.html",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 189969,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/adjyubgwomyf.html",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 164720,
+          "episode_number": 12,
+          "name": "12. Bölüm",
+          "description": "",
+          "release_date": "2021-11-07T10:16:53.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 371955,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631c4e47aaa5e211ba38407c",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 192897,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4487388",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 192896,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/e2aZ3R9rzmCZpa",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 192893,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-u36bqdnp2jfj.html",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 192895,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/e5h90o7yslrc.html",
+              "extra": "TatakaeSubs",
+              "fansub": "TatakaeSubs",
+              "fansub_id": 2106,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

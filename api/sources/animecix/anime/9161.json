@@ -1,0 +1,563 @@
+{
+  "id": 9161,
+  "name": "Granblue Fantasy The Animation Season 2",
+  "name_english": "Granblue Fantasy: The Animation",
+  "name_romanji": "Granblue Fantasy: The Animation",
+  "original_title": "GRANBLUE FANTASY The Animation",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2017,
+  "release_date": "2017-01-21",
+  "description": "This is a world of the skies, where many islands drift in the sky. A boy named Gran and a talking winged lizard named Vyrn lived in Zinkenstill, an island which yields mysteries. One day, they come across a girl named Lyria. Lyria had escaped from the Erste Empire, a military government that is trying to rule over this world using powerful military prowess. In order to escape from the Empire, Gran and Lyria head out into the vast skies, holding the letter Gran's father left behind - which said, \"I will be waiting at Estalucia, Island of Stars\".",
+  "poster": "https://image.tmdb.org/t/p/original/hUo1FNB9WZZZi4pOJ2YE7Vq5UcF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3bYfBuWby20fSYTKNVJQgEuZDja.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    1,
+    2
+  ],
+  "tmdb_id": 69820,
+  "mal_id": 36587,
+  "anilist_id": 0,
+  "imdb_id": "tt6138612",
+  "season_count": 2,
+  "seasons": [
+    {
+      "id": 2659,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 13,
+      "episodes": [
+        {
+          "id": 152604,
+          "episode_number": 1,
+          "name": "Mavili Kız",
+          "description": "",
+          "release_date": "2017-01-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ogNSVimVcTiEsTqfxJQSLBI4Dj3.jpg",
+          "videos": [
+            {
+              "id": 651958,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66771ca03dbf15700611a0f2",
+              "extra": "Vincent & neko",
+              "fansub": "Vincent",
+              "fansub_id": 1884,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 651961,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5572237",
+              "extra": "Vincent & neko",
+              "fansub": "Vincent",
+              "fansub_id": 1884,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 152605,
+          "episode_number": 2,
+          "name": "Kalkış",
+          "description": "",
+          "release_date": "2017-01-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vqL3pVHVtM9ocvxg5uZmFKvZvlU.jpg",
+          "videos": []
+        },
+        {
+          "id": 152606,
+          "episode_number": 3,
+          "name": "Rüzgarla Tanış",
+          "description": "",
+          "release_date": "2017-04-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ztqGlpaNsT9xX8UtgDZAM6ffItj.jpg",
+          "videos": [
+            {
+              "id": 651966,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66771d4d3dbf15700611a0f3",
+              "extra": "skaginleif & Control",
+              "fansub": "skaginleif",
+              "fansub_id": 1885,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 651969,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5572239",
+              "extra": "skaginleif & Control",
+              "fansub": "skaginleif",
+              "fansub_id": 1885,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 152607,
+          "episode_number": 4,
+          "name": "Bir Dümencinin Kararı",
+          "description": "",
+          "release_date": "2017-04-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/5WnFN6E7gKNEeEq9ULKjdqUJD4k.jpg",
+          "videos": [
+            {
+              "id": 651970,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66771db43dbf15700611a0f4",
+              "extra": "skaginleif & Control",
+              "fansub": "skaginleif",
+              "fansub_id": 1885,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 651973,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5572242",
+              "extra": "skaginleif & Control",
+              "fansub": "skaginleif",
+              "fansub_id": 1885,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 152608,
+          "episode_number": 5,
+          "name": "Fırtına Muhafızı",
+          "description": "",
+          "release_date": "2017-04-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1A5czHxy3onkYAJcDu2Vli6c5ao.jpg",
+          "videos": [
+            {
+              "id": 651974,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66771e963dbf15700611a0f6",
+              "extra": "skaginleif & Control",
+              "fansub": "skaginleif",
+              "fansub_id": 1885,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 651977,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5572249",
+              "extra": "skaginleif & Control",
+              "fansub": "skaginleif",
+              "fansub_id": 1885,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 152609,
+          "episode_number": 6,
+          "name": "The Veil is Lifted",
+          "description": "",
+          "release_date": "2017-05-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/yvPRGjw1uiQTO69iyU0xbNMlg90.jpg",
+          "videos": [
+            {
+              "id": 651978,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66771e5d3dbf15700611a0f5",
+              "extra": "skaginleif & Control",
+              "fansub": "skaginleif",
+              "fansub_id": 1885,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 651981,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5572247",
+              "extra": "skaginleif & Control",
+              "fansub": "skaginleif",
+              "fansub_id": 1885,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 152610,
+          "episode_number": 7,
+          "name": "Demir dev",
+          "description": "",
+          "release_date": "2017-05-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dLrpLFQD92bkfo558EcOuQyByH6.jpg",
+          "videos": [
+            {
+              "id": 651995,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/667734663dbf15700611a0fa",
+              "extra": "skaginleif & Control / www.puzzlesubs.com",
+              "fansub": "skaginleif",
+              "fansub_id": 1885,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 651998,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5572302",
+              "extra": "skaginleif & Control / www.puzzlesubs.com",
+              "fansub": "skaginleif",
+              "fansub_id": 1885,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 152611,
+          "episode_number": 8,
+          "name": "Bir Çift Ayrı",
+          "description": "",
+          "release_date": "2017-03-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sxm4saqPu66xcXQjF8PHXUajioz.jpg",
+          "videos": [
+            {
+              "id": 651999,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/667735893dbf15700611a0fb",
+              "extra": "skaginleif & Control / www.puzzlesubs.com",
+              "fansub": "skaginleif",
+              "fansub_id": 1885,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 652002,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5572304",
+              "extra": "skaginleif & Control / www.puzzlesubs.com",
+              "fansub": "skaginleif",
+              "fansub_id": 1885,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 152612,
+          "episode_number": 9,
+          "name": "Bulutlardaki ufuk",
+          "description": "",
+          "release_date": "2017-05-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zO9NHde3c3ruY6Eqb5VU1W29r9C.jpg",
+          "videos": [
+            {
+              "id": 652003,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/667736313dbf15700611a0fc",
+              "extra": "skaginleif & Control / www.puzzlesubs.com",
+              "fansub": "skaginleif",
+              "fansub_id": 1885,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 652006,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5572306",
+              "extra": "skaginleif & Control / www.puzzlesubs.com",
+              "fansub": "skaginleif",
+              "fansub_id": 1885,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 152613,
+          "episode_number": 10,
+          "name": "Ayrılma",
+          "description": "",
+          "release_date": "2017-06-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/6dy72uF5Y7RH8kG4GzDQsYOaq3R.jpg",
+          "videos": [
+            {
+              "id": 652007,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/667737203dbf15700611a0fd",
+              "extra": "skaginleif & Control / www.puzzlesubs.com",
+              "fansub": "skaginleif",
+              "fansub_id": 1885,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 652010,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5572311",
+              "extra": "skaginleif & Control / www.puzzlesubs.com",
+              "fansub": "skaginleif",
+              "fansub_id": 1885,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 152614,
+          "episode_number": 11,
+          "name": "Lyria'nın Dileği",
+          "description": "",
+          "release_date": "2017-06-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/nlxu9Xiqtm4Ti75Va8X9HxzgY3V.jpg",
+          "videos": [
+            {
+              "id": 652011,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66773cc53dbf15700611a0fe",
+              "extra": "skaginleif & Control / www.puzzlesubs.com",
+              "fansub": "skaginleif",
+              "fansub_id": 1885,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 652014,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5572319",
+              "extra": "skaginleif & Control / www.puzzlesubs.com",
+              "fansub": "skaginleif",
+              "fansub_id": 1885,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 152615,
+          "episode_number": 12,
+          "name": "Açık Denizlerde Hesaplaşma",
+          "description": "",
+          "release_date": "2017-06-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jErRu9ICuZ6jLyIqyFzMjkSXtXk.jpg",
+          "videos": [
+            {
+              "id": 652015,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66773db13dbf15700611a0ff",
+              "extra": "skaginleif & Control / www.puzzlesubs.com",
+              "fansub": "skaginleif",
+              "fansub_id": 1885,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 652018,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5572321",
+              "extra": "skaginleif & Control / www.puzzlesubs.com",
+              "fansub": "skaginleif",
+              "fansub_id": 1885,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 152616,
+          "episode_number": 13,
+          "name": "başka bir gökyüzü",
+          "description": "",
+          "release_date": "2017-06-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1zN79LQgst8N67T6kMEX42qQnKh.jpg",
+          "videos": [
+            {
+              "id": 652019,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66773ea63dbf15700611a100",
+              "extra": "skaginleif & Control / www.puzzlesubs.com",
+              "fansub": "skaginleif",
+              "fansub_id": 1885,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 652022,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5572324",
+              "extra": "skaginleif & Control / www.puzzlesubs.com",
+              "fansub": "skaginleif",
+              "fansub_id": 1885,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2660,
+      "season_number": 2,
+      "name": "Season 2",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 161015,
+          "episode_number": 1,
+          "name": "Mavi Gökyüzü Yolcuları",
+          "description": "Anavatanı Zinkenstill'i geride bırakan Gran, Astrals Adası'na ulaşmayı umarak diğer gökyüzü uçuş ekibi üyeleriyle yolculuğuna devam ediyor.",
+          "release_date": "2019-10-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/gqpMB0028nIBBUuSmwkgv5ZNLEJ.jpg",
+          "videos": [
+            {
+              "id": 658340,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6695d524cf067ab47984f17a",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ神姫 https://tempestfansub.com",
+              "fansub": "Yukime Düzenleme:Dimâ神姫",
+              "fansub_id": 728,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 658343,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5598337",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ神姫 https://tempestfansub.com",
+              "fansub": "Yukime Düzenleme:Dimâ神姫",
+              "fansub_id": 728,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 161016,
+          "episode_number": 2,
+          "name": "",
+          "description": "",
+          "release_date": "2019-10-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/5N9ezD9N9I0RPpdK5sgzdaN2Exn.jpg",
+          "videos": []
+        },
+        {
+          "id": 161017,
+          "episode_number": 3,
+          "name": "",
+          "description": "",
+          "release_date": "2019-10-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fl8d4jmaHujXKtuhvvQU2r0whVj.jpg",
+          "videos": [
+            {
+              "id": 652023,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66773f883dbf15700611a101",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ神姫 ",
+              "fansub": "Yukime Düzenleme:Dimâ神姫",
+              "fansub_id": 728,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 652026,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5572328",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ神姫 ",
+              "fansub": "Yukime Düzenleme:Dimâ神姫",
+              "fansub_id": 728,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 161018,
+          "episode_number": 4,
+          "name": "Aktarılamayan Duygular",
+          "description": "Geçmiş bir olaydan dolayı Katalina, Viraya borçlu hissediyor ve Viranın Lord Kumandan olarak katlandığı uzun yıllar boyunca baskı ve yalnızlıktan sonra ona destek sağlamak istiyor.",
+          "release_date": "2019-10-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aHPuE6xAX6QqTIDYl9oNS05YSU6.jpg",
+          "videos": []
+        },
+        {
+          "id": 161019,
+          "episode_number": 5,
+          "name": "Katalina ve Vira",
+          "description": "İlk canavar Luminiera'nın gücünü serbest bırakan Vira, Gran ve diğerlerine saldırır. Vira'yı çılgına dönmüş halde gördüğünde, Katalina suçluluk duygusuyla yanıp tutuşur. Ve böylece Vira'nın duygularıyla yüzleşmeye, geçmişi telafi etmeye karar verir.",
+          "release_date": "2019-11-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4pdSV6ya2MhujHlUsGVPHKGwtTZ.jpg",
+          "videos": []
+        },
+        {
+          "id": 161020,
+          "episode_number": 6,
+          "name": "The Mist-Shrouded Island",
+          "description": "After leaving Albion, the Grandcypher lands on an island shrouded in thick mist, notorious for being inescapable.",
+          "release_date": "2019-11-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aaW0bDzRDMIkNNrBoI7wEk5CFuN.jpg",
+          "videos": []
+        },
+        {
+          "id": 161021,
+          "episode_number": 7,
+          "name": "Ölümsüz İlkel Canavar",
+          "description": "Lyria, Io ve Orchis, Celeste tarafından yutuldu. Geride kalan Gran ve diğerleri, köyde tanıştıkları hayalet kız Ferry ile birlikte onları kurtarmanın bir yolunu ararlar.",
+          "release_date": "2019-11-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/AnzezIOyoKq1GSQbZUbLZw5rkTV.jpg",
+          "videos": []
+        },
+        {
+          "id": 161022,
+          "episode_number": 8,
+          "name": "Aile Anıları",
+          "description": "Celeste birileri tarafından manipüle ediliyor. İlkeli köye saldırmaya ve yaşayan ölüleri yok etmeye zorlayan biri. Gran, Lyria, Io ve Orchisi kurtarmak için Celesteye atlama şansını yakalar.",
+          "release_date": "2019-11-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oowVxN7lRup79y7Edca00pN9PGN.jpg",
+          "videos": []
+        },
+        {
+          "id": 161023,
+          "episode_number": 9,
+          "name": "vaatler kasabası",
+          "description": "Gran ve diğerleri, hasarlı Grandcypheri onarmak için gemi inşasının Mekkesi olarak bilinen Golonzo Adasına giderler.",
+          "release_date": "2019-12-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bVPu0H9MBTauKM7OVXYg7pCDCYb.jpg",
+          "videos": []
+        },
+        {
+          "id": 161024,
+          "episode_number": 10,
+          "name": "The Impossible Dream",
+          "description": "Under the command of Pommern, the imperial army takes Gran and Lyria away. Meanwhile, Noa is held captive in a research lab as he suffers from the effects of dark essence.",
+          "release_date": "2019-12-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fealsuFQZP6KE6ONE0QWTQDaAGa.jpg",
+          "videos": []
+        },
+        {
+          "id": 161025,
+          "episode_number": 11,
+          "name": "Sözleşme",
+          "description": "Gran ve Lyria, imparatorluğun garnizonundan kaçar ve Rackam ve diğerleriyle yeniden bir araya gelir. Noa, imparatorluğun saldırısından zarar gören Grandcypher'ı diriltmeye çalışır, ancak kendini yeterli güç sağlayamayacak kadar zayıf bulur. Golonzo'daki vaatlerin ilk canavarı Mithra'dan onlara yardım etmesini istemelerini önerir.",
+          "release_date": "2019-12-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4JQd3CHJHJGg0TOGpBToYK4xxck.jpg",
+          "videos": []
+        },
+        {
+          "id": 161026,
+          "episode_number": 12,
+          "name": "yön direği",
+          "description": "Kendi geçmişinin tuzağına düşen Kara Şövalye, Lyria'nın gücünü elde etmeye kararlıdır, ancak Büyükanne, Lyria'yı korumaya kararlı bir şekilde yemin eder. Sarsılmaz inançları çatışır, ikisi de eğilmeye istekli değildir.",
+          "release_date": "2019-12-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ibUHY20WJrQhOPpbwe9amaCVxOs.jpg",
+          "videos": []
+        }
+      ]
+    }
+  ]
+}

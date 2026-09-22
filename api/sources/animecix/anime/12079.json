@@ -1,0 +1,96 @@
+{
+  "id": 12079,
+  "name": "Aki-Sora",
+  "name_english": "Aki Sora",
+  "name_romanji": "Aki-Sora",
+  "original_title": "あきそら",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2009,
+  "release_date": "Fri",
+  "description": "Aoi kardeşler, Aki ve Sora, bir erkek ve kız kardeşin olabileceği kadar yakın. Ancak Sora liseye girerken, ablası için duygularının basit aile bağlarının ötesine geçtiğini fark eder. Kardeşinin ilişkisinden habersiz olan Sora'nın ikiz kız kardeşi Nami, en iyi arkadaşını onunla dışarı çıkmaya çalışır. Ve ikisinden de habersiz olan Nami, kendi başına derin ve kıskanç bir şehvet barındırıyor.  Aki-Sora kesinlikle bir aşk hikayesi, ama kimin sevgisi geri dönecek? Kimin sevgisi karşılıksız gidiyor? Kardeş ve kız kardeş arasındaki bağ romantizm ile güçlendirilebilir mi, yoksa Aki'nin ve Sora'nın sevgisi onları ayıracak mı?",
+  "poster": "https://image.tmdb.org/t/p/original/emGhj9bRGiWVlHg6X7URIiYjJ91.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uVjBddwhoEuz0TEp9uvXCMmNn7z.jpg",
+  "rating": 5.1,
+  "vote_count": 8,
+  "genres": [
+    5,
+    3,
+    20
+  ],
+  "tmdb_id": 447402,
+  "mal_id": 6987,
+  "anilist_id": null,
+  "imdb_id": "tt12150068",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 5704,
+      "season_number": 1,
+      "name": "1. Sezon",
+      "episode_count": 2,
+      "episodes": [
+        {
+          "id": 228554,
+          "episode_number": 1,
+          "name": "Şaheserin 1. bölümü ",
+          "description": "",
+          "release_date": "2000-11-11T00:00:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 709235,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c5323eed01ed6a756080b6",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 709236,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/m2xpn7zfg30u",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 228555,
+          "episode_number": 2,
+          "name": "Şaheserin 2. bölümü ",
+          "description": "",
+          "release_date": "2000-11-11T00:00:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 709238,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c532c6ed01ed6a756080b7",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 709239,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/2wsx5joe485m",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

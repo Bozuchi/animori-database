@@ -1,0 +1,756 @@
+{
+  "id": 8242,
+  "name": "Konbini Kareshi",
+  "name_english": "Convenience Store Boy Friends",
+  "name_romanji": "Convenience Store Boy Friends",
+  "original_title": "コンビニカレシ",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2017,
+  "release_date": "2017-07-07 00:00:00",
+  "description": "Okuldan eve dönerken kendi hayatlarını konuşan ve hoşlandıkları kızlarla buluşan altı lise öğrencisinin market etrafında geçen hayatı.",
+  "poster": "https://image.tmdb.org/t/p/original/lbZS7fyGP9LO8BqP8K6Z1UACmpl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wKJYYP4cX51Z7FWhFaUWmPVFGk1.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    9,
+    6,
+    4
+  ],
+  "tmdb_id": 72508,
+  "mal_id": 35434,
+  "anilist_id": 0,
+  "imdb_id": "tt9728264",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 1733,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 141295,
+          "episode_number": 1,
+          "name": "Nisan",
+          "description": "",
+          "release_date": "2017-07-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/uJn5emdeqMaNv5MrOf66kh37vbT.jpg",
+          "videos": [
+            {
+              "id": 386905,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63310543d22fe78a0265e5e2",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 160974,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359490",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 160973,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/kkRk0wy9kPiOJO7",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 160969,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-zndw7kr2kumt.html",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 160972,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/1hdpjuhz34ic.html",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 141296,
+          "episode_number": 2,
+          "name": "Mayıs",
+          "description": "",
+          "release_date": "2017-07-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/h4pIz9AjwtAb6I070vlkILgdptI.jpg",
+          "videos": [
+            {
+              "id": 386904,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6331053dd22fe78a0265e5e1",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 160983,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359493",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 160982,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/apkpjPDeY3cxy4b",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 160978,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-3fmgdt0l1l3i.html",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 160981,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/hsyteoeize6y.html",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 141297,
+          "episode_number": 3,
+          "name": "Haziran",
+          "description": "",
+          "release_date": "2017-07-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/agXWlyFNqE9wUrOyKkedvxj6Et6.jpg",
+          "videos": [
+            {
+              "id": 386902,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/633104cad22fe78a0265e5df",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 160992,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359495",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 160991,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/rgWPVaom1jIbp99",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 160987,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-ft3tvblkx1j0.html",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 160990,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/tpoij8pppxat.html",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 141298,
+          "episode_number": 4,
+          "name": "Temmuz",
+          "description": "",
+          "release_date": "2017-07-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4gFJz1rPECFnmo0R8bZ1OUK0L6M.jpg",
+          "videos": [
+            {
+              "id": 386903,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/633104d4d22fe78a0265e5e0",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 161001,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359497",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161000,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/xy6p6qPdJLCkYgW",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 160996,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-6vohwm14x9x6.html",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 160999,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/bokj2untsmhm.html",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 141299,
+          "episode_number": 5,
+          "name": "Ağustos",
+          "description": "",
+          "release_date": "2017-08-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8cZEnIJ9rbHXQZQLczlWjGWfRFi.jpg",
+          "videos": [
+            {
+              "id": 386901,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63310424d22fe78a0265e5de",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 161010,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359499",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161009,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/gVmJe9ZkgPUqMjD",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161005,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-i4uf4rsesnm8.html",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161008,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/2xm9d3bjj3xw.html",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 141300,
+          "episode_number": 6,
+          "name": "Eylül",
+          "description": "",
+          "release_date": "2017-08-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dVed8MvpI3VKvxhgAzOYXVYY10v.jpg",
+          "videos": [
+            {
+              "id": 386900,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63310410d22fe78a0265e5dd",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 161023,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359503",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161022,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/XklMxeWa33fDqgg",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161018,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-43vko6nkjk9m.html",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161021,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/fcj8ue0pkutd.html",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 141301,
+          "episode_number": 7,
+          "name": "Ekim",
+          "description": "",
+          "release_date": "2017-08-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jlIBP2okTre0MnZYAEVeLrbc6bT.jpg",
+          "videos": [
+            {
+              "id": 386899,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63310380d22fe78a0265e5dc",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 161032,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359505",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161031,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/B7PMZ0XXG7UGgK",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161027,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-eq7nay56ywx8.html",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161030,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/fmt572bcxci3.html",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 141302,
+          "episode_number": 8,
+          "name": "Kasım",
+          "description": "",
+          "release_date": "2017-08-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/uVu0syYTgnVZmn0klGZKfKwfuev.jpg",
+          "videos": [
+            {
+              "id": 386897,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/633102edd22fe78a0265e5da",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 161041,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359509",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161040,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/gwZ71m4qJzCq7KK",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161036,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-svx6ss2qhqhb.html",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161039,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/l5l3lemb7dgm.html",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 141303,
+          "episode_number": 9,
+          "name": "Aralık",
+          "description": "",
+          "release_date": "2017-09-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xsS2oajTXUhuY6BgBjrPP7g3LZs.jpg",
+          "videos": [
+            {
+              "id": 386898,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6331031cd22fe78a0265e5db",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 161050,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359510",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161049,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/lQDlmgxdgkt7R99",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161045,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-1f985pktlzjw.html",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161048,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/n6ny856u0wsd.html",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 141304,
+          "episode_number": 10,
+          "name": "Ocak",
+          "description": "",
+          "release_date": "2017-09-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/hvURaw1fhBGYLI0dskG1gEM67i8.jpg",
+          "videos": [
+            {
+              "id": 386896,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63310244d22fe78a0265e5d9",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 161059,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359513",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161058,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/zKew4rezqPFYrKq",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161054,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-8vmo5s55qwcb.html",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161057,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/n9vslp2ipvu1.html",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 141305,
+          "episode_number": 11,
+          "name": "Şubat",
+          "description": "",
+          "release_date": "2017-09-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tO3mF9hPjukvop0DPWKjjNacPch.jpg",
+          "videos": [
+            {
+              "id": 386894,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/633101cbd22fe78a0265e5d7",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 161068,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359515",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161067,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/GMp2LKQly3UmQz",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161063,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-sey9q9kbslkx.html",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161066,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/fsanlhb0p018.html",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 141306,
+          "episode_number": 12,
+          "name": "Mart",
+          "description": "",
+          "release_date": "2017-09-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zdmOw7XRzEbvhl3Gz0bdPgAX7CY.jpg",
+          "videos": [
+            {
+              "id": 386893,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6331001dd22fe78a0265e5d6",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 161077,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359519",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161076,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/r9e3LRBGmOI3q4",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161072,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-ci3n6yz1015i.html",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161075,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/x7n10tfsky5r.html",
+              "extra": "UragiriSubs",
+              "fansub": "UragiriSubs",
+              "fansub_id": 1316,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

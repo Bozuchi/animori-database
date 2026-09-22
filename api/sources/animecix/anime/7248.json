@@ -1,0 +1,2609 @@
+{
+  "id": 7248,
+  "name": "Ao no Exorcist",
+  "name_english": "Blue Exorcist",
+  "name_romanji": "Ao no Exorcist",
+  "original_title": "青の祓魔師",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2011,
+  "release_date": "2011-04-17",
+  "description": "İnsanlar Assiah dünyasında, iblisler ise Cehennem dünyasında yaşarlar. İki boyutun birbirine müdahale etmesi amaçlanmamıştır ancak buna rağmen iblisler Assiah'ta hâlâ yaratıklara sahiptir. Bu iblislerle savaşabilen insanlara şeytan kovucular denir. Rin Okumura, Şeytan'ın gayri meşru oğlu olma lanetini taşıyan bir çocuktur. Üvey babası onu şeytanlardan kurtarmak için kendini feda etti. Rin, üvey babasının ölümünün intikamını almak ve kendini kanıtlamak için bir şeytan kovucunun yolunu izlemeye ve kendi babası Şeytan'ı yenmeye karar verir. Rin, ham becerilerini geliştirmek için diğer şeytan kovucu adaylarıyla birlikte eğitim almak üzere True Cross Akademisine girer.",
+  "poster": "https://image.tmdb.org/t/p/original/kpNoqNmElzGUEcEoZyfFwvYXMsR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/wJzHFl5mq6JFbD6equTleJuzlnk.jpg",
+  "rating": 7.9,
+  "vote_count": 431,
+  "genres": [
+    3,
+    2,
+    8,
+    1
+  ],
+  "tmdb_id": 38464,
+  "mal_id": 9919,
+  "anilist_id": 0,
+  "imdb_id": "tt1799631",
+  "season_count": 5,
+  "seasons": [
+    {
+      "id": 753,
+      "season_number": 1,
+      "name": "",
+      "episode_count": 25,
+      "episodes": [
+        {
+          "id": 120245,
+          "episode_number": 1,
+          "name": "Şeytan İnsan Ruhlarında İkamet Eder",
+          "description": "Rin Okumura, başını belaya sokmak gibi doğuştan gelen bir yeteneğe sahip bir gençtir. Buna rağmen, ikiz kardeşi Yukio ve onların koruyucusu olan Rahip Shiro Fujimoto'nun beklentilerini karşılamak için elinden gelenin en iyisini yapmaya çalışır, ta ki sonunda kökeninin ardındaki karanlık sırrı öğrenene kadar.",
+          "release_date": "2011-04-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xLY4vKOUTU1m3ptaVUzzL9nEYjm.jpg",
+          "videos": [
+            {
+              "id": 469786,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63ec8efacdbdf814b968d576",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 469793,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63ec90b9cdbdf814b968d577",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 469792,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044281",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 469799,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044282",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120244,
+          "episode_number": 2,
+          "name": "Gehenna Kapısı",
+          "description": "Fujimoto ve arkadaşları, Rin'i peşindeki iblislerden korumak için ellerinden geleni yaparlar, ancak sonunda iblislerin en güçlüsü ve Rin'in babası olan Şeytan tarafından poz verilir. Koruyucusunun kendisini Şeytan'dan korumak için kendi canına kıydığını gören Rin, şeytani güçlerini açığa çıkararak savaşmaya karar verir, bunu yaparsa artık insan olmayacağını bile bile.",
+          "release_date": "2011-04-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bNyYgsuk9bjyudLPY3e3PL8MB1U.jpg",
+          "videos": [
+            {
+              "id": 469809,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63ec93a0cdbdf814b968d579",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 469800,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63ec9235cdbdf814b968d578",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 469815,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044285",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 469806,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044283",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120243,
+          "episode_number": 3,
+          "name": "Kardeşler",
+          "description": "Exorcist olma eğitiminin bir parçası olarak Rin, True Cross Akademisi'ne kaydolur. Rin, derslerinin ilk gününde ikiz kardeşi Yukio'nun zaten bir Exorcist olduğunu ve onun öğretmenlerinden biri olacağını öğrenince şok olur.",
+          "release_date": "2011-05-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oI2IEi1qRHNPqWnkfNPmHKVgszR.jpg",
+          "videos": [
+            {
+              "id": 469816,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63ec9581cdbdf814b968d57a",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 469823,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63ec96f7cdbdf814b968d57b",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 469822,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044288",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 469829,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044290",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120242,
+          "episode_number": 4,
+          "name": "Amahara Bahçesi",
+          "description": "Yukio, Rin ile birlikte bazı malzemeleri stoklamak için okulun yalnızca Exorcist mağazasına gider. Orada, sahibinin kızı Shiemi Moriyama'nın, ailesinin bahçesinde yaşayan bir iblis tarafından rahatsız edildiğini ve onun hayatını kurtarmak için kendi başlarına yüzleşirler.",
+          "release_date": "2011-05-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4JfMjqfZCnbFFvixrrKVh09Ii0d.jpg",
+          "videos": [
+            {
+              "id": 469830,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63ec989acdbdf814b968d57c",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 469839,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63ec9a87cdbdf814b968d57d",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 469836,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044292",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 469845,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044293",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120241,
+          "episode_number": 5,
+          "name": "Lanetli Tapınaktan Bir Çocuk",
+          "description": "Yeni bir sınıf arkadaşı olarak Shiemi'ye sahip olan Rin'in dersleri tamamen umursamaması, başka bir sınıf arkadaşı olan Ryuji Suguro'nun, nam-ı diğer \"Bon\"un öfkesini uyandırır. Bon'un hikayesini öğrendikten sonra, Rin, itiraf etmekten daha fazla ortak noktaları olduğunu keşfeder.",
+          "release_date": "2011-05-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/yg5zy6lLDB6KcVrSNfoS8fpDnwo.jpg",
+          "videos": [
+            {
+              "id": 469853,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63ec9df6cdbdf814b968d57f",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 469846,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63ec9c41cdbdf814b968d57e",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 469859,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044295",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 469852,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044294",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120240,
+          "episode_number": 6,
+          "name": "Hayalet Şef",
+          "description": "Rin ve Yukio, yurttaki yemeklerinden sorumlunun, Mephisto Pheles tarafından kendilerine yardım etmesi için atanan tanıdık bir aşçı olan Ukoback olduğunu bulur. Ayrıca Ukoback'in sinirlendiğinde nasıl baş belası olabildiğini de öğrenirler.",
+          "release_date": "2011-05-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lIzYur25nKjRxFCsOOsX0nLlBJa.jpg",
+          "videos": [
+            {
+              "id": 469876,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63eca2fdcdbdf814b968d582",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 469862,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63ec9fafcdbdf814b968d580",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 469882,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044299",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 469868,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044296",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120239,
+          "episode_number": 7,
+          "name": "Plover sürüsü",
+          "description": "Yeni arkadaşlıklar kurmaya hevesli olan Shiemi, sınıf arkadaşı Izumo Kamiki'den arkadaşı olmasını ister ve o da kabul ediyormuş gibi yapar, ancak Rin çok geçmeden Izumo'nun onun yerine Shiemi'nin nezaketinden faydalandığını fark eder. Daha sonra öğrenciler, bir iblisin Izumo ve arkadaşı Paku'ya sürpriz bir şekilde saldırdığı ve onları korumak için Rin ve Shiemi'ye düştüğü Exwire sınavına katılmak için eski yurtta tekrar bir araya gelirler.",
+          "release_date": "2011-05-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sWP4focFHxiv7JYj85ZUbcplg0m.jpg",
+          "videos": [
+            {
+              "id": 469884,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63eca4becdbdf814b968d583",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 469890,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044300",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120238,
+          "episode_number": 8,
+          "name": "Şimdi Belli Bir Adam Hastaydı",
+          "description": "Arkadaşı Paku'nun Exorcist derslerini bırakmaya karar vermesinin ardından hala sıkıntılı olan Kamiki, Bon ile bir kavgaya karışır ve tüm sınıf Yukio tarafından cezalandırılır. Yukio bir görev için ayrıldıktan hemen sonra, öğrenciler başka bir gulyabani tarafından saldırıya uğrar ve diğerlerine yardım etmeye çalışırken Rin, canavarın Şeytan'ın oğlu olduğunu doğrulamak isteyen öğretmenlerinden biri tarafından gönderildiğini öğrenir.",
+          "release_date": "2011-06-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/81uPwpQJrwLI7phuO152rGHDwbY.jpg",
+          "videos": [
+            {
+              "id": 469891,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63eca68bcdbdf814b968d584",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 469897,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044302",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120237,
+          "episode_number": 9,
+          "name": "Hatıralar",
+          "description": "Mephisto Pheles öğrencilere gulyabani saldırısının aslında Esquire sınavının bir parçası olduğunu ve tehditle nasıl başa çıktıklarının değerlendirmelerinin bir parçası olarak sayılacağını açıklar. Yukio, sınav sırasında Rin'i şeytani güçlerini kullanmaya zorlama nedenleri konusunda Neuhaus'la yüzleşir ve tüm yaptığının Mephisto'nun emriyle olduğunu iddia eder. Ancak, Yukio'nun Neuhaus'un gerçek niyetini anlaması fazla zaman almaz.",
+          "release_date": "2011-06-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oqdF7skj0QZvOQbXjQkzHzvZwUw.jpg",
+          "videos": [
+            {
+              "id": 469898,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63eca86dcdbdf814b968d585",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 469904,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044304",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120236,
+          "episode_number": 10,
+          "name": "Kara kedi",
+          "description": "Blacky, Peder Shiro'nun öldüğünü duyunca çılgına döndü ve şeytan kovuculara, onun ölümü hakkında yalan söylediğini söylemeye devam etti, ancak sadece Rin onu anlayabiliyordu (her ikisinin de iblis olduğu için olabileceğini söyledi). Yukio, Peder Shiro'nun ona daha önce verdiği eşyayı kullanmak üzereyken, eğer bu senaryo gerçekleşirse, Rin ona Blacky'yi sakinleştirmesine izin vermesini söyledi. Sonunda Blacky, Peder Shiro'nun öldüğü gerçeğini kabul etti ve Rin ve Yukio, Peder Shiro'nun Yukio'ya verdiği eşyanın aslında onun catnip şarabı olduğunu öğrendi.",
+          "release_date": "2011-06-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/nNdoKY1wxret7965DbofelmDHrV.jpg",
+          "videos": [
+            {
+              "id": 613451,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/657eacc430e908b3e8e72239",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 613456,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5367058",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120235,
+          "episode_number": 11,
+          "name": "Derin Denizlerin İblisi",
+          "description": "Rin ve sınıf arkadaşları Izumo ve Shima, Exwires olarak ilk görevleri için bir Kraken'in varlığından etkilenen bir sahil kasabasına gönderilir. Izumo, babası Kraken ile altı ay önce yüzleşmeye hazırlanan ve hala kayıp olan bir çocuğa rastlar. Çocuk, babasını öldürdüğüne inandığı için yaratığa karşı intikamını almayı planlıyor, ancak o ve Exwires, karşılaştıklarında gerçekte ne olduğunu öğreniyorlar, çok şaşırıyorlar.",
+          "release_date": "2011-06-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/5nblWvu3T3myk2eXRgiwfS2khaR.jpg",
+          "videos": [
+            {
+              "id": 469927,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63ecaebccdbdf814b968d588",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 469933,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044319",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120234,
+          "episode_number": 12,
+          "name": "Etiket Oyunu",
+          "description": "Exwires, Mephisto Pheles'in eğlence parkına musallat olan bir çocuğun hayaletini aramakla görevlendirilir. Rin ve Shiemi önce hayaleti bulmayı başarır, ancak Shiemi kendi başına onu kovalarken, daha yüksek bir iblis ve Şeytan'ın başka bir oğlu olan Amaimon, Rin'in kılıcını çalar ve Rin'i onunla savaşmaya zorlar. Bu arada başka bir şeytan onu savunmak için gelir ve Rin'in erkek kardeşinin eski bir arkadaşı olduğu ortaya çıkar.",
+          "release_date": "2011-07-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4zvtPhTVflJd7jIGIKR6x0SiKfr.jpg",
+          "videos": [
+            {
+              "id": 469944,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63ecb057cdbdf814b968d58a",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 469950,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044329",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120233,
+          "episode_number": 13,
+          "name": "Kanıt",
+          "description": "Üst düzey bir Exorcist ve Peder Shiro'nun eski çırağı Shura Kirigakure, Rin'in Şeytan ile bağlantısını araştırmakla görevli sınıf arkadaşlarından biri olarak hareket ediyordu. Doğru olduğu kanıtlanırsa onu öldürme emriyle, yükümlülüklerini yerine getirmek ve ona bir şey olursa onun yerine Rin'e bakmak için Shiro'nun talebini yerine getirmek arasında bölünmüştür. Rin'le yüzleştiğinde şüpheleri ortadan kalkar ve Shiro'nun aslında onu bir silah yerine bir oğul gibi yetiştirdiğini öğrenir.",
+          "release_date": "2011-07-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fOfi6jwgPrQ3xRYGRUd9gHk1em3.jpg",
+          "videos": [
+            {
+              "id": 469953,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63ecb262cdbdf814b968d58b",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 469959,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044341",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120232,
+          "episode_number": 14,
+          "name": "Eğlenceli Bir Kamp Gezisi",
+          "description": "True Cross Academy öğrencileri için yaz tatilinin başladığının habercisi olan ilk dönem sona erdi. Ancak Rin ve diğer ExWire'lar için görünürde huzur yok: önce onları gerçek bir savaşa hazırlamak için ormanda bir kamp gezisi kisvesi altında 3 günlük bir tatbikatta yer almaları gerekiyor.",
+          "release_date": "2011-07-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fogc2wL4hRDWKUnWSK5WEtLr9d1.jpg",
+          "videos": [
+            {
+              "id": 469964,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63ecb415cdbdf814b968d58c",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 469970,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044350",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120231,
+          "episode_number": 15,
+          "name": "Bir iyilik eylemi",
+          "description": "Rin ve sınıf arkadaşları, öğretmenleri tarafından kendilerine verilen görevi başarır, ancak kamp, ​​Rin'i savaşmaya zorlamak için Shiemi'yi rehin tutan Amaimon tarafından saldırıya uğrar. Amaimon'a karşı tüm gücüyle gitmekten başka seçeneği olmayan Rin, gerçek formunu arkadaşlarının önünde açığa vurarak sırrını açıklamak zorunda kalır. Diğer Exwires onun hakkındaki gerçeği öğrendikten sonra şaşkınlıkla kaçarken, Rin Amaimon'u kolayca alt eder, ancak alevlerinin kontrolünü kaybeder ve öfkelenir. Demon-Slaying Blade bu süreçte kırılır.",
+          "release_date": "2011-07-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/iRGJFWqK4c4fP85y8Qj4RuwM48u.jpg",
+          "videos": [
+            {
+              "id": 469972,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63ecb5c0cdbdf814b968d58e",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 469978,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044356",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120230,
+          "episode_number": 16,
+          "name": "Bahis",
+          "description": "Shiemi, mevcut şövalye Arthur Auguste Angel tarafından yakalanan ve Shura ve Mephisto Pheles boyunca Vatikan'daki True Cross Order Karargahına götürülen Rin'i sakinleştirmeyi başarır. Bu arada, Rin'in sınıf arkadaşları, Yukio onlara kendisinin ve erkek kardeşinin Şeytan'ın oğulları olduğunu söyleyince şaşırırlar, ancak ne olursa olsun yardımlarını sunarlar ve onu tamir ettirmek için Şeytan Katleden Bıçağı döven kılıç ustasının torununu arayan Kyoto'ya doğru yola çıkarlar. . Mephisto, Tarikatın üst kademelerinden önce, Rin'i hayatta tutmasının nedeninin onu Şeytan'la yüzleşmek olduğunu ve onları planını kabul etmeye ikna etmeye çalışırken, öfkeli bir Amaimon'un Rin'le bir kez daha yüzleşmeye istekli olduğunu belirtir.",
+          "release_date": "2011-07-31T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/p8OeN3EjxfFswcHSaoQgZMC7Mss.jpg",
+          "videos": [
+            {
+              "id": 469980,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63ecb6fdcdbdf814b968d58f",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 469986,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044364",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120229,
+          "episode_number": 17,
+          "name": "günaha",
+          "description": "Tüm savunmaları kolayca kıran Amaimon, Rin'in tutulduğu odaya ulaşır ve Mephisto, Grigori'yi planını kabul etmeye ikna eder. Sınıf arkadaşları tarafından getirilen yeniden dövülmüş Demon-Slaying Blade'i kullanan Rin, Amaimon'u yener ve Grigori, Exorcist yetki sınavını geçmek için altı ayı olduğuna karar verir, böylece alevlerini kontrol etmeyi öğrenmek için özel bir eğitime başlar. Kılıcını düzelttirerek Rin'e yardım etmelerine rağmen, bazı sınıf arkadaşları Şeytan'la olan bağlantısını öğrendikten sonra hala onun hakkında bazı karışık duygular içindedir, içlerinden en garip olanı, korkusunun çektiği karanlık bir varlığın yaklaştığı Konekomaru'dur.",
+          "release_date": "2011-08-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vB5ggQuGXYdn2hViu7o3sOaUsMc.jpg",
+          "videos": [
+            {
+              "id": 469992,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63ecb8bccdbdf814b968d590",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 469998,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044371",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120228,
+          "episode_number": 18,
+          "name": "fırtına",
+          "description": "Rin ve Kamiki, bilinmeyen bir düşman tarafından saldırıya uğrar ve Mephisto Pheles, Exwires'a okulu koruyan bariyerleri herhangi bir ihlal aramak için kontrol etmelerini emreder. Düşmanın, Akademi'ye sızmak için Konekomaru'nun korkularından yararlanan bir iblis olduğu ortaya çıkıyor. Bu arada Shura, şüpheli terk edilmiş bir laboratuvara giden gizli bir kapı bulur. Konekomaru'nun kalbi iblise yenik düştüğünde, arkadaşları ona yardım etmek için acele eder ve Rin canavarı öldürüp hayatını kurtarmayı başarır. Bu kadar çok soruna neden olmaktan utanan Konekomaru, Akademiden ayrılıp eve dönmeye karar verir, ancak Rin ve diğer arkadaşları o ayrılmadan önce ona ulaşır ve onu kalmaya ikna eder.",
+          "release_date": "2011-08-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1PcTHENbSpaogzmwjLlFhXD6ne4.jpg",
+          "videos": [
+            {
+              "id": 470003,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63ecbaa3cdbdf814b968d591",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 470009,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044385",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120227,
+          "episode_number": 19,
+          "name": "Sıradan bir gün",
+          "description": "Exwires, Kamiki'nin doğum gününün geldiğini öğrenir ve ona sürpriz bir parti yapmaya karar verir. Partiyi bir sır haline getirmek için tüm çabalarına rağmen, Kamiki gerçeği bulur ve doğum günü geçmiş olanlara da ithaf edilmesi gerektiğini iddia eder. Sonunda, parti herkesin dostluğu için bir kutlama haline gelir.",
+          "release_date": "2011-02-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/rKAVARBYlIHLyeU6lrn1Lz2sgTV.jpg",
+          "videos": [
+            {
+              "id": 470013,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63ecbd0ecdbdf814b968d593",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 470019,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044386",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120226,
+          "episode_number": 20,
+          "name": "maske",
+          "description": "Rin ve Yukio, büyüdükleri manastırdaki arkadaşlarının, tüm vücutlarını görünüşte yok edilemez bir örümcek ağıyla kaplayan maskeli bir kişinin saldırısına uğradıklarını bulurlar. Yukio, amacı Şeytan'ın oğluyla ilgili herkese saldırmak ve ona acı çektirmek olan suçluyu takip ederken, daha fazla açıklama yapmadan kaçan Neuhaus'a rastlar. Kılıcının ağ tarafından mühürlenmesine rağmen, Rin maskeli olanın peşinden gitmekte ısrar eder, ancak Yukio ve Shura tarafından geri tutulur, ta ki Suguro, Renzo ve Konekomaru'nun da saldırıya uğradığını ve onlara yardım etmek için acele ettiğini haber alana kadar. Rin, alevlerini düzgün bir şekilde kontrol etmeyi başararak, karısı olduğunu ortaya çıkaran Neuhaus sayesinde kaçan saldırganı alt eder ve arkadaşlarını güvenli bir şekilde serbest bırakır.",
+          "release_date": "2011-08-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tnxBtFSQurbIkeNa0I1ZuuhoIiu.jpg",
+          "videos": [
+            {
+              "id": 470021,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63ecbf5bcdbdf814b968d594",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 470027,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044422",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 39114,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=2826001",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39119,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=1530340",
+              "extra": "PeaceFansub",
+              "fansub": "PeaceFansub",
+              "fansub_id": 612,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39112,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/240740862538",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39113,
+              "player": "RUTUBE",
+              "url": "https://www.rutube.ru/play/embed/c737c451aff62d9725c8271cb9d8b0c3?autoStart=false&wmode=transparent",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39116,
+              "player": "SENDVID",
+              "url": "https://www.sendvid.com/embed/k9ia5zdb",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 39121,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/21426407943",
+              "extra": "SoutenSubs",
+              "fansub": "SoutenSubs",
+              "fansub_id": 219,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120225,
+          "episode_number": 21,
+          "name": "Gizli Bahçe",
+          "description": "Exorcist Shop'taki Shiemi, bahçelerinde baygın yatan bir kadın bulur. Bu sırada Yukio, trende onun dedesi olduğunu iddia eden yaşlı bir adamla tanışır ve Vatikan tarafından diri diri yakılan Annelerinin cadı olduğunu iddia ettiği gerçeğini ortaya çıkarır. Yukio'yu gizli bir iblis karşıtı Dragoon Laboratuvarı'na götürür ve Shiro öldüğü ve Mephisto tutuklandığı için Yukio'ya kendisine katılmasını önerir. Prof. Neuhaus, Shura tarafından Akademinin Büyük Hücresinde sorguya çekilmektedir ve burada herkese (Rin dahil) karısının (Maskeli Adam) Michelle'in, Şeytan'ı öldürmek niyetinde olan vücudunda belirli bir iblis olan bir cesetten başka bir şey olmadığını söyler. onun tarafından ölümden diriltilmedi. Rin bahçedeki kadının Neuhaus'un karısı olduğunu öğrenir ama Shiemi onu öldürmesini engeller. Paladin Angel, iblisi öldürmek için bahçede belirir, ancak Rin ile yüzleşir. Daha sonra Michelle, Rin'i Yoldaşlıktan korurken ölür.",
+          "release_date": "2011-09-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wubQ0MKQx33jrCiC99QUyZ6ZwPJ.jpg",
+          "videos": [
+            {
+              "id": 470032,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63ecc123cdbdf814b968d596",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 470038,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044424",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120224,
+          "episode_number": 22,
+          "name": "iblis avı",
+          "description": "Ernst, True Cross'un en yeni lideri olarak devraldı ve Yukio'yu yeni Paladin olarak atadı. Kendileriyle birlikte öldürülen iblislerin kanını emen özel silahlarla donanmış şeytan çıkarıcılar, tüm iblisleri Assiah'tan silmek için yaygın bir haçlı seferine katılırlar. Rin ve arkadaşları, tarikatın neden bu kadar aşırı önlemler almaya karar verdiğini sorgulamaya başlar, ancak Ernst'in iddia ettiği gibi, Yukio görevini yerine getirmeye kararlıdır. kardeş yeniden tamamen insan olacaktı. Ancak Ernst'in gerçek amacı, Rin'i Şeytan'ı İnsan Dünyasına getirmek için bir insan kurbanı olarak kullandığında, Yukio'nun vücudunu bir kap olarak kullandığında ortaya çıkar.",
+          "release_date": "2011-09-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9xJWB1xEi9CLInGubAarXDM0464.jpg",
+          "videos": [
+            {
+              "id": 470040,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63ecc2c0cdbdf814b968d597",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 470046,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044428",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120223,
+          "episode_number": 23,
+          "name": "Gerçek",
+          "description": "Ernst'in Gehenna'yı yok etme planı, Şeytan Yukio'ya onun ve kardeşinin kökeninin ardındaki gerçeği daha onun bedenini ele geçirmeden önce ifşa ettiğinde geri teper.",
+          "release_date": "2011-09-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/w9lyLjhjT5nI0XJ72D51oyyt1k6.jpg",
+          "videos": [
+            {
+              "id": 470049,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63ecc459cdbdf814b968d599",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 470055,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044433",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120222,
+          "episode_number": 24,
+          "name": "Şeytan'ın Yumurtlaması",
+          "description": "Rin ve arkadaşları, True Cross Akademisi'ni alevleriyle yok etmeye başlayan Şeytan'dan kaçmayı başarır. Rin'in onu yok etme gücü olduğu için Şeytan'ın hala Kapının yanında durduğunu bilen Shura, diğer öğrenciler okulu tahliye etmeye yardım ederken, Rin'e bunu yapması için bir fırsat vermek için dikkatini dağıtmak için bir plan yapar. Planları, Shiemi'nin Yukio'yu caydırmaya çalışırken araya girmesiyle başarısız olur, ancak Rin kardeşinin vicdanını yeniden kazanmasını ve Şeytan'ı vücudundan atmasını sağlar. Ancak, kapı güçlenmeye devam ediyor ve Gehenna ile Assiah'ın tek bir alemde birleşmeleri uzun sürmeyecek.",
+          "release_date": "2011-09-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/d8kDKXliOptum0ha97gcgwfH4JM.jpg",
+          "videos": [
+            {
+              "id": 470059,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63ecc667cdbdf814b968d59a",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 470065,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044442",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120221,
+          "episode_number": 25,
+          "name": "Durma zamanı!",
+          "description": "Rin, Yukio, Shura ve Arthur, Gehenna Kapısı'nı başarılı bir şekilde yıkmak için güçlerini birleştirir. Bu arada, iblisler içinden gelmeye devam ediyor ve diğer Exorcistlere zor anlar yaşatıyor, ta ki Esquires, zaten gündüz olan Vatikan'a bir kapı açma ve oradaki güneş ışığını, canavarları zayıflatmak için gecenin olduğu Akademi'ye yansıtma planıyla gelene kadar. Gehenna Kapısı'nı korumak. Rin ve Yukio bu fırsatı değerlendirmeyi başarır ve ikisi birlikte şeytani güçlerini açığa çıkardıklarında, kapıdan uçarlar ve onu yok ederler. Bir ay sonra Akademi'de işler normale döner ve Okumura ikizleri doğdukları mağaraya dönerler ve annelerinin mezarını ziyaret ederler.\n\nAnnelerinin mezarını ziyaret ettikten sonra bir otoyolda \"kötü bir ruh\" ile karşılaşırlar. Rin, Kuro ile birlikte bir otoyol mağarasından çıkar. Kötü ruh daha sonra Rin ve Yukio'ya saldırır. Rin, kötü ruhun ilk bedenini yok eder ve ardından ruh, bir kamyonun kontrolünü ele geçirir. Yukio kamyona ateş eder, Rin ona kamyonda birinin olduğunu söyler. Yukio bunun sadece ölü bir ceset olduğunu söylüyor, ancak Rin sürücünün hala hayatta olduğuna ve insanları korumak ve iblislere karşı savunmak için bir Exorcist'in işi olduğuna inanıyor. Yukio ve Shura'ya zayıf noktalarını bulmalarını söyler ve canavarın peşine düşer.",
+          "release_date": "2011-10-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pvX4jAnO20in0JPnhhxi3yLqOTp.jpg",
+          "videos": [
+            {
+              "id": 470070,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63ecc8fecdbdf814b968d59c",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 470076,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5044456",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1230,
+      "season_number": 2,
+      "name": "Kyoto Fujouou Hen",
+      "episode_count": 14,
+      "episodes": [
+        {
+          "id": 170937,
+          "episode_number": 1,
+          "name": "Küçük Başlangıçlar",
+          "description": "Sırrı açığa çıktıktan sonra Rin, True Cross Akademisi kasasından çalınan bir iblis kalıntısı olan \"Kirli Kralın Sol Gözü\"nü almak için Shura ve Yukio boyunca özel bir göreve katılır. Bu vesileyle, onu geri alamazlar, ancak suçlunun, bir iblis tarafından ele geçirildikten sonra bozulan kasadan sorumlu şeytan çıkarma uzmanlarından biri olan Saburota Todo olduğunu keşfederler. Sol Gözün kardeş kalıntısını, Kyoto'daki \"Kirli Kralın Sağ Gözü\"nü çalma girişimi olduğunu duyduktan sonra, Teşkilat, öğrendikten sonra çatışan Shura, Yukio ve Exwires da dahil olmak üzere araştırmak için oraya bir ekip gönderir. Rin hakkındaki gerçek.",
+          "release_date": "2017-01-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7vqw6IsEm4mSxJvF4nN59eKg3o1.jpg",
+          "videos": [
+            {
+              "id": 379275,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63269018d339cac05c6d4de0",
+              "extra": "Xyzzy / S.Erturk",
+              "fansub": "Xyzzy",
+              "fansub_id": 615,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 219292,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "Xyzzy / S.Erturk",
+              "fansub": "Xyzzy",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 219288,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-gojxhi8btaaw.html",
+              "extra": "Xyzzy / S.Erturk",
+              "fansub": "Xyzzy",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 219291,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/e9rk9l0dft1q.html",
+              "extra": "Xyzzy / S.Erturk",
+              "fansub": "Xyzzy",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 170936,
+          "episode_number": 2,
+          "name": "Garip Yatak Arkadaşları",
+          "description": "Exwires Kyoto'ya varır ve Ryuji, Konekomaru ve Renzo aileleriyle yeniden bir araya gelme fırsatını yakalarken, Rin ve diğerleri, Myoda Tarikatı'nın Impure King'in Sağ Gözünü korurken yaralanan Exorcists'e yönelirler. Bu vesileyle Rin, Ryuji'nin babasıyla tanışır ve Myoda Tarikatı'nın lideri olmasına rağmen Ryuji'nin ona kırgın olduğunu öğrenir, kaybettikten sonra zayıflayan Tarikat'tan beri görevlerini düşürdüğü için diğerleri tarafından saygı görmez. Mavi Gece'deki birkaç üyesi True Cross Order'a katıldı. Bu arada, Todo, Kirli Kral'ın Sol Gözü'nün kendi gözünün yerini almasıyla, Tarikat içindeki köstebeğiyle bağlantı kurarak Sağ Gözü çalmak için başka bir girişim planlar.",
+          "release_date": "2017-01-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cwbA6Dzp5G1e0fgmRVzFHyQGTg1.jpg",
+          "videos": [
+            {
+              "id": 379274,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63268facd339cac05c6d4ddf",
+              "extra": "Xyzzy / S.Erturk",
+              "fansub": "Xyzzy",
+              "fansub_id": 615,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 219298,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "Xyzzy / S.Erturk",
+              "fansub": "Xyzzy",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 219294,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-xgnvvrfmwb6h.html",
+              "extra": "Xyzzy / S.Erturk",
+              "fansub": "Xyzzy",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 219297,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/mlw69y2rw1lj.html",
+              "extra": "Xyzzy / S.Erturk",
+              "fansub": "Xyzzy",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 170935,
+          "episode_number": 3,
+          "name": "Şüphe Bojileri Yükseltecek",
+          "description": "Myoda Tarikatı, Kirli Kralın Sağ Gözünü çalmaya yönelik başarısız girişimi tartışmak ve Todo ile işbirliği yapan hainin aralarında kim olduğunu keşfetmek için acil bir toplantı yapar. Bu vesileyle, mezhebin şeytan kovucularından Renzo'nun ağabeyi Juzo ve Mamushi'ye, olay yerinde bulundukları ve geçmişte Todo'nun öğrencileri oldukları için şüpheler dile getirildi, ancak toplantıya katılmayan başrahip olarak kabul edildi. hem de bir şüpheli, Ryuji'nin öfkesine çok fazla. Bu arada Rin, Myoda'nın onun Şeytan'ın oğlu olduğunu öğrendikten sonra vereceği tepkiden korkan arkadaşlarıyla barışmaya çalışırken alevlerini kontrol etmek için eğitimine devam eder.",
+          "release_date": "2017-01-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qbWhbcvUejV8dz04wEP2n9LQ0gs.jpg",
+          "videos": [
+            {
+              "id": 379271,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63268e95d339cac05c6d4ddd",
+              "extra": "Xyzzy / S.Erturk",
+              "fansub": "Xyzzy",
+              "fansub_id": 615,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 219332,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "Xyzzy / S.Erturk",
+              "fansub": "Xyzzy",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 219328,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-l7izd4x06b6v.html",
+              "extra": "Xyzzy / S.Erturk",
+              "fansub": "Xyzzy",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 219331,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/cvznqs0bk54v.html",
+              "extra": "Xyzzy / S.Erturk",
+              "fansub": "Xyzzy",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 170934,
+          "episode_number": 4,
+          "name": "İhanet Yasası",
+          "description": "Myoda mezhebine kim ihanet ediyor? Yüksek rahip Tatsuma'nın katılımı olmadan, genel toplantı kaosa girer ve bir sonuç olmadan sona erer. Suguro babasını bulmaya ve sorgulamaya karar verirken, birinin Kyoto saha ofisine gizlice girdiğine tanık olur…",
+          "release_date": "2017-01-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7lo1zKrgEFHlfdJMm7gm1Fsbl7j.jpg",
+          "videos": [
+            {
+              "id": 379270,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63268e27d339cac05c6d4ddc",
+              "extra": "Xyzzy / S.Erturk",
+              "fansub": "Xyzzy",
+              "fansub_id": 615,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 219338,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "Xyzzy / S.Erturk",
+              "fansub": "Xyzzy",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 219334,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-zpmev9yv0q2d.html",
+              "extra": "Xyzzy / S.Erturk",
+              "fansub": "Xyzzy",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 219337,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/irbmweu6fwn8.html",
+              "extra": "Xyzzy / S.Erturk",
+              "fansub": "Xyzzy",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 170933,
+          "episode_number": 5,
+          "name": "Gizemli Bağlantılar",
+          "description": "Hain ortaya çıkmasına rağmen, Kirli Kralın Sağ Gözü çalınmıştır. Rin, Ryuji ile yüzleşirken, toplanan şeytan çıkarıcıların önünde mavi alevlerinin kontrolünü kaybeder. Tüm kargaşada Tatsuma, Shura'ya Rin'e hitaben yazılmış bir mektup verir.",
+          "release_date": "2017-02-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/700noPCcxyTBSjC6HEW3HM9dhCA.jpg",
+          "videos": [
+            {
+              "id": 379269,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63268d9bd339cac05c6d4ddb",
+              "extra": "Xyzzy / S.Erturk",
+              "fansub": "Xyzzy",
+              "fansub_id": 615,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 219344,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "Xyzzy / S.Erturk",
+              "fansub": "Xyzzy",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 219340,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-zn71u1iinhjn.html",
+              "extra": "Xyzzy / S.Erturk",
+              "fansub": "Xyzzy",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 219343,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/iluj82uuphxh.html",
+              "extra": "Xyzzy / S.Erturk",
+              "fansub": "Xyzzy",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 170932,
+          "episode_number": 6,
+          "name": "Koyun kılığındaki bir kurt",
+          "description": "Rin ve Yukio'nun üvey babası Shiro Fujimoto, şeytani kılıç Kurikara'yı almaya çalışırken Tatsuma Suguro ile karşılaştı. Tatsuma'nın mektubu, Myoda Tarikatının ana ibadet nesnesi olan kılıcın Rin'e nasıl geldiğinin koşullarını ortaya koyuyor.",
+          "release_date": "2017-02-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/uK2gRr5SAn6OYyHVIElZSFfrc7B.jpg",
+          "videos": [
+            {
+              "id": 379268,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63268d35d339cac05c6d4dda",
+              "extra": "Xyzzy / S.Erturk",
+              "fansub": "Xyzzy",
+              "fansub_id": 615,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 219350,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "Xyzzy / S.Erturk",
+              "fansub": "Xyzzy",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 219346,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-q1o32pzlvnzh.html",
+              "extra": "Xyzzy / S.Erturk",
+              "fansub": "Xyzzy",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 219349,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/tx2cxg7pptw6.html",
+              "extra": "Xyzzy / S.Erturk",
+              "fansub": "Xyzzy",
+              "fansub_id": 615,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 170931,
+          "episode_number": 7,
+          "name": "Parlak yanan bir ateş gibi",
+          "description": "Kirli Kral yeniden canlandırıldı! Mektubunda Tatsuma, Rin'den savaşmak için Koma kılıcını kullanmasını ister, ama bu mümkün olacak mı? Ve işleri daha da kötüleştirmek için, Mephisto aniden Rin'in ölüme mahkum edildiği haberiyle ortaya çıkar!",
+          "release_date": "2017-02-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1ByK9qJ0diBtaIxvJluYkFnV2m5.jpg",
+          "videos": [
+            {
+              "id": 379267,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63268cb4d339cac05c6d4dd9",
+              "extra": "Animan",
+              "fansub": "Animan",
+              "fansub_id": 202,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 219356,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "Animan",
+              "fansub": "Animan",
+              "fansub_id": 202,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 219352,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-kd117k7c6wei.html",
+              "extra": "Animan",
+              "fansub": "Animan",
+              "fansub_id": 202,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 219355,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/5kkxjvmh48s4.html",
+              "extra": "Animan",
+              "fansub": "Animan",
+              "fansub_id": 202,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 170930,
+          "episode_number": 8,
+          "name": "Babadan oğula",
+          "description": "Exorcists, Impure King'in büyümesine karşı koymaya başladığında Miasma sokaklara yayılıyor. Rin, Tatsuma'yı bulmak için diğer öğrencilerle birlikte ayrılır. Kardeşinin hücresinden ayrıldığından habersiz olan Yukio, ön saflardayken garip bir şey fark eder...",
+          "release_date": "2017-02-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cIGBxXhNEsEgD8UocxuRGEw6Tev.jpg",
+          "videos": [
+            {
+              "id": 379266,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63268c14d339cac05c6d4dd8",
+              "extra": "Animan",
+              "fansub": "Animan",
+              "fansub_id": 202,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 219362,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "Animan",
+              "fansub": "Animan",
+              "fansub_id": 202,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 219358,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-uib3izangjmp.html",
+              "extra": "Animan",
+              "fansub": "Animan",
+              "fansub_id": 202,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 219361,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/50yn7t8s2vkt.html",
+              "extra": "Animan",
+              "fansub": "Animan",
+              "fansub_id": 202,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 170929,
+          "episode_number": 9,
+          "name": "İyi ve kötü günde",
+          "description": "\"Kardeşinden nefret ediyorsun, değil mi?\" Todo ona gerçek duygularını itiraf etmesini söyleyince Yukio sarsılır. Yukio, erken yaşlardan beri sahip olduğu düşünceleri yansıtır. Bu arada, Suguro Gouha-en'i miras aldı ve onunla birlikte o ve Rin sporangium'a gidiyor.",
+          "release_date": "2017-03-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/5hJXpnW4h2zPdJCOoWII5KhO6HA.jpg",
+          "videos": [
+            {
+              "id": 379265,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63268bb8d339cac05c6d4dd7",
+              "extra": "Animan",
+              "fansub": "Animan",
+              "fansub_id": 202,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 219368,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "Animan",
+              "fansub": "Animan",
+              "fansub_id": 202,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 219364,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-y863p392lkgz.html",
+              "extra": "Animan",
+              "fansub": "Animan",
+              "fansub_id": 202,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 219367,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/7cizzoysnmrn.html",
+              "extra": "Animan",
+              "fansub": "Animan",
+              "fansub_id": 202,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 170928,
+          "episode_number": 10,
+          "name": "Eğilmemiş ve Kırılmamış",
+          "description": "Sporangium sonunda patladı ve Kirli Kral'ı ortaya çıkardı. Miasma tarafından saldırıya uğrayan Suguro, bariyeri zar zor korur. Ve her geçen an onu sınırına biraz daha yaklaştırıyor. Rin, köşeye sıkışsa bile kılıcını neden çekemediğini sorgular.",
+          "release_date": "2017-03-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/6JFYbmX9ajwBuS1X7KdrlmbGqgA.jpg",
+          "videos": [
+            {
+              "id": 379264,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63268b4cd339cac05c6d4dd6",
+              "extra": "Animan",
+              "fansub": "Animan",
+              "fansub_id": 202,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 219375,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "Animan",
+              "fansub": "Animan",
+              "fansub_id": 202,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 219371,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-i3l1elcw99zf.html",
+              "extra": "Animan",
+              "fansub": "Animan",
+              "fansub_id": 202,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 219374,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/u3gq82unem8h.html",
+              "extra": "Animan",
+              "fansub": "Animan",
+              "fansub_id": 202,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 170927,
+          "episode_number": 11,
+          "name": "Güneş gibi Parla",
+          "description": "Rin sonunda iblis kılıcını çekmeyi başarır. Shura ona “Bu dünyada kendine bir yer kazan!” der. Ancak, Impure King'in ezici büyümesini durdurmanın bir yolu yok gibi görünüyor. Ve Suguro'nun gücü başarısız olursa, bariyer çökecek!",
+          "release_date": "2017-03-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vtrQDP6DZX0wkSH2ZI0LqTVJyOI.jpg",
+          "videos": [
+            {
+              "id": 379263,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63268ad3d339cac05c6d4dd5",
+              "extra": "Animan",
+              "fansub": "Animan",
+              "fansub_id": 202,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 219381,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "Animan",
+              "fansub": "Animan",
+              "fansub_id": 202,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 219377,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-82mgdsdoobiz.html",
+              "extra": "Animan",
+              "fansub": "Animan",
+              "fansub_id": 202,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 219380,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/duaxfspzbh1z.html",
+              "extra": "Animan",
+              "fansub": "Animan",
+              "fansub_id": 202,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 170926,
+          "episode_number": 12,
+          "name": "Samimi ve Açık",
+          "description": "Gece gökyüzünde yanan mavi bir alevin görüntüsü “Mavi Gece”yi andırıyor ama tamamen farklı bir sonuç ortaya çıkardı. Artık Saf Olmayan Kral ile ilgili olaylar sona erdiğine göre, etkilenenler devam ediyor.",
+          "release_date": "2017-03-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/6ZiegNWpdlnLTtPbYntTwBCf4B9.jpg",
+          "videos": [
+            {
+              "id": 379262,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63268a55d339cac05c6d4dd4",
+              "extra": "Animan",
+              "fansub": "Animan",
+              "fansub_id": 202,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 219387,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "Animan",
+              "fansub": "Animan",
+              "fansub_id": 202,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 219383,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-2favdyqrt5s8.html",
+              "extra": "Animan",
+              "fansub": "Animan",
+              "fansub_id": 202,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 219386,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/6qkt6va74jwn.html",
+              "extra": "Animan",
+              "fansub": "Animan",
+              "fansub_id": 202,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 206905,
+          "episode_number": 13,
+          "name": "Ao no Exorcist: Kyoto Fujouou-hen OVA 1. Bölüm",
+          "description": "Ao no Exorcist mangasının 19. ve 20. ciltleriyle birlikte gelen OVA bölümlerdir.",
+          "release_date": "2017-04-04T13:35:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 614068,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65834e6e30e908b3e8e7226e",
+              "extra": "Animan",
+              "fansub": "Animan",
+              "fansub_id": 202,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 614073,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5371455",
+              "extra": "Animan",
+              "fansub": "Animan",
+              "fansub_id": 202,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 206906,
+          "episode_number": 14,
+          "name": "Ao no Exorcist: Kyoto Fujouou-hen OVA 2. Bölüm",
+          "description": "Ao no Exorcist mangasının 19. ve 20. ciltleriyle birlikte gelen OVA bölümlerdir.",
+          "release_date": "2017-04-04T19:36:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 614086,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6583535d30e908b3e8e72270",
+              "extra": "Animan",
+              "fansub": "Animan",
+              "fansub_id": 202,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 614091,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5371466",
+              "extra": "Animan",
+              "fansub": "Animan",
+              "fansub_id": 202,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4905,
+      "season_number": 3,
+      "name": null,
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 207273,
+          "episode_number": 1,
+          "name": null,
+          "description": null,
+          "release_date": "2024-01-09T05:09:25.365Z",
+          "poster": "https://image.tmdb.org/t/p/original/mFlRp3yOaR8bZVb2p10C7vREsu1.jpg",
+          "videos": [
+            {
+              "id": 618254,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/659cd379b304d628d5f54f61",
+              "extra": "enchanted & chihiro & Nova",
+              "fansub": "enchanted",
+              "fansub_id": 421,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 618259,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5391877",
+              "extra": "enchanted & chihiro & Nova",
+              "fansub": "enchanted",
+              "fansub_id": 421,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 207421,
+          "episode_number": 2,
+          "name": null,
+          "description": null,
+          "release_date": "2024-01-14T20:59:20.192Z",
+          "poster": "https://image.tmdb.org/t/p/original/jVYJfgtXYDRFQ91S7LHy1QJ9AMv.jpg",
+          "videos": [
+            {
+              "id": 618960,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65a44991b304d628d5f54fea",
+              "extra": "enchanted & chihiro & kathyn",
+              "fansub": "enchanted",
+              "fansub_id": 421,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 618965,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5399037",
+              "extra": "enchanted & chihiro & kathyn",
+              "fansub": "enchanted",
+              "fansub_id": 421,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 207445,
+          "episode_number": 3,
+          "name": null,
+          "description": null,
+          "release_date": "2024-01-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/A8O1wFDn0820l6CoemEs1S4wy2H.jpg",
+          "videos": [
+            {
+              "id": 620970,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ad8365b304d628d5f55178",
+              "extra": "enchanted & chihiro & kathyn",
+              "fansub": "enchanted",
+              "fansub_id": 421,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 620975,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5407951",
+              "extra": "enchanted & chihiro & kathyn",
+              "fansub": "enchanted",
+              "fansub_id": 421,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 207446,
+          "episode_number": 4,
+          "name": null,
+          "description": null,
+          "release_date": "2024-01-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kJvPqWGuyTXJnJs3cWlNIQrdUYD.jpg",
+          "videos": [
+            {
+              "id": 623597,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65bc12f3b304d628d5f553ae",
+              "extra": "enchanted & chihiro & kathyn",
+              "fansub": "enchanted",
+              "fansub_id": 421,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 623602,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5419896",
+              "extra": "enchanted & chihiro & kathyn",
+              "fansub": "enchanted",
+              "fansub_id": 421,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 207447,
+          "episode_number": 5,
+          "name": null,
+          "description": null,
+          "release_date": "2024-02-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kGSwIPgnqJSVrbUNnuI5tAaHE9l.jpg",
+          "videos": [
+            {
+              "id": 626687,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65d2709f35424e1e68a239f4",
+              "extra": "enchanted & chihiro & HakaiRyuu",
+              "fansub": "enchanted",
+              "fansub_id": 421,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 626691,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5437325",
+              "extra": "enchanted & chihiro & HakaiRyuu",
+              "fansub": "enchanted",
+              "fansub_id": 421,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 207448,
+          "episode_number": 6,
+          "name": null,
+          "description": null,
+          "release_date": "2024-02-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kEUDLb4gPG6IwhNlJATn4STbZJF.jpg",
+          "videos": [
+            {
+              "id": 627964,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65db2c3071b8322dba0910b4",
+              "extra": "enchanted & chihiro & HakaiRyuu",
+              "fansub": "enchanted",
+              "fansub_id": 421,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 627967,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5445584",
+              "extra": "enchanted & chihiro & HakaiRyuu",
+              "fansub": "enchanted",
+              "fansub_id": 421,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 207449,
+          "episode_number": 7,
+          "name": null,
+          "description": null,
+          "release_date": "2024-02-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/iDQME0cHP1BAnqp1lbkttFTp1HJ.jpg",
+          "videos": [
+            {
+              "id": 627960,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65db2ad735424e1e68a23a8f",
+              "extra": "enchanted & chihiro & HakaiRyuu",
+              "fansub": "enchanted",
+              "fansub_id": 421,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 627963,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5445581",
+              "extra": "enchanted & chihiro & HakaiRyuu",
+              "fansub": "enchanted",
+              "fansub_id": 421,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 207450,
+          "episode_number": 8,
+          "name": null,
+          "description": null,
+          "release_date": "2024-02-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xhWL85DPzX4kjMylNPl5ZZzs0hO.jpg",
+          "videos": [
+            {
+              "id": 629285,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65e4b11299775ec084000776",
+              "extra": "enchanted & chihiro & HakaiRyuu",
+              "fansub": "enchanted",
+              "fansub_id": 421,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 629289,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5454357",
+              "extra": "enchanted & chihiro & HakaiRyuu",
+              "fansub": "enchanted",
+              "fansub_id": 421,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 207451,
+          "episode_number": 9,
+          "name": null,
+          "description": null,
+          "release_date": "2024-03-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/eyQUD6kPvyeg6eSeLbcauUCCgiL.jpg",
+          "videos": [
+            {
+              "id": 631357,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65f20039926a0f406b38af69",
+              "extra": "enchanted & chihiro & HakaiRyuu | holysubs.blogspot.com | discord.gg/MFyGBGgASr",
+              "fansub": "enchanted",
+              "fansub_id": 421,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 631361,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5467338",
+              "extra": "enchanted & chihiro & HakaiRyuu | holysubs.blogspot.com | discord.gg/MFyGBGgASr",
+              "fansub": "enchanted",
+              "fansub_id": 421,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 207452,
+          "episode_number": 10,
+          "name": null,
+          "description": null,
+          "release_date": "2024-03-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/i3Lx6Zf0WLEojJWlfp4bajr0D6r.jpg",
+          "videos": [
+            {
+              "id": 631549,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65f2297a926a0f406b38af76",
+              "extra": "enchanted & chihiro & HakaiRyuu",
+              "fansub": "enchanted",
+              "fansub_id": 421,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 631553,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5467440",
+              "extra": "enchanted & chihiro & HakaiRyuu",
+              "fansub": "enchanted",
+              "fansub_id": 421,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 207453,
+          "episode_number": 11,
+          "name": null,
+          "description": null,
+          "release_date": "2024-03-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dumzzc5w9fVvcJun6Q20kig6417.jpg",
+          "videos": [
+            {
+              "id": 633055,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65fc823399775ec0840008c2",
+              "extra": "enchanted & chihiro & HakaiRyuu | holysubs.blogspot.com",
+              "fansub": "enchanted",
+              "fansub_id": 421,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 633059,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5476602",
+              "extra": "enchanted & chihiro & HakaiRyuu | holysubs.blogspot.com",
+              "fansub": "enchanted",
+              "fansub_id": 421,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 207454,
+          "episode_number": 12,
+          "name": null,
+          "description": null,
+          "release_date": "2024-03-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xfQAf1K2NgcYdOMyJd26pJYlYO3.jpg",
+          "videos": [
+            {
+              "id": 647391,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/665c4956a78f8877c29c7be6",
+              "extra": "enchanted & chihiro & Nova",
+              "fansub": "enchanted",
+              "fansub_id": 421,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 647395,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5552134",
+              "extra": "enchanted & chihiro & Nova",
+              "fansub": "enchanted",
+              "fansub_id": 421,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5441,
+      "season_number": 4,
+      "name": null,
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 218364,
+          "episode_number": 1,
+          "name": "Tutku",
+          "description": "Uzak Doğu Laboratuvarı'nın kontrolünü ele geçirme başarısına rağmen İlluminati hala büyük bir tehdit olmaya devam ediyor. Gerçek Haç Şövalyeleri, karşı önlemler oluşturmak için üst düzeyler arasında defalarca tartışmalar yürütür. Bu arada Rin ve diğer öğrencilere Şeytan Çıkarma Sertifika Sınavlarının planlanandan daha erken yapılacağı bilgisi verilir. Shimane'deki olayların ardından Suguro, şeytan kovucu olmasının nedenini gözden kaçırdığı gerçeğiyle mücadele eder. Ancak Arch Knight Lightning, Exorcist Dershanesi'ne yeni eğitmen olarak atanır...",
+          "release_date": "2024-10-05T12:30:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xzsfnVfeRqvknbeTUQdC27AntAq.jpg",
+          "videos": [
+            {
+              "id": 690296,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6712dc9b75d18175dc0e5761",
+              "extra": "Çeviren: Gece | Encode: Sypha",
+              "fansub": "Gece",
+              "fansub_id": 620,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 690299,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5721022",
+              "extra": "Çeviren: Gece | Encode: Sypha",
+              "fansub": "Gece",
+              "fansub_id": 620,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 690294,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/12w0GAzcyjHu_5rmIF8ujh3IihzMFpAKw/preview",
+              "extra": "Çeviren: Gece | Encode: Sypha",
+              "fansub": "Gece",
+              "fansub_id": 620,
+              "quality": "1080p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 218365,
+          "episode_number": 2,
+          "name": "Sıkıntı",
+          "description": "Yukio, gözünde tuhaf bir olay meydana geldiğinden beri, ortaya çıkan gücün doğasını araştırmaya karar verir. Kendini tehlikeli eğitime adayarak kendi hayatını tehlikeye atıyor…",
+          "release_date": "2024-10-12T12:30:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/6k8ehubn2LHA0BvEc8UR0ut7dwY.jpg",
+          "videos": [
+            {
+              "id": 690301,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6712de7075d18175dc0e5762",
+              "extra": "Çeviren: Gece | Encode: Sypha",
+              "fansub": "Gece",
+              "fansub_id": 620,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 690304,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5721026",
+              "extra": "Çeviren: Gece | Encode: Sypha",
+              "fansub": "Gece",
+              "fansub_id": 620,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 690295,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1938rRNfJ2TIhXyoBIp3Y1squUz-1kjOB/preview",
+              "extra": "Çeviren: Gece | Encode: Sypha",
+              "fansub": "Gece",
+              "fansub_id": 620,
+              "quality": "1080p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 218366,
+          "episode_number": 3,
+          "name": "Memleket",
+          "description": "Shura aniden kaybolur. Ancak Mephisto, son izlerine dayanarak Shura'nın Aomori Eyaletindeki memleketine dönme ihtimalinin yüksek olduğu sonucuna varır. Bu nedenle Rin ve Yukio'ya oraya gidip onu aramalarını emreder. İkizler araştırdıktan sonra Aomori'deki Towada Gölü'ne varırlar. Shura, göl ve çevresindeki geniş toprakları ele geçiren güçlü bir Hydra olan Hachirotaro Okami ile karşı karşıyaydı. Hachiro ve yılan arkadaşları, Shura'yı kendisine verdiği sözü yerine getirmeye teşvik eder.",
+          "release_date": "2024-10-19T12:30:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ySJKdKsgl00y2I3G4MhrKwRKpTD.jpg",
+          "videos": [
+            {
+              "id": 691559,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6721163edadcfea584d8252c",
+              "extra": "Gece & Berke & Sypha",
+              "fansub": "Gece",
+              "fansub_id": 620,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 218367,
+          "episode_number": 4,
+          "name": "Sana elveda",
+          "description": "Hachiro ve Shura'nın atası Tatsuko Kirigakure arasında yapılan sözleşmeye göre, her nesil, güç kazanma karşılığında 30 yaşında ölmeye mahkumdur. Shura, Rin ve Yukio'ya kaderi hakkında bilgi verir. Pişman olmadığını belirtir ancak Rin ikna olmaz ve Hachiro'yu yenmelerini önerir. Ancak Hachiro daha sonra Shura'yı kaçırır. Rin ve Yukio, onu kurtarmak için Hachiro'ya giderler, ancak oraya vardıklarında Shura'nın Hachiro'nun hipnotik güçleri tarafından kontrol edildiğini görürler.",
+          "release_date": "2024-10-26T15:30:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9WvCVGSOlWcL1sG7zdrWd9KNvBq.jpg",
+          "videos": [
+            {
+              "id": 695965,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/674ef6b45f790413917b855c",
+              "extra": "holysubs.org",
+              "fansub": "holysubs.org",
+              "fansub_id": 621,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 218368,
+          "episode_number": 5,
+          "name": "Sanki gözyaşları için yalvarıyormuş gibi",
+          "description": "Rin ve arkadaşları, Yukio'nun zekice zekasıyla Hachiro'yu kandırabilir ve Shura ile olan sözleşmesini başarıyla feshetmesini sağlayabilir. Ancak Hachiro öfkeyle tüm kontrolü kaybeder ve Shura'yı bir kez daha yakalayıp donmuş göle doğru yönelir. Ölümsüz Hachiro ölmek istediğini ifade ettiğinde Shura ona gölün dibinde sonsuza kadar birlikte uyuyacaklarını söyler ve ona sarılır. Ancak göle battıklarında Shura'nın zihninde bir zamanlar Shiro'yla geçirdiği günlerin anıları canlanır.",
+          "release_date": "2024-11-02T15:30:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zsfQ40IVAYCUXYbzfgm72SNT5M5.jpg",
+          "videos": [
+            {
+              "id": 699994,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/677846bcc88ed221efe34a3f",
+              "extra": "Gece & Berke & Sypha",
+              "fansub": "Gece",
+              "fansub_id": 620,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 218369,
+          "episode_number": 6,
+          "name": "Uyanış",
+          "description": "Aomori'deki olayın sona ermesiyle birlikte True Cross Şövalyeleri Japonya Şubesi'nde işler sakinleşmeye başlar. Yıldırım, Suguro ile birlikte İlluminati araştırmasına başlar. Yıldırım, Japonya Şubesi içinde İlluminati ve \"Mavi Gece\" ile bağlantılı bir şeyler olduğundan şüpheleniyor. Bu arada Rin'in itirafını alan Shiemi, \"romantik aşk\" ile \"arkadaşlık aşkı\" arasındaki farkı anlamadığından endişelenir. Buna daha fazla tanık olamayan Izumo bir öneride bulunur.",
+          "release_date": "2024-11-09T15:30:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/6qig0K8ywmwWrhiEYWH3beTgJqm.jpg",
+          "videos": [
+            {
+              "id": 700377,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/677d75af977272eda6ff51ff",
+              "extra": "Gece & Berke & Sypha",
+              "fansub": "Gece",
+              "fansub_id": 620,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 218370,
+          "episode_number": 7,
+          "name": "Varyant Yapraklar",
+          "description": "Şimşek, Mavi Gece'yi araştırmaya devam ederken üç kişinin adını fark eder. Mavi Gece'nin ardından üç adam, True Cross Japonya Şubesi Şövalyeleri'nden ayrıldı ve Okumura Kardeşlerin büyüdüğü yer olan Güney Haç Manastırı'nda yaşayan rahipler oldular. Yıldırım ve Suguro, o dönemde olup bitenleri ilk elden öğrenmek için Manastırı ziyaret eder. Sessiz kalanlara karşı güçlü önlemler almak isteyen Yıldırım, Mavi Gece'nin gizemine yaklaşıyor...",
+          "release_date": "2024-11-16T15:30:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/uHFMWcFLEtedNGQMsErB3fgVORP.jpg",
+          "videos": [
+            {
+              "id": 700380,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/677d765e977272eda6ff5200",
+              "extra": "Gece & Berke & Sypha",
+              "fansub": "Gece",
+              "fansub_id": 620,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 218371,
+          "episode_number": 8,
+          "name": "Mutlu (Mutlu Noeller) Doğum Günü!",
+          "description": "Şimşek ve Suguro, Mavi Gece'nin hemen ardından ortaya çıkan Bölüm 13'e tanıklık eder ve Mephisto, orada yürütülen araştırmayla ilgili gerçeği ortaya çıkarır. Bu arada Shiemi aniden Şeytan Çıkarma Sertifika Sınavına girmeyi reddetme ve okulu bırakma niyetini dile getirdi.",
+          "release_date": "2024-11-23T15:30:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8iBesoZCDsSmiq5em3FQ2Y4tkVe.jpg",
+          "videos": [
+            {
+              "id": 701933,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/678bc90d69464d15eb2d0a67",
+              "extra": "Gece & Berke & Sypha | holysubs.org | discord.gg/MFyGBGgASr",
+              "fansub": "Gece",
+              "fansub_id": 620,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 218372,
+          "episode_number": 9,
+          "name": "Tebrikler",
+          "description": "Yukio doğumlarının sırrını öğrenmek isterken Rin bilmeye gerek olmadığına inanır. Fikirleri çatışan Rin ve diğerleri, Juzo Shima ve Mamushi Hojo'nun düğününe katılmak için Kyoto'ya gider.",
+          "release_date": "2024-11-30T15:30:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/d5z05wPIK1YpWG1l8TrOL7bFPu6.jpg",
+          "videos": [
+            {
+              "id": 701936,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/678bc9e469464d15eb2d0a68",
+              "extra": "Gece & Sypha | holysubs.org | discord.gg/MFyGBGgASr",
+              "fansub": "Gece",
+              "fansub_id": 620,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 218373,
+          "episode_number": 10,
+          "name": "Yağan Karda",
+          "description": "Şeytan kovucular kentsel alanlarda ortaya çıkmaya başlayan yüksek rütbeli iblislerle uğraşmakla meşguller. Shura, Ikebukuro'da ön sıralarda yer alıyor. Temptaint'ın kazanılması sonucunda iblisleri görebilen insan sayısı artar ve dünya kaosa sürüklenir. Aynı zamanda Yukio, Suguro'yu silahıyla tehdit eder ve ona Yıldırım'ın soruşturmasının ayrıntılarını öğrenmesini sağlamaya çalışır. Yukio, Shima'nın uyarılarını dikkate almayı reddeder ve giderek yalnızlaşır. Bir görev için Tokyo'ya döner ve Yıldırım ile karşılaşır.",
+          "release_date": "2024-12-07T15:30:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/nzA61L8IeBrz5OUPBYq7lN8ZtPr.jpg",
+          "videos": [
+            {
+              "id": 712227,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67e1a93747b862535fe0617d",
+              "extra": "Gece & Berke & Sypha",
+              "fansub": "Gece",
+              "fansub_id": 620,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 712228,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/rbkrrznx7bqb",
+              "extra": "Gece & Berke & Sypha",
+              "fansub": "Gece",
+              "fansub_id": 620,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 218374,
+          "episode_number": 11,
+          "name": "Karın Ötesinde",
+          "description": "Çelişkili duygularından bunalan Yukio, sert önlemler alır ama Şeytan onu engeller. Shiemi'den Yukio'yu duyduktan sonra Rin, onu aramak için yurttan dışarı çıkar. İblisler daha aktif hale geldikçe maddi dünya Assiah kaosa sürüklenir. Mephisto başbakanlığa çağrılır ve bugüne kadar kamuoyuna açıklanmayan şeytanların varlığını duyurmak için başbakan ve ilgili tüm taraflarla bir basın toplantısına katılır. Ama orada görünen kişi...",
+          "release_date": "2024-12-14T15:30:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vdEn8F1vtQVvnT9o8Lz3ABIEMFJ.jpg",
+          "videos": [
+            {
+              "id": 712230,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67e1a9c647b862535fe0617e",
+              "extra": "Gece & Berke & Sypha",
+              "fansub": "Gece",
+              "fansub_id": 620,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 712231,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/qz1uk3zvy5ee",
+              "extra": "Gece & Berke & Sypha",
+              "fansub": "Gece",
+              "fansub_id": 620,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 218375,
+          "episode_number": 12,
+          "name": "ayrılık",
+          "description": "Yukio, Mephisto'yu vurduğu şüphesiyle tutuklanır. Yukio'nun gözünü öğrenen Rin, kardeşiyle birlikte Teşkilat'tan kaçmaya karar verir. Exwires ve Amaimon'un yardımıyla Yukio'yu kurtarmak için yola çıkar. Kurşunla ağır yaralanan Mephisto, sahip olduğu bedenini korumak için yapay Gehenna Kapısı'na kurduğu bariyeri terk etmeye karar verir. Sonuç olarak kapı tamamen açılır ve bir iblis sürüsü ortaya çıkar. Cehennem atmosferi Assiah'ı baştan başa sarıyor...",
+          "release_date": "2024-12-21T15:30:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7WLpek5woeWjNTXDISCeSwZ8tpx.jpg",
+          "videos": [
+            {
+              "id": 712233,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67e1aa5847b862535fe0617f",
+              "extra": "Gece & Berke & Sypha",
+              "fansub": "Gece",
+              "fansub_id": 620,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 712234,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/q6tp5lq7g01p",
+              "extra": "Gece & Berke & Sypha",
+              "fansub": "Gece",
+              "fansub_id": 620,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5561,
+      "season_number": 5,
+      "name": null,
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 221512,
+          "episode_number": 1,
+          "name": "Shiro ve Yuri",
+          "description": "Yapay Gehenna Kapısı tamamen açıldı ve birçok insan artık iblisleri görmeye başladığından Assiah'ın maddi dünyasını tam bir kaosa sürükledi. Her şeyin ortasında Yukio, Gerçek Haç Şövalyeleri'nden ayrılır ve İlluminati'ye doğru yola çıkar. Rin, onların doğumunun sırrını öğrenmesi gerektiğine karar verir. Mephisto'nun rehberliğinde 40 yıl geçmişe doğru bir yolculuğa çıkar. Rin, terk edilmiş bir fabrikada yaşayan Yuri adında bir yetim ve Bölüm 13'ten Shiro adlı bir denek olmak üzere iki kişi arasındaki kader buluşmasına tanık olur.",
+          "release_date": "2025-01-05T13:50:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aEHvJE5aiLcmiqYPoMyr6I9cv5V.jpg",
+          "videos": [
+            {
+              "id": 712925,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67e4b149e34b554356ff34a2",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 712926,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/90yn6o59i7ea",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 221523,
+          "episode_number": 2,
+          "name": "Gerçek",
+          "description": "Ailesini bir yangında kaybeden ve gidecek yeri kalmayan Yuri, 13. Bölüm'den kaçan Shiro ile tanışır. Shiro, peşindeki şeytan kovucular tarafından geri getirilir ve Mephisto'dan bir ricada bulunur. Bu sırada Yuri, iblisleri görme yeteneğinden dolayı şeytan çıkarma eğitimi alan bir okul olan Asylum'a götürülür. Rin, ikisinin büyümesini izlerken Akıl Hastanesinin ve Bölüm 13'ün gerçek doğasına tanık olur.",
+          "release_date": "2025-01-12T16:50:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/mjnoeuPvw052AMA16swTLpg207Q.jpg",
+          "videos": [
+            {
+              "id": 706306,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b8133ad2dd0fcc9b4df387",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 221524,
+          "episode_number": 3,
+          "name": "Yalnız",
+          "description": "Shiro, bir şeytan kovucunun görevinin iblisleri yok etmek olduğuna inanırken, Yuri bir şeytan kovucunun görevinin insanlara yardım etmek olduğuna inanıyor ve iblislerle dostane ilişkiler kurmayı savunuyor. Yuri'nin tavrından rahatsız olan Shiro, onunla sert bir şekilde yüzleşir. Zaman geçiyor ve ikisi Şeytan Çıkarma Sertifika Sınavlarını geçiyor. Shiro sonunda akıl hastanesinden ayrılma hayalini gerçekleştirir ve yalnız yaşamaya ve özgürlüğünün tadını çıkarmaya başlar. Yuri endişeyle izliyor ama başka bir görev ikiliyi bir kez daha anlaşmazlığa düşürüyor...",
+          "release_date": "2025-01-19T16:50:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/w1ldgcarBYFFhEJgbKdB62JN5iy.jpg",
+          "videos": [
+            {
+              "id": 706307,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b816f4d2dd0fcc9b4df388",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 221526,
+          "episode_number": 4,
+          "name": "Şeytan Uyanış",
+          "description": "Dokuz yıl geçti. Bu süre zarfında Shiro, Yuri, Rick ve diğerleri deneyim kazandılar ve büyüdüler. Bu arada Bölüm 13'te İksir deneyleri devam ediyordu. Amaimon başarılı bir şekilde yeni bir bedene sahip olsa da Lucifer hâlâ uygun bir beden bulamamaktadır ve çektiği acılarla maddi şeylere olan bağlılığı daha da güçlenmektedir. Ancak tüm bunların ortasında \"evrenin kendisi\" olan bir varlık, belli bir denekte enkarne olur.",
+          "release_date": "2025-01-26T16:50:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/btpbsCvPLwwQf0RPYR7twxYaMAE.jpg",
+          "videos": [
+            {
+              "id": 706308,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b81a80d2dd0fcc9b4df389",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 226306,
+          "episode_number": 5,
+          "name": "Bedenden Daha Önemli",
+          "description": "Rinka, enkarnasyonunun ardından bilgiyi özümsedi ve kendisini İblis Tanrı Şeytan olarak tanıdı.",
+          "release_date": "2025-02-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/62Pj18X0rxCVoyByGmwysF9apD4.jpg",
+          "videos": [
+            {
+              "id": 706309,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b81e59d2dd0fcc9b4df38a",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 227216,
+          "episode_number": 6,
+          "name": "Eğer Benim İçin olmasaydı",
+          "description": "Yuri, Bölüm 13'te saklanan Şeytan'a gider. Şeytan, Yuri'yi kabul eder ve onunla yaşamayı seçer. Birlikte yaşamak için Bölüm 13'ü terk etmeye karar verir ve takipçilerine geri çekildiğini bildirir. Yuri kaçışlarına hazırlanırken Bölüm 13'te çalışan Jenny ile yeniden bir araya gelir. Şeytan ve Yuri'nin kaçma planını öğrenen Jenny, test konusu çocukları tesisten kurtarmak için planlar yapar, ancak...",
+          "release_date": "2025-02-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cRXKlb6PPYythM33Pp0BIQsYNkR.jpg",
+          "videos": [
+            {
+              "id": 706310,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b8222fd2dd0fcc9b4df38b",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 227217,
+          "episode_number": 7,
+          "name": "Önceki Gece",
+          "description": "Mavi alevlerle kaplı yeni doğmuş Rin, çevredeki şeytan kovuculara birbiri ardına saldırdı. Gördüğü manzara karşısında sarsılan ve şeytani benliği tarafından ele geçirilmenin eşiğinde olan Rin, Mephisto tarafından şimdiki zamanda belli bir yere gönderilir. Bu sırada Gerçek Haç Şövalyeleri'nden ayrılan Yukio ve Shima, Illuminati'nin hava kalesi Dominus Liminis'e varır. Sorumlu yönetici Homare Todo'nun eşlik ettiği Yukio, Lucifer ile tanışır. Aynı anda Grigori Sedes'ten biri Shiemi'yi ziyarete gelir.",
+          "release_date": "2025-02-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xeZypcAmptpaakX2MYu3Puisu9r.jpg",
+          "videos": [
+            {
+              "id": 706311,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b82636d2dd0fcc9b4df38c",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 227218,
+          "episode_number": 8,
+          "name": "Mavi Gece",
+          "description": "Rin aniden karşısına çıkınca Shiemi neşelenir. Rin, Shiemi'nin sesini duyduktan sonra kendine gelir ve olayları baştan sona görmek için geçmişe döner. Geçmişte Şeytan'ın ele geçirdiği beden giderek kötüleşir, parçalanmaya ve kontrolden çıkmaya başlar. Mavi Gece sonunda başlıyor. Dünyanın dört bir yanındaki güçlü din adamları birbiri ardına mavi alevlere bürünürken, Kyoto'daki Myodha Tarikatı, Vatikan'daki Üç Bilge, Japonya Şubesi'ndeki Shiro ve Şövalyeler bu vahim duruma karşı mücadele ediyor.",
+          "release_date": "2025-02-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/phCylzSdS9F6Fgrgon97LVZqhe.jpg",
+          "videos": [
+            {
+              "id": 710887,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67d4d62d47b862535fe05fdf",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 227219,
+          "episode_number": 9,
+          "name": "Ölümüne Savaş",
+          "description": "Shiro, Koma Kılıcını kullanarak Rin'in iblis kalbini başarıyla mühürler. Bu, Rin'i şeytani doğasından ayırır ve onu Yuri'nin kollarına geri döndürür. Ancak Şeytan, Paladin Abel'ın bedenine zorla sahip olduğundan bu süre kısa sürer. Şeytan'ın Yuri'ye olan aşkı takıntıya dönüşmüştür ancak Yuri'nin sözleri artık ona ulaşamamaktadır. Şeytan duygularla patlar ve Shiro'nun bedenini ele geçirmeye çalışır. Shiro ele geçirilmesini engellemek için cesur bir hamle yapar ama...",
+          "release_date": "2025-03-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tRUTyYLyoX4fMCnpvyDni7xanR5.jpg",
+          "videos": [
+            {
+              "id": 710888,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67d4daba47b862535fe05fe0",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 227220,
+          "episode_number": 10,
+          "name": "Işık",
+          "description": "Shiro ve Yuri, Şeytan'ı yener ve Gerçek Haç Şövalyelerinin pençesinden kurtulur. Ancak Rin ve Yukio'ya son sözlerini söyleyip bu dünyayı terk ederken Yuri'nin yorgunluğu onu yakalar. Yarasına hakaret ekleyen Shiro, pişmanlığa yenik düşen ve yaşama isteğini kaybeden bir iblisin saldırısına uğrar. Bu arada Şeytan'ın Assiah'tan kaybolmasıyla Lucifer, ele geçirilecek klonlara yönelik gelecekteki araştırmalardan umudunu keser. Mephisto ve Shemihaza, Lucifer'in her şeyi hiçliğe indirgeme yönündeki öfkeli girişimini durdurmak için çalışır.",
+          "release_date": "2025-03-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7Sc0L6XYE2mLsXQp3J7iF2F4nLf.jpg",
+          "videos": [
+            {
+              "id": 710889,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67d4de7747b862535fe05fe1",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 227221,
+          "episode_number": 11,
+          "name": null,
+          "description": "Shiro, Şeytan'ın çocuklarını büyütme planı olduğu varsayımıyla ikizleri Mephisto'ya bırakmayı teklif eder.",
+          "release_date": "2025-03-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vxkRjxo9GAY9WQkQUhgKKTZaAXz.jpg",
+          "videos": [
+            {
+              "id": 734958,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6915c8488f1b7fd438f1c244",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734959,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-rigyyjreb5zg.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 227222,
+          "episode_number": 12,
+          "name": "Teşekkür ederim",
+          "description": "Gece gökyüzünde yanan mavi bir alevin görüntüsü “Mavi Gece”yi anımsatsa da bambaşka bir sonucu da beraberinde getirdi. Artık Saf Olmayan Kral'la ilgili olaylar sona erdiğine göre, etkilenenler yollarına devam ediyor.",
+          "release_date": "2025-03-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/hDe454jVBmqqOfILoCKrxpzEimK.jpg",
+          "videos": [
+            {
+              "id": 734960,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6915c8e8f2904a96d86ae9eb",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734961,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/u8hx6stq9a8q",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734962,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-7jrl0749lff9.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

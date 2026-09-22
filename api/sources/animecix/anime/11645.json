@@ -1,0 +1,73 @@
+{
+  "id": 11645,
+  "name": "Angel Densetsu",
+  "name_english": "Angel Densetsu",
+  "name_romanji": "Angel Densetsu",
+  "original_title": "エンジェル伝説",
+  "type": "series",
+  "title_type": "anime",
+  "year": 1996,
+  "release_date": "Fri",
+  "description": "Kasabanın yeni çocuğu Seiichirou Kitano, \"şeytanın yüzüne ve bir meleğin nezaketine\" sahip asil, duyarlı bir çocuktur. Sırf görünüşü yüzünden uyuşturucu ve suç dolu bir dünyaya itilen adam, savaşmadan dünyayı daha iyi bir yer haline getirmeye çalışıyor.",
+  "poster": "https://image.tmdb.org/t/p/original/jQXIbP4VEGQbvJ3mLcv94GIcfeD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xFhfjKPNgTNrIs9lqBo32zaARTW.jpg",
+  "rating": 6.5,
+  "vote_count": 4,
+  "genres": [
+    3
+  ],
+  "tmdb_id": 125464,
+  "mal_id": 5251,
+  "anilist_id": null,
+  "imdb_id": "tt2402541",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 5294,
+      "season_number": 1,
+      "name": null,
+      "episode_count": 2,
+      "episodes": [
+        {
+          "id": 215611,
+          "episode_number": 1,
+          "name": "Şeytan Yüzü Ortaya Çıkıyor!!",
+          "description": null,
+          "release_date": "1996-12-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1536fkYW08Lw5Kbx9EkDhdS500l.jpg",
+          "videos": [
+            {
+              "id": 673725,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66c04e2748d0b8046dc063bf",
+              "extra": "SarıSiyah Fansub",
+              "fansub": "SarıSiyah Fansub",
+              "fansub_id": 2839,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673728,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5640016",
+              "extra": "SarıSiyah Fansub",
+              "fansub": "SarıSiyah Fansub",
+              "fansub_id": 2839,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 215721,
+          "episode_number": 2,
+          "name": "Efsanenin Başlangıcı!!",
+          "description": null,
+          "release_date": "1996-12-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cZASN0q6oLFqZUV6UQz38Hpswi0.jpg",
+          "videos": []
+        }
+      ]
+    }
+  ]
+}

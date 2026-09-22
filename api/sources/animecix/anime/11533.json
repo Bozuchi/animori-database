@@ -1,0 +1,814 @@
+{
+  "id": 11533,
+  "name": "Tytania",
+  "name_english": "Tytania",
+  "name_romanji": "Tytania",
+  "original_title": "TYTANIA -タイタニア-",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2008,
+  "release_date": "Thu Oct 09 2008 00:00:00 GMT+0000 (Coordinated Universal Time)",
+  "description": "Euria imparatorluğunun başkenti, galaksinin büyük bir bölümünü kontrol eden çok daha güçlü bir düşman olan Titania imparatorluğu tarafından saldırıya uğrar. Hikaye, Titania imparatorluğundan kaçan ve savaştan bu yana ayaklanan isyan gücüne sığınan bir askeri konu alıyor.",
+  "poster": "https://image.tmdb.org/t/p/original/gbzdH6vCbifAmVSfhyz5J5Y3TJP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bJv81ECe4tRQzxX1oMVSjVLINMf.jpg",
+  "rating": 9.7,
+  "vote_count": 3,
+  "genres": [
+    3
+  ],
+  "tmdb_id": 34691,
+  "mal_id": 4066,
+  "anilist_id": null,
+  "imdb_id": "tt1279025",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 5155,
+      "season_number": 1,
+      "name": null,
+      "episode_count": 26,
+      "episodes": [
+        {
+          "id": 213143,
+          "episode_number": 1,
+          "name": "Cerberus Savaşı",
+          "description": "Dük Ariabart Tytania, filosunu Fan Hulic'in komuta ettiği sayıca çok az olan Euria filosuna karşı savaşa götürüyor. Ancak çok az tecrübesi olan yeni bir subay olan Hulic'in Tytanian filosunu küçük bir sürprizi vardır...",
+          "release_date": "2008-10-09T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 657255,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66909c18cf067ab47984f027",
+              "extra": "EmiYuusha/libero1i/ http://www.anisekai.com",
+              "fansub": "EmiYuusha",
+              "fansub_id": 2909,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 657258,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5593927",
+              "extra": "EmiYuusha/libero1i/ http://www.anisekai.com",
+              "fansub": "EmiYuusha",
+              "fansub_id": 2909,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213144,
+          "episode_number": 2,
+          "name": "Uraniborg'un Dört Dükü",
+          "description": "Lord Ajman Tytania, Cerberus Savaşı'nı gözden geçirmek ve sonucu sonrasında yapılması gerekenleri tartışmak için dört dükle bir araya gelir. Düşünceleri aynı zamanda klan lordu olarak kendisinden sonra hangi dükün geleceğini belirlemeye de yönelir. Bu arada Fan Hulic, Euria'ya döndüğünde karşılaştığı karşılamanın hayal ettiğinden çok farklı olduğunu fark eder.",
+          "release_date": "2008-10-16T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 657259,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66909cd5cf067ab47984f028",
+              "extra": "EmiYuusha/libero1i/ www.anisekai.com",
+              "fansub": "EmiYuusha",
+              "fansub_id": 2909,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 657262,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5593929",
+              "extra": "EmiYuusha/libero1i/ www.anisekai.com",
+              "fansub": "EmiYuusha",
+              "fansub_id": 2909,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213145,
+          "episode_number": 3,
+          "name": "Bir Kahramanın Gereksinimleri",
+          "description": "Fan Hyulick Emmental'e gelir ve Tytania güçleri tarafından kendisine Tytania'da bir pozisyon teklif eden Alses Tytania'ya götürülür. Fan kabul eder, ancak Lira, direniş gücüne katılıp Tytania'yı yeneceğini umarak onu Alses'in malikanesinden kurtarır.",
+          "release_date": "2008-10-23T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 657264,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66909d98cf067ab47984f029",
+              "extra": "EmiYuusha / libero1i / www.anisekai.com",
+              "fansub": "EmiYuusha",
+              "fansub_id": 2909,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 657267,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5593934",
+              "extra": "EmiYuusha / libero1i / www.anisekai.com",
+              "fansub": "EmiYuusha",
+              "fansub_id": 2909,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213146,
+          "episode_number": 4,
+          "name": "Lira Florenz",
+          "description": "Lira, Fan'ı direniş gücüne katılmak için baştan çıkarmaya çalışır, ancak Lira'nın büyükannesi tarafından Fan'ın nerede olduğu konusunda bilgilendirilen Tytania güçleri tarafından yarıda kesilir. Lira pes etmeyi reddeder ve Fan'ın kaçmasına yardım eder, burada Miranda Casmier ile tanışır ve \"Dürüst Yaşlı Adam\" adlı bir gemide onun güçlerine katılır.",
+          "release_date": "2008-10-30T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 657268,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66909e58cf067ab47984f02a",
+              "extra": "EmiYuusha/libero1i/Bustero/ http://www.anisekai.com",
+              "fansub": "EmiYuusha",
+              "fansub_id": 2909,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 657271,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5593941",
+              "extra": "EmiYuusha/libero1i/Bustero/ http://www.anisekai.com",
+              "fansub": "EmiYuusha",
+              "fansub_id": 2909,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213147,
+          "episode_number": 5,
+          "name": "Tyrandia Prensliği",
+          "description": "Cerberus savaşından sonra Tytania'nın göründüğü gibi yenilmez olmadığı açıktır, bu nedenle Turandia yetkilileri isyan etmeye karar verir. Jouslain, bir savaş çıkmadan önce sorunu çözmek için Turandia'ya gelir, ancak başarısız olur ve ayrıldıktan sonra Turandia prensesi vurulur.",
+          "release_date": "2008-11-06T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 657272,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66909f00cf067ab47984f02b",
+              "extra": "EmiYuusha/libero1i/Bustero/ http://www.anisekai.com",
+              "fansub": "EmiYuusha",
+              "fansub_id": 2909,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 657275,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5593943",
+              "extra": "EmiYuusha/libero1i/Bustero/ http://www.anisekai.com",
+              "fansub": "EmiYuusha",
+              "fansub_id": 2909,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213148,
+          "episode_number": 6,
+          "name": "Syracuse Sistemi Savaşı",
+          "description": "Müttefik toplayamayan Turandia, Tytania'ya tek başına isyan eder. Ariabart, Cerberus savaşındaki kaybını telafi etmek için komuta eder ve kısa bir savaştan sonra Turandia'yı ezer.",
+          "release_date": "2008-11-13T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 657276,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66909fa0cf067ab47984f02c",
+              "extra": "EmiYuusha/libero1i/Benshei/ http://www.anisekai.com",
+              "fansub": "EmiYuusha",
+              "fansub_id": 2909,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 657279,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5593946",
+              "extra": "EmiYuusha/libero1i/Benshei/ http://www.anisekai.com",
+              "fansub": "EmiYuusha",
+              "fansub_id": 2909,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213149,
+          "episode_number": 7,
+          "name": "Alev Bayrağı Altında",
+          "description": "Fan ve Miranda'nın grubu başka bir direniş gücünü ziyaret eder ve Tytania'yı yenme planının parçası olarak bir Tytania kalesini ele geçirmelerini izler.",
+          "release_date": "2008-11-20T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 657280,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6690a04fcf067ab47984f02d",
+              "extra": "EmiYuusha/libero1i/Benshei/ http://www.anisekai.com",
+              "fansub": "EmiYuusha",
+              "fansub_id": 2909,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 657283,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5593949",
+              "extra": "EmiYuusha/libero1i/Benshei/ http://www.anisekai.com",
+              "fansub": "EmiYuusha",
+              "fansub_id": 2909,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213150,
+          "episode_number": 8,
+          "name": "İki Karşılaşma",
+          "description": "Zarlisch, Tytanian kalesini ele geçiren direniş gücünü yener ve Elbing, sadakatini kanıtlamak için Tytania'ya madenlerini vermek zorunda kalır. Elbing prensesi Lydia, bunun ülkesi için bir felaket olacağını anlar ve bunun yerine Tytania'nın rehinesi olarak kendini feda eder.",
+          "release_date": "2008-11-27T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 657284,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6690a0facf067ab47984f02e",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 657287,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5593951",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213151,
+          "episode_number": 9,
+          "name": "Küçük Rüzgar",
+          "description": "Lydia, Elbing'in sadakatini kanıtlamak için Ajman Tytania ile rehin olması hakkında konuşmak üzere Tytania malikanesinde bir maceraya atılır, ancak sonunda Jouslain mesajı iletir.",
+          "release_date": "2008-12-04T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 657288,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6690a1bdcf067ab47984f02f",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 657291,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5593953",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213152,
+          "episode_number": 10,
+          "name": "Euria'nın Çöküşü",
+          "description": "Euria, bir isyan girişiminin ardından çöker ve Lira, Fan'ı dışarı çıkarıp onu yakalamak için yoldaşlarından biri tarafından ihanete uğradıktan sonra Alses Tytania tarafından kaçırılır.",
+          "release_date": "2008-12-11T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 657292,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6690a276cf067ab47984f030",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 657295,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5593954",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213153,
+          "episode_number": 11,
+          "name": "Hyulick'in Kararlılığı",
+          "description": "Lira'nın yakalandığını öğrenen Fan, onu kurtarmak için hazırlık yapar.",
+          "release_date": "2008-12-18T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 657296,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6690a32ccf067ab47984f031",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 657299,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5593955",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213154,
+          "episode_number": 12,
+          "name": "Emmental'in Sızması",
+          "description": "Fan Hyulick, Lira Florenz'i kurtarmak için Alses Tytania'nın malikanesine gider, ancak Alses onun görevini tamamlamasına engel olur. Lira, Fan'ın kaçması için Alses'e saldırır, ancak bu süreçte ölür.",
+          "release_date": "2008-12-25T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 657300,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6690a3e2cf067ab47984f032",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 657303,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5593956",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213155,
+          "episode_number": 13,
+          "name": "Sonun başlangıcı",
+          "description": "Alses, Emmental'den kaçmaya çalışır, ancak Idris'in filosunun güvenliğine ulaşamadan Fan Hyulick gemisine saldırarak Alses'i öldürür.",
+          "release_date": "2009-01-08T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 657304,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6690a4accf067ab47984f033",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 657307,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5593957",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213156,
+          "episode_number": 14,
+          "name": "Ryutehhi'yi Fırtınalamak",
+          "description": null,
+          "release_date": "2009-01-15T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 657308,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6690a560cf067ab47984f034",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 657311,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5593958",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213157,
+          "episode_number": 15,
+          "name": "Bir Buğday Tanesi Gibi",
+          "description": null,
+          "release_date": "2009-01-22T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 657312,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6690a5e5cf067ab47984f035",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 657315,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5593959",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213158,
+          "episode_number": 16,
+          "name": "Yaklaşan Karşı Saldırı",
+          "description": null,
+          "release_date": "2009-01-29T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 657316,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6690a691cf067ab47984f036",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 657319,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5593960",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213159,
+          "episode_number": 17,
+          "name": "Aşırı Fiyatlandırılmış Fidye",
+          "description": null,
+          "release_date": "2009-02-12T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 657320,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6690a73fcf067ab47984f037",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 657323,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5593961",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213160,
+          "episode_number": 18,
+          "name": "Hapishane Uydu Kronosu",
+          "description": null,
+          "release_date": "2009-02-19T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 657324,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6690a7c6cf067ab47984f038",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 657327,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5593962",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213161,
+          "episode_number": 19,
+          "name": "Radmose Vakası",
+          "description": null,
+          "release_date": "2009-03-05T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 657328,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6690a84ccf067ab47984f039",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 657331,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5593963",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213162,
+          "episode_number": 20,
+          "name": "Kronos Saldırısı",
+          "description": null,
+          "release_date": "2009-03-05T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 657332,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6690a8f6cf067ab47984f03b",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 657335,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5593964",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213163,
+          "episode_number": 21,
+          "name": "Esthar'da Şans Toplantısı",
+          "description": null,
+          "release_date": "2009-03-12T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 657336,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6690a99ccf067ab47984f03c",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 657339,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5593965",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213164,
+          "episode_number": 22,
+          "name": "Hırsın Prelüd'ü",
+          "description": null,
+          "release_date": "2009-03-12T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 657340,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6690aa5bcf067ab47984f03d",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 657343,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5593966",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213165,
+          "episode_number": 23,
+          "name": "Çöl Faresi",
+          "description": null,
+          "release_date": "2009-03-19T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 657344,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6690ab15cf067ab47984f03e",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 657347,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5593967",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213166,
+          "episode_number": 24,
+          "name": "Dürüst Yaşlı Adam",
+          "description": null,
+          "release_date": "2009-03-19T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 657348,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6690abc9cf067ab47984f03f",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 657351,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5593968",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213167,
+          "episode_number": 25,
+          "name": "Sıcak Kumda Şiddetli Mücadele",
+          "description": null,
+          "release_date": "2009-03-26T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 657353,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6690ac7ccf067ab47984f040",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 657356,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5593969",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213168,
+          "episode_number": 26,
+          "name": "Ruhların Dinlenme Şarkısının Sonu (Requiem)",
+          "description": null,
+          "release_date": "2009-03-26T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 657357,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6690ad48cf067ab47984f041",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 657360,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5593970",
+              "extra": "http://www.anisekai.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

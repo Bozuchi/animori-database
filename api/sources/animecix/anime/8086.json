@@ -1,0 +1,60 @@
+{
+  "id": 8086,
+  "name": "Kyoukai no Kanata Movie 1: I'll Be Here - Kako-hen",
+  "name_english": "Beyond the Boundary: I'll Be Here – Past",
+  "name_romanji": "Beyond the Boundary: I'll Be Here – Past",
+  "original_title": "劇場版 境界の彼方 -I'll Be Here- 過去篇",
+  "type": "movie",
+  "title_type": "movie",
+  "year": 2015,
+  "release_date": "2015-03-15",
+  "description": "The first part of a two-part movie. The story is a recap of the TV series.",
+  "poster": "https://image.tmdb.org/t/p/original/zO300yKOvqXnJD7973mJxaS6R65.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dWSIZFJSJDQkyCi3LvRFVMlaaxY.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    16,
+    9,
+    6,
+    13,
+    4
+  ],
+  "tmdb_id": 311056,
+  "mal_id": 25015,
+  "anilist_id": 0,
+  "imdb_id": "tt4531412",
+  "season_count": 0,
+  "videos": [
+    {
+      "id": 722794,
+      "player": "TAU",
+      "url": "https://tau-video.xyz/embed/686b7d018030e8a0276edea5",
+      "extra": null,
+      "fansub": null,
+      "fansub_id": null,
+      "quality": null,
+      "language": "tr"
+    },
+    {
+      "id": 287655,
+      "player": "SIBNET",
+      "url": "https://video.sibnet.ru/shell.php?videoid=4755543",
+      "extra": null,
+      "fansub": null,
+      "fansub_id": null,
+      "quality": null,
+      "language": "tr"
+    },
+    {
+      "id": 576802,
+      "player": "YOUTUBE",
+      "url": "https://youtube.com/embed/y6I_QK9oBSI",
+      "extra": null,
+      "fansub": null,
+      "fansub_id": null,
+      "quality": null,
+      "language": "en"
+    }
+  ]
+}

@@ -1,0 +1,3121 @@
+{
+  "id": 6,
+  "name": "Kuroko no Basket",
+  "name_english": "Kuroko's Basketball",
+  "name_romanji": "Kuroko no Basket 2nd Season",
+  "original_title": "黒子のバスケ",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2012,
+  "release_date": "2012-04-05",
+  "description": "Teikou Orta Okulu'nun efsanevi basketbol takımı, bütün takımları yenmesi ve kupaları almasıyla \"Mucizeler Takımı\" ünvanıyla ün salmıştır. Orta okulun bitmesi ve lisenin başlamasıyla ise takım dağılmış, takımın her bir üyesi farklı liseye gitmiştir. Bu takımın bir üyesi olan Tetsuya Kuroko da Seirin Lisesi'nde okumaya başlamıştır. Burada basketbol takımına giren Kuroko Mucizeler Takımı'nın üyesi olmasına rağmen oyundaki yeteneksizliğiyle herkesi şaşırtır. Fakat, Kuroko'nun esrarengiz yeteneği onu müthiş bir takım oyuncusu yapmaktadır. Takımın diğer bir yetenekli oyuncusu olan Taiga Kagami ile beraber, diğer takımlara üstün gelerek en iyi olmayı amaçlayacaklardır.",
+  "poster": "https://image.tmdb.org/t/p/original/5CEIm6RPRU9iy4jBpfreUwJkydv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/l4b42IaNVU2ZbdzjlaPmfFjqosV.jpg",
+  "rating": "8.8",
+  "vote_count": 215,
+  "genres": [
+    6,
+    4
+  ],
+  "tmdb_id": 45783,
+  "mal_id": 16894,
+  "anilist_id": 0,
+  "imdb_id": "tt2348803",
+  "season_count": 3,
+  "seasons": [
+    {
+      "id": 1,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 26,
+      "episodes": [
+        {
+          "id": 13,
+          "episode_number": 1,
+          "name": "Ben Kuroko'yum",
+          "description": "Basketbol kulübü için işe alım yaparken, Seirin Özel Lisesi bazı etkileyici oyuncuları almayı başardı; bir güç merkezi, eski bir Amerikan oyuncusu ve “Mucizeler Kuşağı”nın bir üyesi.",
+          "release_date": "2012-04-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/75fQGTalpjY310nAu32xvjmCC70.jpg",
+          "videos": [
+            {
+              "id": 628645,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65e0b54135424e1e68a23ae3",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628649,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5450801",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628620,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-4plc42x0lzox.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "episode_number": 2,
+          "name": "Ciddiyim",
+          "description": "Bir kimsenin Basketbol Kulübü'nün resmi üyesi olabilmesi için önce cesaret göstermesi gerekir. Daha sonra, okul arazisinde şok edici bir teklifle şaşırtıcı bir konuk belirir.",
+          "release_date": "2012-04-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wVpTcSGbBehvyoi3IsbCOJotVMl.jpg",
+          "videos": [
+            {
+              "id": 628675,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65e0b79071b8322dba0910fa",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628679,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5450806",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628621,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-u23omvr6piy6.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "episode_number": 3,
+          "name": "Kazanamazsam Daha İyi",
+          "description": "Seirin basketbol kulübü, Kise'nin devam ettiği Kaijo Lisesi'nde bir antrenman maçı oynuyor. Kagami'nin güç gösterisinden sonra, Kaijo koçunu Seirin'i ciddiye almaya zorlar.",
+          "release_date": "2012-04-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2jki7NKpchwFU79bM7orki1eSIn.jpg",
+          "videos": [
+            {
+              "id": 628680,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65e0b8f135424e1e68a23ae4",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628684,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5450811",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628622,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-aq1k8n74obpr.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "episode_number": 4,
+          "name": "Karşı Saldırıya Dikkat!",
+          "description": "Kise'yi durdurmanın tek yolu, kopyalayamayacağı bir tarzla ona meydan okumaktır, Kurokos! Seirin'den gelen yeni hücum, puan farkını kapatıyor, ta ki bir sakatlık Serin'in zafer şansını rayından çıkarana kadar.",
+          "release_date": "2012-04-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/n37H7d8L9HUc2SrUoPV0bfv6uHi.jpg",
+          "videos": [
+            {
+              "id": 628685,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65e0baa371b8322dba0910fb",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628689,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5450818",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628623,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-394azyjgckt8.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "episode_number": 5,
+          "name": "Basketbolunuz",
+          "description": "Serin, Kaijo'ya karşı zar zor galip gelir. Hayatında hiç kaybetmeyen Kise için bir şoktur. Maçtan sonra, bir başka eski Teiko Ortaokul oyuncusu Midorima, Kise için birkaç kelime söyler.",
+          "release_date": "2012-05-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ob79EWqSvHKlp8vpLvqWDbNRdmW.jpg",
+          "videos": [
+            {
+              "id": 628695,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65e0bdb335424e1e68a23ae5",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628699,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5450824",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628624,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-wbs4o6a8qhhw.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "episode_number": 6,
+          "name": "Sana İki Şey Söyleyeyim",
+          "description": "Serin'in yüksekler arası turnuvadaki ilk rakibi, geçen yıla kadar orta seviye bir okul olan Shinkyo Lisesi. 2 metre boyunda, 87 kiloda Senegalli bir oyuncunun katılmasıyla Shinkyo, Serins'in şampiyonluk umutları için yeni bir tehdit oluşturuyor.",
+          "release_date": "2012-05-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/a0gXvVSjQbir5fXks5jYkkUNT0q.jpg",
+          "videos": [
+            {
+              "id": 628700,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65e0bf2b35424e1e68a23ae6",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628704,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5450829",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628625,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-ylaf3et55ee9.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "episode_number": 7,
+          "name": "İnanılmaz Bir Şey Göreceksiniz",
+          "description": "Shinkyo'yu yendikten sonra, Seirin sonraki birkaç rakibini ezmeye devam ediyor. Fazla güvenin oluşmaya başladığını fark eden ekip, bir Shutoku maçı izlemeye götürülür. Basketbolun üç İmparator takımından biri olan Shutoku'nun rakiplerine nasıl hakim olduğunu gördükten sonra takım, kendilerini geliştirmek ve şampiyonluk için mücadele etmek için daha gidecekleri uzun bir yol olduğunu fark eder.",
+          "release_date": "2012-05-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pikelnsxZwFxTOwP4bMmJVgToX6.jpg",
+          "videos": [
+            {
+              "id": 628705,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65e0c0be35424e1e68a23ae7",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628709,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5450834",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628626,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-s83czkexbuuy.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "episode_number": 8,
+          "name": "Şimdi Düşündümde",
+          "description": "Seirin, yenilmez bir savunma üzerine kurulmuş bir ekip olan Seiho'yu ele geçirir. Seiko'nun alışılmışın dışında hareket tarzı nihayet anlaşıldı, ancak çok geç olabilir. Seirin'in galibiyet serisi sonunda kapanacak mı?",
+          "release_date": "2012-05-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vfWSjb8Z2e1l9zb1ZC8maJoxjs2.jpg",
+          "videos": [
+            {
+              "id": 628710,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65e0c22d35424e1e68a23ae8",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628714,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5450839",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628627,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-ciynsil6pkqi.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "episode_number": 9,
+          "name": "Kazanmak",
+          "description": "Seirin'in oyunu Seiho'ya karşı iki takım da puan kaybetmeden devam ediyor. Kuroko ve Kagami, güçlerini korumak için ilk çeyreğin ardından çekildi. Takım arkadaşları zaferi eve getirebilir mi?",
+          "release_date": "2012-06-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/uGTgV4CPTKBZpFS7OrjwrxYzV1R.jpg",
+          "videos": [
+            {
+              "id": 630404,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecb22699775ec0840007e1",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630493,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecd32b926a0f406b38af1c",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630408,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5461864",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630497,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462133",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628628,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-497khv6qeuuj.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "episode_number": 10,
+          "name": "buna sahip olamam",
+          "description": "Kuroko son anlarda oyuna yeniden katıldı, ancak oyunculardan biri onu çözmüş gibi görünüyor. Seirin sert oynuyor ama kazanırlarsa 2. maçı oynayacak güçleri olacak mı?",
+          "release_date": "2012-06-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/hX48o9OX73WicqY30j7LhFvGOog.jpg",
+          "videos": [
+            {
+              "id": 630409,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecb36199775ec0840007e2",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630499,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecd4b0926a0f406b38af1d",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630413,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5461869",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630503,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462135",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628629,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-lgw3p7sfuqf5.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "episode_number": 11,
+          "name": "Bu değil",
+          "description": "Seirin, Shutoku'ya karşı tek başına duruyor, ancak 2. yarıda Midorima ve Takao'nun yetenekleri ortaya çıkıyor ve Seirin'in oyununu tamamen kapatıyor.",
+          "release_date": "2012-06-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8jCw8aIkAaxntVuuKjib7FjcS0I.jpg",
+          "videos": [
+            {
+              "id": 630414,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecb49b99775ec0840007e3",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630504,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecd624926a0f406b38af1e",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630418,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5461877",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630508,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462139",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628630,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-3srcgmkzcqf4.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "episode_number": 12,
+          "name": "\"Zafer\" Nedir?",
+          "description": "Oyunun baskısı, Kagami becerilerinin hızla artmasına neden oluyor; Seirin'i oyunda tutarak gol atmaya devam ediyor. Ama düşünceleri kararıyor ve kendi kendine hizmet ediyor",
+          "release_date": "2012-06-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jspu3Hm0Ny0UcpLeIg7DOMwn2r1.jpg",
+          "videos": [
+            {
+              "id": 630419,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecb5e699775ec0840007e4",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630509,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecd7ae99775ec0840007ec",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630423,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5461889",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630513,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462144",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628631,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-bcufbd0gj5qb.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "episode_number": 13,
+          "name": "Sana inandım",
+          "description": "Sadece 10 dakika kala Seirin'in başı belada. Kagami'nin benzini bitti ve Midorima duracağına dair hiçbir işaret göstermiyor. Kuroko, yeni ama tehlikeli bir pasla oyuna geri döndü.",
+          "release_date": "2012-07-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/blCNssjVPtK990gZEoS8nWP7xAj.jpg",
+          "videos": [
+            {
+              "id": 630424,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecb74a926a0f406b38af13",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630514,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecd92899775ec0840007ed",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630428,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5461902",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630518,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462146",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628632,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-kuczqyk9apei.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "episode_number": 14,
+          "name": "Aynı Ona benziyorsun",
+          "description": "Rakip basketbol takımlarının katıldığı garip bir akşam yemeğinden sonra Kuroko, kendisine benzeyen bir köpeğe rastlar. Köpek, biri dışında herkesin beğenisini hızla topladı.",
+          "release_date": "2012-07-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/t7hEKC2us7UB1B2sVY47q6AwKdQ.jpg",
+          "videos": [
+            {
+              "id": 630519,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecdac299775ec0840007ee",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630523,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462147",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628633,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-t00kkhma0d22.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "episode_number": 15,
+          "name": "beni güldürme",
+          "description": "Kuroko, \"Mucize Nesil\" tarihinin bir kısmını Kagami'ye açıklıyor.",
+          "release_date": "2012-07-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qXalH32g5sAjG9AXubQGbUoSyBx.jpg",
+          "videos": [
+            {
+              "id": 630429,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecba55926a0f406b38af14",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630524,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecdc3e99775ec0840007ef",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630433,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5461946",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630528,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462149",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628634,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-6qap959cwwc6.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "episode_number": 16,
+          "name": "Hadi gidelim",
+          "description": "Aomine olmasa bile, Touou Akademisi Seirin'e karşı üstünlük sağlıyor. Touou Academy'nin bireysel oyun tarzına ve Satsuki'nin dehasına karşı zorlu bir mücadeledir.",
+          "release_date": "2012-07-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/thPAYlWw3ys6lySRBDc11mw41c1.jpg",
+          "videos": [
+            {
+              "id": 630434,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecbbb5926a0f406b38af16",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630529,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecddd7926a0f406b38af1f",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630438,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5461962",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630533,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462152",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628635,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-32048woz5pb9.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "episode_number": 17,
+          "name": "Hepiniz Komiksiniz",
+          "description": "Birkaç dakikalık oyunda, Aomie neden dikkate alınması gereken bir güç olduğunu gösterdi, Kuroko 2. yarıda yedek kulübesindeyken, takım Aomie'yi durdurabilecek mi?",
+          "release_date": "2012-07-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7yzYFbW57VAJw9c0UQX3mFvLR5n.jpg",
+          "videos": [
+            {
+              "id": 630445,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecbf5b99775ec0840007e6",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630534,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecdfb899775ec0840007f0",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630449,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5461987",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628636,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-sbk03zjmq5yv.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "episode_number": 18,
+          "name": "Numara!!",
+          "description": "Aomie durdurulamaz ama Serin henüz pes etmemiştir. Ama son dakikalarda Kagami çekilince takım onsuz oynayabilir mi?",
+          "release_date": "2012-08-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1I0zyalRLWqf6r9tNzZ0EJbJhri.jpg",
+          "videos": [
+            {
+              "id": 630450,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecc098926a0f406b38af18",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630538,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ece0a8926a0f406b38af20",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630454,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462000",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630542,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462156",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628637,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-pwhf5lpzovnd.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "episode_number": 19,
+          "name": "Yeni Bir Mücadeleye Doğru",
+          "description": "Yapabileceğin tek şey kendini toparlayıp yoluna devam etmek. Bazıları daha hızlı ilerleyebilir, bazıları ise kendi karanlıklarında yuvarlanır. Takımı yeniden ayağa kaldırmak için yeni bir başlangıç ​​ve eski bir arkadaş gerekliydi.",
+          "release_date": "2012-08-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/l6wl1Jv5tjMzW0FWfu74UB3pAGq.jpg",
+          "videos": [
+            {
+              "id": 630455,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecc1b8926a0f406b38af19",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630543,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ece2b099775ec0840007f1",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630459,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462005",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630547,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462158",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628638,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-jsp1bg9fpnob.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "episode_number": 20,
+          "name": "olmak istemiyorum",
+          "description": "Kiyoshi'nin, Kuroko ve Kagami'yi çöküşten kurtarmak için bir planı vardır. Kuroko ise çekilmesi gerektiğini düşünür.",
+          "release_date": "2012-08-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/f1UZjgmsprZFkMfMV1Qj0lRbPvx.jpg",
+          "videos": [
+            {
+              "id": 630548,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ece40e99775ec0840007f2",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630552,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462159",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628639,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-0nbt8ret5j43.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "episode_number": 21,
+          "name": "Başlayalım",
+          "description": "Cehennemden gelen eğitim kampı başladı.",
+          "release_date": "2012-08-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pT93SNaxjmy0CZXRqcgsmQf4aJ6.jpg",
+          "videos": [
+            {
+              "id": 630553,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ece56099775ec0840007f3",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630557,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462163",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628640,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-yc5bhwlaobv9.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "episode_number": 22,
+          "name": "Beni Öldürse Bile Kazanacağım",
+          "description": "Eğitim kampı bitti ve herkes kendileri hakkında bir şeyler öğrendi. Ancak takım henüz ayrılmaya hazır değil, çünkü bir oyun yaşanıyor: Kaijo vs Touou, Kise Ryota vs Aomine Daiki.",
+          "release_date": "2012-09-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sun5VVPiKk49DTddqCFjFgXsdxQ.jpg",
+          "videos": [
+            {
+              "id": 630558,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ece6df99775ec0840007f4",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630562,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462169",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628641,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-7gwh3lb32jsl.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "episode_number": 23,
+          "name": "Bölüm 22.5 - Başlangıç Atışı",
+          "description": "",
+          "release_date": "2013-02-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/6LRJc6e1A6J559efwkI9N0IbsF0.jpg",
+          "videos": [
+            {
+              "id": 630563,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ece87e926a0f406b38af21",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630567,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462177",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628642,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-jjbzcq9013hy.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "episode_number": 24,
+          "name": "Ben Olgun Değilim!",
+          "description": "Kise kopyalama tekniği, Kaijo'nun erken liderliği ele geçirmesine yol açtı. Touou ayak uydururken, Aomine baskının tadını çıkarıyor ve her dakika daha iyiye gidiyor.",
+          "release_date": "2012-09-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dJneq7KG3POvawuGTrl39s0ZlnG.jpg",
+          "videos": [
+            {
+              "id": 630568,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecea3299775ec0840007f5",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630572,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462185",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628643,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-bynxyaskndx8.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "episode_number": 25,
+          "name": "Yanlış Fikre Kapılma",
+          "description": "Touou Academy oyunu beklendiği gibi çalmadı. Eğer ayrılamazlarsa, Kise sonunda tam potansiyele ulaşacaktır.",
+          "release_date": "2012-09-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qIlYd6o0Zt3MeA523AaOJhMiI2j.jpg",
+          "videos": [
+            {
+              "id": 734039,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6907ab9cc92cb30663733909",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630577,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462189",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628644,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-k03krvs6sz0k.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734040,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/o11x0md8gscy",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734041,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-sefgazryjubq.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120729,
+          "episode_number": 26,
+          "name": "Bizim Basketbolumuz",
+          "description": "Oyun hararetli bir seviyeye ulaştı ve bazı oyuncular kırılmak üzere. Kise, Aomine'nin kopyasını sürdürebilecek mi yoksa Aomine sonunda her şeyi yapabilecek mi?",
+          "release_date": "2012-09-23T18:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/gBGlbNXLcuy20XSK1yyBjp3MySi.jpg",
+          "videos": [
+            {
+              "id": 630578,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecedeb99775ec0840007f6",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630582,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462192",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "season_number": 2,
+      "name": "Season 2",
+      "episode_count": 26,
+      "episodes": [
+        {
+          "id": 38,
+          "episode_number": 1,
+          "name": "Burada Buluşacağımızı Hiç Düşünmezdim",
+          "description": "Seirin'in ilk yılları, Yōsen Lisesi'nden Tatsuya Himuro ve Atsushi Murasakibara ile tanıştıkları bir sokak basketbol turnuvasına katılırlar.",
+          "release_date": "2013-10-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/d9a7jOoXXxChr0Q71QrDtXisFpZ.jpg",
+          "videos": [
+            {
+              "id": 630583,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecefc1926a0f406b38af23",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 727922,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68a9585dcc394bdbff51ab10",
+              "extra": "Anikeyf // Yosun - Yuemiy",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630587,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462195",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628650,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-imhbnbtyiwmb.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 39,
+          "episode_number": 2,
+          "name": "Kış Kupası'nda",
+          "description": "Şiddetli yağmur nedeniyle sokak maçı iptal edildi. Bu arada Momoi, Aomine'nin sakatlıklar nedeniyle Inter-High finallerinde oynamadığını ve bu nedenle koçun kendisini yedek kulübesine bırakmasını istemesine neden olduğunu ortaya koyuyor. Ayrıca Rakuzan Lisesi'nden Murasakibara ve Seijūrō Akashi'nin neden iyi oynamadığını da açıkladı. Daha sonra Kuroko, Momoi'ye en yeni tekniğini gösterir, eğer iyi bir şekilde rafine edilirse kimse onu durduramaz.",
+          "release_date": "2013-10-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2uhmEOT0BcosvgNQ9l88R3zdsQ.jpg",
+          "videos": [
+            {
+              "id": 630588,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecf150926a0f406b38af24",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 721832,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/685d95f46ab95c187cffff68",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630592,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462199",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 721831,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=1751659",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 628651,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-e9qbkar3f0e1.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 721830,
+              "player": "MAILRU",
+              "url": "https://my.mail.ru/video/embed/9173325596158067751",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 721833,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/9co4hdoo1qf6",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 40,
+          "episode_number": 3,
+          "name": "Başlangıç!!!",
+          "description": "Kış Kupası ön elemeleri, yeni görünen Seirin'in Josei Lisesi'ni ele geçirmesiyle başlıyor. Bu, bacağındaki sakatlığı atlattıktan sonra pivot Kiyoshi Teppei'nin resmi dönüşünü işaret ediyor. Kagami, ikili takım olması nedeniyle daha az dahil olsa da, Kiyoshi'nin öngörülemeyen oyunu ve ribaundları ana odak noktası olsa da, Seirin hücum ve savunma açısından daha da iyi hale geliyor. Maçın tamamına hakim olan Seirin, maçı 108-61'lik skorla kazandı. Ancak önümüzdeki birkaç ön eleme maçı Seirin için daha da zorlaşabilir.",
+          "release_date": "2013-10-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xbxASRVy47iQm3gcMA5Bz7ZzsQu.jpg",
+          "videos": [
+            {
+              "id": 630593,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecf368926a0f406b38af25",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630597,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462200",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628652,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-i593h73md33y.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 41,
+          "episode_number": 4,
+          "name": "Tek Cevap Var",
+          "description": "Seirin ilk önce, son 2 yılda iki kez kaybettiği Senshinkan Lisesi'ni alır. Seirin maçı 78-61 alıyor. Shutoku ayrıca ilk dize oyuncularının oynamadığı Kirisaki Daiichi'ye karşı ilk maçını 123-51 aldı ve onun yerine Seirin maçını izliyor, sonraki 2 maçı kazanacağından emin. Kiyoshi, aynı zamanda Taçsız Krallardan biri olan Kirisaki Daiichi'den Hanamiya Makoto ile tanışır. Önceki maçlarında Kiyoshi, Hanamiya yüzünden sakatlanmıştı. Sırada Seirin-Shutoku maçı var. Midorima, Kagami tarafından bloke edilmeye devam ediyor. Midorima'nın şut atmak üzereyken Kagami'yi blok yapmak için zıplatarak Kagami'yi yormak istediği ortaya çıkıyor. Henüz skor yokken, ilk kanı kim vuracak? Kagami-Midorima eşleşmesini kim kazanır?",
+          "release_date": "2013-10-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8DjTSghl7f2BW29LXWbQG7BwTxb.jpg",
+          "videos": [
+            {
+              "id": 630598,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecf51899775ec0840007f7",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630602,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462202",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628653,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-8ii5klo2dgh6.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 42,
+          "episode_number": 5,
+          "name": "Bunu Bekliyordum",
+          "description": "Seirin hala öndeyken skor 25-16. Kagami, Midorima'nın sahtekarlığını durdurmak ve ateş etmek için arka arkaya iki kez güç atlayarak gelişimini gösterdi. Sahtelere karşı korunmak için Seirin, Midorima'ya karşı Kagami ve Kiyoshi'nin ikili takımını kullanır ve içeriyi sonuna kadar açık bırakır. Kuroko, yanlış yönlendirmesi Takao'nun şahin gözüne karşı faydasız olduğu için dışarıda kalır. Oyun, Seirin'in oyunun önünde kalmak için hızlı koş ve silahla oyunuyla ilerler, ancak Shutoku onu yakından takip eder. İkinci yarı Seirin hala 45-43 önde başlıyor. Oyun bir puan maçına dönüştüğünde ve Shutoku'nun hücum gücü Seirin'i çok geride bıraktığında, maç Shūtoku lehine giderken Kuroko yeni sürüşüyle ​​durumu değiştirebilecek mi?",
+          "release_date": "2013-11-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/gg527xR0yO1iGO7HLpDXKWAVDY2.jpg",
+          "videos": [
+            {
+              "id": 630603,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecf6cc99775ec0840007f8",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630607,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462204",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628654,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-n138nrreh7uc.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 43,
+          "episode_number": 6,
+          "name": "Seni Uzun Zaman Önce Geçtim",
+          "description": "Kuroko sahadayken Seirin'in takım ruhu hiç bu kadar yüksek olmamıştı. Yeni görünmez sürüşünü kullanarak Midorima'yı başarılı bir şekilde ele geçirebilir. Takao'da da aynı yaklaşımı kullanan iki takım, Hyūga 3 sayılık atışın ardından berabere kaldı. Şiddetli bir savaşın ardından, Kiyoshi'nin 2 serbest atışına denk geliyor (Midorima'nın ona faul yapması nedeniyle). Şutlarından birini attı, ancak bacakları ikinciye dayanamadı. Çemberin kenarına çarpıyor, ama neyse ki Kagami geri tepmeyi yakalıyor. Maçın son saniyelerinde Kagami ve Midorima bir hava savaşına girerler. Kagami gol atacak mı yoksa Mimorima smacı durdurmak için yeterli güce sahip mi?",
+          "release_date": "2013-11-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/mgW4SaA4Zo89gcnIEXLaPbzadnG.jpg",
+          "videos": [
+            {
+              "id": 630608,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecf882926a0f406b38af26",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630612,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462205",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628655,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-uodk2vo4wt00.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 44,
+          "episode_number": 7,
+          "name": "Pes etmek",
+          "description": "Maçların temposu nedeniyle uzatma olmadığı için maç 104 berabere bitiyor. Öte yandan Kirisaki Daiichi, Senshinkhan'ı 108-70 mağlup etti, ancak birincisinin haksız önlemlerle kazandığı söyleniyor. Soyunma odasının dışında, Kagami Hyuga ve Kiyoshi arasındaki ateşli konuşmaya kulak misafiri oldu ve sonra geceleri Hyuga'ya bu konuda daha fazla şey sordu. Aslında Kiyoshi'nin lise basketbolu oynamak için son şansıydı, henüz 2. yılında olmasına rağmen. 1 yıl öncesine geri dönüş, hikaye Seirin'in basketbol kulübünün oluşumu, Hyuga'nın lisede basketbol hakkındaki gerçek duyguları ve Kiyoshi'nin basketbol kulübünü kurma kararlılığı hakkında devam ediyor.",
+          "release_date": "2013-11-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/uHw9AusIBrfAB6FvgwEfMxhJBu8.jpg",
+          "videos": [
+            {
+              "id": 630613,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecfa97926a0f406b38af27",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630617,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462208",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628656,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-pymvf0cvux10.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 45,
+          "episode_number": 8,
+          "name": "Biz Seirin Lisesi Basketbol Takımıyız!",
+          "description": "Hyuga, basketbol takımına resmi olarak katılır ve Riko da öyle. İlk maçlarını kazandılar ve Kiyoshi gibi bir Taçsız General olan Kirisaki Daiichi ve Hanamiya Makoto'ya karşı final maçına girdiler. Son oyunlardan birinde Hanamiya, Kiyoshi'nin bacağını kasten yaraladı. Seirin sonraki maçları kaybeder ve Ulusallardan elenir. Hyuga, gelecek yıl Japonya'nın en iyisi olmak için takımı yönetmeye kararlı, ki şu anda olma yolundalar ve Kirisaki Daiichi Seirin'in yolunda.",
+          "release_date": "2013-11-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/blX5SxzFPF9VnhlRU9kRtpdoh4g.jpg",
+          "videos": [
+            {
+              "id": 630618,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecfc0499775ec0840007f9",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630622,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462210",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628657,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-ildoc9o0ft32.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 46,
+          "episode_number": 9,
+          "name": "Seni Yeneceğim!",
+          "description": "Sırada Seirin, Kirisaki Daiichi'ye karşı. Her zamanki gibi Kirisaki Daiichi hücumda ve savunmada kirli oynuyor ve rakip oyuncuları yaralamaya çalışıyor. Bununla birlikte, Kiyoshi hala devam ediyor ve ruhunu gerçekten yakıyor, ancak Hyuga ateşlendiğinde 3 sayılık atışlarından hiçbirini yapamıyor. Seirin bu son derece zorlu eşleşmeyi atlatabilecek mi?",
+          "release_date": "2013-12-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/gW9uppZWc83BtnAy6xvYCMNptpe.jpg",
+          "videos": [
+            {
+              "id": 630623,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecfd8099775ec0840007fa",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630627,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462211",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628658,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-26lkz5jwcoom.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 47,
+          "episode_number": 10,
+          "name": "bu güven",
+          "description": "2. yarıya girerken Seirin 5 sayı önde ve Kirisaki Daiichi, Hanamiya'nın top çalmalarını %100 isabetle aldığı ve Seirin'in bu tuzağın altına düştüğü tuzağı kuruyor. Kuroko, ekibin bu tuzaktan kurtulmak için birbirlerine güvenerek bir kumar oynamasını önerir. Seirin, Kış Kupası biletini alabilecek mi?",
+          "release_date": "2013-12-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aMKJjVxgHHhzcfRmdguxXvlQAgg.jpg",
+          "videos": [
+            {
+              "id": 630628,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ecff11926a0f406b38af28",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630632,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462212",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628659,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-0bhlqnaocrcn.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 48,
+          "episode_number": 11,
+          "name": "Saçmalama",
+          "description": "Seirin, Kirisaki Daiichi'nin 'örümcek ağından' kurtulmayı başardı. Ancak Hanamiya'nın elinde başka bir kart olduğu için oyun hala bitmedi. Seirin yine de Kış Kupası'nda yerini alacak mı yoksa onlar için bitti mi?",
+          "release_date": "2013-12-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xaSfJZpZAxBUv9FakO8rYzF89l0.jpg",
+          "videos": [
+            {
+              "id": 630633,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ed00db926a0f406b38af29",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630637,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462215",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628660,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-i5wozjdvym6b.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 49,
+          "episode_number": 12,
+          "name": "sabırsızlıkla bekliyorum",
+          "description": "Kış kupası ön elemelerinden sonra Seirin bir kaplıcada dinlendi. Aynı zamanda, Tōō Akademisi oradadır, ilk turda savaşacakları onlar için bir sürprizdir. Seirin gergin mi olacak yoksa heyecanla mı dolacak?",
+          "release_date": "2013-12-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/96zpkKVkydxtAz2TF5fZFavpJny.jpg",
+          "videos": [
+            {
+              "id": 630638,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ed028499775ec0840007fb",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630642,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462216",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628661,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-y39spf0jidwf.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 50,
+          "episode_number": 13,
+          "name": "Kesinlikle Bu sefer",
+          "description": "Kış Kupası başlamadan önce Akashi, Kuroko ile birlikte Mucizeler Nesilinin geri kalanını çağırır. Kagami de katılır ve Akashi ile Kagami arasında kötü bir ilk karşılaşma olur. Seirin ve Tōō Academy arasında merakla beklenen maç başlıyor ve avantajı kim kullanacak?",
+          "release_date": "2014-01-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oJXW2ArfOMRQtU79rip3lVwtQl2.jpg",
+          "videos": [
+            {
+              "id": 630643,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ed040e99775ec0840007fc",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630647,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462219",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628662,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-885iqxique1o.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 51,
+          "episode_number": 14,
+          "name": "gereksiz çaba",
+          "description": "Seirin, Tōō Akademisi'ne ayak uydurmayı başardı. Ancak, Kuroko'nun her iki hamlesi de Aomine tarafından art arda durdurulduğunda işler yolunda gitmez. Seirin oyuna nasıl geri dönecek?",
+          "release_date": "2014-01-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zskQ73th4Gyj4J5shMl0X7HbXAt.jpg",
+          "videos": [
+            {
+              "id": 630648,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ed05b699775ec0840007fd",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630652,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462220",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628663,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-no9hhvqmyda9.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 52,
+          "episode_number": 15,
+          "name": "Bence Çok Mutlu",
+          "description": "Kagami, Aomine'yi elinde tutmayı ve Seirin'i Tōō Akademisi'ne yaklaştırmayı başardı. Sadece 2 sayı geride olan Seirin, temposuna ayak uydurabilecek gibi görünüyordu. Ancak, yakında başka bir kriz olacaktı. Bu, Seirin'in rövanş kazanma şansını nasıl engelleyecek?",
+          "release_date": "2014-01-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qHTJN43R5csjuXrqPUSfJCg5oWQ.jpg",
+          "videos": [
+            {
+              "id": 630653,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ed078b926a0f406b38af2a",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630657,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462221",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628664,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-deuci11rsukf.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 53,
+          "episode_number": 16,
+          "name": "Şimdi Kazanıyoruz!",
+          "description": "Imayoshi, Kuroko'yu hareketsiz hale getirebilir ve Sakurai, Hyuga'nın Engel Atlayıcısını durdurmayı başarır, her iki eylem de Momoi tarafından yönlendirilir. Aomine, Kagami'yi geçiyor ve aynı anda 360 spin smaç yapıyor. Tüm 5 Touou oyuncusu artık Kuroko'yu görebilir. Ancak, bu aslında Kuroko tarafından kurulan bir tuzağa yol açar, Izuki Imayoshi'yi bir Ufuk Sürüşü ile geçtiğinde, kalabalığın sadece Kuroko'nun yapabileceğini düşündüğü bir şey ve puanlar. Hyuga ayrıca bir Vanishing Drive ile Sakurai'yi pas geçmeyi başardı ve gol attı. Yanlış Yönlendirme Taşması'nın açığa çıkması Seirin'i tek haneli fark içine çekti. Ancak, Imayoshi, üçüncü çeyreği sona erdirerek Touou'nun galibiyetini 11'e getirmek için bir 3 sayılık atış yaptı. Mola sona ermeden önce, Aomine diğer oyuncular sahaya dönerken dikkat etmedi. 4. çeyrek başlar ve Seirin, Sakurai'nin hızlı savunmasını önlemek için Engel Atlayıcısını ve Kuroko'nun Yanlış Yönlendirme Taşmasını birleştiren Hyuga ile başlar ve farkı 8'e getirerek 3 sayılık bir sayı atar. Gerçek Aomine yakında kendini gösterecek, Seirin nasıl başa çıkacak? Aomine ile ilk yarıda karşılaştıklarından daha mı güçlü?",
+          "release_date": "2014-01-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/12AC9th3dZXpMhStQAnUCrr9LmL.jpg",
+          "videos": [
+            {
+              "id": 630658,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ed0933926a0f406b38af2b",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630662,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462222",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628665,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-jz1s2d2viq8b.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 54,
+          "episode_number": 17,
+          "name": "Bölüm 16.5 - Bunu Bir Kez Daha Yapabilir miyiz",
+          "description": "",
+          "release_date": "2014-02-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/r20jnfpHi7Kgg89jmjxN8glcoAu.jpg",
+          "videos": [
+            {
+              "id": 630663,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ed0abb99775ec0840007fe",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630667,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462223",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628666,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-s82y2rrf1d3k.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 55,
+          "episode_number": 18,
+          "name": "Ona İnanıyorum",
+          "description": "Bu aşamada daha güçlü olan Aomine'i durdurmak Seirin için öncelik haline geldi, aksi takdirde Seirin oyunu kaybedecek. Oyuna geri dönmeyi yavaşlattıktan sonra Seirin, Zone'a giren Aomine'yi aniden durduramadı. Ancak Kagami, Aomine'i durdurmayı başardı ve asların savaşı nasıl olacak?",
+          "release_date": "2014-02-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/5TQALidOkroQbw5N7O3BT6TFUFg.jpg",
+          "videos": [
+            {
+              "id": 630668,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ed0c1799775ec0840007ff",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630672,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462224",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628667,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-qve2ksiy5gcf.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 56,
+          "episode_number": 19,
+          "name": "Kaybetmeyeceğim",
+          "description": "Takımlarının Asları Aomine ve Kagami arasında yoğun bir savaş başlar. İkisi de asla birbirine teslim olmadı ve birbirlerinin şutlarını engellediler. Sahadaki diğer oyuncular, Odaklanma ve reaksiyon hızlarının maksimumda olmasını sağlayan Bölgedeki Asların savaşına çok şaşırıyorlar. Kagami, Aomine'nin yanından geçiyor ve bir basket atıyor ve Tōō'nun galibiyetini 41.5 saniye kala 95-98 ile 3'e getiriyor. Tōō için bir sonraki mülkiyette, Aomine Kagami'yi geçmeyi zor buldu, ancak hızla bir Formsuz Atış'a gitti.",
+          "release_date": "2014-02-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/l7L54VtqgO0jpRs4OdAgZbTqWIU.jpg",
+          "videos": [
+            {
+              "id": 630673,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ed0e45926a0f406b38af2c",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630677,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462226",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628668,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-0ewskumexrlp.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 57,
+          "episode_number": 20,
+          "name": "Söyle Bana",
+          "description": "Tōō karşısında zorlu ve yakın bir galibiyetin ardından Seirin ekibi dinlenip yenilenmek için bir yer bulmaya karar verir. Çeşitli nedenlerle gidecek yeri kalmayan Kagami, ekibe evine davetiye teklif eder. Takım için dinlendirici bir gecenin ardından, Kagami'nin basketbol ustası Alexander Garcia'yı Kagami'nin evinde uyurken bulurlar. Seirin takımı, Alex ile birlikte, Onita ve Shutoku arasındaki Kış Kupası maçını izlemeye gitti ve Shutoku, ikincisi kolayca kazandı ve Midorima, Alex'in dikkatini çekti.",
+          "release_date": "2014-02-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pbWyQOivgZ7acPaShYniJJ1fqtr.jpg",
+          "videos": [
+            {
+              "id": 630678,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ed101699775ec084000800",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630682,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462227",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628669,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-2yav4kgbxx8l.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 58,
+          "episode_number": 21,
+          "name": "Elbette Kolay Değil",
+          "description": "Seirin ve Nakamiya South arasındaki maç ilerlerken, Touou Akademisi'nin kütüphanesinde Imayoshi ve Susa, Seirin'in ders çalışırken maçı kazanma olasılığını tartıştı. Seirin gerçekten de Nakamiya South'u yenmek için zor bir durumda. Imayoshi, Seirin'in oyuncuların Touou'ya karşı yaptığı gibi %120'sini vermediğini ve Tou'yu yendikleri için biraz fazla özgüven kazanmış olabileceklerini söyledi.",
+          "release_date": "2014-03-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/5L6iz2GLhBWl6X69yvkmMykVGLo.jpg",
+          "videos": [
+            {
+              "id": 630683,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ed11d599775ec084000801",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630687,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462228",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628670,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-7pjrft7hsbze.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 59,
+          "episode_number": 22,
+          "name": "İlk Basket!!",
+          "description": "Murasakibara ve Yōsen takımına karşı hala gol atamayan Seirin, Kuroko'nun şut çekmesine başvurdu ve oyuna geri döndüler. Ancak Himuro henüz topunu oynamadı, bu yüzden Seirin buna hazır olacak mı?",
+          "release_date": "2014-03-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bBY7tIx5XulphdhrQi6M24XANK5.jpg",
+          "videos": [
+            {
+              "id": 630688,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ed137199775ec084000802",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630692,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462229",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628671,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-bd4aev0p0jvt.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 60,
+          "episode_number": 23,
+          "name": "Çok Belli",
+          "description": "Aomine, Himuro'nun Japonya'daki bir turnuvada hiç yer almamış olmasına rağmen iyi olduğunu düşünüyor. Maça geri dönersek, Himuro, Kagami'ye harika bir sahtekarlık yapar, ardından Kagami ve Hyuga'nın tepki veremeyeceği bir sıçrama vuruşu yapmak için yumuşak bir geçiş yapar. Maçtan önce Himuro, Murasakibara'ya Kagami'yi ezmek istediğini ve onunla kardeş olmanın daha iyi bir basketbolcu olma yolunda ilerlediğini söyledi.",
+          "release_date": "2014-03-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xFbxoP6JwbW0EJnVx55Qni0qfGi.jpg",
+          "videos": [
+            {
+              "id": 630693,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ed155a926a0f406b38af2d",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630697,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462232",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628672,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-ck18xqy768d8.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 61,
+          "episode_number": 24,
+          "name": "Kaybetmek İstemiyorum",
+          "description": "Murasakibara'nın nihayet hücum tarafında görünmesiyle, Seirin yavaş yavaş Yōsen'e karşı kazanma ve Finallere çıkma şansına sahip olma umudunu kaybediyor. Yardımcı kaptan Fukui'nin yardımıyla Murasakibara topu yakalar ve smaç yapar, çemberin kırılmasına ve zemine çarpmasına neden olarak Seirin'in umudunu daha da azaltır.",
+          "release_date": "2014-03-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/rr1SyWtVTbcGXFTTTGQ0hIGaTa9.jpg",
+          "videos": [
+            {
+              "id": 630698,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ed1741926a0f406b38af2f",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630702,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462235",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628673,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-fbrzpxitisgi.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 62,
+          "episode_number": 25,
+          "name": "Yeterli",
+          "description": "Maç dördüncü çeyrekte devam ederken, Yōsen liderliğini sürdürmeye devam ediyor ve Kiyoshi dışarıdayken, Seirin oyuncuları puan kazanmak için zor zamanlar yaşıyor. Seirin, Yosen'in kullandığı gibi aynı tam saha 2-3 adama savunmayı kullanmaya başlar, ancak Himuro ve Murasakibara bunun üstesinden kolayca gelebilir. Ancak, Kagami'nin kazanma ruhu onu bir kez daha Bölge'ye sokar. Bölgede bir süre kaldıktan sonra Seirin farkı dört sayıya indirir.",
+          "release_date": "2014-03-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/3CdBO4CQRx3WSNlHcEX7H93gUI3.jpg",
+          "videos": [
+            {
+              "id": 630704,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ed18da99775ec084000803",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630708,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462237",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628674,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-3fqtsflmuybz.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 209079,
+          "episode_number": 26,
+          "name": "Kazanmak",
+          "description": "Dördüncü çeyreğin son dakikasında Murasakibara Bölge'ye giriyor. Ancak Kagami'nin kazanmak için o kadar çok ruhu vardı ki sınırlarını aştı ve sadece Bölge'de kullanabileceği yeni atışı olan meteor reçelini kullandı. Topu içeri soktu ve son sayıyı kaydetti. Ancak, Atsushi'nin hala kararlılığı vardı ve atışına gitti. Ancak Murasakibara atlayamadı ve Kuroko atışını bloke ederek zaferi Seirin'e verdi. Murasakibara oyundan sonra bozuldu ve basketbolu gerçekten sevdiğini ortaya çıkardı ve bu da Bölge'ye girmesini sağladı. Kuroko ayrıca Kagami'ye Himuro ile uzlaşmasını söyler ve o da yapar.",
+          "release_date": "2014-04-02T07:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9Q4d3i9f0iBGpbSHDMOTLNU3jsg.jpg",
+          "videos": [
+            {
+              "id": 630709,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ed1af5926a0f406b38af30",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630713,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5462238",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "season_number": 3,
+      "name": "",
+      "episode_count": 25,
+      "episodes": [
+        {
+          "id": 63,
+          "episode_number": 1,
+          "name": "Sadece Tam Güçte Gidiyorum",
+          "description": "Yōsen Lisesi'ni yendikten sonra Seirin, Basketball Monthly için röportaj yapar. Röportajdan sonra Kagami, eski arkadaşı Tatsuya Himuro ve Alex'i ziyaret etmek için dışarı çıkar, ancak farklılıklarını çözebilmek yerine Fukuda Sōgō Akademisi'nden Shōgo Haizaki ile karşılaşır. Alex ile flört etmeye, Kagami'yi kızdırmaya çalışıyor, ancak Kagami harekete geçmeden önce Kise olay yerine varıyor ve Haizaki'nin Mucizeler Kuşağı ekibine gelmeden önce bir başlangıç ​​olduğunu ortaya koyuyor. Kagami, Kuroko'ya bu haberi sormak için geri dönüyor, sadece son çeyrek finalde Kise ve Haizaki arasında bir hesaplaşma olacağını ve kazananın yarı finalde Seirin ile karşılaşacağını öğreniyor.",
+          "release_date": "2015-01-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2er7eSyKZfX2C64G7KTqhVp5OJi.jpg",
+          "videos": [
+            {
+              "id": 633309,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ff3b569d06b7019e4f9e83",
+              "extra": "mangosuyu/Nones/sugarsoldier/Benshei// www.anisekai.com",
+              "fansub": "mangosuyu",
+              "fansub_id": 675,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 633313,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5479653",
+              "extra": "mangosuyu/Nones/sugarsoldier/Benshei// www.anisekai.com",
+              "fansub": "mangosuyu",
+              "fansub_id": 675,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 64,
+          "episode_number": 2,
+          "name": "Bu benim",
+          "description": "Kise ve Haizaki, Seirin ile karşılaşma hakkı için kafa kafaya karşı karşıya gelir. İlk başta, Kise ve Haizaki'nin, Haizaki'nin Kise'in takım arkadaşlarının hareketlerini kopyalamaya başlayabilmesiyle aynı kopyalama yeteneğine sahip olduğu görülüyor. Ancak Kaizaki bir hamleyi kopyaladığında, orijinal kullanıcı onu kullanamıyor gibi görünüyor. Kuroko, Haizaki'nin rakiplerine karşı psikolojik savaş kullandığını ortaya koyuyor. Bireyin hareketlerini kopyalarken, hareketin zamanlamasını da değiştirir. Orijinal kullanıcı hareketi tekrar yapmaya çalıştığında, bunu yeni zamanlama ile yapmaya çalışır ve sonunda başarısız olur. İkinci yarı başladığında Kise ve takım arkadaşları daha da geride kalıyor. Kise, Haizaki'nin kullanamadığı bir hamle bulabilecek ve bir şekilde işleri tersine çevirmeyi başarabilecek mi, yoksa ekibi kesin bir yenilgiye mi doğru gidiyor?",
+          "release_date": "2015-01-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tGJXy6FxkB9DZXebn12l0aGT7sJ.jpg",
+          "videos": [
+            {
+              "id": 633314,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ff3cc8926a0f406b38b002",
+              "extra": "mangosuyu/Nones/sugarsoldier/Benshei// www.anisekai.com",
+              "fansub": "mangosuyu",
+              "fansub_id": 675,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 633318,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5479668",
+              "extra": "mangosuyu/Nones/sugarsoldier/Benshei// www.anisekai.com",
+              "fansub": "mangosuyu",
+              "fansub_id": 675,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 65,
+          "episode_number": 3,
+          "name": "Yoluma Çıkma",
+          "description": "Haizaki'nin yeteneği, bir kez gördüğü bir hareketi kopyalamak değil, onu \"yağmalamak\". Kaijo, her oyuncunun imzası olan oyunları kapatıldığı için köşeye sıkışmaya başlar. Copy yeteneği sayesinde çeşitli hamlelere sahip olan Kise bile oyun ilerledikçe stok hamleleri tükenmeye başlıyor. Ayrıca, sert oyun temposu Kise'nin bacağını sınırına yaklaştırıyor... Fukuda Sogo'nun oluk tamamen avantajlı durumda ve Kaijo takımı istedikleri gibi hareket edemediği için hüsrana neden oluyor. Kise sonunda diz çöker ama o anda seyircilerden Kuroko'dan bir tezahürat gelir. Kise, bu sese cevap vermek istercesine bir kez daha ayağa kalktı ve geri dönüş koşusunu başlatmak için yeni Mükemmel Kopya becerisini kullanıyor!",
+          "release_date": "2015-01-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zFIb5etm3Etrg6BCBFwy5syC7Gz.jpg",
+          "videos": [
+            {
+              "id": 633320,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ff3e3d926a0f406b38b003",
+              "extra": "mangosuyu/Nones/sugarsoldier/Benshei// www.anisekai.com",
+              "fansub": "mangosuyu",
+              "fansub_id": 675,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 633324,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5479678",
+              "extra": "mangosuyu/Nones/sugarsoldier/Benshei// www.anisekai.com",
+              "fansub": "mangosuyu",
+              "fansub_id": 675,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 66,
+          "episode_number": 4,
+          "name": "Şimdilik Bunu Alacağım",
+          "description": "Kış Kupası'nın son dördü nihayet belirlendi: Rakuzan, Shutoku, Seirin ve Kaijo. Ancak yarı final günü Kuroko ve Kagami, basketbol ayakkabılarının bozulduğunu farkeder ve aceleyle yeni ayakkabı almak için yola çıkarlar. Ancak Kagami kendi bedeninde ayakkabı bulamıyor! Kuroko'nun önerisi sayesinde Momoi'den tavsiye alırlar ve cevabı, her ikisi de aynı ayakkabı numarasına sahip olduğu için Aomine'nin ayakkabılarını kullanması gerektiğidir. Tabii ki, Aomine uysalca bir çift vermeyecekti ve sonunda ayakkabılarla bire bir ödül aldılar! Daiki çabucak kazandı ama yine de ayakkabıları Kagami'ye teklif etti. Tayga isteksizce kabul eder ve şimdilik kabul edeceğini söyler ama rekabetleri henüz bitmemiştir. Tayga ve Tetsuya, Kış Kupası'nın ilk yarı final maçını izlemek için koştu: Rakuzan Vs. Shutoku.",
+          "release_date": "2015-01-31T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/uehbAZkTI4uyZhoUSEnMPzC4uF2.jpg",
+          "videos": [
+            {
+              "id": 633325,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ff3fa49d06b7019e4f9e84",
+              "extra": "mangosuyu/Nones/sugarsoldier/Benshei// www.anisekai.com",
+              "fansub": "mangosuyu",
+              "fansub_id": 675,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 633329,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5479689",
+              "extra": "mangosuyu/Nones/sugarsoldier/Benshei// www.anisekai.com",
+              "fansub": "mangosuyu",
+              "fansub_id": 675,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 67,
+          "episode_number": 5,
+          "name": "Bunların Hiçbirini Bilmiyorum",
+          "description": "Shutoku ve Rakuzan arasındaki maçın ikinci yarısı başladığında, Akashi gözünü kullanır, Akashi'nin Kuroko'nun yeteneğini bulan kişi olduğu ortaya çıkar, bu da gözün insanların potansiyelini görebileceği anlamına gelir, ancak Maçlarda gözün tamamen farklı olduğu söylenir, diğer oyuncuların gelecekteki hareketlerini tahmin eder, böylece diğer takımın hem hücumunu hem de savunmasını geçersiz kılar.",
+          "release_date": "2015-02-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/rc6M6TdggeRGL3kSEHbeOq25UnM.jpg",
+          "videos": [
+            {
+              "id": 659434,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66992a28cf067ab47984f29a",
+              "extra": "PuzzleSubs",
+              "fansub": "PuzzleSubs",
+              "fansub_id": 566,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 659437,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5600774",
+              "extra": "PuzzleSubs",
+              "fansub": "PuzzleSubs",
+              "fansub_id": 566,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 68,
+          "episode_number": 6,
+          "name": "Onlara Teklif Edeceğim",
+          "description": "Rakiplerin gelecekteki hareketlerini gören Akashi'nin İmparator Gözü ile karşı karşıya kalan Shutoku, oynayacak elleri yokmuş gibi görünüyor. Ancak ekip üyelerinin gözünde bir kez daha savaşma isteği aydınlanır ve Rakuzan'ın karşısına \"bozulmaz azim\" ruhuyla bakarlar! Midorima ve Takao'nun hileli oyunu sayesinde, farkı tek bir güçlü koşuda kapatmaya çalışırlar, ancak buna cevap vermek için Akashi, çevresindeki herkesi şok ederek kendi kalesine gol atar. Son ana kadar pes etmeden dişlerini gösteren Shutoku'ya karşı Akashi, merhamet göstermeyen sözler sarf eder.",
+          "release_date": "2015-02-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2ZtFUKuwXDQAbfUNolf9HFnrx95.jpg",
+          "videos": [
+            {
+              "id": 633336,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ff4268926a0f406b38b005",
+              "extra": "mangosuyu/Nones/sugarsoldier/Benshei// www.anisekai.com",
+              "fansub": "mangosuyu",
+              "fansub_id": 675,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 633340,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5479699",
+              "extra": "mangosuyu/Nones/sugarsoldier/Benshei// www.anisekai.com",
+              "fansub": "mangosuyu",
+              "fansub_id": 675,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 69,
+          "episode_number": 7,
+          "name": "Beni güldürüyor",
+          "description": "Rakuzan vs.Shutoku maçının ardından Rakuzan, Shutoku karşısında 86 - 70 ile galip geldi. Shutoku takımı için, oyundan sonra Takao ve Midorima'nın bile ağlaması çok büyük bir yenilgi. Kise, Kagami ve Kuroko maç öncesi kısa bir selamlaştılar. Maç başladı, Seirin Kise'nin Kusursuz Kopyasını nasıl durdurabilir?",
+          "release_date": "2015-02-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/hSXpxtdFAOgy8evCvWahkOs5fTd.jpg",
+          "videos": [
+            {
+              "id": 633360,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ff43fa926a0f406b38b006",
+              "extra": "Kyrea - Skip - www.puzzlesubs.com",
+              "fansub": "Kyrea",
+              "fansub_id": 51,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 633364,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5479702",
+              "extra": "Kyrea - Skip - www.puzzlesubs.com",
+              "fansub": "Kyrea",
+              "fansub_id": 51,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 70,
+          "episode_number": 8,
+          "name": "Gerçek ışık",
+          "description": "Seirin ve Kaijo arasındaki savaş sonunda başlar. Seirin önce vurarak zaferlerini güvence altına almaya çalışır, ancak Kise beklenmedik bir şekilde oyunun başında Kusursuz Kopyasını kullanmaya başlar ve ezici gücünü gösterir.",
+          "release_date": "2015-03-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/gStzcyp2bZbZdlMPrk4g0f6TZ4g.jpg",
+          "videos": [
+            {
+              "id": 633365,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ff45929d06b7019e4f9e86",
+              "extra": "AniKeyf",
+              "fansub": "AniKeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 633369,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5479705",
+              "extra": "AniKeyf",
+              "fansub": "AniKeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 71,
+          "episode_number": 9,
+          "name": "Bizi Küçümseme!",
+          "description": "Seirin-Kaijo oyunu, as oyuncuları arasındaki savaş nedeniyle çok sıcaktı. Savunma ve hücum tersine döndüğü için Seirin hücuma geçiyor. En son uyanan ve Mucizelerin Üretimi ile karşılaştırılabilir potansiyele sahip olan Kagami, bu gizli yeteneği serbest bırakma yolundaydı. Kise bunu herkesten çok bir tehdit olarak hissetti. Bu yüzden kesinlikle kaybetmek istemiyordu!!",
+          "release_date": "2015-03-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wZySg3sYpgZxvGm7rbuxzG7FZD1.jpg",
+          "videos": [
+            {
+              "id": 633370,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ff46ee9d06b7019e4f9e87",
+              "extra": "Schwazy - Skip - www.puzzlesubs.com - www.facebook.com/puzzlesubs",
+              "fansub": "Schwazy",
+              "fansub_id": 676,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 633374,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5479708",
+              "extra": "Schwazy - Skip - www.puzzlesubs.com - www.facebook.com/puzzlesubs",
+              "fansub": "Schwazy",
+              "fansub_id": 676,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 72,
+          "episode_number": 10,
+          "name": "Kazanmak için",
+          "description": "Kise'nin yarası daha da kötüleşir. Antrenörü ona bir süre sahadan inmesini ve Kusursuz Kopyasını kullanabileceği son çeyreğin son iki dakikasına kadar dinlenmesini emrediyor. Kagami'nin yetenekleri, maçın bitmesine dört dakika kala Seirin'in 15 sayılık farkla öne geçmesine yol açıyor. Kise'nin hayal kırıklığı, kupayı kazanmaya kararlı bir şekilde hızla iyileşmesine neden olur. Rico şaşırır ve Kise'nin Mükemmel Kopyasının artık yarışmanın sonuna kadar sürebileceğini fark eder.",
+          "release_date": "2015-03-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/iFEBB3lYI1Bnl38EREYyZJKmvqS.jpg",
+          "videos": [
+            {
+              "id": 633375,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ff48f3926a0f406b38b007",
+              "extra": "Schwazy - Skip - www.puzzlesubs.com - www.facebook.com/puzzlesubs",
+              "fansub": "Schwazy",
+              "fansub_id": 676,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 633379,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5479712",
+              "extra": "Schwazy - Skip - www.puzzlesubs.com - www.facebook.com/puzzlesubs",
+              "fansub": "Schwazy",
+              "fansub_id": 676,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 73,
+          "episode_number": 11,
+          "name": "Bu sefer Kesinlikle",
+          "description": "Kise toparlandı ve 15 sayılık farkı doldurmayı başardı. Kaijo 78-77'lik skorla öne geçti. Kise'nin hızlı iyileşmesi ve Kaijo'nun kazanma ısrarı kalabalığı neşelendirerek Seirin'i baskı altına alırken Seirin huzursuz olur ve hareketleri sertleşir. Kuroko, Kise'nin Kusursuz Kopyasını aşmak için gözlem için zaman gerektiren bir plan yapar.",
+          "release_date": "2015-03-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bCcem15MsURcoV1AFHgORMmZkHr.jpg",
+          "videos": [
+            {
+              "id": 633380,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ff4b1c926a0f406b38b008",
+              "extra": "AniKeyf",
+              "fansub": "AniKeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 633384,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5479716",
+              "extra": "AniKeyf",
+              "fansub": "AniKeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 74,
+          "episode_number": 12,
+          "name": "O En İyi Oyuncu",
+          "description": "Kuroko sonunda Kise'i durdurmanın bir yolunu bulur ve Seirin, Kuroko'nun belirleyici bir vuruşuyla kazanır. Bölüm, Kuroko'nun geçmişi hakkında bir hikaye anlatması ile sona erer.",
+          "release_date": "2015-03-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/p4yStelpGeIPvxr5ACWt1F7ScU9.jpg",
+          "videos": [
+            {
+              "id": 633385,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ff4c3f926a0f406b38b009",
+              "extra": "AniKeyf",
+              "fansub": "AniKeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 633389,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5479722",
+              "extra": "AniKeyf",
+              "fansub": "AniKeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 75,
+          "episode_number": 13,
+          "name": "Mavi Gökyüzüyle Bir Gün",
+          "description": "Kuroko, ilk olarak Teiko'nun üçüncü dize basketbol takımına yerleştirilir. Ancak, her gün okuldan sonra Aomine ile pratik yaptıktan sonra Akashi, Kuroko'nun yeteneğini \"Hayalet 6. Adam\" olarak fark etti. Üçüncü ve ikinci dizi arasındaki bir oyun sırasında Kuroko kendini kanıtladı ve birinci diziye yükseltildi. Ama bir hazırlık maçında başlangıç ​​oyuncusu olarak oynadığında, o kadar gergin ki hemen oyundan atılıyor. Koçlar onu ilk ipte tutacaklarından emin değiller, ancak Aomine'nin teşvikiyle onu bir gün boyunca tutuyorlar. Artık Kuroko'nun sinirleri kontrol altına alındığına göre, takımdaki yardımı açıktır ve kalıcı olarak ilk sıra sırasına yerleştirilmiştir.",
+          "release_date": "2015-04-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pC7zgGL7qSrXUjdoE8ClkS8vKly.jpg",
+          "videos": [
+            {
+              "id": 633390,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ff4d579d06b7019e4f9e88",
+              "extra": "AniKeyf",
+              "fansub": "AniKeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 633394,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5479727",
+              "extra": "AniKeyf",
+              "fansub": "AniKeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 76,
+          "episode_number": 14,
+          "name": "...Afedersiniz",
+          "description": "Nijimura, babası hasta olduğu için kaptanlık pozisyonunu Akashi'ye verir. Akashi şimdi kaptan olur. Teiko koçu geri gelir. Midorima ve Murasakibara kavga eder ve Kuroko onları bir antrenman maçına davet eder. Ardından Aomine ve Kise kavga ederler ama ciddi bir kavga etmezler. Akashi, sürekli antrenmanları atladığı için Haizaki'den kurtulmak istiyor. Aomine oyun oynuyor ama eğlenmiyor ve karşı takımı ezdiği için basketbola olan ilgisini kaybediyor. Teiko Ulusal elemelere gidiyor ve Aomine arkadaşıyla tanışırken, Kuroko'nun arkadaşının yüzü de ortaya çıkıyor. Aomine arkadaşının takımını ezer ve arkadaşı tarafından canavar olarak adlandırılır. Ayrıca, Kuroko'nun arkadaşı kaybeder ve ağlayarak Kuroko'yu arar. Bölüm, Aomine'nin havuz başında, yüzünde boş bir ifadeyle oturmasıyla sona erer.",
+          "release_date": "2015-04-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/i9Cn8lJrqC8yuhMrJMeTbGukAgN.jpg",
+          "videos": [
+            {
+              "id": 633395,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ff4e2e9d06b7019e4f9e89",
+              "extra": "AniKeyf",
+              "fansub": "AniKeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 633399,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5479731",
+              "extra": "AniKeyf",
+              "fansub": "AniKeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 77,
+          "episode_number": 15,
+          "name": "Biz çoktan",
+          "description": "Eski koç, Aomine'ye değerli bir rakip bulana kadar basketbol oynamaya devam etmesini tavsiye eder. Teiko Ulusal finalleri kazandı. Yaşlı koç çöker ve genç olan takımın koçluğunu üstlenir. Takım bireysel olarak güçte hızlı bir büyüme yaşıyor. Aomine antrenman ortasında ayrılır ve koç ona antrenmanları atlama izni verir ve Aomine'i daha da çaresiz bırakır. Bir itaatsizlik eyleminin ardından Akashi, Murasakibara ile karşı karşıya gelir ve tam kaybetmek üzereyken, kişiliğini değiştirir ve Murasakibara'yı ezer. Akashi, takımın geri kalanına maçları kazandıkları sürece antrenmanı atlama izni verir. Daha sonra, Aomine'yi iki kişi olduğuna ikna edemeyen Kuroko'ya söyler.",
+          "release_date": "2015-04-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kwPLwozrforfRNINVlR4upC2tvE.jpg",
+          "videos": [
+            {
+              "id": 633400,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ff4f319d06b7019e4f9e8a",
+              "extra": "AniKeyf",
+              "fansub": "AniKeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 633404,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5479738",
+              "extra": "AniKeyf",
+              "fansub": "AniKeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 78,
+          "episode_number": 16,
+          "name": "Zafer nedir?",
+          "description": "Kuroko, Teiko'nun Kuroko'nun arkadaşı Shige'nin takımına karşı oynayacağı büyük finalden önceki oyunda bayılır. Kuroko bilinci yerine gelir ve oyunda oynayamayacağı için Akashi'den Teiko'nun elinden gelenin en iyisini yapmasını ister. Kotalardan sıkılan Teiko, yeni bir oyun oynamaya karar verir. Kuroko, maçın sonucunu görmek için zamanında maça gelir, Murasakibara karşı takım adına son golü atarak skoru \"111, 11\" olarak gösterir. Yıkılan Kuroko, basketbolu bırakmaya karar verir ve Shige'nin okulunu ziyaret eder ve burada Shige'nin transfer olduğunu ve basketbolu bırakacağını öğrenir. Shige'nin arkadaşı, Kuroko'nun kalplerini eritebileceğini düşündüğü için basketbolu bırakmamasını söyler.",
+          "release_date": "2015-04-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9b8mrONrSBAeiOsG1X3HavRkhlO.jpg",
+          "videos": [
+            {
+              "id": 679915,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66dc6dbc53c408c10cb29207",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 679918,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5666820",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 79,
+          "episode_number": 17,
+          "name": "Son İpucu Kapalı",
+          "description": "Seirin, Kış Kupası'nın büyük final maçına zihinsel olarak hazırlanır. Kagami ve Tatsuya sonunda düzgün bir şekilde uzlaşırlar. Mucizeler Nesil takımları da dahil olmak üzere önceki maçlardan takımlar büyük finali izlemeye geliyor. 3. sıra için karar verirken, Kise maçtan ayrılıyor ve Shutoku, Kaijo'ya karşı 96-54 kazanarak 3. sırayı alıyor. Rakuzan ve Seirin ısınır ve Akashi kazananın Rakuzan olacağını ilan eder. Furihata, Kuroko'ya takımın düşünceleriyle dolu bir bileklik verir. Oyun, Kagami'nin ipucunu almasıyla başlar. Kuroko pası kaçırıyor ama Kagami imkansız bir sıçrayışla ilk golü atıyor. Ve \"bölgeye\" girer.",
+          "release_date": "2015-05-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qJiPlVZwVVpDxlgo0grm3EAKRBp.jpg",
+          "videos": [
+            {
+              "id": 719390,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68344d64f8146af586df9f39",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 719391,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/qxf10bluwqdl",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 80,
+          "episode_number": 18,
+          "name": "En iyisi değil mi?",
+          "description": "Kagami tehlikeli bir şekilde sahadaki dayanıklılığını tüketmeye devam eder. Riko, Kagami'nin hücuma odaklanabilmesi için Kuroko'yu Mitobe ile değiştirir. Akashi, Kagami'ye karşı birleşir ve Akashi, Mitobe'nin savunması akışı bozana kadar oyunun kontrolünü ele alır. Kagami bölgeden çıkar ve Kuroko oyuna tekrar girer. Kuroko normalden daha görünür, Akashi bunun nasıl top süreceğini ve ateş edeceğini öğrenmesinden kaynaklandığını iddia ediyor. Cesareti kırılan Kuroko, bir yan pas için maçtan çıkarılır, ardından ilk çeyreğin geri kalanı için tekrar oyuna alınır. İlk çeyrek 21-21 eşitlikle tamamlandı. Kuroko, bir çözüm düşünmek için 2. çeyreğe oturmaya hazırlanıyor. Bu arada Rakuzan'dan Chihiro Mayuzumi, tıpkı Kuroko gibi, ancak daha iyi temel niteliklerle yanlış yönlendirme yeteneğini ortaya koyuyor.",
+          "release_date": "2015-05-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1mpbOQn3TGqChoJDZRp2Of2liJV.jpg",
+          "videos": [
+            {
+              "id": 633415,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ff53d1926a0f406b38b00b",
+              "extra": "AniKeyf",
+              "fansub": "AniKeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 633419,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5479751",
+              "extra": "AniKeyf",
+              "fansub": "AniKeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 81,
+          "episode_number": 19,
+          "name": "Bir Mircale Olmayacak",
+          "description": "Kuroko, Mayuzumi'nin oyununu kenardan gözlemler. Seirin, Rakuzan'ı cezbetmek için birinci sınıf Furihata'ya katılır, ancak Akashi ile yüzleştikten sonra hızla yorulur. Yerini birinci sınıf öğrencisi Fukuda alır. Hyuga, Rakuzan'dan Reo Mibuchi'ye (Hyuga'nın ortaokulda hayran olduğu) \"Atıcı Muhafızlar Savaşı\"nda karşı koyar, ancak kaybeder. Aynısı Eikichi Nebuya'ya karşı Kiyoshi'ye de olur. Fukuda'nın yerini başka bir birinci yıl alır. Rakuzan, Seirin'in oyuncularını birer birer eziyor. Akashi, ikinci çeyreği Rakuzan ile 62-37 önde bitirerek, aynı zamanda dar alanda da yapabileceğini gösteriyor.",
+          "release_date": "2015-05-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/w8qNcIWsGSzIM4XmLxIBtZ0tPK.jpg",
+          "videos": [
+            {
+              "id": 633420,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ff5528926a0f406b38b00c",
+              "extra": "AniKeyf",
+              "fansub": "AniKeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 633424,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5479756",
+              "extra": "AniKeyf",
+              "fansub": "AniKeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 82,
+          "episode_number": 20,
+          "name": "Çözme Ağırlığı",
+          "description": "Rakuzan vs. Seirin üçüncü çeyreğe giriyor. Seirin pes etmez, tüm umutlarını golcüleri Hyuga ve Kagami'ye emanet eder. Ancak, o küçük parıltı bile ...",
+          "release_date": "2015-05-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9zm1MImgtwm1MjPnlyIRwEgax7M.jpg",
+          "videos": [
+            {
+              "id": 633425,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ff5613926a0f406b38b00d",
+              "extra": "AniKeyf",
+              "fansub": "AniKeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 633429,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5479759",
+              "extra": "AniKeyf",
+              "fansub": "AniKeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 83,
+          "episode_number": 21,
+          "name": "Kendi Yolumda, Çaresizim",
+          "description": "Izuki, gelecekteki hamleleri tahmin ederek ve Kuroko ve Kagami ile koordinasyon sağlayarak Rakuzan'ın Kitari Hayama'nın beş parmakla top sürme hücumuna müdahale etmeyi başarır. Kagami bölgede kalır. Koganei, Reo ile karşı karşıya gelir ve Koganei onu yenmeyi başaramasa da Hyuga, Reo'nun üç özel atışını (Heaven, Earth, Void) nasıl yeneceğini anlamaya başlar.",
+          "release_date": "2015-05-31T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4DtHVTFxbYC2i3dgvOWuSQY1vRM.jpg",
+          "videos": [
+            {
+              "id": 633430,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ff56f29d06b7019e4f9e8c",
+              "extra": "AniKeyf",
+              "fansub": "AniKeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 633434,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5479762",
+              "extra": "AniKeyf",
+              "fansub": "AniKeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 84,
+          "episode_number": 22,
+          "name": "Bir uyarı",
+          "description": "Hyuga, dördüncü çeyrekte maça yeniden katıldı ve ilk üçü kaydetti, baskı altında gelişti ve Mibuchi Reo'nun üç şutu ile \"Boşluk\" un sırrı arasındaki farkı nasıl anlatacağını öğrendi. Kiyoshi'nin diz yaralanması onu rahatsız etmesine rağmen, rakibi Eikichi Nebuya'ya karşı geri itiyor. Akashi, bölgede daha da derine inen Kagami'ye karşı topun kontrolünü kaybediyor. Bununla birlikte, Akashi bölgeye istediği zaman nasıl girileceğini öğrenmiştir ve onu Rakuzan'ın başı beladayken saklar. Tetiği, takımın geri kalanını terk etmeye ve kazanmak için kendi gücünü kullanmaya karar vermesidir. Akashi bölgeye giriyor ve kendi başına gol atıyor. Seirin mola alıyor ve Rakuzan 90-78 önde. Seirin, Kagami'ye güvenir. Dinleyicilerde Aomine, bölge içinde daha büyük bir bölge olduğundan şüphelendiğinden bahseder. Ve Kagami'nin Akashi'yi yenebilmesi için bu ikinci \"kapıyı\" açması gerekebilir.",
+          "release_date": "2015-06-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vEqIq7AYv13FiNefu5zRgWJAmK3.jpg",
+          "videos": [
+            {
+              "id": 679887,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66dc6afd53c408c10cb29203",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 679890,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5666811",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 85,
+          "episode_number": 23,
+          "name": "Neden Vazgeçmiyoruz?",
+          "description": "Akashi'nin devasa savunma bölgesiyle karşı karşıya kalan Kagami, bölgenin dibine ulaşmış, ancak \"kapıyı\" açmanın bir yolunu göremediğinden umutsuzluğa kapılır. Kuroko, şimdilik yalnızca Kagami'ye güvenmekten vazgeçmelerini ve yükün bir kısmını üstlenmeyi teklif ediyor. Kuroko, Kagami'nin hareketini izleyerek ve tahmin ederek Kagami'nin \"gözü\" olur ve Akashi'yi durdurabilir. Akashi sersemlemiş olsa da yakalar ve Kagami'yi durdurmaya çalışır, ancak Kuroko tarafından tekrar yakalanır. Akashi, son bir kez Kagami'nin smacını engellemeye çalışır, ancak Kagami, onu destekleyen takım arkadaşlarıyla birlikte, bölgedeki \"kapıyı\" açmayı başarır ve puanlar. Akashi bir golü kaçırır ve Bölgenin dışına düşer. Akashi'nin içinden bir ses ona pes etmesini söylemeye başlar. Maçın bitmesine 5 dakika kala Rakuzan mola alıyor ve skor 92-90. Rakuzan'ın koçu Akashi'yi kovmak üzereyken, Mayuzumi Akashi'yi azarlar ve retorik bir şekilde \"Sen kimsin?\" diye sorar ve bu da diğer benliğiyle içsel bir diyaloğu tetikler. Akashi, takımını bir arada tutmak için zafer için çabaladı ve zayıflığında diğer benliğini yarattı. Ama sonra nedenini unutarak zafer için oynamaya başladı. Şimdi, iki benliği birleşiyor ya da belki yer değiştiriyor gibi görünüyor ve sözlerini ortaokulda Kuroko'ya tekrarlayarak yüksek sesle kendini \"Akashi Seijuro\" ilan ediyor.",
+          "release_date": "2015-06-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dvj6ZLP2gmA9wkXUR9dsZ0rzQwF.jpg",
+          "videos": [
+            {
+              "id": 633440,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ff58ee926a0f406b38b00f",
+              "extra": "AniKeyf",
+              "fansub": "AniKeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 633444,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5479767",
+              "extra": "AniKeyf",
+              "fansub": "AniKeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 86,
+          "episode_number": 24,
+          "name": "Yani Sen miydin",
+          "description": "Akashi, morallerini de artıran mükemmel fırsatlar yaratarak takımı desteklemeye başlar. Mucizeler Nesilinin izleyen üyeleri, Akashi'nin eski benliğini tanır. Seirin hala gol atmayı başarır, ancak Akashi bölgeye tekrar girer ve Akashi'nin desteği ekip üyelerinin potansiyellerini ortaya çıkararak, “Taçsız Krallar” ın üyeleri oldukları için bölgenin kusurlu bir versiyonuna girmelerini sağlar. Onlara karşı durabilecek tek kişi Kagami'dir, ancak fiziksel sınırlarına ulaşır ve bölgeden çıkar. Seirin'in geri kalanı da tükendi ve Seirin'in daha fazla zamanı kalmadı. Aniden, Kuroko'nun arkadaşı Ogiwara, seyircilerden tezahürat yaparak Kuroko'yu gözyaşlarına boğdu. Aomine, Kise, Midorima ve diğer geçmiş rakipler alkışlarını ekler ve kalabalık Seirin için ilahiler söylemeye başlar. Rakuzan önde, 103-96 ve maçın bitmesine 2 dakika kala Kagami, takımla konuşuyor ve \"bölge içindeki kapıyı\" tamamen açmayı başarıyor ve takım oyunu olan \"Gerçek Bölge\"yi gözler önüne seriyor. bölgenin hızı (ekip üyeleri arasındaki bağ nedeniyle mümkündür). Aomine, \"kapının\" önündeki kişinin bir kapı bekçisi değil, takım oyununa giden yolu yöneten Kuroko olduğunu fark eder. Seirin iki sayılık bir sayı atmayı başarır, ancak Akashi iki sayılık bir sayı ile karşılık verir ve Seirin'in bu kadar kolay kazanmasına izin vermeyecektir.",
+          "release_date": "2015-06-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/otxD4bkZKVW69WWPZSKZZLhvzzc.jpg",
+          "videos": [
+            {
+              "id": 633445,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ff5a4e9d06b7019e4f9e8d",
+              "extra": "AniKeyf",
+              "fansub": "AniKeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 633449,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5479770",
+              "extra": "AniKeyf",
+              "fansub": "AniKeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 87,
+          "episode_number": 25,
+          "name": "Defalarca",
+          "description": "Maçın bitimine 40 saniye kala Rakuzan 105-98 önde gidiyor. Kagami 27 saniye kala golü atıyor. 17 saniye kala, ateşlenmeyen tek kişi Izuki, kasten sakin kalmaya ve Rakuzan'ı hazırlıksız yakalamak için kafasını kullanmaya çalışıyor. Rakuzan'ın şut atacağını ve topu çalacağını tahmin ediyor ve Hyuga'ya mükemmel bir pas veriyor. Hyuga üçlük atarken faule zorluyor ve serbest atış hakkı veriliyor. Hyuga'nın şutu ribaund alıyor ve Kiyoshi bunu almak için son gücünü kullanıyor. Üç saniye kala top, atışa giden Kuroko'ya pas veriyor. Akashi savunur ama Kuroko \"Ben gölgeyim\" der ve Kagami imkansız sıçramalarından birini yaparak smaç yapar ve Seirin 105-106 kazanarak Kış Kupası'nı kazanır. Akashi ilk kaybını yaşar, ancak Kuroko'ya minnettardır ve gözlerinde yaşlarla onu tebrik eder. Birkaç gün sonra Seirin, dizinden ameliyat olmak için denizaşırı ülkelere giden Kiyoshi'yi havaalanında uğurladı. Bu arada Seirin'in rakip takımlarından 3. sınıfları üniversiteye hazırlanırken, takımları yeni kaptanlar atayarak bir sonraki Basketbol sezonuna hazırlanıyor. Seirin pratik yapmak için okula döner ama Kuroko geç kalır. Kagami onu bulması için gönderilir ve Kuroko, Momoi'den bir fotoğraf aldığını açıklar. Kuroko ve Kagami antrenmana geri dönerken, Kuroko'nun dolabı açılır ve fotoğrafı ortaya çıkarır - Mucizeler Kuşağı'nın yeniden bir araya geldiği bir takım fotoğrafı.",
+          "release_date": "2015-07-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vGe3jrGeCes8LCxvthg7lyhO5ng.jpg",
+          "videos": [
+            {
+              "id": 679906,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66dc6bdf53c408c10cb29204",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 679909,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5666813",
+              "extra": "Anikeyf",
+              "fansub": "Anikeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

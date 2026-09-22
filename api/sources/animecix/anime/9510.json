@@ -1,0 +1,866 @@
+{
+  "id": 9510,
+  "name": "RPG Fudousan",
+  "name_english": "RPG Real Estate",
+  "name_romanji": "RPG Real Estate",
+  "original_title": "RPG不動産",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2022,
+  "release_date": "2022-04-06 00:00:00",
+  "description": "Hikayemiz, İblis Lordunun yenilmesinden ve dünyanın barışçıl hale gelmesinden 15 yıl sonrasında yer alıyor. Okuldan yeni mezun ve diplomalı bir sihirbaz olan Kotone, yeni bir ev bulma amacıyla krallığa bağlı RPG Emlak'a danışıyor. Ancak gerçekte, RPG Emlak, Kotone'nin çalıştığı yerdir ve yarı-insan olan Fa, rahip Rufuria ve asker Rakira ile birlikte, çeşitli koşullara sahip müşterilerin kendilerine yeni evler bulmasına yardımcı olmaya çalışırlar.",
+  "poster": "https://image.tmdb.org/t/p/original/yThvCUigJRtguDcysLS9QIehPyX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uOWHuasTpabR3zenQ3Arw2N4o0a.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    4,
+    2
+  ],
+  "tmdb_id": 119631,
+  "mal_id": 48363,
+  "anilist_id": 0,
+  "imdb_id": "tt14134436",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 3059,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 165613,
+          "episode_number": 1,
+          "name": "RPG Real Estate'e hoş geldiniz! İlk Kez Oda Arama!",
+          "description": "Kotone, kırsal kesimden 16 yaşında bir kızdır. Actus krallığının başkenti Dali'ye yeni bir hayata başlayabileceği bir yer bulmak için seyahat eder.",
+          "release_date": "2022-04-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fdc4TKaLHqXbbmNh1yTscCzvcyc.jpg",
+          "videos": [
+            {
+              "id": 381395,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632af4b4811bb1558a7a9f04",
+              "extra": "itsyssr / HakaiRyuu",
+              "fansub": "itsyssr",
+              "fansub_id": 2655,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 246909,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4690872",
+              "extra": "itsyssr / HakaiRyuu",
+              "fansub": "itsyssr",
+              "fansub_id": 2655,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 246906,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/gNADQBpJ#sAXNrtkMcYv9eiyvKYUUrdph2m3qq3Zsqdq15x6kwfE",
+              "extra": "itsyssr / HakaiRyuu",
+              "fansub": "itsyssr",
+              "fansub_id": 2655,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 246907,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1cw24MmrClFafDbCKjj_LCEaYe3G-6UL8/preview",
+              "extra": "itsyssr / HakaiRyuu",
+              "fansub": "itsyssr",
+              "fansub_id": 2655,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 246911,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/3959685516009",
+              "extra": "itsyssr / HakaiRyuu",
+              "fansub": "itsyssr",
+              "fansub_id": 2655,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 246917,
+              "player": "DAILYMOTION",
+              "url": "http://www.dailymotion.com/video/x8adstn",
+              "extra": "itsyssr / HakaiRyuu",
+              "fansub": "itsyssr",
+              "fansub_id": 2655,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 173244,
+          "episode_number": 2,
+          "name": "Sorunlu Mülkiyet! Karanlık Lord'un Kalesine İlk İş Gezisi",
+          "description": "Kotone, Rufuria ve Fa, Karanlık Lord'un Kalesi'ne bir iş gezisine çıkar. Patronları Satona'nın bölgede mülk planları var.",
+          "release_date": "2022-04-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vGjfLfeIA2jzgQwn6DzPvqgdKWU.jpg",
+          "videos": [
+            {
+              "id": 381393,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632af45d811bb1558a7a9f03",
+              "extra": "itsyssr / HakaiRyuu",
+              "fansub": "itsyssr",
+              "fansub_id": 2655,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 246937,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4690876",
+              "extra": "itsyssr / HakaiRyuu",
+              "fansub": "itsyssr",
+              "fansub_id": 2655,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 246934,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/BdB3lJwB#ss4YAJsun6DkZ_KW2z9YuT1d4fIjQs8rk-OZyNglU9U",
+              "extra": "itsyssr / HakaiRyuu",
+              "fansub": "itsyssr",
+              "fansub_id": 2655,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 246935,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1cw24MmrClFafDbCKjj_LCEaYe3G-6UL8/preview",
+              "extra": "itsyssr / HakaiRyuu",
+              "fansub": "itsyssr",
+              "fansub_id": 2655,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 246939,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/3959688465129",
+              "extra": "itsyssr / HakaiRyuu",
+              "fansub": "itsyssr",
+              "fansub_id": 2655,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 246944,
+              "player": "DAILYMOTION",
+              "url": "http://www.dailymotion.com/video/x8adsu3",
+              "extra": "itsyssr / HakaiRyuu",
+              "fansub": "itsyssr",
+              "fansub_id": 2655,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 173245,
+          "episode_number": 3,
+          "name": "Gerçek için! Ejderha, Hayalet, Ezici Büyü?!",
+          "description": "RPG Real Estate'in müşterilerinden birinin sahip olduğu bir mülk kesinlikle perili. Kim böyle bir yerde yaşamak ister ki?",
+          "release_date": "2022-04-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xP87l6K7NXO0MVfhVcT7Jl5hzov.jpg",
+          "videos": [
+            {
+              "id": 381392,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632af42d811bb1558a7a9f02",
+              "extra": "itsyssr / HakaiRyuu",
+              "fansub": "itsyssr",
+              "fansub_id": 2655,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 246957,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4690885",
+              "extra": "itsyssr / HakaiRyuu",
+              "fansub": "itsyssr",
+              "fansub_id": 2655,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 246954,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/YB5Q2IpL#gsUt0ZnpNyIa3ig3ttqtC_YdqHAXahm5igSGCrTY9o4",
+              "extra": "itsyssr / HakaiRyuu",
+              "fansub": "itsyssr",
+              "fansub_id": 2655,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 246955,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1cw24MmrClFafDbCKjj_LCEaYe3G-6UL8/preview",
+              "extra": "itsyssr / HakaiRyuu",
+              "fansub": "itsyssr",
+              "fansub_id": 2655,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 246959,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/3959691283177",
+              "extra": "itsyssr / HakaiRyuu",
+              "fansub": "itsyssr",
+              "fansub_id": 2655,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 246965,
+              "player": "DAILYMOTION",
+              "url": "http://www.dailymotion.com/video/x8adswi",
+              "extra": "itsyssr / HakaiRyuu",
+              "fansub": "itsyssr",
+              "fansub_id": 2655,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 173246,
+          "episode_number": 4,
+          "name": "Daima Birlikte! Evcil Hayvanlar, Hayaller ve Dostlukla Dolu Bir Mülk!",
+          "description": "Genç bir kadın, evcil hayvanıyla birlikte yaşayabileceği bir mülk aramak için RPG Real Estate'i ziyaret eder. Ancak, evcil hayvan tam olarak bir apartman dairesinde tutulan türden değildir.",
+          "release_date": "2022-04-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tOLchJ7JtpLOCXKS5ilxruZVXkm.jpg",
+          "videos": [
+            {
+              "id": 381337,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632aedf2811bb1558a7a9ee1",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 247228,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4691157",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 247208,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/5dxwWLAb#nchvdfFmR_qCULzaQ1yvVyfJsFGCvAwy_ufGeIWeCRE",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 247209,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1cw24MmrClFafDbCKjj_LCEaYe3G-6UL8/preview",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 247217,
+              "player": "DAILYMOTION",
+              "url": "http://www.dailymotion.com/video/x8adw4n",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 247226,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/3959931210473",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 173247,
+          "episode_number": 5,
+          "name": "Yaz! Mayo Giymek İçin Harika Bir Ev Bulduk!",
+          "description": "Gizemli bir kişi Kotone'a yaklaşır ve ona ücretsiz bir ev teklif eder. Kotone hiç zaman kaybetmez ve tek bir şüphe veya endişe duymadan fırsatın üzerine atlar.",
+          "release_date": "2022-05-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/AmL8NsnX0dHwc0gCT2Rpmk0lO85.jpg",
+          "videos": [
+            {
+              "id": 378878,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6326079f40d9be007ef39f0e",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 253118,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4704696",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 253098,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/Id4EkKCB#4Kycw69McZjU9Pxb2XpgteieJpZlIKqyb7D0bGeKapY",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 253099,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1cw24MmrClFafDbCKjj_LCEaYe3G-6UL8/preview",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 253108,
+              "player": "DAILYMOTION",
+              "url": "http://www.dailymotion.com/video/x8alws8",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 253117,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/3980687641321",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 173248,
+          "episode_number": 6,
+          "name": "Azrail için Bir Melodi!? Hepimiz Arkadaşız! En ileri gidelim!",
+          "description": "Kotone, Fa'nın uykuya dalmadan önce sergilediği tuhaf atmosferden endişe duyuyor. Ancak, bir konut krizi, konuyu daha fazla incelemesini engelliyor.",
+          "release_date": "2022-05-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qXBNcDmqcEXJSg9gDYfVjdQIdfa.jpg",
+          "videos": [
+            {
+              "id": 378602,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6325a90c40d9be007ef39e5a",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 257055,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4711767",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 257036,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/0YIVGJhQ#lJnkdzQBe4iHxRO_pE7xFWDvvKEMRSVVEAgpYF2KjVw",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 257037,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1cw24MmrClFafDbCKjj_LCEaYe3G-6UL8/preview",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 257054,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/3997775563497",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 173249,
+          "episode_number": 7,
+          "name": "Kapılar, Kapılar, Kapılar! Yaz Tatilinin Kapılarını Açın!",
+          "description": "Kotone şaşkına döndü. Gizemli bir ev için nasıl kiracı bulacağını bulmak için iş arkadaşlarının yardımına ihtiyacı var. Ondan sonra, Fa ile birlikte ailesini ziyaret etmek için bir tatile çıkar.",
+          "release_date": "2022-05-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lOMXpWoTw0TSdRdFjYUPCLQ7vWI.jpg",
+          "videos": [
+            {
+              "id": 378292,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63253fdca74d029266fd3ee4",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 261374,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4720858",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 261371,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/0EpF2b7Y#yJY-4IcToN-Sg15nuCCXdIfB9K--7p3f0SoCDxLPWmE",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 261372,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1cw24MmrClFafDbCKjj_LCEaYe3G-6UL8/preview",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 261376,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/4014069517033",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 261382,
+              "player": "DAILYMOTION",
+              "url": "http://www.dailymotion.com/video/x8azp9e",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 173250,
+          "episode_number": 8,
+          "name": "Ne!? Falcılık Yoluyla Bir Rüya Evi Bulmak!?",
+          "description": "Daha ilginç müşteriler yeni evler bulmak için RPG Real Estate'i ziyaret ediyor. Bu arada, gizemli ve anlaşılması zor ejderhanın rastgele saldırıları devam ediyor.",
+          "release_date": "2022-05-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/z1KfNmBVUczV3F7ieoRpbkeEuno.jpg",
+          "videos": [
+            {
+              "id": 378173,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632501e4a74d029266fd3e84",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 264738,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4729828",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 264719,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/YVo1kKYb#MwNMcfFtXGK9WP3cTTgvg8ZuJITxIVD5w3VQnMQtdrs",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 264720,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/16n0sdkfYJcpc_-DQYOk4akmv5KU9JUUZ/preview",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 264730,
+              "player": "DAILYMOTION",
+              "url": "http://www.dailymotion.com/video/x8b5o4o",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 264737,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/4029549054697",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 173251,
+          "episode_number": 9,
+          "name": "Nyan! Hedefimize ulaşana kadar bir anlaşma daha! Millenium Star Festivali'nde Dileklerimizi Gerçekleştirelim!",
+          "description": "Ekip, aylık hedeflerine ulaşmasına bir anlaşma uzaklıkta. Bir kaplıca hanının sahibi olan bir mülk sahibi onlara yaklaşır.",
+          "release_date": "2022-06-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ccjB9309Wb7VAycC2zBya9orBvW.jpg",
+          "videos": [
+            {
+              "id": 377593,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6324839b1b4a30bbdf51f7c6",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 270404,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4739389",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 270388,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/RMRWgJqD#OUnc4P6ZuQNtSb25w7yN4G6OzlqaN8IPTmE-DohJCNs",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 270389,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1HgWZDroZeLXPAWAM1A4Jz9gxadJBWP54/preview",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 270399,
+              "player": "DAILYMOTION",
+              "url": "http://www.dailymotion.com/video/x8bdu84",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 270405,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/4056921082601",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 173252,
+          "episode_number": 10,
+          "name": "Uzun Yaşamın Acıları! Uzun Süre Yaşayabileceğim Sağlam Bir Eve İhtiyacım Var!",
+          "description": "Fa kaybolur, bu da Kotone'un işe odaklanmasını engeller. Bu arada, başka bir ilginç müşteri RPG Real Estate'e gelir. Bu sefer, çoğu evin fiziksel olarak dayanabileceğinden daha uzun yaşayan bir elf.",
+          "release_date": "2022-06-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4FH3XT1cDXBdiRnUqsmWCBKDSR1.jpg",
+          "videos": [
+            {
+              "id": 366343,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63149018aaa5e211ba3836c9",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 286211,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4754782",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 286196,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/4IxwyYrA#UAD5pXi7HJf6gfhg5ij-C6p0tbfzngkQVYXRdfHB78g,",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 286197,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1u14sh2ninHcd0zAjmoejwaLgUm6Mmpv7/preview",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 286206,
+              "player": "DAILYMOTION",
+              "url": "http://www.dailymotion.com/video/x8brh60",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 286212,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/4099036613353",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 173253,
+          "episode_number": 11,
+          "name": "Fa, Birlikte Eve Dönelim",
+          "description": "Toto ve pegasusu Shiro'nun yardımıyla Kotone, Fa'yı yakalayabilir ve onu kurtarabilir. Azgın ejderhayı durdurabilecekler mi?",
+          "release_date": "2022-06-25T16:03:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/o3dS5jgsh88k5dblaNndsX3nvEk.jpg",
+          "videos": [
+            {
+              "id": 365263,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6313c773aaa5e211ba383354",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 294942,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4765797",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 294928,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/dNwghD5Q#tnYFFzV0tZ2CfafFsul5rKw_OWByiqYoiSBd1TzaJxU",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 294929,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1qsG71X0LfLgC11f7yVfaFmnsX-OWxHy7/preview",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 294937,
+              "player": "DAILYMOTION",
+              "url": "http://www.dailymotion.com/video/x8bzjst",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 294943,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/4127663000297",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 173254,
+          "episode_number": 12,
+          "name": "Herkese teşekkürler! RPG Real Estate'in Yeni Yolculuğu Başlıyor!",
+          "description": "Gizemli bir büyünün kontrolü altındaki Fa, ejderha formunda Kotone'a saldırır. Etki ölümcül görünüyor.",
+          "release_date": "2022-06-25T16:07:50.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pFE9S8b491uqoQdyvaFUOcxCAqb.jpg",
+          "videos": [
+            {
+              "id": 365246,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6313c50faaa5e211ba383347",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 294969,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4765808",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 294954,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/gMAXnZZR#WOIZyIu_ZrhMIA-Uxv46sZ6FGe_efCdZLykPcIREJko",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 294955,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1Sd4GIuHEij2DLKH0zDMvLBlA0jjJ_qOo/preview",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 294964,
+              "player": "DAILYMOTION",
+              "url": "http://www.dailymotion.com/video/x8bzk38",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 294970,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/4127675583209",
+              "extra": "itsysrr / HakaiRyuu",
+              "fansub": "itsysrr",
+              "fansub_id": 2654,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

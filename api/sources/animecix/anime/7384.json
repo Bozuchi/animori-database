@@ -1,0 +1,966 @@
+{
+  "id": 7384,
+  "name": "Ensemble Stars!",
+  "name_english": "Ensemble Stars!",
+  "name_romanji": "Ensemble Stars!",
+  "original_title": "あんさんぶるスターズ！",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2019,
+  "release_date": "2019-07-07 00:00:00",
+  "description": "Özel Yumenosaki Akademisi, okyanusu gören bir tepede yer alan bir okul. Erkek idol eğitmekte uzmanlaşmıştır; yetenek dolu, gökteki parlayan yıldızlar gibi, genç adamlardan eğlence dünyası için nesillerce idol yetiştirmekte uzun bir tarihe sahiptir.n ''Özel şartlardan'' dolayı, okula nakil olan orada ki tek kız öğrencinin görevi bu idolleri yetiştirmektir.",
+  "poster": "https://image.tmdb.org/t/p/original/6uUtcPYg5mPcFPGgfNNHrBlTzAN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5qEOEZC9MprqpzTJNtcTqDcbo4C.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    4,
+    19
+  ],
+  "tmdb_id": 88047,
+  "mal_id": 32212,
+  "anilist_id": 21512,
+  "imdb_id": "tt10820286",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 935,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 24,
+      "episodes": [
+        {
+          "id": 122871,
+          "episode_number": 1,
+          "name": "Yeni Rüzgar",
+          "description": "Anzu, Yumenosaki Akademisine yeni transfer oldu, ancak üretim departmanı geliştirme aşamasında olduğundan, tüm erkeklerin idol departmanından dersler almak zorunda.",
+          "release_date": "2019-07-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4JXcrvgKxSDTUIrWTwqS7KXZG5I.jpg",
+          "videos": [
+            {
+              "id": 47342,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3667875",
+              "extra": "14",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 52689,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3667875",
+              "extra": "AoiSubs",
+              "fansub": "AoiSubs",
+              "fansub_id": 594,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 122872,
+          "episode_number": 2,
+          "name": "Howl",
+          "description": "Çeşitli gruplar Anzuyu yapımcıları olarak işe alır ve Trickstar, onu onlara katılmaya ikna etmek için eşyalarını gösterir.",
+          "release_date": "2019-07-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oufp6EFKj9OQRQwmTa8HfPtOdjI.jpg",
+          "videos": [
+            {
+              "id": 47343,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x7fg9rc?wmode=transparent",
+              "extra": "14",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 122873,
+          "episode_number": 3,
+          "name": "Gidermek",
+          "description": "Trickstar sonunda birlikte çalışabilir, ancak AKATSUKIyi yenmek istiyorlarsa tüm engelleri kaldırmaları gerekiyor.",
+          "release_date": "2019-07-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vYn1rxHys9TE7B2D178zGaiI6Ja.jpg",
+          "videos": [
+            {
+              "id": 47344,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3671166",
+              "extra": "14",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 52690,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3671166",
+              "extra": "AoiSubs",
+              "fansub": "AoiSubs",
+              "fansub_id": 594,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 47345,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x7fneod?wmode=transparent",
+              "extra": "14",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 122874,
+          "episode_number": 4,
+          "name": "Çiçeklenme",
+          "description": "Trickstar, S1 için AKATSUKI ile karşı karşıya ama UNDEAD liderinin kolunda bir numara var ...",
+          "release_date": "2019-07-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/gySAFYMOws6BBlQq41RuLvxRUEg.jpg",
+          "videos": [
+            {
+              "id": 47347,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3678738",
+              "extra": "14",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 47346,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x7h3qdy?wmode=transparent",
+              "extra": "14",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 122875,
+          "episode_number": 5,
+          "name": "1 Marionette ~Bölüm~",
+          "description": "",
+          "release_date": "2019-08-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xxC0YgtgIrTMchE7jHZbU9KKFbO.jpg",
+          "videos": [
+            {
+              "id": 47349,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3690924",
+              "extra": "14",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 47348,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x7jgj9h?wmode=transparent",
+              "extra": "14",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 122876,
+          "episode_number": 6,
+          "name": "2 Kukla ~Bölüm~",
+          "description": "",
+          "release_date": "2019-08-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4e777OSsL6bV1fXttE7T4Sb7EmE.jpg",
+          "videos": [
+            {
+              "id": 47350,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3694010",
+              "extra": "14",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 47351,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x7kca43?wmode=transparent",
+              "extra": "14",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 122877,
+          "episode_number": 7,
+          "name": "İmparator",
+          "description": "Trickstar üyeleri geleceklerini tartışmak için öğrenci konseyine çağrılır.",
+          "release_date": "2019-08-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/A0RLTzthznavdvbpS9iO8TfM5cV.jpg",
+          "videos": [
+            {
+              "id": 47353,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3901942",
+              "extra": "14",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 122878,
+          "episode_number": 8,
+          "name": "Rift",
+          "description": "Subaru, DDD yaklaşırken Trickstar ile devam etmek isteyip istemediğiyle mücadele eder.",
+          "release_date": "2019-08-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oAPzZkg5FHVcTMFenKwV69FOyap.jpg",
+          "videos": [
+            {
+              "id": 47358,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4022832",
+              "extra": "14",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 47356,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/3714120419840",
+              "extra": "14",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 122879,
+          "episode_number": 9,
+          "name": "Kontratak",
+          "description": "Trickstar üyeleri gelecekleriyle mücadele ederken, diğer birimler de cezayı yenmek için birlikte çalışır.",
+          "release_date": "2019-09-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/l9egS9JyKCYfnZ4TDxKlC8mJ4V5.jpg",
+          "videos": [
+            {
+              "id": 52691,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4022838",
+              "extra": "AoiSubs",
+              "fansub": "AoiSubs",
+              "fansub_id": 594,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 52692,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4022838",
+              "extra": "AoiSubs",
+              "fansub": "AoiSubs",
+              "fansub_id": 594,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 122880,
+          "episode_number": 10,
+          "name": "bölüm 10",
+          "description": "",
+          "release_date": "2019-09-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/iKmMgZGggK1Gvb41IXOTG5NIVn5.jpg",
+          "videos": [
+            {
+              "id": 52693,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4026212",
+              "extra": "AoiSubs",
+              "fansub": "AoiSubs",
+              "fansub_id": 594,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 52694,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4026212",
+              "extra": "AoiSubs",
+              "fansub": "AoiSubs",
+              "fansub_id": 594,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 122881,
+          "episode_number": 11,
+          "name": "Bölüm 11",
+          "description": "",
+          "release_date": "2019-09-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/44FCe4BMq8WiVFHReBcikUOWc9S.jpg",
+          "videos": [
+            {
+              "id": 52695,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4043844",
+              "extra": "AoiSubs",
+              "fansub": "AoiSubs",
+              "fansub_id": 594,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 122882,
+          "episode_number": 12,
+          "name": "bölüm 12",
+          "description": "",
+          "release_date": "2019-09-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jtCAxqxpRblhvafcV9MkOS7ePoE.jpg",
+          "videos": [
+            {
+              "id": 52696,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/1897655437882",
+              "extra": "AoiSubs",
+              "fansub": "AoiSubs",
+              "fansub_id": 594,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 122883,
+          "episode_number": 13,
+          "name": "13 bölüm",
+          "description": null,
+          "release_date": "2020-12-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/psplRlfZTIxPpc8bAfWBmuxuo13.jpg",
+          "videos": [
+            {
+              "id": 78424,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4229589",
+              "extra": "Çeviri: BNC - Encode&Upload: TheUmi",
+              "fansub": "BNC - Encode&",
+              "fansub_id": 686,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 78423,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/QkOVe76bb0T0xeX",
+              "extra": "Çeviri: BNC - Encode&Upload: TheUmi",
+              "fansub": "BNC - Encode&",
+              "fansub_id": 686,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 56957,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-wddynisszbiy.html",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 56958,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x7y2qk5",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 78418,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-klmw7huq8ge5.html",
+              "extra": "Çeviri: BNC - Encode&Upload: TheUmi",
+              "fansub": "BNC - Encode&",
+              "fansub_id": 686,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 78422,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/6bn467z01awa.html",
+              "extra": "Çeviri: BNC - Encode&Upload: TheUmi",
+              "fansub": "BNC - Encode&",
+              "fansub_id": 686,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 56953,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/l6fifpgcxhfx",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 78415,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/omoo8anefwah",
+              "extra": "Çeviri: BNC - Encode&Upload: TheUmi",
+              "fansub": "BNC - Encode&",
+              "fansub_id": 686,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 122884,
+          "episode_number": 14,
+          "name": "bölüm 14",
+          "description": null,
+          "release_date": "2020-12-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sqmEpOUYtIyvVGVWnL4H8nnCxtZ.jpg",
+          "videos": [
+            {
+              "id": 81843,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4233294",
+              "extra": "Çeviri: BNC - Encode&Upload: TheUmi ",
+              "fansub": "BNC - Encode&",
+              "fansub_id": 686,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 81842,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/qdzPGzrlk2szraB",
+              "extra": "Çeviri: BNC - Encode&Upload: TheUmi ",
+              "fansub": "BNC - Encode&",
+              "fansub_id": 686,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 57832,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-w7r5dqok7wvk.html",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 57833,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x7y9wbv",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 81841,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/oo2349y6ve5f.html",
+              "extra": "Çeviri: BNC - Encode&Upload: TheUmi ",
+              "fansub": "BNC - Encode&",
+              "fansub_id": 686,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 81837,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-y64bzzbhs4mj.html",
+              "extra": "Çeviri: BNC - Encode&Upload: TheUmi ",
+              "fansub": "BNC - Encode&",
+              "fansub_id": 686,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 57828,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/3e6vi6pbyxdf",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 81835,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/mng8kqedxniw",
+              "extra": "Çeviri: BNC - Encode&Upload: TheUmi ",
+              "fansub": "BNC - Encode&",
+              "fansub_id": 686,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 122885,
+          "episode_number": 15,
+          "name": "Bölüm 15",
+          "description": null,
+          "release_date": "2020-12-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/nqtqZTChuQUHcZP0fSFCu51tZLV.jpg",
+          "videos": [
+            {
+              "id": 364277,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312d250a21596c7104eaec6",
+              "extra": "Çeviri: BNC - Encode&Upload: TheUmi",
+              "fansub": "BNC - Encode&",
+              "fansub_id": 686,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 85686,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4242879",
+              "extra": "Çeviri: BNC - Encode&Upload: TheUmi",
+              "fansub": "BNC - Encode&",
+              "fansub_id": 686,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 85685,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/XrRKmemLPxiDk8g",
+              "extra": "Çeviri: BNC - Encode&Upload: TheUmi",
+              "fansub": "BNC - Encode&",
+              "fansub_id": 686,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 57990,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-ss4cdms47711.html",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 57991,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x7yblv2",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 85679,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-gzzfxq5ywj7m.html",
+              "extra": "Çeviri: BNC - Encode&Upload: TheUmi",
+              "fansub": "BNC - Encode&",
+              "fansub_id": 686,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 85680,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x7zhh4t",
+              "extra": "Çeviri: BNC - Encode&Upload: TheUmi",
+              "fansub": "BNC - Encode&",
+              "fansub_id": 686,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 85684,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/9eq3t2t1dqkt.html",
+              "extra": "Çeviri: BNC - Encode&Upload: TheUmi",
+              "fansub": "BNC - Encode&",
+              "fansub_id": 686,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 57986,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/bard9bavbe1b",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 85677,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/jnc0t9nre529",
+              "extra": "Çeviri: BNC - Encode&Upload: TheUmi",
+              "fansub": "BNC - Encode&",
+              "fansub_id": 686,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 122886,
+          "episode_number": 16,
+          "name": "bölüm 16",
+          "description": "",
+          "release_date": "2021-03-25T14:12:18.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/iiPwMaYHNjlkJcx5LdADgfo8vvG.jpg",
+          "videos": [
+            {
+              "id": 104569,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4270613",
+              "extra": "BNC - TheUmi",
+              "fansub": "BNC",
+              "fansub_id": 2462,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 104568,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/yPz1201AOlh1Zy9",
+              "extra": "BNC - TheUmi",
+              "fansub": "BNC",
+              "fansub_id": 2462,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 104563,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-ixsid6ixc2yx.html",
+              "extra": "BNC - TheUmi",
+              "fansub": "BNC",
+              "fansub_id": 2462,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 104567,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/7uvlbyll64uy.html",
+              "extra": "BNC - TheUmi",
+              "fansub": "BNC",
+              "fansub_id": 2462,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 104560,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/5jh8ng9yg786",
+              "extra": "BNC - TheUmi",
+              "fansub": "BNC",
+              "fansub_id": 2462,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 122887,
+          "episode_number": 17,
+          "name": "bölüm 17",
+          "description": "",
+          "release_date": "2019-11-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/eyRQ83qgkTM4iox9jAWtxTvTq6B.jpg",
+          "videos": [
+            {
+              "id": 677791,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66d4483248d0b8046dc067e6",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 704118,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67a0abfdb00f138db1d44ca6",
+              "extra": "Çeviri: sai Redakte: malan Encode: claff / www.raioncom.com",
+              "fansub": "sai",
+              "fansub_id": 2461,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677794,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5659358",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "1080p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 122888,
+          "episode_number": 18,
+          "name": "Bölüm 18",
+          "description": "Topluluk Yıldızları! 18. Bölüm tüm detaylarını AnimeciX ile daha fazla bilgi edinin.",
+          "release_date": "2019-11-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/czByDA9Q6QIHT6U229w5GjlLzPj.jpg",
+          "videos": [
+            {
+              "id": 677795,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66d4493448d0b8046dc067e7",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 677798,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5659361",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "1080p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 122889,
+          "episode_number": 19,
+          "name": "bölüm 19",
+          "description": "",
+          "release_date": "2019-11-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tYNKi7u78cX8OOXUz1Be7pm1Zbz.jpg",
+          "videos": [
+            {
+              "id": 677799,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66d44a5b48d0b8046dc067e8",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 677802,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5659363",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "1080p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 122890,
+          "episode_number": 20,
+          "name": "bölüm 20",
+          "description": "",
+          "release_date": "2019-11-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7xY4UE9PxfE9J3CwUIbNrRYdjwR.jpg",
+          "videos": [
+            {
+              "id": 677803,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66d44b2d48d0b8046dc067e9",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 677806,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5659365",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "1080p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 122891,
+          "episode_number": 21,
+          "name": "bölüm 21",
+          "description": "",
+          "release_date": "2019-12-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/A4HEn4GmhSY0EI5AnvdUmuySCUU.jpg",
+          "videos": [
+            {
+              "id": 677807,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66d44c0048d0b8046dc067ea",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 677810,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5659366",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "1080p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 122892,
+          "episode_number": 22,
+          "name": "bölüm 22",
+          "description": "",
+          "release_date": "2019-12-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/x85PanY4OK1fUmnOvlhB3P02rVR.jpg",
+          "videos": [
+            {
+              "id": 678260,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66d5f7a948d0b8046dc0685b",
+              "extra": "Encode: Sword",
+              "fansub": "Sword",
+              "fansub_id": 1713,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 678263,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5661275",
+              "extra": "Encode: Sword",
+              "fansub": "Sword",
+              "fansub_id": 1713,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 122893,
+          "episode_number": 23,
+          "name": "Bölüm 23",
+          "description": null,
+          "release_date": "2019-12-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/g7TVVTAwCZcQ07xu6YvfpZuokJa.jpg",
+          "videos": [
+            {
+              "id": 678264,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66d5f8b448d0b8046dc0685c",
+              "extra": "Encode: Sword",
+              "fansub": "Sword",
+              "fansub_id": 1713,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 678267,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5661288",
+              "extra": "Encode: Sword",
+              "fansub": "Sword",
+              "fansub_id": 1713,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 122894,
+          "episode_number": 24,
+          "name": "bölüm 24",
+          "description": "",
+          "release_date": "2019-12-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tdHvbbqvArjcmjynxFwBIJoBeuZ.jpg",
+          "videos": [
+            {
+              "id": 678268,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66d5f99548d0b8046dc0685d",
+              "extra": "Encode: Sword",
+              "fansub": "Sword",
+              "fansub_id": 1713,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 678271,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5661299",
+              "extra": "Encode: Sword",
+              "fansub": "Sword",
+              "fansub_id": 1713,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

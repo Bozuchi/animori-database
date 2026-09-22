@@ -1,0 +1,3324 @@
+{
+  "id": 7259,
+  "name": "Enen no Shouboutai",
+  "name_english": "Fire Force",
+  "name_romanji": "Enen no Shouboutai: Ni no Shou",
+  "original_title": "炎炎ノ消防隊",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2019,
+  "release_date": "2019-07-06",
+  "description": "Tokyo'da güneş çağının 198'nci yılında özel itfaiye ekipleri insanların kendiliğinden yanarak Infernolara dönüştüğü \"Infernal” olarak adlandırılan durumla savaşmaktadır. Infernal ilk nesillerde sıradan yanma vakalarıyken ilerleyen nesiller insan formunu korurken alevleri kontrol edebilmeye başlamıştır. Ayağını istediği gibi ateşleyebilen Şeytan'ın Ayak İzi lakaplı Shinra Kusakabe karşılaştığı tüm Infernal olaylarını söndürmeye çalışmaktadır ve bu uğraşı sırasında diğer alev yönetenlerin oluşturduğu Özel İtfaiye Şirketi 8'e katılır. Infernal yaratan bir grubun ortaya çıkmasıyla, Shira 12 yıl önce ailesinin ölümüne neden olan gizemli yangının üzerindeki sır perdesini aralamaya başlar.",
+  "poster": "https://image.tmdb.org/t/p/original/GXPzNvuDGzWikMEduV99kocohn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zDXuwmqkTi2lGM4AyloAAX4v51P.jpg",
+  "rating": "8.6",
+  "vote_count": 216,
+  "genres": [
+    9,
+    6,
+    1,
+    2,
+    4
+  ],
+  "tmdb_id": 88046,
+  "mal_id": 40956,
+  "anilist_id": 114236,
+  "imdb_id": "tt9307686",
+  "season_count": 3,
+  "seasons": [
+    {
+      "id": 766,
+      "season_number": 1,
+      "name": "Ichi no Shou",
+      "episode_count": 24,
+      "episodes": [
+        {
+          "id": 120590,
+          "episode_number": 1,
+          "name": "Shinra Kusakabe İşe Alındı",
+          "description": "Ayaklarından alevler çıkarabilen üçüncü kuşak pirokinetik Shinra Kusakabe, Special Fire Force Company 8 ile ilk gününde şirket arkadaşlarıyla tanışır ve kahraman olma arzusunu yerine getirmeye başlar.",
+          "release_date": "2019-07-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tFW9e3cp9ZHDL9vVQjU4QLBtp89.jpg",
+          "videos": [
+            {
+              "id": 508272,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64408a604ca1a9a60a37152d",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508275,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5110866",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120589,
+          "episode_number": 2,
+          "name": "Bir Yangın Askerinin Kalbi",
+          "description": "",
+          "release_date": "2019-07-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/o0Y2Ln91IMj3uUIM1hJj6eqcHWQ.jpg",
+          "videos": [
+            {
+              "id": 508277,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/644091374ca1a9a60a37152e",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508280,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5110883",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120588,
+          "episode_number": 3,
+          "name": "Çaylak İtfaiyeci Oyunları",
+          "description": "Shinra ve Arthur, her yıl yeni işe alınanların yeteneklerini test etmek için düzenlenen Çaylak Ateşli Asker Oyunlarında yarışır. Ancak son ateş sahnelerinde patlamalar yaratan gizemli adam tarafından hedefte yarıda kesilirler.",
+          "release_date": "2019-07-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xb57f7iF1B4pCuDUULpYUnPTmiL.jpg",
+          "videos": [
+            {
+              "id": 508295,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64409ac44ca1a9a60a371530",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508298,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5110889",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120587,
+          "episode_number": 4,
+          "name": "Kahraman ve Prenses",
+          "description": "Shinra ve Arthurun yanıt verdiği bir ağaçtan bir köpeği kurtarmak için Şirket 8e yanlışlıkla bir çağrı gelir. Bununla birlikte, bölge adliyesinde aniden bir Infernal belirdiğinde, ikisi şirketin geri kalanına katılmak için yetişmek zorundadır.",
+          "release_date": "2019-08-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jXD7sSYpaCdABIGMAnBaYXEv7zG.jpg",
+          "videos": [
+            {
+              "id": 508304,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6440a1304ca1a9a60a371531",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508307,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5110896",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120586,
+          "episode_number": 5,
+          "name": "Savaş Başlıyor",
+          "description": "Koşarken Shinra istemeden Irisin arınma törenini bozar ve onun sorunlu olduğunu görür. Iris daha sonra kaybolduğunda, Şirket 8in diğer üyeleri, Irisin gizlice kaçtığı Şirket 5in yerleşkesine toplanır.",
+          "release_date": "2019-08-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vLJIfOhy4o0mUKh1cH8b0RpL6nF.jpg",
+          "videos": [
+            {
+              "id": 508309,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6440a6604ca1a9a60a371532",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508312,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5110901",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120585,
+          "episode_number": 6,
+          "name": "Umut Kıvılcımı",
+          "description": "",
+          "release_date": "2019-08-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oea2uOmezB6gn9JnqeevEpvdxFu.jpg",
+          "videos": [
+            {
+              "id": 508315,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6440ab704ca1a9a60a371533",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508318,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5110904",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120584,
+          "episode_number": 7,
+          "name": "Birinci Soruşturma Başlıyor",
+          "description": "Şirket 5 ve 8in üyeleri, görünüşte başarılı bir gece eğitim tatbikatını kutlamak için bir aşçılık için bir araya geliyorlar. Obi, Özel İtfaiye Teşkilatının tüzüğünü kullanarak Shinra ve Arthuru geçici olarak araştırmaları için 1.ye atar.",
+          "release_date": "2019-08-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/124ZSqCAPZnrBW35brkVuK0DURQ.jpg",
+          "videos": [
+            {
+              "id": 508319,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6440b2244ca1a9a60a371534",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508322,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5110906",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120583,
+          "episode_number": 8,
+          "name": "Cehennem Böcekleri",
+          "description": "Obi, Hibananın araştırmasını gözden geçirir ve parçalara ayırdığı yapay olarak yaratılmış Cehennemlerin hepsinde böcek DNAsı izleri olduğunu öğrenir. Shinra ve Arthurun 1. evdeki soruşturması devam eder ve sonunda bir suçlu hakkında ilk liderlerini bulurlar.",
+          "release_date": "2019-08-31T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/nrrPvzxEwN75T3s0TF5UMzB4xQn.jpg",
+          "videos": [
+            {
+              "id": 508323,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6440b73f4ca1a9a60a371535",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508326,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5110910",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120582,
+          "episode_number": 9,
+          "name": "Yayılan Kötülük",
+          "description": "Tamaki, Shinranın yaptıkları konusunda Rekka ile yüzleşmesini izler ve bir zamanlar teğmene nasıl saygı duyduğunu anımsar. Rekka, tüm dünya için felaket anlamına gelebilecek uyumlu çocuklar arama konusundaki amacını ortaya koyuyor.",
+          "release_date": "2019-09-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/mYHJYgT4vcOT0aOV9R1328U1kP7.jpg",
+          "videos": [
+            {
+              "id": 508327,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6440bbb04ca1a9a60a371536",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508330,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5110912",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120581,
+          "episode_number": 10,
+          "name": "Söz",
+          "description": "Özel İtfaiye Gücünün durumu Evangelist ve Beyaz Giyimli ile tartışmasına izin vermek için bir kaptanlar konferansı düzenlenir. Shinra, Shinranın erkek kardeşi hakkında şaşırtıcı bilgilerin açığa çıktığı Joker ile bir kez daha karşılaşır.",
+          "release_date": "2019-09-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9srqqZAzMW7S6snGGr5yDkl0VFy.jpg",
+          "videos": [
+            {
+              "id": 508332,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6440c1374ca1a9a60a371537",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508335,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5110914",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120580,
+          "episode_number": 11,
+          "name": "Özel İtfaiye Birliği 8'in Kuruluşu / En Kudretli Hikeshi",
+          "description": "Şirket 8, Evangelist hakkında ipuçları ararken Hinawa, şirketin başlangıçta nasıl ortaya çıktığına dair hikayeyi anlatır. Bir lider, mürettebatı Şirket 7nin Asakusadaki yargı alanını ve kaptanı Benimaruyu ziyaret etmeye yönlendirir.",
+          "release_date": "2019-09-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4kErkTtZZaMvnJDi0be3EVyZEee.jpg",
+          "videos": [
+            {
+              "id": 508336,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6440c55e4ca1a9a60a371538",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508339,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5110927",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120579,
+          "episode_number": 12,
+          "name": "Asakusa'da Çatışmaların Arifesi",
+          "description": "Şirket 8, en son Infernal olayından sonra Asakusanın yeniden inşasına yardım etmek için devreye girer ve halkının güvenini kazanmaya yardımcı olur. Ancak Beyaz Giyimli bir komplo, tüm iyi niyetlerini geri alma tehdidinde bulunur ve Obiyi meseleleri kendi eline almaya sevk eder.",
+          "release_date": "2019-10-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lrP3QA10DPgBw5fsYKpGQ7Qq7Av.jpg",
+          "videos": [
+            {
+              "id": 508347,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6440c9e04ca1a9a60a371539",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508350,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5110940",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120578,
+          "episode_number": 13,
+          "name": "Tuzak Kuruldu",
+          "description": "Konronun yardımıyla, 8. üye 7. yargı alanındaki olayları araştırmaya başlar. Kaos, bir düzinelerce hatalı kimlik vakası ortaya çıkarır ve kasaba halkı birbirlerine sırt çevirir. Sekizincisi Beyaz Giyimli saldırıyla geliyor.",
+          "release_date": "2019-10-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qnbZ77nAPD2nl9sVfIhutZlWr2j.jpg",
+          "videos": [
+            {
+              "id": 508353,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6440cf194ca1a9a60a37153a",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508356,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5110947",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120577,
+          "episode_number": 14,
+          "name": "Alevler Kimin İçin Yanıyor",
+          "description": "Asakusa etraflarında yanarken Konro, Benimaruyu bir topluluk lideri rolüne adım atmaya teşvik eder. Benimaru, kasaba halkının kalabalığın içindeki sahtekarların tasarımlarını bozması için bir yol tasarlar. Konro, yardım için Shinra ile iletişime geçer.",
+          "release_date": "2019-10-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/mgk9MjoyEbef88HTFJJZ6xSiLdM.jpg",
+          "videos": [
+            {
+              "id": 508357,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6440d5844ca1a9a60a37153b",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508360,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5110950",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120576,
+          "episode_number": 15,
+          "name": "Demirci'nin Rüyası",
+          "description": "Viktor Licht, adli tıp bilimcisi olarak Şirket 8e atanır, ancak görev Haijimadan geldiği için şüpheyle karşılanır. Obi, Vulcan adında bir adamla 8.ye mühendis olarak katılmaları hakkında konuşmak için Shinra, Arthur ve Irisi gönderir.",
+          "release_date": "2019-11-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/l0LrgVnbrFh9fWeaq7C5vgqil6K.jpg",
+          "videos": [
+            {
+              "id": 508365,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6440dc794ca1a9a60a37153c",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508368,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5110955",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120575,
+          "episode_number": 16,
+          "name": "Biz Bir Aileyiz",
+          "description": "Vulcan, Yuya kırılamayacak şeyleri taklit etmenin önemi ve benzer şekilde kırılmaz aile bağları yaratma umudu hakkında bir ders verir. Vulcan için bir tehdit algılayan Şirket 8in üyeleri, onu güvende tutmak için pozisyon alır.",
+          "release_date": "2019-11-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fBXakIvdE0UZkeMG3fk2ZD1II9F.jpg",
+          "videos": [
+            {
+              "id": 508372,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6440e2294ca1a9a60a37153d",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508375,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5110958",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120574,
+          "episode_number": 17,
+          "name": "Siyah ve Beyaz ve Gri",
+          "description": "Dr. Giovanni, Vulcanın atölyesini aramaya devam ederken Hibana, Shinranın yardımına gelir ve Vulcana yardım etmek için acele etmesine izin verir. Bu sırada Arthur, Mirageın illüzyonlarıyla başa çıkmaya çalışırken eli sıkıdır ve Iris kendi yolunda direnir.",
+          "release_date": "2019-10-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oYMOoCjLQ5nhQTUxOhjH7MuRdVx.jpg",
+          "videos": [
+            {
+              "id": 508376,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6440e7e74ca1a9a60a37153e",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508379,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5110964",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120573,
+          "episode_number": 18,
+          "name": "Ateş Kontrolünün Sırları",
+          "description": "Vulcan 8. sırada yerleşirken Kaptan Obi, Beyaz Giyimli Konuyla ilgili veri alışverişi yapmak için Hibana, Konro ve Karim ile buluşur. Konro, dövüş becerilerini geliştirmek için Shinra ve Arthura Asakusada dövüş eğitimi verilmesini önerir.",
+          "release_date": "2019-11-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8bOaMzW8p5w3qa5zfG0gSm38N3a.jpg",
+          "videos": [
+            {
+              "id": 508383,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6440ee364ca1a9a60a37153f",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508386,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5110976",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120572,
+          "episode_number": 19,
+          "name": "Cehenneme Doğru",
+          "description": "Lichtin Vulcanın atölyesine yapılan saldırıya ilişkin analizi, Evangelistin adamlarının Tokyonun altındaki \"Nether\" bölgesinde olduğunu ortaya koyuyor. Şirket 8, Beyaz Giyimliyi ve insan yanmasının ardındaki sırları aramak için yeraltında ilerliyor.",
+          "release_date": "2019-11-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tPx7bBUdenXBztrkD8LSEKVfISP.jpg",
+          "videos": [
+            {
+              "id": 508390,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6440f4204ca1a9a60a371540",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508393,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5110981",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120571,
+          "episode_number": 20,
+          "name": "Gururunu Taşıyor",
+          "description": "Hinawa, Arrow ile çatışmaya girdiği terk edilmiş bir metro istasyonuna gelir. Arthur, Benimaru ve Konrodan aldığı eğitimi test etme şansı yakalarken, Arthur ve Mirage kendilerini bir rövanş maçında bulurlar.",
+          "release_date": "2019-12-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1v3ZkYtcS205kV0q2HLFJ8GrMCF.jpg",
+          "videos": [
+            {
+              "id": 508410,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6440fa2a4ca1a9a60a371541",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508413,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5110992",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120570,
+          "episode_number": 21,
+          "name": "Bağlantılı Olanlar",
+          "description": "Obi ve Vulcan, Dr. Giovanni ve Lisa ile karşı karşıya gelir ve bu sırada Giovanni, Obiye Adolla Patlamalarının doğası hakkında daha fazla bilgi verir. Shinra, Shoyu bulmasına neden olan alışılmadık bir deneyim yaşar, ancak yeniden bir araya gelmeleri umulandan daha değişken olur.",
+          "release_date": "2019-12-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/hfTl0sbL70S9vVvtFUG450EF4sr.jpg",
+          "videos": [
+            {
+              "id": 508418,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/644100ef4ca1a9a60a371542",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508421,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5111006",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120569,
+          "episode_number": 22,
+          "name": "Bir Kardeşin Kararlılığı",
+          "description": "Shinra ve Sho, Adolla Linklerini paylaşmaya devam ederken Shinra, Adolla Patlama alevinin kökeni hakkında şaşırtıcı bir gerçeği öğrenir. Shinra, Linkin doğasını daha iyi anlamaya gelir ve Shoya ulaşma çabasında becerilerini daha da geliştirir.",
+          "release_date": "2019-12-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/AcjSO3Ky8aEXlyJO3DD6rWYbypM.jpg",
+          "videos": [
+            {
+              "id": 508427,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6441071f4ca1a9a60a371543",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508430,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5111038",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120568,
+          "episode_number": 23,
+          "name": "Gülümseme",
+          "description": "Shinra, daha derin bir bağlantı kurmaya çalışmak için anılarını Sho ile paylaşmak için çocukluğunu yeniden ziyaret eder. İçlerinden biri kritik bir şekilde yaralandığında, 8. ekip kurtarmaya gider ve yardım için 6. Kaptan Huanga döner.",
+          "release_date": "2019-12-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4BdI9SH6LYCO98ck7ICVXLX5VJB.jpg",
+          "videos": [
+            {
+              "id": 508436,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64410d934ca1a9a60a371544",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508439,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5111092",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120567,
+          "episode_number": 24,
+          "name": "Yanan Geçmiş",
+          "description": "Hastaneden taburcu edilmeden önce Shinra, 12 yıl önce meydana gelen yangını ona anlatmayı teklif eden Yüzbaşı Burns tarafından ziyaret edilir, ancak ancak Shinra tüm gerçeği duyacak kadar güçlü olduğunu kanıtlayabilirse.",
+          "release_date": "2019-12-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9KatPe3wyu7us8bAswBbf9doHXy.jpg",
+          "videos": [
+            {
+              "id": 508443,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/644113654ca1a9a60a371545",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508446,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5111148",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857,
+      "season_number": 2,
+      "name": "Ni no Shou",
+      "episode_count": 24,
+      "episodes": [
+        {
+          "id": 121890,
+          "episode_number": 1,
+          "name": "Bir İtfaiye Askerinin Mücadelesi",
+          "description": "Şirket 8in genç mürettebatı, Teğmen Hinawa için yeni kıyafetler almak için bir gün alışveriş yapar, ancak gezileri dev bir Infernalin ortaya çıkmasıyla kesintiye uğrar. Sekizincisi, yıllık Özel Yangın Gücü sığır keki takvim çekimine hazırlanıyor.",
+          "release_date": "2020-07-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jo8K4aBvvOSdrAvpt5OjgULAZyB.jpg",
+          "videos": [
+            {
+              "id": 508447,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64411a224ca1a9a60a371546",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 121891,
+          "episode_number": 2,
+          "name": "Çılgınlık Alevleri",
+          "description": null,
+          "release_date": "2020-07-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/inyPZDYGTJPpBarcP4Xj7gEqwYe.jpg",
+          "videos": [
+            {
+              "id": 508452,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64411bee4ca1a9a60a371547",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508455,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5111156",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 121892,
+          "episode_number": 3,
+          "name": "Yeni Bir Parlama Noktası",
+          "description": "",
+          "release_date": "2020-07-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jMjutIjPPNTxJ47vMpqmPiElvL8.jpg",
+          "videos": [
+            {
+              "id": 508461,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/644122974ca1a9a60a371548",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508464,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5111163",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 121893,
+          "episode_number": 4,
+          "name": "Ateşin İçinden Geçmek",
+          "description": "",
+          "release_date": "2020-07-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tak2EEsBi6unbA8JhfYLC3dkj4k.jpg",
+          "videos": [
+            {
+              "id": 508472,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/644129d34ca1a9a60a371549",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508475,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5111220",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 121894,
+          "episode_number": 5,
+          "name": "Boynuz Şekli (Şeytanın İşareti) / Gizli Bir Plan",
+          "description": "",
+          "release_date": "2020-08-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bGaxO6pEanGmIfGMgTgv4AGNUCh.jpg",
+          "videos": [
+            {
+              "id": 508486,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/644131ad4ca1a9a60a37154a",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508489,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5111268",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 121895,
+          "episode_number": 6,
+          "name": "Seçim Yapma Zamanı",
+          "description": null,
+          "release_date": "2020-08-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/m2eZ6k2UOZTjvg0loAa3xeVUQ8p.jpg",
+          "videos": [
+            {
+              "id": 508495,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/644139464ca1a9a60a37154b",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508498,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5111336",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 121896,
+          "episode_number": 7,
+          "name": "Vaha'ya Giden Yol",
+          "description": "",
+          "release_date": "2020-08-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/k9DdjYf6bsZtyDSfRmmwKwbQsOL.jpg",
+          "videos": [
+            {
+              "id": 508509,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64413f754ca1a9a60a37154c",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508512,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5111351",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 121897,
+          "episode_number": 8,
+          "name": "İçten İçe Yanan Kötü Niyet",
+          "description": "",
+          "release_date": "2020-08-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xO0YMWOsHSXj5zDzeYlreWd4JtR.jpg",
+          "videos": [
+            {
+              "id": 508517,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/644145f24ca1a9a60a37154d",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508520,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5111357",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 121898,
+          "episode_number": 9,
+          "name": "Çekirdek",
+          "description": "",
+          "release_date": "2020-08-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2kO7UREcg9JnEtsRcrG1d4kVNcz.jpg",
+          "videos": [
+            {
+              "id": 508521,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64414cce4ca1a9a60a37154e",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 121899,
+          "episode_number": 10,
+          "name": "Siyahlı Kadın",
+          "description": "",
+          "release_date": "2020-09-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/5IArSVXN2wn3jhz3UJwfdmAjNn9.jpg",
+          "videos": [
+            {
+              "id": 508524,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64414d464ca1a9a60a37154f",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 121900,
+          "episode_number": 11,
+          "name": "Kara Kahraman",
+          "description": "",
+          "release_date": "2020-09-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bQUVobVTVvwbvg2rD2lKNLOfm9V.jpg",
+          "videos": [
+            {
+              "id": 508529,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64414dbc4ca1a9a60a371550",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508532,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5111402",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 121901,
+          "episode_number": 12,
+          "name": "İlahi Işığın Oluşturduğu Gölgeler",
+          "description": "",
+          "release_date": "2020-09-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/nL9i4w2Ey2JjNXmrqINMOxZmXYQ.jpg",
+          "videos": [
+            {
+              "id": 508539,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6441546e4ca1a9a60a371551",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508542,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5111418",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 121902,
+          "episode_number": 13,
+          "name": "Bir Çift Tek-Göz",
+          "description": "",
+          "release_date": "2020-09-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/5eE7hRXclt4Owjy5mt2oG8oM2oU.jpg",
+          "videos": [
+            {
+              "id": 508556,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64415b254ca1a9a60a371552",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508559,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5111443",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 123670,
+          "episode_number": 14,
+          "name": "Külden Azrail",
+          "description": "Enen no Shouboutai (Fire Force) Sezon 2 Bölüm 14",
+          "release_date": "2020-10-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sgz1440zN1OsWeknO9QCxXolDEx.jpg",
+          "videos": [
+            {
+              "id": 508570,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/644161194ca1a9a60a371553",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508573,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5111474",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 124198,
+          "episode_number": 15,
+          "name": "Üç Yönlü Bir Yakın Dövüş",
+          "description": "",
+          "release_date": "2020-10-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jV4YfFN7YHkwnkAyYc0FkWFx4NB.jpg",
+          "videos": [
+            {
+              "id": 508580,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/644167354ca1a9a60a371554",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508583,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5111507",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 124369,
+          "episode_number": 16,
+          "name": "Şaşkına Dönmek",
+          "description": "Enen no Shouboutai Sezon 2 Bölüm 16",
+          "release_date": "2020-10-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/f6rGmCrMIBcpFsJUQJ8KhpkcY7h.jpg",
+          "videos": [
+            {
+              "id": 508591,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64416d3e4ca1a9a60a371555",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508594,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5111559",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 125193,
+          "episode_number": 17,
+          "name": "Çocuklar, Zayıf Olun",
+          "description": "Enen no Shouboutai Sezon 2 Bölüm 17",
+          "release_date": "2020-10-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/of2dVto27qBdj8Wwn23e9NcpKp0.jpg",
+          "videos": [
+            {
+              "id": 508601,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/644174324ca1a9a60a371556",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508604,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5111618",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 125275,
+          "episode_number": 18,
+          "name": "Kutsal Kadının Istırabı / Adam, Saldırı",
+          "description": "Enen no Shouboutai Sezon 2 Bölüm 18",
+          "release_date": "2020-10-31T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vELzmYetdbx1oHlUPyKOLBfEvO3.jpg",
+          "videos": [
+            {
+              "id": 508607,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64417abf4ca1a9a60a371557",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508610,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5111668",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 125309,
+          "episode_number": 19,
+          "name": "Oze Ailesi",
+          "description": "Enen no Shouboutai Sezon 2 Bölüm 19",
+          "release_date": "2020-11-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vnOZSQSvHUEQ594j7a87y6zfKGw.jpg",
+          "videos": [
+            {
+              "id": 508621,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/644180ea4ca1a9a60a371558",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508624,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5111739",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 168007,
+          "episode_number": 20,
+          "name": "Yıkım Silahları",
+          "description": null,
+          "release_date": "2012-01-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lM4ChRhala9LEawz9ZQP8pXaBB6.jpg",
+          "videos": [
+            {
+              "id": 508639,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6441860a4ca1a9a60a371559",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508642,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5111789",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 125384,
+          "episode_number": 21,
+          "name": "Düşmanla Temas",
+          "description": "Enen no Shouboutai Sezon 2 Bölüm 21",
+          "release_date": "2020-11-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8qzojHyUV46SIIJB1HxasNc6by0.jpg",
+          "videos": [
+            {
+              "id": 508657,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64418c904ca1a9a60a37155a",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508660,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5111851",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 125671,
+          "episode_number": 22,
+          "name": "Yok Oluş Planı",
+          "description": "Enen no Shouboutai Sezon 2 Bölüm 22",
+          "release_date": "2020-11-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jQps7RD3DjW1L4KJNVFO3n69GUO.jpg",
+          "videos": [
+            {
+              "id": 508664,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/644192994ca1a9a60a37155b",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508667,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5111883",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 125885,
+          "episode_number": 23,
+          "name": "Ateş Kedisi",
+          "description": "Enen no Shouboutai Sezon 2 Bölüm 23",
+          "release_date": "2020-12-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9ZQc0lAsWAQipbGlt7LvKSFXcWd.jpg",
+          "videos": [
+            {
+              "id": 508677,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/644198774ca1a9a60a37155c",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508680,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5111908",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126208,
+          "episode_number": 24,
+          "name": "Kargaşa Belirtileri",
+          "description": "Enen no Shouboutai Sezon 2 Bölüm 24",
+          "release_date": "2020-12-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xJsnFggSFHxZRerG2iyITTezfjO.jpg",
+          "videos": [
+            {
+              "id": 508691,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64419e064ca1a9a60a37155d",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 508694,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5111924",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5749,
+      "season_number": 3,
+      "name": "San no Shou",
+      "episode_count": 25,
+      "episodes": [
+        {
+          "id": 228842,
+          "episode_number": 1,
+          "name": "Yılmayan Azim",
+          "description": "Shinra ve diğerleri mola verirken, bir alarm çalar. Askerler, Obi'nin İtfaiye Şefine verdiği raporu yarıda keser.",
+          "release_date": "2025-04-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ezFO2sGKwfucIu0sHgLI2oVn6kS.jpg",
+          "videos": [
+            {
+              "id": 713941,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67f04fe35eaf06b6b692711a",
+              "extra": " Çeviri: benf65 Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 713965,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67f0729a5eaf06b6b6927120",
+              "extra": "Çeviri: DailX",
+              "fansub": "DailX",
+              "fansub_id": 1594,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714085,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67f18ae05eaf06b6b692714c",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714097,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67f192375eaf06b6b6927150",
+              "extra": "uwurashii",
+              "fansub": "uwurashii",
+              "fansub_id": 700,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714309,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67f54fd75eaf06b6b6927199",
+              "extra": "Çeviri: pingwinvl / Redakte: garvel / Kodlama: akYavuz",
+              "fansub": "pingwinvl",
+              "fansub_id": 1595,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714435,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67f6754f40a799312beebd0c",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714867,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67fab469a1f1541a9c4030db",
+              "extra": "Çevirmen: Maetarenn Encode: Maetarenn",
+              "fansub": "Maetarenn",
+              "fansub_id": 1596,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 713942,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/11dun0be8jr1",
+              "extra": " Çeviri: benf65 Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 713966,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/jcs7qd4noeej",
+              "extra": "Çeviri: DailX",
+              "fansub": "DailX",
+              "fansub_id": 1594,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714086,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/4fn4l29ytp9j",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714098,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/1svqfocp8ja2",
+              "extra": "uwurashii",
+              "fansub": "uwurashii",
+              "fansub_id": 700,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714310,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/g54q57lrfmo5",
+              "extra": "Çeviri: pingwinvl / Redakte: garvel / Kodlama: akYavuz",
+              "fansub": "pingwinvl",
+              "fansub_id": 1595,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714436,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/92rba7eiuvoc",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714868,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/cmbik6s97bmg",
+              "extra": "Çevirmen: Maetarenn Encode: Maetarenn",
+              "fansub": "Maetarenn",
+              "fansub_id": 1596,
+              "quality": "1080p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 230577,
+          "episode_number": 2,
+          "name": "Tutsak",
+          "description": "Sekiz Numara, Obi'yi kurtarmak için harekete geçer. Hain olarak etiketlendiklerinde kaçmaya başlarlar ve Joker karşılarına çıkar.",
+          "release_date": "2025-04-10T20:17:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ofCevgGbPL1LB0EGw9GrRkRhpqL.jpg",
+          "videos": [
+            {
+              "id": 714749,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67f99df5a1f1541a9c4030b4",
+              "extra": "Çeviri: DailX",
+              "fansub": "DailX",
+              "fansub_id": 1594,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714806,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67fa5230a1f1541a9c4030c7",
+              "extra": "uwurashii",
+              "fansub": "uwurashii",
+              "fansub_id": 700,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714876,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67fab630a1f1541a9c4030de",
+              "extra": "Çevirmen:Maetarenn Encode:Maetarenn",
+              "fansub": "Maetarenn",
+              "fansub_id": 1596,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 715009,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67fb8998a1f1541a9c403107",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715292,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67fecfe683295c99c1c1e8ce",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715462,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/680150fc60a6523e4ee1674c",
+              "extra": " Çeviri: benf65 Redakte: Perpo Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714750,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/2yo7643lgyou",
+              "extra": "Çeviri: DailX",
+              "fansub": "DailX",
+              "fansub_id": 1594,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714807,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/gexp304p06s9",
+              "extra": "uwurashii",
+              "fansub": "uwurashii",
+              "fansub_id": 700,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714877,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/3ulzc51sd1s6",
+              "extra": "Çevirmen:Maetarenn Encode:Maetarenn",
+              "fansub": "Maetarenn",
+              "fansub_id": 1596,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 715010,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/nr4aaygeubob",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715293,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/d71rcwpmvahk",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715391,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/uax9bh6wwkgg",
+              "extra": "Çeviri - Suavi Encode - neo",
+              "fansub": "Suavi",
+              "fansub_id": 1604,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 715463,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/8ihzn2rf3s0c",
+              "extra": " Çeviri: benf65 Redakte: Perpo Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 230578,
+          "episode_number": 3,
+          "name": "Alevin Vücut Bulması",
+          "description": "Obi, Fuchu Cezaevi'nde kapana kısıldı. Shinra ve Joker, Hinawa ve diğerlerinden önce gelir. Savaş başlıyor!",
+          "release_date": "2025-04-17T20:18:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/gjDucocWmYZu7UuAMPgu2HBQwbv.jpg",
+          "videos": [
+            {
+              "id": 715581,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6802bf17560e2c5569b02ac2",
+              "extra": " Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715609,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/680380bb560e2c5569b02acb",
+              "extra": "Çeviri - neo Encode - neo",
+              "fansub": "neo",
+              "fansub_id": 1432,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 715615,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68038216560e2c5569b02acd",
+              "extra": "Çevirmen: Maetarenn Encoder: Maetarenn",
+              "fansub": "Maetarenn",
+              "fansub_id": 1596,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 715618,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/680398a0560e2c5569b02ace",
+              "extra": "Çevirmen: DailX",
+              "fansub": "DailX",
+              "fansub_id": 1594,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716225,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68091493560e2c5569b02b85",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 717253,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6813f173f8146af586df9ce8",
+              "extra": "Çevirmen: uwurashii / Encoder: Prenses",
+              "fansub": "uwurashii",
+              "fansub_id": 700,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715582,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/8be61x7k830p",
+              "extra": " Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715610,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/vu4yj556dnnf",
+              "extra": "Çeviri - neo Encode - neo",
+              "fansub": "neo",
+              "fansub_id": 1432,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 715616,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ybmx1haqad4h",
+              "extra": "Çevirmen: Maetarenn Encoder: Maetarenn",
+              "fansub": "Maetarenn",
+              "fansub_id": 1596,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 715619,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/n4jjvfp3ml42",
+              "extra": "Çevirmen: DailX",
+              "fansub": "DailX",
+              "fansub_id": 1594,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716226,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/y9burr5vdzkq",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716760,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ecpn35xzuyto",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 717254,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/nri2mw5kgf9b",
+              "extra": "Çevirmen: uwurashii / Encoder: Prenses",
+              "fansub": "uwurashii",
+              "fansub_id": 700,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 230579,
+          "episode_number": 4,
+          "name": "Altın Sır",
+          "description": "Sekiz Numara, Gold'un güçlerine karşı koymanın bir yolunu bulmaya çalışır. Ve sonra, beklenmedik biri savaşmak için ortaya çıkar.",
+          "release_date": "2025-03-24T20:18:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cBGmtLTzkDfDSbts1qO3iaSDy9G.jpg",
+          "videos": [
+            {
+              "id": 716562,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/680c1f73560e2c5569b02be5",
+              "extra": "Çevirmen: DailX",
+              "fansub": "DailX",
+              "fansub_id": 1594,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716565,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/680c2073560e2c5569b02be6",
+              "extra": "Çevirmen: DailX",
+              "fansub": "DailX",
+              "fansub_id": 1594,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716583,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/680cea8e560e2c5569b02bec",
+              "extra": "Çevirmen; Marx / Redaktör; Raphodix / Encoder; Raphodix",
+              "fansub": "Çevirmen; Marx",
+              "fansub_id": 1597,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716762,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/680e0469560e2c5569b02c07",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 717256,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6813f1fdf8146af586df9ce9",
+              "extra": "Çevirmen: uwurashii / Encoder: Prenses",
+              "fansub": "uwurashii",
+              "fansub_id": 700,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 717488,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68151f97f8146af586df9d33",
+              "extra": "Çevirmen: Maetarenn Encode: Maetarenn",
+              "fansub": "Maetarenn",
+              "fansub_id": 1596,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 740515,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6962abc4c0da000447f8c943",
+              "extra": "benf65",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716542,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/0bw85igof99h",
+              "extra": "Çeviri: benf65 Encode: benf65 ",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716547,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/k4rvjplyjw8z",
+              "extra": "Çevirmen: DailX",
+              "fansub": "DailX",
+              "fansub_id": 1594,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716563,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/6qyjkrbk10m3",
+              "extra": "Çevirmen: DailX",
+              "fansub": "DailX",
+              "fansub_id": 1594,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716566,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/p76rtodo4as8",
+              "extra": "Çevirmen: DailX",
+              "fansub": "DailX",
+              "fansub_id": 1594,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716584,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/e93hpbrt6lt6",
+              "extra": "Çevirmen; Marx / Redaktör; Raphodix / Encoder; Raphodix",
+              "fansub": "Çevirmen; Marx",
+              "fansub_id": 1597,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716671,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/3gh36v1296ko",
+              "extra": "Benf65&Kingsama - www.instagram.com/codeanimee",
+              "fansub": "Benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716763,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/qopndd3oppx4",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 717257,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/as5be5996iiy",
+              "extra": "Çevirmen: uwurashii / Encoder: Prenses",
+              "fansub": "uwurashii",
+              "fansub_id": 700,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 717489,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/azktvjp2sl9x",
+              "extra": "Çevirmen: Maetarenn Encode: Maetarenn",
+              "fansub": "Maetarenn",
+              "fansub_id": 1596,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 740516,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/jqbtj394c008",
+              "extra": "benf65",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 740517,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-8l1iilo0mlan.html",
+              "extra": "benf65",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 230663,
+          "episode_number": 5,
+          "name": "Baş Düşmanla Tesadüfen Karşılaşma",
+          "description": "Obi acı içinde kıvranıyor. Burns Shinra'ya acımasızca saldırıyor. Ejderha adında bir Yok Edici 8.'nin yolunu keser.",
+          "release_date": "2025-05-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tzdJlxea5c66ZxWWnRKK0erbSOk.jpg",
+          "videos": [
+            {
+              "id": 717494,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68152216f8146af586df9d35",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 717497,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68152f03f8146af586df9d36?vid=717497",
+              "extra": "Çeviri: benf65 / Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 717534,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6815fad0f8146af586df9d3e",
+              "extra": "Çevirmen: DailX",
+              "fansub": "DailX",
+              "fansub_id": 1594,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 717668,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68165490f8146af586df9d41",
+              "extra": "Çevirmen:Hasan12Q Encode:Maetarenn",
+              "fansub": "Hasan12Q",
+              "fansub_id": 1598,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 717716,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68177980f8146af586df9d53",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 717495,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/9vij9os4mpza",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 717498,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/6752amfluws3",
+              "extra": "Çeviri: benf65 Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 717535,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/zwsvr7l4ttuk",
+              "extra": "Çevirmen: DailX",
+              "fansub": "DailX",
+              "fansub_id": 1594,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 717669,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/bvonkv0hbbud",
+              "extra": "Çevirmen:Hasan12Q Encode:Maetarenn",
+              "fansub": "Hasan12Q",
+              "fansub_id": 1598,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 717717,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/rsejdt0gglwv",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 230664,
+          "episode_number": 6,
+          "name": "Duanın Sonunun Ötesinde",
+          "description": "Shinra ve Burns'ün savaşı devam ediyor. Bir kahramanın duyguları, Sol'un bir hizmetkârının iradesine karşı çatışıyor. Kim kazanacak?",
+          "release_date": "2025-05-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jQT2XBDY2UnfG1KgTYcY2RbaLjY.jpg",
+          "videos": [
+            {
+              "id": 718177,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/681e599cf8146af586df9de9",
+              "extra": "Marx",
+              "fansub": "Marx",
+              "fansub_id": 1599,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718180,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/681e6c38f8146af586df9dea",
+              "extra": "Mercury  - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718195,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/681f13aff8146af586df9def",
+              "extra": "Çevirmen: suaviefendi",
+              "fansub": "suaviefendi",
+              "fansub_id": 616,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 718226,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/681f3a1df8146af586df9df9",
+              "extra": "Çevirmen: DailX",
+              "fansub": "DailX",
+              "fansub_id": 1594,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718253,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/681fdaaff8146af586df9e02",
+              "extra": "KaioKen & rolativistik",
+              "fansub": "KaioKen",
+              "fansub_id": 476,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718333,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68218de5f8146af586df9e18",
+              "extra": "uwurashii",
+              "fansub": "uwurashii",
+              "fansub_id": 700,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718178,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/wp8hcljmxis7",
+              "extra": "Marx",
+              "fansub": "Marx",
+              "fansub_id": 1599,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718181,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/raenmzymeytu",
+              "extra": "Mercury  - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718196,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/df3rd2dtz0r4",
+              "extra": "Çevirmen: suaviefendi",
+              "fansub": "suaviefendi",
+              "fansub_id": 616,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 718227,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/g32nz9gq2g91",
+              "extra": "Çevirmen: DailX",
+              "fansub": "DailX",
+              "fansub_id": 1594,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718254,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/g6c8ldc3rmji",
+              "extra": "KaioKen & rolativistik",
+              "fansub": "KaioKen",
+              "fansub_id": 476,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718334,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/d81upe2lgt5h",
+              "extra": "uwurashii",
+              "fansub": "uwurashii",
+              "fansub_id": 700,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 230665,
+          "episode_number": 7,
+          "name": "Uyuyan Gerçek",
+          "description": "Sekiz Numara, kaçışı olmayan korkunç bir tehlikeyle karşı karşıyadır. Sonra, tanıdık bir figür belirir ve kendisine Moonlite Maskesi mi diyor?!",
+          "release_date": "2025-05-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7uvoKHfIlXtsU09dKPnyXBBQ7YI.jpg",
+          "videos": [
+            {
+              "id": 718578,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68279a2af8146af586df9e5f",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718581,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68279f9df8146af586df9e60",
+              "extra": "Mercury  - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718830,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/682b4bf6f8146af586df9ea4",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718842,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/682b8c26f8146af586df9ea8",
+              "extra": "uwurashii",
+              "fansub": "uwurashii",
+              "fansub_id": 700,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 719338,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/683347b8f8146af586df9f2a",
+              "extra": "Çevirmen: DailX",
+              "fansub": "DailX",
+              "fansub_id": 1594,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718576,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/8tun6kkngfgt",
+              "extra": "Çevirmen/Encoder;Marx",
+              "fansub": "Çevirmen",
+              "fansub_id": 1605,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718579,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/4ews7a1rds40",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718582,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/51hsf1hcax1n",
+              "extra": "Mercury  - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718831,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/p0ndubytaefj",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718843,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/qacm69c6gmsf",
+              "extra": "uwurashii",
+              "fansub": "uwurashii",
+              "fansub_id": 700,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 719339,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/5gtgih88psgj",
+              "extra": "Çevirmen: DailX",
+              "fansub": "DailX",
+              "fansub_id": 1594,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 230666,
+          "episode_number": 8,
+          "name": "Karanlığın Kutsal Annesi / Şövalye Kral'ın Büyük Macerası",
+          "description": "Hibana ve diğerleri Aziz Raffles Manastırı'ndaki araştırmalarına devam ederken beklenmedik biri ortaya çıkar.",
+          "release_date": "2025-05-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/mdXXZJE48xHVnKsBNMfHJH8JMrX.jpg",
+          "videos": [
+            {
+              "id": 719140,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6830e985f8146af586df9efd",
+              "extra": "Mercury  - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 720750,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6849fa4cc0cdcda52570a11b",
+              "extra": "KaioKen & rolativistik",
+              "fansub": "KaioKen",
+              "fansub_id": 476,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 719141,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/dycq2owo7oil",
+              "extra": "Mercury  - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 720751,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/8mg4tx5n853p",
+              "extra": "KaioKen & rolativistik",
+              "fansub": "KaioKen",
+              "fansub_id": 476,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 230667,
+          "episode_number": 9,
+          "name": "Kutsal Kılıç, Yeniden Dirildi",
+          "description": "Arthur, Excalibur'u yeniden dövmek için metal arayışında partiyi beklenmedik bir bölgeye götürür.",
+          "release_date": "2025-05-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/iVQlxmRoVy49WmjGO7DXiL6sl3x.jpg",
+          "videos": [
+            {
+              "id": 719751,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/683a20e4f8146af586df9fae",
+              "extra": "Çeviri: benf65 & Perpo Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "benf65 & Perpo",
+              "fansub_id": 1600,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 720753,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6849fae9c0cdcda52570a11c",
+              "extra": "KaioKen & rolativistik",
+              "fansub": "KaioKen",
+              "fansub_id": 476,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 719752,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ahqemtlzop2f",
+              "extra": "Çeviri: benf65 & Perpo Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "benf65 & Perpo",
+              "fansub_id": 1600,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 720754,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/h38bv6baer4t",
+              "extra": "KaioKen & rolativistik",
+              "fansub": "KaioKen",
+              "fansub_id": 476,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 230668,
+          "episode_number": 10,
+          "name": "Gelişim",
+          "description": "Adolla Bağlantısı aracılığıyla bir anlık görüşün ardından Sho, Büyük Tufan'dan önce kardeşini bir kez daha görmeye karar verir.",
+          "release_date": "2025-06-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9ka5BLrMJh0ZjcS5AmLBGr4gdLf.jpg",
+          "videos": [
+            {
+              "id": 720167,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6843622ea9b3e344a3e4cd6d",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 720756,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6849fb86c0cdcda52570a11d",
+              "extra": "KaioKen & rolativistik",
+              "fansub": "KaioKen",
+              "fansub_id": 476,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 720168,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/naplnfwxdd36",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 720757,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/vyir3i09jk46",
+              "extra": "KaioKen & rolativistik",
+              "fansub": "KaioKen",
+              "fansub_id": 476,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 230669,
+          "episode_number": 11,
+          "name": "Büyük Kaiju Savaş Cephesi",
+          "description": "Büyük Tufan harekete geçti. Pasifik'te dev bir sütun belirir. Shinra gönderilmek ister ama...",
+          "release_date": "2025-06-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9SmH9Ah6lRGXl1YKgCMraZla9lk.jpg",
+          "videos": [
+            {
+              "id": 721117,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/684c91c6e715f9cbb7b6ecc1",
+              "extra": " Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 721251,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/685025f2e715f9cbb7b6ecea",
+              "extra": "KaioKen & rolativistik",
+              "fansub": "KaioKen",
+              "fansub_id": 476,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 721118,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/rzwhdm1alcw5",
+              "extra": " Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 721252,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/57uw9tuc74rx",
+              "extra": "KaioKen & rolativistik",
+              "fansub": "KaioKen",
+              "fansub_id": 476,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 230670,
+          "episode_number": 12,
+          "name": "Uzak Geçmişin Çılgınlığı",
+          "description": "Faerie bilinçsiz bir Shinra'yı yakalar. Sho ortaya çıkar ve saldırır. Shinra şaşırtıcı bir kaynaktan tavsiye alır.",
+          "release_date": "2025-06-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qELUCQlmQkVHJlbL60G1t5vYhtr.jpg",
+          "videos": [
+            {
+              "id": 721448,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/685686c26ab95c187cfffee8",
+              "extra": "Çeviri: benf65 / Encoder: Mercury",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 721753,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/685a7db66ab95c187cffff50",
+              "extra": "KaioKen & rolativistik",
+              "fansub": "KaioKen",
+              "fansub_id": 476,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 721430,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1bYjTVntuOr-wJ8dpGux3WKSbZuxCNazJ/preview",
+              "extra": "Çeviri: benf65 Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 721431,
+              "player": "DAILYMOTION",
+              "url": "https://dai.ly/k7blcLIB9E0mBFDi3JY",
+              "extra": "Çeviri: benf65 Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 721432,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/9407075715689",
+              "extra": "Çeviri: benf65 Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 721433,
+              "player": "VIDMOLY",
+              "url": "http://vidmoly.to/embed-6uu78232z8yh.html",
+              "extra": "Çeviri: benf65 Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 721434,
+              "player": "LULUVDOO",
+              "url": "https://luluvdoo.com/hzx3ojxo0eu2",
+              "extra": "Çeviri: benf65 Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 721449,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/kupx1oaufju2",
+              "extra": "Çeviri: benf65 / Encoder: Mercury",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 721754,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/9f9balfqx6y7",
+              "extra": "KaioKen & rolativistik",
+              "fansub": "KaioKen",
+              "fansub_id": 476,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 261314,
+          "episode_number": 13,
+          "name": "Farkında Olmamak",
+          "description": "Shinra bunalır ve bilincini kaybeder. Bir sonraki uyanışında, tanımadığı bir odada bağlı olduğunu fark eder.",
+          "release_date": "2026-01-09T20:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qSXuqbSAFCtrr5XDeAcb1dDU9Mm.jpg",
+          "videos": [
+            {
+              "id": 740530,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6962d8e6eb1a5915e492abed",
+              "extra": "Çevirmen: benf65 / Encoder: Zehif_06",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 740531,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/en70mkacafqw",
+              "extra": "Çevirmen: benf65 / Encoder: Zehif_06",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 740532,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-t5c374wwi139.html",
+              "extra": "Çevirmen: benf65 / Encoder: Zehif_06",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 261717,
+          "episode_number": 14,
+          "name": "Arkasında Güneş Varken",
+          "description": "",
+          "release_date": "2026-01-16T20:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zDXuwmqkTi2lGM4AyloAAX4v51P.jpg",
+          "videos": [
+            {
+              "id": 741320,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/696a9b39e4b357250ada9258",
+              "extra": "Çeviri: benf65 Encode: benf65 - www.instagram.com/codeanimee",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 741321,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/81m797hxswx3",
+              "extra": "Çeviri: benf65 Encode: benf65 - www.instagram.com/codeanimee",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 741322,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-9kinjkvooi7v.html",
+              "extra": "Çeviri: benf65 Encode: benf65 - www.instagram.com/codeanimee",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 261720,
+          "episode_number": 15,
+          "name": "Bölüm 15",
+          "description": "",
+          "release_date": "2026-01-23T20:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zDXuwmqkTi2lGM4AyloAAX4v51P.jpg",
+          "videos": [
+            {
+              "id": 741949,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6973d517c0da000447f8c983",
+              "extra": "Çeviri: benf65 Encode: benf65",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 741950,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/6za3vy1ngp7c",
+              "extra": "Çeviri: benf65 Encode: benf65",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 741951,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-r678r2m54yru.html",
+              "extra": "Çeviri: benf65 Encode: benf65",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 261721,
+          "episode_number": 16,
+          "name": "Bölüm 16",
+          "description": "",
+          "release_date": "2026-01-30T20:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zDXuwmqkTi2lGM4AyloAAX4v51P.jpg",
+          "videos": [
+            {
+              "id": 742927,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697e248eeb1a5915e492ac5f",
+              "extra": "Çeviri: benf65 Encode: benf65",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 742928,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/9nxfd3qnx7i4",
+              "extra": "Çeviri: benf65 Encode: benf65",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 742929,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ur9tkysv0faz.html",
+              "extra": "Çeviri: benf65 Encode: benf65",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 261722,
+          "episode_number": 17,
+          "name": "Bölüm 17",
+          "description": "",
+          "release_date": "2026-02-06T20:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zDXuwmqkTi2lGM4AyloAAX4v51P.jpg",
+          "videos": [
+            {
+              "id": 744425,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69864e92eb1a5915e492aca2",
+              "extra": "Çeviri: benf65 Redakte: Soonyi Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 744426,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/j98bkpww3f6s",
+              "extra": "Çeviri: benf65 Redakte: Soonyi Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 744427,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-m53bzaakannl.html",
+              "extra": "Çeviri: benf65 Redakte: Soonyi Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 261723,
+          "episode_number": 18,
+          "name": "Bölüm 18",
+          "description": "",
+          "release_date": "2026-02-13T20:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zDXuwmqkTi2lGM4AyloAAX4v51P.jpg",
+          "videos": [
+            {
+              "id": 744992,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/698f9a071d66f6c39d1404ff",
+              "extra": "Çeviri: benf65 Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 744993,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/4zz5bu2woo2k",
+              "extra": "Çeviri: benf65 Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 261724,
+          "episode_number": 19,
+          "name": "Bölüm 19",
+          "description": "",
+          "release_date": "2026-02-20T20:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zDXuwmqkTi2lGM4AyloAAX4v51P.jpg",
+          "videos": [
+            {
+              "id": 745453,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6998ddb4140a125ba83715cd",
+              "extra": "Çeviri: benf65 Encode: Perpo",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 745439,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/mep7bjnpjf13",
+              "extra": "Çeviri: benf65 Encode: Perpo",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 745440,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-fqs8s0666fu9.html",
+              "extra": "Çeviri: benf65 Encode: Perpo",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 745454,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/n542fkk2el31",
+              "extra": "Çeviri: benf65 Encode: Perpo",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 745455,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-du3jehadi29a.html",
+              "extra": "Çeviri: benf65 Encode: Perpo",
+              "fansub": "benf65",
+              "fansub_id": 91,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 261725,
+          "episode_number": 20,
+          "name": "Bölüm 20",
+          "description": "",
+          "release_date": "2026-02-27T20:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zDXuwmqkTi2lGM4AyloAAX4v51P.jpg",
+          "videos": [
+            {
+              "id": 747403,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69b81b6d140a125ba8371630",
+              "extra": "Ç benf65",
+              "fansub": "Ç benf65",
+              "fansub_id": 1601,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747404,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/f3pkcaacc3ak",
+              "extra": "Ç benf65",
+              "fansub": "Ç benf65",
+              "fansub_id": 1601,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747405,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ndspwgb9vm4i.html",
+              "extra": "Ç benf65",
+              "fansub": "Ç benf65",
+              "fansub_id": 1601,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 261726,
+          "episode_number": 21,
+          "name": "Bölüm 21",
+          "description": "",
+          "release_date": "2026-03-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zDXuwmqkTi2lGM4AyloAAX4v51P.jpg",
+          "videos": [
+            {
+              "id": 748313,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69c52c35140a125ba8371653?vid=748313",
+              "extra": "Ç: benf65 E: Karamak-Sama  -  www.instagram.com/codeanimee",
+              "fansub": "Ç: benf65 E: Karamak-Sama -",
+              "fansub_id": 1602,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748314,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/os7hx1jlo5k2",
+              "extra": "Ç: benf65 E: Karamak-Sama  -  www.instagram.com/codeanimee",
+              "fansub": "Ç: benf65 E: Karamak-Sama -",
+              "fansub_id": 1602,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748315,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-1vbirzcmgs1c.html",
+              "extra": "Ç: benf65 E: Karamak-Sama  -  www.instagram.com/codeanimee",
+              "fansub": "Ç: benf65 E: Karamak-Sama -",
+              "fansub_id": 1602,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 261727,
+          "episode_number": 22,
+          "name": "Bölüm 22",
+          "description": "",
+          "release_date": "2026-03-13T20:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zDXuwmqkTi2lGM4AyloAAX4v51P.jpg",
+          "videos": [
+            {
+              "id": 748860,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69d05e8eb067130deed1c04f",
+              "extra": "MrPunk",
+              "fansub": "MrPunk",
+              "fansub_id": 284,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748941,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69d24b1676acb7a32c3537a3",
+              "extra": "Çeviri: Pluto Encode: Perpo - www.instagram.com/codeanimee",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748861,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/6ncbww27v0sr",
+              "extra": "MrPunk",
+              "fansub": "MrPunk",
+              "fansub_id": 284,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748862,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-3r0l46jfr1kh.html",
+              "extra": "MrPunk",
+              "fansub": "MrPunk",
+              "fansub_id": 284,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748942,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/d4ssqyy65482",
+              "extra": "Çeviri: Pluto Encode: Perpo - www.instagram.com/codeanimee",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748943,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-3ns2q25ku38h.html",
+              "extra": "Çeviri: Pluto Encode: Perpo - www.instagram.com/codeanimee",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 261728,
+          "episode_number": 23,
+          "name": "Bölüm 23",
+          "description": "",
+          "release_date": "2026-03-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zDXuwmqkTi2lGM4AyloAAX4v51P.jpg",
+          "videos": [
+            {
+              "id": 749065,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69d2f5d1b84256f1db55eaad",
+              "extra": "Çeviri: MrPunk Redakte: MrPunk Encode: MrPunk",
+              "fansub": "MrPunk",
+              "fansub_id": 284,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 753679,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a0cc8d3ad0dd5ba6655ce01",
+              "extra": "Çeviri. benf65 Encoder: LostSoul - www.instagram.com/codeanimee",
+              "fansub": "LostSoul",
+              "fansub_id": 1603,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 749066,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/0ijtboh15lru",
+              "extra": "Çeviri: MrPunk Redakte: MrPunk Encode: MrPunk",
+              "fansub": "MrPunk",
+              "fansub_id": 284,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 749067,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-sojjtqmf49fm.html",
+              "extra": "Çeviri: MrPunk Redakte: MrPunk Encode: MrPunk",
+              "fansub": "MrPunk",
+              "fansub_id": 284,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 753680,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/levazsi36pqv",
+              "extra": "Çeviri. benf65 Encoder: LostSoul - www.instagram.com/codeanimee",
+              "fansub": "LostSoul",
+              "fansub_id": 1603,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 261729,
+          "episode_number": 24,
+          "name": "Bölüm 24",
+          "description": "",
+          "release_date": "2026-03-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zDXuwmqkTi2lGM4AyloAAX4v51P.jpg",
+          "videos": [
+            {
+              "id": 748878,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69d10098b067130deed1c050",
+              "extra": "AniZei Fansub",
+              "fansub": "AniZei Fansub",
+              "fansub_id": 508,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748879,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/7mybql9viawx",
+              "extra": "AniZei Fansub",
+              "fansub": "AniZei Fansub",
+              "fansub_id": 508,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748880,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-0e6jrdg2ua3q.html",
+              "extra": "AniZei Fansub",
+              "fansub": "AniZei Fansub",
+              "fansub_id": 508,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 261730,
+          "episode_number": 25,
+          "name": "Bölüm 25",
+          "description": "",
+          "release_date": "2026-04-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zDXuwmqkTi2lGM4AyloAAX4v51P.jpg",
+          "videos": [
+            {
+              "id": 748923,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69d18605b84256f1db55eaa8",
+              "extra": "AniZei Fansub",
+              "fansub": "AniZei Fansub",
+              "fansub_id": 508,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748924,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/iac3u4qvnlb3",
+              "extra": "AniZei Fansub",
+              "fansub": "AniZei Fansub",
+              "fansub_id": 508,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748925,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-70lq8u3onjea.html",
+              "extra": "AniZei Fansub",
+              "fansub": "AniZei Fansub",
+              "fansub_id": 508,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

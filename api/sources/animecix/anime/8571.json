@@ -1,0 +1,48 @@
+{
+  "id": 8571,
+  "name": "New Initial D Movie: Legend 1 - Kakusei",
+  "name_english": "New Initial D the Movie - Legend 3: Dream",
+  "name_romanji": "New Initial D the Movie - Legend 3: Dream",
+  "original_title": "頭文字D Legend3 夢現",
+  "type": "movie",
+  "title_type": "movie",
+  "year": 2016,
+  "release_date": "2016-02-06 00:00:00",
+  "description": "Trilojideki ilk film, Takahashi kardeşler ile olan yarışa odaklanıyor.",
+  "poster": "https://image.tmdb.org/t/p/original/oxNLPFp5PcfTB813J4E0qJWrlFx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gQsbKrIbNq02Kp5ICJHvCmdMmP5.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    16,
+    9,
+    6
+  ],
+  "tmdb_id": 372758,
+  "mal_id": 19613,
+  "anilist_id": 0,
+  "imdb_id": "tt5463088",
+  "season_count": 0,
+  "videos": [
+    {
+      "id": 616936,
+      "player": "TAU",
+      "url": "https://tau-video.xyz/embed/6595a1ceb304d628d5f54e7a",
+      "extra": "Hachiroku / Tcrafter98 / www.izanamifansub.com",
+      "fansub": "Hachiroku",
+      "fansub_id": 2147,
+      "quality": "regular",
+      "language": "tr"
+    },
+    {
+      "id": 580370,
+      "player": "YOUTUBE",
+      "url": "https://youtube.com/embed/lWM3e_ln9UE",
+      "extra": null,
+      "fansub": null,
+      "fansub_id": null,
+      "quality": null,
+      "language": "en"
+    }
+  ]
+}

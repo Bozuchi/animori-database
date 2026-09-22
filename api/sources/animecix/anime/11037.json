@@ -1,0 +1,307 @@
+{
+  "id": 11037,
+  "name": "Kidou Senshi Gundam: Senkou no Hathaway",
+  "name_english": "Mobile Suit Gundam Hathaway's Flash",
+  "name_romanji": "Kidou Senshi Gundam: Senkou no Hathaway",
+  "original_title": "機動戦士ガンダム 閃光のハサウェイ",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2021,
+  "release_date": "2021-06-11",
+  "description": "Char'ın isyanından sonra Hathaway Noa, Dünya Federasyonu'na karşı bir isyana öncülük eder, ancak bir düşman subayı ve gizemli bir kadınla karşılaşması onun kaderini değiştirir.",
+  "poster": "https://image.tmdb.org/t/p/original/6gw8onh4FKsruBA7Oouv01EFxzn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mI0Qo7VtgW5siCtQQqNPXIk0Ar6.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    16,
+    9,
+    6,
+    15
+  ],
+  "tmdb_id": 685274,
+  "mal_id": 37765,
+  "anilist_id": 0,
+  "imdb_id": "tt13288678",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 4839,
+      "season_number": 1,
+      "name": "1. Sezon",
+      "episode_count": 9,
+      "episodes": [
+        {
+          "id": 205862,
+          "episode_number": 1,
+          "name": "1. Bölüm",
+          "description": null,
+          "release_date": "2023-11-24T02:35:03.448Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 607285,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65600a66da9c805585548937",
+              "extra": "ç:ImperialLion e:Gryphon",
+              "fansub": "ç:ImperialLion e:Gryphon",
+              "fansub_id": 701,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 607291,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5335039",
+              "extra": "ç:ImperialLion e:Gryphon",
+              "fansub": "ç:ImperialLion e:Gryphon",
+              "fansub_id": 701,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 205863,
+          "episode_number": 2,
+          "name": "2. Bölüm",
+          "description": null,
+          "release_date": "2023-11-24T02:43:07.651Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 607292,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65600c3030e908b3e8e72029",
+              "extra": "ç:ImperialLion e:Gryphon",
+              "fansub": "ç:ImperialLion e:Gryphon",
+              "fansub_id": 701,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 607298,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5335047",
+              "extra": "ç:ImperialLion e:Gryphon",
+              "fansub": "ç:ImperialLion e:Gryphon",
+              "fansub_id": 701,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 205864,
+          "episode_number": 3,
+          "name": "3. Bölüm",
+          "description": null,
+          "release_date": "2023-11-24T02:52:13.101Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 607300,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65600e1230e908b3e8e7202b",
+              "extra": "ç:ImperialLion e:Gryphon",
+              "fansub": "ç:ImperialLion e:Gryphon",
+              "fansub_id": 701,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 607306,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5335055",
+              "extra": "ç:ImperialLion e:Gryphon",
+              "fansub": "ç:ImperialLion e:Gryphon",
+              "fansub_id": 701,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 205865,
+          "episode_number": 4,
+          "name": "4. Bölüm",
+          "description": null,
+          "release_date": "2023-11-24T03:01:02.303Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 607308,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65601039da9c805585548938",
+              "extra": "ç:ImperialLion e:Gryphon",
+              "fansub": "ç:ImperialLion e:Gryphon",
+              "fansub_id": 701,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 607314,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5335064",
+              "extra": "ç:ImperialLion e:Gryphon",
+              "fansub": "ç:ImperialLion e:Gryphon",
+              "fansub_id": 701,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 205866,
+          "episode_number": 5,
+          "name": "5. Bölüm",
+          "description": null,
+          "release_date": "2023-11-24T03:10:54.830Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 607315,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6560124630e908b3e8e7202d",
+              "extra": "ç:ImperialLion e:Gryphon",
+              "fansub": "ç:ImperialLion e:Gryphon",
+              "fansub_id": 701,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 607321,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5335069",
+              "extra": "ç:ImperialLion e:Gryphon",
+              "fansub": "ç:ImperialLion e:Gryphon",
+              "fansub_id": 701,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 205867,
+          "episode_number": 6,
+          "name": "6. Bölüm",
+          "description": null,
+          "release_date": "2023-11-24T03:18:40.050Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 607323,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6560149430e908b3e8e7202e",
+              "extra": "ç:ImperialLion e:Gryphon",
+              "fansub": "ç:ImperialLion e:Gryphon",
+              "fansub_id": 701,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 607329,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5335079",
+              "extra": "ç:ImperialLion e:Gryphon",
+              "fansub": "ç:ImperialLion e:Gryphon",
+              "fansub_id": 701,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 205868,
+          "episode_number": 7,
+          "name": "7. Bölüm",
+          "description": null,
+          "release_date": "2023-11-24T03:29:11.708Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 607330,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6560166930e908b3e8e7202f",
+              "extra": "ç:ImperialLion e:Gryphon",
+              "fansub": "ç:ImperialLion e:Gryphon",
+              "fansub_id": 701,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 607336,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5335088",
+              "extra": "ç:ImperialLion e:Gryphon",
+              "fansub": "ç:ImperialLion e:Gryphon",
+              "fansub_id": 701,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 205869,
+          "episode_number": 8,
+          "name": "8. Bölüm",
+          "description": null,
+          "release_date": "2023-11-24T03:36:59.719Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 607338,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/656018dd30e908b3e8e72031",
+              "extra": "ç:ImperialLion e:Gryphon",
+              "fansub": "ç:ImperialLion e:Gryphon",
+              "fansub_id": 701,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 607344,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5335102",
+              "extra": "ç:ImperialLion e:Gryphon",
+              "fansub": "ç:ImperialLion e:Gryphon",
+              "fansub_id": 701,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 205870,
+          "episode_number": 9,
+          "name": "9. Bölüm",
+          "description": null,
+          "release_date": "2023-11-24T03:44:43.373Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 607345,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65601ab0da9c80558554893a",
+              "extra": "ç:ImperialLion e:Gryphon",
+              "fansub": "ç:ImperialLion e:Gryphon",
+              "fansub_id": 701,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 607351,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5335113",
+              "extra": "ç:ImperialLion e:Gryphon",
+              "fansub": "ç:ImperialLion e:Gryphon",
+              "fansub_id": 701,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

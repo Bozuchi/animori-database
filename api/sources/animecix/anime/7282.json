@@ -1,0 +1,835 @@
+{
+  "id": 7282,
+  "name": "Yesterday wo Utatte",
+  "name_english": "SING \"YESTERDAY\" FOR ME",
+  "name_romanji": "SING \"YESTERDAY\" FOR ME",
+  "original_title": "イエスタデイをうたって",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2020,
+  "release_date": "2020-04-05 00:00:00",
+  "description": "Üniversiteden sonra hayatta pek tutkusu olmayan bir çocuk olan Rikuo Uozumi, bir süpermarkette işe başlar. Günler Rikou için sakin geçmektedir, ta ki eski kız arkadaşı ve sınıf arkadaşı ile karşılaşana kadar. Ama bu değişimin en önemli sebebi garip Haru Nonoka ve evcil kuzgunudur.\n\nDiğer adları: Yesterday wo Utatte",
+  "poster": "https://image.tmdb.org/t/p/original/fB5WHX8NNThiMcLT0zMIeiiAjEO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xz5dU7uWPN7mXkjHLzoqWKwdHcO.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    9,
+    6
+  ],
+  "tmdb_id": 95550,
+  "mal_id": 39710,
+  "anilist_id": 0,
+  "imdb_id": "tt10204658",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 795,
+      "season_number": 1,
+      "name": "",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 120891,
+          "episode_number": 1,
+          "name": "Kendini bir Bombalama Girişimi-Reform",
+          "description": "Uozumi Rikuo, eski sevgilisi Morinome Shinako ile karşılaşır ve Nonaka Haru, eski sevgilisi Rikuo ile karşılaşır.",
+          "release_date": "2020-04-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xzZxSRQAnFrg10690KhB7RQUW4j.jpg",
+          "videos": [
+            {
+              "id": 609549,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6568af53da9c8055855489c2",
+              "extra": "NaoSubs",
+              "fansub": "NaoSubs",
+              "fansub_id": 730,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609556,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6568b246da9c8055855489c3",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609555,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5345552",
+              "extra": "NaoSubs",
+              "fansub": "NaoSubs",
+              "fansub_id": 730,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609562,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5345570",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 44484,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/1380693969629",
+              "extra": "NaoSubs",
+              "fansub": "NaoSubs",
+              "fansub_id": 730,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 44486,
+              "player": "SENDVID",
+              "url": "https://sendvid.com/embed/02gm8zym",
+              "extra": "NaoSubs",
+              "fansub": "NaoSubs",
+              "fansub_id": 730,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 120892,
+          "episode_number": 2,
+          "name": "",
+          "description": "",
+          "release_date": "2020-04-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/nGuLOA3nIiExLfHNVTwQ96xWe2O.jpg",
+          "videos": [
+            {
+              "id": 609564,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6568b3b730e908b3e8e720ce",
+              "extra": "Tempest Fansub",
+              "fansub": "Tempest Fansub",
+              "fansub_id": 847,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609571,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6568b61dda9c8055855489c4",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609570,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5345579",
+              "extra": "Tempest Fansub",
+              "fansub": "Tempest Fansub",
+              "fansub_id": 847,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609577,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5345588",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 44489,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3903325",
+              "extra": "NaoSubs",
+              "fansub": "NaoSubs",
+              "fansub_id": 730,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 44490,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/1848534043239",
+              "extra": "Tempest Fansub",
+              "fansub": "Tempest Fansub",
+              "fansub_id": 847,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 121027,
+          "episode_number": 3,
+          "name": "Aşk Nedir?",
+          "description": "Rikuo, Haru ile yağmurda ayakta durduktan sonra üşütür. Bir özür dilemek için onu sinemaya davet ediyor.",
+          "release_date": "2020-04-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bVpXpciHzmM600E6ev2Imzys90.jpg",
+          "videos": [
+            {
+              "id": 609579,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6568b78430e908b3e8e720cf",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609586,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6568b8f230e908b3e8e720d0",
+              "extra": "FGL Çeviri",
+              "fansub": "FGL Çeviri",
+              "fansub_id": 55,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 44595,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3911881",
+              "extra": "FGL Çeviri",
+              "fansub": "FGL Çeviri",
+              "fansub_id": 55,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 609585,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5345595",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609592,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5345602",
+              "extra": "FGL Çeviri",
+              "fansub": "FGL Çeviri",
+              "fansub_id": 55,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 44594,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/1755326515821",
+              "extra": "FGL Çeviri",
+              "fansub": "FGL Çeviri",
+              "fansub_id": 55,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 121045,
+          "episode_number": 4,
+          "name": "",
+          "description": "",
+          "release_date": "2020-04-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cAt8Y85U6sxErBHeVKJrBFoyzsD.jpg",
+          "videos": [
+            {
+              "id": 609593,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6568bb3f30e908b3e8e720d1",
+              "extra": "Tempest Fansub",
+              "fansub": "Tempest Fansub",
+              "fansub_id": 847,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609600,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6568bd2bda9c8055855489c5",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 44630,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3921582",
+              "extra": "Tempest Fansub",
+              "fansub": "Tempest Fansub",
+              "fansub_id": 847,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 609599,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5345609",
+              "extra": "Tempest Fansub",
+              "fansub": "Tempest Fansub",
+              "fansub_id": 847,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609606,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5345615",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 44629,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/1864646855271",
+              "extra": "Tempest Fansub",
+              "fansub": "Tempest Fansub",
+              "fansub_id": 847,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 121071,
+          "episode_number": 5,
+          "name": "Adam Minato Adlı",
+          "description": "Minato Kouichi, Morinome Harunun sınıf arkadaşıydı ve fotoğraf öğrencisiydi. Rikuo’nun işyerinde karşılaşırlar.",
+          "release_date": "2020-05-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ikYmwMoiuM2NyYmz7TljTaMTlXu.jpg",
+          "videos": [
+            {
+              "id": 609607,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6568be8430e908b3e8e720d2",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609642,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6568c5b1da9c8055855489c7",
+              "extra": "Tempest Fansub",
+              "fansub": "Tempest Fansub",
+              "fansub_id": 847,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 44696,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3933214",
+              "extra": "Tempest Fansub",
+              "fansub": "Tempest Fansub",
+              "fansub_id": 847,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 609613,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5345622",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609648,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5345666",
+              "extra": "Tempest Fansub",
+              "fansub": "Tempest Fansub",
+              "fansub_id": 847,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 44697,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/1873560865383",
+              "extra": "Tempest Fansub",
+              "fansub": "Tempest Fansub",
+              "fansub_id": 847,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 44699,
+              "player": "SENDVID",
+              "url": "https://sendvid.com/embed/jvjupcyz",
+              "extra": "Tempest Fansub",
+              "fansub": "Tempest Fansub",
+              "fansub_id": 847,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 121103,
+          "episode_number": 6,
+          "name": "Kadın Yuzuhara Adlı",
+          "description": "",
+          "release_date": "2020-05-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qA466TFLzWMgyYgz0NYKHzzznxW.jpg",
+          "videos": [
+            {
+              "id": 387171,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63316f5dd22fe78a0265e6c1",
+              "extra": "esbendis",
+              "fansub": "esbendis",
+              "fansub_id": 1895,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609614,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6568bff230e908b3e8e720d3",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 152990,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4335821",
+              "extra": "esbendis",
+              "fansub": "esbendis",
+              "fansub_id": 1895,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 609620,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5345632",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 152989,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/D29L8QPyORuwMa",
+              "extra": "esbendis",
+              "fansub": "esbendis",
+              "fansub_id": 1895,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 152985,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-llttrl487mzh.html",
+              "extra": "esbendis",
+              "fansub": "esbendis",
+              "fansub_id": 1895,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 152988,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/m8iswj538u84.html",
+              "extra": "esbendis",
+              "fansub": "esbendis",
+              "fansub_id": 1895,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 121247,
+          "episode_number": 7,
+          "name": "Bir Kaç önsezi",
+          "description": "",
+          "release_date": "2020-05-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/rFyxy2asbmQ0jyam41cNCI2Evxw.jpg",
+          "videos": [
+            {
+              "id": 609621,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6568c17f30e908b3e8e720d4",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 153336,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4336375",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 609627,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5345638",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 153335,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/GQKDQK8dQVs9RL",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 153331,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-0w8gjyfwfkiv.html",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 153334,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/dzs73kviwcy4.html",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 121393,
+          "episode_number": 8,
+          "name": "Masum Mavi",
+          "description": "",
+          "release_date": "2020-05-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cZCezMbx16owLcNA3agISaUxfBe.jpg",
+          "videos": [
+            {
+              "id": 608988,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65637fea30e908b3e8e720b1",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 608994,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5338984",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 121392,
+          "episode_number": 9,
+          "name": "Noel Şarkısı",
+          "description": "",
+          "release_date": "2020-05-31T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lU6RZ57LQYFLQG1uXQmUhIWENra.jpg",
+          "videos": [
+            {
+              "id": 608995,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/656381e4da9c8055855489aa",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609001,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5339001",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 121428,
+          "episode_number": 10,
+          "name": "Yeni bir Yılın Başlangıcı",
+          "description": "",
+          "release_date": "2020-06-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/omiWOE0lnT2VHqLv9JVjA4Z4XUY.jpg",
+          "videos": [
+            {
+              "id": 387165,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63316b0fd22fe78a0265e6bc",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609628,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6568c2d230e908b3e8e720d5",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 45420,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3975310",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 153345,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4336382",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 609634,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5345644",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 153344,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/VrMqVPJoeAfYB1",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 153340,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-g4gp3p07epl0.html",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 153343,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/hbz9beykw3q8.html",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 45422,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/1452630477533",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 121429,
+          "episode_number": 11,
+          "name": "Bahar Fırtına",
+          "description": "",
+          "release_date": "2020-06-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xeSssjEyQj1UNg3FufhmETIqTtC.jpg",
+          "videos": [
+            {
+              "id": 609635,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6568c433da9c8055855489c6",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 153354,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4336383",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 609641,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5345659",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 153353,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 153349,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-o5q3wg4t4b62.html",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 153352,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/93ufshxkpiou.html",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 121430,
+          "episode_number": 12,
+          "name": "Uzun Yol",
+          "description": "",
+          "release_date": "2020-07-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/nqmFEyYSktMKiKiGvNMeG2DfKeG.jpg",
+          "videos": [
+            {
+              "id": 387163,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/633169ffd22fe78a0265e6ba",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 153364,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4336384",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 153363,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/z1Kgmk9LJwIY3aL",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 153359,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-1cgo9vf8gnfs.html",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 153362,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/da82h0x17a3a.html",
+              "extra": "Kanketii - Prenses",
+              "fansub": "Kanketii",
+              "fansub_id": 1894,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

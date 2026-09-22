@@ -1,0 +1,824 @@
+{
+  "id": 11390,
+  "name": "You and Me",
+  "name_english": "You and Me.",
+  "name_romanji": "Kimi to Boku.",
+  "original_title": "君と僕。",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2011,
+  "release_date": "Tue Oct 04 2011 00:00:00 GMT+0000 (Coordinated Universal Time)",
+  "description": "Hikaye, birbirlerini erken çocukluktan beri tanıyan dört gencin (yakışıklı ikizler Asaba Yuuta ve Yuuki, kadınsı Matsuoka Shun ve sınıf başkanı Tsukahara Kaname) etrafında dönüyor. Her ne kadar iyi ya da kötü arkadaş olmasalar da lisede de iyi vakit geçirmeye devam ediyorlar. Yarı Japon transfer öğrenci Tachibana Chizuru, ergenliğin günlük yaşamını konu alan bu komedide arkadaş çevresine katılıyor.",
+  "poster": "https://image.tmdb.org/t/p/original/gFPRdoqPRAwJ3aYtdH4tmZOrjGz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4dAYyaGHzsN0xnlgYzSdmg1il29.jpg",
+  "rating": 7,
+  "vote_count": 15,
+  "genres": [
+    3,
+    5,
+    4
+  ],
+  "tmdb_id": 45195,
+  "mal_id": 10460,
+  "anilist_id": null,
+  "imdb_id": "tt7164706",
+  "season_count": 2,
+  "seasons": [
+    {
+      "id": 4998,
+      "season_number": 1,
+      "name": null,
+      "episode_count": 13,
+      "episodes": [
+        {
+          "id": 209877,
+          "episode_number": 1,
+          "name": "17. Baharımız",
+          "description": "Shun artık çocukluk arkadaşları Yūta, Yūki ve Kaname ile birlikte Lise İkinci sınıf öğrencisidir. Çatıda verdikleri mola sırasında Kaname, Yūki'nin bir kulübe katılmasını ister, ancak onu bulmaları biraz zor olur.",
+          "release_date": "2011-10-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xMYvwYHZcC36AZoeHHgy3YrAZot.jpg",
+          "videos": [
+            {
+              "id": 678059,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66d5848448d0b8046dc06829",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "720p",
+              "language": "tr"
+            },
+            {
+              "id": 678062,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5660739",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "720p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 209878,
+          "episode_number": 2,
+          "name": "Lalelerin Açtığı Gün",
+          "description": "Arkadaşlarının birlikte öğle yemeği yemesini bekleyen Shun, dizinde çizik olan bir kız bulur. Onunla yüzleşmeye çalıştı ama o kaçtı. Kız koridorda şaşkına dönerken Shun onu kovalamayı başardı ve ona bir bandaj verdi. Ertesi gün Shun, lanetleneceğini belirten bir mektup bulur.",
+          "release_date": "2011-10-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/rS1Nt2YCpSJj6D0vVkCPSA39P1t.jpg",
+          "videos": [
+            {
+              "id": 678067,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66d5859c48d0b8046dc0682b",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "720p",
+              "language": "tr"
+            },
+            {
+              "id": 678070,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5660749",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "720p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 209879,
+          "episode_number": 3,
+          "name": "Saman Rengi Saçlı Çocuk",
+          "description": "Yūki ve Kaname'nin sınıfına yeni bir öğrenci geldi. Adı Chizuru Tachibana, Almanya'dan gelen yarı Japon bir öğrenci. Yūki'nin yanında oturan o, çocukken birlikte oynadıklarını belirtti. Ancak Yūki onu hiç hatırlamıyor.",
+          "release_date": "2011-10-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/w8IQjYvKjc4hp56bPvSdLJHdCOa.jpg",
+          "videos": [
+            {
+              "id": 678071,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66d5863e48d0b8046dc0682c",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "720p",
+              "language": "tr"
+            },
+            {
+              "id": 678074,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5660753",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "720p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 209880,
+          "episode_number": 4,
+          "name": "Gürültülü Tıp",
+          "description": "Arkadaşlarıyla geçirdiği bir akşamın ardından Kaname soğuk algınlığına yakalanır ve bu, bugünkü sıkıntılarının en kötüsü değildir.",
+          "release_date": "2011-10-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9YQqm94i86O315xBdsBX0E5FA3N.jpg",
+          "videos": [
+            {
+              "id": 678075,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66d586e348d0b8046dc0682d",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "720p",
+              "language": "tr"
+            },
+            {
+              "id": 678078,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5660755",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "720p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 209881,
+          "episode_number": 5,
+          "name": "Bazen Yaz Aylarında",
+          "description": "Yazın ilk günü. Chizuru, arkadaşlarından bazılarını dışarı çıkmaya davet etmeye karar verir, ancak reddedilir. Shun, herkesi yaz festivaline davet etmeye karar verir.",
+          "release_date": "2011-11-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fditI7vsVGCshkqKD82DvRotl4V.jpg",
+          "videos": [
+            {
+              "id": 678079,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66d5878448d0b8046dc0682e",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "720p",
+              "language": "tr"
+            },
+            {
+              "id": 678082,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5660758",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "720p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 209882,
+          "episode_number": 6,
+          "name": "Gözlük ve Et Cetera",
+          "description": "Kaname'nin evinde Shun ve arkadaşları Shun'un saçını kesmeye karar verdiler. Ders çalışmaya hazırlanırken Kaname'nin ne zaman gözlük takmaya başladığını konuşuyorlar.",
+          "release_date": "2011-11-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8rNL6XMn8a73O2FDTxgFET6ZWWU.jpg",
+          "videos": [
+            {
+              "id": 678083,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66d5882948d0b8046dc0682f",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "720p",
+              "language": "tr"
+            },
+            {
+              "id": 678086,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5660760",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "720p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 209883,
+          "episode_number": 7,
+          "name": "Bir elmanın yanında",
+          "description": "Chizuru, Kaname, Yuuki ve Shun, sessiz ve utangaç bir kızın Yuuta'ya beklenmedik bir itirafta bulunduğunu gördü. Buna rağmen Yuuta olayla ilgili arkadaşlarına herhangi bir bilgi vermez. Bu, çetenin Yuuta'yla sözde bir 'randevu'dayken arkasından takip etmesiyle sonuçlanır. Sonunda Yuuta'nın kızın durumunu başından beri bildiği ortaya çıktı; arkadaşları tarafından zorbalığa maruz kalıyor ve itirafını kabul etmek anlamına gelse bile ona yardım etmek istiyor. Yuuta ile kız Takahashi-san arasındaki ilişki hâlâ belirsizdir. Ancak sonunda o ve Yuuta ayrıldılar.",
+          "release_date": "2011-11-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/z33gu0MtqViX09m6954L9WWnSiF.jpg",
+          "videos": [
+            {
+              "id": 678087,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66d588cd48d0b8046dc06830",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "720p",
+              "language": "tr"
+            },
+            {
+              "id": 678090,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5660762",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "720p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 209884,
+          "episode_number": 8,
+          "name": "Günlük Ücretli Kahraman",
+          "description": "Okullarının Manga Topluluğu üyesi olan Ryunosuke Matsushita adlı birinci sınıf öğrencisi Yuuki'den kulübün antolojisi için beş sayfalık bir manga çizmesini istedi. Bunu kabul ettikten sonra Yuuki, çalışmalarını arkadaşlarıyla paylaşmaya karar verir: İlk sayfada Yuuta, ikinci sayfada Yuuki, üçüncü sayfada Shun, dördüncü sayfada Chizuru ve son sayfada Kaname çalışır. Hepsi işlerini bitirdiğinde Chizuru, Yuuki'den herkes için kopya çıkarmasını istedi. Yuuki onu parçalara ayırmaya çalıştı ama Chizuru ve Kaname tarafından durduruldu. Bölümün yan hikayesinde Ryunosuke Matsushita'nın Yuuki'ye hayran olduğu ve onu \"kahramanı\" olarak gördüğü ortaya çıkıyor.",
+          "release_date": "2011-11-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pXDS18vQGWeZAgEqaSN20e5KXmZ.jpg",
+          "videos": [
+            {
+              "id": 678091,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66d5897248d0b8046dc06831",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "720p",
+              "language": "tr"
+            },
+            {
+              "id": 678094,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5660765",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "720p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 209885,
+          "episode_number": 9,
+          "name": "Çıplak Kral",
+          "description": "Birkaç gün içinde Homere Lisesi Kültür Festivali başlayacak. Herkes hem hazırlıklarıyla meşgul, hem de arada eğleniyor. Bu bölümde Kaname'nin arkadaşlarıyla geçirdiği ve kendisini çok sinirlendiren bir gününü nasıl geçirdiğini ve aynı zamanda öğrenci konseyi üyeliği görevlerini görüyoruz.",
+          "release_date": "2011-11-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/yMcdv7FBxXv44a5wkoGf0al19dU.jpg",
+          "videos": [
+            {
+              "id": 678095,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66d58a1148d0b8046dc06832",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "720p",
+              "language": "tr"
+            },
+            {
+              "id": 678098,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5660768",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "720p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 209886,
+          "episode_number": 10,
+          "name": "İşaretinizde",
+          "description": "Nihayet Kültür Festivali günü geldi ve herkes kendi gruplarına hazırlanıyor. Shun'un sınıfı \"farklı bir kafe\" yapıyor ve Kaname'nin sınıfı \"basmakalıp bir perili ev\" yapıyor. Masaki'nin sınıfında sahnede Cinderella'yı oynayacaklar. Rolü bir fare olsa bile diyalogunu pratik etmek için çaresizdir. Ekip onun performansını izliyor, ancak bazıları hala kostümlerini giyiyor, bu da Masaki'nin onları kolayca fark etmesine, sinirlenmesine ve yanlışlıkla repliklerini karıştırmasına neden oldu. Chizuru performansından sonra onu teselli etmeye gider.",
+          "release_date": "2011-12-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dH9lZLpkU2Y3RMVDUeGaUNSaYGM.jpg",
+          "videos": [
+            {
+              "id": 678099,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66d58ab648d0b8046dc06833",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "720p",
+              "language": "tr"
+            },
+            {
+              "id": 678102,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5660773",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "720p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 209887,
+          "episode_number": 11,
+          "name": "Hilal Ay Silüeti",
+          "description": "Ekip, okulun kafeteryasında yemek yemeye karar verdi. Kafeteryacı kadının kızı Kayo'nun, sandviçinin plastiğindeki çıkartmayı istemesinin ardından Yuuki gibi çıkartmaları topladığı ortaya çıkıyor. Bölüm, ikilinin plaka karşılığında nasıl 30 çıkartma topladığına odaklanıyor.",
+          "release_date": "2011-12-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7O0pEw4MmZyWDOdZmhjndaf06aQ.jpg",
+          "videos": [
+            {
+              "id": 678103,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66d58b5648d0b8046dc06834",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "720p",
+              "language": "tr"
+            },
+            {
+              "id": 678106,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5660777",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "720p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 209888,
+          "episode_number": 12,
+          "name": "Ortaokul Günlüğü",
+          "description": "Dersten sonra Shun, küçük kardeşi Fuyuki'den, yanlışlıkla İngilizce defterlerini karıştırdıklarını ve mümkün olan en kısa sürede ona vermesini istediğini belirten bir telefon alır. Ekip, aynı zamanda kendilerinin (Chizuru hariç) Ortaokullarına gittikleri okulunu ziyaret etmeye karar verdi.",
+          "release_date": "2011-12-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/eUsrzlQnXJ9DYBR1DGVEDJ5acvK.jpg",
+          "videos": [
+            {
+              "id": 678107,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66d58bf948d0b8046dc06835",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "720p",
+              "language": "tr"
+            },
+            {
+              "id": 678110,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5660783",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "720p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 209889,
+          "episode_number": 13,
+          "name": "Güneş Işığı Şarkısı",
+          "description": "Shun, ekibin geri kalanına eski okulları Hidamari Anaokulunda bir iş deneyimi yürütmeyi teklif eder. Farklı bir anaokuluna giden somurtkan Chizuru dışında neredeyse herkes heyecanlıydı. Shun, kasvetli Chizuru'yu neşelendirir ve planlarına devam ederler. Oraya vardıklarında, etrafta bazı ilginç öğrencilerin ve özellikle Kaname için biraz baş belası olan bir öğrencinin olduğunu görürler. Bölüm, Shun'un Kaname'nin eski öğretmeni Kaori-sensei'ye olan duygularını açığa vurmasıyla sona erer ve böylece Chizuru'yu güldürür ve Kaname'yi utandırır.",
+          "release_date": "2011-12-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sK9ELpI2qr4XaCafgUuuKSrffAk.jpg",
+          "videos": [
+            {
+              "id": 678047,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66d5821748d0b8046dc06826",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "720p",
+              "language": "tr"
+            },
+            {
+              "id": 678050,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5660723",
+              "extra": "AnimeciX",
+              "fansub": "AnimeciX",
+              "fansub_id": 942,
+              "quality": "720p",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4999,
+      "season_number": 2,
+      "name": null,
+      "episode_count": 13,
+      "episodes": [
+        {
+          "id": 209890,
+          "episode_number": 1,
+          "name": "Aydaki Tavşan Bütün Gece Hopluyor",
+          "description": "Ekip, mandalina ve çok şey teslim etmek için Kaname'nin evine gider, Kaname'yi üzerler, akşam yemeğinde kalırlar ve kendilerini yatıya davet ederler. Geçmişi anımsadıklarında ve birbirlerinin huyları hakkında şakalaştıklarında şakalar ortaya çıkar.",
+          "release_date": "2012-04-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vsvWquTPRW1Gw0VY2jeCSeMHZn4.jpg",
+          "videos": [
+            {
+              "id": 635430,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/661626ca3706592e956b3bd0",
+              "extra": "www.bolaykimfansub.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 635434,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5499894",
+              "extra": "www.bolaykimfansub.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 209891,
+          "episode_number": 2,
+          "name": "Mary'nin Noeli",
+          "description": "Chizuru, Masaki'ye olan duygularını açıkça göstermeye başlar ve onun duygularını bilmesine rağmen ona bir Noel hediyesi hazırlamaya karar verir.",
+          "release_date": "2012-04-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dgfyonfyfMMgGfyojteTxYrrnZ9.jpg",
+          "videos": [
+            {
+              "id": 635435,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/661629eb3706592e956b3bd1",
+              "extra": "www.bolaykimfansub.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 635439,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5499901",
+              "extra": "www.bolaykimfansub.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 209892,
+          "episode_number": 3,
+          "name": "Çok Noel",
+          "description": "Ekip, Noel arifesinde Azuma-sensei ve çocukluk arkadaşı Akira ile karşılaşır. Küçük bir kıza yardım etmeye çalışan Chizuru, yanlışlıkla bir Noel ağacını devirir ve hepsini Akira'nın Noel Baba gibi giyinmesine ve onunla birlikte çalışmasına zorlar.",
+          "release_date": "2012-04-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vTAHUMMOqucbVA14fZGr03WXRu3.jpg",
+          "videos": [
+            {
+              "id": 635440,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66162d4f3706592e956b3bd2",
+              "extra": "www.bolaykimfansub.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 635444,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5499913",
+              "extra": "www.bolaykimfansub.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 209893,
+          "episode_number": 4,
+          "name": "Steam'de",
+          "description": "Yılbaşı gecesi Asaba ikizleri kavga eder.",
+          "release_date": "2012-04-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wDC5ES30WxSfWpVi0g41yqdEnBi.jpg",
+          "videos": [
+            {
+              "id": 635445,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/661630cb3706592e956b3bd3",
+              "extra": "www.bolaykimfansub.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 635449,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5499924",
+              "extra": "www.bolaykimfansub.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 209894,
+          "episode_number": 5,
+          "name": "Gökyüzünün Kenarı",
+          "description": "Ekip, Yeni Yıl Günü iyi şans dilemek için bir türbeyi ziyaret eder, ancak bazı olaylar planlarını bozar.",
+          "release_date": "2012-05-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/3dVPdx68yXttsEnPI4dwyTKu0cn.jpg",
+          "videos": [
+            {
+              "id": 635450,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/661633ec3706592e956b3bd4",
+              "extra": "www.bolaykimfansub.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 635454,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5499935",
+              "extra": "www.bolaykimfansub.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 209895,
+          "episode_number": 6,
+          "name": "Renksiz Mavi",
+          "description": "Kayo, bir güzellik salonunda kariyer yapmak için kafeteryadaki işini bırakıyor ve Yuuki bunu nasıl düşüneceğinden emin değil.",
+          "release_date": "2012-05-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/iqPmd73AjphDcnavCYMC9VVsbzp.jpg",
+          "videos": [
+            {
+              "id": 635456,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66163b5c3706592e956b3bd5",
+              "extra": "www.bolaykimfansub.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 635460,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5499941",
+              "extra": "www.bolaykimfansub.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 209896,
+          "episode_number": 7,
+          "name": "Tatlı Tatlı Acı",
+          "description": "Sevgililer Günü için Masaki, başka bir okuldan Shun'a itirafta bulunan bir kızı gözetler ve bu durum Masaki'nin umutsuzluk duygularının ve Chizuru'nun kendi duygularının farkına varılmasına yol açar.",
+          "release_date": "2012-05-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/reWPbjBHvqMr4QudSD7Iv4w8PVT.jpg",
+          "videos": [
+            {
+              "id": 635462,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66163e8f3706592e956b3bd6",
+              "extra": "www.bolaykimfansub.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 635466,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5499950",
+              "extra": "www.bolaykimfansub.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 209897,
+          "episode_number": 8,
+          "name": "Biz Erkekler",
+          "description": "Shun, küçük kardeşinin ilişkisinin ne kadar hızlı ilerlediği konusunda endişeleniyor; öpüşmenin ortaokul öğrencileri için çok erken olduğunu düşünüyor. Çeteyi, endişelerini daha da kötüleştiren \"acil durumu\" tartışmaya çağırır. Sonuç olarak ekip, hormonlu kardeşinin randevusunu gözetler ve ortaya bir eğlence çıkar.",
+          "release_date": "2012-05-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jo3HaPCCFX5RLXn70i3VLtshPj1.jpg",
+          "videos": [
+            {
+              "id": 635467,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6616421e3706592e956b3bd7",
+              "extra": "www.bolaykimfansub.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 635471,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5499965",
+              "extra": "www.bolaykimfansub.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 209898,
+          "episode_number": 9,
+          "name": "Meyve Suyunu Karıştır",
+          "description": "İlk sezonun ilk bölümünü hatırlatan çocuklar, Kaname'nin çay satın almak için parayı nasıl israf ettiğinden şikayet ederler, bu da çetenin Yuuki'yi yarı zamanlı bir iş bulmaya ikna etmesine yol açar. Tembel Yuuki sonunda yeni bir video oyunu satın almak uğruna vazgeçer ve garson olarak işe girer. Ekibin işin ilk gününde onu ziyaret etmesi karışık bir duruma yol açar ve Yuuki ilk öpücüğünü kaybeder.",
+          "release_date": "2012-05-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/hEjdXPE0sMA9DmWB3jDTnXa4XI7.jpg",
+          "videos": [
+            {
+              "id": 635472,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6616455b3706592e956b3bd8",
+              "extra": "www.bolaykimfansub.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 635476,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5499974",
+              "extra": "www.bolaykimfansub.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 209899,
+          "episode_number": 10,
+          "name": "Kiraz",
+          "description": "Mary ve Chizuru, Chizuru'nun ondan hoşlandığını itiraf etmesinden bu yana birbirlerinden kaçınıyorlar.",
+          "release_date": "2012-06-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2pwE8NXcsKtycw1xI13XOFQ59ew.jpg",
+          "videos": [
+            {
+              "id": 635477,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/661648983706592e956b3bd9",
+              "extra": "www.bolaykimfansub.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 635481,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5500033",
+              "extra": "www.bolaykimfansub.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 209900,
+          "episode_number": 11,
+          "name": "Şeker Bebek, Uçan Bebek",
+          "description": "Grubun üçüncü yılı başlarken spor festivali de yaklaşıyor.",
+          "release_date": "2012-06-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/683uwdubQDh0low9YzYDdjnwFgs.jpg",
+          "videos": [
+            {
+              "id": 635482,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66164a8f3706592e956b3bda",
+              "extra": "www.bolaykimfansub.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 635486,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5500039",
+              "extra": "www.bolaykimfansub.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 209901,
+          "episode_number": 12,
+          "name": "Soyulmuş Çıplak",
+          "description": "Kaname, hoşlandığı komşusuyla akşam yemeği yer ancak onun evlendiğini öğrenir.",
+          "release_date": "2012-06-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sAV3KAO5zRYrHnajrXj5w7oAk5K.jpg",
+          "videos": [
+            {
+              "id": 635492,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66164b493706592e956b3bdb",
+              "extra": "www.bolaykimfansub.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 635496,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5500049",
+              "extra": "www.bolaykimfansub.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 209902,
+          "episode_number": 13,
+          "name": "Göbek ve Onur",
+          "description": "Herkes ondan daha hazırlıklı göründüğü için Shun geleceği konusunda endişelidir. Ayrıca Chizuru, Yukki ve Kaname, Shun ve Yuta ile birlikte Çay kulübünü ziyaret eder.",
+          "release_date": "2012-06-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/s6eUWdYRqCDm6DZc7LFN4Z0fX9d.jpg",
+          "videos": [
+            {
+              "id": 635487,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66164da13706592e956b3bdc",
+              "extra": "www.bolaykimfansub.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 635491,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5500053",
+              "extra": "www.bolaykimfansub.com",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

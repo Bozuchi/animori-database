@@ -1,0 +1,156 @@
+{
+  "id": 12748,
+  "name": "Monster Strike: Deadverse Reloaded",
+  "name_english": "Monster Strike: Deadverse Reloaded",
+  "name_romanji": "Monster Strike",
+  "original_title": "モンスターストライク　デッドバースリローデッド",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2025,
+  "release_date": "2025-10-21",
+  "description": "",
+  "poster": "https://image.tmdb.org/t/p/original/cPmRxg9Ww0TUr9O89Nu3ZoldTZk.jpg",
+  "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces_filter(blur)/cPmRxg9Ww0TUr9O89Nu3ZoldTZk.jpg",
+  "rating": null,
+  "vote_count": null,
+  "genres": [
+    3,
+    1
+  ],
+  "tmdb_id": 300323,
+  "mal_id": 62066,
+  "anilist_id": null,
+  "imdb_id": null,
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 5959,
+      "season_number": 1,
+      "name": null,
+      "episode_count": 10,
+      "episodes": [
+        {
+          "id": 254251,
+          "episode_number": 1,
+          "name": "Canavar",
+          "description": null,
+          "release_date": "2025-10-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/6MAaw8URuLuxaMfReFu84cxh14o.jpg",
+          "videos": [
+            {
+              "id": 734236,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/690a619f8f1b7fd438f1c1fa",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734237,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/g018e5fkdz4b",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734238,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-pmggty8m043c.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 256765,
+          "episode_number": 2,
+          "name": null,
+          "description": null,
+          "release_date": "2025-10-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dtmwHgDpfOiyfjmrdjgFuW34XqL.jpg",
+          "videos": []
+        },
+        {
+          "id": 256766,
+          "episode_number": 3,
+          "name": null,
+          "description": null,
+          "release_date": "2025-11-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cfcCxooT4RE7HqVH7GgATDYOXkg.jpg",
+          "videos": []
+        },
+        {
+          "id": 256767,
+          "episode_number": 4,
+          "name": null,
+          "description": null,
+          "release_date": "2025-11-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7ROJ7DHngiNk1hVrnVcaTqtxagd.jpg",
+          "videos": []
+        },
+        {
+          "id": 256768,
+          "episode_number": 5,
+          "name": null,
+          "description": null,
+          "release_date": "2025-11-18T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 256769,
+          "episode_number": 6,
+          "name": null,
+          "description": null,
+          "release_date": "2025-11-25T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 256770,
+          "episode_number": 7,
+          "name": null,
+          "description": null,
+          "release_date": "2025-12-02T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 256771,
+          "episode_number": 8,
+          "name": "Arkadaşlar",
+          "description": null,
+          "release_date": "2025-12-09T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 256772,
+          "episode_number": 9,
+          "name": null,
+          "description": null,
+          "release_date": "2025-12-16T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 256773,
+          "episode_number": 10,
+          "name": null,
+          "description": null,
+          "release_date": "2025-12-23T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,766 @@
+{
+  "id": 8616,
+  "name": "Seven Knights Revolution: Eiyuu no Keishousha",
+  "name_english": "Seven Knights Revolution: Hero Successor",
+  "name_romanji": "Seven Knights Revolution: Hero Successor",
+  "original_title": "セブンナイツ レボリューション -英雄の継承者-",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2021,
+  "release_date": "2021-04-05 00:00:00",
+  "description": "",
+  "poster": "https://image.tmdb.org/t/p/original/dg5uxhusJlfJSq9ZtiPi4FRj0Gn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7QhJ9s0543p7ssTYAG6kKRrmj5F.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    1,
+    2
+  ],
+  "tmdb_id": 118151,
+  "mal_id": 47391,
+  "anilist_id": 0,
+  "imdb_id": "tt13984000",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 2051,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 146504,
+          "episode_number": 1,
+          "name": "Awakening -Succession-",
+          "description": "Faria, successor to Eunomia of the Seven Knights, saves a boy named Nemo in a village under attack by monsters. Nemo awakens his own successor power during the fight, and what he does stuns even Faria!",
+          "release_date": "2021-04-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2aIvtnbEF9dir64AHlGkKklk5xG.jpg",
+          "videos": [
+            {
+              "id": 365814,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631428b5aaa5e211ba383534",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 113847,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4288300",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 113846,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/bqjV0KRLLBTPAQ4",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 113842,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-ego6n1wjcwgg.html",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 113845,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/bo4fhp8mnppf.html",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 113839,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/od1bij693pz9",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 150154,
+          "episode_number": 2,
+          "name": "Chance Encounter -Granseed-",
+          "description": "After arriving at Granseed Academy, Nemo is inducted into the Seven Knights, and meets its idiosyncratic members. Jou Tsurugi, successor to the hero Spike, takes an immediate dislike to the weak-willed Nemo.",
+          "release_date": "2021-04-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/5NPK3ezviV00FY8LqkseBl8B65Y.jpg",
+          "videos": [
+            {
+              "id": 366089,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63146bddaaa5e211ba38361b",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 117550,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4294153",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 117549,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/K0XaXAPbDghAoB",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 117545,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-upv0sv1qv64e.html",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 117548,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/rtcdw8n0wa7x.html",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 117542,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/98kral6fjwxj",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 150155,
+          "episode_number": 3,
+          "name": "Hero -Seven Knights-",
+          "description": "When the Seven Knights fight together for the first time, Gildan begins to feel eclipsed by Nemo's power. As fear overtakes him, darkness follows.",
+          "release_date": "2021-04-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/n6Zzfx4bftnRylKpvmIFag2Ja7m.jpg",
+          "videos": [
+            {
+              "id": 388469,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6333be2bd03cb090cb4c56a6",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 122077,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4299219",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 122076,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/mkBvrMzKXDcbWql",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 122072,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-xhyhqtrhuzl6.html",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 122075,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/f64dzegdgsh7.html",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 122068,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/v0v3roz6lx1v",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 150156,
+          "episode_number": 4,
+          "name": "Friendship -Connection-",
+          "description": "Nemo is laid up after the last battle, with Faria nursing him back to health. While the others speculate about the dark power that overtook Gildan, Nemo and Faria end up tracking down a runaway cat!",
+          "release_date": "2021-04-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/f1QUggXv9u64e7dU4nK3j6PLlph.jpg",
+          "videos": [
+            {
+              "id": 388365,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63338346d03cb090cb4c5664",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 128740,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4305066",
+              "extra": "Hera - neko ",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 128739,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/rKll6PB3DVFb77g",
+              "extra": "Hera - neko ",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 128738,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/f1jxzyiccyy7.html",
+              "extra": "Hera - neko ",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 128733,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/kniyeqxmtx5a",
+              "extra": "Hera - neko ",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 150157,
+          "episode_number": 5,
+          "name": "Rampancy -Physis-",
+          "description": "Nemo offers his help when a series of vampire attacks strikes the campus. Shirley refuses his aid, hoping to solve the incident alone... but it turns out the vampire is after Shirley herself!",
+          "release_date": "2021-05-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/c4CxKqitVJdXlmoYxGeTQ4ZEacs.jpg",
+          "videos": [
+            {
+              "id": 379175,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63266301d339cac05c6d4d94",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 250805,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x811ojd",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 150158,
+          "episode_number": 6,
+          "name": "Holiday -Festival-",
+          "description": "The school is preparing for its annual festival. While the rest of the students worry about finding a partner for the night's dance, Claire struggles to find a way to be useful to Gareth.",
+          "release_date": "2021-05-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vLgMr0MPwUyhlY31geFTq7CXwlp.jpg",
+          "videos": [
+            {
+              "id": 390235,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63379a17d03cb090cb4c595c",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 136615,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 136611,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-g3i8unx56xez.html",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 136614,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/23g00bzazzv5.html",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 136607,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/b4nqof7xm19r",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 150159,
+          "episode_number": 7,
+          "name": "Sortie -Apocalypse-",
+          "description": "Konsey, Burgot Volkanındaki Physis güçlerine karşı topyekün bir saldırı emri veriyor. Kaleye girdiklerinde, Faria, Nemo ve Shirley, yıkım adına savaşan üç yeni kahraman ardıl ile yüz yüze gelirler!",
+          "release_date": "2021-05-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/c3CDSxkTKozumSF8oohQXFe6m4v.jpg",
+          "videos": [
+            {
+              "id": 367990,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63164720aaa5e211ba383961",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 140612,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4317541",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 140611,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/WwkpAOb8GpUAA3",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 140607,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-bhakvf06fnbx.html",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 140610,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/n80y06e7uy9x.html",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 140604,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/ayl477ml66av",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 150160,
+          "episode_number": 8,
+          "name": "Rivalry -Conflict-",
+          "description": "While Gareth pursues secrets in Granseed Academy, Amis Germain's plots appear to be on the verge of fruition. As the three students of Granseed struggle against the \"synthetic successors\"... Nemo makes a confession!",
+          "release_date": "2021-05-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/6OWZPYXx2yIV9j94HW9m9zHIJor.jpg",
+          "videos": [
+            {
+              "id": 368582,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6316df3aaaa5e211ba383a74",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 146787,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4322104",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 146786,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/GJkd4WwD6jS1vgw",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 146782,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-wmbvqwlducz1.html",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 146785,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/8devyvnon84q.html",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 150161,
+          "episode_number": 9,
+          "name": "Sonuç -Bitiş Zamanları-",
+          "description": "Reda, Amis Germain'e ve onun ezici gücüne karşı verilen mücadeleye katılırken Gareth, Sophitia'dan eski kütüphanenin sırrını öğrenir.",
+          "release_date": "2021-05-31T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qmJzcPQhrGRBoaZhpPzbRAIKElK.jpg",
+          "videos": [
+            {
+              "id": 387355,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6331c9fcd22fe78a0265e72a",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 150163,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4328521",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 150162,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/me4dByBYRzIbgKg",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 150158,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-p51vz3fpckhk.html",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 150161,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/bwraax7v52zm.html",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 150162,
+          "episode_number": 10,
+          "name": "Mahkumiyet -Ceza-",
+          "description": "Nemo, arkadaşlarının suçlamalarıyla yüzleşirken geçmişinin gerçeğini ortaya çıkarır. Ona yardım etmek için çaresizlik içinde olan Faria, Eunomiadan ona gerçeği söylemesini ister.",
+          "release_date": "2021-06-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/u3K4ZfqqFwsYJ9Fmbu9eMFzmJ8p.jpg",
+          "videos": [
+            {
+              "id": 387211,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/633186d9d22fe78a0265e6e2",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 152483,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4333953",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 152482,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/mw3LJrXDvjcb83A",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 152478,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-98122mh9j66m.html",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 152481,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/wlmxowztqsui.html",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 150163,
+          "episode_number": 11,
+          "name": "",
+          "description": "",
+          "release_date": "2021-06-15T21:07:08.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lFKGB2TzM2Xw90FuTUITwlw2RnE.jpg",
+          "videos": [
+            {
+              "id": 387199,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6331813cd22fe78a0265e6d8",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 152632,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4334488",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 152631,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 152627,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-72cp2o5xw43x.html",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 152630,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/5opy3wgplhzu.html",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 150164,
+          "episode_number": 12,
+          "name": "12. Bölüm",
+          "description": "",
+          "release_date": "2021-06-22T16:12:57.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 387125,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63314e0bd22fe78a0265e6a1",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 153867,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4338300",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 153866,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/p2oeyowy0ZUrmxz",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 153862,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-whe57ma4x962.html",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 153865,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/iry0bwmkd89z.html",
+              "extra": "Hera - neko",
+              "fansub": "Hera",
+              "fansub_id": 825,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

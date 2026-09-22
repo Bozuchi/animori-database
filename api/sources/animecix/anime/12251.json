@@ -1,0 +1,77 @@
+{
+  "id": 12251,
+  "name": "Kimetsu no Yaiba: Mugen Jou-hen",
+  "name_english": "Demon Slayer: Infinity Castle Arc",
+  "name_romanji": "Fate/stay night Movie: Heaven's Feel - I. Presage Flower",
+  "original_title": "「鬼滅の刃」無限城編",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2025,
+  "release_date": "2026-07-28",
+  "description": "\"Kimetsu no Yaiba\" animesinin devamı olan \"Infinity Castle Arc\"ın tiyatro üçlemesi. Özet: Tanjiro ve Hashiralar, karargâha koşar ancak Muzan Kibutsuji tarafından gizemli bir alana derin bir inişe sürüklenirler. Tanjiro ve İblis Avcıları Birliği'nin düştüğü yer, iblislerin kalesi olan Sonsuzluk Kalesi'dir. Ve böylece, İblis Avcıları Birliği ile iblisler arasındaki son savaş ateşlenmiş oldu.",
+  "poster": "https://image.tmdb.org/t/p/original/4mHLwoDXtlKNqnxANIeyjYUli96.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+  "rating": null,
+  "vote_count": null,
+  "genres": [
+    3,
+    12,
+    13,
+    23
+  ],
+  "tmdb_id": 1311031,
+  "mal_id": 25537,
+  "anilist_id": null,
+  "imdb_id": "tt32820897",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 6321,
+      "season_number": 1,
+      "name": "1. Sezon",
+      "episode_count": 1,
+      "episodes": [
+        {
+          "id": 287355,
+          "episode_number": 1,
+          "name": "Bölüm 1 - Akaza'nın Geri Dönüşü",
+          "description": "Ubuyashiki’nin onu durdurma girişiminin başarısızlıkla sonuçlanmasının ardından Muzan Kibutsuji, Leydi Tamayo’yu esir alır ve Tanjiro, Zenitsu, Inosuke ile Hashiraları iblislerin kalesi olan Sonsuzluk Kalesi’ne sürükler. Artık en güçlü düşmanlarından bazılarıyla yüzleşmek zorundadırlar.",
+          "release_date": "2026-07-29T20:59:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lNYympQM5O6QSInusbyG9eJDIe4.jpg",
+          "videos": [
+            {
+              "id": 759577,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a69e165d5ce148fbbb33960",
+              "extra": "Çeviri: Seiko / Encode: Perpo",
+              "fansub": "Seiko",
+              "fansub_id": 108,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 759578,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ybbzyxqqt91q",
+              "extra": "Çeviri: Seiko / Encode: Perpo",
+              "fansub": "Seiko",
+              "fansub_id": 108,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 759579,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-7mdm488yhn1k.html",
+              "extra": "Çeviri: Seiko / Encode: Perpo",
+              "fansub": "Seiko",
+              "fansub_id": 108,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

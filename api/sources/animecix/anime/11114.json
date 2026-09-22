@@ -1,0 +1,862 @@
+{
+  "id": 11114,
+  "name": "Synduality: Noir",
+  "name_english": "Synduality Noir",
+  "name_romanji": "Synduality: Noir",
+  "original_title": "SYNDUALITY Noir",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2023,
+  "release_date": "2023-07-11",
+  "description": "Yıl 2242. Kanata, Drifter olmak ister ve hafızası olmayan sahte bir Büyücü olan Noir ile tanışır. Ancak Noir, Enders'a karşı savaşta üstün olduğu için Kanata onunla ortak olur ve bir Drifter olmanın tam olarak ne gerektiğini keşfeder.",
+  "poster": "https://image.tmdb.org/t/p/original/wgSdVAjpEezcLqV3Xs2NpWqy1Lr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6KiYynp798j8nWUQzkPXZDA8t4x.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    2,
+    1
+  ],
+  "tmdb_id": 210181,
+  "mal_id": 53026,
+  "anilist_id": 0,
+  "imdb_id": "tt24240038",
+  "season_count": 2,
+  "seasons": [
+    {
+      "id": 4710,
+      "season_number": 1,
+      "name": null,
+      "episode_count": 24,
+      "episodes": [
+        {
+          "id": 201117,
+          "episode_number": 1,
+          "name": "Benim adım...",
+          "description": "Kanata ve Tokio, anıları olmayan bir Büyücü keşfeder; Enders saldırdığında Rock Town tehlikededir.",
+          "release_date": "2023-07-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oqVw0cxPs6GuLLGtNChpBi8HniZ.jpg",
+          "videos": [
+            {
+              "id": 591610,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65139170500b95f594abbed3",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 574369,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5217577",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 591616,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5262333",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 201118,
+          "episode_number": 2,
+          "name": "Ustam",
+          "description": "Kanata, Noir'ın geçmişiyle ilgili gerçeği ortaya çıkarmak için bulduğu harabelere geri döner; Range, Noir'ı kasabadan uzaklaştırmaya çalıştıktan sonra bir Büyücü olan Ciel ile tanışır.",
+          "release_date": "2023-07-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/mZ5XcsYhrI7oNu361kJKnBK1s4d.jpg",
+          "videos": [
+            {
+              "id": 591603,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65138c6f500b95f594abbed2",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 574383,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5217616",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 591609,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5262320",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 201119,
+          "episode_number": 3,
+          "name": "Maskenin Arkasında",
+          "description": "Kanata, Noir'ın efendisi olur; Tokio, Kanata'yı gerçek bir erkeğe dönüştürmek için Arzu Yuvası'na götürür.",
+          "release_date": "2023-07-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/hHM61GZAjdwzV3ZQn0bX98Ljpgu.jpg",
+          "videos": [
+            {
+              "id": 591596,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/651386b1500b95f594abbed1",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 574397,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5217627",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 591602,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5262307",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 201120,
+          "episode_number": 4,
+          "name": "Vahşi Papatya",
+          "description": "Kanata, daha güçlü olmak için Noir olmadan Enders'la savaşır; kendisinden bir talepte bulunan Claudia ve Flamme tarafından kurtarılır.",
+          "release_date": "2023-08-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9xR2reovRWtCRjIe2Xxwm4gz5ox.jpg",
+          "videos": [
+            {
+              "id": 591589,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65137f0da42d4cda68348d95",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 574408,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5217639",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 591595,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5262295",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 201121,
+          "episode_number": 5,
+          "name": "Labirentte Sürüklenmek",
+          "description": "Daha güçlü bir Drifter olmak için Kanata'nın Büyücüsüyle olan bağını güçlendirmesi gerekir; Kanata, Noir ile birlikte Fes labirentine doğru yola çıkar; Amasian Type Zero Magus'a ve Drifter'larına saldıran bir grup Tokio'nun dikkatini çeker.",
+          "release_date": "2023-08-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/5OiU4T7KrMv7JX3niC4I190V5lm.jpg",
+          "videos": [
+            {
+              "id": 591582,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65137a01a42d4cda68348d94",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 582192,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5226335",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 591588,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5262287",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 201122,
+          "episode_number": 6,
+          "name": "Zar Atılıyor",
+          "description": "Yağmura yakalanan Kanata ve Tokio, Baccarat Nest'e sığınır ve burada Ciel ile karşılaşır.",
+          "release_date": "2023-08-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9lAMYGYbbAqOKFrB69vIjutPW6F.jpg",
+          "videos": [
+            {
+              "id": 591575,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6513737a500b95f594abbed0",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 582940,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5229147",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 591581,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5262270",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 201123,
+          "episode_number": 7,
+          "name": "Canım...",
+          "description": "Kanata, Noir'in geçmişi hakkında daha fazla bilgi edinmek ister.",
+          "release_date": "2023-08-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/A9qFJHnuFmNvg5UOmDCku7WDsph.jpg",
+          "videos": [
+            {
+              "id": 591568,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65136ee9500b95f594abbecf",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 584855,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5234528",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 591574,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5262261",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 201124,
+          "episode_number": 8,
+          "name": "Saf Rüya",
+          "description": "Kanata, Ellie'yi Satellite Aqua'ya davet eder. Bunun bir randevu olduğunu düşünen Ellie, tüm çeteyi orada bulur.",
+          "release_date": "2023-08-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/o9D72jNEEImERDCpl0kXxaM3k3p.jpg",
+          "videos": [
+            {
+              "id": 591561,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6513690ea42d4cda68348d93",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 586107,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5238529",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 591567,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5262255",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 586327,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-ylsrwwk32u1t.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 201125,
+          "episode_number": 9,
+          "name": "Efsanevi Kahraman",
+          "description": "Kanata, Traders Nest'e giderken yağmurda yalnız yürüyen bir Drifter'a tanık olur.",
+          "release_date": "2023-09-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wDtICHVgV0ldZr1IbMMl9janBEs.jpg",
+          "videos": [
+            {
+              "id": 591554,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6513630a500b95f594abbece",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 591560,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5262252",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 587830,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-sie7vot592h8.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 201126,
+          "episode_number": 10,
+          "name": "Drifter'ların Gururu",
+          "description": "Kanata, Rock Town'ı çevreleyen Yuvaların yok edilmesinin arkasında kimin olduğunu araştırır.",
+          "release_date": "2023-09-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/s4qTwSTCg9mWILb5IZTo5fnzVbs.jpg",
+          "videos": [
+            {
+              "id": 591547,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65135cd4a42d4cda68348d92",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 591553,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5262251",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 588781,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-gt3etkjl1ktv.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 201127,
+          "episode_number": 11,
+          "name": "A.I.'nin Fırtınası",
+          "description": "Gümüş Fırtına ile yüzleşmeye hazırlanan yakındaki Yuvalardan gelen serseriler, Rock Town'ın yardımına koşuyor. Bu sırada Noir'in peşinde olan gizemli grup, kaostan yararlanarak Ciel'e Kanata'yı ortadan kaldırmasını emreder. Savaş uzadıkça Drifter'lar hayatta kalma umutlarını kaybetmeye başlar.",
+          "release_date": "2023-09-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sfZ1Zrpc6Fcp8ko8CjCOi7IixRD.jpg",
+          "videos": [
+            {
+              "id": 591540,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/651358cc500b95f594abbecd",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 591546,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5262247",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 201128,
+          "episode_number": 12,
+          "name": "İdealin Serabı",
+          "description": "Gümüş Fırtına'ya karşı mücadelenin son ayağı. Kimse zarar görmeden kalmıyor ve Kanata pes etmeyi reddetse de yükseltilmiş DAISYOGRE bile umutsuzca mücadele ediyor. Bu ölümüne mücadelede Noir'ın endişeleri doruğa ulaşır ve Noir bir dönüşüme uğrar.",
+          "release_date": "2023-09-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7N9DuVZZ51tsf04Rlbr20T4vKfS.jpg",
+          "videos": [
+            {
+              "id": 591533,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/651352b7500b95f594abbecc",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 591539,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5262238",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 591518,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.to/embed-1eiymmzk7tyl.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 207577,
+          "episode_number": 13,
+          "name": "Çift Kişilik Oyuncular",
+          "description": "Silver Storm'a karşı verilen hararetli savaşın üzerinden birkaç gün geçti ama Noir, Mystere'ye dönüştükten sonra hala normal haline dönmedi. Kanata, Noir'ı uyandırmasına yardımcı olacağı umuduyla Mystere'i Noir ile anılarını paylaştığı yerlere götürür.",
+          "release_date": "2024-01-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/73QMeD0BSYGuJCWFFK3Bcc0YT8G.jpg",
+          "videos": []
+        },
+        {
+          "id": 207578,
+          "episode_number": 14,
+          "name": "Gizemli Yolculuk",
+          "description": "Mystere, Kanata'ya Histoire'ın gerçekten var olduğunu söyler. Kanıt olarak, o ve eski ustası, seyahatleri sırasında bir zamanlar Histoire'ın ağıyla temas kurmuşlardı. Ancak Kanata, Histoire'a gidecekse biraz eğitim alması gerekecek.",
+          "release_date": "2024-01-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/btCa6oFB2rYqCQRJNWWuPxFtjMB.jpg",
+          "videos": []
+        },
+        {
+          "id": 207579,
+          "episode_number": 15,
+          "name": "Kader Düellosu",
+          "description": "Kanata, efsanevi Histoire'a dair ipuçları bulmak için eski bir uzay limanına sahip olduğu varsayılan Carthago'ya gider. Erişim sağlamaya çalışır ancak aniden saldırıya uğrar. Saldırganlarla yüzleşen Kanata, Büyücüsü için düelloya davet edilir.",
+          "release_date": "2024-01-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/avqNsMxnXcvalGUZbP5HsqCvTMy.jpg",
+          "videos": []
+        },
+        {
+          "id": 207580,
+          "episode_number": 16,
+          "name": "Kara Yağmur",
+          "description": "Noir, Mystere'in kendini onarma süreci tamamlandığında kişiliğinin kaybolabileceğini öğrenir. Kanata'nın Mystere yanındayken daha iyi hizmet edeceğine inanarak kaderini kabul eder. Kanata'nın kararının farkında olmadığı için kalpler yanlış hizalanır. Noir son bir jest olarak ona yemek hazırlamaya karar verir.",
+          "release_date": "2024-01-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/c5whLmm3UoNLjMIC7YmGaMNZbfe.jpg",
+          "videos": []
+        },
+        {
+          "id": 207581,
+          "episode_number": 17,
+          "name": "Grimsi Bölge",
+          "description": "Noir'ın pervasız davranışı hem kendisinin hem de Mystere'in işlevlerini yitirmesine neden olur. İkisi de uyanmayınca Kanata yardım için Alba'dan yardım ister. Ancak Alba, Kanata'ya onları kurtarmak için başka bir Type Zero Magus'a ihtiyacı olacağını söyler. Amasya'nın harabelerinde bir tane olabilir, bu yüzden Kanata ve Ciel onu bulmaya koyulur.",
+          "release_date": "2024-02-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oRB5XQBwWcHuIY6C4FgjXv4sVEz.jpg",
+          "videos": []
+        },
+        {
+          "id": 207582,
+          "episode_number": 18,
+          "name": "Gökyüzünün Ötesinde",
+          "description": "Güvendiği bir müttefikin ihanetine uğrayan Kanata esir alınır. Daha da kötüsü, iki arkadaşının daha İdeal üyeleri arasında durduğu görülüyor. Weisheit, meşhur bıçağın son bir darbesiyle şok edici bir geçmişi ortaya çıkarır.",
+          "release_date": "2024-02-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7uzXGURTmwluMUl3PF1FGyM7rDX.jpg",
+          "videos": []
+        },
+        {
+          "id": 207583,
+          "episode_number": 19,
+          "name": "Gövde Çift",
+          "description": "Ellie, güvenliğinden korkarak Kanata'yı aramaya gelir. Onu şok halinde, hareketsiz bir Ciel'i kucaklarken ve kendini suçlarken bulur. Noir ve Mystere için zaman daralıyor ama o hâlâ bir seçim yapamıyor. Hararetli bir tartışmanın ortasında Kanata'nın bir karara varması gerekir.",
+          "release_date": "2024-02-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lfJrF7rMvW88sq8NFqjA7rcS3xz.jpg",
+          "videos": []
+        },
+        {
+          "id": 207584,
+          "episode_number": 20,
+          "name": "Onların Anlatıları",
+          "description": "Pascale, Noir ve Mystere'in geçmişini ayrıntılarıyla anlatan bir mesaj bıraktı. Histoire ile ilk temas kurduklarında başlayan bir hikayeydi bu. Bu arada Macht, Schnee ile sözleşme imzaladığı zamanı anıyor...",
+          "release_date": "2024-02-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7jhvipDv19s7Cx8bYHqx9woUqss.jpg",
+          "videos": []
+        },
+        {
+          "id": 207585,
+          "episode_number": 21,
+          "name": "Şarkınız",
+          "description": "İdeal'e karşı mücadele ufukta görünürken Kanata, DAISYOGRE ALTER'ı geliştirmekle meşgul. Bu arada Noir, onu kurtaranın Ciel olduğunu hâlâ kabul edemiyor. Etrafta dolaşırken Ciel'in hayranlarından biriyle karşılaşır. İkili, Ciel'in şarkılarını anarken Noir, Kanata'ya şarkı söylemeyi denemek istediğini söyler.",
+          "release_date": "2024-03-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pIF14ar9aMsxrsjc1bySjGTM2r0.jpg",
+          "videos": []
+        },
+        {
+          "id": 207586,
+          "episode_number": 22,
+          "name": "Yerçekimi Tabut",
+          "description": "Maria'nın roketinin tamamlanmasıyla Kanata sonunda Histoire'a gidebilir. Ancak İdeal'in başka fikirleri vardır ve onu durdurmaya çalışır. Weisheit, Macht'a Mystere'i Kanata'nın gözünün önünden çalmasını emrederken bu açık bir savaştır. Drifters of Rock Town ile İdeal arasındaki savaş büyük bir patlamayla başlıyor.",
+          "release_date": "2024-03-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7RypVRxMwyHrKvZXB1wsAywbP5N.jpg",
+          "videos": []
+        },
+        {
+          "id": 207587,
+          "episode_number": 23,
+          "name": "Limitin Üzerinde",
+          "description": "Kanata, Mystere'i geri almak için kalan son roketle Weisheit'i kovalamaya karar verir. O ve Noir, Weisheit'in onları sabırsızlıkla beklediği Histoire'a varmadan önce Rock Town halkına veda ediyorlar.",
+          "release_date": "2024-03-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/y8FY3nfvCA3dgayUHj1Tl3cCNX2.jpg",
+          "videos": []
+        },
+        {
+          "id": 207588,
+          "episode_number": 24,
+          "name": "Benim Adım... Noir / Drifters",
+          "description": "Her şey Weisheit'in planladığı gibi gitti ve tüm Büyücüler çalışmayı bıraktı. Ancak Noir, benzersiz kökenleri nedeniyle etkilenmeyen tek Büyücüdür. Artık tüm umutlar onun omuzlarında. Kanata ve Noir'ın son savaşlarında Weisheit ile yüzleşmesinin zamanı geldi.",
+          "release_date": "2024-03-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/83U8rCN84snCd0vsRjTLMfaoUjO.jpg",
+          "videos": []
+        }
+      ]
+    },
+    {
+      "id": 4906,
+      "season_number": 2,
+      "name": "2. Sezon",
+      "episode_count": 8,
+      "episodes": [
+        {
+          "id": 207307,
+          "episode_number": 1,
+          "name": "1. Bölüm",
+          "description": null,
+          "release_date": "2024-01-09T14:59:30.848Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 618292,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/659d5d66b304d628d5f54f68",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 618297,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5392293",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 207482,
+          "episode_number": 2,
+          "name": "2. Bölüm",
+          "description": null,
+          "release_date": "2024-01-16T20:20:57.808Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 619789,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65a6e387b304d628d5f5507f",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 619794,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5401789",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 208291,
+          "episode_number": 3,
+          "name": "3. Bölüm",
+          "description": null,
+          "release_date": "2024-01-29T19:41:38.901Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 623325,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65b7fe8ab304d628d5f55375",
+              "extra": "helen",
+              "fansub": "helen",
+              "fansub_id": 12,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 208292,
+          "episode_number": 4,
+          "name": "4. Bölüm",
+          "description": null,
+          "release_date": "2024-01-29T19:45:13.778Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 623330,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65b7febdb304d628d5f55376",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 623335,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5417184",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 208370,
+          "episode_number": 5,
+          "name": "5. Bölüm",
+          "description": null,
+          "release_date": "2024-02-05T20:54:13.381Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 624144,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65c149c4b304d628d5f5542b",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 624148,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5423770",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 208481,
+          "episode_number": 6,
+          "name": "6. Bölüm",
+          "description": null,
+          "release_date": "2024-02-12T19:30:46.325Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 625517,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ca7088b304d628d5f5555f",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 625521,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5430290",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 208791,
+          "episode_number": 7,
+          "name": "7. Bölüm",
+          "description": null,
+          "release_date": "2024-02-23T17:29:27.122Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 627168,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65d8d47271b8322dba091062",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 627172,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5443074",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 208924,
+          "episode_number": 8,
+          "name": "8. Bölüm",
+          "description": null,
+          "release_date": "2024-02-26T21:36:55.507Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 628151,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65dd027271b8322dba0910c7",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 628155,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5447627",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

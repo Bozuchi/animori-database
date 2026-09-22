@@ -1,0 +1,116 @@
+{
+  "id": 9401,
+  "name": "Girls & Panzer: Saishuushou Part 3",
+  "name_english": "Girls und Panzer das Finale: Part III",
+  "name_romanji": "Girls und Panzer das Finale: Part III",
+  "original_title": "ガールズ＆パンツァー 最終章 第3話",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2021,
+  "release_date": "2021-03-26",
+  "description": "Part 3 of 6 for the final chapter of Girls und Panzer series.",
+  "poster": "https://image.tmdb.org/t/p/original/v76E48AKCLtQE45aMXZf5f6MKGT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/r3fYOny0nom0Ll8EapPHFqokC20.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    16,
+    6,
+    4
+  ],
+  "tmdb_id": 746880,
+  "mal_id": 39166,
+  "anilist_id": 0,
+  "imdb_id": "tt12286898",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 6250,
+      "season_number": 1,
+      "name": "1. Sezon",
+      "episode_count": 2,
+      "episodes": [
+        {
+          "id": 278515,
+          "episode_number": 1,
+          "name": "Movie",
+          "description": "",
+          "release_date": "2021-05-05T00:00:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 751891,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69fa44e7b84256f1db55eb1f",
+              "extra": "Çeviri: Gatito / Redakte: Krizantem / Kodlama: MiracA",
+              "fansub": "Gatito",
+              "fansub_id": 3136,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 751892,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/pvtlcgiyelum",
+              "extra": "Çeviri: Gatito / Redakte: Krizantem / Kodlama: MiracA",
+              "fansub": "Gatito",
+              "fansub_id": 3136,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 751893,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-dzaouwt3xlc6.html",
+              "extra": "Çeviri: Gatito / Redakte: Krizantem / Kodlama: MiracA",
+              "fansub": "Gatito",
+              "fansub_id": 3136,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 277275,
+          "episode_number": 2,
+          "name": "OVA - Daikon War!",
+          "description": "",
+          "release_date": "2021-01-05T00:00:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 751888,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69fa444e5d4202aa1736c136",
+              "extra": "MrVeraguth - Lavrosiyer",
+              "fansub": "MrVeraguth",
+              "fansub_id": 659,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 751889,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/8qjd3p4vylgf",
+              "extra": "MrVeraguth - Lavrosiyer",
+              "fansub": "MrVeraguth",
+              "fansub_id": 659,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 751890,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-9uaxv1ruz1gs.html",
+              "extra": "MrVeraguth - Lavrosiyer",
+              "fansub": "MrVeraguth",
+              "fansub_id": 659,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

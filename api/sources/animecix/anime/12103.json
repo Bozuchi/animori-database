@@ -1,0 +1,65 @@
+{
+  "id": 12103,
+  "name": "Twins Hinahima",
+  "name_english": "Twins Hinahima",
+  "name_romanji": "Twins Hinahima",
+  "original_title": "ツインズひなひま",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2025,
+  "release_date": "Fri Mar 28 2025 00:00:00 GMT+0000 (Coordinated Universal Time)",
+  "description": "İki kız, videolarında tuhaf bir şey keşfedene kadar TikToker'da viral olmayı hayal ediyor",
+  "poster": "https://image.tmdb.org/t/p/original/wzykJmNTZuM3DaC8xOOuYA1VGuG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/y9rj0Y4XSiOWQr8OVr7xfG7ptcH.jpg",
+  "rating": 6.4,
+  "vote_count": 5,
+  "genres": [
+    3,
+    2
+  ],
+  "tmdb_id": 279431,
+  "mal_id": 60521,
+  "anilist_id": null,
+  "imdb_id": "tt36206372",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 5732,
+      "season_number": 1,
+      "name": null,
+      "episode_count": 1,
+      "episodes": [
+        {
+          "id": 228832,
+          "episode_number": 1,
+          "name": "1. Bölüm",
+          "description": null,
+          "release_date": "2025-03-30T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 713952,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67f05b7f5eaf06b6b692711c",
+              "extra": "Çeviri:Pavsama / Encoder:pavbsama / Redaktör:Kerems.s /https://discord.gg/fb2NPYrWMN",
+              "fansub": "Pavsama",
+              "fansub_id": 913,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 713953,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/oq7oaglljpv8",
+              "extra": "Çeviri:Pavsama / Encoder:pavbsama / Redaktör:Kerems.s /https://discord.gg/fb2NPYrWMN",
+              "fansub": "Pavsama",
+              "fansub_id": 913,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

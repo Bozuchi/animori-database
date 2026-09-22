@@ -1,0 +1,70 @@
+{
+  "id": 7701,
+  "name": "Final Fantasy VII: Advent Children",
+  "name_english": "Final Fantasy VII: Advent Children",
+  "name_romanji": "Final Fantasy VII: Advent Children",
+  "original_title": "Final Fantasy VII: Advent Children",
+  "type": "movie",
+  "title_type": "movie",
+  "year": 2005,
+  "release_date": "2005-07-14 00:00:00",
+  "description": "Final Fantasy VII’nin sonundan iki sene sonra, Dünya toparlanmaya ve yeni bir gelecek için çalışmaya başlamıştır. Ancak Geostigma isimli bir hastalık ve Jenova’yı arayan üç adamın ile birlikte yeni tehditler ortaya çıkar. Cloud ve arkadaşları bir kez daha bu tehditi yok etmek için bir araya gelirler.",
+  "poster": "https://image.tmdb.org/t/p/original/pTIXM2yu8McSlcQVs1VjVSNC45x.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8xhgpYyNSX5sJi0P35hwL73QYOV.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    16,
+    6,
+    13,
+    15,
+    14
+  ],
+  "tmdb_id": 647,
+  "mal_id": 317,
+  "anilist_id": 0,
+  "imdb_id": "tt0385700",
+  "season_count": 0,
+  "videos": [
+    {
+      "id": 721843,
+      "player": "TAU",
+      "url": "https://tau-video.xyz/embed/685dac3d6ab95c187cffff70",
+      "extra": "",
+      "fansub": null,
+      "fansub_id": null,
+      "quality": "regular",
+      "language": "tr"
+    },
+    {
+      "id": 576841,
+      "player": "YOUTUBE",
+      "url": "https://youtube.com/embed/FUMxY-767OU",
+      "extra": null,
+      "fansub": null,
+      "fansub_id": null,
+      "quality": null,
+      "language": "en"
+    },
+    {
+      "id": 576840,
+      "player": "YOUTUBE",
+      "url": "https://youtube.com/embed/E4UYgWsiMqI",
+      "extra": null,
+      "fansub": null,
+      "fansub_id": null,
+      "quality": null,
+      "language": "en"
+    },
+    {
+      "id": 721844,
+      "player": "DOODSTREAM",
+      "url": "https://doodstream.com/e/ofqyz2580kvm",
+      "extra": "",
+      "fansub": null,
+      "fansub_id": null,
+      "quality": "regular",
+      "language": "tr"
+    }
+  ]
+}

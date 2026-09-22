@@ -1,0 +1,286 @@
+{
+  "id": 11307,
+  "name": "Delusional Monthly Magazine",
+  "name_english": "Delusional Monthly Magazine",
+  "name_romanji": "Gekkan Mousou Kagaku",
+  "original_title": "月刊モー想科学",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2024,
+  "release_date": "Thu Jan 11 2024 00:00:00 GMT+0000 (Coordinated Universal Time)",
+  "description": "Most City kasabasında eski bir binanın ikinci katında bir yayınevi bulunmaktadır. Personel, bilim adamlarının bile imkansız bulduğu en şok edici olaylar hakkında aylık bir bilim dergisi basıyor. Yakışıklı baş editör Taro'ya ilkokul öğrencisi Jiro ve köpeği Saburo yardımcı oluyor. Ancak bilim adamı Goro Sato'nun onlardan yardım istemesi yeni ve tuhaf bir hikayenin başlangıcını ateşler...",
+  "poster": "https://image.tmdb.org/t/p/original/jheWhgrMYXb9mvbnKwlQ83c2Skm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rkFpE2TWbOwwgF7TYsXPduGC80h.jpg",
+  "rating": 3.9,
+  "vote_count": 8,
+  "genres": [
+    3,
+    2,
+    1
+  ],
+  "tmdb_id": 236142,
+  "mal_id": 56691,
+  "anilist_id": null,
+  "imdb_id": "tt30494894",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 4916,
+      "season_number": 1,
+      "name": null,
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 207726,
+          "episode_number": 1,
+          "name": "Sayı 1: Şok ediciden Daha Fazlası! Taro'nun Dönüşümü!",
+          "description": "Sıradışı Aylık Moso Bilim dergisinin beceriksiz personelinin rutinleri, şanssız bir araştırmacı bilim adamının birdenbire ortaya çıkıp gizemli bir kayıp kıta hakkındaki gerçeği ortaya çıkarmak için kendilerinden yardım istemesiyle sarsılır.",
+          "release_date": "2024-01-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zYN81uJfI8eDNDcaDvs7gn5wM9t.jpg",
+          "videos": [
+            {
+              "id": 620622,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ac30c6b304d628d5f5512f",
+              "extra": "Yapay Çeviri",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 624726,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65c531d8b304d628d5f554a8",
+              "extra": "Yapay Çeviri",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 207727,
+          "episode_number": 2,
+          "name": "Sorun 2: Bir Durun, Neden Burada Çalışıyorsunuz?!",
+          "description": "Gizemli Mo Kıtası hakkında bilgi aramaya devam eden Goro Sato, alışılmadık şekilde parlayan bir kuyuya ilişkin garip söylentileri araştırmak için Monthly Moso Science ekibine katılır.",
+          "release_date": "2024-01-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zc341U5ob3XiWmB1AcuR1xHnCW1.jpg",
+          "videos": [
+            {
+              "id": 620629,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ac3433b304d628d5f55130",
+              "extra": "Yapay Çeviri",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 207728,
+          "episode_number": 3,
+          "name": "Sayı 3: Şarkı Söylemekten Daha Fazlası mı?! Müzikal Konuşma mı?",
+          "description": "Sonunda Moment Marriage, Taro ile olası bir eşleşmeyi keşfeder. Ne yazık ki randevu planları şarkı söylemeyi bırakamayan bir aktör tarafından sekteye uğrar.",
+          "release_date": "2024-01-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ny4XO8vPAEJQPwbBal5ItXs32g7.jpg",
+          "videos": [
+            {
+              "id": 621687,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65b4e289b304d628d5f5523b",
+              "extra": "Yapay Çeviri",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 207946,
+          "episode_number": 4,
+          "name": "Sayı 4: Korkunç Gizem?! Loch Nuss'un Sırrı",
+          "description": "Aylık Moso Science'ın yeni reklamverenlerini memnun etmek için büyük bir bilgiye ihtiyacı var ve sır, pitoresk Loch Nuss'un sularında gizleniyor olabilir.",
+          "release_date": "2024-02-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lcFgyTIleWSe8rv7oSy9ryw7YP8.jpg",
+          "videos": [
+            {
+              "id": 623549,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65bbeb02b304d628d5f553a6",
+              "extra": "Yapay Çeviri",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 207947,
+          "episode_number": 5,
+          "name": "Sorun 5: Neyden Üzülüyorsun?! Buz Prensi",
+          "description": "Goro, kazalara neden olduğu söylenen gizemli bir figür olan Otoyol Maskesi efsanesini araştırmaya kararlıdır. Bu sırada bir artistik patinaj antrenörü, patencilerinden birinin yaşadığı garip bir durum hakkında bilgi almak için kafeye gelir.",
+          "release_date": "2024-02-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/q70PJle077RkxYm8QXj7NSUfbiK.jpg",
+          "videos": [
+            {
+              "id": 624727,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65c53707b304d628d5f554a9",
+              "extra": "Yapay Çeviri",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 207948,
+          "episode_number": 6,
+          "name": "Onlardan bir sürü çete mi var? Burası Kedilerin Toplandığı Yer",
+          "description": "Romantik karşılaşmalarının alerjiler yüzünden mahvolmasından bıkan bir model, neden her gece evinin önünde sürüyle kedinin toplandığını araştırmak için Monthly Moso Science ile iletişime geçer.",
+          "release_date": "2024-02-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/l7fzLw7WbmsczlOxsPzBgFRIuVt.jpg",
+          "videos": [
+            {
+              "id": 626113,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ce591eb304d628d5f555eb",
+              "extra": "Yapay Çeviri",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 207949,
+          "episode_number": 7,
+          "name": "İşte o an! Bir Çöpçatanlık Partisi",
+          "description": "Taro'nun ev hanımı olma hayali, yalnızca VIP'lere özel bir çöpçatanlık etkinliğine davet aldığında her zamankinden daha yakın görünüyor. Ancak bir sorun var: Goro'yu da getirmesi gerekiyor. Bu sırada Beyaz Pegasus, kalan MOPart'ları çalmak için harekete geçer.",
+          "release_date": "2024-02-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/u4EissTeOqV9K54GmW8Ttx2nBoX.jpg",
+          "videos": [
+            {
+              "id": 627141,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65d83e3d35424e1e68a23a33",
+              "extra": "Yapay Çeviri",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 207950,
+          "episode_number": 8,
+          "name": "Vücut Hareket Ediyor! Bir Köpeği Yürütün, Daha Fazlası Takip Edecektir",
+          "description": "Beyaz Pegasus Şirketi, Most City'nin ilk köpek gösterisine sponsorluk yapıyor ve Monthly Moso Science'ın personeli kişisel olarak davet edildi. Saburo katılmaya tuhaf bir şekilde istekli görünüyor ama bu yarışmada göründüğünden daha fazlası var mı?",
+          "release_date": "2024-02-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/nGWKcDWWf35lb87pdEC8D9NJBpN.jpg",
+          "videos": [
+            {
+              "id": 628718,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65e0cf3571b8322dba0910ff",
+              "extra": "Yapay Çeviri",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 207951,
+          "episode_number": 9,
+          "name": "Gizemli Anlar! Genç Dahi'nin Geçmişi",
+          "description": "Edward Chi'nin Mo Kıtasına olan hayranlığının gizli kökeni şaşırtıcı bir bağlantıyı ortaya çıkarıyor...",
+          "release_date": "2024-03-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/uzU9EIla3bsGOneL6cpCm9PApNl.jpg",
+          "videos": [
+            {
+              "id": 630152,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65e9f80b99775ec0840007c6",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 207952,
+          "episode_number": 10,
+          "name": "Kutsal Moly! Mücadele ve Kıtasal Ayaklanma!",
+          "description": "Catherine, Goro'ya altı MOPart'ın tamamını sunar ve bunları kullanma kararını Monthly Moso ekibinin ellerine bırakır. Sonunda Mo Kıtası'nın gerçek doğası gün ışığına çıkabilir.",
+          "release_date": "2024-03-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ay5Xq58Dk1z7rD27epWvNx496W3.jpg",
+          "videos": [
+            {
+              "id": 631607,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65f3505999775ec084000851",
+              "extra": "Yapay Çeviri",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 207953,
+          "episode_number": 11,
+          "name": "Taşın! Catherine, Bizi Neden Uyarmadın?!",
+          "description": "Herkes yeni kurulan Mo Kıtası'na akın eder ve burada insanlığı yok etme gücüne sahip gelişmiş bir silahın olduğunu öğrenir.",
+          "release_date": "2024-03-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wntcZgLZm9AoSnDCyfPbLzlWGia.jpg",
+          "videos": [
+            {
+              "id": 633080,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65fdad9e926a0f406b38aff0",
+              "extra": "Yapay Çeviri",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 207954,
+          "episode_number": 12,
+          "name": "İnanılmaz Dünya Hareket Halinde!",
+          "description": null,
+          "release_date": "2024-03-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/epYi4P6tuEHzA7k0msxIBbg8Us1.jpg",
+          "videos": [
+            {
+              "id": 633997,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/660726db9d06b7019e4f9ec2",
+              "extra": "Yapay Çeviri",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

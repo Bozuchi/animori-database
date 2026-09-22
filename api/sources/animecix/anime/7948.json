@@ -1,0 +1,635 @@
+{
+  "id": 7948,
+  "name": "Gamers!",
+  "name_english": "GAMERS!",
+  "name_romanji": "GAMERS!",
+  "original_title": "ゲーマーズ！",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2017,
+  "release_date": "2017-07-13",
+  "description": "Bu, bazı öğrenciler ve bir hobi etrafında dönen bir hikaye. Amano Keita, oyun oynamak için bir tutkumuz olan ve gizli bir şekilde oyun oynayan ve hayatının mükemmel olduğuna inanan biri olan Uehara Tasuku ile arkadaş olan yalnız kahramanımız. Ayrıca, video oyunları kulübünün kulüp başkanı Karen Tendou ve sürekli Keita ile birlikte oynayan Chiaki Hoshinomori var. Bu, komedi sahneleri ve yanlış anlamalar dizisi ile dolu bir hikaye. Artık kaotik romantik komedimiz başlıyor!",
+  "poster": "https://image.tmdb.org/t/p/original/2VjS9XA68JUPBUFsX9NTuXBqR9e.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jOYKCwg0jR0IEdUpaWYXAjEVfyn.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    4
+  ],
+  "tmdb_id": 72426,
+  "mal_id": 34280,
+  "anilist_id": 0,
+  "imdb_id": "tt7163698",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 1533,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 138514,
+          "episode_number": 1,
+          "name": "Keita Amano ve Seçilmiş Bölümler",
+          "description": "Oyun meraklısı Amano Keita, okulun en sevimli kızı Tendo Karen tarafından oyun kulübüne katılmaya davet edildi. Kulüpteki insanlar havalı görünüyor, ama ...",
+          "release_date": "2017-07-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/s550l9rtNh1MAhNwjUgJZo8fWjW.jpg",
+          "videos": [
+            {
+              "id": 596761,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/652bc97e500b95f594abc033",
+              "extra": "Fatality",
+              "fansub": "Fatality",
+              "fansub_id": 552,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 596767,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5281743",
+              "extra": "Fatality",
+              "fansub": "Fatality",
+              "fansub_id": 552,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 232912,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-bs3vh8dz9v5m.html",
+              "extra": "Fatality",
+              "fansub": "Fatality",
+              "fansub_id": 552,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 232915,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/ugg7c9ugwexz.html",
+              "extra": "Fatality",
+              "fansub": "Fatality",
+              "fansub_id": 552,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 138515,
+          "episode_number": 2,
+          "name": "Tasuku Uehara ve Yeni Oyun +",
+          "description": "Keita, Karenin oyun kulübüne davetini reddettiği için eleştirilir. Bir an için Keita tüm sınıfı düşmanı yapmış gibi görünüyor, ancak Tasuku bu çoğunluğa katılmak istemiyor gibi görünüyor.",
+          "release_date": "2017-07-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/5QWDUF3QJAsMxKYeSZ0VwuYXDvd.jpg",
+          "videos": [
+            {
+              "id": 596768,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/652bca92de079f024848263e",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 596774,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5281753",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 232916,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-drznhjjpwwwr.html",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 232919,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/u3y6azor52dd.html",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 138516,
+          "episode_number": 3,
+          "name": "Chiaki Hoshinomori ve StreetPass İletişimi",
+          "description": "Tasuku, Keitayı başka bir oyuncu olan Chiaki ile arkadaş olmaya ikna etmeye çalışır. Bunu başarırlar ve Karen Tendo için büyük bir sefalete yol açar.",
+          "release_date": "2017-07-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bakpkrjOlml0Scgdvld2EHM738.jpg",
+          "videos": [
+            {
+              "id": 596782,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/652bcde5de079f024848263f",
+              "extra": "LowSubs",
+              "fansub": "LowSubs",
+              "fansub_id": 266,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 596788,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5281830",
+              "extra": "LowSubs",
+              "fansub": "LowSubs",
+              "fansub_id": 266,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 232920,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-x5pv6xxi8y23.html",
+              "extra": "LowSubs",
+              "fansub": "LowSubs",
+              "fansub_id": 266,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 232923,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/7bedrwzfq2tn.html",
+              "extra": "LowSubs",
+              "fansub": "LowSubs",
+              "fansub_id": 266,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 138517,
+          "episode_number": 4,
+          "name": "Karen Tendo ve Çöküş Günleri",
+          "description": "Karen Tendo, Chiaki ve Keita arkadaş olduklarından beri işin dışındadır. Kasabada Keita ile karşılaşır ve birlikte \"yürüyüşe\" çıkarlar.",
+          "release_date": "2017-08-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/yRC0lUOls7B9kizN4YED6FzjiMT.jpg",
+          "videos": [
+            {
+              "id": 596775,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/652bcb92500b95f594abc034",
+              "extra": "LowSubs",
+              "fansub": "LowSubs",
+              "fansub_id": 266,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 596781,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5281775",
+              "extra": "LowSubs",
+              "fansub": "LowSubs",
+              "fansub_id": 266,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 232924,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-lr47bisvs5d3.html",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 232927,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/w9tfdrdjrp2o.html",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 138518,
+          "episode_number": 5,
+          "name": "Aguri ve İletişim Hatası",
+          "description": "Tasuku, Chiaki ve Keita arasındaki şaşırtıcı bağlantıları bir araya getirir. Bu arada, bu bağlantılara sahip olduklarının farkında bile olmayan Chiaki ve Keita, görünüşte uzlaşmaz farklılıklara sahip olduklarını keşfederler.",
+          "release_date": "2017-08-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/nBdSNemSWg6NBvBNh1FFGqjSYt2.jpg",
+          "videos": [
+            {
+              "id": 596789,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/652bd040500b95f594abc035",
+              "extra": "LowSubs",
+              "fansub": "LowSubs",
+              "fansub_id": 266,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 596795,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5281875",
+              "extra": "LowSubs",
+              "fansub": "LowSubs",
+              "fansub_id": 266,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 232928,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-panxn07hcdci.html",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 232931,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/o9a08n9jx1d8.html",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 138519,
+          "episode_number": 6,
+          "name": "Karen Tendo ve Surprise \"Happy End\" (Gamers and Wipeout \"Game Over\")",
+          "description": "Aguri ve Keita, bir randevu gibi görünen bir olayda Chiaki ve Tasukuyu keşfeder. Aguri yıkılır, ancak hem o hem de Tasuku, Keitanın Karenla birlikte hareket etmesine yardım etmeye bağımsız olarak karar verir.",
+          "release_date": "2017-08-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vDLd7dRBaVWTBIcG2v9wmcHeylF.jpg",
+          "videos": [
+            {
+              "id": 596796,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/652bd2cb500b95f594abc036",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 596802,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5281899",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 232932,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-l962nq1i7tbf.html",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 232935,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/n9n1dhchpk9v.html",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 138520,
+          "episode_number": 7,
+          "name": "Keita Amano ve Karenin En İyi Eğlencesi",
+          "description": "Karen, Keitayı bir randevuya davet eder. Bu uzun zaman alır.",
+          "release_date": "2017-08-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1riO8Wu6SUL08jKgkERp53hOlGd.jpg",
+          "videos": [
+            {
+              "id": 596803,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/652bd3da500b95f594abc037",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 596809,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5281908",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 232936,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-nl8bm859eh4c.html",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 232939,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/zrlv1p4c2qsh.html",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 138521,
+          "episode_number": 8,
+          "name": "Erogamer ve İzleme Modu / Oyuncular ve Hayatlarının Yarısı Oyunu",
+          "description": "Oyuncular Buluşması, Chiakinin evinde bir masa oyunu oynamak için bir araya gelir. Görünüşe göre, çetenin birbirleriyle olan ilişkisi hakkında bir şeyler açığa çıkarıyor - veya hatta tahmin ediyor -.",
+          "release_date": "2017-08-31T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/59CCyM0WaZ3eHnbskMJdwbtAoNz.jpg",
+          "videos": [
+            {
+              "id": 596817,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/652bd60ede079f0248482640",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 596823,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5281930",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 232940,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-nh9iitlh7iw0.html",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 232943,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/96we273ncxa0.html",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 138522,
+          "episode_number": 9,
+          "name": "Chiaki Hoshinomori ve Hesap Hack",
+          "description": "Başından beri Keitanın oyunlarının bir numaralı hayranı olduğunu ve aynı zamanda bir MMOdaki en iyi arkadaşı olduğunu öğrendikten sonra, Chiakinin ona karşı hisleri biraz karmaşık olmanın ötesine geçti.",
+          "release_date": "2017-09-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jDTHzYDq2qJT2zmX8k4qr1TWWVV.jpg",
+          "videos": [
+            {
+              "id": 596810,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/652bd4e4500b95f594abc038",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 596816,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5281922",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 232944,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-vgbkfjvmamj9.html",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 232947,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/2lzwg9wuty5g.html",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 138523,
+          "episode_number": 10,
+          "name": "Oyuncular ve Sonraki Aşama",
+          "description": "Chiaki, Tasukunun kendisine itiraf ettiğine inanmaya yönlendirilir. Gerginliğin giderek artmasıyla birlikte Keita, sonunda her şeyi yoluna koyma niyetini duyurmak için Buluşma çetesini toplar, ancak Keitas bunu düzeltir.",
+          "release_date": "2017-09-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/x7EAIRfSzyOeY4oWkthTjfVlNg5.jpg",
+          "videos": [
+            {
+              "id": 596824,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/652bd72b500b95f594abc039",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 596830,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5281942",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 232948,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-the185twzx7q.html",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 232951,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/sey79o223u4u.html",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 138524,
+          "episode_number": 11,
+          "name": "Oyuncular ve Gençler Devam Ediyor",
+          "description": "Tasuku ve Karen, arkadaşlıklarının daha büyük bir potansiyele sahip olmasından korktukları Aguri ve Keitayı ayırmaya çalışmak için çifte randevu planları yapar.",
+          "release_date": "2017-09-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2qSLBxNDqVMh2NPbo9FPaBZxH1F.jpg",
+          "videos": [
+            {
+              "id": 596831,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/652bd875500b95f594abc03a",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 596837,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5281953",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 232952,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-odyd9l4w9j46.html",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 232955,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/hybpxzvl222u.html",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 138525,
+          "episode_number": 12,
+          "name": "Oyuncular ve Faturalama Sistemi Konuşması",
+          "description": "Ekip, kaplıcalara yönelir. Agurinin oyunculara ve oyun endüstrisine yönelik bazı delici eleştirileri var.",
+          "release_date": "2017-09-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sSe2WTVhMWvG9rxcS6sXU4XzWgo.jpg",
+          "videos": [
+            {
+              "id": 596838,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/652bd9a7500b95f594abc03b",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 596844,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5281965",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 232956,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-sqwi4vi61ajd.html",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 232959,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/oxrhwtn8c18e.html",
+              "extra": "ApexFulm / Ynssr",
+              "fansub": "ApexFulm",
+              "fansub_id": 794,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "id": 12745,
+  "name": "Let's Play",
+  "name_english": "Let's Play",
+  "name_romanji": "Let's Play: Quest-darake no My Life",
+  "original_title": "Let's Play クエストだらけのマイライフ",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2025,
+  "release_date": "Thu Oct 02 2025 00:00:00 GMT+0000 (Coordinated Universal Time)",
+  "description": "Samara \"Sam\" Young, Los Angeles'ta yaşayan ve ilk video oyunu Ruminate ile hayallerine ulaşmak üzere olan bir geliştiricidir. Ta ki popüler bir yayıncı oyuna sert bir inceleme yapana kadar. Daha da kötüsü Sam, baş belası eleştirmenin artık yeni komşusu olduğunu öğrenir! Oyunlar, memler ve sosyal kaygı hakkında komedi, romantik ve fazlasıyla gerçek bir hikayede kaybolun. Olay örgüsü için gel, doggo için kal.",
+  "poster": "https://image.tmdb.org/t/p/original/tJbyOYE4befDE7SgV03aJzxt8Ja.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cG0aOH5hyqA81VfXMgMrkHB8BCe.jpg",
+  "rating": 7.1,
+  "vote_count": 16,
+  "genres": [
+    3,
+    4
+  ],
+  "tmdb_id": 293010,
+  "mal_id": 61773,
+  "anilist_id": null,
+  "imdb_id": "tt37532040",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 5956,
+      "season_number": 1,
+      "name": null,
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 254247,
+          "episode_number": 1,
+          "name": "Hayat S-Seviyesidir",
+          "description": "Sam, tutkusu video oyunları ve onları çevreleyen her şey olan sıradan bir genç kadındır.",
+          "release_date": "2025-10-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/hnxHbRQ4F7uiCUaSbQYBHo4JxJE.jpg",
+          "videos": [
+            {
+              "id": 733820,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6903b70fe926f7cb6dd49e7d",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 733821,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/yvti8y26noep",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 733822,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-f8n7vj9blxxu.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 255866,
+          "episode_number": 2,
+          "name": "Ben N00b'yim",
+          "description": "Sam'in bağımsız oyunu, bir yayıncının olumsuz bir inceleme yayınlamasının ardından inceleme bombardımanına uğradı.",
+          "release_date": "2025-10-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/g4SxsOKo6bvkQf1e1uhSGgC22yT.jpg",
+          "videos": [
+            {
+              "id": 731934,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68e84523f4be77412d824ced",
+              "extra": "Yapay Çeviri ",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731935,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/0ol6y4br15n7",
+              "extra": "Yapay Çeviri ",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731936,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ixsz4xop8c84.html",
+              "extra": "Yapay Çeviri ",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 255867,
+          "episode_number": 3,
+          "name": "Loncanın Birliği",
+          "description": "Sam, Marshall'ın evine Ruminat yaptığını söylemek için gider ama onu kapıda muhteşem bir kadın karşılar.",
+          "release_date": "2025-10-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4vknBBl3BTNjO8V4HrLAZ80CKXP.jpg",
+          "videos": [
+            {
+              "id": 732661,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68f2cac208b60ac8219a38c8",
+              "extra": "Yapay Çeviri",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 732662,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-s274p1q4tiqd.html",
+              "extra": "Yapay Çeviri",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 256520,
+          "episode_number": 4,
+          "name": "Cadı, Büyücü, Kılıç Ustası ve Canavarların Kralı",
+          "description": "Marshall, Sam'in oyun geliştirme hayallerini mahvettiği için kendini suçlu hisseder, ancak özür dileme girişimleri başarısız olur.",
+          "release_date": "2025-10-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/6SoVTZIp2qEX9oJ9yAgviRE7IbM.jpg",
+          "videos": [
+            {
+              "id": 733454,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68fe2f24e926f7cb6dd49e65?vid=733454",
+              "extra": "subtitle by geze",
+              "fansub": "subtitle by geze",
+              "fansub_id": 2372,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 733455,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/n31rl3748lfb",
+              "extra": "subtitle by geze",
+              "fansub": "subtitle by geze",
+              "fansub_id": 2372,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 733456,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-hfakddcpt7iw.html",
+              "extra": "subtitle by geze",
+              "fansub": "subtitle by geze",
+              "fansub_id": 2372,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 256521,
+          "episode_number": 5,
+          "name": "Soymak",
+          "description": "Sam, Marshall'ın geçmişini öğrenir ve geleceği için endişelenirken kendi hayalleri ve işi hakkında düşünür.",
+          "release_date": "2025-10-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/yayAnKYuBSyGv1Bsv4p04P5av6h.jpg",
+          "videos": [
+            {
+              "id": 733850,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6903d599d7afcdac3956585a",
+              "extra": "subtitle by geze",
+              "fansub": "subtitle by geze",
+              "fansub_id": 2372,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 733849,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-xbyn2qr951y0.html",
+              "extra": "subtitle by geze",
+              "fansub": "subtitle by geze",
+              "fansub_id": 2372,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 733851,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/b1aidxsx0csm",
+              "extra": "subtitle by geze",
+              "fansub": "subtitle by geze",
+              "fansub_id": 2372,
+              "quality": "1080p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 256522,
+          "episode_number": 6,
+          "name": "ADS - Aşağı Görüşleri Hedefleyin -",
+          "description": "Link ve Sam, köpek parkında Monica ve Marshall'la karşılaşır. Bu sırada Charles geçmişteki bir olayı hatırlamaktadır.",
+          "release_date": "2025-11-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tBdcdF6XWDqbqshMtzjLqr62xlr.jpg",
+          "videos": [
+            {
+              "id": 735577,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/691f64c2c92cb30663733988",
+              "extra": "subtitle by geze",
+              "fansub": "subtitle by geze",
+              "fansub_id": 2372,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 735578,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/k6okxuquu624",
+              "extra": "subtitle by geze",
+              "fansub": "subtitle by geze",
+              "fansub_id": 2372,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 735579,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-4an3c5lm6u7d.html",
+              "extra": "subtitle by geze",
+              "fansub": "subtitle by geze",
+              "fansub_id": 2372,
+              "quality": "1080p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 257489,
+          "episode_number": 7,
+          "name": "İyi Oyun",
+          "description": "Sam işe gelir ve masasının tamamen boş olduğunu görünce umutsuzluğa kapılır.",
+          "release_date": "2025-11-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7Gve9Q6ULxqz8QUPxVoNmAG551A.jpg",
+          "videos": [
+            {
+              "id": 735586,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/691f7276c92cb30663733989",
+              "extra": "subtitle by geze",
+              "fansub": "subtitle by geze",
+              "fansub_id": 2372,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 735587,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/plijg2dzw2cy",
+              "extra": "subtitle by geze",
+              "fansub": "subtitle by geze",
+              "fansub_id": 2372,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 735588,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-h1c877uqa4rn.html",
+              "extra": "subtitle by geze",
+              "fansub": "subtitle by geze",
+              "fansub_id": 2372,
+              "quality": "1080p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 257490,
+          "episode_number": 8,
+          "name": "Hayatta değil",
+          "description": "Marshall'ın sağlığı kötüleşiyor ve yayın akışını etkiliyor. Monica, Sam'e bir videoda yer almasını ister.",
+          "release_date": "2025-11-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/w09GLZKu4Ntj3qgmfg7799ver9x.jpg",
+          "videos": [
+            {
+              "id": 735592,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/691f81d48f1b7fd438f1c27f",
+              "extra": "subtitle by geze",
+              "fansub": "subtitle by geze",
+              "fansub_id": 2372,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 735593,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/u186t0fga914",
+              "extra": "subtitle by geze",
+              "fansub": "subtitle by geze",
+              "fansub_id": 2372,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 735594,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-yl2gqxakrokw.html",
+              "extra": "subtitle by geze",
+              "fansub": "subtitle by geze",
+              "fansub_id": 2372,
+              "quality": "1080p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 257491,
+          "episode_number": 9,
+          "name": "Tekrar oynat",
+          "description": "Marshall, Sam'e verdiği sözü yerine getirir ve Ruminat'ı yeniden oynamaya başlar.",
+          "release_date": "2025-11-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/hOjrsCN0gv5EPDUaKFRP8SDJ4CH.jpg",
+          "videos": []
+        },
+        {
+          "id": 257492,
+          "episode_number": 10,
+          "name": "Ruminasyon Yolculuğu",
+          "description": "Marshall, Ruminat dünyasından büyüleniyor. Bu sırada Sam, Charles'la bir iş toplantısına katılır.",
+          "release_date": "2025-12-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ruk28kaiP4VOXeulL0o6x77WkpK.jpg",
+          "videos": []
+        },
+        {
+          "id": 257493,
+          "episode_number": 11,
+          "name": "Ozan",
+          "description": "Marshall, bir ejderhayı yok etme görevinde bir şövalyeye katılır. Sam, Link'le olan ilişkisi konusunda endişelenir.",
+          "release_date": "2025-12-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/6lHEcf9qr6Vo4mRW9LwaUaa8iP.jpg",
+          "videos": []
+        },
+        {
+          "id": 257494,
+          "episode_number": 12,
+          "name": "DEVAM ETMEK",
+          "description": "Marshall, Ruminat'ı tamamladıktan sonra aniden yere yığılır ve hastaneye kaldırılır.",
+          "release_date": "2025-12-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wTxbIPirimTdGxAIYVS74Fe4PWv.jpg",
+          "videos": []
+        }
+      ]
+    }
+  ]
+}

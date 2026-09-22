@@ -1,0 +1,473 @@
+{
+  "id": 12353,
+  "name": "Moyashimon",
+  "name_english": "Moyashimon",
+  "name_romanji": "Moyashimon",
+  "original_title": "もやしもん",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2007,
+  "release_date": "Fri Oct 12 2007 00:00:00 GMT+0000 (Coordinated Universal Time)",
+  "description": "Tarım Üniversitesi'ne kaydolan Tadayasu Sawaki'nin hayatını izleyin ve yalnızca kendisinin çıplak gözle görebildiği bakteri ve virüsler hakkında bilgi edinin.",
+  "poster": "https://image.tmdb.org/t/p/original/A8swodH66BGLr8vLRFdZ4mQQvEN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qddzr6Czaa6SYV6sz6UqUg9BpAx.jpg",
+  "rating": 5.9,
+  "vote_count": 17,
+  "genres": [
+    3,
+    4,
+    5
+  ],
+  "tmdb_id": 27977,
+  "mal_id": 3001,
+  "anilist_id": null,
+  "imdb_id": "tt1143514",
+  "season_count": 2,
+  "seasons": [
+    {
+      "id": 5857,
+      "season_number": 1,
+      "name": null,
+      "episode_count": 11,
+      "episodes": [
+        {
+          "id": 237594,
+          "episode_number": 1,
+          "name": "Tarım Bakterileri Masalı",
+          "description": "Tadayasu ve Kei'nin üniversite hayatının ilk günüdür. Tadayasu, Profesör Itsuki ve Haruka'ya yeteneğini gösterir. Tadayasu'nun havada meyve yiyenleri fark etmesiyle yetenek gösterisi yarıda kesilir.",
+          "release_date": "2007-10-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bomBwxrkPxt35k0dXKKnZ5InBKv.jpg",
+          "videos": [
+            {
+              "id": 719251,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68329867f8146af586df9f19",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 719252,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/gjz1d0c40nv8",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 237595,
+          "episode_number": 2,
+          "name": "Üç Milyar Yenlik Aggie Life",
+          "description": "Tadayasu ve Kei meyve yiyenleri takip eder ve dökülmüş şımarık sake deposunu bulur. Onları yurt odalarına davet eden failler Kaoru ve Takuma ile tanışırlar.",
+          "release_date": "2007-10-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/3JPA4Y6kT6GHXvUs76NItUXDBU7.jpg",
+          "videos": [
+            {
+              "id": 719254,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68329900f8146af586df9f1a",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 719255,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/2lf79pfjb8t2",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 237596,
+          "episode_number": 3,
+          "name": "Haydi Mikroplarla Demleyelim!",
+          "description": "Hazuki Oikawa tanıtıldı. Kaoru ve Takuma'nın yurt odasına gelir ve yetiştirmeyi planladıkları bakterileri öldürür. Herkes, Profesör Itsuki ve Haruka'nın onlara eğitim amaçlı nasıl sake yapılacağını gösterdikleri laboratuvara çağrılır.",
+          "release_date": "2007-10-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/mgdYe8DU0sMsXKzMDUPAGYbVAdP.jpg",
+          "videos": [
+            {
+              "id": 719257,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6832999cf8146af586df9f1b",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 719258,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/41db41uv1bb0",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 237597,
+          "episode_number": 4,
+          "name": "Her Yer Mikrop Partisi",
+          "description": "İlk yıllar kampüs turu ve pikniğe davet edilir. Tadayasu, yiyeceklerdeki zararlı bakterileri tespit ederek herkesi E. coli gıda zehirlenmesinden kurtarıyor.",
+          "release_date": "2007-11-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/iWf1LiobIPA9FvjPIVMNUIbNysP.jpg",
+          "videos": [
+            {
+              "id": 719260,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68329a39f8146af586df9f1c",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 719261,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/bqbxo3emgpbx",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 237598,
+          "episode_number": 5,
+          "name": "Tuhaf! Mikrop Canavarı",
+          "description": "Tadayasu mikroplarla kaplı bir adam görünce tiksinti duyar. Profesör Itsuki herkesten okulun yakınındaki Hiyoshi İçki Mağazasından içki almasını ister. Tadayasu, sahibinin lezzetli sake yapan mikrop canavarı olduğunu keşfeder.",
+          "release_date": "2007-11-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dYsyyRUzyROVrbu60TYynrtvLz9.jpg",
+          "videos": [
+            {
+              "id": 719263,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68329ad9f8146af586df9f1d",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 719264,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/tnkx1abj55xv",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 237599,
+          "episode_number": 6,
+          "name": "Büyüleyici! Bayan Tarım",
+          "description": "Aoi Mutō uzun bir yolculuktan fermente et getirerek döner. Ayrıca Vibrio parahaemolyticus, El Tor, Shigelladysenteriae, Salmonella enterica ve Plesiomonas shigelloides'i de getiriyor. Aoi, dezenfekte edildikten sonra Tadayasu'yu, tüm üyelerin hasta olduğu ve domuzlar ve tavuklarla istemeden yeni grip türlerini yetiştirdiği UFO kulübü odasına getirir.",
+          "release_date": "2007-11-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cqP8uPM2GbaxTvzA6XPrPnyojYt.jpg",
+          "videos": [
+            {
+              "id": 719266,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68329b7ef8146af586df9f1e",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 719267,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/cvkfzcuv8vxk",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 237600,
+          "episode_number": 7,
+          "name": "Perdeyi Kaldırıyoruz! Ziraat Üniversitesi Bahar Şenliği",
+          "description": "Bahar tarım festivali başladı ve bu, bu süre zarfında kampüsün kapalı olduğu ve öğrencilerin okul parasıyla gerçek parayı takas etmeleri gerektiği anlamına geliyor, ancak festival sona erdiğinde okul parası değersiz hale gelir ve gerçek parayla geri değiştirilemez. Ayrıca öğrencilerin kendi başlarına keşfetmeleri gereken etkinlikle ilgili birçok özel kural vardır.",
+          "release_date": "2007-11-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1cpFtfVLG5oaXxNWhmzFEJv4k9i.jpg",
+          "videos": [
+            {
+              "id": 719269,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68329c18f8146af586df9f1f",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 719270,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/5kp4egq28nqe",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 237601,
+          "episode_number": 8,
+          "name": "Ziraat Üniversitesi Ana Kapı Ele Geçirme Planı",
+          "description": "Bahar tarım festivalinin üçüncü günü olan öğrenciler, festivalin sonlandırılması için direniş oluşturuyor. Öğleden sonra 4:00'te öğrenciler bir savaşa girmek için ön kapıya doğru hücum ederler ve bu süre zarfında Kaoru, Takuma ve Tadayasu, kapının önündeki robotu devirmek ve festivali etkin bir şekilde bitirmek için birlikte çalışırlar. Karşılığında, Profesör Itsuki'nin afrodizyağını almak için kullandıkları 100.000 okul yenini alırlar. Kızlardan birinin afrodizyağını almasını sağlamaya çalışırlar, ancak Haruka, görünüşte bunların etkilerine karşı bağışıklığı olan hepsini kendi üzerinde kullanarak planlarını bozar. Oikawa ve Mutō profesörün kendisinden biraz alır ve sonuç olarak birbirleriyle yatarlar.",
+          "release_date": "2007-11-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9qLtDeyaVvRB0MzVCI29hIBWCCA.jpg",
+          "videos": [
+            {
+              "id": 719272,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68329cb7f8146af586df9f20",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 719273,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/hwub6htu1tls",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 237602,
+          "episode_number": 9,
+          "name": "Yumuşak Tenine Tutun",
+          "description": "Profesör Itsuki, Kaoru ve Takuma'nın yarı zamanlı iş bulmasını kutlar ve bu parti sırasında herkesi kötü kokulu surströmming ile tanıştırır. Daha sonra Haruka, babası ve nişanlısıyla özel bir akşam yemeğine çağrılır, ancak dakikalar önce Haruka tarafından kovulmadan önce aslında restoranda çalışan Kaoru ve Takuma'nın onu akşam yemeğinden çıkaracak bir şeyler düşünmesini sağlar. Bir kutu surströmming getiren Tadayasu'yu çağırırlar; Kutu açıldıktan sonra Kaoru ve Takuma, kafa karışıklığı içinde Haruka'yı dışarı çıkarır ve bir bara gider.",
+          "release_date": "2007-12-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/mQwFCLB5VPxFmJDYBZfSNfuPbiE.jpg",
+          "videos": [
+            {
+              "id": 719275,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68329d59f8146af586df9f21",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 719276,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ih6jnofjh0k6",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 237603,
+          "episode_number": 10,
+          "name": "Gotik Lolita Öpücüğü",
+          "description": "Kei'yi bir süre görmeyen Tadayasu, Hiyoshi'nin içki dükkanında çalıştığını ve üstüne bir de Gotik Lolita gibi giyindiğini keşfeder. Kei beklenmedik bir şekilde Tadayasu'yu öper ve ardından Tadayasu artık mikropları göremediğini keşfeder. Bu daha önce de olmuştu ama Haruka bunu öğrenir ve yeteneğini kaybettiği konusunda onunla yüzleşir.",
+          "release_date": "2007-12-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fQbb2Vh67AcEcydZCMb7mbgFsV6.jpg",
+          "videos": [
+            {
+              "id": 719278,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68329e05f8146af586df9f22",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 719279,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/dwh9twx3qfvg",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 237604,
+          "episode_number": 11,
+          "name": "Parlayan Bakterilerin Geleceği",
+          "description": "Haruka, mikropları görme yeteneği olmadığı için artık üniversitede olması için pek bir neden kalmadığını düşünüyor, ancak Kaoru ve Takuma onu destekliyor. Tadayasu, Kei'den tavsiye ister ve bu süreçte Kei'nin geçmişte kadınsı olarak adlandırıldığı için kızmasına rağmen, aslında cinsiyet kimliği konusunda kendine karşı tamamen dürüst olmadığına karar verdiğini öğrenir. Haruka daha sonra Tadayasu ile barışır ve o sırada Tadayasu mikropları görme yeteneğini yeniden kazanır.",
+          "release_date": "2007-12-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ks3p1R6VSPj5kxM4I7SCvE0JUUL.jpg",
+          "videos": [
+            {
+              "id": 719281,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68329ea3f8146af586df9f23",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 719282,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/mh7sxlasp1n3",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5858,
+      "season_number": 2,
+      "name": null,
+      "episode_count": 11,
+      "episodes": [
+        {
+          "id": 237583,
+          "episode_number": 1,
+          "name": "Kalk Moyaşimon!",
+          "description": "Profesör Itsuki, farklı fermantasyon ürünlerinin oluşturulması için öğrencileri iki gruba ayırıyor. Oikawa, daha sonra artık orada olmayan gizli bir giriş keşfeder. Diğerlerinin ondan bir şeyler sakladığından şüphelenmeye başlar.",
+          "release_date": "2012-07-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7voAyVL7A33KPfBW61DFuObonF4.jpg",
+          "videos": []
+        },
+        {
+          "id": 237584,
+          "episode_number": 2,
+          "name": "Fermantasyon Mahzeni",
+          "description": "Tadayasu, gizemli kapı hakkındaki gerçeği bulmak için Oikawa ile iş birliği yapar. Haruka ise babası tarafından, araştırmasını tamamlaması ve kendisine verdiği sözü yerine getirmesi için zamanının dolduğu konusunda uyarılır.",
+          "release_date": "2012-07-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/6vmW7PZXmQd7vFwWdOwQosNppcd.jpg",
+          "videos": []
+        },
+        {
+          "id": 237585,
+          "episode_number": 3,
+          "name": "Oikawa Takımı",
+          "description": "Haruka, babasının talepleri konusunda endişelenirken Tadayasu ve diğerleri, Hiyoshi'nin yenilenen içki dükkânını ziyaret eder ve gizli kapının arkasında ne olduğunu öğrenir. Oikawa, bunca çabanın ardından önemli bir şey bulamayınca bunalıma girer ve Tadayasu onu neşelendirmek için sırrını ona açıklamaya karar verir.",
+          "release_date": "2012-07-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/k7pHTVHdx3Wawu0kuOM6D7aEGFw.jpg",
+          "videos": []
+        },
+        {
+          "id": 237586,
+          "episode_number": 4,
+          "name": "Değişim Sonbaharı",
+          "description": "Tadayasu sırrını Oikawa'ya itiraf eder ama o ona hiç inanmaz. Haruka, istifa mektubunu Mutō'nun ellerine bırakan babası tarafından alınır. Haruka nişanlısıyla birlikte kendi isteği dışında bir geziye çıkarken öğrenciler yaklaşan Hasat Festivali için hazırlık yapmaya başlar. Oikawa ve Mutō, çocuklara Haruka'nın ani ortadan kayboluşuyla ilgili gerçeği söylemekten kaçınır.",
+          "release_date": "2012-07-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/v7TyIOvVI3wvz5FEeDAU2YI7UIL.jpg",
+          "videos": []
+        },
+        {
+          "id": 237587,
+          "episode_number": 5,
+          "name": "Hasat Festivali",
+          "description": "Hasat Festivali başlıyor. Misato ve Kawahama, Büyük Ödülü kazanmak için şüpheli taktiklere başvurarak bir Tekila standı kurarken Tadayasu ve diğerlerini müşterilerle kendi başlarına ilgilenmeye bırakır. Bu sırada Profesör Itsuki, Haruka'yı üniversiteye geri getirmek için harekete geçer.",
+          "release_date": "2012-08-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kmpdZQGXw4h1kbQd1RCCpGR31Zp.jpg",
+          "videos": []
+        },
+        {
+          "id": 237588,
+          "episode_number": 6,
+          "name": "Ekip çalışması",
+          "description": "Hasat Festivali devam ederken Tadayasu, Haruka'nın yokluğunun nedenini öğrenirken babası Profesör Itsuki'nin tuzağına düşer. Misato ve Kawahama'nın büyük planı başarılı olur, ancak parayı saklamak yerine Mutō ve Tadayasu'nun Fransa'da Haruka'yı aramaları için uçak bileti almaya karar verirler.",
+          "release_date": "2012-08-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7HWSahWhblDSywRAJM8FHBl54i5.jpg",
+          "videos": []
+        },
+        {
+          "id": 237589,
+          "episode_number": 7,
+          "name": "Kafesteki Kuş",
+          "description": "Misato ve Kawahama'nın Hasat Festivali sırasındaki tuhaflıkları onlara 20 günlük uzaklaştırma cezasına mal olur ve Profesör Itsuki, Tadayasu'nun Paris'te Haruka'yı arayışına onlara eşlik etme fırsatını yakalar. Sawaki'nin itirazlarına rağmen üçlü, tüm paraları bitene kadar şehirde şakalaşır ve ancak o zaman sonunda onu aramaya başlarlar. Onun başkentten çok uzakta, Mont Saint-Michel'in eteklerinde olduğunu pek bilmiyorlar.",
+          "release_date": "2012-08-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2Y6TD3NDxhTd1Wwx4T9xXIk19DS.jpg",
+          "videos": []
+        },
+        {
+          "id": 237590,
+          "episode_number": 8,
+          "name": "Evlilik",
+          "description": "Burgonya'da Haruka'yı ararken Sawaki ve arkadaşları. Aynı zamanda Japonca konuşan ve Yuuki'ye çarpıcı bir benzerliği olan Fransız bir kız olan Marie'ye rastlarsınız. Üçlü, Marie tarafından evinde düzenlenen özel bir ziyafette garson olarak çalışmak üzere görevlendirilir ve onları şaşırtacak şekilde, sonunda bu etkinlikte Haruka ile tanışırlar.",
+          "release_date": "2012-08-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tUxwrU2IoR2jJdTpyVPyWslOgz0.jpg",
+          "videos": []
+        },
+        {
+          "id": 237591,
+          "episode_number": 9,
+          "name": "Route des Grand Crus'ta",
+          "description": "Haruka, Misato ve Kawahama'dan kendisini Japonya'ya geri götürmelerini ister, ancak nişanlısının refakatçileri onu ararken, onlardan kaçmak için farklı yollara gitmeye karar verirler. Sawaki, Marie'nin bu konudaki hayatı konusunda çok hevesli olmasına rağmen ailesinin şarap imalathanesini miras alma konusundaki isteksizliği konusunda Marie'yle yüzleşirken, Misato ve Haruka takipçilerinden kaçmayı başarır ve şaşırtıcı bir şekilde birlikte kaliteli zaman geçirmeyi başarır.",
+          "release_date": "2012-08-31T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jNwixBillrWvcr1dnUkYiI35GJO.jpg",
+          "videos": []
+        },
+        {
+          "id": 237592,
+          "episode_number": 10,
+          "name": "Yanlış anlamalar",
+          "description": "Sawaki ve diğerleri Marie'ye veda eder, ancak ayrılmadan önce Sawaki, ona ve babasına bir cesaret mesajı yazmak için mikropları oraya koyar. Haruka, nişanlısının hasta olduğunu anlayınca onunla yüzleşmek için geri döner. Onun durumuyla ilgilenirken, ikisi sonunda anlaşmaya varır.",
+          "release_date": "2012-09-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8xSOGYbJBDwthfKTqH5WcRLNOUo.jpg",
+          "videos": []
+        },
+        {
+          "id": 237593,
+          "episode_number": 11,
+          "name": "Evdeyiz",
+          "description": "Sawaki ve arkadaşları, eve dönmeden önce Marie ile bir kez daha tanışır ve mikropların bıraktığı mesajların, ailesinin farklılıklarını çözmesine ve aile işine devam etmesine yardımcı olduğunu öğrenir. Sonunda Japonya'ya dönen Hasegawa, bundan sonra ne yapması gerektiğini merak ediyor, nişanı iptal edildiğinden üniversitede kalması için bir neden yok, ancak Sawaki onu kariyerine zorunluluktan değil, gerçekten yapmak istediği şeyi yaptığı için devam etmeye teşvik ediyor.",
+          "release_date": "2012-09-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/eJsEQPQYOoVHwYUf9H51x1F8MO6.jpg",
+          "videos": []
+        }
+      ]
+    }
+  ]
+}

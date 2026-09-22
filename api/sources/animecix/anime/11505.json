@@ -1,0 +1,95 @@
+{
+  "id": 11505,
+  "name": "_Summer",
+  "name_english": "_Summer",
+  "name_romanji": "_Summer",
+  "original_title": "アンダーバーサマー",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2006,
+  "release_date": "Fri Oct 27 2006 00:00:00 GMT+0000 (Coordinated Universal Time)",
+  "description": "Takumi Kaizu, kızlara karşı özel bir ilgisi olmayan bir erkek çocuktur. Bir okul gezisi sırasında arkadaşı Osamu ona hoşlandığı bir kızın olup olmadığını sorar. Bu noktadan sonra Takumi, günlük hayatında tanıdığı kızlar aracılığıyla yavaş yavaş karşı cinse ilgi duymaya başlar. Lise hayatının son yazı başlarken Takumi, kız arkadaşı diyebileceği tek kızı aramaya başlarken aynı zamanda Osamu'nun umutsuz ve amansız bir kız arkadaş arayışını da izler.",
+  "poster": "https://image.tmdb.org/t/p/original/a5vSxmOeekHqLlACt95VyMWBpZJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/r0LaqIdiV5YWO3R8ZBLmiD166aX.jpg",
+  "rating": 7.5,
+  "vote_count": 2,
+  "genres": [
+    3,
+    33
+  ],
+  "tmdb_id": 78430,
+  "mal_id": 1692,
+  "anilist_id": null,
+  "imdb_id": "tt1081926",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 5129,
+      "season_number": 1,
+      "name": null,
+      "episode_count": 2,
+      "episodes": [
+        {
+          "id": 212761,
+          "episode_number": 1,
+          "name": "Hoşlandığın Biri Var mı?",
+          "description": null,
+          "release_date": "2006-10-27T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 654749,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6688176d782a0690594b457f",
+              "extra": "Birden fazla çevirmen/fansub çevirisi.",
+              "fansub": "Birden fazla çevirmen",
+              "fansub_id": 533,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 654752,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5587059",
+              "extra": "Birden fazla çevirmen/fansub çevirisi.",
+              "fansub": "Birden fazla çevirmen",
+              "fansub_id": 533,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 212762,
+          "episode_number": 2,
+          "name": "Herkesin Sonsuza Kadar Böyle Kalmasını Dilerim",
+          "description": null,
+          "release_date": "2007-01-26T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 654754,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/668823e1782a0690594b4590",
+              "extra": "DespairOfAngel / www.animemangatr.com",
+              "fansub": "DespairOfAngel",
+              "fansub_id": 1225,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 654757,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5587120",
+              "extra": "DespairOfAngel / www.animemangatr.com",
+              "fansub": "DespairOfAngel",
+              "fansub_id": 1225,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,806 @@
+{
+  "id": 7520,
+  "name": "Bakuten!!",
+  "name_english": "Backflip!!",
+  "name_romanji": "Backflip!!",
+  "original_title": "バクテン!!",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2021,
+  "release_date": "2021-04-09 00:00:00",
+  "description": "Hikaye, erkeklerin ritmik jimnastiğinden etkilenen ve okul takımına katılmak için Soshukan Lisesi'ne kaydolan Shōtarō Futaba'yı anlatıyor.",
+  "poster": "https://image.tmdb.org/t/p/original/dZhyF1to5VNnGmRUft3tZW2JNhP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pVRDtVoJgFhUVRBok9hogme8eVC.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    9,
+    6,
+    4
+  ],
+  "tmdb_id": 112601,
+  "mal_id": 43756,
+  "anilist_id": 125839,
+  "imdb_id": "tt13412606",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 1091,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 125911,
+          "episode_number": 1,
+          "name": "I Want to Backflip!",
+          "description": "After a life-changing encounter with men's rhythm gymnastics, Shotaro Futaba joins the team at Soshukan High School. There he meets a collection of colorful characters, including Ryoya Misato, a fellow first-year and middle school gymnastics star.",
+          "release_date": "2021-04-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aWurQa5oDE625rAgyaGhtG2Jwuw.jpg",
+          "videos": [
+            {
+              "id": 365844,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63143077aaa5e211ba383551",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 114655,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4290079",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 114654,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/2bxOrdK23QUZ0RV",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 114650,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-u4ch2xk0e5yo.html",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 114653,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/g4cm41nts4t9.html",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 114647,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/sa7l2akdmc88",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 150619,
+          "episode_number": 2,
+          "name": "I Want to Soar With You!",
+          "description": "Shotaro moves into a dorm with the other members of the men's rhythmic gymnastics team, but he'll need to pass a test to participate in their six-man routine.",
+          "release_date": "2021-04-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/gILcsPdqBmC0vjy0k22FSv3PISU.jpg",
+          "videos": [
+            {
+              "id": 366114,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63147237aaa5e211ba383633",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 117801,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4294555",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 117800,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/rlX8LA32Wvfb6kv",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 117796,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-48961ttsz7wo.html",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 117799,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/vudno2k7fu9r.html",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 117793,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/gzhm3i0bzuqg",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 150620,
+          "episode_number": 3,
+          "name": "I Want to Camp!",
+          "description": "A training camp is scheduled between Ao High and rival school Shiro High. Hoping to catch up with the others, Shotaro goes to train in the park, where he encounters a mysterious boy.",
+          "release_date": "2021-04-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tlh4px90AzdlHBuG0V2a8JclTMC.jpg",
+          "videos": [
+            {
+              "id": 388460,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6333b9aed03cb090cb4c569f",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 123301,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4300388",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 123300,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/mDB2x3rgx6ubxR3",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 123296,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-pkwcblittaaw.html",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 123299,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/z3viv6utqail.html",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 123292,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/xrqaw1vqvqk1",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 150621,
+          "episode_number": 4,
+          "name": "We're All Rivals!",
+          "description": "A striking performance by Shiro High plunges the still uncoordinated Ao High team into uncertainty. Can words from Coach Shidai turn things around?",
+          "release_date": "2021-04-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cPCipd1QZl6FsLu8aZHACf8xjuU.jpg",
+          "videos": [
+            {
+              "id": 366950,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6315074caaa5e211ba383796",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 129613,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4306036",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 129612,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/xo8LkggWmgHkeBr",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 129611,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/70oapkac68nz.html",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 129608,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-gt1lzmygfsx3.html",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 129605,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/d7emvwt05fyy",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 150622,
+          "episode_number": 5,
+          "name": "I Want to Hide!",
+          "description": "The training camp is coming to an end, but with a few hours left, Mashiro suggests a game of hide-and-seek. But as with everything between Ao High and Shiro High, this too becomes a competition!",
+          "release_date": "2021-05-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/AbTpoUnLbSqCZA9PVxgmDHt4q31.jpg",
+          "videos": [
+            {
+              "id": 493811,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/641f5c09324622a40e0e6850",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 134493,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4310924",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 134492,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/P8qdzj0VDAF0dX3",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 134491,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/0paitvp25avb.html",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 134488,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-kpy83jo4scm2.html",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 134485,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/lz077edjoip5",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 150623,
+          "episode_number": 6,
+          "name": "",
+          "description": "",
+          "release_date": "2021-05-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/uBuh0oRUpiJ3O64pkzkdY62ElLb.jpg",
+          "videos": [
+            {
+              "id": 390237,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63379cfbd03cb090cb4c595e",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 136593,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 136589,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-64zmp6qv3vmd.html",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 136592,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/nau51f6135z1.html",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 136585,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/67pu7vft0v3g",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 150624,
+          "episode_number": 7,
+          "name": "Bir Söz Vereceğiz!",
+          "description": "Ao Lisesi öğrencilerinin tüm ara sınavlarını geçmedikçe üniversite matını kullanmaları yasak mı?! Bu politikaya sahip tek okul onlarınki ama ekibin neden üç yıl önceki kuruluşuna kadar uzandığının hikayesi...",
+          "release_date": "2021-05-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/f00x5vsdft8AzdFkebKiMxCuTZO.jpg",
+          "videos": [
+            {
+              "id": 368400,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6316812aaaa5e211ba3839fd",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 142425,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4318911",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 142424,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/JeOmBBmgGrsZMA",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 142420,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-tu6n7kxfvb8f.html",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 142423,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/kwpc0xn0d67m.html",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 142417,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/guazy90neq8h",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 150625,
+          "episode_number": 8,
+          "name": "Sana Bakacağım!",
+          "description": "Onagawa bir kaza geçirir ve bileğini incitir. Diğer çocuklar iyileşmesini desteklemek için ellerinden geleni yapıyorlar, ancak onlara söylemediği bir şey var gibi görünüyor...",
+          "release_date": "2021-05-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8DvpUsq2PjozK6EzXauMQotDOiF.jpg",
+          "videos": [
+            {
+              "id": 368616,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6316f294aaa5e211ba383a90",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 147711,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4323281",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 147710,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/VPo8xkrpXWTK62q",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 147706,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-ewrc4q2q7wvz.html",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 147709,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/u544b628rwb0.html",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 150626,
+          "episode_number": 9,
+          "name": "Muhtaç ol!",
+          "description": "Koç, bölge yarışmaları için rutinlerinin zorluğunu artırmak için yeni bir grup asansörü önerir, ancak Misato buna alışamıyor gibi görünüyor...",
+          "release_date": "2021-06-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/z7tttWGQPk6lhsuc5EJI0Lxirjh.jpg",
+          "videos": [
+            {
+              "id": 388080,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63332026d03cb090cb4c55ee",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 149993,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4327280",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 149992,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/VPD1QjBxwQcKwpA",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 149988,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-ivrqv34j9wi6.html",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 149991,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/msw42plkpt0r.html",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 150627,
+          "episode_number": 10,
+          "name": "Dayanamıyorum!",
+          "description": "Oğlanların turnuvadan bir gün önce dinlenmeleri gerekiyor, ancak hareketsiz oturamayacaklarını görüyorlar. Tek çözüm: yurdu temizlemek!",
+          "release_date": "2021-06-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sTMhapuakTfRQp6CaHn8moXxM2v.jpg",
+          "videos": [
+            {
+              "id": 152075,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4333054",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 152074,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/eqr8ojedBxIYv7e",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 152070,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-82ynqk5vz2y9.html",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 152073,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/qoqi7tz1k94b.html",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 150628,
+          "episode_number": 11,
+          "name": "Her Şeyinizi Verin, Çok Mücadele Edin",
+          "description": "Kolundaki ağrının artmasıyla Shotaro, turnuvadan hemen önce hastaneye gönderilir. Bu arada, Ao High ve Shiro High atletleri arasında gerilim yükselir...",
+          "release_date": "2021-06-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/l6uacjVAnI8i7xG5TFZfuMocSJk.jpg",
+          "videos": [
+            {
+              "id": 387162,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/633168ffd22fe78a0265e6b9",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 153393,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4336510",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 153392,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/gRQLGRg3r3UJja",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 153388,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-i94k9d6mlk45.html",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 153391,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/lw5qjxtlue85.html",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 150629,
+          "episode_number": 12,
+          "name": "Yarın, Çok!",
+          "description": "Shotaro, takımlarının performansından sonra, tüm gelecekleri havada kalmış halde hastaneye geri döner. Takımları Inter-Higha ulaşabilecek mi? Ve... Shotaro bir daha sahne alacak mı?",
+          "release_date": "2021-06-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fU1yyF4Mxd6fJOnQ1z1DbZfJ56L.jpg",
+          "videos": [
+            {
+              "id": 368652,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631709dcaaa5e211ba383aa8",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 154431,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4339683",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 154430,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/qJ2Xg18yKlTzbL3",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 154426,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-tzf12ytiorgg.html",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 154429,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/36rlnc1dh2ck.html",
+              "extra": "charlie",
+              "fansub": "charlie",
+              "fansub_id": 1584,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

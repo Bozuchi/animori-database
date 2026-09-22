@@ -1,0 +1,935 @@
+{
+  "id": 11188,
+  "name": "OVERTAKE!",
+  "name_english": "",
+  "name_romanji": null,
+  "original_title": "オーバーテイク!",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2023,
+  "release_date": "Sun Oct 01 2023 00:00:00 GMT+0000 (Coordinated Universal Time)",
+  "description": "Haruka Asahina, Formula 4'te yarışan liseli bir gençtir. Haruka'nın hayalini gerçekleştirmesine ve podyuma çıkmasına yardım etmeye karar veren tükenmiş fotoğrafçı Kōya Madoka ile yolları kesişir. Sıcaklıklar artıyor, rekabet kızışıyor. Aile tarafından işletilen Komaki Motors takımı için yarışmak, Haruka'nın en iyi takımların dikkatini çekmek için arabanın ve kendisinin sınırlarını zorlaması gerektiği anlamına geliyor. Kemerlerinizi bağlayın, yarış zamanı!",
+  "poster": "https://image.tmdb.org/t/p/original/fnv09j3fUnu4YM569E3nrn7SSjD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/aMfkRcw3GsawdoJnhFzqkRZ1LCG.jpg",
+  "rating": 6.7,
+  "vote_count": 15,
+  "genres": [
+    3,
+    5
+  ],
+  "tmdb_id": 218684,
+  "mal_id": 54301,
+  "anilist_id": null,
+  "imdb_id": "tt27679458",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 4781,
+      "season_number": 1,
+      "name": null,
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 204348,
+          "episode_number": 1,
+          "name": "Yarışan Adam",
+          "description": "Fotoğrafçı Kouya Madoka, bir Super GT etkinliğinde çalışmak üzere görevlendirildi, ancak destek yarışı padokunda dolaşırken, Formula 4 dünyasında sergilenen takımların ve sürücülerin çok çeşitli olması merakını artırdı.",
+          "release_date": "2023-10-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aJQ152Vx0rySr055ehmFVMBwhAL.jpg",
+          "videos": [
+            {
+              "id": 603878,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6551fe38da9c8055855487f0",
+              "extra": "Rorschach & Lexellures & kathyn",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 603585,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5316574",
+              "extra": "Rorschach & Lexellures & kathyn",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 603884,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5319712",
+              "extra": "Rorschach & Lexellures & kathyn",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 603584,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1P1toAFAZW4MIC0It3sszsu7Gmz4Jkogx/preview",
+              "extra": "Rorschach & Lexellures & kathyn",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 603592,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6350463765245",
+              "extra": "Rorschach & Lexellures & kathyn",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 204349,
+          "episode_number": 2,
+          "name": "Coşku ve Ruh",
+          "description": "İlham veren Madoka, Komaki Motors Genel Merkezi'ne dalar ve F4 takımına sponsor olmak istediğini açıklar, ancak yarışa gitmenin gerçekte ne kadara mal olduğu hakkında hiçbir fikri olmadığı kısa sürede anlaşılır.",
+          "release_date": "2023-10-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/svIt3CKdG7ZI6lRNhSIrsNvpUpb.jpg",
+          "videos": [
+            {
+              "id": 603608,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/654f6791da9c8055855487be",
+              "extra": "Rorschach & Lexellures & kathyn",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 603597,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5316557",
+              "extra": "Rorschach & Lexellures & kathyn",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 603614,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5316648",
+              "extra": "Rorschach & Lexellures & kathyn",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 603596,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1DO12f4iekOMhc4pw3ktdyaOQVng0Fu0r/preview",
+              "extra": "Rorschach & Lexellures & kathyn",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 603604,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6350465731325",
+              "extra": "Rorschach & Lexellures & kathyn",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 204350,
+          "episode_number": 3,
+          "name": "Kazanan Podyumuna Kaç Kilometre Kaldı?",
+          "description": "Komaki Motors'un sonunda bir sponsoru var ama Haruka anlaşmanın şartlarından pek memnun olmayabilir. Pistte olsak da, daha fazla lastik için para, daha fazla antrenman süresine eşittir. Haruka ekstra parkur süresini iyi bir şekilde değerlendirebilecek mi?",
+          "release_date": "2023-10-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/j8CY43n8Eu1jNR4C3Snsfvkji05.jpg",
+          "videos": [
+            {
+              "id": 609289,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6563b3ae30e908b3e8e720b7",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609090,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5338696",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609091,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5338697",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609295,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5339259",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609092,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1o-5B3_iv1npxyyzbRJAKnChzM5q7wVHB/preview",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609099,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6397049441021",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609104,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6397052390141",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 204351,
+          "episode_number": 4,
+          "name": "Geçmiş ve Pişmanlıklar",
+          "description": "Reklam yayınlanmaya hazırdır ancak Haruka, Kouya'nın fotoğrafının eklenmesinden memnun değildir ve bu durum geçmiş travmaların yeniden yaşanmasına neden olur.",
+          "release_date": "2023-10-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tAcy5SEu4tW1GIc0GrR05NlKml.jpg",
+          "videos": [
+            {
+              "id": 609282,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6563b19630e908b3e8e720b6",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609111,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5338699",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609112,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5338698",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609288,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5339253",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609113,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1c36zDkuRj17Odryi_T5biR8n3GaBks0m/preview",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609114,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6397056453373",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609116,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6397059402493",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 204352,
+          "episode_number": 5,
+          "name": "Ateş Arabaları",
+          "description": "Haruka ve Belsorriso'dan iki sürücü Satsuki ve Toshiki farklı türde bir yarışa katılır.",
+          "release_date": "2023-10-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/q7wx3upSVbtWQR5RttFpgddBUTA.jpg",
+          "videos": [
+            {
+              "id": 609275,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6563af89da9c8055855489b4",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609130,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5338702",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609131,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5338700",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609281,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5339249",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609132,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/14wdUG0hPzcz3IAMUlHoHWnvHV-31CeWO/preview",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609135,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6397062155005",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609141,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6397064514301",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 204353,
+          "episode_number": 6,
+          "name": "Suzuka, Yağmur",
+          "description": "Haruka, Suzuka'da bir sonraki tura yükselmek için yüksekten uçuyor, ancak yarış günü geldiğinde ve havalar açıldığında, hangi lastikleri kullanacağına dair zorlu bir kararla karşı karşıya kalır.",
+          "release_date": "2023-11-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/i8baJyZqDCAznNLRsfMrQMC77T4.jpg",
+          "videos": [
+            {
+              "id": 609268,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6563ac7e30e908b3e8e720b5",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609150,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5338704",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609151,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5338703",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609274,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5339241",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609152,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/10_Iif2H-W0P72AEzvutYxlreEANdy0MA/preview",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609157,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6397068905213",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609160,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6397072116477",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 204354,
+          "episode_number": 7,
+          "name": "Yetersiz pozlama",
+          "description": "Satsuki'nin korkunç kazası eski yaraları yeniden açar ve durumu daha da kötüleştiren Mikazuki Beverages, Komaki Motors ile olan sponsorluk anlaşmasını aniden sona erdirir. Haruka ve daha da önemlisi Kouya olayların bu ani gidişatıyla nasıl başa çıkacak?",
+          "release_date": "2023-11-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/o0pWN39wY2GDCZbLYKvPmAswdg9.jpg",
+          "videos": [
+            {
+              "id": 609261,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6563aa94da9c8055855489b3",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609171,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5338707",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609172,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5338706",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609267,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5339239",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609173,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1G5xJwbKjPCfwOhdfE_VOnIdbeaA0ZhzY/preview",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609177,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6397075786493",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609185,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6397077621501",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 204355,
+          "episode_number": 8,
+          "name": "Tüylü Kuşlar",
+          "description": "Satsuki yaralarını hastanede tedavi ederken, yerine gelen kişi Belsorriso'daki sorumluları pek etkilemedi ve gözlerinin Haruka'ya çevrilmesine neden oldu.",
+          "release_date": "2023-11-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/5Rk3MH3DY4MEyuS9IOaYdsz7lXL.jpg",
+          "videos": [
+            {
+              "id": 609254,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6563a84ada9c8055855489b2",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609192,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5338709",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609193,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5338708",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609260,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5339237",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609194,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1DwQPNd7uhB6bVg6rwMAOUA0ImZhg7ZkI/preview",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609204,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6397079522045",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609205,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6397081750269",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 204356,
+          "episode_number": 9,
+          "name": "Felaket Günü",
+          "description": "Haruka, 12 yıl önce meydana gelen depremin tetiklediği tsunaminin harap ettiği küçük kasabaya dönen Kouya'nın izini sürer.",
+          "release_date": "2023-11-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/VUuwq70Q52ixZk3X57WTSC2WHk.jpg",
+          "videos": [
+            {
+              "id": 612796,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/657a250ada9c805585548add",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 612739,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5363009",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 612740,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5363010",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 612801,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5363162",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 612738,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1mTlKwdDW6RRBkCd2VAJTKCqEsSv3dbDT/preview",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 612757,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6449326525181",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 612758,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6449328622333",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 204357,
+          "episode_number": 10,
+          "name": "Asla asla Deme",
+          "description": "Artık Kouya, peşini bırakmayan travmaya bir tür çözüm bulduğu için herkesin dikkati Haruka'ya ve onun F4 podyumunun en üst basamağında durma hedefine çevrilir.",
+          "release_date": "2023-12-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2AmJXHgRmvdrjfBFAWpT0ptPZjo.jpg",
+          "videos": [
+            {
+              "id": 612802,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/657a267a30e908b3e8e721f4",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 612760,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5363011",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 612761,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5363012",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 612807,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5363164",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 612759,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1yWvgSbau_6xmFczF2ToaOEZBmDNF4BDJ/preview",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 612769,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6449330653949",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 612770,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6449332751101",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 204358,
+          "episode_number": 11,
+          "name": "Hop → Adım →",
+          "description": "Lastiklerinin patlaması nedeniyle son yarışta hayal kırıklığı yaratan Haruka, bir dahaki sefere daha iyisini yapmaya kararlı. Bu sırada Harunaga hastaneden çıkar ve hemen arabaya biner.",
+          "release_date": "2023-12-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/teyJCiTvk1tuU8zzJ3cvCPHNtWm.jpg",
+          "videos": [
+            {
+              "id": 613862,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6581ac4530e908b3e8e7225b",
+              "extra": "Rorschach & Lexellures & Lily ",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 613842,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5370067",
+              "extra": "Rorschach & Lexellures & Lily ",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 613843,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5370068",
+              "extra": "Rorschach & Lexellures & Lily ",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 613867,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5370078",
+              "extra": "Rorschach & Lexellures & Lily ",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 613841,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/15qqtkF84N_91ZpmbnYvAxAbc4v-EaFqA/preview",
+              "extra": "Rorschach & Lexellures & Lily ",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 613857,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6468468476669",
+              "extra": "Rorschach & Lexellures & Lily ",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 613860,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6468467231485",
+              "extra": "Rorschach & Lexellures & Lily ",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 204359,
+          "episode_number": 12,
+          "name": "Sollamak",
+          "description": "FIA Japon F4 Şampiyonası doruğa ulaşıyor ve her şey Fuji Yarış Pisti'ndeki bu yarışa bağlı. Haruka sonunda podyumun en üst basamağında durabilecek mi?",
+          "release_date": "2023-12-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/uo2UTUWSAHs2U4bAYVMkjfgduMO.jpg",
+          "videos": [
+            {
+              "id": 615849,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/658c7aaab304d628d5f54dcb",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 615825,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5378985",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 615826,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5378986",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 615854,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5379157",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 615824,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1LSEbFzkruRkrsRxcrrpzViGdrH2OeQhd/preview",
+              "extra": "Rorschach & Lexellures & Lily",
+              "fansub": "Rorschach",
+              "fansub_id": 257,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1931 @@
+{
+  "id": 7563,
+  "name": "Strike Witches",
+  "name_english": "Strike Witches",
+  "name_romanji": "Strike Witches",
+  "original_title": "ストライクウィッチーズ",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2008,
+  "release_date": "2008-07-04 00:00:00",
+  "description": "1939 yılında Dünya birden ortaya çıkan gizemli Neuroi adlı varlıkların saldırısına uğrar. Saldırıya karşı insanlar bir tür anti-Neuroi silahı olan Striker Unit'i kurarlar. Havada, karada ve suda savaşma imkânı sağlayan, vücutlarına takılan silahları kullanabilmek için Dünya'nın dört bir yanından genç bayan büyücüler toplanarak 501. Joint Fighter Wing'i, ya da daha yaygın adıyla Strike Witches'i oluştururlar.",
+  "poster": "https://image.tmdb.org/t/p/original/8313VGYl6CWVButaAWIP4G9ViuR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/p2roEe217G5Km5Jn8Qave731Ssd.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    4,
+    1,
+    2
+  ],
+  "tmdb_id": 35464,
+  "mal_id": 6381,
+  "anilist_id": 103119,
+  "imdb_id": "tt1300176",
+  "season_count": 3,
+  "seasons": [
+    {
+      "id": 1125,
+      "season_number": 1,
+      "name": "Strike Witches",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 126183,
+          "episode_number": 1,
+          "name": "büyülü kız",
+          "description": "",
+          "release_date": "2008-07-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qIJTuL4pClPNOijkF0aBOWQeENr.jpg",
+          "videos": [
+            {
+              "id": 355765,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630929dd308bf7aae782c669",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345676,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833497",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345646,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1WIZrX5d1jx4yTY39_SKRUXjgmxqmlZXi/preview",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345647,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/WvQC1Bha#rt0oYnkTBJPxi-6TuQIb-Lr_3GAEuGgzu2W4P3YIhqE",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126184,
+          "episode_number": 2,
+          "name": "Yapabileceğim Şey",
+          "description": "",
+          "release_date": "2008-07-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7Om8bBhN868EjeOudAzHBF1q8iy.jpg",
+          "videos": [
+            {
+              "id": 355763,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63092940308bf7aae782c668",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345689,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833508",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345648,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1bhNqWI6nd8p7G-rDNtzZJ-uVdEJe4YvK/preview",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345649,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/qqYkDCaD#7kwwBvde5vrUf8tZJxtE7spwqrpVvb1AR8fw74Ljjlg",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126185,
+          "episode_number": 3,
+          "name": "Yalnız değilsin",
+          "description": "",
+          "release_date": "2008-07-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qHD6vBbfTywmZdD4xFBhXCZIhBs.jpg",
+          "videos": [
+            {
+              "id": 355755,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63092831308bf7aae782c667",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345698,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833518",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345650,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/11bUR6RCoZrSFnkk440WA0EcrgReKSTq9/preview",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345651,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/ujojlRKS#jZx-4-znrkGynM8_8Sr8UPpcPQxCoXW_22dgQ-Cmr8c",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126186,
+          "episode_number": 4,
+          "name": "Teşekkür ederim",
+          "description": "",
+          "release_date": "2008-07-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7GPQwDxyMIYtGisw4kH3vR3FYn6.jpg",
+          "videos": [
+            {
+              "id": 355754,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63092751308bf7aae782c666",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345719,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833525",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345652,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1GRx_XyULuInO68qEsLPNE5Ba7J-SyR5U/preview",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345653,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/7yQ1TRbQ#CED-i9lcVnXwylCHAoMkGAvnGS6Uc8Q8b0Xl3SM6jF8",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126187,
+          "episode_number": 5,
+          "name": "Hızlı, Büyük, Yumuşak",
+          "description": "",
+          "release_date": "2008-08-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9iYOGg5zLm9FEkTnsV3aEag71v.jpg",
+          "videos": [
+            {
+              "id": 355748,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6309260e308bf7aae782c665",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345728,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833532",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345654,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1Tf4iOtKbgds4Tf_QzaFF66k4jUQu7uB6/preview",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345655,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/6mozSRYb#RYxBTIwZ5ZOC5NLzK20HeQTdn3WK6kiS5qS3Z6CAF8M",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126188,
+          "episode_number": 6,
+          "name": "Biz aynıyız",
+          "description": "",
+          "release_date": "2008-08-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/uQderV2ml6bBVm7fMONOoBXl2UM.jpg",
+          "videos": [
+            {
+              "id": 355741,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63092532308bf7aae782c664",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345753,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833540",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345656,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1lTC_kPuTM6pzj9PKFzE-5n2MP-6LjS2H/preview",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345657,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/H64QVRAI#N_W_hstkbwRcGUOy9C3RbGOvXyJyb_N3y2LtF9S9sWY",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126189,
+          "episode_number": 7,
+          "name": "Güzel 'n Breezy",
+          "description": "",
+          "release_date": "2008-08-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9q8XxmIaOp531dernuEMGBl0o6t.jpg",
+          "videos": [
+            {
+              "id": 355740,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63092443308bf7aae782c663",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345658,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1Vvru8YDZ5_ZmjBLSH3JJB371fE6GZf0n/preview",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345659,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/mn4BUQKA#PLw09ajcaXVJ10UheK4LR9Q7A041UwipSLdd3DIFPKM",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126190,
+          "episode_number": 8,
+          "name": "Seni Unutmayacağım",
+          "description": "",
+          "release_date": "2008-08-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/gnkGihFAYsmH1SKVpV1PouURglq.jpg",
+          "videos": [
+            {
+              "id": 355736,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63092370308bf7aae782c662",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345774,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833557",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345660,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1bsaD2fW97pgWG4QbtEasnptsERh-Kc9M/preview",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345661,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/TiAEiLjT#F6grc1tMLdlJd1eNCoNU7xmgSKp588SOV-bN0v8mTWo",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126191,
+          "episode_number": 9,
+          "name": "Korumak İstediklerim",
+          "description": "",
+          "release_date": "2008-08-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zJ8cGEDjNyK0jHVxN2Y9t3bE6IS.jpg",
+          "videos": [
+            {
+              "id": 355733,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63092275308bf7aae782c661",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345784,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833563",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345662,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1oL18Bl-24NXFLK920jLfkGYTdIpaIYtT/preview",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345663,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/njR3BJTY#yjaGzmAgv0O84Z96SqhUg_x4Gqc-HzziUcVOS-cHN28",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126192,
+          "episode_number": 10,
+          "name": "İnanmanı İstiyorum",
+          "description": "",
+          "release_date": "2008-09-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/nq16C8HuSPlGSAMIs0ez7TxdRgu.jpg",
+          "videos": [
+            {
+              "id": 355732,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63092192308bf7aae782c660",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345792,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833567",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345664,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1PaX8kU86bUCjfdY-zG-rjGp5y0qDuw_i/preview",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345665,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/byJSlD7A#dS_robxv187exyZmHY6-EbV-qzVzAE2CEF14T7Qa7GU",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126193,
+          "episode_number": 11,
+          "name": "Gökyüzüne…",
+          "description": "",
+          "release_date": "2008-09-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8rNkVA22B7b0srO2tehYnGyINGa.jpg",
+          "videos": [
+            {
+              "id": 355729,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63092120308bf7aae782c65f",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345799,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833573",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345666,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1N_vYvk6smr8MfIldI2bAVmNcFE1aTlD5/preview",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345667,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/ejBjXDKL#Ykgx8ifRNRs-NnUh2bPhlifIZYjjyie5YJ265ebjUzA",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126194,
+          "episode_number": 12,
+          "name": "Grev Cadıları",
+          "description": null,
+          "release_date": "2008-09-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/j1OJNyFKj95FNoayTSZJ7HnkiuF.jpg",
+          "videos": [
+            {
+              "id": 355728,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63092060308bf7aae782c65e",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345806,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833575",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345668,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1XvXbl2BbH1eJUS-DzkDPdrGad3c50LZ6/preview",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345669,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/32pRSAga#VUAihrFHaSkGYD7V92Xq70pLTiOkEvrNjD0td8MaIis",
+              "extra": "AMT",
+              "fansub": "AMT",
+              "fansub_id": 27,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1126,
+      "season_number": 2,
+      "name": "Season 2",
+      "episode_count": 16,
+      "episodes": [
+        {
+          "id": 126195,
+          "episode_number": 1,
+          "name": "Gökyüzüne Bir Kez Daha",
+          "description": "",
+          "release_date": "2010-07-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pwo5CMJhhHcEiizk1G9c9HDOzth.jpg",
+          "videos": [
+            {
+              "id": 355723,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63091f69308bf7aae782c65d",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345813,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833580",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345677,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/19goTs9r7WktS7BvhlXNEXDMNXoJECSKT/preview",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345678,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/n6JinbxA#jFzR7ygg31d0iu7Obww5Ecmhh-Oyz3ydYJM3G_9VcZQ",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126196,
+          "episode_number": 2,
+          "name": "Efsanevi Cadılar",
+          "description": null,
+          "release_date": "2010-07-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wC92JSp7JrFuYCIa7g9ZD6oQlcO.jpg",
+          "videos": [
+            {
+              "id": 355720,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63091e62308bf7aae782c65c",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345820,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833584",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345679,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/10yn9HLVa_RRisgVPHBvo5xC1CaOofHbT/preview",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345680,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/G2IgAIzB#OLfrXuMqYS-gIP88WfQoSrM4RimFqq8XgYDc2hAV7E4",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126197,
+          "episode_number": 3,
+          "name": "Yapabileceklerimiz",
+          "description": "",
+          "release_date": "2010-07-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qYLiQR3mOIDURVJ1Ooo19edRQ0d.jpg",
+          "videos": [
+            {
+              "id": 355717,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63091d8c308bf7aae782c65b",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345827,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833590",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345681,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1mfQCC3A7Q6iLYu2RREyyT4_MlX3U6ZnT/preview",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345682,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/KyZykQTZ#lMwvg5hRPQmeTbptNNLPIOCOW21zdBy8pyKjFRyAl08",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126198,
+          "episode_number": 4,
+          "name": "Zor, Hızlı, İnanılmaz!",
+          "description": "",
+          "release_date": "2010-07-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wT6pqNbc7Z3tvsS2YZOZzPxDbsG.jpg",
+          "videos": [
+            {
+              "id": 355715,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63091ca2308bf7aae782c65a",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345834,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833593",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345690,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/19SPAgWQUQngmmByWj_kv62GsETndOyfA/preview",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345691,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/yyYnmJaA#sr3mPQLHIGf0eUj4DqOYklCr7tWjoV6aIX82GbsY-9w",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126199,
+          "episode_number": 5,
+          "name": "benim Romagna'm",
+          "description": "",
+          "release_date": "2010-08-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/teaOfQXbGvyK3V1f1VQGTqGMW4x.jpg",
+          "videos": [
+            {
+              "id": 355714,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63091bd3308bf7aae782c659",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345843,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833598",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345699,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/17ViKIzhj-OK4h8n6kF5rFWqQb4LHB-Bx/preview",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345700,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/u2AmhDCL#zFPiPt7EmXL0w7LaeqeC7MgdcYrc0dgRhEXRN9ml0JY",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126200,
+          "episode_number": 6,
+          "name": "Gökyüzünden daha yüksek",
+          "description": "",
+          "release_date": "2010-08-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lw77beeRQgevcJwzLN8np3vH9Pu.jpg",
+          "videos": [
+            {
+              "id": 355712,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63091a93308bf7aae782c658",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345850,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833602",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345701,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1Iia85YID_aYDNAJhfj5VmJm6n1yhk0Iz/preview",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345702,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/ujAUwRgJ#AV58w7RE7-CGNbWNaQiwQSEiP41xSq5cHtmU4VmdV18",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126201,
+          "episode_number": 7,
+          "name": "Hepsi Ürpertici Crawly",
+          "description": "",
+          "release_date": "2010-08-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wBmwog0C38bWlLnLIOo3Qhy1dP7.jpg",
+          "videos": [
+            {
+              "id": 355711,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630919d5308bf7aae782c657",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345869,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833606",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345703,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1MZLrVpUFVpb0_IrgNwpWbrX7zKvQDn7H/preview",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345704,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/yzwVmbCA#YiBxW6VyO8iVBW9JKvle9Rcpp5RAqEZf-8bM1HIG92o",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126202,
+          "episode_number": 8,
+          "name": "Lütfen bana kanat ver",
+          "description": "",
+          "release_date": "2010-08-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/k1S313BfnmZgKBbYnUdOFotsBen.jpg",
+          "videos": [
+            {
+              "id": 355706,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630918f1308bf7aae782c656",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345876,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833612",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345705,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1MUAYVYZ5Awtyi3WAW3q2uG8RaSQXQqA3/preview",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345706,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/ii5GlZLI#M1iWW_-b77a-2fhnTB0wnJOxVS2SoMRKKI1JVQrZs1E",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126203,
+          "episode_number": 9,
+          "name": "Yarına Köprü",
+          "description": "",
+          "release_date": "2010-09-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/3yUdNcLikzXzW0gXmDsmqPJUo8x.jpg",
+          "videos": [
+            {
+              "id": 355705,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6309184b308bf7aae782c655",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345883,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833619",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345707,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1e_bpTUxwWwPXeEiruUPW3Pm1ucCD3TdU/preview",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345708,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/zm53hYAT#USt0QhY6LRhxFR-9TEmpqA88wr6xYwmDLH5mtRiEmKI",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126204,
+          "episode_number": 10,
+          "name": "500 fazla",
+          "description": "",
+          "release_date": "2010-09-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/5stHAqXhAOkwqskPbB005AzujsI.jpg",
+          "videos": [
+            {
+              "id": 355704,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630917a1308bf7aae782c654",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345891,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833624",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345709,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/128rTWO9ffeVoDO5PMtCiFxnxqjgJuAWz/preview",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345710,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/qj5GQLqJ#nO7rdp17FD-byKeEv1Krvt8H_JqARwZcVeczi2F3hBc",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126205,
+          "episode_number": 11,
+          "name": "Kendim olmak",
+          "description": "",
+          "release_date": "2010-09-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dE6rTMygL7tR6TUu7MB2lkcVG2B.jpg",
+          "videos": [
+            {
+              "id": 355702,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630916c7308bf7aae782c653",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345898,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833635",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345711,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1m5-jT9e1ZywcZJxGe29U9EAtZFciaOoj/preview",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345713,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/2zZHGCzK#xc7KweO28cizci641cVjr2yhTuswgu3oKAAc6Ukztq0",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126206,
+          "episode_number": 12,
+          "name": "Ebedi Gökyüzünün Ötesinde",
+          "description": "",
+          "release_date": "2010-09-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7MSXNc2LTQ28yMO7pIO1h25srse.jpg",
+          "videos": [
+            {
+              "id": 355701,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630915ec308bf7aae782c652",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345906,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833639",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345720,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/124vg0m8T_ez0_hnG33GQCbsLKSIpPADk/preview",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345721,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/C74kCL4Y#KDhDCY9_wIFxq3dLt_PQNc313nIzXA5fJg--P8ykvCI",
+              "extra": "Ecchi King",
+              "fansub": "Ecchi King",
+              "fansub_id": 1305,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 290688,
+          "episode_number": 13,
+          "name": "Saint-Trond’un Gürültüsü",
+          "description": "",
+          "release_date": "2014-09-20T20:59:00.000Z",
+          "poster": "",
+          "videos": []
+        },
+        {
+          "id": 290689,
+          "episode_number": 14,
+          "name": "Ege Denizi’nin Tanrıçası",
+          "description": "",
+          "release_date": "2015-01-10T20:59:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 762447,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6aa01584002a74333f66af75",
+              "extra": "Onsterflike - Ynssr",
+              "fansub": "Onsterflike",
+              "fansub_id": 1372,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 762448,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/floni2jnqgkq",
+              "extra": "Onsterflike - Ynssr",
+              "fansub": "Onsterflike",
+              "fansub_id": 1372,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 762449,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ieaff6t33hp2.html",
+              "extra": "Onsterflike - Ynssr",
+              "fansub": "Onsterflike",
+              "fansub_id": 1372,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 290690,
+          "episode_number": 15,
+          "name": "Arnhem Köprüsü",
+          "description": "",
+          "release_date": "2015-07-31T20:59:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 762450,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6aa0163af342e3f8d7f9056e",
+              "extra": "Onsterflike - Ynssr",
+              "fansub": "Onsterflike",
+              "fansub_id": 1372,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 762451,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/qt4o8mshpn47",
+              "extra": "Onsterflike - Ynssr",
+              "fansub": "Onsterflike",
+              "fansub_id": 1372,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 762452,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-oxjztgnhts41.html",
+              "extra": "Onsterflike - Ynssr",
+              "fansub": "Onsterflike",
+              "fansub_id": 1372,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 290691,
+          "episode_number": 16,
+          "name": "Film",
+          "description": "",
+          "release_date": "2012-03-17T20:59:00.000Z",
+          "poster": "",
+          "videos": []
+        }
+      ]
+    },
+    {
+      "id": 1127,
+      "season_number": 3,
+      "name": "Strike Witches: Road to Berlin",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 126171,
+          "episode_number": 1,
+          "name": "Alplerin Büyülü Kızı",
+          "description": "Yoshika, arkadaşının babasını kurtarmak için tekrar harekete geçer, ancak forvet birimi neredeyse asfaltta havaya uçar!",
+          "release_date": "2020-10-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/f3IE3wc7KZH1oUA0igyJVeLlaXk.jpg",
+          "videos": [
+            {
+              "id": 355700,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63091502308bf7aae782c651",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345914,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833644",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345729,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1N7JrQ9D2aGdLSTGMEYGZ3BsEHBo-Kg8o/preview",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345730,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/G6gQTSIK#Qs3VbMdjwF06MPihozkSln_MMGUhmvL0LlRzvZXdGYg",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126172,
+          "episode_number": 2,
+          "name": "Grev Cadıları Bir Araya Geliyor",
+          "description": "Bir Neuroi, insanlığın karşı saldırısının arifesinde Avrupanın en büyük ikmal limanına saldırdığında, Yoshika onu hiçbir silah olmadan tek başına durdurmalıdır!",
+          "release_date": "2020-10-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zqNt1g4I0nf86kwHfK3i6UDuX3C.jpg",
+          "videos": [
+            {
+              "id": 355698,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63091383308bf7aae782c650",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345921,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833651",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345731,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1lv8Es8XZ7p4iIBN5pDdDsBUQenGMKYJS/preview",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345732,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/CnwySQLQ#Vlj0bXplrdFZNaTXWcASScEpVBkVqcN77sHeuXF20Ug",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126173,
+          "episode_number": 3,
+          "name": "İkimiz Ne Yapabiliriz",
+          "description": "Yoshika sihrinin kontrolünü kaybetti… yine! Onu geri almak istiyorsa, daha fazla eğitim ve daha sıkı çalışma zamanı!",
+          "release_date": "2020-10-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/rX7NapwJfF1yRSzqRfDp6B5Bhq3.jpg",
+          "videos": [
+            {
+              "id": 355696,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630911e9308bf7aae782c64f",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345928,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833658",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345733,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1LXTw6Q-gvtk-7vEDfrFlZgUHDWVaw8o-/preview",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345734,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/CuhHALgL#SgGDd1mwwQZTo-Ur-M9yRWNyDFUUOkTTVT7zSBnCwMo",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126174,
+          "episode_number": 4,
+          "name": "Saatte İki Yüz Milin Ötesinde",
+          "description": "Shirley'nin dünya rekoru kırıldı ve bundan hiç memnun değil. Shirley ve Lucchini yeni dünya rekorunu kırmaya çalışırken, alışılmadık bir Neuroi tehdidi hızla yaklaşıyor.",
+          "release_date": "2020-10-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/r69AKcDCPyp9RFI1M1E1ZINZ6us.jpg",
+          "videos": [
+            {
+              "id": 355691,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63090ffc308bf7aae782c64d",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345935,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833675",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345735,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1G0Y8kvvkmUAuqZMK0KOo0_5dbVaw9mzs/preview",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345736,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/mrAWESqS#eZ97xzYJ86EUYc92i5Ofty-OdZiRX9ERjMnHXYxVFWw",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126175,
+          "episode_number": 5,
+          "name": "Hollanda Kraliçesi",
+          "description": "Kızlar efsanevi bir çiçeğin açmasına yardım etmek için Hollanda'ya doğru yola çıkarlar.",
+          "release_date": "2020-11-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wWT3IOS4vr5aEmexocW1T3PjvNP.jpg",
+          "videos": [
+            {
+              "id": 355677,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63090e26308bf7aae782c64b",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345942,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833691",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345737,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1k-X5yCy6Kuh_SlZj_uOkDLZjTTQgxx7Q/preview",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345738,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/uuYwQKoL#3OdKU1oc6DSgKYCW_G7azO7Rd9wvHfgw599eitpmCS8",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126176,
+          "episode_number": 6,
+          "name": "İntikam Tazıları",
+          "description": "Erica düşman bölgesinde vurulduğunda, Gertrud onu geri almak için ne gerekiyorsa yapacaktır.",
+          "release_date": "2020-11-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lGJa3s12NXs7EZzmVjmgrvdsgQ4.jpg",
+          "videos": [
+            {
+              "id": 355667,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63090c6a308bf7aae782c649",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345949,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833698",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345739,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1aaKQgTbfrrXnTg7xtOWPij6VGiaAY9_5/preview",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345740,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/i7wXlRqI#N4Rjmev02-GpPuglpj_-x-jc4411SEJmy9vTUm3OzxY",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126177,
+          "episode_number": 7,
+          "name": "Boing-Boinge Gidiyorlar",
+          "description": "Gizemli bir idol, tüm cadıların göğüslerinin daha da büyümesine ve kızların yavaş yavaş teker teker kurbanı olmasına neden olur ...",
+          "release_date": "2020-11-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/hWD74e1m0rOFOkpRBN9UsasHGT5.jpg",
+          "videos": [
+            {
+              "id": 355647,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63090adc308bf7aae782c647",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345957,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833703",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345741,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1CRbFZ24rMhbeCIrPTIHswSNGcnkzzaXQ/preview",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345742,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/OrRHEYZT#1aDYrktE4lj1_0XUbh_U89nHsLoUbd0K--qW2G5zLqs",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126178,
+          "episode_number": 8,
+          "name": "The Fog",
+          "description": "",
+          "release_date": "2020-11-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/6lrh6rE0e0vpxAnTm2cAopH6TXo.jpg",
+          "videos": [
+            {
+              "id": 355645,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63090998308bf7aae782c646",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345964,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833707",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345743,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1m594hEEyeuAnOBI7pKXKVd5DcjlJ81ND/preview",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345744,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/WzwRWDCZ#0dsVNvwkjSMmiwPhmLl6FL_MUueOGmTvtrmBtDDSOho",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126179,
+          "episode_number": 9,
+          "name": "Minanın Gökyüzü",
+          "description": "Berlindeki Neuroi yuvasından yapılan roket saldırıları, Kieldeki üssü tehdit ediyor. Onları durdurmak için gerekenlere sadece Mina sahip, ama sihirli gücü yok oluyor ...",
+          "release_date": "2020-12-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/hnZirHqbMbj6xdQFkf7tVi9d74P.jpg",
+          "videos": [
+            {
+              "id": 355636,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63090836308bf7aae782c644",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345973,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833709",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345745,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/12QQSbD9xxKTUkNQfxrc4Xh5CjFQM5RM4/preview",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345746,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/vupj2LKB#D3cYez2JukSfhNA5-MkFqbYiYUWGuyxpW6G8U8yqcwM",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126180,
+          "episode_number": 10,
+          "name": "Shizuka, içeri gel!",
+          "description": "Southwind Operasyonu, Berline büyük çaplı bir hava saldırısıyla başlar. Yoshikaya sihrini korumak için geride kalması emredildiğinde Shizuka, deliği doldurmaya çalışır.",
+          "release_date": "2020-12-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9itkDVYU23HAvW84Oo2NM6XaUl7.jpg",
+          "videos": [
+            {
+              "id": 355627,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6309069e308bf7aae782c642",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345983,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833713",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345754,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1ZXhxZSq4VvVhGJCJ3WwHLNflv0BWHo9f/preview",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345755,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/yi5HzKgZ#i4SBl4TI-4tv0vIUDQTdxUtnlLGjdwSlY6bt54g3Ckk",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126181,
+          "episode_number": 11,
+          "name": "Berlin Yolu",
+          "description": "Miyafujinin sihirli gücü devre dışı bırakıldığında, insanlık yedekleme planını kullanmak zorunda kalır: güçlü Ratte tankı. Ama nihai asları olmadan kazanabilirler mi?",
+          "release_date": "2020-12-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sAFKvpFJ4wzbMmtvLuHYZWa8SDg.jpg",
+          "videos": [
+            {
+              "id": 355616,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630904f1308bf7aae782c641",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345991,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4833715",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345756,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1Ssi1GZvKK04alaH4yWOyPBzoZQauFU61/preview",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345757,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/HyBAGYIR#xfLi9UqT66hGZv2SfTpMTsn9upCVgavEHN7JW08T4q4",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126182,
+          "episode_number": 12,
+          "name": "Hala Korumak İstiyorum",
+          "description": "Yoshika, Berlin çevresindeki kubbenin içinde mahsur kalır ve cadıların geri kalanı kesilir. Onu zamanında kurtarmak için içeri girebilirler mi?",
+          "release_date": "2020-12-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/hCdNxYMWpxpuRBSJnPqyQMd99qi.jpg",
+          "videos": [
+            {
+              "id": 355611,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63090343308bf7aae782c63f",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345758,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1Bnhj_cB3orP7XEwniNFRtKETn1ep0Kfr/preview",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 345759,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/2r5zHB6D#Z0t253RZ_AZBJqQqBZ-K2QWbt3wisGBbdqdfEGinc80",
+              "extra": "E.İ.Ç",
+              "fansub": "E.İ.Ç",
+              "fansub_id": 1374,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

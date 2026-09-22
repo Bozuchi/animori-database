@@ -1,0 +1,15 @@
+{
+  "_comment": "TMDB ile otomatik eşleşmeyen seriler için manuel eşleme tablosu. Format: 'mal_id': {'tmdb_id': int, 'type': 'tv'|'movie', 'season_number': int}",
+  "10218": {
+    "tmdb_id": 113082,
+    "type": "movie",
+    "season_number": 1,
+    "note": "Berserk: The Golden Age Arc I"
+  },
+  "1000": {
+    "tmdb_id": 31714,
+    "type": "tv",
+    "season_number": 1,
+    "note": "Space Pirate Captain Harlock"
+  }
+}

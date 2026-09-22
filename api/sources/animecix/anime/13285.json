@@ -1,0 +1,936 @@
+{
+  "id": 13285,
+  "name": "Jaadugar: A Witch in Mongolia",
+  "name_english": "Jaadugar: A Witch in Mongolia",
+  "name_romanji": "Tenmaku no Jaadugar",
+  "original_title": "天幕のジャードゥーガル",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2026,
+  "release_date": "Sat Jul 04 2026 00:00:00 GMT+0000 (Coordinated Universal Time)",
+  "description": "Annesini ve vatanını kaybeden Sitara'nın çaresizliği, bilginin gücüyle kararlılığa dönüşür. Akademisyenlerden oluşan bir aile onu yanına alıp eğitimini derinleştirdiğinde yeni olasılıklar ortaya çıkar. Bu arada Cengiz Han'ın Moğol İmparatorluğu, Sitara'nın yeni evine yaklaşarak ulusları fethediyor. İmparatorluğun Dördüncü Prensi onu esir alınca intikam ateşi alevlenir.",
+  "poster": "https://image.tmdb.org/t/p/original/723NT7KY9xBFLYNNBaEEREbLaPC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6AoGMlKo2DUsYWiF5zzjdRERCVi.jpg",
+  "rating": 8.2,
+  "vote_count": 14,
+  "genres": [
+    3,
+    5,
+    18
+  ],
+  "tmdb_id": 288971,
+  "mal_id": 61483,
+  "anilist_id": null,
+  "imdb_id": "tt39281887",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 6231,
+      "season_number": 1,
+      "name": null,
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 276136,
+          "episode_number": 1,
+          "name": "Göklerdeki ve Yerdeki Her Şey",
+          "description": "Genç bir köle kız olan Sitara, bilim adamlarından oluşan bir aileye satılır ve orada bilgi yolculuğuna başlar.",
+          "release_date": "2026-07-04T14:44:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8ulVow8v7B8Lrw47y4hyGPRnrJf.jpg",
+          "videos": [
+            {
+              "id": 757692,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a4b3775a4f5f9e71074dcc8",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 757831,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a4d7207f342e3f8d7f90408",
+              "extra": "Çeviri: Pluto Encode: Perpo",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 757693,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/z8chxaae1b90",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 757694,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-gz64ejc1qtep.html",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 757832,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/91iqk1754xgb",
+              "extra": "Çeviri: Pluto Encode: Perpo",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 757833,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ojk10vg780y6.html",
+              "extra": "Çeviri: Pluto Encode: Perpo",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 281103,
+          "episode_number": 2,
+          "name": "Safar'da Açan Güller",
+          "description": "Göçebeler Tun şehrini yağmalarken Fatima ve Sitara bodrumda saklanıp diğerlerinin geri dönmesini bekler.",
+          "release_date": "2026-07-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xeg43pMcMll2P4MkmtKyYtTvAGP.jpg",
+          "videos": [
+            {
+              "id": 757695,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a4b382bf2c0587e0fd8b924",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 757852,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a4e1d31ec3223a31a1ece97",
+              "extra": "Çevirmen: Pluto Encode: Daisy",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 757696,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/cpgaus0ufrcx",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 757697,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-bprpm2i19qhx.html",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 757853,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/q97xj92npa4v",
+              "extra": "Çevirmen: Pluto Encode: Daisy",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 757854,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-g2i2liwdvzsh.html",
+              "extra": "Çevirmen: Pluto Encode: Daisy",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 283959,
+          "episode_number": 3,
+          "name": "Ölmeyen Bir Alev",
+          "description": "Sitara, Fatima'nın Moğollar tarafından çalınan kitabını geri alma umuduyla beklenmedik bir müttefikle iş birliği yapar.",
+          "release_date": "2026-07-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1LcgSvjwvG60ptgLFy05Z2MDGGc.jpg",
+          "videos": [
+            {
+              "id": 758194,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a52edfef2c0587e0fd8b93e",
+              "extra": "Çeviri: Pluto Encode: Perpo - www.instagram.com/codeanimee",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758536,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a5672eff342e3f8d7f9044a",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758179,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1Yuffd5PZzjbkzYcUwWz4oanpZsvFiY6Q/preview",
+              "extra": "Çeviri: Pluto Encode: Perpo - www.instagram.com/codeanimee",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758180,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/19628660165120",
+              "extra": "Çeviri: Pluto Encode: Perpo - www.instagram.com/codeanimee",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758181,
+              "player": "DAILYMOTION",
+              "url": "https://dai.ly/xaohsau",
+              "extra": "Çeviri: Pluto Encode: Perpo - www.instagram.com/codeanimee",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758183,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/l5i0za4zw2ti",
+              "extra": "Çeviri: Pluto Encode: Perpo - www.instagram.com/codeanimee",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758184,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-q3x7flibhd0z.html",
+              "extra": "Çeviri: Pluto Encode: Perpo - www.instagram.com/codeanimee",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758186,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/3nyt4k1r5736",
+              "extra": "Çeviri: Pluto Encode: Perpo - www.instagram.com/codeanimee",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758187,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-88sahp2a329q.html",
+              "extra": "Çeviri: Pluto Encode: Perpo - www.instagram.com/codeanimee",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758189,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/tjjs3a4aocq7",
+              "extra": "Çeviri: Pluto Encode: Perpo - www.instagram.com/codeanimee",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758190,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ujqxbtux774u.html",
+              "extra": "Çeviri: Pluto Encode: Perpo - www.instagram.com/codeanimee",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758195,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/iwlph5f0ihbz",
+              "extra": "Çeviri: Pluto Encode: Perpo - www.instagram.com/codeanimee",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758196,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-iug0znm4iwhw.html",
+              "extra": "Çeviri: Pluto Encode: Perpo - www.instagram.com/codeanimee",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758537,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/f0a2bvqml8x2",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758538,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-zyykibnn0n0t.html",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 284310,
+          "episode_number": 4,
+          "name": "Otçigin",
+          "description": "Sitara, Öklid'in Unsurları konusunda Sorghaghtani'ye ders vermeye başlar ve Otçigin Prens Tolui hakkında daha fazla şey öğrenir.",
+          "release_date": "2026-07-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/3T83I18Bh8BfjHLi3cXXyb1wCEv.jpg",
+          "videos": [
+            {
+              "id": 758828,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a5ca4bff342e3f8d7f90461",
+              "extra": "Çeviri: Pluto Encode: Perpo",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758861,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a5cfbeaf2c0587e0fd8b974",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758829,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/00tprskt48o6",
+              "extra": "Çeviri: Pluto Encode: Perpo",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758830,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-2240y8mz9zve.html",
+              "extra": "Çeviri: Pluto Encode: Perpo",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758862,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/oaeiunvke80y",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758863,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-nd8bpkh5g9ki.html",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 284311,
+          "episode_number": 5,
+          "name": "Yılan Renklerini Gösterir, İnsan Renklerini Saklar",
+          "description": "Sitara, Sorghaghtani'nin casusu olmayı kabul eder, ancak Çağatay'ın sarayına sızma planları hızla ters gider.",
+          "release_date": "2026-07-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jmE8ln9uCMqGsZBP0IeVYkTyEzQ.jpg",
+          "videos": [
+            {
+              "id": 759275,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a6540cf59edd8529b3122dd",
+              "extra": "Çeviri: Pluto Encode: Perpo",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 759542,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a692622d5ce148fbbb3395f",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 759276,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/as2s48sfs42v",
+              "extra": "Çeviri: Pluto Encode: Perpo",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 759277,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-385eghdxq2sk.html",
+              "extra": "Çeviri: Pluto Encode: Perpo",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 759543,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/k4it03gkn6wg",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 759544,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-3f12fnvynjs5.html",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 284312,
+          "episode_number": 6,
+          "name": "Mergen Halkı",
+          "description": "Töregene, okçuluklarıyla ünlü bir kabileler konfederasyonu olan Merkitler arasındaki yaşamının öyküsünü anlatıyor.",
+          "release_date": "2026-08-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/r2Fk2U0SrGuyA50ObrbJB10GTwp.jpg",
+          "videos": [
+            {
+              "id": 759767,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a70a2b775c86a0b6f67b79a",
+              "extra": "Çeviri: Pluto Encode: Perpo",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 759857,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a6f82abec3223a31a1ecf0e",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 759858,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/bq7v86moblui",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 759859,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-n4whw8vkwwek.html",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 759897,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/u9516qljpy7p",
+              "extra": "Çeviri: Pluto Encode: Perpo",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 759898,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-payk3scemabx.html",
+              "extra": "Çeviri: Pluto Encode: Perpo",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 284313,
+          "episode_number": 7,
+          "name": "Kardeşler",
+          "description": "Moğol İmparatorluğu doğuya savaş açmaya hazırlanırken Sitara siyasi entrikanın tohumlarını ekmeye başlar.",
+          "release_date": "2026-08-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tLsnfuvD1DsWcJEGwSi0FpmFYWv.jpg",
+          "videos": [
+            {
+              "id": 760445,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a7b87a675c86a0b6f67b7c8",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 760720,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a80abf959edd8529b312358",
+              "extra": "Çeviri: Perpo / Redakte: Pluto / Encode: Perpo",
+              "fansub": "Perpo",
+              "fansub_id": 30,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 760446,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/5wf5nnzl1m52",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 760447,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-pnis8ddt7byj.html",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 760721,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/pt758sq3okd8",
+              "extra": "Çeviri: Perpo / Redakte: Pluto / Encode: Perpo",
+              "fansub": "Perpo",
+              "fansub_id": 30,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 760722,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-gnvdtwru4z1c.html",
+              "extra": "Çeviri: Perpo / Redakte: Pluto / Encode: Perpo",
+              "fansub": "Perpo",
+              "fansub_id": 30,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 284314,
+          "episode_number": 8,
+          "name": "Büyük Hatun Boraqchin",
+          "description": "Bir yanlış anlaşılmanın ardından Sitara, kendisini Moğolların baş imparatoriçesi hastalıklı Boraqchin'in karşısında bulur.",
+          "release_date": "2026-08-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9cRBNXOTzrEh9qqKMYdgM034HYK.jpg",
+          "videos": [
+            {
+              "id": 760754,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a81974ca4f5f9e71074dd90",
+              "extra": "Çeviri: Pluto Encode: Perpo",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 760825,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a81ff3ef2c0587e0fd8ba14?vid=760825",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 760755,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/esztqbrtkbhz",
+              "extra": "Çeviri: Pluto Encode: Perpo",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 760756,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-qmd3ks5pmjhn.html",
+              "extra": "Çeviri: Pluto Encode: Perpo",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 760826,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/hxpvjrrtgoa2",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 760827,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ovh6hbm79t3h.html",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 284315,
+          "episode_number": 9,
+          "name": "Tengri",
+          "description": "Ögedei ve Tolui, Jin'in başkenti Kaifeng'i almak için saldırıya başlar, ancak kısa süre sonra trajedi yaşanır.",
+          "release_date": "2026-08-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cp0CzEFVxviDz19IK0gS7uJrYYJ.jpg",
+          "videos": [
+            {
+              "id": 761546,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a8f3b76a4f5f9e71074ddbc",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 761746,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a948b59ec3223a31a1ecf92",
+              "extra": "Çeviri: Pluto Encode: Perpo",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 761547,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/4520fcudgmvr",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 761548,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-4j2qjwrwqxcu.html",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 761747,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/b4h6uuatjdh4",
+              "extra": "Çeviri: Pluto Encode: Perpo",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 761748,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-lkhowaipcowd.html",
+              "extra": "Çeviri: Pluto Encode: Perpo",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 284316,
+          "episode_number": 10,
+          "name": "Bilgelik",
+          "description": "Tolui şok edici bir kaderle karşılaşır ve Sitara, onu varlığının özüne kadar sarsan beklenmedik bir eşyayla karşılaşır.",
+          "release_date": "2026-08-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/p7xkczXG7D98elP9eeTx1qTI9Ak.jpg",
+          "videos": [
+            {
+              "id": 761743,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a9489d5d5ce148fbbb339f5",
+              "extra": "Çeviri: Pluto Encode: Perpo",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 761758,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a949408f2c0587e0fd8ba54",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 761744,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/4bpicoar7utv",
+              "extra": "Çeviri: Pluto Encode: Perpo",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 761745,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-4ow2qpkya0jg.html",
+              "extra": "Çeviri: Pluto Encode: Perpo",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 761759,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/97wswmjf9qir",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 761760,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-tnabijnrhp1r.html",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 284317,
+          "episode_number": 11,
+          "name": "Hoş olmayan bir taş",
+          "description": "Altı yıl önce Boraqchin, hayatını değiştirecek gizemli özelliklere sahip bir taşla karşılaşır.",
+          "release_date": "2026-09-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/d3UrISdoFuG2QVeRdYJd1kLyn4D.jpg",
+          "videos": [
+            {
+              "id": 762511,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6aa19e11a4f5f9e71074ddf4",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 762512,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/knetvoa70x6p",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 762513,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-c6ro77k7igrc.html",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 284318,
+          "episode_number": 12,
+          "name": "Bozkır Hiç Değişmiyor",
+          "description": "Sorghaghtani'nin siyasi bir evliliği reddetmesinin ardından Sitara, Töregene'nin nerede olduğunu aramaya devam eder.",
+          "release_date": "2026-09-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oEDW81Gp0jXu4QdHN4ZRFCdCaXk.jpg",
+          "videos": [
+            {
+              "id": 762729,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6aa5e230f342e3f8d7f90581",
+              "extra": "Çeviri: Pluto / Kodlama: Perpo",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 763041,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6aaae71e59edd8529b312405",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 762730,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/rbv94dp48y1g",
+              "extra": "Çeviri: Pluto / Kodlama: Perpo",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 762731,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-t3v8zh7tniqi.html",
+              "extra": "Çeviri: Pluto / Kodlama: Perpo",
+              "fansub": "Pluto",
+              "fansub_id": 164,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 763042,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/hm95apoueg8e",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 763043,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-md8mb69tzv6c.html",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

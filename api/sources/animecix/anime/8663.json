@@ -1,0 +1,815 @@
+{
+  "id": 8663,
+  "name": "Photokano",
+  "name_english": "Photokano",
+  "name_romanji": "Photokano",
+  "original_title": "フォトカノ",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2013,
+  "release_date": "2013-04-05 00:00:00",
+  "description": "Ana karakter, Kazuya Maeda, okulunun ilk senesini oldukça sıkıcı ve yalnız geçirmiştir. Fakat bu durumu babasından aldığı tek lensli refleks kamerayla okuldaki kızların fotoğrafını çekerek değiştirmeye kararlıdır. Bu, ayrıca fotoğrafını çektiği kızlarla romantik ilişkilerin de başlangıcı olacaktır.",
+  "poster": "https://image.tmdb.org/t/p/original/m8U1WcV6N1uQ0KmN5hTzwpZmXJg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/iPs05JqfE9XF5Q7f2QZbIrvwtWw.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    4
+  ],
+  "tmdb_id": 56081,
+  "mal_id": 16397,
+  "anilist_id": 0,
+  "imdb_id": "tt2623042",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 2094,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 13,
+      "episodes": [
+        {
+          "id": 146692,
+          "episode_number": 1,
+          "name": "Karşılaşma",
+          "description": "Kazuyanın babası, yaz tatilinin son gününde ona bir dijital fotoğraf makinesi verdi ve bunun hayatını değiştireceğine inanarak onu okula götürür.",
+          "release_date": "2021-12-10T08:24:49.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wURrU8uRRFqIwUihPXUW3eLRSkG.jpg",
+          "videos": [
+            {
+              "id": 373358,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631de52caaa5e211ba38425f",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 203023,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4537374",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203022,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/M9bWPqokLqfmVm1",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203018,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-uloccj4vjwso.html",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203021,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/1gew72bptidv.html",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 146693,
+          "episode_number": 2,
+          "name": "Okul Cenneti",
+          "description": "Kazuya artık Fotoğrafçılık Kulübü üyesi olduğu için sağda solda fotoğraf çekiyor.",
+          "release_date": "2013-04-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/l7Mm4EXKdNfXZuT87GmU4yRCYL1.jpg",
+          "videos": [
+            {
+              "id": 373362,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631de622aaa5e211ba384260",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 203030,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4537376",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203029,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/GWxbZlyeypca14",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203025,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-kse9ll9l0tt9.html",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203028,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/1snb84d450os.html",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 146694,
+          "episode_number": 3,
+          "name": "Yüz Çiçek Bahçesi",
+          "description": "Kazuya okuldaki kızları tanımaya başlıyor. Akinin şaşırtıcı geçmişini öğrenir ve onun yaramaz yan çiçek açmasına yardım eder.",
+          "release_date": "2013-04-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fVbKnbQ1vo8rVlUvEzFx8qLYkuZ.jpg",
+          "videos": [
+            {
+              "id": 373364,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631de714aaa5e211ba384261",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 203037,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4537378",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203036,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/jjjQeM9OJgS2Wj",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203032,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-ujygb3wd9598.html",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203035,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/iruo1prr7dtb.html",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 146695,
+          "episode_number": 4,
+          "name": "Gelecek İçin Düşünceler",
+          "description": "Kazuya, Aki Murotodaki şantaj materyalinden tam anlamıyla yararlanıyor. Bazı resimlerin gizli tutulmasını istiyorsa, söylediği her şeyi yapması gerekir.",
+          "release_date": "2013-04-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/3VD7kgtEJgINLknivv36WkM0UfT.jpg",
+          "videos": [
+            {
+              "id": 373365,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631de779aaa5e211ba384262",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 203044,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4537380",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203043,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/ybl47OQG4qI1ql7",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203039,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-x62okawrkt7x.html",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203042,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/w7r38clenjw4.html",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 146696,
+          "episode_number": 5,
+          "name": "Aşk Çatışması",
+          "description": "Kazuya ve Harukanın ilişkisi, en azından bir süreliğine doğrudan çocukluk arkadaşlarından erkek arkadaş kız arkadaşa doğru gidiyor gibiydi. Ama şimdi herkes Harukanın daha iyisini yapabileceği konusunda ısrar ederken, belki de Kazuyanın gitmesine izin verme zamanı gelmiştir ...",
+          "release_date": "2013-05-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qZvNGIq1gmyZgQFmohOCjVJb1q9.jpg",
+          "videos": [
+            {
+              "id": 373366,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631de81daaa5e211ba384263",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 203051,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4537382",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203050,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/Lve1abAaVwURpaB",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203046,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-y2q8bpvh6677.html",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203049,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/gbux183wlbbk.html",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 146697,
+          "episode_number": 6,
+          "name": "Uzak Düşünceler",
+          "description": "Kazuya ve Haruka öpüşüp barışabilirler, ancak Kazuya henüz net değildir.",
+          "release_date": "2013-05-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qZvNGIq1gmyZgQFmohOCjVJb1q9.jpg",
+          "videos": [
+            {
+              "id": 373369,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631de959aaa5e211ba384264",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 203058,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4537385",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203057,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/DoJY40Z1aaf6P0",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203053,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-q5pattqh30ho.html",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203056,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/i1pmrtztqhe9.html",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 146698,
+          "episode_number": 7,
+          "name": "Bir Yıldızın Gülüşü",
+          "description": "",
+          "release_date": "2013-05-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7NeR1gchHyC7NKZkprSLHpSgPKa.jpg",
+          "videos": [
+            {
+              "id": 373372,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631dea65aaa5e211ba384265",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 203065,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4537386",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203064,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/QJbOKGaQ39C03a9",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203060,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-z1rh6ljdw5h6.html",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203063,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/dg73oicirmml.html",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 146699,
+          "episode_number": 8,
+          "name": "Çıplak Yüzüme Bak",
+          "description": "Kazuya, kampüse gizlice girdiği fotoğrafıyla Akiye şantaj yaparken, gerçek benliğinin parçalarını yakalamaya başlar. Sert Öğrenci Vücut Başkanı, dalmayı seven genç bayan ve kendine güveni olmayan bir kız ...",
+          "release_date": "2013-05-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7NeR1gchHyC7NKZkprSLHpSgPKa.jpg",
+          "videos": [
+            {
+              "id": 373373,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631deb46aaa5e211ba384266",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 203072,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4537388",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203071,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/bRyJkW20jpCPaPA",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203067,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-rqcet4wa8vt6.html",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203070,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/rbhh32ao5ozj.html",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 146700,
+          "episode_number": 9,
+          "name": "Aşk Mücadelesi",
+          "description": "Nonokanın şu anda iki hedefi var. Birincisi usta yükseliş topu.",
+          "release_date": "2013-05-31T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/d1uKG4dxMBNon0Hk5O5PL8WeGjh.jpg",
+          "videos": [
+            {
+              "id": 373374,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631debaaaaa5e211ba384267",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 203079,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4537390",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203078,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/7DmMGkjJzYHAK9v",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203074,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-sv8mx5d1z2yc.html",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203077,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/kx9g1upg841g.html",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 146701,
+          "episode_number": 10,
+          "name": "Bir Meleğin Dansı",
+          "description": "",
+          "release_date": "2013-06-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lV3wvufx7g3fIh5HLTFtuIPsYHg.jpg",
+          "videos": [
+            {
+              "id": 373375,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631dec3faaa5e211ba384268",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 203086,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4537391",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203085,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/YOLwrrpL9ktvy7d",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203081,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-q2aytpdlxvfm.html",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203084,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/ikr73qa04bjw.html",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 146702,
+          "episode_number": 11,
+          "name": "Akademinin Karısı",
+          "description": "Kazuya, Rinanın hamburgerlerinden birini denedikten sonra Aşçılık Atölyesine üye toplamaya yardım edeceğine söz verir.",
+          "release_date": "2013-06-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cqeTnj5xdFSaikB3Jo5QG2cldxA.jpg",
+          "videos": [
+            {
+              "id": 373395,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631dedccaaa5e211ba384269",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 203093,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4537393",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203092,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/WPmDxL6OQ4sbKwV",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203088,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-ekp5ij079di3.html",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203091,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/8d2ck36hm43m.html",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 146703,
+          "episode_number": 12,
+          "name": "Fotoğraf Hafızası",
+          "description": "Tomoe kendinden mutsuzdur ve mesafeli kalmaya çalışır, ancak Kazuya buna katlanmayacaktır. Tomoenun sade olmadığını fark etmesini ve arkadaş edinmesine yardım etmesini istiyor. Ama ya görünmez kalmaya çalışmasının bir nedeni varsa ...",
+          "release_date": "2013-06-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/reEORR1g7kUyZIoLgtCMMZwQMnG.jpg",
+          "videos": [
+            {
+              "id": 373399,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631deedcaaa5e211ba38426a",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 203100,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4537395",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203099,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/7d0Y4GoGK6T8Lb",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203095,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-e5hhuu75cpth.html",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203098,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/1hfob9ci8vr0.html",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 146704,
+          "episode_number": 13,
+          "name": "Birbirimizi Sevmek",
+          "description": "Kazuyanın büyük bir sorunu var. Ebeveynleri Avrupa gezisine çıkarken, küçük kız kardeşi Kanon için öfkelenebileceğini fark eder.",
+          "release_date": "2013-06-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2vMxVMvQHa3lk38KhmtkK4x2Ssx.jpg",
+          "videos": [
+            {
+              "id": 373400,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631defd7aaa5e211ba38426b",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 203107,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4537397",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203106,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/YDP0B6VvWrso0B",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203102,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-atz57ufgqzfg.html",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203105,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/k7w6wfgh5fp0.html",
+              "extra": "BuDu / benli11 / http://www.anisekai.com",
+              "fansub": "BuDu",
+              "fansub_id": 770,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

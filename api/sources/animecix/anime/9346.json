@@ -1,0 +1,935 @@
+{
+  "id": 9346,
+  "name": "Oneechan ga Kita",
+  "name_english": "My Big Sister Arrived",
+  "name_romanji": "My Big Sister Arrived",
+  "original_title": "お姉ちゃんが来た",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2014,
+  "release_date": "2014-01-09",
+  "description": "Hikayenin kahramanı, 13 yaşındaki Tomoya Mizuhara, babası yeniden evlenince bir anda abla sahibi oluyor. 17 yaşındaki Ichika biraz farklı bir kız ve Tomoya’ya olan ilgisi hem bunaltıcı hem de biraz korkutucu. Buna ek olarak, Ichika’nın arkadaşı Ruri tam bir sadist. Bir de Ichika’nın iri göğüslü çeyrek Japon arkadaşı Marina var.",
+  "poster": "https://image.tmdb.org/t/p/original/1VGTgk5gtCKNKNghWxsJiMKUv7o.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/996SZsMPTnm0JADuuUKO5fTEQg3.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    4
+  ],
+  "tmdb_id": 72452,
+  "mal_id": 20931,
+  "anilist_id": 0,
+  "imdb_id": "tt3358452",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 3549,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 13,
+      "episodes": [
+        {
+          "id": 169643,
+          "episode_number": 1,
+          "name": "O geldi! O geldi!",
+          "description": "Babam yeniden evlendiğinde, tuhaf bir ablam oldu.",
+          "release_date": "2021-12-28T06:35:17.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dGOZkrWymxm4NWskvqsf6Ez859G.jpg",
+          "videos": [
+            {
+              "id": 647672,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/665cf172a78f8877c29c7c27",
+              "extra": "TAÇE",
+              "fansub": "TAÇE",
+              "fansub_id": 772,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 211436,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4559400",
+              "extra": "TAÇE",
+              "fansub": "TAÇE",
+              "fansub_id": 772,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 647676,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5552789",
+              "extra": "TAÇE",
+              "fansub": "TAÇE",
+              "fansub_id": 772,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 211435,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/2K4QX6BRg6fV2d",
+              "extra": "TAÇE",
+              "fansub": "TAÇE",
+              "fansub_id": 772,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 211431,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-21k38ntly07t.html",
+              "extra": "TAÇE",
+              "fansub": "TAÇE",
+              "fansub_id": 772,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 211434,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/s6jh4hfy37gb.html",
+              "extra": "TAÇE",
+              "fansub": "TAÇE",
+              "fansub_id": 772,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 169644,
+          "episode_number": 2,
+          "name": "Okula Geldi!",
+          "description": "Liseli! Ve o seksiler!",
+          "release_date": "2014-01-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4udufQr3EmabckeP6fJo4kc7uKq.jpg",
+          "videos": [
+            {
+              "id": 647677,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/665cf1eaa78f8877c29c7c28",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 211446,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4559416",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 647681,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5552793",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 211445,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/ZXv27GkyYZCq6Ky",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 211441,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-3u6watkzlvqk.html",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 211444,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/yftmo18pow3m.html",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 169645,
+          "episode_number": 3,
+          "name": "Büyük Kızkardeşler Geldi!",
+          "description": "Küçük kardeşler çok harika!",
+          "release_date": "2014-01-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/g1kMm198V79gmjqZJclz7yJ1MsD.jpg",
+          "videos": [
+            {
+              "id": 647682,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/665cf263a78f8877c29c7c29",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 211455,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4559418",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 647686,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5552795",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 211454,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/eL2bYD03G9SYPK8",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 211450,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-knmatzlke89x.html",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 211453,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/1tsqmsey7luu.html",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 169646,
+          "episode_number": 4,
+          "name": "Sert Adam Kouki Geldi!",
+          "description": "Kız kardeşini kabul etmem!",
+          "release_date": "2014-01-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1XxO14tg0TC4EnsMEigTD5ldfGE.jpg",
+          "videos": [
+            {
+              "id": 647687,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/665cf2dba78f8877c29c7c2a",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 211473,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4559423",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 647691,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5552796",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 211472,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/3pVoWDB8VZSdzdV",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 211468,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-bvxp4onwflkf.html",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 211471,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/s3srjigdo1lv.html",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 169647,
+          "episode_number": 5,
+          "name": "Mayo Zamanı Geldi!",
+          "description": "Üç liseli kız!",
+          "release_date": "2014-02-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xfVtmez7YKCdAiTlCwuIDDFGiDy.jpg",
+          "videos": [
+            {
+              "id": 390096,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63375009d03cb090cb4c5906",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 211481,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4559425",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 211480,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/17rdLw9mWJFeoex",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 211476,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-wme7ucnbq775.html",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 211479,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/8qzhtmpa3vtx.html",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 169648,
+          "episode_number": 6,
+          "name": "Ateşli Bir Adam Geldi!",
+          "description": "Tomo-kun ile alışveriş!",
+          "release_date": "2014-02-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fsjXTWNLXb6fY0SgkSyYTtYQTW5.jpg",
+          "videos": [
+            {
+              "id": 647692,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/665cf353a78f8877c29c7c2b",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 211488,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4559426",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 647696,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5552797",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 211487,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/yMGa7O0OXqT1RAk",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 211483,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-f7gg2hw6zasv.html",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 211486,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/z2x7ubimutd0.html",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 169649,
+          "episode_number": 7,
+          "name": "Noel Geldi!",
+          "description": "Aşkın kırbacı şarkısı!",
+          "release_date": "2014-02-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ayXRY1Ph0Xa18vUOB5geGdmlMyP.jpg",
+          "videos": [
+            {
+              "id": 647697,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/665cf3cba78f8877c29c7c2c",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 211495,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4559428",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 647701,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5552798",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 211494,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/7GG1K20kqDuAkMl",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 211490,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-y2jvwf2ttfoe.html",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 211493,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/j4tf4yifydbu.html",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 169650,
+          "episode_number": 8,
+          "name": "Yılbaşı Geldi!",
+          "description": "Yaşlı kadınlar olduğu yerde.",
+          "release_date": "2014-02-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/rFvLmMV0KCJXixv9CvMH5jx7vpl.jpg",
+          "videos": [
+            {
+              "id": 647702,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/665cf449a78f8877c29c7c2d",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 211502,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4559430",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 647706,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5552799",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 211501,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/rBD6dV0GPJcbWox",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 211497,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-we2d4tol4zj3.html",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 211500,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/2p6c8zbun5g4.html",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 169651,
+          "episode_number": 9,
+          "name": "Sevgililer Günü Geliyor!",
+          "description": "Kendimi çikolatayla kaplasam nasıl olur?",
+          "release_date": "2014-03-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/654mA4t3XvlotLuCALGnFtYBoua.jpg",
+          "videos": [
+            {
+              "id": 647707,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/665cf4c0a78f8877c29c7c2e",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 211509,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4559431",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 647711,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5552801",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 211508,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/j4or3ZzgQrSzwwb",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 211504,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-iyvvl10ue93k.html",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 211507,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/7vvwsu36hnne.html",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 169652,
+          "episode_number": 10,
+          "name": "Sevgililer Günü Geldi!",
+          "description": "Boş...",
+          "release_date": "2014-03-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qnBB0Ig1tov2EowgqPqy5aHNSAK.jpg",
+          "videos": [
+            {
+              "id": 647712,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/665cf537a78f8877c29c7c2f",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 211519,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4559433",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 647716,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5552803",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 211518,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/jgdwozlkZLFz84a",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 211514,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-0hf2cy1jt1d8.html",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 211517,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/mnenigku5l5f.html",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 169653,
+          "episode_number": 11,
+          "name": "Beyaz Gün Geldi!",
+          "description": "Beyaz Gün'de aşkını itiraf et.",
+          "release_date": "2014-03-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/meir1UGdbhrMxifQHGvXMu01sLo.jpg",
+          "videos": [
+            {
+              "id": 647717,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/665cf5afa78f8877c29c7c30",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 211526,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4559435",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 647721,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5552804",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 211525,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/x3KxV0LedzhkLq2",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 211521,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-v5dksp3617m8.html",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 211524,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/dpmmn1svcoao.html",
+              "extra": "Valiedhiel",
+              "fansub": "Valiedhiel",
+              "fansub_id": 3007,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 169654,
+          "episode_number": 12,
+          "name": "Başucu Hemşirem Geldi!",
+          "description": "Dünyanın 1 Numaralı Ablası",
+          "release_date": "2014-03-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/z2TWlAfnJooJtDIVos5CqKenEpH.jpg",
+          "videos": [
+            {
+              "id": 647732,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/665cf79aa78f8877c29c7c33",
+              "extra": "Hawkon / www.horizonsubs.com",
+              "fansub": "Hawkon",
+              "fansub_id": 908,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 211539,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4559436",
+              "extra": "Hawkon / www.horizonsubs.com",
+              "fansub": "Hawkon",
+              "fansub_id": 908,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 647736,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5552807",
+              "extra": "Hawkon / www.horizonsubs.com",
+              "fansub": "Hawkon",
+              "fansub_id": 908,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 211538,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/x38L8xyjg7iq7v",
+              "extra": "Hawkon / www.horizonsubs.com",
+              "fansub": "Hawkon",
+              "fansub_id": 908,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 211534,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-lujev2poguzt.html",
+              "extra": "Hawkon / www.horizonsubs.com",
+              "fansub": "Hawkon",
+              "fansub_id": 908,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 211537,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/84nah830gcr0.html",
+              "extra": "Hawkon / www.horizonsubs.com",
+              "fansub": "Hawkon",
+              "fansub_id": 908,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 169655,
+          "episode_number": 13,
+          "name": "Oneechan ga Kita Özel",
+          "description": "Bu bölüm Ichika ve Tomoya'nın ilk karşılaşmasını gösteriyor.",
+          "release_date": "2014-03-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lPPMshKbOtmCBZqv6n0ZMyJKCUw.jpg",
+          "videos": [
+            {
+              "id": 647737,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/665cf851a78f8877c29c7c34",
+              "extra": "Taçe",
+              "fansub": "Taçe",
+              "fansub_id": 772,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 211546,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4559438",
+              "extra": "Taçe",
+              "fansub": "Taçe",
+              "fansub_id": 772,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 647741,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5552808",
+              "extra": "Taçe",
+              "fansub": "Taçe",
+              "fansub_id": 772,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 211545,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/46LvXexyRyFpwX",
+              "extra": "Taçe",
+              "fansub": "Taçe",
+              "fansub_id": 772,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 211541,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-9n3pp5wpsz7q.html",
+              "extra": "Taçe",
+              "fansub": "Taçe",
+              "fansub_id": 772,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 211544,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/mij9tz0c9434.html",
+              "extra": "Taçe",
+              "fansub": "Taçe",
+              "fansub_id": 772,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -88,6 +88,13 @@ def _build_embed(stats: dict, elapsed: str, error_lines: list[str], crash_error:
         if value is not None:
             summary_lines.append(f"**{label}:** `{value}`")
 
+    # Ekstra / Kaynak bazlı istatistikler
+    for key, value in stats.items():
+        if key not in stat_labels and value is not None:
+            label = key.replace("_", " ").title()
+            summary_lines.append(f"**{label}:** `{value}`")
+
+
     if summary_lines:
         fields.append({
             "name": "📊 İşlem Özeti",

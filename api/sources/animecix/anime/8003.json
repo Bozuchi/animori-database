@@ -1,0 +1,1181 @@
+{
+  "id": 8003,
+  "name": ".hack//Sign",
+  "name_english": ".hack",
+  "name_romanji": ".hack",
+  "original_title": ".hack",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2002,
+  "release_date": "2002-04-04",
+  "description": ".hack follows several young players as they navigate the vast, mysterious MMORPG known as “The World” – a place, it turns out, that is sometimes impossible to leave.",
+  "poster": "https://image.tmdb.org/t/p/original/wNplB2ViLejqtyU76Qz2iv3oZPM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nQC4IrpJOUvlWTkmU1UaRaere8B.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    8,
+    1
+  ],
+  "tmdb_id": 8864,
+  "mal_id": 873,
+  "anilist_id": 0,
+  "imdb_id": "tt0361140",
+  "season_count": 4,
+  "seasons": [
+    {
+      "id": 1569,
+      "season_number": 1,
+      "name": ".hack//SIGN",
+      "episode_count": 26,
+      "episodes": [
+        {
+          "id": 137374,
+          "episode_number": 1,
+          "name": "Rol yapma",
+          "description": "Tsukasa, The World adlı bir MMORPGde sıkışıp kaldı. Bilinci erişilemez haldeyken Tsukasa, oyunda olma amacını bulmaya çalışır.",
+          "release_date": "2002-04-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qDMaGX3NQggtdKbEcHCwqSMX5v3.jpg",
+          "videos": [
+            {
+              "id": 677029,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66ce1bf548d0b8046dc0671c",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677032,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5654037",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 137375,
+          "episode_number": 2,
+          "name": "Muhafız",
+          "description": "Tsukasa’nın dünyadan çıkış yapamaması, Mimiru’yu endişelendirir. Kızıl Şövalyeler ise Tsukasayı bir tehdit olarak görüyor.",
+          "release_date": "2002-04-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/u9Fnd9wtebL7fmomQ9a6xGQXMeP.jpg",
+          "videos": [
+            {
+              "id": 677033,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66ce1ca848d0b8046dc0671d",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677036,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5654038",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 137376,
+          "episode_number": 3,
+          "name": "Folklor",
+          "description": "BT ve Sora, Tsukasanın bir şekilde çok önemli bir eser olan Alacakaranlığın Anahtarı ile bağlantılı olduğundan şüphelenir.",
+          "release_date": "2002-04-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jxrTDTJ0RNfHpWqmCBDWFb0ix0G.jpg",
+          "videos": [
+            {
+              "id": 677037,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66ce1d6148d0b8046dc0671e",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677040,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5654039",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 137377,
+          "episode_number": 4,
+          "name": "Aranan",
+          "description": "Tsukasanın öfkeli Guardian canavarı Dünyayı kasıp kavurur ve Subarunun bir fermanı onu aranan bir adam yapar.",
+          "release_date": "2002-04-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cak43goOsVyi2oZfjuNZFvsKYCN.jpg",
+          "videos": [
+            {
+              "id": 677041,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66ce1dfe48d0b8046dc0671f",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677044,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5654041",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 137378,
+          "episode_number": 5,
+          "name": "Yakalandı",
+          "description": "Tsukasa nihayet Koruyucu canavarını evcilleştiriyor, ancak onun haberi olmadan biri onun yakalanmasını planlıyor.",
+          "release_date": "2002-05-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ant9cYHOTMJomPqN8Ea4ZHY67VN.jpg",
+          "videos": [
+            {
+              "id": 677045,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66ce1e9c48d0b8046dc06720",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677048,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5654043",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 137379,
+          "episode_number": 6,
+          "name": "Karşılaşma",
+          "description": "Subaru, Tsukasayı yavaş yavaş tanıyarak dikkatle gözlemler. Sora bir kurtarma görevi başlatır.",
+          "release_date": "2002-05-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8RsgrUY7JL91orFrs0laqLl47m8.jpg",
+          "videos": [
+            {
+              "id": 677049,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66ce1f7548d0b8046dc06721",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677052,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5654044",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 137380,
+          "episode_number": 7,
+          "name": "Nedeni",
+          "description": "Mimiru, acemi bir oyuncuyla karşılaşır ve ona Dünyada rehberlik eder. Bu yeni ilişki, Mimirunun oynamak için kendi motivasyonunu ortaya çıkarmasına yardımcı olur.",
+          "release_date": "2002-05-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tj5hm6LN7HbCl95nRxvX5y1KAXg.jpg",
+          "videos": [
+            {
+              "id": 677053,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66ce202e48d0b8046dc06722",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677056,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5654046",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 137381,
+          "episode_number": 8,
+          "name": "Söz vermek",
+          "description": "Mimiru, Tsukasayı buluşma davetini genişletir; BT ve Crim ilginç bir karşılaşmayı paylaşıyor.",
+          "release_date": "2002-05-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8ajyPYoZjmFy7WrWZComDnZNP5b.jpg",
+          "videos": [
+            {
+              "id": 677057,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66ce20e548d0b8046dc06723",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677060,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5654048",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 137382,
+          "episode_number": 9,
+          "name": "Yazıtı",
+          "description": "Seçkin bir bilgisayar korsanı, Alacakaranlığın Anahtarı arayışında etkili olur ve Tsukasa, hasta bir Grunty ile sıkışıp kalır.",
+          "release_date": "2002-05-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ew9CVBkUGhKPvwcXThv4SZ2Ci1.jpg",
+          "videos": [
+            {
+              "id": 677061,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66ce21a248d0b8046dc06724",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677064,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5654049",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 137383,
+          "episode_number": 10,
+          "name": "Tazminat",
+          "description": "Bearın bir baba olarak kusurları, onun Tsukasaya duyduğu endişenin kaynağı olabilir. Alacakaranlığın Anahtarı arayışı devam ederken ipuçları ortaya çıkar.",
+          "release_date": "2002-06-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xNr3oTGI6JHnUc8fMuvkhMy0QXO.jpg",
+          "videos": [
+            {
+              "id": 677069,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66ce231e48d0b8046dc06726",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677072,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5654054",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 137384,
+          "episode_number": 11,
+          "name": "Parti",
+          "description": "Mimiru, Bear ve Tsukasa, savaşmayan bir göreve başlamadan önce güçlerini birleştirir.",
+          "release_date": "2002-06-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cW91Bxwj6Nw7Fms2XwX56uBeq0X.jpg",
+          "videos": [
+            {
+              "id": 677073,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66ce23e048d0b8046dc06727",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677076,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5654055",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 137385,
+          "episode_number": 12,
+          "name": "Dolaşıklık",
+          "description": "Tsukasa, esir tutulan gelişmiş bir AI olan Auraya rastlar.",
+          "release_date": "2002-06-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/uP00zRhQWFFZmGpzAB8KfPKovh3.jpg",
+          "videos": [
+            {
+              "id": 677077,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66ce24a048d0b8046dc06728",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677080,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5654057",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 137386,
+          "episode_number": 13,
+          "name": "Alacakaranlık Gözü",
+          "description": "Alacakaranlık Gözünü açmanın bir yolu keşfedilir ve grup, önlerinde açılan yeni yolu izlemeye karar verir.",
+          "release_date": "2002-06-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/o9gzKQooZLAqFbRUIgCixt13wAl.jpg",
+          "videos": [
+            {
+              "id": 677081,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66ce255e48d0b8046dc06729",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677084,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5654059",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 137387,
+          "episode_number": 14,
+          "name": "Kale",
+          "description": "Göz açıldıktan sonra, grubun anahtarı aramasını zorlaştıran gizli bir alan belirir.",
+          "release_date": "2002-07-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1SIt0fU6nm5pK3k6o5RsE2PEPWD.jpg",
+          "videos": [
+            {
+              "id": 677085,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66ce25ff48d0b8046dc0672a",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677088,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5654060",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 137388,
+          "episode_number": 15,
+          "name": "Kanıt",
+          "description": "Geçmiş olaylara yeni bir ışık tutabilecek bir dizi canlı geri dönüşte bu çığır açan animenin tüm önemli anlarını yeniden ziyaret edin!",
+          "release_date": "2002-07-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oaR1fGQzmNosJb1XLRTtZ574ZCk.jpg",
+          "videos": [
+            {
+              "id": 677089,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66ce269c48d0b8046dc0672b",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677092,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5654062",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 137389,
+          "episode_number": 16,
+          "name": "Derinlik",
+          "description": "Tsukasa, sadece ölemeyeceğini keşfetmek için Dünyaya tekrar giriş yapar. Şaşırarak cevaplar için Subaruya döner.",
+          "release_date": "2002-07-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9Y1z9vZMX7VAbAk1UXAKCjZvDiw.jpg",
+          "videos": [
+            {
+              "id": 677093,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66ce274248d0b8046dc0672c",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677096,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5654064",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 137390,
+          "episode_number": 17,
+          "name": "Fikir ayrılığı",
+          "description": "Crim oyun dışında BT ile buluşmayı reddediyor. Daha sonra Tsukasa bir kurtarma girişiminde bulunur ve sırlar ortaya çıkar.",
+          "release_date": "2002-07-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/eWpeRmPmxGbgHwshGal7maZeyeV.jpg",
+          "videos": [
+            {
+              "id": 677097,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66ce27e948d0b8046dc0672d",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677100,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5654066",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 137391,
+          "episode_number": 18,
+          "name": "Beyanname",
+          "description": "Gümüş Şövalye, Subaru ve Tsukasa arasındaki her türlü olası randevuyu bozar. Subaru, Kızıl Şövalyelerin geleceği üzerine kafa yorar.",
+          "release_date": "2002-08-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zcMOk7Tv1ivDgpW66uuEq8hf1vr.jpg",
+          "videos": [
+            {
+              "id": 677101,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66ce289148d0b8046dc0672e",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677104,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5654067",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 137392,
+          "episode_number": 19,
+          "name": "Hatırlama",
+          "description": "Subaru, geçmiş deneyimlerini yansıtan Dünyada amaçsızca sürüklenir. Tsukasa ile bağlantısı, beklenmedik bir saldırının ardından daha da güçlenir.",
+          "release_date": "2002-08-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sHBfbY0MaHtiN3dr4EsVg32ajQi.jpg",
+          "videos": [
+            {
+              "id": 677105,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66ce293948d0b8046dc0672f",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677108,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5654069",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 137393,
+          "episode_number": 20,
+          "name": "Fırtına",
+          "description": "Aura kaybolur, Morganna Tsukasaya saldırır ve Alacakaranlık Anahtarını arama çalışmaları devam eder.",
+          "release_date": "2002-08-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wx1wsMmpiqKKWpS9TmBJHNu726l.jpg",
+          "videos": [
+            {
+              "id": 677109,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66ce29e148d0b8046dc06730",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677112,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5654075",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 137394,
+          "episode_number": 21,
+          "name": "Umutsuzluk",
+          "description": "Tsukasa katatonik bir durumda kalıyor ve son derece güçlü bazı canavarlar Dünyada varlıklarını hissettiriyor.",
+          "release_date": "2002-08-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oSuCRwvtHOQGt6IQ4pNoEmoyU5M.jpg",
+          "videos": [
+            {
+              "id": 677113,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66ce2a8b48d0b8046dc06731",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677116,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5654079",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 137395,
+          "episode_number": 22,
+          "name": "Hayalet",
+          "description": "Bear, Mimiru ve Subaru, görünüşte durdurulamaz görünen başka bir canavar tarafından saldırıya uğrar, ancak Balmung kurtarmaya gelir.",
+          "release_date": "2002-08-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/p5dhG32phcpxhfjYYkMQ2na4WO3.jpg",
+          "videos": [
+            {
+              "id": 677117,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66ce2b3c48d0b8046dc06732",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677120,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5654082",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 137396,
+          "episode_number": 23,
+          "name": "Arife",
+          "description": "Tsukasa, Helbanın kapısından geçemeyecek kadar korkar ve Crim, Subarunun gerçek yaşam durumunu açıklar.",
+          "release_date": "2002-09-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/rPzsknRiIl4SPuz5kOweBhaXmHx.jpg",
+          "videos": [
+            {
+              "id": 677121,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66ce2be148d0b8046dc06733",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677124,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5654090",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 137397,
+          "episode_number": 24,
+          "name": "Net Gecekondu",
+          "description": "Helbanın diyarına (Net Gecekondu mahallesi) varan grup, Subaruyu Morgannanın saldırısına karşı korumak zorunda kalır.",
+          "release_date": "2002-09-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fWsH8vw2g6DKPW9IN5zOV7Ki8AT.jpg",
+          "videos": [
+            {
+              "id": 677125,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66ce2c9348d0b8046dc06734",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677128,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5654093",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 137398,
+          "episode_number": 25,
+          "name": "Felaket",
+          "description": "Çatışma yoğunlaştıkça grup, Katedrale sığınır. Morganna, muhafızları emirlerini yerine getirmeleri için çağırır.",
+          "release_date": "2002-09-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/b1FVersANhmHqr3ZXB1WLNzQJRj.jpg",
+          "videos": [
+            {
+              "id": 677129,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66ce2d3948d0b8046dc06735",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677132,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5654095",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 137399,
+          "episode_number": 26,
+          "name": "Dönüş",
+          "description": "Subarudan güç alan Tsukasa, Aurayı uyandırma cesaretini toplar. Dünyanın dışında, oyuncular gerçek bir yaşam karşılaşmasını paylaşır.",
+          "release_date": "2002-09-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vXoDxnko3YD8FTykblpXYcOtLME.jpg",
+          "videos": [
+            {
+              "id": 677133,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66ce2e1048d0b8046dc06736",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677136,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5654099",
+              "extra": "AnimeOU",
+              "fansub": "AnimeOU",
+              "fansub_id": 199,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1570,
+      "season_number": 2,
+      "name": ".hack//Legend of the Twilight",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 138069,
+          "episode_number": 1,
+          "name": "Efsanevi Kahraman",
+          "description": "Bir yarışma kazandıktan sonra ikizler Shugo ve Rena, efsanevi hacker karakterleri olarak Dünyaya girer. Shugo, beklenmedik derecede güçlü bir canavar tarafından yenilir ve bu da gizemli bir kadın tarafından dirilişine yol açar.",
+          "release_date": "2003-01-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/iOB9qGAtFnMmETOa4SAA2mdDkFN.jpg",
+          "videos": []
+        },
+        {
+          "id": 138070,
+          "episode_number": 2,
+          "name": "Uçurtma Bileziği",
+          "description": "Balmung, Shugo, Rena ve yeni yardımcıları Mireillein katılmaya karar verdiği kiraz çiçeği ağaçlarının çiçek açması için bir etkinlik düzenlemeye karar verir. Bir canavar belirdikten sonra Shugo, savaşta yardım için tüylü bir arkadaşına güvenmek zorundadır.",
+          "release_date": "2003-01-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/3meTmfy9NFjx0LGLnOshi17HHTr.jpg",
+          "videos": []
+        },
+        {
+          "id": 138071,
+          "episode_number": 3,
+          "name": "Anka Kuşu Tüyü",
+          "description": "Shugo, partisindeki üyelerin tüm işi yapmasına izin vererek seviye atlar. Daha sonra, hasta hırsızlığı ancak Dünyanın tehlikeli bir yerinde bulunan bir eşya ile iyileştirilebilen başka bir oyuncuya yardım ediyor.",
+          "release_date": "2003-01-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lPfKBKPJ6kHxHAtfX7zh4uPhz2y.jpg",
+          "videos": []
+        },
+        {
+          "id": 138072,
+          "episode_number": 4,
+          "name": "Tanabata Gecesi",
+          "description": "Sanjuro, Shugoyu eğitmeye başlar ve Rena, dileklerini gerçekleştirebilecek bir olayda sıkıntıya düşen genç kız olarak seçilir.",
+          "release_date": "2003-01-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/429Qo0armrjtEV92Y0S7rqc8ogL.jpg",
+          "videos": []
+        },
+        {
+          "id": 138073,
+          "episode_number": 5,
+          "name": "Terör Konağı",
+          "description": "Rena, Shugoya yönelik bir tuzağa düşer. Ortadan kaybolması, grubu nereye gittiğini merak etmesine neden olur.",
+          "release_date": "2003-02-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/515xBpIDvpYnXcUeUAn2bdYUZFP.jpg",
+          "videos": []
+        },
+        {
+          "id": 138074,
+          "episode_number": 6,
+          "name": "Sıcak Buharlı Su Tuzağı",
+          "description": "Rena arayışı başlar. Gizemli bir mesaj, arama ekibini tehlikeli bir yere götürür. Parti, yürek parçalayıcı haberlerle hazırlıksız yakalanır.",
+          "release_date": "2003-02-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4eeA5ESU9U8SODPz2fH8dyrqiU5.jpg",
+          "videos": []
+        },
+        {
+          "id": 138075,
+          "episode_number": 7,
+          "name": "Alacakaranlık Ay",
+          "description": "Rena komada kalır ve Dünyadan çıkış yapamaz. Balmung, diğer birkaç kullanıcının da benzer şekilde etkilendiğini ortaya koyuyor.",
+          "release_date": "2003-02-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2AVosoRDuJYQZjhHXQeB2ibMJf.jpg",
+          "videos": []
+        },
+        {
+          "id": 138076,
+          "episode_number": 8,
+          "name": "Yalnız Şövalye",
+          "description": "Balmungun yönetici rolü elinden alınır ve Rena, Auranın yardımıyla Shugo ile iletişime geçmeye çalışır.",
+          "release_date": "2003-02-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/hsfIlFHnaMuTm3eyCSmayHmyJm5.jpg",
+          "videos": []
+        },
+        {
+          "id": 138077,
+          "episode_number": 9,
+          "name": "Çöküşün Ayak Sesleri",
+          "description": "Shugo, Renaya ulaşmak için yeni bir yetenek kullanır. İkisi neredeyse birleşmiş durumda, ancak sahte bir yapay zeka durumu karmaşıklaştırıyor.",
+          "release_date": "2003-03-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/t5ZcXL8bOSUqNqdiqQwbBp1i5Cm.jpg",
+          "videos": []
+        },
+        {
+          "id": 138078,
+          "episode_number": 10,
+          "name": "İllüzyon Başkenti",
+          "description": "Shugo grupla birlikte eğitimine devam eder ve takım çalışmaları yeni bir canavarın ortaya çıkmasıyla test edilir.",
+          "release_date": "2003-03-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/yF4PbBx6ZX7w8Vk632TjPpdDcoa.jpg",
+          "videos": []
+        },
+        {
+          "id": 138079,
+          "episode_number": 11,
+          "name": "Dünyanın sonu",
+          "description": "Grup, tehlikeli bir saldırı dalgasını savuşturduktan sonra, Aura’nın alışılmadık yöntemler kullanarak Dünya’nın dengesini koruma planını öğrenir.",
+          "release_date": "2003-03-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oHI3gSGOBMSVREoCyPgRmDGMI63.jpg",
+          "videos": []
+        },
+        {
+          "id": 138080,
+          "episode_number": 12,
+          "name": "Efsane Başlıyor",
+          "description": "Bir virüs, partinin savaşta zafere ulaşmasını engeller. Veri boşaltmanın tek seçenek olarak kalmasıyla Shugo, Renayı kurtarmak için yeteneklerini daha önce hiç olmadığı gibi kullanmalıdır.",
+          "release_date": "2003-03-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lIDXFQRAAtlDEmmADuvgn0tQNad.jpg",
+          "videos": []
+        }
+      ]
+    },
+    {
+      "id": 1571,
+      "season_number": 3,
+      "name": ".hack//Roots",
+      "episode_count": 26,
+      "episodes": [
+        {
+          "id": 137419,
+          "episode_number": 1,
+          "name": "Dünyaya hoşgeldin",
+          "description": "Haseo’nun Dünya’ya girişi, düşmanca bir saldırı ve ezici bir yenilgiyle işaretlenir. Gizemli bir yabancı ona yeni bir hayat verene kadar macerası başlamadan bitmiş gibi görünüyor.",
+          "release_date": "2006-04-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cz1KR44IEpmBjNOAFS6BaSsVFdM.jpg",
+          "videos": []
+        },
+        {
+          "id": 137420,
+          "episode_number": 2,
+          "name": "Alacakaranlık Tugayı",
+          "description": "Gizemli kurtarıcısı hakkında bilgi arayışı, Haseonun Ovanın loncasına katılmasına neden olur.",
+          "release_date": "2006-04-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/l4luRbmLsiYsL6KXqRxGMGq9v16.jpg",
+          "videos": []
+        },
+        {
+          "id": 137421,
+          "episode_number": 3,
+          "name": "Katılmak",
+          "description": "Haseo hakkında yayılan söylentiler ona karşı saldırılara yol açar. İki ayrı loncaya katılma davetleri ilgisini çeker, ancak Shino ile karşılaşması onun seçimini etkileyecektir.",
+          "release_date": "2006-04-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7VGD5bLii0p7DGoOEuCUnTJX6tf.jpg",
+          "videos": []
+        },
+        {
+          "id": 137422,
+          "episode_number": 4,
+          "name": "Fore Feel",
+          "description": "Haseo, seviye atlamak için oyun boyunca bir yolculuğa çıkar, Sakisaka şüphelenir ve Tabby zamansız bir sonla karşılaşır.",
+          "release_date": "2006-04-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pRGlcv79ZZa1UAahMWzMhCasTOd.jpg",
+          "videos": []
+        },
+        {
+          "id": 137423,
+          "episode_number": 5,
+          "name": "Güvensizlik",
+          "description": "Haseonun bir casus olarak hareket ettiğinden şüphelenilir ve onu Twilight Bridgade ile anlaşmazlığa düşürür. Düşüşten sonraki eylemleri, yalnızca onu daha da etkilemeye hizmet eder.",
+          "release_date": "2006-05-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lUooT3KvlpJbwvHkRhdAgVf865J.jpg",
+          "videos": []
+        },
+        {
+          "id": 137424,
+          "episode_number": 6,
+          "name": "Fikir ayrılığı",
+          "description": "Sakisaka’nın sadakatiyle ilgili endişeler ortaya çıkar, Dünya teknik zorluklarla karşılaşır ve Haseo birkaç yeni numara açıklar.",
+          "release_date": "2006-05-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/avsSC3xZ1b0Bwa1ZN5wN5W5fXRi.jpg",
+          "videos": []
+        },
+        {
+          "id": 137425,
+          "episode_number": 7,
+          "name": "Entrika",
+          "description": "Haseo, Kayıp Zeminlerde dolaşırken garip olaylar Dünyanın başına bela olur. Daha sonra, bir grup keşfi şok edici yeni bilgilere ve aniden ortadan kaybolmaya yol açar!",
+          "release_date": "2006-05-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/doFJMZfJ46N4a1vKTj9XGzT43GJ.jpg",
+          "videos": []
+        },
+        {
+          "id": 137426,
+          "episode_number": 8,
+          "name": "Başlangıç",
+          "description": "Grup bir portala rastlar, Haseo Ender ile bir karşılaşmayı paylaşır ve virüs çekirdekleri hakkında daha çok şey öğrenilir.",
+          "release_date": "2006-05-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tIlvevY5JrWCAdB2fQwE6frcrMB.jpg",
+          "videos": []
+        },
+        {
+          "id": 137427,
+          "episode_number": 9,
+          "name": "Yakın dövüş",
+          "description": "Tüm Virüs Çekirdeklerini toplamaya çalışırken, Alacakaranlık Tugayı düşmanların saldırısına uğradı ve gizemli, bilinmeyen bir bölgeye taşındı.",
+          "release_date": "2006-06-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/yGwqAsOkJVV6zZuyfEPnW2ayYMw.jpg",
+          "videos": []
+        },
+        {
+          "id": 137428,
+          "episode_number": 10,
+          "name": "Eksik",
+          "description": "Ovan, Alacakaranlık Anahtarını ararken bir tuzağa düşer. Shino, Ovan’ın serbest kalmasını sağlamak için cesur bir tehdit oluşturuyor!",
+          "release_date": "2006-06-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1r8NNX9GZ8Kj6xvn2v1hrOWC2kM.jpg",
+          "videos": []
+        },
+        {
+          "id": 137429,
+          "episode_number": 11,
+          "name": "Uyuşmazlık",
+          "description": "Gord, Dünyayı sonsuza dek terk etmeyi ciddi şekilde düşünür ve yöneticiler bazı çevrimiçi kanun kaçaklarına karşı ciddi önlemler alır.",
+          "release_date": "2006-06-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tVfSMlweO7JUjgKL3uklHqqM4Jk.jpg",
+          "videos": []
+        },
+        {
+          "id": 137430,
+          "episode_number": 12,
+          "name": "Ayrılmak",
+          "description": "Alacakaranlık Tugayı zorla dağıtılır, Gord sonunda Dünyaya katılımıyla ilgili bir karara varır ve Haseo Shinoya yemin eder.",
+          "release_date": "2006-06-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/286B9EUVAVw74G78frQgGYuaHyZ.jpg",
+          "videos": []
+        },
+        {
+          "id": 137431,
+          "episode_number": 13,
+          "name": "Trajedi",
+          "description": "Tabby, Haseo ve Shino’nun değerli veri varlıklarının ortadan kaybolması için bazı şok edici haberler alır.",
+          "release_date": "2006-06-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lwGhM1r3gKaI9B8yJeVowUSmizA.jpg",
+          "videos": []
+        },
+        {
+          "id": 137432,
+          "episode_number": 14,
+          "name": "Geri dönmeyen",
+          "description": "Haseo, Shinonun komaya girmesini engelleyemediği için yıkılır. Tabbynin yeni bir lonca planları vardır, ancak üye eksikliği rahatsız edicidir.",
+          "release_date": "2006-07-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dKxdwT3OsFsEZSL5XeWNQj1ZAen.jpg",
+          "videos": []
+        },
+        {
+          "id": 137433,
+          "episode_number": 15,
+          "name": "Ped",
+          "description": "Tabby, Dünyada yeni olan iki oyuncuyla karşılaşır. Daha sonra seviye atlamanın sırlarını öğrenir ve Haseo intikam arayışına girer.",
+          "release_date": "2006-07-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7Y772NpBToH0XJL2NiF8omi6YFt.jpg",
+          "videos": []
+        },
+        {
+          "id": 137434,
+          "episode_number": 16,
+          "name": "çözüm",
+          "description": "Phyllo, komadaki arkadaşı yüzünden acı çekmeye devam eden Haseoyu teselli etmeye çalışır. Tehlikeli yeni bir arayış - ve yeni keşfedilen gücün vaadi - Haseoyu cezbeder.",
+          "release_date": "2006-07-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/eWXW0x6MnCEzUkC3T4gKIXMQfTA.jpg",
+          "videos": []
+        },
+        {
+          "id": 137435,
+          "episode_number": 17,
+          "name": "Acı Orman",
+          "description": "Tabby, Ağrı Ormanına gittiğinden beri Haseo için endişeleniyordu. Pi tarafından ormana doğru Haseoyu takip etmesi talimatı verilen Subaroya endişesini dile getiriyor. Bu sırada Yata ve Pi, Phylloyu Ovan ile ilişkisi hakkında bilgi almak için teşvik eder.",
+          "release_date": "2006-07-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/37pBECnrsiheMv8hLUI6NsI2Bt.jpg",
+          "videos": []
+        },
+        {
+          "id": 137436,
+          "episode_number": 18,
+          "name": "Sınırı",
+          "description": "Tabby, Ağrı Ormanında Haseoya yardım edememesiyle hâlâ mücadele ediyor. Ormanda, Haseo daha derine inmeden önce savaşması gereken canavarların sayısı giderek arttığı için hayal kırıklığına uğrar, ancak daha fazla güç arayışı onun çöküşü olabilir.",
+          "release_date": "2006-08-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/6l4pIem6S2mpa3ugv1NWj8Ep5oB.jpg",
+          "videos": []
+        },
+        {
+          "id": 137437,
+          "episode_number": 19,
+          "name": "İhlal",
+          "description": "Tawaraya, bir tüccar çetesinin piyasayı doldurarak yüksek enflasyon yarattığını keşfetmek için \"Tohta\" lakabıyla geri döner. Gizlilik arayışına rağmen Tohta geri adım atamaz ve tüccarların masum oyuncuları kandırmasına izin vermez ve müdahale etmeye karar verir.",
+          "release_date": "2006-08-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/l0pkuBvCQ9wmcYV0wi0S5vvNUMe.jpg",
+          "videos": []
+        },
+        {
+          "id": 137438,
+          "episode_number": 20,
+          "name": "Takip",
+          "description": "Haseo’nun Tri-Edge hakkında bilgi arayışı devam ederken, akıl sağlığı kaybolmaya başlar ve ölümcül bir öfke içinde birkaç PKyi öldürür. Yata ve Pi hâlâ Haseo’nun faktörünü arıyor. Subaroyu alması için gönderirler, ancak Haseonun manik gücünün üstesinden gelemez.",
+          "release_date": "2006-08-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8qogGRvRtN7nSLPFt6R3ip13S4c.jpg",
+          "videos": []
+        },
+        {
+          "id": 137439,
+          "episode_number": 21,
+          "name": "Yenilgi",
+          "description": "Gizemli yeni bir oyuncu olan Midori, \"yapabilirsen vur\" hizmetini başlattı. Hala manik gücün pençesinde olan Haseo, Tri-Edgein nerede olduğunu keşfetmek için hizmetlerinden yararlanır. Bu sırada Tohka, Tabbyyi kendi loncasını kurmaya teşvik eder.",
+          "release_date": "2006-08-31T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/82hsC2FYh6nkNQqC1rBTdhFfe3R.jpg",
+          "videos": []
+        },
+        {
+          "id": 137440,
+          "episode_number": 22,
+          "name": "Tahviller",
+          "description": "Tabby yeni bir şifa loncası kurdu, ancak şimdiye kadar pek başarılı olamadılar. Tohka, seviyelerinin herhangi birine yardım etmek için çok düşük olduğuna dikkat çekiyor ve dışarı çıkıp onları yükseltmelerini talep ediyor. Haseo sonunda kasabaya gelir ve Phyllo onu tek başına olmanın tehlikeleri konusunda uyarır.",
+          "release_date": "2006-09-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qowgqzotVRKT2140OXZSBHDBQlX.jpg",
+          "videos": []
+        },
+        {
+          "id": 137441,
+          "episode_number": 23,
+          "name": "Trial",
+          "description": "Haseo, consumed by a violent mania, will stop at nothing to find Tri-Edge, even it if means slaughtering any Player Killer who steps in his way. But while on his murderous rampage he’s left behind a trail of PK enemies who band together to stop him.",
+          "release_date": "2006-09-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1GkYcEE6qqotuvzNSP231nqwatf.jpg",
+          "videos": []
+        },
+        {
+          "id": 137442,
+          "episode_number": 24,
+          "name": "Karşısına çıkmak",
+          "description": "Tüm PKerları acımasızca katlettikten sonra Haseo, \"Ölümün Terörü\" lakabını kazanır. Hala deliliğin pençesinde olan Haseo, eski loncasının yardımını veya uyarılarını reddediyor. Ama Haseo sonunda Tri-Edge ile karşılaştığında planını gerçekleştirebilecek mi?",
+          "release_date": "2006-09-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aC3eEYYa2sEdKE0iUOxYqXwglLS.jpg",
+          "videos": []
+        },
+        {
+          "id": 137443,
+          "episode_number": 25,
+          "name": "Hakikat",
+          "description": "Birkaç gündür Haseodan hiçbir iz yoktu ve sonsuza dek istifa ettiğine dair söylentiler dolaşıyor. Yokluğunda, Tabby bir kavrayış görür ve ayrıca yeni bir aşk ilgisi keşfeder! Bu sırada Phyllo, Tohtaya şok edici bir şey açıklar.",
+          "release_date": "2006-09-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/STjbZznLqeiFmLyMYJn2zfGzW2.jpg",
+          "videos": []
+        },
+        {
+          "id": 137444,
+          "episode_number": 26,
+          "name": "Kararlılık",
+          "description": "Haseo, aradan sonra yalnızca Phyllo hakkında yıkıcı haberler almak için yeniden ortaya çıkar. Tabby sonunda kendi kararlarını verme güveni keşfeder ve Haseoya Shinoyu kurtarmak için hemşire olmaya karar verdiğini bildirir. Şimdi, Haseo ona arkadaşlık etmek için sadece anılarıyla yalnız.",
+          "release_date": "2006-09-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zNtVEw1EAtQWJfw4tolqwuZ6KWO.jpg",
+          "videos": []
+        }
+      ]
+    },
+    {
+      "id": 2495,
+      "season_number": 0,
+      "name": "",
+      "episode_count": 0,
+      "episodes": []
+    }
+  ]
+}

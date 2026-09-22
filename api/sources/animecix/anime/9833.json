@@ -1,0 +1,646 @@
+{
+  "id": 9833,
+  "name": "Dolls' Frontline",
+  "name_english": "Girls' Frontline",
+  "name_romanji": "Girls' Frontline",
+  "original_title": "ドールズフロントライン",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2022,
+  "release_date": "2022-01-08 00:00:00",
+  "description": "Üçüncü dünya savaşı sona erdikten sonra, biyolojik savaştan dolayı harap olan uluslar artık bölgelerini koruma yetisine sahip değildi. Bu sebeple Griffin ve Kryuger gibi özel askeri firmaların ürettiği android askerler olan \"Taktiksel Bebekler\" ulusları korumakta ve Sangvis Ferri'nin askeri birliklerine karşı savaşmaktadırlar. Seçkin T-Bebek takımı \"Anti-Rain\"in yetenekli ama bir o kadar duygusal takım kaptanı M4A1 üstünlüğü ele geçirirken, yoldaşlarını da korumalıdır.",
+  "poster": "https://image.tmdb.org/t/p/original/ip5Zx3RWxzNuRUDYpPwPrjsPOo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/v2ETaw6qRlcvgWxLHCCfSvlD5S.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    1,
+    2
+  ],
+  "tmdb_id": 117310,
+  "mal_id": 46604,
+  "anilist_id": 0,
+  "imdb_id": "tt13898130",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 3611,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 170155,
+          "episode_number": 1,
+          "name": "THE SEED",
+          "description": "AR Team is trapped in enemy territory, and must break an encirclement to deliver valuable data back to base. But the enemy numbers are vast, and there's only a few of them…",
+          "release_date": "2022-01-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/6mHWzmiHaxMfuZR6s6DAfMo1kc7.jpg",
+          "videos": [
+            {
+              "id": 375150,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6320d244aaa5e211ba384574",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 217478,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4570203",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 217477,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/eYMMXwk717sYvpa",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 217473,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-qm3agshx4q94.html",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 217476,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/at81wb65obvv.html",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 170156,
+          "episode_number": 2,
+          "name": "UYANMAK",
+          "description": "İleri üsse yeni bir komutan gelir ve hızla savaşa gönderilir. Ancak daha ayaklarını ıslatma fırsatı bulamadan yüksek öncelikli bir görev devreye girer.",
+          "release_date": "2022-01-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qyGV05Ic9tgsPq9PYRZ093MexdE.jpg",
+          "videos": [
+            {
+              "id": 379289,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632696d9d339cac05c6d4ded",
+              "extra": "Aquisio",
+              "fansub": "Aquisio",
+              "fansub_id": 1898,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 219034,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "Aquisio",
+              "fansub": "Aquisio",
+              "fansub_id": 1898,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 219030,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-paob5e7nyjv1.html",
+              "extra": "Aquisio",
+              "fansub": "Aquisio",
+              "fansub_id": 1898,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 219033,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/uz0ail08q5pi.html",
+              "extra": "Aquisio",
+              "fansub": "Aquisio",
+              "fansub_id": 1898,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 170157,
+          "episode_number": 3,
+          "name": "THE ECHO",
+          "description": "M4A1 is trapped behind enemy lines with a deadly Sangvis Executioner after her. But even with Griffin T-Doll teams nearby, she's still reluctant to turn to them for help...",
+          "release_date": "2022-01-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tkmCz689PQLeBgslorEc4GA6MDX.jpg",
+          "videos": [
+            {
+              "id": 383727,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c92f4811bb1558a7aa5d4",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 220556,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 220552,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-olnhbuuir92w.html",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 220555,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/pdhth6lgbf6n.html",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 170158,
+          "episode_number": 4,
+          "name": "SESSİZLİK 01",
+          "description": "AR Ekibinin diğer kayıp üyelerini kurtarma görevi başlar. SOPII'yi kurtarırlar, ancak SOPII yeni komutanıyla çabucak çatışır.",
+          "release_date": "2022-01-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2ugMmCoAmoiFwJAosuTRMkpdXxV.jpg",
+          "videos": [
+            {
+              "id": 383444,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c4f81811bb1558a7aa50e",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 222927,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4590819",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 222926,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/6Q8Gr8BkooT98O4",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 222922,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-4pha7wydhoqd.html",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 222925,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/jq9btduet70h.html",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 170159,
+          "episode_number": 5,
+          "name": "SESSİZLİK 02",
+          "description": "",
+          "release_date": "2022-02-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jRsOAPIwsMFxVpLxaDuvlsOl4y2.jpg",
+          "videos": [
+            {
+              "id": 383171,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c17c6811bb1558a7aa436",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 225513,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4598012",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 225512,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/z7vAV9pLz8fYZm6",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 225508,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-4g968r7um6un.html",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 225511,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/7vgxfenbcfiu.html",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 170160,
+          "episode_number": 6,
+          "name": "MESAJ 01",
+          "description": "",
+          "release_date": "2022-02-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cS2WFHtPFgEwSQ94fHogLy0ppGw.jpg",
+          "videos": [
+            {
+              "id": 383106,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c06b1811bb1558a7aa3f4",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 227230,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4605621",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 227229,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 227225,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-dzbqqwpiy749.html",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 227228,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/9q1gz29jl6le.html",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 170161,
+          "episode_number": 7,
+          "name": "MESAJ 02",
+          "description": "",
+          "release_date": "2022-02-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/93V0sqnzFRHoF2h3djfwbis8mAv.jpg",
+          "videos": [
+            {
+              "id": 383078,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c002c811bb1558a7aa3da",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 227827,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4609655",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 227826,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 227822,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-tbx74lsnq74u.html",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 227825,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/hy5pf2udkkip.html",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 170162,
+          "episode_number": 8,
+          "name": "KILDING 01",
+          "description": "",
+          "release_date": "2022-02-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wZ3EQqT70kYb6J63tQuGjT05E6h.jpg",
+          "videos": [
+            {
+              "id": 383043,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632bf411811bb1558a7aa3ba",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 229219,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4619419",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 229215,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-8bo3jhr75j07.html",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 229218,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/6kaox1yb1gk3.html",
+              "extra": "diktator - Prenses",
+              "fansub": "diktator",
+              "fansub_id": 1897,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 170163,
+          "episode_number": 9,
+          "name": "KILDING 02",
+          "description": "",
+          "release_date": "2022-03-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zRPWG6vl2LYlImTnEu78ImUHvr9.jpg",
+          "videos": [
+            {
+              "id": 382979,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632bdc35811bb1558a7aa384",
+              "extra": "Aquisio",
+              "fansub": "Aquisio",
+              "fansub_id": 1898,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 231351,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-ku9c9znnl8x6.html",
+              "extra": "Aquisio",
+              "fansub": "Aquisio",
+              "fansub_id": 1898,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 231354,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/e7rzjvk65vtl.html",
+              "extra": "Aquisio",
+              "fansub": "Aquisio",
+              "fansub_id": 1898,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 170164,
+          "episode_number": 10,
+          "name": "KILDING 03",
+          "description": "",
+          "release_date": "2022-03-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pxd1a6gWrWHseP1gTg4K6UXlux3.jpg",
+          "videos": [
+            {
+              "id": 382980,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632bdc37811bb1558a7aa385",
+              "extra": "Aquisio",
+              "fansub": "Aquisio",
+              "fansub_id": 1898,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 231346,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-auzg180hbbkl.html",
+              "extra": "Aquisio",
+              "fansub": "Aquisio",
+              "fansub_id": 1898,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 231349,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/89d0xfggabh6.html",
+              "extra": "Aquisio",
+              "fansub": "Aquisio",
+              "fansub_id": 1898,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 170165,
+          "episode_number": 11,
+          "name": "11. Bölüm",
+          "description": "",
+          "release_date": "2022-04-05T11:34:46.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 382580,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632b8e2d811bb1558a7aa213",
+              "extra": "Aquisio",
+              "fansub": "Aquisio",
+              "fansub_id": 1898,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 235508,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4659751",
+              "extra": "Aquisio",
+              "fansub": "Aquisio",
+              "fansub_id": 1898,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 235504,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-uqi75bh90hhn.html",
+              "extra": "Aquisio",
+              "fansub": "Aquisio",
+              "fansub_id": 1898,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 235507,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/7mozb5ut2cih.html",
+              "extra": "Aquisio",
+              "fansub": "Aquisio",
+              "fansub_id": 1898,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 170166,
+          "episode_number": 12,
+          "name": "12. Bölüm",
+          "description": "",
+          "release_date": "2022-03-26T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6326194cd339cac05c6d4d03-24.jpg",
+          "videos": [
+            {
+              "id": 378941,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6326194cd339cac05c6d4d03",
+              "extra": "Aquisio",
+              "fansub": "Aquisio",
+              "fansub_id": 1898,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 252566,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4702053",
+              "extra": "Aquisio",
+              "fansub": "Aquisio",
+              "fansub_id": 1898,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

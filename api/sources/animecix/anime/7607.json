@@ -1,0 +1,835 @@
+{
+  "id": 7607,
+  "name": "Dorohedoro",
+  "name_english": "Dorohedoro",
+  "name_romanji": "Dorohedoro",
+  "original_title": "ドロヘドロ",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2020,
+  "release_date": "2020-01-13 00:00:00",
+  "description": "Ölümün kol gezdiği, yasa ve etiğin unutulduğu \"Hole\" olarak isimlendirilen bir şehirde, bir büyücü klanı karanlık büyü sanatlarını kullanarak tüyler ürperten deneylere imza atmaktadırlar; insanları bir böcek gibi avlayıp onların üzerinde çeşitli büyüler denemek gibi. Nikaido'nun yolu, karanlık bir sokakta insandan çok sürüngene benzeyen Caiman ile kesişir. İkisi birden bu lanet büyüyü ortadan kaldırabilmek için Hole'daki büyücüleri avlamaya başlarlar. Fakat baş büyücü En, halkını katleden ve kendisine büyü işlemeyen bu kertenkele adamı durdurmak için kendi \"temizlikçi\" ekibini gönderir ve iki dünya arasında büyük bir ölüm-kalım mücadelesi başlar.",
+  "poster": "https://image.tmdb.org/t/p/original/8rt0bfnS2ZeSCaewgkKV4oYIH29.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vvAZwI5Kd4n3PI7ZrXjYpBEgpp0.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    4,
+    1,
+    2
+  ],
+  "tmdb_id": 94404,
+  "mal_id": 38668,
+  "anilist_id": 0,
+  "imdb_id": "tt11147852",
+  "season_count": 2,
+  "seasons": [
+    {
+      "id": 1176,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 128151,
+          "episode_number": 1,
+          "name": "Kayman",
+          "description": "Caiman ve Nikaido, onu bir kertenkele kafasıyla lanetleyen büyücünün peşine düşerken Fujita, Matsumuranın intikamını almak için Deliğe geri döner.",
+          "release_date": "2020-01-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/q3GUwFYju4g0Z0d1g9RJCmb3Qv4.jpg",
+          "videos": [
+            {
+              "id": 729692,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68c83f1c7f99f1d10b5314d5",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 729693,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/hdtzjt0glnbh",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 128152,
+          "episode_number": 2,
+          "name": "Çantada | Yemek Sırasında Sessizce Yiyin | Komşum Büyücü",
+          "description": "\"Temizlikçiler\" Shin ve Noi, Delikte çalışmaya başlar. Bu sırada Caiman ve Nikaido, yüzlerini değiştirmek için akupunktur kullanan bir büyücü ararlar.",
+          "release_date": "2020-01-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xR8enBtWV6kmiqPzflbnM2Dn51r.jpg",
+          "videos": [
+            {
+              "id": 722452,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6868ffbfacc11c5a1de34984",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 722453,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/it7hxwafxo9y",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 128153,
+          "episode_number": 3,
+          "name": "Ölülerin Gecesi | Düello! Central Department Storeun önünde",
+          "description": "Caiman ve Nikaido, her yıl düzenlenen Yaşayan Ölülerin Gecesine katılır. Ancak görevlerini tamamlayamadan Shin ve Noi onları bitirmek için ortaya çıkar.",
+          "release_date": "2020-01-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/c1ABNwmNKHZTniBqItfHL7d8zbL.jpg",
+          "videos": [
+            {
+              "id": 488640,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64159626680bb945e0f096ec",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 128154,
+          "episode_number": 4,
+          "name": "",
+          "description": "",
+          "release_date": "2020-02-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/A8KXlt5urYoli1emHUZxDHi4AaN.jpg",
+          "videos": [
+            {
+              "id": 488646,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/641597cc680bb945e0f096ed",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 128155,
+          "episode_number": 5,
+          "name": "Caiman Harikalar Diyarında",
+          "description": "Büyücülerin dünyasında, Caiman ve Nikaido şaşı gözlü bir adamı bulurlar, ancak Shin ve Noi bir göreve çıkınca izler düşer.",
+          "release_date": "2020-02-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/gVvnFJvwhzykJYquaFx59HH8Bzu.jpg",
+          "videos": [
+            {
+              "id": 488653,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/641598e5680bb945e0f096ee",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 128156,
+          "episode_number": 6,
+          "name": "Mantarlar Hazır | İlk Duman | Menhol Elegy",
+          "description": "Enin mantar büyüsü, malikanesine sızan Nikaidoyu ağır şekilde yaralar. Dr. Vaux ve Profesör Kasukabe, Caimana Shinin karanlık geçmişini anlatır.",
+          "release_date": "2020-02-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xj17yn583n3G1Y6keLHg8YTrHkC.jpg",
+          "videos": [
+            {
+              "id": 748698,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69ceac45b067130deed1c046",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748699,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/10etmwci700b",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748700,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-94iqfrz6pzwj.html",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 128157,
+          "episode_number": 7,
+          "name": "All-Star ☆ Rüya Oyunu",
+          "description": "Matsumuranın intikamını almak için plan yapan Fujita, Hole Peace Hospitalın beyzbol takımına katılır: rakip takımın kadrosunda arkadaşının katili Caiman vardır.",
+          "release_date": "2020-02-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qZf72QYoNGXng5yPWydV0htan9q.jpg",
+          "videos": [
+            {
+              "id": 488667,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64159bef680bb945e0f096f0",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 128158,
+          "episode_number": 8,
+          "name": "Ayrılmak İçin Güzel Bir Gün | Lalala Monsterman | Lalala Monsterman | Blue Night Lande hoş geldiniz",
+          "description": "Nikaido’nun güvenliğinden korkan Caiman, büyücülerin dünyasına tek başına döner. En ailesi, Mavi Gece Partisi şenlikleri için hazırlıklara başlar.",
+          "release_date": "2020-03-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/k9srPKP08PTyL3H5qibHzk1YpNT.jpg",
+          "videos": [
+            {
+              "id": 488673,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64159e18680bb945e0f096f1",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 128159,
+          "episode_number": 9,
+          "name": "Ah, Çiçek Dumanı | Harika Etli Turta | Mavi Gece Gündüz 2 | Mavi Gece Gündüz 3 | Garip Mantar Görünüyor!",
+          "description": "Kayman, Risunun peşinden festival alanına gizlice girer. Bu arada En, Fujitaya Shin ve Noinin nasıl ortak olduklarının hikayesini anlatır.",
+          "release_date": "2020-03-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/5ezMbUU37SFY5IXZEXYPMLTNv67.jpg",
+          "videos": [
+            {
+              "id": 488682,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6415a12d680bb945e0f096f3",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 128160,
+          "episode_number": 10,
+          "name": "",
+          "description": "",
+          "release_date": "2020-03-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/l9J4gS6SreayULM7TmDzWwpzvXm.jpg",
+          "videos": [
+            {
+              "id": 488696,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6415a3fa680bb945e0f096f5",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 128161,
+          "episode_number": 11,
+          "name": "Patron | Yemek Tezgahında Görüşmek Üzere",
+          "description": "Ailenin bir üyesi olan Nikaido, Enin neden zamanı manipüle edebilecek bir büyücüye ihtiyacı olduğunu öğrenir. Caiman, onu kurtarmak için Tanbanın karısı kılığına girer.",
+          "release_date": "2020-03-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9dyxTYXX26bd7JNQUhJWTYVRk4m.jpg",
+          "videos": [
+            {
+              "id": 487462,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64121c4e680bb945e0f096bb",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 487468,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5077006",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 128162,
+          "episode_number": 12,
+          "name": "Okul Günlerinin Hatıraları | Boy Kızla Buluştu = Savaş! | Pinky Yemin",
+          "description": "Caiman, Nikaidoyu onunla birlikte Delike dönmeye ikna etmeye çalışır, ancak En ile olan sözleşmesi onu bağlar. Kavgadan sonra En, onu aramaya başlar.",
+          "release_date": "2020-03-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kj2CYLqLpsnz3KhbAoUi2W5BdKC.jpg",
+          "videos": [
+            {
+              "id": 488702,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6415a5eb680bb945e0f096f7",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6202,
+      "season_number": 2,
+      "name": "Season 2",
+      "episode_count": 11,
+      "episodes": [
+        {
+          "id": 272875,
+          "episode_number": 1,
+          "name": "Kaynaklarımızı Dikkatli Kullanalım / Korku! Kanlı Konak Katliam Dansı",
+          "description": "Risu, Şaşı'nın saklandığı yerin izini sürerken Kasukabe'nin grubu, profesörün ayrı yaşadığı karısını bulmak için yola çıkar ancak korkunç bir keşifte bulunur.",
+          "release_date": "2026-04-01T20:59:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sa27UhRUAkx45sGPPj8HPWeNkaz.jpg",
+          "videos": [
+            {
+              "id": 748633,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69cdd1ff76acb7a32c353795",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750012,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69de71a198be3e47efffd821",
+              "extra": "https://discord.gg/somesub Çevirmen: Yionas, Encoder: S4Patrol-P, Redaktor: S4Patrol & Velnoxy",
+              "fansub": "Yionas",
+              "fansub_id": 1414,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748634,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/pom0do8g47e7",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748635,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-xqef1zle83ow.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750013,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/inwjqjvl7zf6",
+              "extra": "https://discord.gg/somesub Çevirmen: Yionas, Encoder: S4Patrol-P, Redaktor: S4Patrol & Velnoxy",
+              "fansub": "Yionas",
+              "fansub_id": 1414,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750014,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-tguobl405pyt.html",
+              "extra": "https://discord.gg/somesub Çevirmen: Yionas, Encoder: S4Patrol-P, Redaktor: S4Patrol & Velnoxy",
+              "fansub": "Yionas",
+              "fansub_id": 1414,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 273324,
+          "episode_number": 2,
+          "name": "Meoto Zenzai / Mastema ve Sabnock / Haç Gözlülerin Trajik Hikâyesi",
+          "description": "Shin ve Noi hayatları için savaşırken savaş kızışıyor. Caiman ve Nikaido, hareketli bir yeraltı şehrini keşfederken kendilerini takip edilirken bulur.",
+          "release_date": "2026-04-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/eYrkuWDRBB6ou8mEslr29Zgya83.jpg",
+          "videos": [
+            {
+              "id": 748636,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69cdd2d398be3e47efffd7e4",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750661,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69e7d43776acb7a32c3537f4",
+              "extra": "https://discord.gg/somesub Çevirmen: Yionas, Encoder: S4Patrol-P Redaktör: Nexos , Uploader:AJAN",
+              "fansub": "Yionas",
+              "fansub_id": 1414,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748637,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/upwxbzf3fel4",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748638,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ogorx6qa6rs0.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750662,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/x0w3m84in7eu",
+              "extra": "https://discord.gg/somesub Çevirmen: Yionas, Encoder: S4Patrol-P Redaktör: Nexos , Uploader:AJAN",
+              "fansub": "Yionas",
+              "fansub_id": 1414,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750663,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-0x3clig44i14.html",
+              "extra": "https://discord.gg/somesub Çevirmen: Yionas, Encoder: S4Patrol-P Redaktör: Nexos , Uploader:AJAN",
+              "fansub": "Yionas",
+              "fansub_id": 1414,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 273325,
+          "episode_number": 3,
+          "name": "Tatlı Yuva / Işıl Işıl Gençlik / Dönüp Duran Anılar / Yuvaya Dönüş",
+          "description": "Ebisu, En'in yeni ürününü yedikten sonra hafızasına kavuşur. Bu sırada Caiman şiddetli bir geri dönüş yaşar ve Kasukabe Delik'te mezar kazmaya gider.",
+          "release_date": "2026-04-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8WCQqCGEx3cL6jSM93GicxNXq9p.jpg",
+          "videos": [
+            {
+              "id": 748639,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69cdd3a2140a125ba8371660",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748640,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/vbckmrs7skce",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748641,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-dqrpzt6zxicc.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 273438,
+          "episode_number": 4,
+          "name": "Altın Böcekler Zengindir / Şirin Kasap / Geçmişe Açılan Kapı",
+          "description": "Demek Haç Gözlüler çetesi, ev sahibinin cinayetini intihar gibi göstermeye karar vermiş, öyle mi? Benden bir şeyler saklamaya cüret eden Asu'ya gelince, bunun bedelini ödediğinden emin oldum.",
+          "release_date": "2026-04-08T20:59:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1PkWmwdbtPVGfaPe7jPZxL6cNAJ.jpg",
+          "videos": [
+            {
+              "id": 749207,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69d6c58a5d4202aa1736c0bd",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 749208,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/mb5q1vg6lc3r",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 749209,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-yobdar3qhchj.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 274089,
+          "episode_number": 5,
+          "name": "Yağmurda Buluşma / Yol Arkadaşları / İki Kişilik Son Gece",
+          "description": "Görünüşe göre Ebisu, tuhaf mantarlar yediği için hafızasını geri kazanmış ve şimdi de bir an önce ailesinin yanına dönmek için can atıyor.",
+          "release_date": "2026-04-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jCTymybqm48wv7yYPGJibJKpELR.jpg",
+          "videos": [
+            {
+              "id": 750067,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69dfba4fb067130deed1c081",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750068,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/8g00k4z48ube",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750069,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-q8nwdc5vt7m6.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 274090,
+          "episode_number": 6,
+          "name": "Elveda, Caiman / Hatıra Baloncukları",
+          "description": "En, kertenkele adamı ve Nikaido'yu buldu; ikisi de birbirlerine sertçe saldırıyor. Bu arada, Haç Gözlüler de oturmuş patronları hakkında hikayeler anlatıp duruyorlar.",
+          "release_date": "2026-04-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cvDgchGV4dApKqFkCOgPjAUbFvu.jpg",
+          "videos": [
+            {
+              "id": 750712,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69e8f010b923b3ffeb12b5f1",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750713,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/oiqhaitdzvw6",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750714,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ml5zxfph4qrs.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 274091,
+          "episode_number": 7,
+          "name": "Gizli Planım / Haç Gözlüler Seferi / Bozuk Birleşim",
+          "description": "Fujita, Kikurage'yi Ebisu'yu diriltmeye ikna etmeye çalışırken kafayı yiyor. Haç Gözlüler çetesi para bulmak için çabalıyor ve En'in etrafında işler biraz tehlikeli bir hal almaya başlıyor.",
+          "release_date": "2026-04-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/padNBeZIzDE0fmGVTPClnzKLD1D.jpg",
+          "videos": [
+            {
+              "id": 754211,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a142a5ce8eae400ee53f995",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 754212,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/s7apncfw3qbh",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 754213,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-qdqixt0s1bx1.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 274092,
+          "episode_number": 8,
+          "name": "Kaos Şoku / Kara Kutu / Oda 501",
+          "description": "En'in bu kadar kolay yenileceğini hiç tahmin etmemiştim. Büyücüler tam bir kaosun içine düştü ve şimdi Nikaido'nun neden büyü kullanmadığını anlıyorum.",
+          "release_date": "2026-05-06T00:00:00.000Z",
+          "poster": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=cover/catalog/crunchyroll/e9ed78ba5e151a66bfcb5e9fe0f93bf4.png",
+          "videos": [
+            {
+              "id": 754214,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a142aef81d720339fcc0e0f",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 754215,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/b4gcm6qcocu8",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 754216,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-o803ok4jl0bg.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 274093,
+          "episode_number": 9,
+          "name": "Kalabalık / Haç Gözlüler, Haberlere Çıktı",
+          "description": "Haç Gözlüler'in patronu nihâyet ortaya çıktı. En Ailesi tamamen yok edildi ve görünüşe göre Haç Gözlüler, o devasa malikaneyi ele geçirmiş.",
+          "release_date": "2026-05-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/czhNUbqaMX2eMcOzWED9JfKay7R.jpg",
+          "videos": [
+            {
+              "id": 754217,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a142c266aa092ad4e407ffb",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 754218,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/htf14l6n6zq3",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 754219,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-eo8qygup79gm.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 274094,
+          "episode_number": 10,
+          "name": "Episode 10",
+          "description": "",
+          "release_date": "2026-05-20T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 754220,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a142ccbad0dd5ba6655ce21",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 754221,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/icv50fni8vo9",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 754222,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-bl5crvatg3d7.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 274095,
+          "episode_number": 11,
+          "name": "Episode 11",
+          "description": "",
+          "release_date": "2026-05-27T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 754662,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a17110da885b85179cd7f63",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 754663,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/d4n4t8owm5g1",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 754664,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-fwz33nw4s9vx.html",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

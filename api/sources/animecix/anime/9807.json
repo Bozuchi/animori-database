@@ -1,0 +1,726 @@
+{
+  "id": 9807,
+  "name": "Blade Runner: Black Lotus",
+  "name_english": "Blade Runner: Black Lotus",
+  "name_romanji": "Blade Runner: Black Lotus",
+  "original_title": "Blade Runner: Black Lotus",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2021,
+  "release_date": "2021-11-14 00:00:00",
+  "description": "2032, Los Angeles. Genç bir kadın hafızasını kaybetmiş ve ölümcül becerilere sahip olarak uyanır. Gizeminin tek ipucu, kilitli bir veri cihazı ve siyah bir nilüfer dövmesidir. Parçaları bir araya getirerek, kaybettiği kimliğinin gerçeğini bulmak için acımasız ve kanlı geçmişinden sorumlu insanları avlaması gerekiyordur.",
+  "poster": "https://image.tmdb.org/t/p/original/plMSCIKcZAFHrHXa18PQrZHLw2N.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/WsVohNgPLwPXz3sIsrwFQ7FzmC.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    1,
+    2
+  ],
+  "tmdb_id": 84553,
+  "mal_id": 38749,
+  "anilist_id": 0,
+  "imdb_id": "tt9359796",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 3402,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 13,
+      "episodes": [
+        {
+          "id": 168287,
+          "episode_number": 1,
+          "name": "City of Angels",
+          "description": "An amnesiac named Elle enters Los Angeles, carrying only a locked data device that may hold the secrets of her past.",
+          "release_date": "2021-11-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/hLofQuYbQvMzgAyM1N1HG02Ne3V.jpg",
+          "videos": [
+            {
+              "id": 372995,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631d3ed1aaa5e211ba3841b1",
+              "extra": "Çeviri: Ahmett / Redakte: cheerslord / Kodlama: Auspicious",
+              "fansub": "Ahmett",
+              "fansub_id": 929,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 199924,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4514698",
+              "extra": "Çeviri: Ahmett / Redakte: cheerslord / Kodlama: Auspicious",
+              "fansub": "Ahmett",
+              "fansub_id": 929,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 199923,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/kPwpZx492zIOA2B",
+              "extra": "Çeviri: Ahmett / Redakte: cheerslord / Kodlama: Auspicious",
+              "fansub": "Ahmett",
+              "fansub_id": 929,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 199922,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/xcekx5cop4td.html",
+              "extra": "Çeviri: Ahmett / Redakte: cheerslord / Kodlama: Auspicious",
+              "fansub": "Ahmett",
+              "fansub_id": 929,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 168288,
+          "episode_number": 2,
+          "name": "All We Are Not",
+          "description": "Haunted by traumatic memories, Elle recognizes a familiar face. Upon tracking him down she uncovers a shocking truth about herself and her memories.",
+          "release_date": "2021-11-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aBG1a6bXoUbjkXIZU06VWBBlD96.jpg",
+          "videos": [
+            {
+              "id": 385200,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632f556edd931ae1fbad6ecf",
+              "extra": "Çeviri: Ahmett / Redakte: cheerslord / Kodlama: Auspicious",
+              "fansub": "Ahmett",
+              "fansub_id": 929,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 200464,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4516682",
+              "extra": "Çeviri: Ahmett / Redakte: cheerslord / Kodlama: Auspicious",
+              "fansub": "Ahmett",
+              "fansub_id": 929,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 200463,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/1qy3lqypXyIr2P",
+              "extra": "Çeviri: Ahmett / Redakte: cheerslord / Kodlama: Auspicious",
+              "fansub": "Ahmett",
+              "fansub_id": 929,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 200462,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/bnm6cgsql00s.html",
+              "extra": "Çeviri: Ahmett / Redakte: cheerslord / Kodlama: Auspicious",
+              "fansub": "Ahmett",
+              "fansub_id": 929,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 168289,
+          "episode_number": 3,
+          "name": "The Human Condition",
+          "description": "With help from the mysterious J, Elle learns more startling truths about the nature of her identity…",
+          "release_date": "2021-11-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aDuMqY3aSpUxKKetiJQ1I9BUlHR.jpg",
+          "videos": [
+            {
+              "id": 384890,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632ed44cdd931ae1fbad6e3a",
+              "extra": "Çeviri: Ahmett / Redakte: cheerslord / Kodlama: Auspicious",
+              "fansub": "Ahmett",
+              "fansub_id": 929,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 204102,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4542408",
+              "extra": "Çeviri: Ahmett / Redakte: cheerslord / Kodlama: Auspicious",
+              "fansub": "Ahmett",
+              "fansub_id": 929,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204101,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/JK41V7OOpQhjjob",
+              "extra": "Çeviri: Ahmett / Redakte: cheerslord / Kodlama: Auspicious",
+              "fansub": "Ahmett",
+              "fansub_id": 929,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204097,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-epoibd6expf3.html",
+              "extra": "Çeviri: Ahmett / Redakte: cheerslord / Kodlama: Auspicious",
+              "fansub": "Ahmett",
+              "fansub_id": 929,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204100,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/gx7nzs9ve9x5.html",
+              "extra": "Çeviri: Ahmett / Redakte: cheerslord / Kodlama: Auspicious",
+              "fansub": "Ahmett",
+              "fansub_id": 929,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 168290,
+          "episode_number": 4,
+          "name": "The Doll Hunt",
+          "description": "Elle's memories come flooding back, revealing the truth of what happened to her in the desert. Meanwhile, LAPD Officer Davis puts together the clues that will lead her to Black Lotus.",
+          "release_date": "2021-11-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/yc851h9y28vjKVEIC792KHW9Lu1.jpg",
+          "videos": [
+            {
+              "id": 384882,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632ed119dd931ae1fbad6e35",
+              "extra": "Çeviri: ahmett / Redakte: cheerslord / Kodlama: Auspicious",
+              "fansub": "ahmett",
+              "fansub_id": 929,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 204185,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4543323",
+              "extra": "Çeviri: ahmett / Redakte: cheerslord / Kodlama: Auspicious",
+              "fansub": "ahmett",
+              "fansub_id": 929,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204184,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/O4a0Rjlj40TZvMp",
+              "extra": "Çeviri: ahmett / Redakte: cheerslord / Kodlama: Auspicious",
+              "fansub": "ahmett",
+              "fansub_id": 929,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204180,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-b7cr3dgoro62.html",
+              "extra": "Çeviri: ahmett / Redakte: cheerslord / Kodlama: Auspicious",
+              "fansub": "ahmett",
+              "fansub_id": 929,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 204183,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/tustznyryxjg.html",
+              "extra": "Çeviri: ahmett / Redakte: cheerslord / Kodlama: Auspicious",
+              "fansub": "ahmett",
+              "fansub_id": 929,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 168291,
+          "episode_number": 5,
+          "name": "Pressure",
+          "description": "Elle plots her revenge with help from J, but Police Chief Grant has mobilized a massive LAPD manhunt to find and eliminate her.",
+          "release_date": "2021-12-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lqfZQF6a2p6fQSd75NntzyYv57y.jpg",
+          "videos": [
+            {
+              "id": 383886,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632cba87811bb1558a7aa621",
+              "extra": "Çeviri: ahmett / Redakte: cheerslord / Kodlama: Auspicious",
+              "fansub": "ahmett",
+              "fansub_id": 929,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 207023,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4551581",
+              "extra": "Çeviri: ahmett / Redakte: cheerslord / Kodlama: Auspicious",
+              "fansub": "ahmett",
+              "fansub_id": 929,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207018,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-qk7ufoh8y40t.html",
+              "extra": "Çeviri: ahmett / Redakte: cheerslord / Kodlama: Auspicious",
+              "fansub": "ahmett",
+              "fansub_id": 929,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207021,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/0n57zygmryhv.html",
+              "extra": "Çeviri: ahmett / Redakte: cheerslord / Kodlama: Auspicious",
+              "fansub": "ahmett",
+              "fansub_id": 929,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 168292,
+          "episode_number": 6,
+          "name": "Persistence of Memory",
+          "description": "In her quest for revenge, Elle breaks into the home of her next target and is forced to take a hostage. Chief Grant calls in reinforcements.",
+          "release_date": "2021-12-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1kB7krEH2cRwoYT7k4g2ScjuPP9.jpg",
+          "videos": [
+            {
+              "id": 383885,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632cba0b811bb1558a7aa620",
+              "extra": "Çeviri: ahmett / Redakte: cheerslord / Kodlama: Auspicious",
+              "fansub": "ahmett",
+              "fansub_id": 929,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 207031,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4551584",
+              "extra": "Çeviri: ahmett / Redakte: cheerslord / Kodlama: Auspicious",
+              "fansub": "ahmett",
+              "fansub_id": 929,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207026,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-zqv28pf2wxfv.html",
+              "extra": "Çeviri: ahmett / Redakte: cheerslord / Kodlama: Auspicious",
+              "fansub": "ahmett",
+              "fansub_id": 929,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207029,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/2mvy8cqi4x0v.html",
+              "extra": "Çeviri: ahmett / Redakte: cheerslord / Kodlama: Auspicious",
+              "fansub": "ahmett",
+              "fansub_id": 929,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 168975,
+          "episode_number": 7,
+          "name": "Reality",
+          "description": "After learning J's shameful secret, Elle leaves to complete her mission: to kill the last of the Doll Hunt participants.",
+          "release_date": "2021-12-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vte61QgYvAFIG52IhGIBAJo6jKc.jpg",
+          "videos": [
+            {
+              "id": 379246,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632682a6d339cac05c6d4dcc",
+              "extra": "Türk Anime",
+              "fansub": "Türk Anime",
+              "fansub_id": 930,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 219718,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "Türk Anime",
+              "fansub": "Türk Anime",
+              "fansub_id": 930,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 219714,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-p8vjvwy89qrn.html",
+              "extra": "Türk Anime",
+              "fansub": "Türk Anime",
+              "fansub_id": 930,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 219717,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/ggtwnnpcbl5k.html",
+              "extra": "Türk Anime",
+              "fansub": "Türk Anime",
+              "fansub_id": 930,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 169246,
+          "episode_number": 8,
+          "name": "The Davis Report",
+          "description": "Frustrated that no one believes her theory about Black Lotus, Officer Davis lands in hot water while presenting her findings to the department.",
+          "release_date": "2022-01-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/3zhGsgKxrUkT2GLHohO7Sx2pfof.jpg",
+          "videos": [
+            {
+              "id": 383530,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c61da811bb1558a7aa540",
+              "extra": "ahmett / Redakte: Kezer / Kodlama: Kezer",
+              "fansub": "Kezer",
+              "fansub_id": 933,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 222125,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4588726",
+              "extra": "ahmett / Redakte: Kezer / Kodlama: Kezer",
+              "fansub": "Kezer",
+              "fansub_id": 933,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 222124,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/O19pZDl3gviZ3mw",
+              "extra": "ahmett / Redakte: Kezer / Kodlama: Kezer",
+              "fansub": "Kezer",
+              "fansub_id": 933,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 222120,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-q03ps9el4cja.html",
+              "extra": "ahmett / Redakte: Kezer / Kodlama: Kezer",
+              "fansub": "Kezer",
+              "fansub_id": 933,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 222123,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/pdqtzepmfehb.html",
+              "extra": "ahmett / Redakte: Kezer / Kodlama: Kezer",
+              "fansub": "Kezer",
+              "fansub_id": 933,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 169247,
+          "episode_number": 9,
+          "name": "Özgür irade",
+          "description": "Elle, Bebek Avı'ndan sorumlu olan intikam görevini tamamlamak için nihai hedefin peşinden gider.",
+          "release_date": "2022-01-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fke1VzwpVMrlGJAdhnZ8DWslN86.jpg",
+          "videos": [
+            {
+              "id": 383529,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c6155811bb1558a7aa53f",
+              "extra": "ahmett / Redakte: Kezer / Kodlama: Kezer",
+              "fansub": "Kezer",
+              "fansub_id": 933,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 222140,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4588733",
+              "extra": "ahmett / Redakte: Kezer / Kodlama: Kezer",
+              "fansub": "Kezer",
+              "fansub_id": 933,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 222139,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/rDG1Rgyvg1ubP0x",
+              "extra": "ahmett / Redakte: Kezer / Kodlama: Kezer",
+              "fansub": "Kezer",
+              "fansub_id": 933,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 222135,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-iyznnhrwsyzb.html",
+              "extra": "ahmett / Redakte: Kezer / Kodlama: Kezer",
+              "fansub": "Kezer",
+              "fansub_id": 933,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 222138,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/9z7g0roiz0q4.html",
+              "extra": "ahmett / Redakte: Kezer / Kodlama: Kezer",
+              "fansub": "Kezer",
+              "fansub_id": 933,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 169248,
+          "episode_number": 10,
+          "name": "Clair De Lune",
+          "description": "Elle, hangi anılarının gerçek, hangilerinin yapay olduğunu bilmemekle uğraşırken, J kendi geçmişi hakkında ağzını açar.",
+          "release_date": "2022-01-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kmVgxphFQafkwTg5HD4pXHOglmC.jpg",
+          "videos": [
+            {
+              "id": 383528,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c614d811bb1558a7aa53e",
+              "extra": "Turk Anime",
+              "fansub": "Turk Anime",
+              "fansub_id": 932,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 222147,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4588740",
+              "extra": "Turk Anime",
+              "fansub": "Turk Anime",
+              "fansub_id": 932,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 222146,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/Z3gxalj9e1UqXDV",
+              "extra": "Turk Anime",
+              "fansub": "Turk Anime",
+              "fansub_id": 932,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 222142,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-x8kkv66z3u72.html",
+              "extra": "Turk Anime",
+              "fansub": "Turk Anime",
+              "fansub_id": 932,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 222145,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/3or2ma68bbtb.html",
+              "extra": "Turk Anime",
+              "fansub": "Turk Anime",
+              "fansub_id": 932,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 169249,
+          "episode_number": 11,
+          "name": "All the Best Memories",
+          "description": "Desperately lost and searching for peace, Elle hatches a radical plan to put her haunted memories to rest.",
+          "release_date": "2022-01-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tEYkNs7PDBUguL0bvgI9zsylBKD.jpg",
+          "videos": [
+            {
+              "id": 383523,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c60fb811bb1558a7aa53d",
+              "extra": "Turk Anime",
+              "fansub": "Turk Anime",
+              "fansub_id": 932,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 222162,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4588744",
+              "extra": "Turk Anime",
+              "fansub": "Turk Anime",
+              "fansub_id": 932,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 222161,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/r9MopgQrBJHyO4",
+              "extra": "Turk Anime",
+              "fansub": "Turk Anime",
+              "fansub_id": 932,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 222157,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-dl52wutg9a3u.html",
+              "extra": "Turk Anime",
+              "fansub": "Turk Anime",
+              "fansub_id": 932,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 222160,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/7ip5s7tv9cio.html",
+              "extra": "Turk Anime",
+              "fansub": "Turk Anime",
+              "fansub_id": 932,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 169250,
+          "episode_number": 12,
+          "name": "yapay ruhlar",
+          "description": "Elle tehlikeli yeni bir düşmanla ilk karşılaşmasını yaşarken, J eski meslektaşı Marlowe ile son karşılaşmasını yaşar.",
+          "release_date": "2022-01-30T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 383337,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c37cd811bb1558a7aa4b9",
+              "extra": "Çeviri: Ahmett ve Kezer / Kodlama: Kezer",
+              "fansub": "Ahmett ve Kezer",
+              "fansub_id": 931,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224066,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4594780",
+              "extra": "Çeviri: Ahmett ve Kezer / Kodlama: Kezer",
+              "fansub": "Ahmett ve Kezer",
+              "fansub_id": 931,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224065,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/lO78B4WGMVI71rz",
+              "extra": "Çeviri: Ahmett ve Kezer / Kodlama: Kezer",
+              "fansub": "Ahmett ve Kezer",
+              "fansub_id": 931,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224061,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-0vp8tdgcde16.html",
+              "extra": "Çeviri: Ahmett ve Kezer / Kodlama: Kezer",
+              "fansub": "Ahmett ve Kezer",
+              "fansub_id": 931,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224064,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/3zt846rs26kn.html",
+              "extra": "Çeviri: Ahmett ve Kezer / Kodlama: Kezer",
+              "fansub": "Ahmett ve Kezer",
+              "fansub_id": 931,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 169251,
+          "episode_number": 13,
+          "name": "Ölme zamanı",
+          "description": "",
+          "release_date": "2022-02-06T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 295931,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/video4600088?utm_source=player&utm_medium=video&utm_campaign=EMBED",
+              "extra": "Varsayılan",
+              "fansub": "Varsayılan",
+              "fansub_id": 233,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

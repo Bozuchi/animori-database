@@ -1,0 +1,3137 @@
+{
+  "id": 12171,
+  "name": "Gachiakuta",
+  "name_english": "Gachiakuta",
+  "name_romanji": "Gachiakuta",
+  "original_title": "ガチアクタ",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2025,
+  "release_date": "2025-07-06",
+  "description": "Bir çocuk, fakirlerin geçim sıkıntısı çektiği, zenginlerin ise lüks bir hayat sürdüğü, çöplerini uçuruma atarak yaşayan yüzen bir kasabada yaşıyor. Ancak cinayetle suçlandığında, haksız yere mahkum edilmesi, hayal bile edilemeyecek bir cezaya yol açar: diğer çöplerle birlikte uçurumun kenarına sürgün edilir. Yüzeyde, insanlığın attığı çöpler vahşi canavarlar doğurmuştur ve onu cehenneme atanlardan intikam almak için, çocuk bir savaşçı olmak zorundadır...",
+  "poster": "https://image.tmdb.org/t/p/original/lXAyZHGAh0YrAi8x7ekCnoquace.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/hMRzd3cbx3p2Hi85ZA8vL9bxJaa.jpg",
+  "rating": 9,
+  "vote_count": 58,
+  "genres": [
+    3,
+    1,
+    5,
+    2
+  ],
+  "tmdb_id": 256721,
+  "mal_id": 59062,
+  "anilist_id": null,
+  "imdb_id": "tt32612521",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 5800,
+      "season_number": 1,
+      "name": "",
+      "episode_count": 24,
+      "episodes": [
+        {
+          "id": 229050,
+          "episode_number": 1,
+          "name": "Küre",
+          "description": "Zorbalıkla dışlanan Rudo, korkunç bir trajedi hayatını sonsuza dek değiştirene kadar çöpleri yeniden değerlendirerek huzur bulur.",
+          "release_date": "2025-07-06T09:20:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/5goBYnVOE8WVTwg3a9XksjDxTyM.jpg",
+          "videos": [
+            {
+              "id": 722762,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/686aad5b8030e8a0276ede9a",
+              "extra": "Çeviri: Hoooyin Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 727601,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68a49ddbf7610871857b8ce5",
+              "extra": "Çevirmen: Procyon, Redaktör: Leone",
+              "fansub": "Procyon",
+              "fansub_id": 663,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734372,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/690e5f108f1b7fd438f1c207",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 763178,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/690e29ebf2904a96d86ae9be",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 763179,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6aade8c5aa2385886cac386d",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 724649,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5974429",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 722763,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/cdump90sw2cj",
+              "extra": "Çeviri: Hoooyin Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 763180,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/jaehojnivbv9",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 763181,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-92d7fdpj1o9t.html",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 241193,
+          "episode_number": 2,
+          "name": "İkamet Eden",
+          "description": "Çukura atılan Rudo, onun iyiliğini düşünmeyen gizemli Enjin tarafından kurtarılır.",
+          "release_date": "2025-07-13T14:21:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bx5BDggucxheJqYfmMYzNRU3zfx.jpg",
+          "videos": [
+            {
+              "id": 723387,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6873f0aacc68a0427a694683",
+              "extra": " Çeviri: Hoooyin Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 736168,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/692c7d3e88da54aeabcb3fb6",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756591,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6876f1673e0780106723d76f",
+              "extra": "Larshe",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756837,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a42e7e0f2c0587e0fd8b8dd",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756838,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/r3bnserjdixr",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756839,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-d1k12v0hfi6j.html",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 241216,
+          "episode_number": 3,
+          "name": "Zemin",
+          "description": "Enjin, Rudo'ya Zemin'deki yaşamı öğretir, ancak kaba bir yabancıyla karşılaşması, onun zamanını kısaltabilir.",
+          "release_date": "2025-07-27T16:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9L1qDsvKlwLcxXKRVeTD8lGWobV.jpg",
+          "videos": [
+            {
+              "id": 725045,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68867155b18f16fb20452f01",
+              "extra": "Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725088,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6886933763d3886c669c5439",
+              "extra": "Çevirmen: Larshe, Redaktör: Enescide",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 737774,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/693ec033fc9859a3f55e7fb5",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756840,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a42e876f2c0587e0fd8b8de",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725053,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5976656",
+              "extra": "Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725628,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5980296",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725046,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/nib9sopfdp1o",
+              "extra": "Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725049,
+              "player": "VIDMOLY",
+              "url": "http://vidmoly.to/embed-6l9j2r8pfc15.html",
+              "extra": "Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725050,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1a8UJtyQpMGZZfgfmdtWLtZ8ZNZpYIAMq/preview",
+              "extra": "Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725051,
+              "player": "LULUVDOO",
+              "url": "https://luluvdoo.com/wwsu9x1kd75l",
+              "extra": "Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725052,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/9450711812636",
+              "extra": "Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725054,
+              "player": "DAILYMOTION",
+              "url": "https://dai.ly/x9nntra",
+              "extra": "Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725089,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/6dcj7n81u6yl",
+              "extra": "Çevirmen: Larshe, Redaktör: Enescide",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725629,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x9o0cza",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725631,
+              "player": "VTBE",
+              "url": "https://vtbe.to/k0rv9qqet1a5.html",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725632,
+              "player": "PIXELDRAIN",
+              "url": "https://pixeldrain.com/u/XCeaLgZW",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725633,
+              "player": "MEDIA",
+              "url": "https://media.cm/d/81b88f5b7r3d",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725634,
+              "player": "GETT",
+              "url": "https://gett.su/file/kvphdbsant5b/view.html",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725635,
+              "player": "WWW",
+              "url": "https://www.allvideo.monster/videos/911928/harbi-kir-s01e03-webrip-x264-dantelentel-mp4/",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725636,
+              "player": "FILEMOON",
+              "url": "https://filemoon.to/d/t3n3upb2w7wz",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725637,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/10220835244791",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725638,
+              "player": "DS",
+              "url": "https://d-s.io/d/5s04eoujrknd",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756841,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/0oh4n51mqn5w",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756842,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-8pdj3gor6sgw.html",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 241217,
+          "episode_number": 4,
+          "name": "Temizlik Şirketleri Genel Merkezi",
+          "description": "Temizlik Şirketleri Genel Merkezi ile tanıştıktan sonra, Rudo işi öğrenmek için Riyo'nun bir işine eşlik eder.",
+          "release_date": "2025-08-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/toLiO7KYn7ouZVBepSwm7pCZPNf.jpg",
+          "videos": [
+            {
+              "id": 725845,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/688fa4a14d2b29db486227b1",
+              "extra": "Çeviri: Hooyin Encode: Atomic",
+              "fansub": "Hooyin",
+              "fansub_id": 291,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725865,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/688fc89bc55023da2ac78f0d",
+              "extra": "Çevirmen: Larshe, Redaktör: Leone",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 742248,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69792e2aeb1a5915e492ac3a",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756843,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a42e90ba4f5f9e71074dc8f",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726129,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5983847",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725846,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/llnxqa620c9v",
+              "extra": "Çeviri: Hooyin Encode: Atomic",
+              "fansub": "Hooyin",
+              "fansub_id": 291,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725866,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/zmmxjwpxukpn",
+              "extra": "Çevirmen: Larshe, Redaktör: Leone",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726118,
+              "player": "HDVID",
+              "url": "https://vidhdthe.online/embed-gvzq9vhgx4tf.html",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726119,
+              "player": "DS",
+              "url": "https://d-s.io/d/qzdxj4jljfyy",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726120,
+              "player": "FILEMOON",
+              "url": "https://filemoon.to/d/x8kit16g3qf6",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726122,
+              "player": "VTBE",
+              "url": "https://vtbe.to/l8pl3jnorjqy.html",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726123,
+              "player": "PIXELDRAIN",
+              "url": "https://pixeldrain.com/u/Fkcs7Mps",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726124,
+              "player": "MEDIA",
+              "url": "https://media.cm/d/n1a5afkz00s9",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726125,
+              "player": "GETT",
+              "url": "https://gett.su/file/9fzujsdoy05k/view.html",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726126,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x9o84rs",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726127,
+              "player": "WWW",
+              "url": "https://www.allvideo.monster/videos/913016/harbi-kir-s01e04-webrip-x264-dantelentel/",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726128,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/10232178543351",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756844,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/k3ppyok8fki8",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756845,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-sb3e9qj5ztb9.html",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 241218,
+          "episode_number": 5,
+          "name": "Baskıncılar",
+          "description": "Temizlikçiler, düşüşten kurtulan başka bir Küreciyi kurtarmak için işe koyulur. Rudo daha fazlasını öğrenmek için peşlerine takılır.",
+          "release_date": "2025-08-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ztEDVMzddKRUQtvExgKaOVd8pHw.jpg",
+          "videos": [
+            {
+              "id": 726757,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6898e1922b6c8a40dde159a1",
+              "extra": " Çevirmen: Hoooyin Encoder:kleindono |  www.discord.gg/codeanimee | www.instagram.com/codeanimee",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 746050,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69a354b5b84256f1db55ea38",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756846,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a42e9a475c86a0b6f67b6df",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756849,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a42ea4eec3223a31a1ece56",
+              "extra": "Larshee",
+              "fansub": "Larshee",
+              "fansub_id": 668,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756847,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ilygx606uxjp",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756848,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-6v609rcpi108.html",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756850,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/wb8x4yk1sgfe",
+              "extra": "Larshee",
+              "fansub": "Larshee",
+              "fansub_id": 668,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756851,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-fr8crmenfmbe.html",
+              "extra": "Larshee",
+              "fansub": "Larshee",
+              "fansub_id": 668,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 241219,
+          "episode_number": 6,
+          "name": "Bir İyi Vuruş!!",
+          "description": "İşler çok kötü gittiği için Rudo, acımasız bir Raider olan Jabber ile karşı karşıya gelir.",
+          "release_date": "2025-08-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fKCEZc2361fEDehNyhko4zokCM4.jpg",
+          "videos": [
+            {
+              "id": 727259,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68a213f62b6c8a40dde159cd",
+              "extra": "ç:Hoooyin e:Zehif_06 |  www.discord.gg/codeanimee | www.instagram.com/codeanimee",
+              "fansub": "ç:Hoooyin e:Zehif_06",
+              "fansub_id": 662,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 727615,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68a4c76d2b6c8a40dde159eb",
+              "extra": "Çevirmen: Larshe, Redaktör: Enescide",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756625,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a4125dbd5ce148fbbb3388e",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756852,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a42eaf3f2c0587e0fd8b8df",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 727616,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/a5yv8nis8s2x",
+              "extra": "Çevirmen: Larshe, Redaktör: Enescide",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756853,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/0ixzsccyt1j9",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756854,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-b9878i3nzekq.html",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 241220,
+          "episode_number": 7,
+          "name": "Ödeşmek",
+          "description": "Jabber, Rudo'nun savunmasını aşmak için yeni bir strateji kullanır ve başka bir müttefik de savaşa katılır.",
+          "release_date": "2025-08-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vXsxNZ9kPKH27DLWVkYYImrkPOT.jpg",
+          "videos": [
+            {
+              "id": 728084,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68ab5388f7610871857b8d1b",
+              "extra": "Çevirmen:Hooyin Encoder:kleindono |  www.discord.gg/codeanimee | www.instagram.com/codeanimee",
+              "fansub": "Hooyin",
+              "fansub_id": 291,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 728109,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68ab71cef7610871857b8d1c",
+              "extra": "Çevirmen: Larshe, Redaktör: Enescide",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756855,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a42eb8dd5ce148fbbb33897",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 757500,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a4a68d1d5ce148fbbb338c4",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 728619,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6002956",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 728620,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/10322373577463",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 728621,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x9prk8i",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 728622,
+              "player": "FILEMOON",
+              "url": "https://filemoon.to/d/1h55lx4nlmyc",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 728623,
+              "player": "VTBE",
+              "url": "https://vtbe.to/wxnhj52b3vza.html",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 728625,
+              "player": "PIXELDRAIN",
+              "url": "https://pixeldrain.com/u/GhajZhx7",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 728626,
+              "player": "MEDIA",
+              "url": "https://media.cm/d/6arcfbz4jazt",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 728627,
+              "player": "GETT",
+              "url": "https://gett.su/file/rww2hm5nn81h/view.html",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 728628,
+              "player": "DS",
+              "url": "https://d-s.io/d/vryhmfk9xhnw",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 728629,
+              "player": "HDVID",
+              "url": "https://vidhdthe.online/embed-0zniagihr617.html",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 728630,
+              "player": "WWW",
+              "url": "https://www.allvideo.monster/videos/920167/harbi-kir-s01e07-webrip-x264-dantelentel/",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756856,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/f804iyaz0aa2",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756857,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-4o3rtes207ze.html",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 757498,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/oh4qjr6gv7r3",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 757499,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-xwakyqx3t3xu.html",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 757501,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/nev4a1f11bg9",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 757502,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-jeko7kubcq8j.html",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 241221,
+          "episode_number": 8,
+          "name": "İlerlemek",
+          "description": "Rudo, Jabber dövüşünün duygusal sonuçlarıyla uğraşır ve Küre'ye dönme konusunda yeni bir ipucu alır.",
+          "release_date": "2025-08-31T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/rWuYiSz7UVZSPHL2C2Voq0xRPe0.jpg",
+          "videos": [
+            {
+              "id": 728613,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68b48b41de99e6cf8d0967d0",
+              "extra": "Çeviri: Hoooyin Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 729159,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68c058855b3f3795844bf0dc",
+              "extra": "Çevirmen: Larshe, Redaktör: Leone",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756858,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a42ec28ec3223a31a1ece57",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758263,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a54ed19ec3223a31a1eceb2",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 729429,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6012620",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 729160,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/zubdkky4azie",
+              "extra": "Çevirmen: Larshe, Redaktör: Leone",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 729426,
+              "player": "HDVID",
+              "url": "https://vidhdthe.online/embed-vknv2hqb3ol2.html",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 729427,
+              "player": "DS",
+              "url": "https://d-s.io/d/r5zrxf2lxpbg",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 729430,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/10366991993591",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 729431,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x9qhsaa",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 729433,
+              "player": "VTBE",
+              "url": "https://vtbe.to/6oi3jx2quc9f.html",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 729434,
+              "player": "MEDIA",
+              "url": "https://media.cm/d/k6ol0kjx07od",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 729435,
+              "player": "PIXELDRAIN",
+              "url": "https://pixeldrain.com/u/naCYVtXa",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 729436,
+              "player": "GETT",
+              "url": "https://gett.su/file/xca2iw85a9e7/view.html",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 729437,
+              "player": "FILEMOON",
+              "url": "https://filemoon.to/d/3dz95hj4xsvo",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 729438,
+              "player": "WWW",
+              "url": "https://www.allvideo.monster/videos/922742/harbi-kir-s01e08-webrip-x264-dantelentel/",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756859,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/zavr804sq7ve",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756860,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ybeekp85fwpb.html",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758264,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/jv6emc4o2e7b",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758265,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-02megv5h3ory.html",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 241222,
+          "episode_number": 9,
+          "name": "Grafiti Şehri",
+          "description": "Temizlikçiler, bir sonraki görevleri için bir “büyü” almak için, Canvas Kasabası'na giderler ve burada trajik bir keşif yaparlar.",
+          "release_date": "2025-09-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kJ8QkZR4c8RomIGNHLMAuvyLeMw.jpg",
+          "videos": [
+            {
+              "id": 729102,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68bdc308a5cf47d52bba9717",
+              "extra": "Çevirmen:Hoooyin Encoder:kleindono |  www.discord.gg/codeanimee | www.instagram.com/codeanimee",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 729119,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68bddea1a5cf47d52bba9718",
+              "extra": "Çevirmen: Larshe, Redaktör: Leone",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756861,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a42ecbda4f5f9e71074dc90",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758993,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a5fa9c2a4f5f9e71074dd13",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 730309,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6015577",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 730310,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x9qrau8",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 730312,
+              "player": "VTBE",
+              "url": "https://vtbe.to/v8l2u2kz3u0y.html",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 730313,
+              "player": "PIXELDRAIN",
+              "url": "https://pixeldrain.com/u/RNPoypRx",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 730314,
+              "player": "FILEMOON",
+              "url": "https://filemoon.to/d/6rmp8zrma1eu",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 730315,
+              "player": "WWW",
+              "url": "https://www.allvideo.monster/videos/923504/harbi-kir-s01e09-webrip-x264-dantelentel/",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 730316,
+              "player": "MEDIA",
+              "url": "https://media.cm/d/xyuvsrmkl8nw",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 730317,
+              "player": "HDVID",
+              "url": "https://vidhdthe.online/embed-e3ec3hpmn9gc.html",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 730318,
+              "player": "DSVPLAY",
+              "url": "https://dsvplay.com/d/xvlh10xdme8f",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756862,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/v9akgfqaa3nq",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756863,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-xqzwtq3mc906.html",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758994,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/fozys0oe46i2",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758995,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-a0esfpqncjia.html",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 241223,
+          "episode_number": 10,
+          "name": "Penta: Çölde Kimsenin Olmadığı Bölge",
+          "description": "Teçhizatlarını tamamlayan ekip, Küre hakkında ipucu elde etmek için Penta'ya, No Man's Land'e doğru yola çıkar.",
+          "release_date": "2025-09-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ghOj1tbWJ6jLrXkqJln9EOtQE8Z.jpg",
+          "videos": [
+            {
+              "id": 729631,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68c6ff6f4cbf52172ae6bb89",
+              "extra": "Çevirmen: hooyin / Encoder: qswbatman",
+              "fansub": "hooyin",
+              "fansub_id": 291,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 729639,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68c70dda4cbf52172ae6bb8a",
+              "extra": "Çevirmen: Larshe, Redaktör: Procyon",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756864,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a42ed59f2c0587e0fd8b8e0",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 759311,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a663f8d75c86a0b6f67b774",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 729632,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/7ii5y07ntezu",
+              "extra": "Çevirmen: hooyin / Encoder: qswbatman",
+              "fansub": "hooyin",
+              "fansub_id": 291,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 729640,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/q4z1cmnj0301",
+              "extra": "Çevirmen: Larshe, Redaktör: Procyon",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756865,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/nfbe8kuaxr4a",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756866,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-nvj0vjwfagv0.html",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 759312,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/iyg6vrg7gnw9",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 759313,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-3kx53k2je43g.html",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 241224,
+          "episode_number": 11,
+          "name": "Amo'nun Misafirperverliği",
+          "description": "No Man's Land'de yaşayan gizemli bir kadın, mürettebata beklenmedik bir açıdan meydan okur.",
+          "release_date": "2025-09-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/a8FkL2y74TlH8T7FroXRVPn2O9a.jpg",
+          "videos": [
+            {
+              "id": 730475,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68d053a32952a68bd2f023a4",
+              "extra": "Çeviri: Hoooyin Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 730480,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68d054ce651e2574e3fa7142",
+              "extra": "Çevirmen: Larshe, Redaktör: Leone",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756867,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a42edef75c86a0b6f67b6e0",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 759785,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a6f59a6f342e3f8d7f904a1",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 730450,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6018000",
+              "extra": "Çeviri: Hoooyin Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 730434,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/3ndzt0jcd0xt",
+              "extra": "Çeviri: Hoooyin Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 730449,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/19c-w79P8tgkn9TYhz4YRBLBU_s37ttWJ/preview",
+              "extra": "Çeviri: Hoooyin Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 730451,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/13013164165632",
+              "extra": "Çeviri: Hoooyin Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 730481,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/wf1jskcsaoeg",
+              "extra": "Çevirmen: Larshe, Redaktör: Leone",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756868,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/l0ti4x9w19yi",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756869,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-5p2iaegagx1t.html",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 759786,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/te1r39vty01z",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 759787,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-8nt1xkd84o7a.html",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 241225,
+          "episode_number": 12,
+          "name": "Lanet Gibi Bir Şey",
+          "description": "Tamsy ve Zanka, esir alınan müttefiklerini kurtarmak için savaşır. Sonrasında, Rudo beklenmedik bir tepki gösterir.",
+          "release_date": "2025-09-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qT3Iq4i1cMOdX8ppD5G9lfOOJIs.jpg",
+          "videos": [
+            {
+              "id": 730967,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68d96c4908b60ac8219a382b",
+              "extra": " Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 730970,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68d96e9908b60ac8219a382c",
+              "extra": "Çevirmen: Larshe / Redaktör: Procyon",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756870,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a42ee89d5ce148fbbb33898",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 760645,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a7f79ce75c86a0b6f67b7d5",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 730968,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/pfxz8xy8negi",
+              "extra": " Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 730971,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/p67avlp7jetn",
+              "extra": "Çevirmen: Larshe / Redaktör: Procyon",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756871,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/xejrnd569iu7",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756872,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-h8nwl5kbcm95.html",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 760449,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/k5uc5zdtzc1j",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 760450,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-dj6t22cdluqp.html",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 760646,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ryo1qzrbvvpl",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 760647,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-fvvn1iklxii9.html",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 241226,
+          "episode_number": 13,
+          "name": "Boş Bir Bakış",
+          "description": "Amo, kuleye nasıl geldiğini ve onu ziyarete gelen “melekleri” anlatır.",
+          "release_date": "2025-10-05T00:00:00.000Z",
+          "poster": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=cover/catalog/crunchyroll/f03e891e1e7dee9ee20d4f99af7c8e7e.png",
+          "videos": [
+            {
+              "id": 731604,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68e2a700f4be77412d824cd6",
+              "extra": "Çeviri: Hoooyin / Encode: Zehif_06",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731613,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68e2a8c508b60ac8219a3864",
+              "extra": "Çevirmen: Larshe, Redaktör: Leone",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 733614,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69013f080650926e34e4c887",
+              "extra": "Çevirmen: Ab-D.-Rahman Redaktör: xCenny   Encoder: Akeno-Sensei",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756873,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a42ef7359edd8529b312239",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 762505,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6aa19c60a4f5f9e71074ddf2",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731605,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/3l47t0dyk6hn",
+              "extra": "Çeviri: Hoooyin / Encode: Zehif_06",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731606,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ayp48jbgdd8a.html",
+              "extra": "Çeviri: Hoooyin / Encode: Zehif_06",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731614,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/vgwdouz7ikc8",
+              "extra": "Çevirmen: Larshe, Redaktör: Leone",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731615,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-jvx87kacc1ua.html",
+              "extra": "Çevirmen: Larshe, Redaktör: Leone",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 733615,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/5k2f9ohi98ul",
+              "extra": "Çevirmen: Ab-D.-Rahman Redaktör: xCenny   Encoder: Akeno-Sensei",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 733616,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-bozkhg9g8dz0.html",
+              "extra": "Çevirmen: Ab-D.-Rahman Redaktör: xCenny   Encoder: Akeno-Sensei",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756874,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/6slne33lgkj1",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756875,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-iasuhs9rijf9.html",
+              "extra": "Vuats - Einherjar - Kenanke",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 761719,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/c3gpuqmf7goj",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 761720,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-icin0o20czhp.html",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 762506,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/yvptwcp0pyyr",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 762507,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-03il4bs3ioz0.html",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 241227,
+          "episode_number": 14,
+          "name": "Fırtınadan Önceki Fırtına",
+          "description": "Penta No Man's Land'den döndükten sonra, Rudo ve Temizlikçiler bir dizi yeni tehditle karşı karşıya kalırlar.",
+          "release_date": "2025-10-12T00:00:00.000Z",
+          "poster": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=cover/catalog/crunchyroll/10748a247f34913c0d929b55c3bc7103.png",
+          "videos": [
+            {
+              "id": 732322,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68ebe34408b60ac8219a38ac",
+              "extra": "Çevirmen: Larshe, Redaktör: Leone",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 732405,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68ec200508b60ac8219a38b2",
+              "extra": "Çevirmen: irmkwknci / Redaktör: Nisackerman / Encoder: Zehif_06",
+              "fansub": "irmkwknci",
+              "fansub_id": 664,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 732556,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68efda5ef4be77412d824d2a",
+              "extra": "Çevirmen: Ab-D.-Rahman Redaktör: xCenny  Encoder: Ashirame",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 732323,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/cmwknhahou8z",
+              "extra": "Çevirmen: Larshe, Redaktör: Leone",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 732324,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-9nqlu8dmk5ps.html",
+              "extra": "Çevirmen: Larshe, Redaktör: Leone",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 732406,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ue2uvfat32x0",
+              "extra": "Çevirmen: irmkwknci / Redaktör: Nisackerman / Encoder: Zehif_06",
+              "fansub": "irmkwknci",
+              "fansub_id": 664,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 732407,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-lfpelm36tmzo.html",
+              "extra": "Çevirmen: irmkwknci / Redaktör: Nisackerman / Encoder: Zehif_06",
+              "fansub": "irmkwknci",
+              "fansub_id": 664,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 732557,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-i8yblw9hntx6.html",
+              "extra": "Çevirmen: Ab-D.-Rahman Redaktör: xCenny  Encoder: Ashirame",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 241228,
+          "episode_number": 15,
+          "name": "Çatışma!",
+          "description": "Yağmacılar tarafından bilinmeyen bir yere götürülen Temizlikçiler, hayatları için savaşır ve Zodyl, Rudo'ya bir teklifte bulunur.",
+          "release_date": "2025-10-19T00:00:00.000Z",
+          "poster": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=cover/catalog/crunchyroll/cf71f236ca935a8e576cce856eb72af4.png",
+          "videos": [
+            {
+              "id": 732869,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68f522195e29f4e26879b460",
+              "extra": " Mercury  - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 733147,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68f8eb88f4be77412d824d56",
+              "extra": "Çevirmen: ReaNMe Encoder : ReaNMe",
+              "fansub": "ReaNMe",
+              "fansub_id": 624,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 733176,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68fa2f1c08b60ac8219a38f5",
+              "extra": "Çevirmen: Larshe, Redaktör: Leone",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 732870,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/9mb3xsfigy5b",
+              "extra": " Mercury  - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 732871,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ly8k3elkcnxg.html",
+              "extra": " Mercury  - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 733148,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/rxmuxdf9aazr",
+              "extra": "Çevirmen: ReaNMe Encoder : ReaNMe",
+              "fansub": "ReaNMe",
+              "fansub_id": 624,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 733149,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-zbfxfdb4fogm.html",
+              "extra": "Çevirmen: ReaNMe Encoder : ReaNMe",
+              "fansub": "ReaNMe",
+              "fansub_id": 624,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 733177,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/qhs6f8b3mecn",
+              "extra": "Çevirmen: Larshe, Redaktör: Leone",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 733178,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-bfad94kykhl7.html",
+              "extra": "Çevirmen: Larshe, Redaktör: Leone",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 241229,
+          "episode_number": 16,
+          "name": "Yetenekli ve Yeteneksiz",
+          "description": "Bundus, Noel Babaları sorguya çekerken, Zanka güçlenen Jabber'a ayak uydurmakta zorlanır.",
+          "release_date": "2025-10-26T00:00:00.000Z",
+          "poster": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=cover/catalog/crunchyroll/07dcb4d45897d32c4f6ec64035c95303.png",
+          "videos": [
+            {
+              "id": 733474,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68fe5d5ce926f7cb6dd49e68",
+              "extra": "Çevirmen: Larshe, Redaktör: Leone",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 733494,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68fe84d4e926f7cb6dd49e6a",
+              "extra": " Çeviri: Perpo Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "Perpo",
+              "fansub_id": 30,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734033,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6907a099075ec504677be054",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734105,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6908ac118f1b7fd438f1c1ee",
+              "extra": "Çevirmen: Ab-D.-Rahman Redaktör: Nisackerman  Encoder: Akeno-Sensei",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 733475,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/bfmf7u10jdzk",
+              "extra": "Çevirmen: Larshe, Redaktör: Leone",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 733476,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-6rhwqv5hnqb6.html",
+              "extra": "Çevirmen: Larshe, Redaktör: Leone",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 733495,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/kx20oyc7j1yr",
+              "extra": " Çeviri: Perpo Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "Perpo",
+              "fansub_id": 30,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 733496,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-qgeul4r177gw.html",
+              "extra": " Çeviri: Perpo Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "Perpo",
+              "fansub_id": 30,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734034,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ildnjqs34lq0",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734035,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-6t1u6lh4oyfi.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734106,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/vfx9nbk5pbju",
+              "extra": "Çevirmen: Ab-D.-Rahman Redaktör: Nisackerman  Encoder: Akeno-Sensei",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734107,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-12m1ai45f160.html",
+              "extra": "Çevirmen: Ab-D.-Rahman Redaktör: Nisackerman  Encoder: Akeno-Sensei",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 241230,
+          "episode_number": 17,
+          "name": "Sıradanlığın Hatıraları",
+          "description": "Zanka, kendisini bugünkü konumuna getiren geçmişindeki dönüm noktasını düşünür.",
+          "release_date": "2025-11-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/61tDXSY2BJqqFPN5LzoSzYJSjgF.jpg",
+          "videos": [
+            {
+              "id": 734017,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/690793a3f2904a96d86ae9a0",
+              "extra": "Çeviri: Hoooyin / Encode: Kingsama",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734030,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69079de6c92cb30663733908",
+              "extra": "Çevirmen: Larshe, Encoder/Uploader: Nolly",
+              "fansub": "Larshe, Encoder/Uploader: No",
+              "fansub_id": 665,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734141,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6908df0c8f1b7fd438f1c1f4",
+              "extra": "Çevirmen: Ab-D.-Rahman Redaktör: Nisackerman Encoder: Akeno-Sensei",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734018,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/st9ch9mxtpao",
+              "extra": "Çeviri: Hoooyin / Encode: Kingsama",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734019,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-kjcdta7vmnhf.html",
+              "extra": "Çeviri: Hoooyin / Encode: Kingsama",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734031,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/q2ute3l3aliz",
+              "extra": "Çevirmen: Larshe, Encoder/Uploader: Nolly",
+              "fansub": "Larshe, Encoder/Uploader: No",
+              "fansub_id": 665,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734032,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-cj1d7naaio20.html",
+              "extra": "Çevirmen: Larshe, Encoder/Uploader: Nolly",
+              "fansub": "Larshe, Encoder/Uploader: No",
+              "fansub_id": 665,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734142,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/co9l59gnikpu",
+              "extra": "Çevirmen: Ab-D.-Rahman Redaktör: Nisackerman Encoder: Akeno-Sensei",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734143,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-qrpanera4w8c.html",
+              "extra": "Çevirmen: Ab-D.-Rahman Redaktör: Nisackerman Encoder: Akeno-Sensei",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 241231,
+          "episode_number": 18,
+          "name": "Vay, Bu Tam Anlamıyla Müthiş!",
+          "description": "Yağmacılar-Temizlikçiler çatışmaları devam ederken, Riyo ve Noerde arasındaki savaş kızışıyor.",
+          "release_date": "2025-11-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/flh3j1Jti9EkTrz9Sb8sRALiZmw.jpg",
+          "videos": [
+            {
+              "id": 734611,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6910cd75c92cb30663733930",
+              "extra": "Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734696,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6911084ac92cb3066373393b",
+              "extra": "Çevirmen: Ab-D.-Rahman Redaktör: Nisackerman Encoder: Akeno-Sensei",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 744238,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/698324e5c0da000447f8c9dc",
+              "extra": "Çevirmen: Larshe, Redaktör: Leone",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734612,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/u7xxoa1se6kg",
+              "extra": "Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734613,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-44q6vbrwgftl.html",
+              "extra": "Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734697,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/uouztie05lxg",
+              "extra": "Çevirmen: Ab-D.-Rahman Redaktör: Nisackerman Encoder: Akeno-Sensei",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734698,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-yx3sbufswzcd.html",
+              "extra": "Çevirmen: Ab-D.-Rahman Redaktör: Nisackerman Encoder: Akeno-Sensei",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 744239,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/k9ekqxqn3moi",
+              "extra": "Çevirmen: Larshe, Redaktör: Leone",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 744240,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-o7agzky7n2ib.html",
+              "extra": "Çevirmen: Larshe, Redaktör: Leone",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 241232,
+          "episode_number": 19,
+          "name": "Gözcü Serisi",
+          "description": "Zodyl, Küre'ye ulaşma planını açıklar ve diğer Temizleyiciler mevcut durumlarına tepki gösterir.",
+          "release_date": "2025-11-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bHM5XVcofXakYQxAqj8wcK1ng1P.jpg",
+          "videos": [
+            {
+              "id": 735315,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/691a071fc92cb3066373396f",
+              "extra": "Çevirmen: Larshe Redaktör: Nolly",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 735321,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/691a0c92f2904a96d86aea09",
+              "extra": "Çeviri: Hoooyin Encode: Perpo",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 735527,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/691caf57075ec504677be0dd",
+              "extra": "Çevirmen: Ab-D.-Rahman / Redaktör: Nisackerman  Encoder: Ashirame",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 735316,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/junialmh0ydn",
+              "extra": "Çevirmen: Larshe Redaktör: Nolly",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 735317,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-j3cot8exw0ym.html",
+              "extra": "Çevirmen: Larshe Redaktör: Nolly",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 735322,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/9bya7841c74z",
+              "extra": "Çeviri: Hoooyin Encode: Perpo",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 735323,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-yunvapqv2bsw.html",
+              "extra": "Çeviri: Hoooyin Encode: Perpo",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 735528,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-71z1aoyg32g7.html",
+              "extra": "Çevirmen: Ab-D.-Rahman / Redaktör: Nisackerman  Encoder: Ashirame",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 241233,
+          "episode_number": 20,
+          "name": "Bölüm 20",
+          "description": "",
+          "release_date": "2025-11-23T00:00:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 735802,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69233f5ef2904a96d86aea30",
+              "extra": "Çevirmen: Larshe Redaktör: Leone ",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 735808,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6923462b075ec504677be0f7",
+              "extra": "Çeviri: Hoooyin Encode: Kingsama - https://www.instagram.com/codeanimee https://discord.gg/codeanimee",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 735860,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/692377088f1b7fd438f1c294",
+              "extra": "Çevirmen: Ab-D.-Rahman Redaktör: OguzYs Encoder: Ab-D.-Rahman",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 735803,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/u1xbnmwkggbo",
+              "extra": "Çevirmen: Larshe Redaktör: Leone ",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 735804,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-hlvfguugn2ed.html",
+              "extra": "Çevirmen: Larshe Redaktör: Leone ",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 735809,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/1sr49ciibwf0",
+              "extra": "Çeviri: Hoooyin Encode: Kingsama - https://www.instagram.com/codeanimee https://discord.gg/codeanimee",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 735810,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-i6a4a3knccj2.html",
+              "extra": "Çeviri: Hoooyin Encode: Kingsama - https://www.instagram.com/codeanimee https://discord.gg/codeanimee",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 735861,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/nqyw34gdoxm2",
+              "extra": "Çevirmen: Ab-D.-Rahman Redaktör: OguzYs Encoder: Ab-D.-Rahman",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 735862,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-wa6obc4acxn2.html",
+              "extra": "Çevirmen: Ab-D.-Rahman Redaktör: OguzYs Encoder: Ab-D.-Rahman",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 241234,
+          "episode_number": 21,
+          "name": "Bölüm 21",
+          "description": "",
+          "release_date": "2025-11-30T00:00:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 736171,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/692c80b60b7e7b0ae9bf3505",
+              "extra": "Çevirmen: Larshe, Redaktör: Leone, Encoder: The Shorekeeper",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 736195,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/692c9317993dddfb572df1d3",
+              "extra": " Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 736668,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/693430fbda34f97888579677",
+              "extra": "Çevirmen: Ab-D.-Rahman Redaktör: Nisackerman  Encoder: Ab-D.-Rahman",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 736172,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/2shrzxww9weg",
+              "extra": "Çevirmen: Larshe, Redaktör: Leone, Encoder: The Shorekeeper",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 736173,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-b7lb9w4jc56s.html",
+              "extra": "Çevirmen: Larshe, Redaktör: Leone, Encoder: The Shorekeeper",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 736196,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/92hjac92g6fz",
+              "extra": " Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 736197,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-wuwddrx84vw4.html",
+              "extra": " Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 736669,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/jczkb6tnnq1f",
+              "extra": "Çevirmen: Ab-D.-Rahman Redaktör: Nisackerman  Encoder: Ab-D.-Rahman",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 736670,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-z1eahsdn883b.html",
+              "extra": "Çevirmen: Ab-D.-Rahman Redaktör: Nisackerman  Encoder: Ab-D.-Rahman",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 241235,
+          "episode_number": 22,
+          "name": "Bölüm 22",
+          "description": "",
+          "release_date": "2025-12-07T00:00:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 736753,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6935b2f38c2f3c4664008b47",
+              "extra": "Çeviri: Hoooyin Encode: Perpo",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 736756,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6935b51a8c2f3c4664008b48",
+              "extra": "Çevirmen: Ab-D.-Rahman Redaktör: Ab-D.-Rahman Encoder: Ab-D.-Rahman",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 736762,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6935b6949a001ca6974b214d",
+              "extra": "Çevirmen: Larshe, Redaktör: Leone",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 736750,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/876uip87b4g1",
+              "extra": "Çeviri: Hoooyin Encode: Perpo",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 736751,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-5r3wna7qqxwa.html",
+              "extra": "Çeviri: Hoooyin Encode: Perpo",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 736752,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1iyAJKposYkmU-i7gMcvsILHflHZEdkIQ/preview",
+              "extra": "Çeviri: Hoooyin Encode: Perpo",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 736754,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/eluhbr5jf19v",
+              "extra": "Çeviri: Hoooyin Encode: Perpo",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 736755,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ylbilud196c5.html",
+              "extra": "Çeviri: Hoooyin Encode: Perpo",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 736757,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ik9xwbr76t4i",
+              "extra": "Çevirmen: Ab-D.-Rahman Redaktör: Ab-D.-Rahman Encoder: Ab-D.-Rahman",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 736758,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-3wwidoiganss.html",
+              "extra": "Çevirmen: Ab-D.-Rahman Redaktör: Ab-D.-Rahman Encoder: Ab-D.-Rahman",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 736763,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/6tqyjpntaucp",
+              "extra": "Çevirmen: Larshe, Redaktör: Leone",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 736764,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-wb2bc5hbq9hg.html",
+              "extra": "Çevirmen: Larshe, Redaktör: Leone",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 241236,
+          "episode_number": 23,
+          "name": "Bölüm 23",
+          "description": "",
+          "release_date": "2025-12-14T00:00:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 737819,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/693ef637fc9859a3f55e7fb6",
+              "extra": "Çevirmen: Larshe Redaktör: Procyon",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 737822,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/693ef6ea9a001ca6974b2172",
+              "extra": "Çeviri: Hoooyin / Encode: Zehif_06",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 738093,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69402f615520ec4f92a6a279",
+              "extra": "Çevirmen: Ab-D.-Rahman Redaktör: OguzYS Encoder: Arda",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 737820,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/k5v0qa5lu7kr",
+              "extra": "Çevirmen: Larshe Redaktör: Procyon",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 737821,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-3xdre4adioqt.html",
+              "extra": "Çevirmen: Larshe Redaktör: Procyon",
+              "fansub": "Larshe",
+              "fansub_id": 163,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 737823,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/8jz5gt6se9jb",
+              "extra": "Çeviri: Hoooyin / Encode: Zehif_06",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 737824,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ez93l6vepj59.html",
+              "extra": "Çeviri: Hoooyin / Encode: Zehif_06",
+              "fansub": "Hoooyin",
+              "fansub_id": 283,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 738094,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/tf2lwx8jnjxz",
+              "extra": "Çevirmen: Ab-D.-Rahman Redaktör: OguzYS Encoder: Arda",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 738095,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-7jcvs1ja37pv.html",
+              "extra": "Çevirmen: Ab-D.-Rahman Redaktör: OguzYS Encoder: Arda",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 241237,
+          "episode_number": 24,
+          "name": "Bölüm 24",
+          "description": "",
+          "release_date": "2025-12-21T00:00:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 738568,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69482a469b17cda883a84bc7",
+              "extra": "Çevirmen: Larshe & Redaktör: Leone & Encoder: The Shorekeeper",
+              "fansub": "Larshe &",
+              "fansub_id": 667,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 738571,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69482d4ad78eb9ff1b80eb53",
+              "extra": " Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 738574,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/694835cf9e8cb38a2b399237",
+              "extra": "Ab-D.-Rahman",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 738569,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/fb13dgw9835a",
+              "extra": "Çevirmen: Larshe & Redaktör: Leone & Encoder: The Shorekeeper",
+              "fansub": "Larshe &",
+              "fansub_id": 667,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 738570,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ro99kd3k3d54.html",
+              "extra": "Çevirmen: Larshe & Redaktör: Leone & Encoder: The Shorekeeper",
+              "fansub": "Larshe &",
+              "fansub_id": 667,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 738572,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/vw7l8z9zt1us",
+              "extra": " Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 738573,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-zwto8ha3waep.html",
+              "extra": " Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 738575,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/7da4qth0bxjx",
+              "extra": "Ab-D.-Rahman",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 738576,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-cqfylrao1ri3.html",
+              "extra": "Ab-D.-Rahman",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

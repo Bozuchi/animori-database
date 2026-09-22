@@ -1,0 +1,646 @@
+{
+  "id": 7695,
+  "name": "JoJo no Kimyou na Bouken",
+  "name_english": "JoJo's Bizarre Adventure",
+  "name_romanji": "JoJo's Bizarre Adventure",
+  "original_title": "ジョジョの奇妙な冒険",
+  "type": "series",
+  "title_type": "anime",
+  "year": 1993,
+  "release_date": "1993-11-19",
+  "description": "Hirohiko Araki'nin uzun soluklu mangasına dayanan ilk OVA serisi, ölümsüz vampir Dio'ya karşı aile kan davasını bitirmeye çalışan Joseph Joestar ve 17 yaşındaki torunu Jotaro'yu konu alıyor. Joseph ve Jotaro, her biri The Stand'den (Tarot kartlarının bir varyasyonu) bir kartı temsil eden güçlere sahip mistik savaşçılar toplamışlardır; Jotaro ise en güçlü Stand olan Star Platinum üzerinde güçlere sahiptir. Dio da Stand savaşçıları toplamış ve Holly'nin (Jotaro'nun annesi) iyiliği ve dünyaya hükmetmek için karşı karşıya gelirler.\n",
+  "poster": "https://image.tmdb.org/t/p/original/8PO6QwTuCQKucMAx72gREkWYwiF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2AskfZCVSh2cEbvURPgSG2VD8q5.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    1,
+    2
+  ],
+  "tmdb_id": 60862,
+  "mal_id": 14719,
+  "anilist_id": 0,
+  "imdb_id": "tt0248119",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 1275,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 13,
+      "episodes": [
+        {
+          "id": 129399,
+          "episode_number": 1,
+          "name": "1.Bölüm",
+          "description": "",
+          "release_date": "1993-11-19T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 732042,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68e9ac4d08b60ac8219a388b",
+              "extra": "Vural | Maere | https://discord.gg/4jsCNKnBQ2",
+              "fansub": "Vural",
+              "fansub_id": 1193,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743020,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697e78b3e4b357250ada929d",
+              "extra": "Mikey - Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 732043,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-0e2f792lau0o.html",
+              "extra": "Vural | Maere | https://discord.gg/4jsCNKnBQ2",
+              "fansub": "Vural",
+              "fansub_id": 1193,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743021,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/v52so9ceb2ea",
+              "extra": "Mikey - Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743022,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ghc8atqy4vde.html",
+              "extra": "Mikey - Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 129400,
+          "episode_number": 2,
+          "name": "2. Bölüm",
+          "description": "",
+          "release_date": "1993-12-17T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 732044,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68e9ace6f4be77412d824cf8",
+              "extra": "Vural | Maere | https://discord.gg/4jsCNKnBQ2",
+              "fansub": "Vural",
+              "fansub_id": 1193,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 744289,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6983d715eb1a5915e492ac99",
+              "extra": "Mikey - Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 732045,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/kswwfwy6nw1y",
+              "extra": "Vural | Maere | https://discord.gg/4jsCNKnBQ2",
+              "fansub": "Vural",
+              "fansub_id": 1193,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 732046,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-axmvbob6g2rn.html",
+              "extra": "Vural | Maere | https://discord.gg/4jsCNKnBQ2",
+              "fansub": "Vural",
+              "fansub_id": 1193,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 744290,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/f4gyygvjgb69",
+              "extra": "Mikey - Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 744291,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-nkp0c8wh4u9j.html",
+              "extra": "Mikey - Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 129401,
+          "episode_number": 3,
+          "name": "3.Bölüm",
+          "description": "",
+          "release_date": "1994-07-21T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 744398,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6985e0d4eb1a5915e492aca0",
+              "extra": "Çevirmen: Mikey Encoder: Astrolyne Restoratör: Astrolyne TypeSetting: Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 744399,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ey7pypwk783h",
+              "extra": "Çevirmen: Mikey Encoder: Astrolyne Restoratör: Astrolyne TypeSetting: Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 744400,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ut9lndsse7vd.html",
+              "extra": "Çevirmen: Mikey Encoder: Astrolyne Restoratör: Astrolyne TypeSetting: Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 129402,
+          "episode_number": 4,
+          "name": "4.Bölüm",
+          "description": "",
+          "release_date": "1994-08-09T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 744693,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6989de1cc0da000447f8c9f1",
+              "extra": "Çevirmen: Mikey Encoder: Astrolyne Restoratör: Astrolyne TypeSetting: Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 744694,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/8ozq7g8scfqz",
+              "extra": "Çevirmen: Mikey Encoder: Astrolyne Restoratör: Astrolyne TypeSetting: Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 744695,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-8jnwnw8fkxc1.html",
+              "extra": "Çevirmen: Mikey Encoder: Astrolyne Restoratör: Astrolyne TypeSetting: Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 129403,
+          "episode_number": 5,
+          "name": "5.Bölüm",
+          "description": "",
+          "release_date": "1994-10-21T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 745048,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6990c4ccf8d39f6943842a76",
+              "extra": "Mikey - Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 745049,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/5qi662jmjpiw",
+              "extra": "Mikey - Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 745050,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-1ttrb66j8nkl.html",
+              "extra": "Mikey - Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 129404,
+          "episode_number": 6,
+          "name": "6.Bölüm",
+          "description": "",
+          "release_date": "1994-11-18T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 745279,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69961ba7a09ea30ace4839a1",
+              "extra": "Mikey - Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 745280,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/0z5jyr9pvlpt",
+              "extra": "Mikey - Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 745281,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-bmof3zdt8mzb.html",
+              "extra": "Mikey - Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 238884,
+          "episode_number": 7,
+          "name": "7.Bölüm",
+          "description": "",
+          "release_date": "2000-06-15T17:00:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 727899,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68a8d1ba2b6c8a40dde15a09",
+              "extra": "Vural | Maere",
+              "fansub": "Vural",
+              "fansub_id": 1193,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 745731,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/699d73d298be3e47efffd771",
+              "extra": "Mikey - Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 727900,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/nhmrkwkoow0n",
+              "extra": "Vural | Maere",
+              "fansub": "Vural",
+              "fansub_id": 1193,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 745732,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/buxxg71os23a",
+              "extra": "Mikey - Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 745733,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ofcurtzuugqh.html",
+              "extra": "Mikey - Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 238885,
+          "episode_number": 8,
+          "name": "8.Bölüm",
+          "description": "",
+          "release_date": "2000-06-15T19:29:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 727902,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68a8d253de99e6cf8d096793",
+              "extra": "Vural | Maere",
+              "fansub": "Vural",
+              "fansub_id": 1193,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748597,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69cd610bb067130deed1c03e",
+              "extra": "Çevirmen: Mikey Encoder: Astrolyne Restoratör: Astrolyne TypeSetting: Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 727903,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/jq0livfenv7v",
+              "extra": "Vural | Maere",
+              "fansub": "Vural",
+              "fansub_id": 1193,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748598,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/qjfoz2cq84v1",
+              "extra": "Çevirmen: Mikey Encoder: Astrolyne Restoratör: Astrolyne TypeSetting: Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748599,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ezxv68r13dpa.html",
+              "extra": "Çevirmen: Mikey Encoder: Astrolyne Restoratör: Astrolyne TypeSetting: Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 238886,
+          "episode_number": 9,
+          "name": "9.Bölüm",
+          "description": "",
+          "release_date": "2000-06-15T19:29:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 747318,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69b71590cb8083ded340b933",
+              "extra": "Mikey - Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747319,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/1dr11zckxz5q",
+              "extra": "Mikey - Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747320,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-peoavycyacfq.html",
+              "extra": "Mikey - Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 238887,
+          "episode_number": 10,
+          "name": "10.Bölüm",
+          "description": "",
+          "release_date": "2000-06-15T19:29:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 747877,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69bfd860b923b3ffeb12b57b",
+              "extra": "Çevirmen: Mikey - Encoder: Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747878,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/3xxjitkukt16",
+              "extra": "Çevirmen: Mikey - Encoder: Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747879,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-gzviemshuw3p.html",
+              "extra": "Çevirmen: Mikey - Encoder: Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 238888,
+          "episode_number": 11,
+          "name": "11.Bölüm",
+          "description": "",
+          "release_date": "2000-06-15T19:30:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 748600,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69cd61ffb067130deed1c03f",
+              "extra": "Çevirmen: Mikey Encoder: Astrolyne Restoratör: Astrolyne TypeSetting: Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748601,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/q1rnbmlp2dgb",
+              "extra": "Çevirmen: Mikey Encoder: Astrolyne Restoratör: Astrolyne TypeSetting: Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748602,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ntetq6g77ple.html",
+              "extra": "Çevirmen: Mikey Encoder: Astrolyne Restoratör: Astrolyne TypeSetting: Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 238889,
+          "episode_number": 12,
+          "name": "12.Bölüm",
+          "description": "",
+          "release_date": "2000-06-15T19:30:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 750079,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69dfd1225d4202aa1736c0e2",
+              "extra": "Çevirmen: Mikey Encoder: Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750080,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ghf1mqqmsidw",
+              "extra": "Çevirmen: Mikey Encoder: Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750081,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-n4f3gow422dt.html",
+              "extra": "Çevirmen: Mikey Encoder: Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 238890,
+          "episode_number": 13,
+          "name": "13.Bölüm",
+          "description": "",
+          "release_date": "2000-06-15T19:30:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 750664,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69e7d8b0b923b3ffeb12b5ee",
+              "extra": "Çevirmen: Mikey Encoder: Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750665,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/yo8oxb3h4ru0",
+              "extra": "Çevirmen: Mikey Encoder: Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750666,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-lnzjmxh712oh.html",
+              "extra": "Çevirmen: Mikey Encoder: Astrolyne",
+              "fansub": "Mikey",
+              "fansub_id": 2044,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

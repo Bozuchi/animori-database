@@ -1,0 +1,636 @@
+{
+  "id": 11768,
+  "name": "Dragon Ball Daima",
+  "name_english": "Dragon Ball DAIMA",
+  "name_romanji": "Dragon Ball Daima",
+  "original_title": "ドラゴンボールDAIMA",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2024,
+  "release_date": "2024-11-10",
+  "description": "Gizemli bir şekilde kendilerinin minik versiyonlarına dönüşen Goku ve arkadaşları, gerçeği ortaya çıkarmak ve bir tedavi bulmak için karanlık bir âleme gider.",
+  "poster": "https://image.tmdb.org/t/p/original/cVxwxuKI6yXsB8zuGj6cDiL8GtU.jpg",
+  "backdrop": "https://cdn.mangacix.net/file/mangacix/1740270204304.jpg",
+  "rating": null,
+  "vote_count": null,
+  "genres": [
+    3,
+    14,
+    4
+  ],
+  "tmdb_id": 1361184,
+  "mal_id": 56894,
+  "anilist_id": null,
+  "imdb_id": null,
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 5425,
+      "season_number": 1,
+      "name": "1. Sezon",
+      "episode_count": 20,
+      "episodes": [
+        {
+          "id": 218018,
+          "episode_number": 1,
+          "name": "Gizli Plan",
+          "description": "Goku'nun grubunun Majin Buu ile savaştığı videoyu izleyen Gomah ve Degesu isimli iki Majin, şeytani bir planı hayata geçirmek üzere Dünya'ya gitmeye karar verirler.",
+          "release_date": "2024-10-11T07:50:00.000Z",
+          "poster": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=70,width=320,height=180/catalog/crunchyroll/c750799082deb6a87ded21b117684ca6.jpg",
+          "videos": [
+            {
+              "id": 727640,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68a5db31f7610871857b8ce9",
+              "extra": "Magnum357",
+              "fansub": "Magnum357",
+              "fansub_id": 210,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 727641,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/7n8ylsnpf438",
+              "extra": "Magnum357",
+              "fansub": "Magnum357",
+              "fansub_id": 210,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 218019,
+          "episode_number": 2,
+          "name": "Glorio",
+          "description": "Çocuğa dönüştürüldüklerini fark eden Goku ve arkadaşları, dönüşümlerini tersine çevirme umuduyla İblis Âlemi'ne doğru yola çıkmaya karar verir.",
+          "release_date": "2024-10-18T10:50:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/h6ZzSPzRbGqFhvPJwrDrL6E3zr0.jpg",
+          "videos": [
+            {
+              "id": 706590,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67ba6a2f2dfeb3af499f8686",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 706591,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/dito4awh0dn9",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 218020,
+          "episode_number": 3,
+          "name": "Daima",
+          "description": "İblis Âlemi'ne bağlanan tuhaf bir bağlantı noktasına varan Goku, Yüce Kai ve Glorio, Üçüncü İblis Âlemi'ne ulaşmak için bu noktadan geçer.",
+          "release_date": "2024-10-25T16:50:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/j4E7fEAPaVlM9u4P90I2Q3BtogF.jpg",
+          "videos": [
+            {
+              "id": 706593,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67ba6ac02dfeb3af499f8687",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 706594,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/enl7xh9lj0gc",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 218021,
+          "episode_number": 4,
+          "name": "Geveze",
+          "description": "Üçüncü İblis Âlemi'ni yürüyerek geçmek zorunda kalan Goku ve arkadaşları, geveze bir Majin kadınının kocasıyla birlikte işlettiği yol kenarındaki ilginç bir dükkânda mola verir.",
+          "release_date": "2024-11-01T16:50:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vHiOZZQemuDTBAF9Gu3hInP1IKo.jpg",
+          "videos": [
+            {
+              "id": 706596,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67ba6b532dfeb3af499f8688",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 706597,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/km7w4iypqj27",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 218022,
+          "episode_number": 5,
+          "name": "Panzy",
+          "description": "Goku ve arkadaşlarından şüphelenen Majin kızı, kendini Panzy olarak tanıtır ve onlara eşlik edip kaleye giden yolu göstermek için ısrar eder.",
+          "release_date": "2024-11-08T16:50:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oxkBT8aiQWEEQhLHUIqYCpcU7dP.jpg",
+          "videos": [
+            {
+              "id": 706599,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67ba6bea2dfeb3af499f8689",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 706600,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/hpesxfy1m3v2",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 218023,
+          "episode_number": 6,
+          "name": "Yıldırım",
+          "description": "Goku ve Majin geceyi geçirmek için bir mağarada kamp kurar. Grup bir canavar tarafından uyandırıldığında, Glorio ve Goku onu kimin yeneceği konusunda anlaşmazlığa düşer.",
+          "release_date": "2024-11-15T16:50:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/91RUh4rfKJN4oYoAREKp5fimN49.jpg",
+          "videos": [
+            {
+              "id": 706602,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67ba6c802dfeb3af499f868a",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 706603,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/jseep42fmggu",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 218024,
+          "episode_number": 7,
+          "name": "Tasma",
+          "description": "Bulma'nın grubu beklenmedik bir yardım alır. Bu arada Jandarma, Glorio ve diğerlerini gemilerini karaya indirmeye ve bir incelemeye sokmaya zorlar.",
+          "release_date": "2024-11-22T16:50:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/smM9FLgQ8mKSfvX5MZMmjlkeZQ1.jpg",
+          "videos": [
+            {
+              "id": 706605,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67ba6d132dfeb3af499f868b",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 706606,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/s6k8aag160n1",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 218025,
+          "episode_number": 8,
+          "name": "Tamagami",
+          "description": "Goku, Ejder Topları'nın yaman koruyucularından biri olan Üçüncü Tamagami'ye karşı şiddetli bir mücadele verirken arkadaşları onu hayretle izler.",
+          "release_date": "2024-11-29T16:50:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/AcibRUuItAQocZqcbgTl2dpNqoU.jpg",
+          "videos": [
+            {
+              "id": 706608,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67ba6da92dfeb3af499f868c",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 706609,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/8zyc24ecq2if",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 218026,
+          "episode_number": 9,
+          "name": "Hırsızlar",
+          "description": "Goku'nun Üçüncü İblis Âlemi'nde yaptıkları hakkındaki söylentiler İblis Âlemi'nde yayılırken Goku ve diğerleri, bir otelde saklanır. Ancak hırsızlar onları fark eder.",
+          "release_date": "2024-12-06T16:50:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2d3UZpI07m03dL68tlKzjFTyiwb.jpg",
+          "videos": [
+            {
+              "id": 706611,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67ba6e3d2dfeb3af499f868d",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 706612,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/5b2vdrsj72zt",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 218027,
+          "episode_number": 10,
+          "name": "Okyanus",
+          "description": "İkinci İblis Âlemi'ne gelen Goku ve arkadaşları, engin bir okyanusun üzerinde uçar. Ama aniden birkaç askerî gemi üzerlerine ateş açar.",
+          "release_date": "2024-12-13T13:50:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pF73h1gpZX0x887ph38IfDsQRkc.jpg",
+          "videos": [
+            {
+              "id": 706614,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67ba6ecf2dfeb3af499f868e",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 706615,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/suxqm5xdduqi",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 218028,
+          "episode_number": 11,
+          "name": "Efsane",
+          "description": "Goku ve arkadaşları yola çıkmaya hazırlanırken Efsanevi Namek Neva yanlarına gelir ve giderken onu da götürmelerini ister.",
+          "release_date": "2024-12-20T16:50:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/mj7AqhBGWB1b7zfdUVA46R6wHX2.jpg",
+          "videos": [
+            {
+              "id": 706617,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67ba6f662dfeb3af499f868f",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 706618,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/g76gwjxldl6t",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 218029,
+          "episode_number": 12,
+          "name": "Gerçek Güç",
+          "description": "Tamagami ile mücadele eden Vegeta, su altında dövüşmek zorunda kalınca sıkıntı yaşar. Ancak okyanus tabanına battıktan sonra gerçek gücünü aniden açığa çıkarır.",
+          "release_date": "2024-12-27T16:50:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/5T5ipgDLvQbyFQZy7zsOFtuu2U6.jpg",
+          "videos": [
+            {
+              "id": 706620,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67ba6ffa2dfeb3af499f8690",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 706621,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/9sg4e6dfrvl7",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 225357,
+          "episode_number": 13,
+          "name": "Sürpriz",
+          "description": "Goku ve diğerleri, Gomah'ın bulunduğu yere doğru yola çıkar. Ama uçağın motorunda çıkan bir sorun nedeniyle, sürprizlerle dolu bir gezegene iniş yapmak zorunda kalırlar.",
+          "release_date": "2025-01-10T19:42:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/40GXfVsXABfU3q8kONqIh5tfyO6.jpg",
+          "videos": [
+            {
+              "id": 706623,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67ba70942dfeb3af499f8691",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 706624,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/yapcc7iyp69b",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 225787,
+          "episode_number": 14,
+          "name": "Tabu",
+          "description": "Goku'nun grubunun ilerlemesini durdurmak için yedek planı devreye sokan Gomah, seçkin Özel Harekât Kuvvetlerinden yardım ister. Bu sırada Neva, gerçek gücünü açığa vurur.",
+          "release_date": "2024-01-17T19:50:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8yiYCV4sKI7DKipRAXScjn0TPiW.jpg",
+          "videos": [
+            {
+              "id": 706626,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67ba712c2dfeb3af499f8692",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 706627,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/68f8tyvxjcyb",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 225788,
+          "episode_number": 15,
+          "name": "Üçüncü Göz",
+          "description": "Özel Harekât Kuvvetlerinin Goku'nun grubuna saldırdığını gören Gomah, Hybis'in kemer tokasında gömülü güçlü bir nesneyi fark eder ve Degesu'ya onu almasını emreder.",
+          "release_date": "2025-01-25T19:50:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/mangacix/1740270423264.jpg",
+          "videos": [
+            {
+              "id": 706629,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67ba71c52dfeb3af499f8693",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 706630,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/losr6fcvy0dv",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 225789,
+          "episode_number": 16,
+          "name": "Degesu",
+          "description": "Gomah'ın sarayının kapısına dayanan Goku ve diğerleri, Özel Harekât Kuvvetleri ile karşı karşıya gelir. Bu sırada Degesu, emellerini gerçekleştirmek için harekete geçer.",
+          "release_date": "2025-01-31T19:50:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/mangacix/1740270444333.jpg",
+          "videos": [
+            {
+              "id": 706632,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67ba72642dfeb3af499f8694",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 706633,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/vp2hm8nbrt6y",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 225790,
+          "episode_number": 17,
+          "name": "Gomah",
+          "description": "Arinsu'nun önerisi üzerine Goku, Ejderha Toplarına sahip olmak için Majin'lerden biriyle düello yapmayı kabul eder ama dönüşüm geçirmiş bir Gomah, dövüşü yarıda keser.",
+          "release_date": "2025-02-07T19:50:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/mangacix/1740270461317.jpg",
+          "videos": [
+            {
+              "id": 706635,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67ba72f62dfeb3af499f8695",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 706636,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/jli8h4amzxb9",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 225791,
+          "episode_number": 18,
+          "name": "Uyanış",
+          "description": "Süper Saiyan formundaki Goku, Gomah'ya karşı bir saldırı başlatır ancak bir kez daha hüsrana uğramak üzeredir. Ta ki içinde muazzam ve yepyeni bir güç uyanana kadar.",
+          "release_date": "2025-02-14T19:50:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/mangacix/1740270479488.jpg",
+          "videos": [
+            {
+              "id": 706638,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67ba73902dfeb3af499f8696",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 706639,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ztaho1gs9r8x",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 225792,
+          "episode_number": 19,
+          "name": "Bölüm 19",
+          "description": "",
+          "release_date": "2025-02-21T19:50:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 706641,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67ba742f2dfeb3af499f8697",
+              "extra": "Eko45 - Nephilim - Jimse",
+              "fansub": "Eko45",
+              "fansub_id": 598,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 706642,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/o756r5ezuumf",
+              "extra": "Eko45 - Nephilim - Jimse",
+              "fansub": "Eko45",
+              "fansub_id": 598,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 225793,
+          "episode_number": 20,
+          "name": "Bölüm 20",
+          "description": "",
+          "release_date": "2025-02-28T19:50:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 708868,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c34bfded01ed6a75608039",
+              "extra": "Eko45 - Jimse",
+              "fansub": "Eko45",
+              "fansub_id": 598,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 708869,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ysdsekz4hkrv",
+              "extra": "Eko45 - Jimse",
+              "fansub": "Eko45",
+              "fansub_id": 598,
+              "quality": "1080p",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

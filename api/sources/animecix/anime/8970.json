@@ -1,0 +1,48 @@
+{
+  "id": 8970,
+  "name": "New Initial D Movie: Legend 2 - Tousou",
+  "name_english": "New Initial D the Movie - Legend 2: Racer",
+  "name_romanji": "New Initial D the Movie - Legend 2: Racer",
+  "original_title": "頭文字D Legend2 闘走",
+  "type": "movie",
+  "title_type": "movie",
+  "year": 2015,
+  "release_date": "2015-05-23 00:00:00",
+  "description": "Üçlemenin ikinci filmidir.",
+  "poster": "https://image.tmdb.org/t/p/original/5w35N9yiBGGL693MqvStl0KIQ1V.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6w2CPJBYqeZnRkn5zJCdpjEtWYp.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    16,
+    9,
+    6
+  ],
+  "tmdb_id": 321487,
+  "mal_id": 28881,
+  "anilist_id": 0,
+  "imdb_id": "tt4971484",
+  "season_count": 0,
+  "videos": [
+    {
+      "id": 616941,
+      "player": "TAU",
+      "url": "https://tau-video.xyz/embed/6595a31cb304d628d5f54e7b",
+      "extra": "Hachiroku / Tcrafter98 / www.izanamifansub.com",
+      "fansub": "Hachiroku",
+      "fansub_id": 2147,
+      "quality": "regular",
+      "language": "tr"
+    },
+    {
+      "id": 581345,
+      "player": "YOUTUBE",
+      "url": "https://youtube.com/embed/9py2OnojPz4",
+      "extra": null,
+      "fansub": null,
+      "fansub_id": null,
+      "quality": null,
+      "language": "en"
+    }
+  ]
+}

@@ -1,0 +1,755 @@
+{
+  "id": 9803,
+  "name": "Arcane",
+  "name_english": "La storia della Arcana Famiglia",
+  "name_romanji": "Arcana Famiglia",
+  "original_title": "Arcane",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2021,
+  "release_date": "Sat",
+  "description": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+  "poster": "https://image.tmdb.org/t/p/original/abf8tHznhSvl9BAElD2cQeRr7do.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sYXLeu5usz6yEz0k00FYvtEdodD.jpg",
+  "rating": 8.8,
+  "vote_count": 4500,
+  "genres": [
+    3,
+    2,
+    1,
+    8
+  ],
+  "tmdb_id": 94605,
+  "mal_id": 12967,
+  "anilist_id": 0,
+  "imdb_id": "tt11126994",
+  "season_count": 2,
+  "seasons": [
+    {
+      "id": 3388,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 9,
+      "episodes": [
+        {
+          "id": 168008,
+          "episode_number": 1,
+          "name": "Oyun Alanına Hoş Geldiniz",
+          "description": "Yetim kalan kız kardeşler Vi ve Powder, lüks Piltover'daki bir soygunun ardından Zaun'un yer altı sokaklarını belaya sokar.",
+          "release_date": "2021-11-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/g7dMkFJvJECDYoL0TRzGQCfF3xD.jpg",
+          "videos": [
+            {
+              "id": 385682,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6330222cdd931ae1fbad6fee",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 196505,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4496327",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196504,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/adGD4DkWjyfbq3",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196500,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-2zv6vjtfcf0j.html",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196503,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/meredo29m7yg.html",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 168009,
+          "episode_number": 2,
+          "name": "Bazı Gizemlerin Çözülmemesi Daha İyidir",
+          "description": "İdealist mucit Jayce, akıl hocasının uyarılarına rağmen bilim yoluyla sihirden yararlanmaya çalışır. Suçlu baron Silco güçlü bir maddeyi test eder.",
+          "release_date": "2021-11-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/49HmMAu69lbBFhApVE7JaULEbwE.jpg",
+          "videos": [
+            {
+              "id": 385664,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63302079dd931ae1fbad6fed",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 196528,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4496341",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196527,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/2DkxdawyG8cZ3dv",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196523,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-46ypkdwaugvt.html",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196526,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/q20d8q1qwrrb.html",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 168010,
+          "episode_number": 3,
+          "name": "Değişim İçin Gerekli Temel Şiddet",
+          "description": "Eski rakipler arasındaki destansı hesaplaşma, Zaun için kader anıyla sonuçlanır. Jayce ve Viktor, araştırmaları için her şeyi riske atar.",
+          "release_date": "2021-11-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/rWgfZJ9F0bUxvSW6Ak2KfboXUih.jpg",
+          "videos": [
+            {
+              "id": 385662,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63301f8cdd931ae1fbad6fec",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 196543,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4496349",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196542,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/p1kMZK1JMXCrK49",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196538,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-heyhgbvmrsy9.html",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196541,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/1beff5wf93tr.html",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 168011,
+          "episode_number": 4,
+          "name": "Mutlu İlerleme Günü!",
+          "description": "Piltover teknoloji sayesinde başarılı olurken, Jayce ve Viktor bir sonraki adımlarını tartarlar. Zaun'dan tanıdık bir yüz ortalığı kasıp kavurmak için yeniden ortaya çıkar.",
+          "release_date": "2021-11-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7CYgTZUqI80HeJgN686sYW3f9y2.jpg",
+          "videos": [
+            {
+              "id": 385661,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63301e58dd931ae1fbad6feb",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 196570,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4496352",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196569,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/eG4lGBdgbRFY3ow",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196565,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-12d998qn439b.html",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196568,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/5ahzczng0pym.html",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 168012,
+          "episode_number": 5,
+          "name": "Herkes Düşmanım Olmak İstiyor",
+          "description": "Haydut infazcı Caitlyn, Silco'nun izini sürmek için yeraltı şehrini dolaşır. Jayce, Piltover yolsuzluğunun kökünü kazımak için sırtına bir hedef koyar.",
+          "release_date": "2021-11-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/72Ti7nTKEAPgx4VSggb1ksl31rm.jpg",
+          "videos": [
+            {
+              "id": 385562,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632ff6a7dd931ae1fbad6fba",
+              "extra": "Netrip - Prenses",
+              "fansub": "Netrip",
+              "fansub_id": 418,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 196977,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "Netrip - Prenses",
+              "fansub": "Netrip",
+              "fansub_id": 418,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196973,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-27i85ci9vby4.html",
+              "extra": "Netrip - Prenses",
+              "fansub": "Netrip",
+              "fansub_id": 418,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196976,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/nd68nmajnddy.html",
+              "extra": "Netrip - Prenses",
+              "fansub": "Netrip",
+              "fansub_id": 418,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 168013,
+          "episode_number": 6,
+          "name": "Bu Duvarlar Yıkıldığında",
+          "description": "Hevesli bir çömez, büyülü bir teknoloji hızla gelişirken konseydeki akıl hocasının altını oyar. Yetkililer peşindeyken, Jinx geçmişiyle yüzleşmek zorundadır.",
+          "release_date": "2021-11-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9imUyzKnw5oPE75HTLoXXODOR9O.jpg",
+          "videos": [
+            {
+              "id": 385659,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63301d55dd931ae1fbad6fea",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 196611,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4497360",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196610,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/8Oqm0zevORcovbR",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196606,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-aaxdbq2s6inr.html",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196609,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/js8823pwsx2g.html",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 168014,
+          "episode_number": 7,
+          "name": "Kurtarıcı Çocuk",
+          "description": "Caitlyn ve Vi, Zaun sokaklarında bir müttefikle tanışır ve ortak bir düşmanla çılgın bir savaşa girer. Viktor korkunç bir karar verir.",
+          "release_date": "2021-11-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/3HVZjh2IL3f9UPLp9AmjGd06aUW.jpg",
+          "videos": [
+            {
+              "id": 372851,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631cf3a2aaa5e211ba384155",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 199110,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 199106,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-6jw451s1rasn.html",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 199109,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/93mrtx3g95p3.html",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 168015,
+          "episode_number": 8,
+          "name": "Yağ ve Su",
+          "description": "Reddedilen varis Mel ve ziyarete gelen annesi savaş taktiklerini değiştirir. Caitlyn ve Vi beklenmedik bir ittifak kurar. Jinx şaşırtıcı bir değişim geçirir.",
+          "release_date": "2021-11-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vYIBscxveNMkxFNTcPZ6YoF6fdU.jpg",
+          "videos": [
+            {
+              "id": 372869,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631cf5f5aaa5e211ba384156",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 199128,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 199124,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-ztjzp0ibav6e.html",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 199127,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/6zvshzwmyhdf.html",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 168016,
+          "episode_number": 9,
+          "name": "Yarattığın Canavar",
+          "description": "Savaşın eşiğine gelen Piltover ve Zaun'un liderleri bir ültimatom verir. Ancak önemli bir açmaz, her iki şehri de sonsuza dek değiştirir.",
+          "release_date": "2021-11-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dbnGqpGWUjLcTVQxr5k1V3no8BB.jpg",
+          "videos": [
+            {
+              "id": 372874,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631cf86caaa5e211ba384157",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 199142,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 199138,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-kirg5vpn0606.html",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 199141,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/4f8n8holmldd.html",
+              "extra": "Net-Rip",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5539,
+      "season_number": 2,
+      "name": null,
+      "episode_count": 9,
+      "episodes": [
+        {
+          "id": 220078,
+          "episode_number": 1,
+          "name": "Taç Ağır mı",
+          "description": "Vi ve Caitlyn, canlara mal olan ve ikiz şehirler arasındaki gerilimi tırmandıran korkunç bir trajedinin ardından en iyi nasıl tepki verecekleri konusunda boğuşur.",
+          "release_date": "2024-11-09T16:50:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/AKzTyLJkQEuftVNIuh0gcJCbDl.jpg",
+          "videos": [
+            {
+              "id": 696291,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6751f3c55f790413917b85c2",
+              "extra": "netrip",
+              "fansub": "netrip",
+              "fansub_id": 418,
+              "quality": "1080p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 220079,
+          "episode_number": 2,
+          "name": "Her Şeyin Yanmasını İzle",
+          "description": "Piltover savaşa hazırken Yeraltı Şehri seçeneklerini değerlendiriyor. Jinx geride duruyor ve bir sonraki hamlesini planlıyor. Önemli bir görüşme yaşanıyor.",
+          "release_date": "2024-11-09T16:50:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/z2MSNefctJYAYGdPJQUcxRcZWTh.jpg",
+          "videos": [
+            {
+              "id": 696294,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6751f4975f790413917b85c3",
+              "extra": "netrip",
+              "fansub": "netrip",
+              "fansub_id": 418,
+              "quality": "1080p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 220080,
+          "episode_number": 3,
+          "name": "Sonunda İsmi Doğru Buldum",
+          "description": "Caitlyn, Jinx'i bulmak için çabalıyor. Ambessa önemli bir buluşmayı kabul eder. Zaun'daki değişiklikler şok edici bir keşfe yol açar.",
+          "release_date": "2024-11-09T16:50:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/yXD0EtrlnupXne4R9XHFPkGMxJr.jpg",
+          "videos": [
+            {
+              "id": 696297,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6751f7b75f790413917b85c4",
+              "extra": "netrip",
+              "fansub": "netrip",
+              "fansub_id": 418,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 220081,
+          "episode_number": 4,
+          "name": "Kasabayı Maviye Boya",
+          "description": "Jinx'in geri döneceğine dair söylentiler dolaşırken Ambessa, yenilenmiş bir coşkuyla hedefinin peşine düşer. Jinx ve Sevika kılık değiştirerek canavarın karnına girer.",
+          "release_date": "2024-11-16T16:50:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ktXtr0O2WF10Z2r89Xjds4owCXX.jpg",
+          "videos": [
+            {
+              "id": 696342,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6752020e5f790413917b85d3",
+              "extra": "netrip",
+              "fansub": "netrip",
+              "fansub_id": 418,
+              "quality": "1080p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 220082,
+          "episode_number": 5,
+          "name": "Kabarcıklar ve Ana Kaya",
+          "description": "Vi şaşırtıcı bir haberle uyanır. Rahatsız edici bir buluşma göründüğü gibi değil. Caitlyn, Shimmer'ın kökenlerini ortaya çıkarır.",
+          "release_date": "2024-11-16T16:50:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/3mhMhwHlZQQiB2otufCLZteRPMZ.jpg",
+          "videos": [
+            {
+              "id": 696345,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/675202e65f790413917b85d4",
+              "extra": "netrip",
+              "fansub": "netrip",
+              "fansub_id": 418,
+              "quality": "1080p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 220083,
+          "episode_number": 6,
+          "name": "Desenin İçinde Gizli Mesaj",
+          "description": "İyileşme tanıdık bir yüzden, tanıdık olmayan bir yerden gelir. Çarpıcı bir ihanet sayısız hayatı değiştirmekle tehdit ediyor.",
+          "release_date": "2024-11-16T13:50:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/A6A6HWu0TjMRcNW31glNuZvVfxp.jpg",
+          "videos": [
+            {
+              "id": 696348,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/675203d05f790413917b85d5",
+              "extra": "netrip",
+              "fansub": "netrip",
+              "fansub_id": 418,
+              "quality": "1080p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 220084,
+          "episode_number": 7,
+          "name": "İlk Kezmiş Gibi Davran",
+          "description": "Bir anlık karanlık, bir anlık ışık ve Ne Olabilirdi'ye dair bir vizyon.",
+          "release_date": "2024-11-23T16:50:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sgKSyfB7uor4hSzSsWMEUnMC5SA.jpg",
+          "videos": [
+            {
+              "id": 697182,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6757c2d75f790413917b85ed",
+              "extra": "netrip",
+              "fansub": "netrip",
+              "fansub_id": 418,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 697053,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/17vwHb0mcEEkMHF4-pAucO9xvnWM0Bt4g/preview",
+              "extra": "netrip",
+              "fansub": "netrip",
+              "fansub_id": 418,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 220085,
+          "episode_number": 8,
+          "name": "Öldürmek Bir Döngüdür",
+          "description": "Yaklaşan bir fırtına, bir dizi şaşırtıcı dönüşümü tetikler. Başka yerlerde isyan kıvılcımı hala yanıyor.",
+          "release_date": "2024-11-23T13:50:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vqoFpOXDGEEsgkD10QhopOQYoN3.jpg",
+          "videos": [
+            {
+              "id": 697185,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6757cb6e5f790413917b85ee",
+              "extra": "netrip",
+              "fansub": "netrip",
+              "fansub_id": 418,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 697054,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/17x0kbf8wIVNfKsjergEzbiFUSYLkJjjr/preview",
+              "extra": "netrip",
+              "fansub": "netrip",
+              "fansub_id": 418,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 220086,
+          "episode_number": 9,
+          "name": "Tırnaklarınızın Altındaki Kir",
+          "description": "Büyü. Bilim. Güç. İntikam. Destansı bir son bölümde kaderler çatışıyor ve topyekün bir savaşın fitilini ateşliyor.",
+          "release_date": "2024-11-23T16:50:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7wYoQZAdbB6e3CFDDYvxQY1sM7.jpg",
+          "videos": [
+            {
+              "id": 697188,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6757d3ad5f790413917b85ef",
+              "extra": "netrip",
+              "fansub": "netrip",
+              "fansub_id": 418,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 697055,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/182_oaHbOwTHWDDhWQWf7PjwxxhpwLckp/preview",
+              "extra": "netrip",
+              "fansub": "netrip",
+              "fansub_id": 418,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "id": 12758,
+  "name": "Shabake",
+  "name_english": "Shabake",
+  "name_romanji": "Shabake",
+  "original_title": "しゃばけ",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2025,
+  "release_date": "Fri Oct 03 2025 00:00:00 GMT+0000 (Coordinated Universal Time)",
+  "description": "Nagazakiya'nın zayıf ama keskin fikirli efendisi Ichitaro, malikanesinden nadiren ayrılır; ancak yalnız değildir. Ruhları görme yeteneğiyle donatılmış olan bu adam, Hakutaku ve Inugami gibi hayalet yoldaşlar tarafından korunuyor. Bir gece gizlice dışarı çıkar ve vahşi bir cinayete tanık olur. Kısa süre sonra Edo bir dizi ürkütücü cinayetle boğuşuyor. Korku şehri etkisi altına alırken Ichitaro ve ruhları suçluyu ortaya çıkarmak zorundadır.",
+  "poster": "https://image.tmdb.org/t/p/original/gO3AZANXhcSlU2DjCwzyuSbqs9R.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7wFgFAZ7czJwg2KgGDs5MgJNcMG.jpg",
+  "rating": 6.6,
+  "vote_count": 9,
+  "genres": [
+    3,
+    8,
+    2
+  ],
+  "tmdb_id": 278059,
+  "mal_id": 60378,
+  "anilist_id": null,
+  "imdb_id": "tt37431548",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 5970,
+      "season_number": 1,
+      "name": null,
+      "episode_count": 13,
+      "episodes": [
+        {
+          "id": 254289,
+          "episode_number": 1,
+          "name": "Karanlık Gece",
+          "description": "Başarılı bir işletmenin hastalıklı varisi, doğaüstü bakıcılarının dikkatli gözlerinin altından gizlice kaçar.",
+          "release_date": "2025-10-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/uFTPJaCk2jEXuH0LMg8IMSVQPgx.jpg",
+          "videos": [
+            {
+              "id": 731415,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68e01abc8040a7fcf4e8329b",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731416,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/3zsr0vioofiu",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731417,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-lu56b6u1w200.html",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 256112,
+          "episode_number": 2,
+          "name": null,
+          "description": "Bir soyguncudan kaçan Ichitaro, tüyler ürpertici bir cinayet mahalline rastlar.",
+          "release_date": "2025-10-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zrsxR56CNyNXjGlE7gH1iE3gqn8.jpg",
+          "videos": [
+            {
+              "id": 732031,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68e989168040a7fcf4e832ca",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 732032,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/aamu8b6yaxqf",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 732033,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-c0bdg4oeff74.html",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 256113,
+          "episode_number": 3,
+          "name": "haberci",
+          "description": "Ichitaro'nun babası ondan Nagazaki'den gelen alışılmadık bir teslimatı denetlemesini ister.",
+          "release_date": "2025-10-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jP6FWK5F5WtfnbJaVmFPxCIW5yp.jpg",
+          "videos": [
+            {
+              "id": 732663,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68f2e8045e29f4e26879b449",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 732664,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-gd8615sp412m.html",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 256114,
+          "episode_number": 4,
+          "name": "Uyumluluk",
+          "description": "Kırılgan Ichitaro, hayalet arkadaşlarıyla birlikte Edo'nun peşini bırakmayan bir dizi cinayeti çözmek zorundadır.",
+          "release_date": "2025-10-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/eBgOZCMQkej8MR3njQnKLJjZN2Y.jpg",
+          "videos": [
+            {
+              "id": 733274,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68fcd4e40650926e34e4c873",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 733275,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/51fmcsj9kl0b",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 733276,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-jprxs8tfzajl.html",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 256115,
+          "episode_number": 5,
+          "name": "Bu Acılar Dünyası",
+          "description": "Garip bir müşteri alışılmadık bir ilaç talep ediyor. Ichitaro ona mumyayı gösterir ve şaşırtıcı bir yanıt alır.",
+          "release_date": "2025-10-31T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/nI9L4rBQu60TmFvYL7Jq70SWdA0.jpg",
+          "videos": [
+            {
+              "id": 733871,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/690530ed061aba4892113169",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 733872,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/g2bsoowocq9j",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 733873,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-4338i8zqusc7.html",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 256116,
+          "episode_number": 6,
+          "name": "Tek Taraflı Duygular",
+          "description": "Nikichi, ölümün onu insan sevgilisinden uzak tutmasına izin vermeyen bir ruha karşı olan hislerini anlatır.",
+          "release_date": "2025-11-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zaCHfPCuWSs9btKAVrPupHDIm4H.jpg",
+          "videos": [
+            {
+              "id": 734602,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6910a766f2904a96d86ae9d3",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734603,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/bzvc6s2365ob",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734604,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-lwb5ryho694c.html",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 256117,
+          "episode_number": 7,
+          "name": null,
+          "description": "Ichitaro kayıptır ve bir eczacı öldürülmüş olarak bulunmuştur. Nikichi ve Sasuke çılgına dönüyor.",
+          "release_date": "2025-11-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pZ8zjFSL9YA4MqxqIZ6IKtRm2pA.jpg",
+          "videos": [
+            {
+              "id": 735283,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6918a056c92cb3066373396c",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 735284,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/078e6dl8cd2x",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 735285,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-qk6y2p531r59.html",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 256118,
+          "episode_number": 8,
+          "name": "Fırsat",
+          "description": "Öldürülen kediler Azumaya'da ortaya çıkmaya devam ediyor ve Matsunosuke kendisini şüphe altında buluyor.",
+          "release_date": "2025-11-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fj8BgeqTJpbb4WeUg9yjdoUEVQk.jpg",
+          "videos": [
+            {
+              "id": 735718,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6920eae4075ec504677be0eb",
+              "extra": "Çevirmen:yuuichi / Encoder:yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 735719,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/0uh2ygzmzorh",
+              "extra": "Çevirmen:yuuichi / Encoder:yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 735720,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-8mwcmqxf93kv.html",
+              "extra": "Çevirmen:yuuichi / Encoder:yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 256119,
+          "episode_number": 9,
+          "name": "tanıdık",
+          "description": "Bir gazetedeki çizim, Ichitaro'ya insanların neden ilaç satıcılarının peşine düştüğüne dair bir fikir verir.",
+          "release_date": "2025-11-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/w5HQtmfwjioI4CToP6NYwIgMuTw.jpg",
+          "videos": [
+            {
+              "id": 736106,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/692b19f788da54aeabcb3fb3",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 736107,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/n16b3574d9y4",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 736108,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-9xjt3palofxr.html",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 256120,
+          "episode_number": 10,
+          "name": "Gerçek ve Kurgu",
+          "description": "Eikichi, Ichitaro'nun bir görevi sırasında saldırıya uğrar ve Ichitaro, davayla ilgili görüşünü yeniden gözden geçirmek zorunda kalır.",
+          "release_date": "2025-12-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/eicOO3TK5Dq0UrynHNnC8nAOrtl.jpg",
+          "videos": [
+            {
+              "id": 736608,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/693333eb993dddfb572df1fa",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 736609,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/c5jw3bew3lu2",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 736610,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-pcudllqtmr1k.html",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 256121,
+          "episode_number": 11,
+          "name": "Nerede",
+          "description": "Ichitaro kendi geçmişi hakkında daha fazla şey öğrenir ve haydut ruhla baş etmeye koyulur.",
+          "release_date": "2025-12-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2Oy34LtgmVicFTEWWh59QkszkFm.jpg",
+          "videos": [
+            {
+              "id": 737567,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/693c71785514804c0a413536",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 737568,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/zlzq8yds7qrq",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 737569,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-eo5l4n6jy14w.html",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 256122,
+          "episode_number": 12,
+          "name": "Hasret",
+          "description": "Azumaya'da çıkan yangın, Ichitaro ve Matsunosuke'yi tehlikeli bir karşılaşmanın içine çeker.",
+          "release_date": "2025-12-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/gtBBeM1AROzEmalwj1fEIlYUUZW.jpg",
+          "videos": [
+            {
+              "id": 738527,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69473fda4563f2d4f5906d45",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 738528,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/sqpiqypwbjw7",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 738529,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ev7gsfab315l.html",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 256123,
+          "episode_number": 13,
+          "name": "Sonsuza Kadar Mutlulukla",
+          "description": "Doğaüstü suç çılgınlığının sona ermesiyle Ichitaro çok önemli bir karar verir.",
+          "release_date": "2025-12-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xnM6jjsn6WbKkw1Dhwtz6x6ENAO.jpg",
+          "videos": [
+            {
+              "id": 738739,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/694f0b52eb1a5915e492ab96",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 738740,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/jf66d6t9n68d",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 738741,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-zlvzqln7tvjo.html",
+              "extra": "yuuichi",
+              "fansub": "yuuichi",
+              "fansub_id": 300,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

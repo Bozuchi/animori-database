@@ -1,0 +1,726 @@
+{
+  "id": 11151,
+  "name": "The Girl Downstairs",
+  "name_english": "The Girl Downstairs",
+  "name_romanji": null,
+  "original_title": "爱上她的理由",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2023,
+  "release_date": "Thu Apr 20 2023 00:00:00 GMT+0000 (Coordinated Universal Time)",
+  "description": "Birinci sınıf öğrencisi Yuan Juntang, aşık olduğu Zhu Zhu'ya yakınlaşmak için Minsong Üniversitesi'ne başvurdu. Üniversitede, eskiden idolü olan ve okula geçici olarak ara veren Li Shiya ile tanışır. Li Shiya, Yuan Juntang'a yaklaşmak için inisiyatif alır ve onlar arkadaş olurlar ve Zhu Zhu ile üçlü bir arkadaş oluştururlar. Zhu Zhu, Yuan Juntang'ın ona olan sevgisinin açıkça farkındadır, ancak onu kabul edecek cesareti yoktur ve yakınlaşmaktan kaçınmaya çalışır ve onunla yalnızca belirli bir mesafeyi korur. Aynı zamanda Yuan Juntang ve Li Shiya arkadaş olmanın ötesinde yakınlaşıyorlar.",
+  "poster": "https://image.tmdb.org/t/p/original/7urz5tn4INZtbtnwNMxyTiFF2cB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9kvoD2eJiXxPcK4UfLKFKH4pieA.jpg",
+  "rating": 6.7,
+  "vote_count": 28,
+  "genres": [
+    3,
+    5,
+    4
+  ],
+  "tmdb_id": 223515,
+  "mal_id": 54846,
+  "anilist_id": null,
+  "imdb_id": "tt28216375",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 4743,
+      "season_number": 1,
+      "name": null,
+      "episode_count": 23,
+      "episodes": [
+        {
+          "id": 202078,
+          "episode_number": 1,
+          "name": "İlk Karşılaşma",
+          "description": null,
+          "release_date": "2023-04-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/yo5KaeXbSnvIhSUyehbAG7euA4y.jpg",
+          "videos": [
+            {
+              "id": 595271,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6525c4c0de079f02484825ed",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 595277,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5275743",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 202079,
+          "episode_number": 2,
+          "name": "Bayan Kafadan Vuruş",
+          "description": null,
+          "release_date": "2023-04-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zUwJAoyCtY6uQwvo1x8eLm9NlOm.jpg",
+          "videos": [
+            {
+              "id": 595278,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6525c5b5de079f02484825ee",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 595284,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5275747",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 202080,
+          "episode_number": 3,
+          "name": "Daha Fazlasını Bilmek İstiyor",
+          "description": null,
+          "release_date": "2023-04-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xwf60vH7BHmfCaz4YKM2zoJSfV0.jpg",
+          "videos": [
+            {
+              "id": 583653,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64e1bfadef208a96b0e04377",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 583654,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5230865",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 202081,
+          "episode_number": 4,
+          "name": "Kiraz Çiçekleri Altında Aşk",
+          "description": null,
+          "release_date": "2023-04-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/QXmAxiwwm9c8WNE975oP3lg1rR.jpg",
+          "videos": [
+            {
+              "id": 583655,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64e1c405a25cd90634a729f6",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 583656,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5230879",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 202082,
+          "episode_number": 5,
+          "name": "Bir Kadeh Şarap Yap",
+          "description": null,
+          "release_date": "2023-05-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zttnuw3tFg2Te86N6yUKSNpMhBT.jpg",
+          "videos": [
+            {
+              "id": 583651,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64e1be77ef208a96b0e04376",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 583652,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5230863",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 202083,
+          "episode_number": 6,
+          "name": "İlk Öpücük",
+          "description": null,
+          "release_date": "2023-05-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dH6GxzmkMKGF6ltOTO86MsZAQw7.jpg",
+          "videos": [
+            {
+              "id": 583657,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64e1c63ea25cd90634a729f7",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 583658,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5230894",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 202084,
+          "episode_number": 7,
+          "name": "Uzlaştır",
+          "description": null,
+          "release_date": "2023-05-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ipWXjkH1nq9RRseFbI4GmEjOebx.jpg",
+          "videos": [
+            {
+              "id": 583659,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64e1ca22a25cd90634a729f8",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 583660,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5230917",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 202085,
+          "episode_number": 8,
+          "name": "Değişmeyen Kalp",
+          "description": null,
+          "release_date": "2023-05-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dDz53QyRKOvtaemL10OuTbyAvg4.jpg",
+          "videos": [
+            {
+              "id": 583661,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64e1cd26a25cd90634a729f9",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 583662,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5230930",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 202086,
+          "episode_number": 9,
+          "name": "İtiraf",
+          "description": null,
+          "release_date": "2023-05-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jr8NormOiVrCGNSmIw6Ng3iyJvH.jpg",
+          "videos": [
+            {
+              "id": 583663,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64e1d089ef208a96b0e04378",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 583664,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5230946",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 202087,
+          "episode_number": 10,
+          "name": "Çeşitlilik",
+          "description": null,
+          "release_date": "2023-05-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/srtVxn2xV0iYJfL6VVGatqFhng8.jpg",
+          "videos": [
+            {
+              "id": 583665,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64e1d1d9a25cd90634a729fa",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 583666,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5230949",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 202088,
+          "episode_number": 11,
+          "name": "Flört",
+          "description": null,
+          "release_date": "2023-05-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/u9lUf4oPYZIG5dTpaK3fyyDgRAX.jpg",
+          "videos": [
+            {
+              "id": 583667,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64e1d458a25cd90634a729fb",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 583668,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5230950",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 202089,
+          "episode_number": 12,
+          "name": "O Sahnede",
+          "description": null,
+          "release_date": "2023-05-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/rmyUH3EHs2GLlIyl5AENJA9fe1y.jpg",
+          "videos": [
+            {
+              "id": 583669,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64e1d61aef208a96b0e04379",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 583670,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5230951",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 202090,
+          "episode_number": 13,
+          "name": "Hoşlandığım Kişi",
+          "description": null,
+          "release_date": "2023-06-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wC0wobfa8jlicihryl4yj834oY9.jpg",
+          "videos": [
+            {
+              "id": 583671,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64e1d82fa25cd90634a729fc",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 583672,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5230954",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 202091,
+          "episode_number": 14,
+          "name": "Yıkılmak",
+          "description": null,
+          "release_date": "2023-06-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sMLt9kt50a7FcekcHPqoRevoViH.jpg",
+          "videos": [
+            {
+              "id": 605744,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/655a63efda9c8055855488a1",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 605749,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5328941",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 202092,
+          "episode_number": 15,
+          "name": "Kaçmak",
+          "description": null,
+          "release_date": "2023-06-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/3JUhVlOPBvtySHlNGe1CB9fBF40.jpg",
+          "videos": [
+            {
+              "id": 605751,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/655a6536da9c8055855488a2",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 605756,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5328949",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 202093,
+          "episode_number": 16,
+          "name": "Yeni Bir Başlangıç",
+          "description": null,
+          "release_date": "2023-06-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8fgnBirCnOKYUpzmxMxQq0l9CB.jpg",
+          "videos": [
+            {
+              "id": 602810,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6546a594da9c80558554878e",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 602816,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5308546",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 202094,
+          "episode_number": 17,
+          "name": "Ruoni",
+          "description": null,
+          "release_date": "2023-06-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7RYSDi9ugouAvkjJPot1TLIwJAI.jpg",
+          "videos": [
+            {
+              "id": 602817,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6546a63930e908b3e8e71ea3",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 602823,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5308550",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 202095,
+          "episode_number": 18,
+          "name": "Düşmek",
+          "description": null,
+          "release_date": "2023-06-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jmu6cqpRYjx55UtjcaI3HpkQKiw.jpg",
+          "videos": [
+            {
+              "id": 602824,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6546a6f8da9c80558554878f",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 602830,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5308552",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 202096,
+          "episode_number": 19,
+          "name": "Li Shiya",
+          "description": null,
+          "release_date": "2023-06-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/16TZAQ8xa9xYo0l9yLposN9aNM5.jpg",
+          "videos": [
+            {
+              "id": 602832,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6546a7b6da9c805585548790",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 602838,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5308555",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 202097,
+          "episode_number": 20,
+          "name": "Gençliğin Sonu",
+          "description": null,
+          "release_date": "2023-06-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/3F4cBqkaVSXv3B3aNS5kzPRm1ja.jpg",
+          "videos": [
+            {
+              "id": 602839,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6546a89a30e908b3e8e71ea4",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 602845,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5308561",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 202098,
+          "episode_number": 21,
+          "name": null,
+          "description": null,
+          "release_date": "2023-06-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kkWglJ5r24caEDkKmQPz09wDao0.jpg",
+          "videos": [
+            {
+              "id": 602846,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6546a94730e908b3e8e71ea5",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 602852,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5308566",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 202099,
+          "episode_number": 22,
+          "name": "Ona Aşık Olmanın Nedeni",
+          "description": null,
+          "release_date": "2023-06-28T21:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lZzKoN0U0fTzzYmY6qlRvXqtEam.jpg",
+          "videos": [
+            {
+              "id": 605757,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/655a667830e908b3e8e71f9f",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 605762,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5328958",
+              "extra": "Alucard",
+              "fansub": "Alucard",
+              "fansub_id": 465,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 209019,
+          "episode_number": 23,
+          "name": "Bölüm 23",
+          "description": null,
+          "release_date": "2024-02-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/hDuIyHoWZAZfDJ5pb7oWQL7FgtK.jpg",
+          "videos": [
+            {
+              "id": 722907,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/686d640f8030e8a0276edec8",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 722908,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/a4j73l5uz4np",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

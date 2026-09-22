@@ -1,0 +1,775 @@
+{
+  "id": 10044,
+  "name": "Seto no Hanayome",
+  "name_english": "Blades Of The Guardians",
+  "name_romanji": "Seto no Hanayome OVA",
+  "original_title": "镖人",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2023,
+  "release_date": "2023-06-01",
+  "description": "Batı bölgelerindeki çölde sıra dışı bir muhafız yürümektedir. Hükümet tarafından öldürülmekten kaçarken, başkent Chang 'an'a giden bir koruma görevi alır. Bu görev basit bir görev olarak düşünülse de aslında kriz ve tehlikelerle dolu bir yoldur. Dünyanın kaderini etkileyecek bir yolculuk başlar......",
+  "poster": "https://image.tmdb.org/t/p/original/ck4VbauqthkMldF661byC693ify.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vzsR4DNujOHGC5RCjA7OYP5D1Tu.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    1
+  ],
+  "tmdb_id": 107463,
+  "mal_id": 4163,
+  "anilist_id": 0,
+  "imdb_id": "tt28259824",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 3811,
+      "season_number": 1,
+      "name": null,
+      "episode_count": 15,
+      "episodes": [
+        {
+          "id": 175219,
+          "episode_number": 1,
+          "name": "Çin Seddi Dışındaki Eskortlar",
+          "description": "Dao Ma, Mo's'a giderken İki Başlı Yılan adlı bir suçlu için bir ödül bulur. Mo, Dao Ma'yı görevin tehlikesi konusunda uyarsa da Dao Ma'nın 6000 parayı reddetme lüksü yoktur.",
+          "release_date": "2023-06-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/eBEotFspgj3fCspCs2tYs2PHHmm.jpg",
+          "videos": [
+            {
+              "id": 746716,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69ad87b05d4202aa1736c058",
+              "extra": "Asya Animeleri",
+              "fansub": "Asya Animeleri",
+              "fansub_id": 77,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747237,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69b5ecfacb8083ded340b931",
+              "extra": "ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 746717,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/vffllomjj524",
+              "extra": "Asya Animeleri",
+              "fansub": "Asya Animeleri",
+              "fansub_id": 77,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 746718,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ay7yqll5vd7e.html",
+              "extra": "Asya Animeleri",
+              "fansub": "Asya Animeleri",
+              "fansub_id": 77,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747238,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/1fkzt84o44hq",
+              "extra": "ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747239,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-2d0xusdgka7i.html",
+              "extra": "ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199253,
+          "episode_number": 2,
+          "name": "İki Başlı Yılan",
+          "description": "Çift Başlı Yılanı arayan Dao Ma, Chisha adlı bir kasabaya ulaşır. Kasaba, Hükümet Yetkilisi Chang Guiren tarafından dikte ediliyor. Dao Ma'ya sözde isyanları uzak tutmak için kendi taburunda çalışmasını önerir.",
+          "release_date": "2023-06-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zxCOJ2BqFktgWeeTRbj80FBEkdK.jpg",
+          "videos": [
+            {
+              "id": 715895,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/680538df560e2c5569b02b2a",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747240,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69b5ed9eb067130deed1bfef",
+              "extra": "ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715896,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/d0x2valmyekc",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747241,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/rh3zjeg15eg0",
+              "extra": "ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747242,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-8hz5z7t4tzaj.html",
+              "extra": "ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199254,
+          "episode_number": 3,
+          "name": "Çalkantılı",
+          "description": "Chisha'nın hükümet yetkilisini öldürdükten sonra Dao Ma'nın başına artık 50.000 altın ödül konuldu. Mo'ya döndüğünde yardımını bekleyen, Chang'an'ı ziyaret etmek isteyen Zhi Shilang adında gizemli bir adam bulur.",
+          "release_date": "2023-06-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/l5GFaiWa5JqU9xLVmrOGeWeo6Fq.jpg",
+          "videos": [
+            {
+              "id": 715898,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68053985560e2c5569b02b2b",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747243,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69b5ee40b067130deed1bff0",
+              "extra": "ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715899,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/0pg7fljeuf4e",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747244,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/9myqi81znl17",
+              "extra": "ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747245,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-5ydxplprlpvg.html",
+              "extra": "ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199255,
+          "episode_number": 4,
+          "name": "Yeşim Yüz ve Güzellik",
+          "description": "Chang'an'a giderken Dao ve grup, Rakshasan'a tapanlarla savaşan bir kılıç ustasının (Shu) farkına varır. Dao Ma, arabası karşılığında adama yardım etmeyi teklif eder. Ama adam hiç de arkadaş canlısı gibi görünmüyor.",
+          "release_date": "2023-06-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/j52YhNWJNo72s4tKXyRbTeWMorF.jpg",
+          "videos": [
+            {
+              "id": 715901,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68053a0d560e2c5569b02b2c",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747246,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69b5eedc76acb7a32c35376d",
+              "extra": "ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715902,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/o6mzs5zt45xg",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747247,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ww19e4ctzfg7",
+              "extra": "ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747248,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ne7i806fut1q.html",
+              "extra": "ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199256,
+          "episode_number": 5,
+          "name": "Ticaret",
+          "description": "Düşman tarafından köşeye sıkıştırılan Shu, Dao Ma'nın yardımını kabul etmek zorunda kaldı. Görünüşe göre Shu'nun varış noktası aynı zamanda bir kaçağı efendisine teslim edeceği Chang'an'dır.",
+          "release_date": "2023-06-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/mhFzWaMvfRaa4aSuZ9ogTEtXr96.jpg",
+          "videos": [
+            {
+              "id": 746719,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69ad8856140a125ba8371610",
+              "extra": "Asya Animeleri",
+              "fansub": "Asya Animeleri",
+              "fansub_id": 77,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747249,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69b5ef7698be3e47efffd7af",
+              "extra": "ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 746720,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/xipi8zi1dg7e",
+              "extra": "Asya Animeleri",
+              "fansub": "Asya Animeleri",
+              "fansub_id": 77,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 746721,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-osppm0pvxu8r.html",
+              "extra": "Asya Animeleri",
+              "fansub": "Asya Animeleri",
+              "fansub_id": 77,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747250,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/du3n4owaaoel",
+              "extra": "ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747251,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-r31an9mke49n.html",
+              "extra": "ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199257,
+          "episode_number": 6,
+          "name": "Satranç ve Oyun",
+          "description": "Beş büyük ailenin reisleri imparatorluk emriyle Pei Suji tarafından çağrılır. Lao Ma, imparatorun sekreterinin teklifine karşı çıkıyor ve bunun bedelini ağır bir şekilde ödemek zorunda kalıyor.",
+          "release_date": "2023-06-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/d1JpcEV2dZqV535GnXevr8boJbs.jpg",
+          "videos": [
+            {
+              "id": 746722,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69ad88f2cb8083ded340b915",
+              "extra": "Asya Animeleri",
+              "fansub": "Asya Animeleri",
+              "fansub_id": 77,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747252,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69b5f00d98be3e47efffd7b0",
+              "extra": "ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 746723,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/de1vo1aez4wm",
+              "extra": "Asya Animeleri",
+              "fansub": "Asya Animeleri",
+              "fansub_id": 77,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 746724,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-cl8q013amt98.html",
+              "extra": "Asya Animeleri",
+              "fansub": "Asya Animeleri",
+              "fansub_id": 77,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747253,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/qtpdf6ddp8e0",
+              "extra": "ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747254,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-grkr7v09stet.html",
+              "extra": "ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199258,
+          "episode_number": 7,
+          "name": "Kurt Çocukları",
+          "description": "Lao Mo ölür ve Yuji, onu gelini yapmak için yolun ortasında Ayuya ile karşılaşır. Dao Ma öfkeden kendinden geçmiş durumda.",
+          "release_date": "2023-06-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/c1a23RER2kxVhd13yKJf6DdBsHF.jpg",
+          "videos": [
+            {
+              "id": 746725,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69ad899698be3e47efffd79c",
+              "extra": "Asya Animeleri",
+              "fansub": "Asya Animeleri",
+              "fansub_id": 77,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747255,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69b5f0a6b923b3ffeb12b55c",
+              "extra": "ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 746726,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/0x9kg2zr2ir2",
+              "extra": "Asya Animeleri",
+              "fansub": "Asya Animeleri",
+              "fansub_id": 77,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 746727,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-rckmsxwxop9h.html",
+              "extra": "Asya Animeleri",
+              "fansub": "Asya Animeleri",
+              "fansub_id": 77,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747256,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/a3ps11gr8e4o",
+              "extra": "ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747257,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-kmrsah5e3wvj.html",
+              "extra": "ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199259,
+          "episode_number": 8,
+          "name": "Kum fırtınası geliyor",
+          "description": "Shu, Dao Ma'nın intikam savaşına dahil olur. Artık dört aileye ulaşan beş ailenin reisi, Zhi Shilang'ın kanı için yola çıktı.",
+          "release_date": "2023-06-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/iyKmSJPpdguO6ZhsQlEIgYPngjJ.jpg",
+          "videos": [
+            {
+              "id": 746728,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69ad8b1bcb8083ded340b916",
+              "extra": "Asya Animeleri",
+              "fansub": "Asya Animeleri",
+              "fansub_id": 77,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747258,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69b5f134b84256f1db55ea5e",
+              "extra": "ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 746729,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/0pyav8sz99au",
+              "extra": "Asya Animeleri",
+              "fansub": "Asya Animeleri",
+              "fansub_id": 77,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 746730,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-fsb9gr4ojagc.html",
+              "extra": "Asya Animeleri",
+              "fansub": "Asya Animeleri",
+              "fansub_id": 77,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747259,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/3poo7i62hslj",
+              "extra": "ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747260,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-wxi08ty292gc.html",
+              "extra": "ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199260,
+          "episode_number": 9,
+          "name": "Çöl İnsanları",
+          "description": "Devasa kum fırtınası Dao Ma'nın intikam savaşını sekteye uğratır. Ancak Ayuya, babasının intikamını almak için gruptan ayrılmaya karar verir.",
+          "release_date": "2023-07-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4alIThJnhAp7mMCoQLFb8lbRUAZ.jpg",
+          "videos": [
+            {
+              "id": 715919,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68053d7c560e2c5569b02b32",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715920,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/91dj83ssov8v",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199261,
+          "episode_number": 10,
+          "name": "Büyük Kum Fırtınası",
+          "description": "Bir kum fırtınası gibi olan Ayuya geri döner ve babasının katillerinden ikisini öldürür, ancak kısa süre sonra düşmanın sayıca üstün hale gelir. A Ni, onu kurtarmak ve efendisinin isteğini yerine getirmek için en büyük fedakarlığı yapar.",
+          "release_date": "2023-07-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/poNUMQ2bnQ8xSNbbxrwyWDxaVE1.jpg",
+          "videos": [
+            {
+              "id": 715925,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68053eb9560e2c5569b02b34",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715926,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/zkr0rjgr51ea",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199262,
+          "episode_number": 11,
+          "name": "Hua Yan Tuan",
+          "description": "Zhi Shilang kökenini ve amacını açıklıyor. Dao Ma, Ayuya'yı ölü ya da diri geri getirmek konusunda kararlıdır.",
+          "release_date": "2023-07-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/A49WI4Uzm69fwEM4e6Ib1nsPhQ5.jpg",
+          "videos": [
+            {
+              "id": 715928,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68053f43560e2c5569b02b35",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715929,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/z2thajyd04q6",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199263,
+          "episode_number": 12,
+          "name": "Han ve General",
+          "description": "General Pei, Ayuya'yı kurtarır ancak henüz düşmanın elinden kurtulamaz. Dao Ma ve grup, Ayuya'yı geri almak için bir saldırı planlar.",
+          "release_date": "2023-07-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wQaeoXQUUljy1cAldpJRNqSGRAa.jpg",
+          "videos": [
+            {
+              "id": 715931,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68053fc7560e2c5569b02b36",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715932,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/x8mc0z671gv6",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199264,
+          "episode_number": 13,
+          "name": "Doğrusu",
+          "description": "General Pei düşmanın önünde yapayalnız duruyor. Dao Ma ve Shu sabırla saldırmak için doğru anı bekliyorlar. Buddha'nın Golgotası beklenmedik bir hamle yapar.",
+          "release_date": "2023-08-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/liL3difz6XguXeqgBi51gOL1quH.jpg",
+          "videos": [
+            {
+              "id": 715934,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6805404f560e2c5569b02b37",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715935,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/2w4qd4jbbbtl",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199265,
+          "episode_number": 14,
+          "name": "Kazanan ve Taç",
+          "description": "Kanlı bir savaşın ortasında bir kehanet gerçekleşti ve intikam alındı.",
+          "release_date": "2023-08-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pr5UtSIACe5jLkJM4vY1Bdxmtj9.jpg",
+          "videos": [
+            {
+              "id": 715937,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/680540d8560e2c5569b02b38",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715938,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/bi0cqcwa0u9t",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 202993,
+          "episode_number": 15,
+          "name": "Çölün Kızı",
+          "description": "İntikamını alan Ayuya, Dao Ma'dan ayrılmaya ve Buddha'nın Şövalyeliğine katılmaya karar verir. Dao Ma, Shu ve Zhi Shilang başka bir hedefe doğru ilerliyor.",
+          "release_date": "2023-08-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kI8bD5rdFQ8GcFbsDRPLcYo8Du1.jpg",
+          "videos": [
+            {
+              "id": 715940,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68054192560e2c5569b02b39",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715941,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/4wfbah8im19j",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": 11784,
+  "name": "One Piece Fan Letter",
+  "name_english": "One Piece Fan Letter",
+  "name_romanji": null,
+  "original_title": "ONE PIECE FAN LETTER",
+  "type": "series",
+  "title_type": "anime",
+  "year": null,
+  "release_date": "2024-02-01",
+  "description": "Bu özel bölümümüz, One Piece'in peşinde olmayan insanların gözünden Hasır Şapka Tayfası'nı ve onlardan nasıl etkilendiklerini anlatıyor. \nNami hayranı başkarakterimiz ufak bir maceraya atılıyor.",
+  "poster": "https://cdn.myanimelist.net/images/anime/1675/145881.jpg",
+  "backdrop": "https://cdn.mangacix.net/file/mangacix/1729417115069.png",
+  "rating": null,
+  "vote_count": null,
+  "genres": [],
+  "tmdb_id": 0,
+  "mal_id": 60022,
+  "anilist_id": null,
+  "imdb_id": null,
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 5446,
+      "season_number": 1,
+      "name": "1. Sezon",
+      "episode_count": 1,
+      "episodes": [
+        {
+          "id": 218417,
+          "episode_number": 1,
+          "name": "1. Bölüm",
+          "description": "Bu özel bölümümüz, One Piece'in peşinde olmayan insanların gözünden Hasır Şapka Tayfası'nı ve onlardan nasıl etkilendiklerini anlatıyor. \nNami hayranı başkarakterimiz ufak bir maceraya atılıyor. ",
+          "release_date": "2024-10-20T07:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/mangacix/1729417351208.png",
+          "videos": [
+            {
+              "id": 690526,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6716ab40e4a2ae40fb239eee",
+              "extra": "Eleber",
+              "fansub": "Eleber",
+              "fansub_id": 193,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 690765,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1bW6TDAzsJvqHELqED1LtPv0XU_UWWNMW/preview",
+              "extra": "Eleber",
+              "fansub": "Eleber",
+              "fansub_id": 193,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

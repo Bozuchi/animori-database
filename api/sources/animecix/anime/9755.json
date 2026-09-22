@@ -1,0 +1,796 @@
+{
+  "id": 9755,
+  "name": "Tenkuu Shinpan",
+  "name_english": "High-Rise Invasion",
+  "name_romanji": "High-Rise Invasion",
+  "original_title": "天空侵犯",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2021,
+  "release_date": "2021-02-25 00:00:00",
+  "description": "Liseli Yuri, tuhaf bir dünyada kendini bir gökdelenin tepesinde bulur. Burada, avlarını öldürmeye kararlı maskeli saldırganlara karşı hayatta kalması ve kardeşini bulması gerekecektir.",
+  "poster": "https://image.tmdb.org/t/p/original/5uXaWe0LXTpBQVBBXL1ynae1DED.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cT0o6RFi36TkMFG1wWyTyGb2jrR.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    8,
+    1
+  ],
+  "tmdb_id": 112163,
+  "mal_id": 43690,
+  "anilist_id": 0,
+  "imdb_id": "tt13352232",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 3332,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 165614,
+          "episode_number": 1,
+          "name": "",
+          "description": "",
+          "release_date": "2021-02-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4RzFKfg2EhKgvrFvIux7nCxGkma.jpg",
+          "videos": [
+            {
+              "id": 385703,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6330288ddd931ae1fbad6ffa",
+              "extra": "Çevirmen: Net-Rip   Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 196406,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4496200",
+              "extra": "Çevirmen: Net-Rip   Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196405,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/4yJj96OZebtKKXl",
+              "extra": "Çevirmen: Net-Rip   Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196401,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-d8q2r5a87opv.html",
+              "extra": "Çevirmen: Net-Rip   Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196404,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/hgf2ufedtgso.html",
+              "extra": "Çevirmen: Net-Rip   Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 165615,
+          "episode_number": 2,
+          "name": "",
+          "description": "",
+          "release_date": "2021-02-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ulxUI3K5wdu9BIRN8hGtS9FEVFn.jpg",
+          "videos": [
+            {
+              "id": 385702,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6330281fdd931ae1fbad6ff9",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 196399,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4496198",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196413,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4496202",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196398,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/rrOWgjPVo2iYdG",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196412,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/adoYgdYOqofxjo4",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196408,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-68sxa1amwg95.html",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196411,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/6yd9ug4begtj.html",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196397,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/h9dnntvob2h2.html",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196394,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-1cogaqj922kf.html",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 165616,
+          "episode_number": 3,
+          "name": "",
+          "description": "",
+          "release_date": "2021-02-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zI2v70p1Y0UEHhzGHE7enOolEhy.jpg",
+          "videos": [
+            {
+              "id": 385701,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6330279bdd931ae1fbad6ff8",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 196420,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4496204",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196419,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/Oxr3vBzyAVTZRD2",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196415,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-aes9oj1pph2x.html",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196418,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/8zha4oy06dct.html",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 165617,
+          "episode_number": 4,
+          "name": "",
+          "description": "",
+          "release_date": "2021-02-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/mlLMp1pqOMWb9RITXlBobJrG5dJ.jpg",
+          "videos": [
+            {
+              "id": 385700,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63302722dd931ae1fbad6ff7",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 196428,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4496226",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196427,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/jvAPeQ8D3mHzPdO",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196423,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-wafl3rcp6u4f.html",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196426,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/w4svmbw22yi6.html",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 165618,
+          "episode_number": 5,
+          "name": "",
+          "description": "",
+          "release_date": "2021-02-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oMTYZqogneSpJZkErQvspALjxH5.jpg",
+          "videos": [
+            {
+              "id": 385693,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63302684dd931ae1fbad6ff6",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 196435,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4496235",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196434,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/KgokKJAVmzFjZd",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196430,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-5np57fpqcwqn.html",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196433,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/uu9p4i4e7hny.html",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 165619,
+          "episode_number": 6,
+          "name": "",
+          "description": "",
+          "release_date": "2021-02-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/opLDFVxSqjB2mXgMtE9VUrcIbZe.jpg",
+          "videos": [
+            {
+              "id": 385692,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63302595dd931ae1fbad6ff5",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 196442,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4496241",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196441,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/2rzR6gkxX7tZ9yO",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196437,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-pm49hht4zhx9.html",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196440,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/wm85ego9oq7a.html",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 165620,
+          "episode_number": 7,
+          "name": "",
+          "description": "",
+          "release_date": "2021-02-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4FEtTDxMpWUje6iC7pRnti9VSkd.jpg",
+          "videos": [
+            {
+              "id": 385690,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6330252ddd931ae1fbad6ff4",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 196449,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4496247",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196448,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/xZPYoGYRb2hkKVj",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196444,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-tpcc5a7r2cye.html",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196447,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/4qass3gguzuz.html",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 165621,
+          "episode_number": 8,
+          "name": "İnsanlığımdan Kurtuldum Ama Sorun Değil",
+          "description": "Mayuko ve Yuri, bir el bombası saldırısının ortasında bir gökdelenin tepesinde yeniden bir araya gelirler. Şimdi rehin tutulan Rika, bir Tanrı Adayının önüne çağrılır.",
+          "release_date": "2021-02-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/b7mP0jO1xxfbUOChhbKFQaCdJzS.jpg",
+          "videos": [
+            {
+              "id": 385689,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63302499dd931ae1fbad6ff3",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 196456,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4496288",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196455,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/Kko6LwROBBTod9",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196451,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-gtvisv4d90xs.html",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196454,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/ym4zflktw6jb.html",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 165622,
+          "episode_number": 9,
+          "name": "Hangimiz Serin Bir Yaşayacak?",
+          "description": "Aikawa, diğer Tanrı Adaylarını ortadan kaldırmak için Yurinin bulunduğu yere bir keskin nişancı yerleştirir. Sniper Mask tehdidi üstlenirken bu bir eşitlik savaşı.",
+          "release_date": "2021-02-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/outswOyiBbUFMG61dcoO5D2aYMf.jpg",
+          "videos": [
+            {
+              "id": 385688,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63302414dd931ae1fbad6ff2",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 196463,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4496295",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196462,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/dpMYLdjr22ikL8y",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196458,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-97cu7qymwehg.html",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196461,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/ml4eycoi481p.html",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 165623,
+          "episode_number": 10,
+          "name": "",
+          "description": "",
+          "release_date": "2021-02-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oJNplzlDGFVIp2WB8fYHhggIQlI.jpg",
+          "videos": [
+            {
+              "id": 385687,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/633023a1dd931ae1fbad6ff1",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 196470,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4496300",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196469,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/gwQ0WrKo1RFqj4v",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196465,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-giwvesxmyeec.html",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196468,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/aw1ju46esrvi.html",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 165624,
+          "episode_number": 11,
+          "name": "",
+          "description": "",
+          "release_date": "2021-02-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/5B69cBt9DfvdhU2SW0t1Vpb2psn.jpg",
+          "videos": [
+            {
+              "id": 385686,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63302316dd931ae1fbad6ff0",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 196477,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4496302",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196476,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/2K1ewAbZj7uZkmL",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196472,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-w7dy49niqnzu.html",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196475,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/gbjrdhgoav73.html",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 165625,
+          "episode_number": 12,
+          "name": "",
+          "description": "",
+          "release_date": "2021-02-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qmisH8j8lebDJh9Xh7AwizjYZbq.jpg",
+          "videos": [
+            {
+              "id": 385683,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63302291dd931ae1fbad6fef",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 196486,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4496305",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196485,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/R66yezDjyqtdARL",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196481,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-om5x5xa5fth8.html",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196484,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/kkjsn9g56na3.html",
+              "extra": "Çevirmen: Net-Rip    Encode: The Vtk",
+              "fansub": "Net-Rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2675 @@
+{
+  "id": 7809,
+  "name": "Vinland Saga",
+  "name_english": "Vinland Saga",
+  "name_romanji": "Vinland Saga",
+  "original_title": "ヴィンランド・サガ",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2019,
+  "release_date": "2019-07-08 00:00:00",
+  "description": "Binlerce yıldır Vikingler, şiddet yanlısı en güçlü soylardan biri olarak kendilerine ad yapmışlardır. Vikinglerin en iyi savaşçılarından birinin oğlu olan Thorfinn, derinden beslediği intikam arzusunu yerine getirmek için yeteneklerini geliştireceği savaş alanlarında çocukluğunu geçirir.",
+  "poster": "https://image.tmdb.org/t/p/original/vUHlpA5c1NXkds59reY3HMb4Abs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9sIjJIHGSOYaAqU7pe2TSSNRmS0.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    9,
+    6,
+    1,
+    18
+  ],
+  "tmdb_id": 88803,
+  "mal_id": 37521,
+  "anilist_id": 0,
+  "imdb_id": "tt10233448",
+  "season_count": 2,
+  "seasons": [
+    {
+      "id": 1396,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 24,
+      "episodes": [
+        {
+          "id": 132748,
+          "episode_number": 1,
+          "name": "Burada Değil Bir Yer",
+          "description": "İzlandada yaşayan bir çocuk olan Thorfinn, macerayı özlüyor ve dünya hakkında daha fazla şey öğrenmek istiyor. Eski bir savaşçı olan babası Thors ile barışçıl hayatını sürdürürken, maceracı Leiften haber aldığı Vinland adında bir cennet diyarı hayal eder. Bir gün Thors, kaçak bir köleyi kurtarır ve bir dizi olayı harekete geçirir. Bu, kargaşa çağında gerçek bir savaşçının hikayesidir.",
+          "release_date": "2019-07-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/20sCGFmd3Tsn6NWJAG56c000hSZ.jpg",
+          "videos": [
+            {
+              "id": 479135,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63fff947de5dc154a693d08f",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 479141,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5064103",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 132749,
+          "episode_number": 2,
+          "name": "Kılıç",
+          "description": "1002 yılında İngiltere ile Danimarka arasındaki savaş şiddetleniyordu. Bir gün Jomsvikings, eski komutanları Thorsu yaklaşan savaşa hazırlanmak için geri getirmek için Thorfinnin köyünü ziyaret eder. Thors, köylüleri rehin alınmaktan korumak için savaşa katılmaya zorlanır ve ailesini ve köyünü kurtarmak için lanetli geçmişiyle yüzleşmek zorundadır.",
+          "release_date": "2019-07-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/uOHYGhjbnj172E3TOLXDhx4FHbn.jpg",
+          "videos": [
+            {
+              "id": 477521,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63fbd6b5de5dc154a693d021",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 479152,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63fffbdbde5dc154a693d090",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 477527,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5060011",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 479158,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5064111",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 132750,
+          "episode_number": 3,
+          "name": "Troll",
+          "description": "Yüz kişilik bir Viking ordusunun lideri olan Askeladd, Jomsvikingsli Flokiden bir zamanlar Jom Trolü olarak bilinen Thorsu öldürme emri alır. Ancak, sıranın tamamen farkında olmayan köylüler, ilk savaşlarına hazırlanırken heyecanla dolaşırlar. Thorfinn de heyecana katılıyor. Thors ve adamları İngiltereye zorlu bir deniz yolculuğuna çıkmak üzereler.",
+          "release_date": "2019-07-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/iMl5CIdLGYJSw9H8ZKt1bnwJgUX.jpg",
+          "videos": [
+            {
+              "id": 477531,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63fbd90ade5dc154a693d022",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 477537,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5060046",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 132751,
+          "episode_number": 4,
+          "name": "Gerçek Bir Savaşçı",
+          "description": "Thors ve adamları, Askeladdın tuzağına düşerler ve tehlikeli bir durumla karşı karşıya kalırlar, ancak Thors, Askeladdın adamlarını ezici gücüyle yener. Ancak Thors, tüm hayatları boyunca huzurlu bir köyde yaşayan oğlu da dahil olmak üzere herkesi kurtarmanın zor olacağını biliyor ve zor bir karar alıyor.",
+          "release_date": "2019-07-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/rk8O2qX6Vlr3vayXeHveE46syDF.jpg",
+          "videos": [
+            {
+              "id": 477544,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63fbdb5fde5dc154a693d023",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 705447,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b0bf91b00f138db1d44e79",
+              "extra": "Cyrano - aybertocarlos",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144397,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4320697",
+              "extra": "Cyrano - aybertocarlos",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 477550,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5060078",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144396,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/3olDWzjPO7u6Y2",
+              "extra": "Cyrano - aybertocarlos",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144392,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-tb29r6lcc0v9.html",
+              "extra": "Cyrano - aybertocarlos",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144395,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/oflrnk552w4y.html",
+              "extra": "Cyrano - aybertocarlos",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 132752,
+          "episode_number": 5,
+          "name": "Trollün Oğlu",
+          "description": "Askeladd, Thorfinnin babası Thorsu öldürdükten sonra Thorfinn, Thorun gemisinde saklanır ve intikam alma fırsatını bulana kadar beklemektedir. Ancak gemideki hayat yiyecek ve su olmadan çetin ve Thorfinn gün geçtikçe zayıflıyor. Bir gün kılıcıyla silahlanmış olan Thorfinn, uykusunda Askeladda saldırmaya kalktı ...",
+          "release_date": "2019-08-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xl2eHxtN8Z7K2y008VKQv5kXFJB.jpg",
+          "videos": [
+            {
+              "id": 477552,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63fbdd9ede5dc154a693d024",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144409,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4320712",
+              "extra": "Cyrano - aybertocarlos",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 477558,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5060099",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144408,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/7pvx8Y6gWvHAePy",
+              "extra": "Cyrano - aybertocarlos",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144404,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-i6p957dmqehk.html",
+              "extra": "Cyrano - aybertocarlos",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144407,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/mnq07n5o9y7h.html",
+              "extra": "Cyrano - aybertocarlos",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 132753,
+          "episode_number": 6,
+          "name": "Yolculuk başlıyor",
+          "description": "Thorfinn ilk adamını öldürür. Daha fazla zaman geçtikçe, Thorfinn daha fazla adamı öldürüyor ve daha yetenekli hale geliyor. Thorfinn savaştayken bir gün bir okla vurulur ve kendini kaybeder. İngiliz bir kadın ve kızı iyileşmesine yardım eder.",
+          "release_date": "2019-08-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xQBhFPORk2qiHd6lrAhO7LmsXt7.jpg",
+          "videos": [
+            {
+              "id": 477559,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63fbdfd5de5dc154a693d025",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144416,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4320719",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 477565,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5060106",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144415,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/7dJ0vVydy4fADXG",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144411,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-xdvbcw08ue3i.html",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144414,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/c1hso1aacjb2.html",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 132754,
+          "episode_number": 7,
+          "name": "Normanni",
+          "description": "Askeladd, İngiltereye karşı savaştan geçici olarak çekilir. Yeni bir gelir kaynağı ararken, Franklar arasında bir çatışmayla karşılaşır ve hazinelerini çalmak için bir komplo kurar. Askeladd, soğukkanlı bir Vikinge dönüşen 16 yaşındaki Thorfinni haberci olarak öne gönderir.",
+          "release_date": "2019-08-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/TEscn9jYP0fO4BvJwWj2dISivD.jpg",
+          "videos": [
+            {
+              "id": 477569,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63fbe254de5dc154a693d027",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144423,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4320726",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 477575,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5060110",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144422,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/e0w2eVRxozU2YD",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144418,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-mg5bz3vc30i3.html",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144421,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/cosze36esnmy.html",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 132755,
+          "episode_number": 8,
+          "name": "Deniz Kenarının Ötesinde",
+          "description": "Askeladdın adamları, Franklardan hazineyi ele geçirdikten sonra, kışı geçirmek için Danimarkadaki Jutland Yarımadasındaki Gorm köyüne geri döner. Thorfinn, Askeladda Franks klanının kaptanını getirdiği için ödül olarak bir düelloya meydan okur. Thorfinn, savaş tecrübesiyle yetenekli olarak büyümüş olsa da, hala Askeladda rakip değil.",
+          "release_date": "2019-08-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kXqzBmmofkcldGwE8J3nwshPfdL.jpg",
+          "videos": [
+            {
+              "id": 477584,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63fbe510de5dc154a693d028",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144431,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4320734",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 477590,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5060111",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144430,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/RQ1W0717oWCJ94",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144426,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-jjviuqzi75ao.html",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144429,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/kpjwxj3clgkc.html",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 132756,
+          "episode_number": 9,
+          "name": "Londra Köprüsü Savaşı",
+          "description": "Ekim 1013te Kral Sweyn, İngilterenin Londra Köprüsünü alma girişiminde bir Danimarka ve Viking gemisi filosuna liderlik eder. Askeladdın Danimarka ordusu tarafından tutulan ordusu da bunların arasındaydı. Ancak, güçlü gücüyle tanınan bir Viking olan Uzun Thorkellin ihanetinden sonra, Londra Köprüsü zaptedilemez hale geldi. Askeladd, Thorfinne, eğer Thorkelli öldürebilirse onu bir düelloyla ödüllendireceğini söyler.",
+          "release_date": "2019-09-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kRpuMZ51xi6nNrrCxQB0ofIgOc6.jpg",
+          "videos": [
+            {
+              "id": 477592,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63fbe9d0de5dc154a693d02a",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144438,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4320741",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 477598,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5060114",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144437,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/ayVyLgMzkZuxxw6",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144433,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-zg2jx3szw3w1.html",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144436,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/tq2cagw0us12.html",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 132757,
+          "episode_number": 10,
+          "name": "",
+          "description": "",
+          "release_date": "2019-09-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ifYEkh4l8S3nr60pR2vqn0ulAnV.jpg",
+          "videos": [
+            {
+              "id": 477599,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63fbedc4de5dc154a693d02c",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144450,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4320748",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 477605,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5060115",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144449,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/j6JBe33j2kCzWYZ",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144445,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-g7ywn2vs3914.html",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144448,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/1w35742uj1vz.html",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 132758,
+          "episode_number": 11,
+          "name": "Bir kumar",
+          "description": "Thorkell, Canuteyi rehin alır ve Danimarkanın ana ordusunun peşine düşer. Ragnar, Thorkell’in yalnızca 500 kişiyle 16.000 askerle övünen Danimarka ordusunun tamamını ele geçirme planına itiraz eder. Thorkell daha sonra Ragnara, sadece savaşta ölenlerin gidebileceği bir yer olan Normanların gururu Valhallanın hikayesini anlatmaya başlar.",
+          "release_date": "2019-09-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lVBvExqW88xlBhKAUdvlMlF0Snm.jpg",
+          "videos": [
+            {
+              "id": 477610,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63fbf224de5dc154a693d02d",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 660132,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/669aa93fcf067ab47984f342",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144457,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4320755",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 477616,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5060119",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144456,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/jW9mgp7og6HzpOR",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144452,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-v0qqxfzoji40.html",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144455,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/sike29fa651i.html",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 132759,
+          "episode_number": 12,
+          "name": "Uzak Banktaki Arazi",
+          "description": "Askeladd ve adamları Thorkellden kaçmak için yürüyüşlerine devam ediyor. Ancak yürüyüşleri Severn Nehrinde durur. Askeladd, nehirde feribot kullanan yaşlı bir adama bir mektup verir ve mektubu hemen karşı tarafa teslim etmesini söyler. Yaşlı adam, muhatabın adını duyar duymaz kayığına biner.",
+          "release_date": "2019-09-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/gv6oEX3yk14ULRzpzwb2SeXhpjo.jpg",
+          "videos": [
+            {
+              "id": 477618,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63fbf885de5dc154a693d030",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 660133,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/669aaa00cf067ab47984f343",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144464,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4320759",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 477624,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5060130",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144463,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/JyQ79qpVKluj3qr",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144459,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-nzu3sucb9ji6.html",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144462,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/sxzd24jz4y4h.html",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 132760,
+          "episode_number": 13,
+          "name": "Bir Kahramanın Çocuğu",
+          "description": "Askeladd nehri geçer ve Canute ile Thorkellden Gallere kaçar. Ancak Askeladdın adamları, Brycheiniog krallığının sınırında kayaların arkasına saklanan bir grup asker tarafından pusuya düşürülür. Askeladd, habercisiyle pazarlık etmeye çalışır ve planını açıklar.",
+          "release_date": "2019-10-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pYW3pmIQRiF2n96d71zkFlH5vaY.jpg",
+          "videos": [
+            {
+              "id": 477630,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63fbff4bde5dc154a693d032",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 660134,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/669aaa57cf067ab47984f344",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144471,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4320763",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 477636,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5060143",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144470,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/7qyDKJlO34s4RP",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144466,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-ywhuaee1gmyd.html",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144469,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/vr3eyorzvm4e.html",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 132761,
+          "episode_number": 14,
+          "name": "Şafak Işığı",
+          "description": "Askeladd ve adamları yön değiştirir ve Danimarkanın ana ordusunun beklediği sert bir kar fırtınasının ortasında Earldom of Merciadan geçerek Gainsboroughya dönmeye karar verir. Erkekler kar fırtınasında küçük bir köyü görür ve harekete geçer.",
+          "release_date": "2019-10-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/AjgMB92oc3psHCvG7IN25vqav5n.jpg",
+          "videos": [
+            {
+              "id": 477637,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63fc055dde5dc154a693d034",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 660135,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/669aaaa4cf067ab47984f345",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144478,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4320765",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144477,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/bpq94mRMJ4IP0WL",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144473,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-ybdyiuy9qlw0.html",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144476,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/vj44tkn7mwtt.html",
+              "extra": "Cyrano - kemal895",
+              "fansub": "Cyrano",
+              "fansub_id": 485,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 132762,
+          "episode_number": 15,
+          "name": "Yuleden sonra",
+          "description": "Canuteyi kaybettikten sonra, Thorkell orta İngilteredeki ilerlemesini durdurmaya karar verir. Thorkell, Danimarka ile İngiltere arasındaki savaşın sonunun yaklaştığını duyuyor ve savaşın sona ermesinden yakınıyor. Ancak, daha sonra ilginç bir haberden haberdar olur.",
+          "release_date": "2019-10-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/uyg8j4ILWnHDGiAwjceb2QSgK1V.jpg",
+          "videos": [
+            {
+              "id": 477643,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63fc0657de5dc154a693d035",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 660136,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/669aab3acf067ab47984f346",
+              "extra": "Kyunra",
+              "fansub": "Kyunra",
+              "fansub_id": 1582,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144486,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4320769",
+              "extra": "Kyunra",
+              "fansub": "Kyunra",
+              "fansub_id": 1582,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 477649,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5060146",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144485,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/PkllZyY7q3s0VY7",
+              "extra": "Kyunra",
+              "fansub": "Kyunra",
+              "fansub_id": 1582,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144481,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-zsvr93oganeq.html",
+              "extra": "Kyunra",
+              "fansub": "Kyunra",
+              "fansub_id": 1582,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144484,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/hxncble8dscz.html",
+              "extra": "Kyunra",
+              "fansub": "Kyunra",
+              "fansub_id": 1582,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 132763,
+          "episode_number": 16,
+          "name": "Hayvanların Tarihi",
+          "description": "Askeladd ve adamları, kış aylarında kamp yapmayı planladıkları köyde İngiliz ordusu tarafından saldırıya uğrar. Askeladd kaptanını yakalar ve İngilizlerin nerede olduklarını nasıl bildiklerini öğrenmek için onu sorgular ve Thorkellin hızla yaklaştığını keşfeder. Thorkellin gelişiyle ilgili haberler, Askeladdın takipçileri arasında şok dalgaları yaratır.",
+          "release_date": "2019-10-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dGSSIz36eRvXHjpr4XUPWgv1wE5.jpg",
+          "videos": [
+            {
+              "id": 477651,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63fc0a2bde5dc154a693d036",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 660137,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/669aab8acf067ab47984f347",
+              "extra": "Kyunra",
+              "fansub": "Kyunra",
+              "fansub_id": 1582,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144495,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4320773",
+              "extra": "Kyunra",
+              "fansub": "Kyunra",
+              "fansub_id": 1582,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 477657,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5060147",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144494,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/PbkdepJXYVS0aqo",
+              "extra": "Kyunra",
+              "fansub": "Kyunra",
+              "fansub_id": 1582,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144490,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-k7ax1cq2cbj7.html",
+              "extra": "Kyunra",
+              "fansub": "Kyunra",
+              "fansub_id": 1582,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144493,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/is8oquekqiyl.html",
+              "extra": "Kyunra",
+              "fansub": "Kyunra",
+              "fansub_id": 1582,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 132764,
+          "episode_number": 17,
+          "name": "Hizmetçi",
+          "description": "Askeladdın adamları Thorkellden kaçmak için yürüyüşlerine devam ettiler. Ancak Torgrim ve arkadaşları, Canuteyi de yanlarına alarak taraf değiştirip Thorkelle katılmak için bir plan yapıyorlardı. Torgrim sonunda isyanını başlatır ve Askeladdı köşeye sıkıştırarak Canuteyi teslim etmesi için onunla pazarlık eder, ardından Thorkell kargaşanın ortasında gelir.",
+          "release_date": "2019-11-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/giCXN698HTHwZPDGYfXB636Dmvx.jpg",
+          "videos": [
+            {
+              "id": 477659,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63fc0dc4de5dc154a693d037",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 660138,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/669aac29cf067ab47984f348",
+              "extra": "Kyunra",
+              "fansub": "Kyunra",
+              "fansub_id": 1582,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144502,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4320776",
+              "extra": "Kyunra",
+              "fansub": "Kyunra",
+              "fansub_id": 1582,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144501,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/4PYL9OoWr7cKa9V",
+              "extra": "Kyunra",
+              "fansub": "Kyunra",
+              "fansub_id": 1582,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144497,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-6xqz5g9s8e08.html",
+              "extra": "Kyunra",
+              "fansub": "Kyunra",
+              "fansub_id": 1582,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144500,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/9gk8waorvf3i.html",
+              "extra": "Kyunra",
+              "fansub": "Kyunra",
+              "fansub_id": 1582,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 132765,
+          "episode_number": 18,
+          "name": "Cradle dışında",
+          "description": "Thorfinn ve Thorkell, Askeladdın kaderi üzerine bir düello yapmayı kabul eder. Thorkell, Thors’un oğlu Thorfinn ile yüzleşmeyi dört gözle bekliyor ve ona gerçek bir savaşçının gerçekte ne olduğunu soruyor. Bu sırada Canute, kaçmaya çalışırken aniden pusuya düşer ve belirli bir kişiyle ilgili bir rüya görür.",
+          "release_date": "2019-11-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zKYuwDsFkTd7gR27eouZ6PwVeHk.jpg",
+          "videos": [
+            {
+              "id": 477670,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63fc0ee3de5dc154a693d038",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 660139,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/669aaccacf067ab47984f349",
+              "extra": "Kyunra",
+              "fansub": "Kyunra",
+              "fansub_id": 1582,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144509,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4320778",
+              "extra": "Kyunra",
+              "fansub": "Kyunra",
+              "fansub_id": 1582,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 477676,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5060150",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144508,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/yVVMZzxBWoF3xm",
+              "extra": "Kyunra",
+              "fansub": "Kyunra",
+              "fansub_id": 1582,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144504,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-o97o2wsfqs8f.html",
+              "extra": "Kyunra",
+              "fansub": "Kyunra",
+              "fansub_id": 1582,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144507,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/bb1x2dv6a45q.html",
+              "extra": "Kyunra",
+              "fansub": "Kyunra",
+              "fansub_id": 1582,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 132766,
+          "episode_number": 19,
+          "name": "Birleşik cephe",
+          "description": "Thorfinn, Thorkell ile mücadelesinde ciddi bir yaralanma yaşadı. Thorfinne, Thorkelli yenmek için ne yapması gerektiğini düşünmesi söylenir. Askeladd, Thorfinn’in yaralarını bir gün tekrar savaşabilmesi için tedavi eder ve ikisinin daha uzun süre hayatta kalmasına yardımcı olacak ortak bir strateji önerir.",
+          "release_date": "2019-11-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/q0oU85bZ924v6A0ah9nnJESwzLl.jpg",
+          "videos": [
+            {
+              "id": 477680,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63fc1396de5dc154a693d03a",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 660140,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/669aad60cf067ab47984f34a",
+              "extra": "Kyunra",
+              "fansub": "Kyunra",
+              "fansub_id": 1582,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144518,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4320779",
+              "extra": "Kyunra",
+              "fansub": "Kyunra",
+              "fansub_id": 1582,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 477686,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5060151",
+              "extra": "rolativistik - KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 144517,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/ePajzPxOkAhYy0y",
+              "extra": "Kyunra",
+              "fansub": "Kyunra",
+              "fansub_id": 1582,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144513,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-27qc8tufdrm5.html",
+              "extra": "Kyunra",
+              "fansub": "Kyunra",
+              "fansub_id": 1582,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 144516,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/v88j98s3z4w1.html",
+              "extra": "Kyunra",
+              "fansub": "Kyunra",
+              "fansub_id": 1582,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 132767,
+          "episode_number": 20,
+          "name": "Taç",
+          "description": "Thorfinn, Thorkelle karşı verdiği mücadelede ciddi bir şekilde yaralandı. Thorfinne, Thorkelli yenmek için ne yapması gerektiğini düşünmesi söylenir. Askeladd, bir gün tekrar savaşabilmesi için Thorfinn’in yaralarını tedavi eder ve ikisinin daha uzun süre hayatta kalmasına yardımcı olmak için ortak bir strateji önerir.",
+          "release_date": "2019-12-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/3sWjsqhb29BDee7g1MH6Enudyca.jpg",
+          "videos": [
+            {
+              "id": 658053,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6692fe4acf067ab47984f11a",
+              "extra": "rolativistik & KaioKen / adonisfansub.com / discord.gg/xM8U2xw",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 132768,
+          "episode_number": 21,
+          "name": "",
+          "description": "",
+          "release_date": "2019-12-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2pDnNNSyZgC2OGanRsohCPWHCb.jpg",
+          "videos": [
+            {
+              "id": 658056,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6692ff1bcf067ab47984f11b",
+              "extra": "rolativistik & KaioKen / adonisfansub.com / discord.gg/xM8U2xw",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 658059,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5595750",
+              "extra": "rolativistik & KaioKen / adonisfansub.com / discord.gg/xM8U2xw",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 132769,
+          "episode_number": 22,
+          "name": "Yalnız Kurt",
+          "description": "Thorfinn, Askeladda karşı Canute ve Thorkell ile tanık olarak düelloya başlar. Ancak Thorfinn, Bjornun ayrılmasının ardından Askeladdı sollayan olağanüstü ruh halinden bunalmış durumda olduğu için grev yapamaz. Thorfinnin tereddütünü fark eden Askeladd kılıcını bıraktı ve Thorfinni silahsız bir kavgaya kışkırtarak Thorfinnin öfkesini kışkırtır.",
+          "release_date": "2019-12-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oNFBQHPnpBOp2imod7HxFvrokyy.jpg",
+          "videos": [
+            {
+              "id": 658064,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66930109cf067ab47984f11e",
+              "extra": "rolativistik & KaioKen / adonisfansub.com / discord.gg/xM8U2xw",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 658067,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5595767",
+              "extra": "rolativistik & KaioKen / adonisfansub.com / discord.gg/xM8U2xw",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 132770,
+          "episode_number": 23,
+          "name": "Yanlış hesaplama",
+          "description": "Canute’nin hayatına yönelik suikast girişiminin ardından, kralın Canute’yi öldürmeye çalıştığını söyleyen söylentiler York’a yayıldı. Sonuç olarak, kral Canuteyi tehlikeye atacak herhangi bir emir veremez ve Askeladd her şeyin planlandığı gibi ilerlemesinden memnun olur. Ancak, Kral Sweyn konuştuğunda durum tersine döner. Bu arada Thorfinn, huzuru bozduğu için ceza olarak hapse gönderilir.",
+          "release_date": "2019-12-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aE48nt9kL8J1VWA2je6JrOVuZx3.jpg",
+          "videos": [
+            {
+              "id": 658068,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6693021fcf067ab47984f11f",
+              "extra": "rolativistik & KaioKen / adonisfansub.com / discord.gg/xM8U2xw",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 658071,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5595776",
+              "extra": "rolativistik & KaioKen / adonisfansub.com / discord.gg/xM8U2xw",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 132771,
+          "episode_number": 24,
+          "name": "Önsözün Sonu",
+          "description": "Askeladd, Kral Sweynin önüne çıkar ve ona Galleri işgalini durdurması için yalvarır. Bu sırada Thorfinn, Leif’in ısrarıyla eve dönmeye karar verir. Ancak, gemiye binmeden hemen önce, Thorfinn, gökyüzüne çıkan tek bir sumru görürsünüz ...",
+          "release_date": "2019-12-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/32cLSDA0Zbvv2qA11wUeC2NSB99.jpg",
+          "videos": [
+            {
+              "id": 658073,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66930330cf067ab47984f120",
+              "extra": "rolativistik & KaioKen / adonisfansub.com / discord.gg/xM8U2xw",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3267,
+      "season_number": 2,
+      "name": null,
+      "episode_count": 24,
+      "episodes": [
+        {
+          "id": 176324,
+          "episode_number": 1,
+          "name": null,
+          "description": "Einar, annesi ve kız kardeşiyle birlikte Kuzey İngiltere'de huzur içinde yaşamaktadır ancak bir gün köyleri saldırıya uğrar.",
+          "release_date": "2023-01-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/39Egg6NtF0yWU9YxLMH35jPceJr.jpg",
+          "videos": [
+            {
+              "id": 568245,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c15e94b64b25167a11e96f",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673367,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66bff5da48d0b8046dc0639e",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 568248,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5208408",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673369,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5639802",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 192274,
+          "episode_number": 2,
+          "name": "Ketil'in Çiftliği",
+          "description": "Einar ve Thorfinn'e yabani bir ormanı buğday tarlasına dönüştürmeleri söylenir; ve eğer başarılı olurlarsa kendi özgürlüklerini satın alma şansına sahip olacaklar.",
+          "release_date": "2023-01-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kARuAybuBELgFlFeADMDuGNNFbg.jpg",
+          "videos": [
+            {
+              "id": 569096,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c3152f4bf660c92bf1a129",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673370,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66bff6b948d0b8046dc0639f",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 569099,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5209750",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673372,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5639807",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 192275,
+          "episode_number": 3,
+          "name": "Yılan",
+          "description": "Çiftlik korucuları, Ketil'in 17 yaşındaki oğlunu, erkek olabilmesi için ilk cinayetini işlemesi gerektiğine ikna eder.",
+          "release_date": "2023-01-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wyUgkAmFx5YBhex0yEaDw6Hz3YE.jpg",
+          "videos": [
+            {
+              "id": 569100,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c316cb4bf660c92bf1a12a",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673373,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66bff78648d0b8046dc063a0",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 569103,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5209752",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673375,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5639813",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 192276,
+          "episode_number": 4,
+          "name": "Uyanış",
+          "description": "Olan biten her şeyden sonra Einar, Thorfinn'e daha önce bir savaşta yer alıp almadığını ve bir insanı öldürüp öldürmediğini sorar.",
+          "release_date": "2023-01-31T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/rQIAdFTAO7zNjSq5s1GXroIRFby.jpg",
+          "videos": [
+            {
+              "id": 569104,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c31a104bf660c92bf1a12b",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673376,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66bff85648d0b8046dc063a1",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 569107,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5209754",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673378,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5639817",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 192605,
+          "episode_number": 5,
+          "name": "Kan Yolu",
+          "description": "Olayların ani gelişmesinin ardından genç Canute, çok küçülmüş ve saldırı altında olan bir krallığın tahtını ele geçirmek için ayağa kalkmak zorundadır.",
+          "release_date": "2023-02-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bsl84lrge48qEIMA8TTLTLoDxYX.jpg",
+          "videos": [
+            {
+              "id": 569108,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c31b4c4bf660c92bf1a12c",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673379,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66bff91748d0b8046dc063a2",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 569111,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5209758",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673381,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5639823",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 192606,
+          "episode_number": 6,
+          "name": "Bir ata ihtiyacımız var",
+          "description": "Thorfinn ve Einar ormanı temizlemek için canla başla çalışıyorlar ama atların yardımı olmadan yapabilecekleri çok şey var.",
+          "release_date": "2023-02-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2mNJhJqqGMdRUUSjH8rTyvonXHc.jpg",
+          "videos": [
+            {
+              "id": 569112,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c31d904bf660c92bf1a12d",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673382,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66bff9dd48d0b8046dc063a3",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 569115,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5209763",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673384,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5639828",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 192607,
+          "episode_number": 7,
+          "name": "Demir Yumruk Ketil",
+          "description": "Hırsızlar Ketil'in çiftliğinden yiyecek çalıyor. Bu sırada Ketil'in en büyük oğlu Thorgil eve döner.",
+          "release_date": "2023-02-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aPwKhTUAjAEr5BIsIUlgUZLG9RV.jpg",
+          "videos": [
+            {
+              "id": 569116,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c3210c4bf660c92bf1a12e",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673385,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66bffac148d0b8046dc063a4",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 569119,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5209766",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673387,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5639833",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 192608,
+          "episode_number": 8,
+          "name": "Boş Bir Adam",
+          "description": "Thorfinn neredeyse her gece kabus görüyor ama rüyasında ne gördüğünü asla hatırlayamıyor ve bu onu rahatsız ediyor.",
+          "release_date": "2023-02-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7Zg2Sp2ts8DV950zWGUMpbiA6jT.jpg",
+          "videos": [
+            {
+              "id": 569127,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c323104bf660c92bf1a12f",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673388,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66bffba048d0b8046dc063a5",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 569130,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5209767",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673390,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5639838",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 192609,
+          "episode_number": 9,
+          "name": "Yemin",
+          "description": "Thorfinn huzurlu bir yerde uyanır ve babasını yeniden görür. Ancak daha sonra işler hızla kararır ve Thorfinn acı dolu geçmişiyle yüzleşmek zorunda kalır.",
+          "release_date": "2023-03-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/g1jxQe0I4nbCaW5DoyAaLcrfswV.jpg",
+          "videos": [
+            {
+              "id": 569123,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c324964bf660c92bf1a130",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673391,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66bffc7548d0b8046dc063a6",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 569126,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5209768",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673393,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5639843",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 192610,
+          "episode_number": 10,
+          "name": "Lanetli Kafa",
+          "description": "Nihayet, üç uzun yılın ardından Einar ve Thorfinn ormandaki son ağacı da keserler. Yüreklerinde umutla geleceğe dair konuşuyorlar.",
+          "release_date": "2023-03-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zXoLhLbMAMgJqKsk5HytCEHTSwt.jpg",
+          "videos": [
+            {
+              "id": 569141,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c327c94bf660c92bf1a131",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673394,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66bffd3848d0b8046dc063a7",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 569144,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5209769",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673396,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5639848",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 192611,
+          "episode_number": 11,
+          "name": "Krallar ve Kılıçlar",
+          "description": "Ketil, Thorgil ve Olmar, Jelling'deyken yakın arkadaşının oğlu Thorfinn'i arayan Leif Erikson adında bir adamla tanışır.",
+          "release_date": "2023-03-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/5lpzPKNaW1qFUugkXeALjFW66Bp.jpg",
+          "videos": [
+            {
+              "id": 569137,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c3284d4bf660c92bf1a132",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673397,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66bffdfd48d0b8046dc063a8",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 569140,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5209770",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673399,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5639854",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 192612,
+          "episode_number": 12,
+          "name": "Kayıp Aşk İçin",
+          "description": "Olmar, Canute'nin habercisi tarafından hakarete uğradığını hisseder ve ağabeyi Thorgil'in cesaretlendirmesiyle meseleyi kendi eline alır.",
+          "release_date": "2023-03-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sPXASfQKN7bkcf9li1fFBMKiHkY.jpg",
+          "videos": [
+            {
+              "id": 569145,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c32d274bf660c92bf1a133",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673400,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66bffed848d0b8046dc063a9",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 569148,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5209776",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673402,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5639859",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 192613,
+          "episode_number": 13,
+          "name": "Kara Bulutlar",
+          "description": "Einar, özgürlüğünü kazansa bile Arnheid'in yakınında kalmak istediğini söylüyor. Snake, bir kölenin sahiplerini öldürdüğü haberini alır ve kaçmaya başlar.",
+          "release_date": "2023-04-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/uZCIwyXSFLp4n80H82wfQ6csiq.jpg",
+          "videos": [
+            {
+              "id": 569150,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c32d864bf660c92bf1a134",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673403,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66bfffb248d0b8046dc063aa",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 569153,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5209777",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673405,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5639864",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 192614,
+          "episode_number": 14,
+          "name": "Özgürlük",
+          "description": "Ketil'in çiftliğinde Arnheid'in kocası olduğunu iddia eden kaçak bir köle belirir. Ancak onu serbest bırakamadan Snake'le karşı karşıya kalır.",
+          "release_date": "2023-04-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/k1cEDh1OW7k07mfhLoB16LTXCg.jpg",
+          "videos": [
+            {
+              "id": 569154,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c331a84bf660c92bf1a135",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673406,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66c0007648d0b8046dc063ab",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 569157,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5209778",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673408,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5639869",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 192615,
+          "episode_number": 15,
+          "name": "Fırtına",
+          "description": "Arnheid, Gardar'ın hapsedildiği kaleye gelir. Kocasını görmek ve yaralarını tedavi etmek istiyor.",
+          "release_date": "2023-04-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wSrVhEDXnLSWISS90nyfUBIDTHT.jpg",
+          "videos": [
+            {
+              "id": 569158,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c332b94bf660c92bf1a136",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673409,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66c0012d48d0b8046dc063ac",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 569161,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5209779",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673411,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5639874",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 192616,
+          "episode_number": 16,
+          "name": "Büyük Amaç",
+          "description": "Snake arayışını yoğunlaştırırken Arnheid, Einar ve Thorfinn'e yaptığı her şeyi anlatır. Riskleri bilen Einar ve Thorfinn, ona yardım etmeyi teklif eder.",
+          "release_date": "2023-04-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/j3u7dbjGNpAoLiMhyXbWWe9F8cu.jpg",
+          "videos": [
+            {
+              "id": 569163,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c335c64bf660c92bf1a137",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673412,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66c0020e48d0b8046dc063ad",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 569166,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5209780",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673414,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5639879",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 192617,
+          "episode_number": 17,
+          "name": "Eve Dönüş Yolu",
+          "description": "Yılan hızla saldırır ve Thorfinn'i hızı ve çevikliğiyle şaşırtır. Yaralı halde yatan Gardar, Arnheid'le paylaştığı hayatı düşünür.",
+          "release_date": "2023-05-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/hrbjEw5HzneU2QNBeS7QgncwGyf.jpg",
+          "videos": [
+            {
+              "id": 569167,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c338054bf660c92bf1a138",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673415,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66c002e748d0b8046dc063ae",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 569170,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5209781",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673417,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5639884",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 192618,
+          "episode_number": 18,
+          "name": "Birinci Yöntem",
+          "description": "Bitkin durumdaki Ketil, çiftliğine döndükten sonra Arnheid'i aramaya başlar ancak onun yokluğunda neler olduğunu öğrenir.",
+          "release_date": "2023-05-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pBBvPM0SxzonWR19WtizP05oaL0.jpg",
+          "videos": [
+            {
+              "id": 569171,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c33bfa4bf660c92bf1a139",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673418,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66c003b148d0b8046dc063af",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 569174,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5209792",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673420,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5639889",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 192619,
+          "episode_number": 19,
+          "name": "Ketil Çiftliği Savaşı",
+          "description": "Bir köylü ayaklanmasının yarattığı karmaşanın ortasında Thorfinn ve diğerleri, ağır yaralı ve hamile bir Arnheid'i taşıyarak kaçmaya çalışır.",
+          "release_date": "2023-05-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/g1W7U1TVRM0hJA76R6pxkDOs67R.jpg",
+          "videos": [
+            {
+              "id": 569175,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c33da24bf660c92bf1a13a",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 713493,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67eba4bbb61af66e9c200fe7",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 569178,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5209801",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 713494,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ff0vvxpcly41",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "1080p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 192620,
+          "episode_number": 20,
+          "name": "Ağrı",
+          "description": "Thorfinn ve Einar kaçışlarına doğru ilerlerken Arnheid kendine gelir ve nereye gittiklerini ve orada kölelerin ve savaşların da olup olmadığını sorar.",
+          "release_date": "2023-05-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9KtEVVJ3O4OZHcSWk5d4uuLEVL2.jpg",
+          "videos": [
+            {
+              "id": 569182,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c33fdd4bf660c92bf1a13b",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673424,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66c0059048d0b8046dc063b1",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 569185,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5209802",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673426,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5639901",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 192621,
+          "episode_number": 21,
+          "name": "Cesaret",
+          "description": "Savaş, arkasında yürek parçalayıcı kayıplar bıraktı. Thorgil ve Ketil'in karısı kavgaya devam etmek istese de Canute teslim olmalarını ister.",
+          "release_date": "2023-05-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/uYSWeoZsDmTMTSQSZbH78scPKfl.jpg",
+          "videos": [
+            {
+              "id": 569186,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c342dd4bf660c92bf1a13c",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673427,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66c0066148d0b8046dc063b2",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 569189,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5209803",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673429,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5639906",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 192622,
+          "episode_number": 22,
+          "name": "İsyan Kralı",
+          "description": "Snake buna bir son vermeye çalışır, ancak Thorfinn, Canute'nin acımasız muhafızı Drott'tan 100 darbenin tamamını almakta ısrar ederek kabadayı izleyicileri şok eder.",
+          "release_date": "2023-06-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xROo4ESn6Tmk9NAD8zlhFLu1n2M.jpg",
+          "videos": [
+            {
+              "id": 569191,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c343af4bf660c92bf1a13d",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673430,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66c0071b48d0b8046dc063b3",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 569194,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5209804",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673432,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5639911",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 192623,
+          "episode_number": 23,
+          "name": "İki Yol",
+          "description": "Thorfinn ve Einar düşüncelerini söylese de Canute inatla Ketil'in Çiftliği'nden vazgeçmeyi reddeder. Ardından Thorfinn bir kararla aradaki mesafeyi bozar.",
+          "release_date": "2023-06-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/mrF7kEJHtH6r4Cz1OaAZ7sIdLU8.jpg",
+          "videos": [
+            {
+              "id": 569195,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c3469c4bf660c92bf1a13e",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673433,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66c007d648d0b8046dc063b4",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673435,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5639916",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 192624,
+          "episode_number": 24,
+          "name": null,
+          "description": "Sonunda Thorfinn İzlanda'ya döner ve sevdikleriyle yeniden bir araya gelerek bir an mutluluk bulur. Ancak çok geçmeden bir sonraki yolculuğuna başlar.",
+          "release_date": "2023-06-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aorS01rq0HnmbCseTe6K66z8t7z.jpg",
+          "videos": [
+            {
+              "id": 569199,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c348104bf660c92bf1a13f",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673436,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66c008b048d0b8046dc063b5",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 569202,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5209806",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 673438,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5639923",
+              "extra": "Net-rip",
+              "fansub": "Net-rip",
+              "fansub_id": 21,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

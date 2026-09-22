@@ -1,0 +1,92 @@
+{
+  "id": 11124,
+  "name": "Papa to Kiss in the Dark",
+  "name_english": "Papa to Kiss in the Dark",
+  "name_romanji": "Papa to Kiss in the Dark",
+  "original_title": "パパとKISS IN THE DARK",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2005,
+  "release_date": "2005-11-23",
+  "description": null,
+  "poster": "https://image.tmdb.org/t/p/original/b1k3Pk2Bzdl9tQgGdZI8ensff97.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2PSSJv9xB4NMQahBivBnEc5yR4m.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [],
+  "tmdb_id": 81655,
+  "mal_id": 746,
+  "anilist_id": 0,
+  "imdb_id": "tt3955190",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 4718,
+      "season_number": 1,
+      "name": "",
+      "episode_count": 2,
+      "episodes": [
+        {
+          "id": 201277,
+          "episode_number": 1,
+          "name": "Bölüm 1",
+          "description": "",
+          "release_date": "2005-11-23T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/64ca20508230cd9c3158d4c1-2.jpg",
+          "videos": [
+            {
+              "id": 573290,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64ca20508230cd9c3158d4c1",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 573292,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5216081",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 201278,
+          "episode_number": 2,
+          "name": "Bölüm 2",
+          "description": "",
+          "release_date": "2005-12-21T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/64ca22428230cd9c3158d4c2-4.jpg",
+          "videos": [
+            {
+              "id": 573293,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64ca22428230cd9c3158d4c2",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 573295,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5216087",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

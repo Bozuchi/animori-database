@@ -1,0 +1,636 @@
+{
+  "id": 8532,
+  "name": "Princess Lover!",
+  "name_english": "Princess Lover!",
+  "name_romanji": "Princess Lover!",
+  "original_title": "プリンセスラバー",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2009,
+  "release_date": "2009-07-06 00:00:00",
+  "description": "Princess Lover! is a Japanese visual novel, and the first title developed by Ricotta. It was first released as an adult game for the PC on June 27, 2008 in both limited and regular editions, which was followed by an all-ages release for the PlayStation 2 on January 28, 2010. The gameplay in Princess Lover! follows a linear plot line which offers pre-determined scenarios and courses of interaction, and its story focuses on the appeal of the four female main characters.\n\nPrincess Lover! has received several transitions to other media. The game was first adapted into three light novels written by Utsusemi and illustrated by Hyūma Kitsuhi. It was then followed by two manga adaptations: the first, illustrated by Naoha Yuigi, began serialization in Media Factory's Media Factory Mobile! service on March 20, 2009; and the second, illustrated by Yū Midorigi, began its serialization in the manga magazine Comic Valkyrie on July 27, 2009. An anime adaptation produced by the animation studio GoHands also began its broadcast in Japan on July 5, 2009, and it was later followed by other networks in the same month. An Internet radio show has also been produced to promote the anime adaptation, and began its broadcast on July 3, 2009.",
+  "poster": "https://image.tmdb.org/t/p/original/rCpJWhIezs1HEp7R07eFwiEBNm8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/52lDY5tyBQkVn9ERUOI53O0pM8.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    9,
+    6,
+    4
+  ],
+  "tmdb_id": 34188,
+  "mal_id": 6201,
+  "anilist_id": 0,
+  "imdb_id": "tt1470836",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 1960,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 145787,
+          "episode_number": 1,
+          "name": "Soylu Kız ve At Arabası",
+          "description": "",
+          "release_date": "2022-07-22T22:31:16.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xolGGYtrvslF7EU7LRLC1pIsjBS.jpg",
+          "videos": [
+            {
+              "id": 359188,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630d7afd96d13322efb02b7d",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321764,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4798463",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321211,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/15Pj0ggG-_6cxAm5v6_1aDWKos9PcuvKp/preview",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321212,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/gn4nkSSS#C39tRtfcJXyw2yeAUMNNEorIAeeytJwUXJRk-p-rqwE",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 145788,
+          "episode_number": 2,
+          "name": "Akademi ve Reunion",
+          "description": "",
+          "release_date": "2009-07-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/raDNPTgpIfSVjmVwzY7CzOyNry8.jpg",
+          "videos": [
+            {
+              "id": 359186,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630d7a7796d13322efb02b7b",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321773,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4798465",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321220,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/15RrrjxdlsEPS4rPZigYOSepY3Lie7adH/preview",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321221,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/AjZjgA6L#6DvV50m20MRhXvl9Y7scTagUo-Z8QmA8rY6uaIR0FSg",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 145789,
+          "episode_number": 3,
+          "name": "Kılıç ve Dans",
+          "description": "",
+          "release_date": "2009-07-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/m9RdgTk9xDz9i6cHIl5F7JHk5e5.jpg",
+          "videos": [
+            {
+              "id": 359184,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630d79e496d13322efb02b79",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321781,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4798467",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321222,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/15S15nq4TLdp3RmgIWzu_BV7SBArGbau_/preview",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321223,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/t6gzSZCb#FBnzboDrHb00gInmJawVsQrWInRXzt-onzvVjkrQQKI",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 145790,
+          "episode_number": 4,
+          "name": "Gül ve Ayakkabı",
+          "description": "",
+          "release_date": "2009-07-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/rsLz6Yx4GkaD7GsKwh92Zhmuv2l.jpg",
+          "videos": [
+            {
+              "id": 359183,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630d792e96d13322efb02b78",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321788,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4798469",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321224,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/15SJSZTiTbx396BizqPcUSOVWqjzUqymh/preview",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321225,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/l74VnKQa#WsuoB1ss0qzqP7Zwe-jXpjMxQgcNl1btbX1BVzF2XF0",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 145791,
+          "episode_number": 5,
+          "name": "Günbatımı ve Dönme Dolap",
+          "description": "",
+          "release_date": "2009-08-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8MoHsdpEw0Bo3vdnzZiiEagTAex.jpg",
+          "videos": [
+            {
+              "id": 359180,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630d786796d13322efb02b75",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321795,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4798474",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321226,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/15SRjhOoUB4PU_zdwvf6fp5o6ZlN6JBpx/preview",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321227,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/Bron1KrL#mDdDUxynTSp8YhNzEQH76p_FxRyjEfkt7DGSVEwYTjs",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 145792,
+          "episode_number": 6,
+          "name": "Steam, Crying ve Şanslı Sapık",
+          "description": "",
+          "release_date": "2009-08-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/3LRSqj0GhDcFGRyItLUDpe76NXY.jpg",
+          "videos": [
+            {
+              "id": 359179,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630d77c496d13322efb02b74",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321802,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4798476",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321228,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/15T2JsaLMFql04RDHw5ozH3M9gEsjkHU9/preview",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321229,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/JngmRJBK#m2y2-Xa7KhMJvP6D0DCI4biH0AXAtiqw8GyOC1B23MQ",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 145793,
+          "episode_number": 7,
+          "name": "nişanlısı ve çiçek yaprakları",
+          "description": "",
+          "release_date": "2009-08-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tFUHkjluh3jhzs4P5OeDlGW94J3.jpg",
+          "videos": [
+            {
+              "id": 359176,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630d773696d13322efb02b71",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321809,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4798477",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321230,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/15TqeCfXw86aJF0N7QnYocFdQjOf-rOjF/preview",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321231,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/k7w2TT7A#gJDdToalj-AZ_LY_yCNWWPMc6zdr3aDNXLvoxmGCyLY",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 145794,
+          "episode_number": 8,
+          "name": "Cennet ve Gerçek",
+          "description": "",
+          "release_date": "2009-08-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sy3YF9NZyVJVEq4QOp27eRS09bQ.jpg",
+          "videos": [
+            {
+              "id": 359175,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630d764196d13322efb02b70",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321817,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4798478",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321232,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/15U06FcgrEHzZ-IA5Lej3F97jwEWPI9aN/preview",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321233,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/gmZ0XLBA#aRmSirfxNa_Dstj7sWHKJHBzNYDEQctatBny1-6myIA",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 145795,
+          "episode_number": 9,
+          "name": "Kırmızı ve mavi",
+          "description": "",
+          "release_date": "2009-08-31T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fWwzJr8mozEDlGUxadJBU2YS1Ku.jpg",
+          "videos": [
+            {
+              "id": 359171,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630d759596d13322efb02b6b",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321824,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4798479",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321234,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/15X41oluQE2nq4nK3RhmHgFvRto_-cFHq/preview",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321235,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/5jY13ZLA#6tDY1fi8be9IWpLbS0mKO2d7zzH6ME77AJpMSjPKmr4",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 145796,
+          "episode_number": 10,
+          "name": "Kayıp ve Yeniden Doğuş",
+          "description": "",
+          "release_date": "2009-09-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/atJpjIIoDlFbcsbqlKGo6eRuq9M.jpg",
+          "videos": [
+            {
+              "id": 359169,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630d750196d13322efb02b69",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321831,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4798480",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321236,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/15R87mmnsrTIj47NJIRWewdJ3533JF8Qq/preview",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321237,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/VvxWwTCC#ABx9v18zTqcRMkcs5fqNM3NZTo32WtfdfiQ-Ju7tDEE",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 145797,
+          "episode_number": 11,
+          "name": "Süvari ve Tren",
+          "description": "",
+          "release_date": "2009-09-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/mgcBnNX7iJU1SasyEXw1sLE3bd2.jpg",
+          "videos": [
+            {
+              "id": 359164,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630d742296d13322efb02b64",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321838,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4798481",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321238,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/15RJf-tkwzSI6NOAUW5w8L40voVvoH8JC/preview",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321239,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/xqoR1ZqB#hjicn093XRdVtVKJpiE9qVjHaaHexrsRjmDIkfZGgJQ",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 145798,
+          "episode_number": 12,
+          "name": "Prenses aşığı!",
+          "description": "",
+          "release_date": "2009-09-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/HPiBgT00gcjHai8QjzHEjFpVj0.jpg",
+          "videos": [
+            {
+              "id": 359162,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630d737b96d13322efb02b62",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321845,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4798482",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321240,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/15RYylflJO6JmOWvWthOIkaW61DgnFlRA/preview",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 321241,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/gzYyFRhb#33h0NwDqtLM_ajWaYkV9Zp-YJ4WP19Y8E453oQpk_tY",
+              "extra": "AnimeBASE",
+              "fansub": "AnimeBASE",
+              "fansub_id": 907,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

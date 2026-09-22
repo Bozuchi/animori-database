@@ -1,0 +1,735 @@
+{
+  "id": 10280,
+  "name": "Carole & Tuesday",
+  "name_english": "Carole & Tuesday",
+  "name_romanji": "Carole & Tuesday",
+  "original_title": "キャロル＆チューズデイ",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2019,
+  "release_date": "2019-04-11 00:00:00",
+  "description": "İnsanlığın yeni sınıra, Mars'a göç etmeye başlamasının üzerinden elli yıl geçti. Çoğu kültürün yapay zeka tarafından üretildiği ve insanların pasif tüketiciler olmaktan memnun olduğu bir çağ. Bir kız var. Alba Şehri metropolünde hayatını mahvediyor, bir yandan müzisyen olmaya çalışırken bir yandan da yarı zamanlı çalışıyor. Her zaman bir şeylerin eksik olduğunu hissetmiştir. Adı Carole. Bir kız var. Taşranın Herschel City kasabasında varlıklı bir ailenin çocuğu olarak dünyaya geldi, müzisyen olmayı hayal ediyor ama etrafındaki kimse anlamıyor. Kendini dünyanın en yalnız insanı gibi hissediyor. Adı Salı.\n\nBir tesadüf buluşması onları bir araya getirir. Şarkı söylemek istiyorlar. Müzik yapmak istiyorlar. Birlikte, bir şansları olabileceğini düşünüyorlar. İkisi sadece küçük bir dalga oluşturabilir. Ama bu dalga sonunda daha büyük bir şeye dönüşecek...",
+  "poster": "https://image.tmdb.org/t/p/original/s08F7Pu8Q9BgStYUbIDw367v4JY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kCQXUzThgvRtoyFNdjwXBH21a9r.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    9,
+    6,
+    2
+  ],
+  "tmdb_id": 83962,
+  "mal_id": 37435,
+  "anilist_id": 0,
+  "imdb_id": "tt8107988",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 4660,
+      "season_number": 1,
+      "name": "",
+      "episode_count": 24,
+      "episodes": [
+        {
+          "id": 199534,
+          "episode_number": 1,
+          "name": "Gerçek renkler",
+          "description": "Küçük kasaba kızı Salı, gece yarısı treniyle Alba Şehri'ne gider ve hayalleri için evden ayrılır. Orada, şehirli kız Carole'u bir köprüde şarkı söylerken görür.",
+          "release_date": "2019-04-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jHI8vNLvn2Lgy6MuLUnmIz0YRST.jpg",
+          "videos": [
+            {
+              "id": 551493,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64a1930d5165840b0e0f67fa",
+              "extra": "Stapimaz",
+              "fansub": "Stapimaz",
+              "fansub_id": 861,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 551496,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5186309",
+              "extra": "Stapimaz",
+              "fansub": "Stapimaz",
+              "fansub_id": 861,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199535,
+          "episode_number": 2,
+          "name": "Koşmak için Doğdu",
+          "description": "En iyi yapımcı Tao, müzik kariyeri için can atan Angela ile çalışmaya başlar. Carole ve Salı, şarkılarını prova etmek için gizlice bir konser salonuna girer.",
+          "release_date": "2019-04-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wuS06P43lTyXfSXi3GAqneuzSoG.jpg",
+          "videos": [
+            {
+              "id": 551502,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64a196435165840b0e0f67fb",
+              "extra": "Stapimaz",
+              "fansub": "Stapimaz",
+              "fansub_id": 861,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 551505,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5186327",
+              "extra": "Stapimaz",
+              "fansub": "Stapimaz",
+              "fansub_id": 861,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199536,
+          "episode_number": 3,
+          "name": "Ateş ve yağmur",
+          "description": "Carole ve Salı, biraz endişeyle Gus'ı menajerleri olarak almayı kabul eder. Onları ünlü DJ Ertegün'e sunmak için bir plan yapar.",
+          "release_date": "2019-04-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/y41kPiEb5cr57FitdNyBDTUhv8S.jpg",
+          "videos": [
+            {
+              "id": 551510,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64a19a055165840b0e0f67fc",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 551513,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5186351",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199537,
+          "episode_number": 4,
+          "name": "Video Radyo yıldızını öldürdü",
+          "description": "Gus'ın Carole ve Salı'ya büyük çıkışlarını sağlamak için bir sonraki planı bir müzik videosu yapmaktır. Tuhaf bir film yönetmenliği botu satın alır ve eski karısından yardım ister.",
+          "release_date": "2019-05-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oHT8uK6M5Y99T4TtcibFKkDEcq5.jpg",
+          "videos": [
+            {
+              "id": 551519,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64a19ba35165840b0e0f67fd",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 551522,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5186356",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199538,
+          "episode_number": 5,
+          "name": "Aldığın her nefes",
+          "description": "Salı günkü erkek kardeşi Spencer, onu aramak için Alba Şehri'ne gider. Gus Plan C'yi uyguluyor: teşhir için kıkırdamak! Bir barda tek şarkılık bir konserle başlayarak.",
+          "release_date": "2019-05-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/gJmlXM31hVWGqNsJv1zhEJWusjX.jpg",
+          "videos": [
+            {
+              "id": 551524,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64a19dcb5165840b0e0f67fe",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 551527,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5186360",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199539,
+          "episode_number": 6,
+          "name": "Hayat Bir Karnaval",
+          "description": "Gus bir şekilde Carole ve Salı'ya büyük bir festivalde ana sahnede bir konser ayarlar. İşin püf noktası: Bunlar ünlü, zorlu Joshua için bir yedek rol.",
+          "release_date": "2019-05-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lRvoJIX8vxVJDGGAgD9I9F7WuE3.jpg",
+          "videos": [
+            {
+              "id": 551532,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64a19f2a5165840b0e0f67ff",
+              "extra": "Hype & Glensow",
+              "fansub": "Hype",
+              "fansub_id": 1067,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 551535,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5186366",
+              "extra": "Hype & Glensow",
+              "fansub": "Hype",
+              "fansub_id": 1067,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199540,
+          "episode_number": 7,
+          "name": "Bana yolu göster",
+          "description": "Yeni medya başarısız olursa, eski moda gidin! Gus, Carole ve Salı'yı amatör şarkı söyleme programı Mars Brightest'e katılmaya ikna eder. Tao, Angela'yı da istiyor.",
+          "release_date": "2019-05-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xc8NZpNgrvCPclBNuCtsFjwE0pj.jpg",
+          "videos": [
+            {
+              "id": 551549,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64a1a08f5165840b0e0f6800",
+              "extra": "Hype & Glensow",
+              "fansub": "Hype",
+              "fansub_id": 1067,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 551552,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5186369",
+              "extra": "Hype & Glensow",
+              "fansub": "Hype",
+              "fansub_id": 1067,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199541,
+          "episode_number": 8,
+          "name": "Tüm genç kankalar",
+          "description": "İkili, Angela ve Cybelle adlı Salı mega hayranı ile birlikte Mars Brightest için kesim yapıyor. Şimdi ellerinden gelenin en iyisini yapmak zorundalar!",
+          "release_date": "2019-05-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zF1n5mDdVWO5nTRehNSAcYo4mS4.jpg",
+          "videos": [
+            {
+              "id": 551554,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64a1a2205165840b0e0f6801",
+              "extra": "Hype & Glensow",
+              "fansub": "Hype",
+              "fansub_id": 1067,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 551557,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5186373",
+              "extra": "Hype & Glensow",
+              "fansub": "Hype",
+              "fansub_id": 1067,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199542,
+          "episode_number": 9,
+          "name": "dans eden kraliçe",
+          "description": "Carole ve Salı izin günlerinde Mars Brightest yayınına katılırlar. Cybelle, Angela ile yüzleşmeden önce Salı günü şaşırtıcı bir istekte bulunur.",
+          "release_date": "2019-06-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wG2ag2B0a1ZVpISfCQc6Uw9VXXF.jpg",
+          "videos": [
+            {
+              "id": 551558,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64a1a3cb5165840b0e0f6802",
+              "extra": "Hype & Glensow",
+              "fansub": "Hype",
+              "fansub_id": 1067,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 551561,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5186380",
+              "extra": "Hype & Glensow",
+              "fansub": "Hype",
+              "fansub_id": 1067,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199543,
+          "episode_number": 10,
+          "name": "Nehir Derinliği, Dağ Yüksekliği",
+          "description": "Mars Brightest yarı finalleri, Ertegün'ün konuk jüri olmasıyla başlar. Tao, Angela'ya şarkısını değiştirmesini söyler ve Cybelle'in ziyareti Carole'ın şüphelerini artırır.",
+          "release_date": "2019-06-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/om0kLvscR7onH2OsxcV2ub7yMGJ.jpg",
+          "videos": []
+        },
+        {
+          "id": 199544,
+          "episode_number": 11,
+          "name": "Seninle ya da sensiz",
+          "description": "Salı yaralanmışken, o ve Carole çılgınca sadece piyanodan çalabilecekleri bir şarkı düşünmeye çalışırlar. Saldırı, kulislerde karşılıklı suçlamaları kışkırtır.",
+          "release_date": "2019-06-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9Z7qY5f5Wa9HfCxOYlbCCFMoHLv.jpg",
+          "videos": [
+            {
+              "id": 551562,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64a1a59c5165840b0e0f6803",
+              "extra": "Hype & PuffyTR",
+              "fansub": "Hype",
+              "fansub_id": 1067,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 551565,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5186387",
+              "extra": "Hype & PuffyTR",
+              "fansub": "Hype",
+              "fansub_id": 1067,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199545,
+          "episode_number": 12,
+          "name": "Daha yeni başladık",
+          "description": "Her şey kaybolmuş gibi görünüyor, ancak Gus, Carole'u pes etmemesi için cesaretlendiriyor. Finalden önce zaman daralırken bir kurtarma operasyonu başlatırlar.",
+          "release_date": "2019-06-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lZn5QN1WG7L2yETPLvsM1jUY7og.jpg",
+          "videos": [
+            {
+              "id": 551568,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64a1a6c45165840b0e0f6804",
+              "extra": "Hype & BAS 1C",
+              "fansub": "Hype",
+              "fansub_id": 1067,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 551571,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5186390",
+              "extra": "Hype & BAS 1C",
+              "fansub": "Hype",
+              "fansub_id": 1067,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199546,
+          "episode_number": 13,
+          "name": "Bu yoldan yürü",
+          "description": "Carole ve Salı anında bir sansasyon yaratıyor. Ancak şöhretin dezavantajları vardır ve kariyerlerinin bir sonraki aşamasında zorlu seçimlerle karşı karşıya kalırlar.",
+          "release_date": "2019-07-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/i7sssrX7IEk6CacV6svthn9gWWO.jpg",
+          "videos": [
+            {
+              "id": 551572,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64a1a8cd5165840b0e0f6805",
+              "extra": "Çeviri & Encode: LordOfTürk",
+              "fansub": "LordOfTürk",
+              "fansub_id": 274,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 551575,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5186396",
+              "extra": "Çeviri & Encode: LordOfTürk",
+              "fansub": "LordOfTürk",
+              "fansub_id": 274,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199547,
+          "episode_number": 14,
+          "name": "Çocuklar iyi",
+          "description": "Bağımsız olmak, insanları kendilerinin bulmak anlamına gelir. Gus, efsanevi ve çok tuhaf Tobe'yi ikiliyle çalışmaya ikna eder. Angela stüdyoya girer.",
+          "release_date": "2019-07-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/AaiyGFlZESiEF4SdALKR8cJKAAz.jpg",
+          "videos": [
+            {
+              "id": 551594,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64a1ad025165840b0e0f6808",
+              "extra": "Çeviri & Encode: LordOfTürk",
+              "fansub": "LordOfTürk",
+              "fansub_id": 274,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 551597,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5186411",
+              "extra": "Çeviri & Encode: LordOfTürk",
+              "fansub": "LordOfTürk",
+              "fansub_id": 274,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199548,
+          "episode_number": 15,
+          "name": "Sadece Tanrı bilir",
+          "description": "İlk single'ları yayınlandıktan sonra ikili, münzevi yaşayan bir efsaneden davet alır. Salı gününün annesi bir kampanya tartışması için sahneye çıkıyor.",
+          "release_date": "2019-08-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/hxvtsuLDznyVSClU3DRashtIv7z.jpg",
+          "videos": [
+            {
+              "id": 551601,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64a1b0d85165840b0e0f6809",
+              "extra": "Çeviri & Encode: LordOfTürk",
+              "fansub": "LordOfTürk",
+              "fansub_id": 274,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 551604,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5186418",
+              "extra": "Çeviri & Encode: LordOfTürk",
+              "fansub": "LordOfTürk",
+              "fansub_id": 274,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199549,
+          "episode_number": 16,
+          "name": "doğal bir kadın",
+          "description": "Tek listeler ve Gus South by Southwest oynayacaklarına karar verir. Bir gece provadan eve dönerken Carole'ın çocukluk idolü Flora ile tanışırlar.",
+          "release_date": "2019-08-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/t5G7CO1knckOtXDn3zIy6hr5aQH.jpg",
+          "videos": [
+            {
+              "id": 551576,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64a1aa635165840b0e0f6806",
+              "extra": "Çeviri & Encode: LordOfTürk",
+              "fansub": "LordOfTürk",
+              "fansub_id": 274,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 551579,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5186399",
+              "extra": "Çeviri & Encode: LordOfTürk",
+              "fansub": "LordOfTürk",
+              "fansub_id": 274,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199550,
+          "episode_number": 17,
+          "name": "Baş Üstü Topuklar",
+          "description": "Bir sabah Ertegün iflas etmiş olarak uyanır: Yapay zeka müdürü tüm parasını çalar ve ortadan kaybolur. Carole ve Salı stüdyoya girer ama Tobe mutlu değildir.",
+          "release_date": "2019-08-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/i9sOHMiPmsM19g6rIFBcOJq7WRk.jpg",
+          "videos": [
+            {
+              "id": 551583,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64a1ab5b5165840b0e0f6807",
+              "extra": "Çeviri & Encode: LordOfTürk",
+              "fansub": "LordOfTürk",
+              "fansub_id": 274,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 551586,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5186402",
+              "extra": "Çeviri & Encode: LordOfTürk",
+              "fansub": "LordOfTürk",
+              "fansub_id": 274,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199551,
+          "episode_number": 18,
+          "name": "Sadece aşk kalbini kırabilir",
+          "description": "Ertegün ve Tao bekarlığı yüzünden tartışırken, Angela bir takipçiyle baş etmeye çalışır. Salı, annesinin kampanyası kızışırken Kyle ile buluşur.",
+          "release_date": "2019-08-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fHEWNR9EcJMls2t1q1P0AyOKxNO.jpg",
+          "videos": [
+            {
+              "id": 551606,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64a1b2815165840b0e0f680a",
+              "extra": "Çeviri & Encode: LordOfTürk",
+              "fansub": "LordOfTürk",
+              "fansub_id": 274,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 551609,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5186419",
+              "extra": "Çeviri & Encode: LordOfTürk",
+              "fansub": "LordOfTürk",
+              "fansub_id": 274,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199552,
+          "episode_number": 19,
+          "name": "İnsanlar hazırlanıyor",
+          "description": "Dahlia ona her şeyi anlatınca Tao, Angela'nın takipçisini bulmayı teklif eder. Angela, Cydonia Festivali'nde sahne alırken işler doruğa ulaşır.",
+          "release_date": "2019-08-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/nuKRoNnzxOKYTwsqIRK2V0TCdmb.jpg",
+          "videos": [
+            {
+              "id": 551611,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64a1b44b5165840b0e0f680b",
+              "extra": "Çeviri & Encode: LordOfTürk",
+              "fansub": "LordOfTürk",
+              "fansub_id": 274,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 551614,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5186422",
+              "extra": "Çeviri & Encode: LordOfTürk",
+              "fansub": "LordOfTürk",
+              "fansub_id": 274,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199553,
+          "episode_number": 20,
+          "name": "Göçmen şarkısı",
+          "description": "Carole ve Salı, Mars Grammy adayları olarak performansları için prova yapmaya başlar. Tam Angela'nın kopyası tamamlanırken Tao kanunla ters düşer.",
+          "release_date": "2019-09-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/iZDep6TNTj3nTA53cMXbEZ54io3.jpg",
+          "videos": [
+            {
+              "id": 551617,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64a1b5d05165840b0e0f680c",
+              "extra": "Çeviri & Encode: LordOfTürk",
+              "fansub": "LordOfTürk",
+              "fansub_id": 274,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 551620,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5186428",
+              "extra": "Çeviri & Encode: LordOfTürk",
+              "fansub": "LordOfTürk",
+              "fansub_id": 274,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199554,
+          "episode_number": 21,
+          "name": "Çok geç",
+          "description": "Tao tutuklanıp annesi hastaneye kaldırıldığında, Angela yapayalnızdır. Carole ve Salı, albümlerini kapatacak bir şarkı bulmakta zorlanır.",
+          "release_date": "2019-09-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/87j2O6xyHlFwt8A9NeSz7P5Jo7W.jpg",
+          "videos": [
+            {
+              "id": 551623,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64a1b6f65165840b0e0f680d",
+              "extra": "Hype",
+              "fansub": "Hype",
+              "fansub_id": 1067,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 551626,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5186433",
+              "extra": "Hype",
+              "fansub": "Hype",
+              "fansub_id": 1067,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199555,
+          "episode_number": 22,
+          "name": "Tıpkı cennet gibi",
+          "description": "Crystal'den gelen bir öneri, ikiliye Grammy performansları için yeni bir şarkı yazmaları için ilham verir. Dahlia'nın durumu, Angela'nın katılımını şüpheye düşürür.",
+          "release_date": "2019-09-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2TwnS3yqgEOpvzbIFxxudQd6nem.jpg",
+          "videos": [
+            {
+              "id": 551629,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64a1b9365165840b0e0f680e",
+              "extra": "Hype",
+              "fansub": "Hype",
+              "fansub_id": 1067,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 551632,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5186452",
+              "extra": "Hype",
+              "fansub": "Hype",
+              "fansub_id": 1067,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199556,
+          "episode_number": 23,
+          "name": "İnanmayı Durdurma",
+          "description": "Skip tutuklandıktan sonra ikili ve sektördeki meslektaşları, Valerie'nin politikalarına karşı çıkan bir süper grup şarkısı yaratmaya karar verir. Tao hala serbest.",
+          "release_date": "2019-09-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/6eF11wUPZfm4YHbQUAmm6muZ8mJ.jpg",
+          "videos": [
+            {
+              "id": 551634,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64a1ba8b5165840b0e0f680f",
+              "extra": "Hype",
+              "fansub": "Hype",
+              "fansub_id": 1067,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 551637,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5186463",
+              "extra": "Hype",
+              "fansub": "Hype",
+              "fansub_id": 1067,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 199557,
+          "episode_number": 24,
+          "name": "Bir Değişim Gelecek",
+          "description": "Tao, Angela'ya gerçeği söylüyor gibi görünüyor. Carole & Tuesday'in ilk albümü bittiğinde, süper grup performansı Yılbaşı gecesi için planlanıyor.",
+          "release_date": "2019-10-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aL9AyDLPGLtxdS5Mru3XH41jeNU.jpg",
+          "videos": [
+            {
+              "id": 551649,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64a1bc6b5165840b0e0f6810",
+              "extra": "Hype",
+              "fansub": "Hype",
+              "fansub_id": 1067,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 551652,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5186469",
+              "extra": "Hype",
+              "fansub": "Hype",
+              "fansub_id": 1067,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

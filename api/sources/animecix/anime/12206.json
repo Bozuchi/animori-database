@@ -1,0 +1,137 @@
+{
+  "id": 12206,
+  "name": "Shingeki no Kyojin Movie: The Last Attack",
+  "name_english": "Attack on Titan: THE LAST ATTACK",
+  "name_romanji": "Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa",
+  "original_title": "劇場版「進撃の巨人」完結編 THE LAST ATTACK",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2024,
+  "release_date": "2025-04-23",
+  "description": "Attack on Titan'ın son iki bölümü olan filmlerin filmidir. Surların ötesine geçtikten ve yoldaşlarından ayrıldıktan sonra Eren, bu yeni gerçeklerden ilham alarak, dünyadaki her canlıyı yok etmek için korkunç bir plan olan “İzdihamı” tasarlar. Dünyanın kaderi dengede dururken, Eren'in eski yoldaşları ve düşmanlarından oluşan rengarenk bir ekip, onun ölümcül görevini durdurmak için çabalar. Tek soru, onu durdurabilecekler mi?",
+  "poster": "https://image.tmdb.org/t/p/original/wgwldDDlTDDMrluOMkpSA8lyKjv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/6mAQZs6cRn9zVt2a1kRxOUKkB0.jpg",
+  "rating": 8.5,
+  "vote_count": 36,
+  "genres": [
+    3,
+    12,
+    14,
+    13
+  ],
+  "tmdb_id": 1333100,
+  "mal_id": 59571,
+  "anilist_id": null,
+  "imdb_id": "tt33175825",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 5848,
+      "season_number": 1,
+      "name": "",
+      "episode_count": 1,
+      "episodes": [
+        {
+          "id": 234501,
+          "episode_number": 1,
+          "name": "Son Saldırı",
+          "description": "",
+          "release_date": "2025-04-23T04:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/a4It6nWFmGw6P76B67FZndaecXS.jpg",
+          "videos": [
+            {
+              "id": 716199,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68083c1d560e2c5569b02b7c",
+              "extra": "lelistona",
+              "fansub": "lelistona",
+              "fansub_id": 1170,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 723966,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/687dbbf971f7c699c1d7ea80",
+              "extra": "Çeviri: Nisan / Encode: Kingsama",
+              "fansub": "Nisan",
+              "fansub_id": 297,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716200,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/yexxi6sd5bh8",
+              "extra": "lelistona",
+              "fansub": "lelistona",
+              "fansub_id": 1170,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716592,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1le8EVsw5RJ0EwHQHSyxbIZJanXLMakZO/preview",
+              "extra": "Çeviri: Nisan Encode: Kingsama",
+              "fansub": "Nisan",
+              "fansub_id": 297,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716593,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/8880930425375",
+              "extra": "Çeviri: Nisan Encode: Kingsama",
+              "fansub": "Nisan",
+              "fansub_id": 297,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716598,
+              "player": "VIDMOLY",
+              "url": "http://vidmoly.to/embed-l878k7lqgnkx.html",
+              "extra": "Çeviri: Nisan Encode: Kingsama",
+              "fansub": "Nisan",
+              "fansub_id": 297,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 716601,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/swbvr56kzhgp",
+              "extra": "Çeviri: Nisan Encode: Kingsama",
+              "fansub": "Nisan",
+              "fansub_id": 297,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 717251,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/rlr9hj1zon9r",
+              "extra": "Çeviri: Nisan / Encode: Kingsama",
+              "fansub": "Nisan",
+              "fansub_id": 297,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 723967,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/uqadae5g9qyw",
+              "extra": "Çeviri: Nisan / Encode: Kingsama",
+              "fansub": "Nisan",
+              "fansub_id": 297,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

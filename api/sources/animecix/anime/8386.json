@@ -1,0 +1,532 @@
+{
+  "id": 8386,
+  "name": "Getsuyoubi no Tawawa",
+  "name_english": "Tawawa on Monday",
+  "name_romanji": "Tawawa on Monday",
+  "original_title": "月曜日のたわわ",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2016,
+  "release_date": "2016-10-09",
+  "description": "The anime follows a salaryman who has a chance meeting with a girl named Ai on the train. They begin to meet every Monday on the train, with the man serving as her bodyguard on the crowded commute while they chat.",
+  "poster": "https://image.tmdb.org/t/p/original/8El663tdtQUxULLx3iBQMlb3FsO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3NA9fIXtucj5zF2y0oQvN2Of29y.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    4
+  ],
+  "tmdb_id": 68455,
+  "mal_id": 34213,
+  "anilist_id": 0,
+  "imdb_id": "tt6153026",
+  "season_count": 2,
+  "seasons": [
+    {
+      "id": 1835,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 143014,
+          "episode_number": 1,
+          "name": "1-12 Bütün Bölümler",
+          "description": null,
+          "release_date": "2016-10-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/yvFiRySZnG8ryNb0Bfcr1aIiJh6.jpg",
+          "videos": [
+            {
+              "id": 572693,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c90b6150004a84d703e333",
+              "extra": "OmC43 / Orange Heart",
+              "fansub": "OmC43",
+              "fansub_id": 752,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 572696,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5215170",
+              "extra": "OmC43 / Orange Heart",
+              "fansub": "OmC43",
+              "fansub_id": 752,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 143015,
+          "episode_number": 2,
+          "name": "Güvenilir Ancak Sakar Bir Genç",
+          "description": "",
+          "release_date": "2016-10-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/soXQ9oGEeQGFEO0jNNhHj572hKT.jpg",
+          "videos": []
+        },
+        {
+          "id": 143016,
+          "episode_number": 3,
+          "name": "Tavava Sporları",
+          "description": "",
+          "release_date": "2016-10-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ayazR78V5RYZYj6vjTTLEFvwqEB.jpg",
+          "videos": []
+        },
+        {
+          "id": 143017,
+          "episode_number": 4,
+          "name": "mavi pazartesi meleği",
+          "description": "",
+          "release_date": "2016-10-31T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/elkU83p4Cusn5XtRUtvAS5xwBW2.jpg",
+          "videos": []
+        },
+        {
+          "id": 143018,
+          "episode_number": 5,
+          "name": "Yapay Zeka ve Önemli Check-Up",
+          "description": "",
+          "release_date": "2016-11-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/z7DW9YytVN9mB8CtC7w3w4l5ZNN.jpg",
+          "videos": []
+        },
+        {
+          "id": 143019,
+          "episode_number": 6,
+          "name": "O kadar da yenilmez Junior",
+          "description": "",
+          "release_date": "2016-11-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/X9RrF5V6Ub0JbGsdGIFS7VLojB.jpg",
+          "videos": []
+        },
+        {
+          "id": 143020,
+          "episode_number": 7,
+          "name": "AI ve Yaz Hafızası",
+          "description": "",
+          "release_date": "2016-11-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/h3cuHMBF1V3dPJcGZF2jk5CzYtU.jpg",
+          "videos": []
+        },
+        {
+          "id": 143021,
+          "episode_number": 8,
+          "name": "En Etkili Sakinleştirici",
+          "description": "",
+          "release_date": "2016-11-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/mdBzXxPwb8oGUWkAXqOYYRSSc6s.jpg",
+          "videos": []
+        },
+        {
+          "id": 143022,
+          "episode_number": 9,
+          "name": "Ai-chan ve Fırın Üniforması",
+          "description": "",
+          "release_date": "2016-12-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vKl69PUj3zmfpPvHziD9QNiCH4w.jpg",
+          "videos": []
+        },
+        {
+          "id": 143023,
+          "episode_number": 10,
+          "name": "Ai-chan ve Maraton Savaşı",
+          "description": "",
+          "release_date": "2016-12-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4vJrSufFx49pAvf4jLPs5h7C5t5.jpg",
+          "videos": []
+        },
+        {
+          "id": 143024,
+          "episode_number": 11,
+          "name": "Onu Ergenlik Döneminde Görmeyi Nasıl Tamamen Özlediğini Pişmanlıkla Hatırlamak",
+          "description": "",
+          "release_date": "2016-12-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pvA883ivQnp7fN54uBiENZSiJCT.jpg",
+          "videos": []
+        },
+        {
+          "id": 143025,
+          "episode_number": 12,
+          "name": "Ai-chan ve Yetişkinliğe Giden Merdivenler",
+          "description": "",
+          "release_date": "2016-12-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/n0tf7TPabbiKajUOOtpCMz2RzC3.jpg",
+          "videos": []
+        }
+      ]
+    },
+    {
+      "id": 3538,
+      "season_number": 2,
+      "name": "Season 2",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 169431,
+          "episode_number": 1,
+          "name": "Bölüm 1",
+          "description": "Ai-chan, Pazartesi sabahı hüznünü atmak için özel bir muamele ile geri döndü!",
+          "release_date": "2021-09-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fPFAZ06yhxDpHVCpOsW0UKMe8Rs.jpg",
+          "videos": [
+            {
+              "id": 575024,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64ccf44ba3ed279cb3f7df9e",
+              "extra": "Çeviri: kflm2014 / Redakte: Shauna / Encode:ᴇɪɴʜᴇʀᴊᴀʀ",
+              "fansub": "kflm2014",
+              "fansub_id": 1564,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 575025,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5218414",
+              "extra": "Çeviri: kflm2014 / Redakte: Shauna / Encode:ᴇɪɴʜᴇʀᴊᴀʀ",
+              "fansub": "kflm2014",
+              "fansub_id": 1564,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 169432,
+          "episode_number": 2,
+          "name": "Bölüm 2",
+          "description": "Sizi seven inanılmaz oranlarda bir kızınız olsaydı, lise hayatınız nasıl farklı olurdu?",
+          "release_date": "2021-09-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2OYeXxRIelaRI3eIMgAUsqpCR4r.jpg",
+          "videos": [
+            {
+              "id": 575022,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64ccf523a3ed279cb3f7df9f",
+              "extra": "Çeviri: kflm2014 / Redakte: Shauna / Encode:ᴇɪɴʜᴇʀᴊᴀʀ",
+              "fansub": "kflm2014",
+              "fansub_id": 1564,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 575023,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5218416",
+              "extra": "Çeviri: kflm2014 / Redakte: Shauna / Encode:ᴇɪɴʜᴇʀᴊᴀʀ",
+              "fansub": "kflm2014",
+              "fansub_id": 1564,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 169433,
+          "episode_number": 3,
+          "name": "3. Bölüm",
+          "description": "Senpai ve küçüğü güneye doğru bir geziye çıkarlar, ancak havaalanında aşırı dolu bir sorunla karşılaşırlar!",
+          "release_date": "2021-10-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fbwQHZljifBO8jwOtXdH1p0VoOz.jpg",
+          "videos": [
+            {
+              "id": 575213,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64cd4c3a696168264d5dd70a",
+              "extra": "eicfansub",
+              "fansub": "eicfansub",
+              "fansub_id": 1565,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 575216,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5218756",
+              "extra": "eicfansub",
+              "fansub": "eicfansub",
+              "fansub_id": 1565,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 169434,
+          "episode_number": 4,
+          "name": "4. Bölüm",
+          "description": "Kız arkadaşınla seksi bir mayo giydiği zamandan daha iyi vakit geçirmenin yolu nedir? Ama ya bu, diğer erkeklerin de ona bakması anlamına gelirse?",
+          "release_date": "2021-10-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/iGLzB7Shz5YVtM7NI5XST79TDGv.jpg",
+          "videos": [
+            {
+              "id": 575219,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64cd4e0b696168264d5dd70b",
+              "extra": "eicfansub",
+              "fansub": "eicfansub",
+              "fansub_id": 1565,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 575222,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5218777",
+              "extra": "eicfansub",
+              "fansub": "eicfansub",
+              "fansub_id": 1565,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 169435,
+          "episode_number": 5,
+          "name": "5. Bölüm",
+          "description": "Ai-chan taşrada yaşamanın keyfini yaşamaya giderken Pazartesi günü Tawawa ile çiftliğe bir geziye çıkın.",
+          "release_date": "2021-10-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bvoT33JKUtHH0s6yfPlxr9WUqGq.jpg",
+          "videos": [
+            {
+              "id": 575228,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64cd4f81696168264d5dd70c",
+              "extra": "eicfansub",
+              "fansub": "eicfansub",
+              "fansub_id": 1565,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 575231,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5218784",
+              "extra": "eicfansub",
+              "fansub": "eicfansub",
+              "fansub_id": 1565,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 169436,
+          "episode_number": 6,
+          "name": "6. Bölüm",
+          "description": "Soruyu zengin eski öğrencisine soran Sensei'nin hayatı sonsuza kadar değişmek üzeredir.",
+          "release_date": "2021-10-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/odThYsu8EkXdWsrlOfsWolfVuUI.jpg",
+          "videos": [
+            {
+              "id": 575233,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64cd52b9696168264d5dd70d",
+              "extra": "eicfansub",
+              "fansub": "eicfansub",
+              "fansub_id": 1565,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 575236,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5218811",
+              "extra": "eicfansub",
+              "fansub": "eicfansub",
+              "fansub_id": 1565,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 169437,
+          "episode_number": 7,
+          "name": "7. Bölüm",
+          "description": "Apartman kompleksine yeni bir çift taşınmıştır ve karısının sütyeni çamaşır ipinden verandaya düştüğünde, onları daha yakından tanımanın zamanı gelmiştir!",
+          "release_date": "2021-11-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/5lcw2FMS2wXBA7hEdFKvznELAeB.jpg",
+          "videos": [
+            {
+              "id": 575238,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64cd54cf696168264d5dd70e",
+              "extra": "eicfansub",
+              "fansub": "eicfansub",
+              "fansub_id": 1565,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 575241,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5218831",
+              "extra": "eicfansub",
+              "fansub": "eicfansub",
+              "fansub_id": 1565,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 169438,
+          "episode_number": 8,
+          "name": "8. Bölüm",
+          "description": "Senpai'nin küçüğünün gizli bir hobisi var ve kameralar onu iş üstünde yakaladı!",
+          "release_date": "2021-11-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aMiBgOTLo5omhmm6qwDC2dCgtwB.jpg",
+          "videos": [
+            {
+              "id": 575242,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64cd56c5696168264d5dd70f",
+              "extra": "eicfansub",
+              "fansub": "eicfansub",
+              "fansub_id": 1565,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 575245,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5218849",
+              "extra": "eicfansub",
+              "fansub": "eicfansub",
+              "fansub_id": 1565,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 169439,
+          "episode_number": 9,
+          "name": "9. Bölüm",
+          "description": "Açık hava banyolarının ve titreşimli masaj koltuklarının sizi beklediği kaplıcalara gidiyoruz! Ve elbette, zıplayan tek şey pinpon topları değil!",
+          "release_date": "2021-11-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lZc6BeH722Wis1lbmZ6lMWTT3dB.jpg",
+          "videos": [
+            {
+              "id": 575247,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64cd5960696168264d5dd710",
+              "extra": "eicfansub",
+              "fansub": "eicfansub",
+              "fansub_id": 1565,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 575251,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5218863",
+              "extra": "eicfansub",
+              "fansub": "eicfansub",
+              "fansub_id": 1565,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 169440,
+          "episode_number": 10,
+          "name": "10. Bölüm",
+          "description": "Ne yazık ki onu gazetelere çıkardıktan sonra, amigo kızın erkek arkadaşına bunu telafi etmenin özel bir yolu var.",
+          "release_date": "2021-11-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fFD8nGdjynfX2AR1ep5rMM8XggR.jpg",
+          "videos": [
+            {
+              "id": 575258,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64cd5bdc696168264d5dd711",
+              "extra": "eicfansub",
+              "fansub": "eicfansub",
+              "fansub_id": 1565,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 575261,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5218868",
+              "extra": "eicfansub",
+              "fansub": "eicfansub",
+              "fansub_id": 1565,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 169441,
+          "episode_number": 11,
+          "name": "11. Bölüm",
+          "description": "Sütyeni kırılınca Ai'nin başı büyük belaya girer ve yeni, daha büyük bir sutyen almak için alışverişe gitmesi gerekir.",
+          "release_date": "2021-11-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wjmVMTXpjGqjinkIcPUKKpWZGJm.jpg",
+          "videos": [
+            {
+              "id": 575264,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64cd5e47696168264d5dd712",
+              "extra": "eicfansub",
+              "fansub": "eicfansub",
+              "fansub_id": 1565,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 575267,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5218880",
+              "extra": "eicfansub",
+              "fansub": "eicfansub",
+              "fansub_id": 1565,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 169442,
+          "episode_number": 12,
+          "name": "12. Bölüm",
+          "description": "Büyük düğünün olduğu gün ve sergilenecek başka birçok büyük şey de var!",
+          "release_date": "2021-12-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sPNgtLj3ZqiGEwVlYlQp9GKJKhp.jpg",
+          "videos": [
+            {
+              "id": 575268,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64cd6075696168264d5dd713",
+              "extra": "eicfansub",
+              "fansub": "eicfansub",
+              "fansub_id": 1565,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 575271,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5218888",
+              "extra": "eicfansub",
+              "fansub": "eicfansub",
+              "fansub_id": 1565,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

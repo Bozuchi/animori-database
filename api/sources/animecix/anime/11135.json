@@ -1,0 +1,996 @@
+{
+  "id": 11135,
+  "name": "Hametsu no Oukoku",
+  "name_english": "The Kingdoms of Ruin",
+  "name_romanji": "Hametsu no Oukoku",
+  "original_title": "はめつのおうこく",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2023,
+  "release_date": "2023-08-13",
+  "description": "İnsanlık uzun süre cadılarla uyum içinde yaşadı, ancak gelişmiş bir bilimsel devrim cadının güçlerini gereksiz kıldı. Kızgınlık ve korkuya yenik düşen dünyanın en büyük ulusu acımasız bir cadı avı başlatır ve ülkedeki tüm cadıları ortadan kaldırır. Bir cadının çırağı olan Adonis, sevgili öğretmeninin ölümünü izlemek zorunda kaldıktan sonra, her şeyini elinden alan imparatorluktan intikam almaya yemin eder.",
+  "poster": "https://image.tmdb.org/t/p/original/uHSFGSZFR1VH3nG5x48gImWePeL.jpg",
+  "backdrop": "https://static.animecorner.me/2023/02/kingdoms-of-ruin.png",
+  "rating": null,
+  "vote_count": null,
+  "genres": [
+    6,
+    2,
+    1
+  ],
+  "tmdb_id": 219673,
+  "mal_id": 54362,
+  "anilist_id": 0,
+  "imdb_id": null,
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 4727,
+      "season_number": 1,
+      "name": null,
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 201521,
+          "episode_number": 1,
+          "name": null,
+          "description": null,
+          "release_date": "2023-10-07T11:33:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/iG2qtp6r5HFPakBAD17Kx5ysmT8.jpg",
+          "videos": [
+            {
+              "id": 601388,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/653e20d2da9c80558554870d",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 601316,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5300536",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 601317,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5300537",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 601393,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5300849",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 601315,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1YSuWNtfyPeFN9rUW2TmRq69JwjQ5o21w/preview",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 601321,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6310018157309",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 601329,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6310019009277",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 203976,
+          "episode_number": 2,
+          "name": null,
+          "description": null,
+          "release_date": "2023-10-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ax8ePIBGZCYhupvuGbtmqekuoo0.jpg",
+          "videos": [
+            {
+              "id": 601381,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/653e1eb8da9c80558554870c",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 601339,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5300538",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 601340,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5300539",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 601387,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5300841",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 601338,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1yP1AOy_ByxGeO3rwCdCs0CxriSZF7GgI/preview",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 601344,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6310019861245",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 601352,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6310020778749",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 203977,
+          "episode_number": 3,
+          "name": null,
+          "description": null,
+          "release_date": "2023-10-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/PqUL9Rlu0O6goZWkTj7HXXDUKf.jpg",
+          "videos": [
+            {
+              "id": 602005,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65429b90da9c805585548739",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 601941,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5304892",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 601942,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5304893",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 602011,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5304977",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 601940,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1Ac8zdnp09ZPIgX2rcCu6pAeMYM0GevyV/preview",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 601946,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6322140416765",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 601954,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6322144283389",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 203978,
+          "episode_number": 4,
+          "name": null,
+          "description": null,
+          "release_date": "2023-10-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/etT3EYdRyhVz9L7qr9bQfbvCtma.jpg",
+          "videos": [
+            {
+              "id": 601998,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/654299b5da9c805585548738",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 601966,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5304894",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 601967,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5304895",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 602004,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5304951",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 601965,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1tRNWv9rOC-A4gKVXKEnhQC90-s0Lk0rU/preview",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 601971,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6322147560189",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 601979,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6322150968061",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 203979,
+          "episode_number": 5,
+          "name": null,
+          "description": null,
+          "release_date": "2023-11-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wgO4uACzLsWzPNoE4QyymE4vdtO.jpg",
+          "videos": [
+            {
+              "id": 602514,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65460edc30e908b3e8e71e86",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 602492,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5307425",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 602493,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5307426",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 602520,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5307712",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 602491,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/17NV5G7DBZQ5KiPplRGSj-qG7xfXxCrGw/preview",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 602496,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6328563927805",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 602503,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6328565172989",
+              "extra": "Nova & chihiro",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 203980,
+          "episode_number": 6,
+          "name": null,
+          "description": null,
+          "release_date": "2023-11-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wyHvVCL62lAGNBM4Uz7mkWxfXgq.jpg",
+          "videos": [
+            {
+              "id": 609849,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6568dd5530e908b3e8e720de",
+              "extra": "Nova & Roxe",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609664,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5345624",
+              "extra": "Nova & Roxe",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609665,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5345625",
+              "extra": "Nova & Roxe",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609855,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5345872",
+              "extra": "Nova & Roxe",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609663,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1U-F7AV15-Tj0NRz6dN9qhlsgj--f9dSr/preview",
+              "extra": "Nova & Roxe",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609673,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6409089452797",
+              "extra": "Nova & Roxe",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609678,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6409091877629",
+              "extra": "Nova & Roxe",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 203981,
+          "episode_number": 7,
+          "name": null,
+          "description": null,
+          "release_date": "2023-11-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/a1N5RDvU8Qsf4nham7V1QCJRmBY.jpg",
+          "videos": [
+            {
+              "id": 609842,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6568dbf030e908b3e8e720dd",
+              "extra": "Nova & Roxe",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609684,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5345626",
+              "extra": "Nova & Roxe",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609685,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5345627",
+              "extra": "Nova & Roxe",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609848,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5345861",
+              "extra": "Nova & Roxe",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609683,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1ZbxygA0btJzx08gOZnMqOnWba2ZfP1aA/preview",
+              "extra": "Nova & Roxe",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609693,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6409093974781",
+              "extra": "Nova & Roxe",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609699,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6409095940861",
+              "extra": "Nova & Roxe",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 203982,
+          "episode_number": 8,
+          "name": null,
+          "description": null,
+          "release_date": "2023-11-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/uQGk9q9l6dHSXkjlCpBVc8CSY8e.jpg",
+          "videos": [
+            {
+              "id": 609835,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6568d9fada9c8055855489d0",
+              "extra": "Nova & Roxe",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609705,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5345628",
+              "extra": "Nova & Roxe",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609706,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5345629",
+              "extra": "Nova & Roxe",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609841,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5345847",
+              "extra": "Nova & Roxe",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609704,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1EVV-5kbEPBvV3T3u_kLg-qIxjerPLISE/preview",
+              "extra": "Nova & Roxe",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609714,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6409097448189",
+              "extra": "Nova & Roxe",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 609720,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6409100659453",
+              "extra": "Nova & Roxe",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 203983,
+          "episode_number": 9,
+          "name": null,
+          "description": null,
+          "release_date": "2023-12-01T21:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/re5hEDiBqA0qWR3tjf4dIc8MoIf.jpg",
+          "videos": [
+            {
+              "id": 610157,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/656afc75da9c8055855489db",
+              "extra": "Nova",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 610130,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5347258",
+              "extra": "Nova",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 610131,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5347259",
+              "extra": "Nova",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 610163,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5347559",
+              "extra": "Nova",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 610129,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1CmYZG6fnLbEFhk4FA_zitGbsOrifdpiT/preview",
+              "extra": "Nova",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 610135,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6412861377277",
+              "extra": "Nova",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 610141,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6412861573885",
+              "extra": "Nova",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 203984,
+          "episode_number": 10,
+          "name": null,
+          "description": null,
+          "release_date": "2023-12-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vxmUBdP1P4Cce6pAuJ32x0DBLx6.jpg",
+          "videos": [
+            {
+              "id": 612698,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/657773abda9c805585548ad2",
+              "extra": "Nova",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 612678,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5361014",
+              "extra": "Nova",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 612679,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5361015",
+              "extra": "Nova",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 612703,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5361030",
+              "extra": "Nova",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 612677,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1Xm48ErxuEWFtnLVHFj-i7tlpK4atE8Hd/preview",
+              "extra": "Nova",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 612683,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6443564403453",
+              "extra": "Nova",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 612689,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6443567221501",
+              "extra": "Nova",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 203985,
+          "episode_number": 11,
+          "name": null,
+          "description": null,
+          "release_date": "2023-12-15T21:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/suojO5kZjAxX6j6uS0XbcdqSIL0.jpg",
+          "videos": [
+            {
+              "id": 613469,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/657eb30a30e908b3e8e7223b",
+              "extra": "Nova",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 613429,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5366843",
+              "extra": "Nova",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 613430,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5366844",
+              "extra": "Nova",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 613474,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5367069",
+              "extra": "Nova",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 613428,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1RuarxWTTpEpdi-687m4O5SN92wT9GWmH/preview",
+              "extra": "Nova",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 613434,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6459562724093",
+              "extra": "Nova",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 613440,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6459563444989",
+              "extra": "Nova",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 203986,
+          "episode_number": 12,
+          "name": null,
+          "description": null,
+          "release_date": "2023-12-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bJx10S8HnKdwYlGqgCCsx7p5F1t.jpg",
+          "videos": [
+            {
+              "id": 614784,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65876cc9da9c805585548b7e",
+              "extra": "Nova",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 614764,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5374848",
+              "extra": "Nova",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 614765,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5374847",
+              "extra": "Nova",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 614789,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5374878",
+              "extra": "Nova",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 614763,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1oYbOVsszfa3PSyooAb58UZd-Xz5pG4bl/preview",
+              "extra": "Nova",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 614769,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6481753869053",
+              "extra": "Nova",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 614775,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6481754852093",
+              "extra": "Nova",
+              "fansub": "Nova",
+              "fansub_id": 17,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

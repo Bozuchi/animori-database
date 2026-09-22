@@ -1,0 +1,859 @@
+{
+  "id": 11624,
+  "name": "Rainy Cocoa",
+  "name_english": "Rainy Cocoa",
+  "name_romanji": "Ame-iro Cocoa",
+  "original_title": "雨色ココア",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2015,
+  "release_date": "Sun Apr 05 2015 00:00:00 GMT+0000 (Coordinated Universal Time)",
+  "description": "Aoi ani bir yağmur fırtınasından sırılsıklam olur ve personelin sıcaklığının servis ettiği tatlı sıcak kakaoyu tamamladığı rahat bir kafe olan Rainy Color'a sığınır. Kafede bir işe girdiğinde her şeyin nihayet düzeldiğini hisseder; ta ki trende bakmaktan kendini alamadığı Keiichi Iwase ortaya çıkana kadar.",
+  "poster": "https://image.tmdb.org/t/p/original/sZpWrJl0Yg4ogd92M2lrrLsNRrU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/y106aFMcHV8yHvxwya0oWL5gh6y.jpg",
+  "rating": 5,
+  "vote_count": 13,
+  "genres": [
+    3,
+    4
+  ],
+  "tmdb_id": 68482,
+  "mal_id": 28981,
+  "anilist_id": null,
+  "imdb_id": "tt5821698",
+  "season_count": 5,
+  "seasons": [
+    {
+      "id": 5267,
+      "season_number": 1,
+      "name": null,
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 215025,
+          "episode_number": 1,
+          "name": "1. Bölüm",
+          "description": "Aoi Tokura, Rainy Color kafede yeni bir yarı zamanlı çalışandır. Ayrıca etrafı renkli bir iş arkadaşıyla çevrili.",
+          "release_date": "2015-04-05T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 667730,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66b47cf46bc8968f6aad40f2",
+              "extra": "Syo / http://www.puzzlesubs.com",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 667733,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5626220",
+              "extra": "Syo / http://www.puzzlesubs.com",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 215026,
+          "episode_number": 2,
+          "name": "2. Bölüm",
+          "description": "Sahibi Kouji her zaman kayıp ya da şaka yapıyor. Bütün gün tam olarak ne yapıyor?",
+          "release_date": "2015-04-12T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 667734,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66b47d696bc8968f6aad40f3",
+              "extra": "Syo / http://www.puzzlesubs.com",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 667737,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5626223",
+              "extra": "Syo / http://www.puzzlesubs.com",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 215027,
+          "episode_number": 3,
+          "name": "3. Bölüm",
+          "description": "Adamlar dükkanın açılmasına yardım ederken Keiichi dijital bir manganın dikkatini dağıttığını fark eder.",
+          "release_date": "2015-04-19T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 667738,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66b47ddf6bc8968f6aad40f4",
+              "extra": "Syo / http://www.puzzlesubs.com",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 667741,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5626227",
+              "extra": "Syo / http://www.puzzlesubs.com",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 215028,
+          "episode_number": 4,
+          "name": "4.Bölüm",
+          "description": "Keiichi'nin iyi tarafına geçmenin bir sırrı var mı? Rain cevabı bulmuş olabilir.",
+          "release_date": "2015-04-26T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 667742,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66b47e546bc8968f6aad40f5",
+              "extra": "Syo / http://www.puzzlesubs.com",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 667745,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5626236",
+              "extra": "Syo / http://www.puzzlesubs.com",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 215029,
+          "episode_number": 5,
+          "name": "5.Bölüm",
+          "description": "Tamamen farklı kişiliklere sahip olmasına rağmen Ryouta'nın kendisi ve Keiichi için büyük planları vardır.",
+          "release_date": "2015-05-03T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 667746,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66b47ecf6bc8968f6aad40f6",
+              "extra": "Syo / http://www.puzzlesubs.com",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 667749,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5626241",
+              "extra": "Syo / http://www.puzzlesubs.com",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 215030,
+          "episode_number": 6,
+          "name": "6.Bölüm",
+          "description": "Aoi kız olarak adlandırılmaya alışkındır ama diğerleri bu konuda ne düşünüyor?",
+          "release_date": "2015-05-10T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 667750,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66b47f456bc8968f6aad40f7",
+              "extra": "Syo / http://www.puzzlesubs.com",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 667753,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5626246",
+              "extra": "Syo / http://www.puzzlesubs.com",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 215031,
+          "episode_number": 7,
+          "name": null,
+          "description": "Ryouta, Keiichi ve Aoi'nin küçük yanlış anlamasını çözmek için devreye girer.",
+          "release_date": "2015-05-17T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 667754,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66b47fbb6bc8968f6aad40f8",
+              "extra": "Syo / http://www.puzzlesubs.com",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 667757,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5626252",
+              "extra": "Syo / http://www.puzzlesubs.com",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 215032,
+          "episode_number": 8,
+          "name": null,
+          "description": "Ryouta, Keiichi'yi Aoi'yi affetmesi için \"tatlı konuşmaya\" çalışır.",
+          "release_date": "2015-05-24T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 667758,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66b480306bc8968f6aad40f9",
+              "extra": "Syo / http://www.puzzlesubs.com",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 667761,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5626257",
+              "extra": "Syo / http://www.puzzlesubs.com",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 215033,
+          "episode_number": 9,
+          "name": null,
+          "description": "Keiichi ve Aoi, aralarındaki anlaşmazlıkla ilgili yararlı tavsiyeler alır.",
+          "release_date": "2015-05-31T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 667766,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66b481a06bc8968f6aad40fb",
+              "extra": "Syo / http://www.puzzlesubs.com",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 667769,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5626276",
+              "extra": "Syo / http://www.puzzlesubs.com",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 215034,
+          "episode_number": 10,
+          "name": null,
+          "description": "Kafede geçirilen yavaş bir günde Shion ve Aoi ilişkiler hakkında konuşur.",
+          "release_date": "2015-06-07T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 667770,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66b482176bc8968f6aad40fc",
+              "extra": "Syo / http://www.puzzlesubs.com",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 667773,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5626281",
+              "extra": "Syo / http://www.puzzlesubs.com",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 215035,
+          "episode_number": 11,
+          "name": null,
+          "description": "Aoi ve Keiichi konuşmak ister ama birbirlerini bulamazlar.",
+          "release_date": "2015-06-14T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 667778,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66b4835f6bc8968f6aad40fe",
+              "extra": "Syo / http://www.puzzlesubs.com",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 667781,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5626295",
+              "extra": "Syo / http://www.puzzlesubs.com",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 215036,
+          "episode_number": 12,
+          "name": null,
+          "description": "Herkes bir araya gelir ve Aoi ile Keiichi sonunda birbirlerini anlar.",
+          "release_date": "2015-06-21T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 667782,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66b483d56bc8968f6aad40ff",
+              "extra": "Syo / http://www.puzzlesubs.com",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 667785,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5626299",
+              "extra": "Syo / http://www.puzzlesubs.com",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5268,
+      "season_number": 2,
+      "name": null,
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 215037,
+          "episode_number": 1,
+          "name": "1. Bölüm",
+          "description": null,
+          "release_date": "2015-10-04T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215038,
+          "episode_number": 2,
+          "name": "2. Bölüm",
+          "description": null,
+          "release_date": "2015-10-11T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215039,
+          "episode_number": 3,
+          "name": "3. Bölüm",
+          "description": null,
+          "release_date": "2015-10-18T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215040,
+          "episode_number": 4,
+          "name": "4.Bölüm",
+          "description": null,
+          "release_date": "2015-10-25T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215041,
+          "episode_number": 5,
+          "name": "5.Bölüm",
+          "description": null,
+          "release_date": "2015-11-01T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215042,
+          "episode_number": 6,
+          "name": "6.Bölüm",
+          "description": null,
+          "release_date": "2015-11-08T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215043,
+          "episode_number": 7,
+          "name": "7. Bölüm",
+          "description": null,
+          "release_date": "2015-11-15T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215044,
+          "episode_number": 8,
+          "name": "8. Bölüm",
+          "description": null,
+          "release_date": "2015-11-22T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215045,
+          "episode_number": 9,
+          "name": "9.Bölüm",
+          "description": null,
+          "release_date": "2015-11-29T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215046,
+          "episode_number": 10,
+          "name": "10.Bölüm",
+          "description": null,
+          "release_date": "2015-12-06T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215047,
+          "episode_number": 11,
+          "name": "11.Bölüm",
+          "description": null,
+          "release_date": "2015-12-13T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215048,
+          "episode_number": 12,
+          "name": "12.Bölüm",
+          "description": null,
+          "release_date": "2015-12-20T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        }
+      ]
+    },
+    {
+      "id": 5269,
+      "season_number": 3,
+      "name": null,
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 215073,
+          "episode_number": 1,
+          "name": "1. Bölüm",
+          "description": null,
+          "release_date": "2016-10-02T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215074,
+          "episode_number": 2,
+          "name": "2. Bölüm",
+          "description": null,
+          "release_date": "2016-10-09T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215075,
+          "episode_number": 3,
+          "name": "3. Bölüm",
+          "description": null,
+          "release_date": "2016-10-16T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215076,
+          "episode_number": 4,
+          "name": "4.Bölüm",
+          "description": null,
+          "release_date": "2016-10-23T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215077,
+          "episode_number": 5,
+          "name": "5.Bölüm",
+          "description": null,
+          "release_date": "2016-10-30T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215078,
+          "episode_number": 6,
+          "name": "6.Bölüm",
+          "description": null,
+          "release_date": "2016-11-06T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215079,
+          "episode_number": 7,
+          "name": "7.Bölüm",
+          "description": null,
+          "release_date": "2016-11-13T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215080,
+          "episode_number": 8,
+          "name": "8. Bölüm",
+          "description": null,
+          "release_date": "2016-11-20T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215081,
+          "episode_number": 9,
+          "name": "9.Bölüm",
+          "description": null,
+          "release_date": "2016-11-27T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215082,
+          "episode_number": 10,
+          "name": "10.Bölüm",
+          "description": null,
+          "release_date": "2016-12-04T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215083,
+          "episode_number": 11,
+          "name": "11.Bölüm",
+          "description": null,
+          "release_date": "2016-12-11T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215084,
+          "episode_number": 12,
+          "name": "12.Bölüm",
+          "description": null,
+          "release_date": "2016-12-18T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        }
+      ]
+    },
+    {
+      "id": 5270,
+      "season_number": 4,
+      "name": null,
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 215061,
+          "episode_number": 1,
+          "name": null,
+          "description": null,
+          "release_date": "2017-10-04T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215062,
+          "episode_number": 2,
+          "name": null,
+          "description": null,
+          "release_date": "2017-10-11T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215063,
+          "episode_number": 3,
+          "name": null,
+          "description": null,
+          "release_date": "2017-10-18T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215064,
+          "episode_number": 4,
+          "name": null,
+          "description": null,
+          "release_date": "2017-10-25T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215065,
+          "episode_number": 5,
+          "name": null,
+          "description": null,
+          "release_date": "2017-11-01T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215066,
+          "episode_number": 6,
+          "name": null,
+          "description": null,
+          "release_date": "2017-11-08T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215067,
+          "episode_number": 7,
+          "name": null,
+          "description": null,
+          "release_date": "2017-11-15T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215068,
+          "episode_number": 8,
+          "name": null,
+          "description": null,
+          "release_date": "2017-11-22T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215069,
+          "episode_number": 9,
+          "name": null,
+          "description": null,
+          "release_date": "2017-11-29T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215070,
+          "episode_number": 10,
+          "name": null,
+          "description": null,
+          "release_date": "2017-12-06T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215071,
+          "episode_number": 11,
+          "name": null,
+          "description": null,
+          "release_date": "2017-12-13T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215072,
+          "episode_number": 12,
+          "name": null,
+          "description": null,
+          "release_date": "2017-12-20T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        }
+      ]
+    },
+    {
+      "id": 5271,
+      "season_number": 5,
+      "name": null,
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 215049,
+          "episode_number": 1,
+          "name": null,
+          "description": null,
+          "release_date": "2019-01-08T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215050,
+          "episode_number": 2,
+          "name": null,
+          "description": null,
+          "release_date": "2019-01-15T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215051,
+          "episode_number": 3,
+          "name": null,
+          "description": null,
+          "release_date": "2019-01-22T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215052,
+          "episode_number": 4,
+          "name": null,
+          "description": null,
+          "release_date": "2019-01-29T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215053,
+          "episode_number": 5,
+          "name": null,
+          "description": null,
+          "release_date": "2019-02-05T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215054,
+          "episode_number": 6,
+          "name": null,
+          "description": null,
+          "release_date": "2019-02-12T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215055,
+          "episode_number": 7,
+          "name": null,
+          "description": null,
+          "release_date": "2019-02-19T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215056,
+          "episode_number": 8,
+          "name": null,
+          "description": null,
+          "release_date": "2019-02-26T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215057,
+          "episode_number": 9,
+          "name": null,
+          "description": null,
+          "release_date": "2019-03-05T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215058,
+          "episode_number": 10,
+          "name": null,
+          "description": null,
+          "release_date": "2019-03-11T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215059,
+          "episode_number": 11,
+          "name": null,
+          "description": null,
+          "release_date": "2019-03-18T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 215060,
+          "episode_number": 12,
+          "name": null,
+          "description": null,
+          "release_date": "2019-03-18T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        }
+      ]
+    }
+  ]
+}

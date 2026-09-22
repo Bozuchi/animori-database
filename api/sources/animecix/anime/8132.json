@@ -1,0 +1,89 @@
+{
+  "id": 8132,
+  "name": "Servamp Movie: Alice in the Garden",
+  "name_english": "Servamp Movie: Alice in the Garden",
+  "name_romanji": "Servamp Movie: Alice in the Garden",
+  "original_title": "劇場版 SERVAMP -Alice in the Garden-",
+  "type": "movie",
+  "title_type": "movie",
+  "year": 2018,
+  "release_date": "2018-04-07 00:00:00",
+  "description": "The film's story will deal with Misono Alicein's past.",
+  "poster": "https://image.tmdb.org/t/p/original/w5xkRGWjGEBbJgEOsIxMqMgAFy9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wrbfJmfXvzNIb6YzINALose1ExV.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    16,
+    6,
+    13,
+    4
+  ],
+  "tmdb_id": 492715,
+  "mal_id": 36803,
+  "anilist_id": 0,
+  "imdb_id": "tt8714584",
+  "season_count": 0,
+  "videos": [
+    {
+      "id": 139313,
+      "player": "SIBNET",
+      "url": "https://video.sibnet.ru/shell.php?videoid=4317324",
+      "extra": "Haikurema",
+      "fansub": "Haikurema",
+      "fansub_id": 1149,
+      "quality": "regular",
+      "language": "en"
+    },
+    {
+      "id": 139312,
+      "player": "STREAMTAPE",
+      "url": "https://streamtape.com/e/3pG1P8LVrRCdgB2",
+      "extra": "Haikurema",
+      "fansub": "Haikurema",
+      "fansub_id": 1149,
+      "quality": "regular",
+      "language": "en"
+    },
+    {
+      "id": 581634,
+      "player": "YOUTUBE",
+      "url": "https://youtube.com/embed/HE2BeYUWNMA",
+      "extra": null,
+      "fansub": null,
+      "fansub_id": null,
+      "quality": null,
+      "language": "en"
+    },
+    {
+      "id": 139311,
+      "player": "STREAMSB",
+      "url": "https://streamsb.net/e/owz3c44d55r9.html",
+      "extra": "Haikurema",
+      "fansub": "Haikurema",
+      "fansub_id": 1149,
+      "quality": "regular",
+      "language": "en"
+    },
+    {
+      "id": 139308,
+      "player": "VUDEO",
+      "url": "https://vudeo.net/embed-882za8nridag.html",
+      "extra": "Haikurema",
+      "fansub": "Haikurema",
+      "fansub_id": 1149,
+      "quality": "regular",
+      "language": "en"
+    },
+    {
+      "id": 139305,
+      "player": "MYSTREAM",
+      "url": "https://embed.mystream.to/9ko7ha3rbfnr",
+      "extra": "Haikurema",
+      "fansub": "Haikurema",
+      "fansub_id": 1149,
+      "quality": "regular",
+      "language": "en"
+    }
+  ]
+}

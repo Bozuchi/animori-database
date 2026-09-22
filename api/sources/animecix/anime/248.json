@@ -1,0 +1,2570 @@
+{
+  "id": 248,
+  "name": "Fate/kaleid liner Prisma☆Illya",
+  "name_english": "Fate/kaleid liner Prisma Illya",
+  "name_romanji": "Fate/kaleid liner Prisma Illya",
+  "original_title": "Fate/kaleid liner プリズマ☆イリヤ",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2013,
+  "release_date": "2013-07-06 00:00:00",
+  "description": "Fate evrenlerinden Night serisinden tanıdığımız \" Illyasviel von Einzbern \", alternatif bir evrende geçen seride, liseli bir öğrenci karakterine bürünmüştür.",
+  "poster": "https://image.tmdb.org/t/p/original/fivwHxH3xddSkSyqonXtuydBpIY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2lpDEiCJXcK96lNZ4mas99Jnl11.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    9,
+    6,
+    4,
+    2,
+    1
+  ],
+  "tmdb_id": 63576,
+  "mal_id": 14829,
+  "anilist_id": 0,
+  "imdb_id": "tt2904426",
+  "season_count": 4,
+  "seasons": [
+    {
+      "id": 329,
+      "season_number": 1,
+      "name": "Fate/kaleid liner Prisma Illya",
+      "episode_count": 10,
+      "episodes": [
+        {
+          "id": 161043,
+          "episode_number": 1,
+          "name": "Doğum! Sihirli Kız!",
+          "description": "Illya, Kaleidostick Ruby tarafından yeni büyülü kız olarak seçildi.",
+          "release_date": "2013-07-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lwfh4VOSx7WsfFjFzeSbUTtgHBY.jpg",
+          "videos": [
+            {
+              "id": 369520,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63184b6aaaa5e211ba383c1c",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161279,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359635",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161278,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/V7gr79Pwe2IKMlA",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161274,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-vbzcz7igq2ym.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161277,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/9uwgaqag1vzh.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161044,
+          "episode_number": 2,
+          "name": "Kim?",
+          "description": "Tam Illya, Rin'in talimatları doğrultusunda Rider kartını toplamakta sorun yaşarken bir meydan okuyucu belirir.",
+          "release_date": "2013-07-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ffvKbeNcu0wY64LvL9wTmdKXvJK.jpg",
+          "videos": [
+            {
+              "id": 369521,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63184c38aaa5e211ba383c1d",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161288,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359637",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161287,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/XyWZLDdX4OiZMJ",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161283,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-euiz3ecvn78h.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161286,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/w6xpbtiyd4m0.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161045,
+          "episode_number": 3,
+          "name": "kız kızla tanışır",
+          "description": "Gizemli bir transfer öğrencisi olan Miyu Edelfelt, Illya'nın sınıfına katıldı. Arkadaş mı yoksa rakip mi?",
+          "release_date": "2013-07-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/w16TyiGdNra8GVOWJ4cr8crchVj.jpg",
+          "videos": [
+            {
+              "id": 369523,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63184d09aaa5e211ba383c1e",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161297,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359639",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161296,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/949boel0xgSa3L9",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161292,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-a9qtxut8c3lc.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161295,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/7xmgtb5vz66i.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161046,
+          "episode_number": 4,
+          "name": "Kaybolduk",
+          "description": "Illya ve arkadaşları Caster tarafından yenildi. Rövanşı kazanmak için takım çalışmalarını nasıl geliştireceklerini bulmaları gerekiyor.",
+          "release_date": "2013-07-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dy3acarIPSsj4yccnZ1IuAmFINd.jpg",
+          "videos": [
+            {
+              "id": 369524,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63184debaaa5e211ba383c1f",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161306,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359640",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161315,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359645",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161305,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/8dlGY0JBOeS691",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161314,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/y2BR6Xv0aXi1417",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161301,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-dsrj3vx7gujm.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161304,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/dubm2wmny05p.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161310,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-l710jsezxujm.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161313,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/z2bmigy3psi5.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161047,
+          "episode_number": 5,
+          "name": "İki seçenek var mı?",
+          "description": "Saber kartı birdenbire Rin ve Luvia'yı yere serdiği için, zor kazanılan zaferlerini kutlamak için zaman yok. Şimdiye kadarki en güçlü rakipleriyle karşı karşıya kalan Illya ve Miyu hangi seçeneği seçecek?",
+          "release_date": "2013-08-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/uTlN9Cxj6xPTP7XVfptZj6G5rtK.jpg",
+          "videos": [
+            {
+              "id": 584307,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64e616c69c4e18521a0f9541",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 584310,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5233171",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 161048,
+          "episode_number": 6,
+          "name": "Bir Boşluk ve Gecenin Sonu…",
+          "description": "Illya, Saberı yenmek için Okçu kartının gücünü kullanır.",
+          "release_date": "2013-08-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7eGjK7Rr0MLBb8bcYpjgkQ0Luz3.jpg",
+          "videos": [
+            {
+              "id": 369526,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63184f2faaa5e211ba383c20",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161324,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359648",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161323,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/OxOzwVoaBwtga6",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161319,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-uc7e1vhda6om.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161322,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/dkxmu4rcgg54.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161049,
+          "episode_number": 7,
+          "name": "Zafer ve Kaçış",
+          "description": "Illya, ateşten kurtulmak için evde kalır, ancak Miyu ile bazı sorunlar yaşar. O gece Assassin kartını ele geçirmeye çalışırlar.",
+          "release_date": "2013-08-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/n7qi3QaoGvQChv3NMdnDlsPCKz.jpg",
+          "videos": [
+            {
+              "id": 369527,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63185049aaa5e211ba383c21",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161333,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359649",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161343,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359652",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161332,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/xkeMk2AoBbFkgx6",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161342,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/M9OaDvRkW9img9Z",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161328,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-c4n3swxvkk0t.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161331,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/20wp36zauf6v.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161338,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-uriogq8w4n9a.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161341,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/46o20lvmhvvx.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161050,
+          "episode_number": 8,
+          "name": "",
+          "description": "",
+          "release_date": "2013-08-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bXXrvcqAXwunNBcFMtU373WbHef.jpg",
+          "videos": []
+        },
+        {
+          "id": 161051,
+          "episode_number": 9,
+          "name": "Burada Bitir",
+          "description": "Miyu, Saber'ın gücünü kullanarak son kartı tek başına ele geçirmeye çalışır.",
+          "release_date": "2013-08-31T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8cMGQbD9iLqtDh8Z5kSZFe9OIG1.jpg",
+          "videos": [
+            {
+              "id": 369529,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63185161aaa5e211ba383c22",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161352,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359656",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161351,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/69KbW2v87jt9JOX",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161347,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-2a4v1hm1r2ki.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161350,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/i80n2s03zfwn.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161052,
+          "episode_number": 10,
+          "name": "Kaleydoskop",
+          "description": "Illya ve Miyu, Noble Phantasmı anında dirilmelerine izin veren Berserkerı yenmek için güçlerini birleştirmeliler.",
+          "release_date": "2013-09-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/gbmUWIhd9rRWEo2271mxD6T6lKI.jpg",
+          "videos": [
+            {
+              "id": 369538,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63185270aaa5e211ba383c23",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161361,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359658",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161360,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/7pQOBrqVvyCY6b",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161356,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-xl629bfrocua.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161359,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/zbxanwaeoh8k.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 330,
+      "season_number": 2,
+      "name": "Fate/kaleid liner Prisma Illya 2wei!",
+      "episode_count": 10,
+      "episodes": [
+        {
+          "id": 161053,
+          "episode_number": 1,
+          "name": "İlya Büyüyor!?",
+          "description": "Kartların alınmasına rağmen ley hatlarının düzelmemesi üzerine Rin ve Luvia, hatları kapatmaya yardımcı olmaları için yanlarında Illya ve Miyuyu getirirler. Ancak, bir şeyler ters gider ve Illyanın iki ayrı kişiye bölünmesine neden olur.",
+          "release_date": "2014-07-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9OQC0OaFsITwZCm1C5iLIpIFOR0.jpg",
+          "videos": [
+            {
+              "id": 369539,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63185379aaa5e211ba383c24",
+              "extra": "AniOurya",
+              "fansub": "AniOurya",
+              "fansub_id": 922,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161370,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359660",
+              "extra": "AniOurya",
+              "fansub": "AniOurya",
+              "fansub_id": 922,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161369,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/O61RL2MbVgsZlZY",
+              "extra": "AniOurya",
+              "fansub": "AniOurya",
+              "fansub_id": 922,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161365,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-jqh9bl50wwjj.html",
+              "extra": "AniOurya",
+              "fansub": "AniOurya",
+              "fansub_id": 922,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161368,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/sln206oq8rpl.html",
+              "extra": "AniOurya",
+              "fansub": "AniOurya",
+              "fansub_id": 922,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161054,
+          "episode_number": 2,
+          "name": "",
+          "description": "",
+          "release_date": "2014-07-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jN7Rp0L1rMHdQ2NwgfEyMY4cpTd.jpg",
+          "videos": [
+            {
+              "id": 369540,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63185493aaa5e211ba383c25",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161379,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359664",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161378,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/oxrrR1mDrBUJJMB",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161374,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-h3fzsh1n2ruf.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161377,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/p42j93rxb4zd.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161055,
+          "episode_number": 3,
+          "name": "Normal Hayat Kırıcı",
+          "description": "Kuro'dan herhangi bir bilgi alamayınca Rin, Illya'ya bir şey olursa ona acı verecek bir mühür yerleştirir. Kuro kaçtığında, Illya onu Shirou'ya karşı hamle yapmaktan alıkoymak için sert önlemler almak zorundadır. Ertesi gün, Kuro, manayı yenilemek için okuldaki diğer kızları rastgele öpmeye başladığında Illya için daha fazla soruna neden olur. Kuro, sınıf arkadaşları tarafından birlikte görüldüğünde, Illya'nın kuzeni olarak poz vermeye karar verir.",
+          "release_date": "2014-07-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vf1al3Keiar1A2kDZbI34Y920gJ.jpg",
+          "videos": [
+            {
+              "id": 369542,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631855adaaa5e211ba383c26",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161388,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359665",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161387,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/G9voLd0D1ku1pGr",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161383,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-wd5h0289w7kf.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161386,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/k8u3x2k3lnia.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161056,
+          "episode_number": 4,
+          "name": "Vahşi Transfer Öğrencisi",
+          "description": "Kuro, Illya'nın sınıfına transfer olur, bu durum Illya'yı dehşete düşürür ve hemen geçen gün öptüğü sınıf arkadaşlarına karşı bir yakartop maçına atılır. Okul hayatının tehlikede olduğunu hisseden Illya, Kuro'ya bire bir meydan okumak için adım atar ve her iki taraf da tüm sihirli güçlerini ortaya çıkarır. Kuro, Illya'nın yüzüne kritik bir darbe indirir, ancak ortak acıları nedeniyle ikisi de bayılır ve maç berabere biter. Kuro iyileşirken okul hemşiresinin onun varlığı hakkında onun söylediğinden fazlasını bildiğinden şüphelenir. Shirou, Illya'yı almaya geldiğinde Miyu, Kuro'nun, sır olarak sakladığı şeyleri öğrenmemesi için Illya'ya fazla yakın durmaması gerektiğini söylediği sözlerinden biraz rahatsız olur.",
+          "release_date": "2014-07-31T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xpSVUTaLZ2lYe7ArXxJVTBJPVKa.jpg",
+          "videos": [
+            {
+              "id": 369544,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631856baaaa5e211ba383c27",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161397,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359669",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161396,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/jWlPlaDO2Wfqjm",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161392,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-rhtcwl3ykukn.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161395,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/3en0drtbpcrr.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161057,
+          "episode_number": 5,
+          "name": "Peki, Başka Bir deyişle",
+          "description": "Illya yanlışlıkla evinin banyo duvarını havaya uçurduktan sonra, ailesi banyosunu kullanmak için Luvia'nın evine gelir, burada Kuro Illya için daha fazla soruna neden olur. Daha sonra Rin ve Luvia, Illya'ya Okçu Kartını nasıl bu şekilde kullandığını sorarken, Illya'nın normal bir hayata dönmek istediğini açıklaması, Okçu Kartına kendisinin sahip olduğunu açıklayan Kuro'yu kızdırır ve kaçar. Ertesi gün, Miyu, Illya'nın normal bir yaşam arzusunun Miyu'yu ve tanıştığı diğer insanları da dışladığını iddia eden Kuro tarafından çağrılır. Ancak Miyu, Illya ile olan dostluğuna inanıyor ve Kuro'ya karşı durmak için Saber Kartını kullanıyor.",
+          "release_date": "2014-08-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/mi8pgZjSsVb00RxoPbbDCjiNA46.jpg",
+          "videos": [
+            {
+              "id": 369546,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631857e6aaa5e211ba383c28",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161406,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359670",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161405,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/9R4KQxQoP0ua3lB",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161401,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-23oloxy82qrb.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161404,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/au9kpn7nmiiq.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161058,
+          "episode_number": 6,
+          "name": "Yalanların ve Cephenin Diğer Tarafında",
+          "description": "Miyu ve Kuro, Illya gelmeden önce onları durdurmaya çalışmadan önce, daha önce söylediği sözler için özür dileyerek şiddetli bir savaşa girerler. Irisviel aniden Illya'yı almaya geldiğinde, Kuro ona saldırmaya çalışır, ancak Irisviel kendi büyüsüyle onu durdurur. Irisviel, Kuro'nun Illya'nın Kutsal Kase olabilmesi için mühürlendiğini ve Kuro'nun Kutsal Kase Savaşı'nın artık gerçekleşmediğini öğrendiğinde üzüldüğünü ve ait olduğu bir yeri olmadığını hissettiğini ortaya koyuyor. Sonunda manasını aşırı kullanır ve kaybolmaya başlar, ancak Illya daha uzun süre dayanabilmesi için ona kendi manasının bir kısmını verir. Illya'nın kendi dileğini gerçekleştirmesini söylediği Kuro, bir aileye sahip olmayı diler ve onun Illya'nın ailesinin gerçek bir üyesi olarak yeniden var olmasına izin verir.",
+          "release_date": "2014-08-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fNtuSqn2UM9uitxNZDWxKjTpAtB.jpg",
+          "videos": [
+            {
+              "id": 369547,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631858f7aaa5e211ba383c29",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161415,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359671",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161414,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/R9DlLW9a9btdrr0",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161410,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-jyck4lfkceyt.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161413,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/0ojyorstd4fu.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161059,
+          "episode_number": 7,
+          "name": "Çarpışma! Kızkardeşler Pişirmek",
+          "description": "Illya, Kuro'ya karşı bir fırıncılık yarışmasında yarışıyor ve takım arkadaşlarından birinin tuhaf malzemeler eklemesi nedeniyle dezavantajlı bir durumda kalıyor. Ertesi gün, Illya Kuro tarafından nasıl \"abla\" olarak kabul edileceğini öğrenmeye çalışır, ancak pek başarılı olmaz. Herkes ayrıca Illya, Kuro ve Miyu'nun 20 Temmuz'da aynı doğum gününe sahip olduğunu öğrenir. Daha sonra Kuro, ona mana sağlamaya devam etmesi için Illya'ya nasıl güvendiğini belirtir.",
+          "release_date": "2014-08-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/nWm0tDGdontefowvtFkceeJDNaI.jpg",
+          "videos": [
+            {
+              "id": 369548,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631859f4aaa5e211ba383c2a",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161424,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359673",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161423,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/J9eJp7RYRWcj8Jv",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161419,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-yw6pby5ggyws.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161422,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/kmw24p4e9wre.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161060,
+          "episode_number": 8,
+          "name": "Onun adı",
+          "description": "Irisviel, Rin ve Luvia'yı dersler sırasında gözlemlemesi için onu Illya'nın okuluna gizlice soktu ve daha sonra onlardan Illya ve Kuro'yu normal hayatlarına bırakmalarını istedi. O günün ilerleyen saatlerinde, Rin ley hatlarında bir değişiklik gözlemlediğinde ve Miyu bir göreve gönderildiğinde, Bazett Fraga McRemitz adında gizemli bir kadın Luvia'nın önüne çıkar ve ondan Sınıf Kartlarını vermesini ister. Luvia ve uşağı Auguste, Bazett'e karşı savaşırken, Rin sinsi bir saldırı başlatma fırsatı bulmaya çalışır, ancak Bazett Illya ve Kuro'ya karşı bir hamle yapmaya hazırlanırken her iki saldırı da başarısız olur.",
+          "release_date": "2014-08-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2N2fhByeZ6WH8dnK8YlRDwZL6Q4.jpg",
+          "videos": [
+            {
+              "id": 369549,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63185adeaaa5e211ba383c2b",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161433,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359675",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161432,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/7zBxzZPlKXIJrw",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161428,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-kn7ml7kb4xxw.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161431,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/he6aoq6arowv.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161061,
+          "episode_number": 9,
+          "name": "",
+          "description": "",
+          "release_date": "2014-09-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vTi1t5rXzavvw6ZnGNxADj5DaQJ.jpg",
+          "videos": [
+            {
+              "id": 369550,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63185ba0aaa5e211ba383c2c",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161443,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359679",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161442,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/xqxKlavDyri9PR",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161438,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-vf6wj7eylknj.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161441,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/5tj806zrc7pr.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161062,
+          "episode_number": 10,
+          "name": "Ellerin Koruduğu Şeyler",
+          "description": "Bazett, Miyu'nun en güçlü hareketine karşı koymak ve kartını almak için silahı Fragarach'ı kullanır ve çok geçmeden gözünü Kuro'ya diker. Bununla birlikte, Illya, Kuro ve Ruby ile birlikte çalışarak, Rin'in geride bıraktığı bir mührü etkinleştirmeyi başarır, iddiaya göre ona Kuro ile aynı laneti verir ve onu Illya'ya zarar veremez halde bırakır. Rin ayrıca sekizinci bir kartın varlığını ortaya çıkararak Bazett'i ateşkes yapmaya ve Illya'yı kartların yarısıyla bırakmaya ikna eder. Kızlar günlük hayatlarına devam edip sahile yapacakları geziyi dört gözle beklerken, gizemli sekizinci kart uykudadır.",
+          "release_date": "2014-09-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tYS4cedjmgLPtJqpRXrEQTJsQoA.jpg",
+          "videos": [
+            {
+              "id": 369551,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63185c91aaa5e211ba383c2d",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161452,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359682",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161451,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/PjDvA4PAQYH03XW",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161447,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-cfkelwuw7q10.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161450,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/xxpar44b8nvq.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 331,
+      "season_number": 3,
+      "name": "Fate - kaleid liner Prisma Illya 2wei Herz!",
+      "episode_count": 10,
+      "episodes": [
+        {
+          "id": 161063,
+          "episode_number": 1,
+          "name": "Aynaya Bakmak Gibi Bir Şey Ve Bundan Hoşlanmıyorum",
+          "description": "Illya ve arkadaşları kumsal gezisine hazırlanırken Mimi, mana transferi yaparken Illya ve Kuroya rastlar. Daha sonra Miyu, Shirounun etrafında utangaç davrandığı bir pijama partisi için Illyanın evine gelir.",
+          "release_date": "2015-07-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tw1zrgsSUCQPeJFsKX9PzJdlibf.jpg",
+          "videos": [
+            {
+              "id": 369552,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63185d73aaa5e211ba383c2e",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161461,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359686",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161460,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/JKbqwrRPZrsjDQO",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161456,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-s8mbhm7w43ls.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161459,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/5pkp2ocdrfrp.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161064,
+          "episode_number": 2,
+          "name": "üç renkli doğum günü",
+          "description": "Illya ve arkadaşları, Shirou ve arkadaşı Issei Ryuudou ile birlikte sahile varırlar. Kumsalın tadını çıkarırken, kızlar borçlarını ödemek için yarı zamanlı işlerde çalışan Bazett ile karşılaşmadan önce, Shirouya benzeyen bir erkek kardeşi olduğunu anlatır. Daha sonra, herkesin Illya, Miyu ve Kuronun doğum günlerini kutlamak için bir partisi olduğu için, kutlamalar sekizinci kartı bulmaya çalışan Rin ve Luviadan gelen gürültülü bir inşaatla kesintiye uğrar ve Illya kısa süre sonra kendini bir savaşın ortasında bulur. iğrenç kavga. Ruby, Shirouya bir aşk iksiri enjekte etmeye çalıştığında işler daha da zahmetli hale gelir, ancak Sapphie yakında herkesin anılarını silerek işleri çözer.",
+          "release_date": "2015-08-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7AzZsFomIzIXv74Pc1sU9woagL6.jpg",
+          "videos": [
+            {
+              "id": 369554,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63185e7aaaa5e211ba383c2f",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161471,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359688",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161470,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/dQVR369XaRFkRA0",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161466,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-8zr1ibf36r7a.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161469,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/owdaipvvm5yk.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161065,
+          "episode_number": 3,
+          "name": "Kızlar, Hayat Kısa, O Kadar Çürütün",
+          "description": "Illya ve Kuroyu çevreleyen ahlaksızlık düşüncelerinden rahatsız olan Mimi, düşüncelerini bir hikayeye dönüştürmeye başlar, bu da kısa sürede cinsiyet değiştiren bir çocuğun aşk hikayesine dönüşür. Bu kısa süre sonra, hikayesini bir yaoi doujin için kullanmaya karar veren sınıf arkadaşı Suzuka Kurihara ve kız kardeşinin dikkatini çeker. Miminin kademeli olarak fujoshiye dönüşmesinden endişe duyan Suzuka, Illya, Miyu ve Kurodan yardım ister. Miminin BLye olan hayranlığından hoşlanmasa da, Illya bunun arkadaş olamayacakları anlamına gelmediğini öğrenir.",
+          "release_date": "2015-08-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bMwDJEyGIcL1CeTFZtgCmx1uQTb.jpg",
+          "videos": [
+            {
+              "id": 369555,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63185fadaaa5e211ba383c30",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161480,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359691",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161479,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/JW011YgrJdUjLmJ",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161475,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-k93m6tag23fz.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161478,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/bs1ksg90zyf3.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161066,
+          "episode_number": 4,
+          "name": "",
+          "description": "",
+          "release_date": "2015-08-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/mOLsDsYyyQZRfpcThk5aMj1sKPQ.jpg",
+          "videos": [
+            {
+              "id": 369556,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631860a5aaa5e211ba383c31",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161489,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359694",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161488,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/PyO1lXqyLVf0OLA",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161484,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-7rbzsdfswy57.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161487,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/1bveu10jlq0v.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161067,
+          "episode_number": 5,
+          "name": "Yukataş ve Havai Fişek",
+          "description": "Kızlar, Illyanın Miyuya nasıl eğleneceğini gösterdiği yerel yaz festivaline katılır. Daha sonra, Rin ve Luvia Shironun önünde yaramazlık yaparken, Illya dönüşümünü gardırop arızasından kaçmak için kullanır. Bu arada Kuro, Miyunun Illyadan bir tür sır sakladığını fark eder.",
+          "release_date": "2015-08-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9hFn0Aw1roaCJra2lMBngcX5iNc.jpg",
+          "videos": [
+            {
+              "id": 369558,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6318617daaa5e211ba383c32",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161498,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359698",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161497,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/YBKQJkK8dwCvGW1",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161493,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-glcf30cdv60e.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161496,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/ehxvw761hq0m.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161068,
+          "episode_number": 6,
+          "name": "Mavi Cam Ay",
+          "description": "Konağının yeniden inşasını tamamlayan Luvia, herkesi bir ev partisine davet eder, ardından kızlar sekizinci kartı alma planlarını tartışır. Kızlar son görevleri olabilecek şeye hazırlanırken Kuro, Irisviel'e kartların yalnızca yedi sınıfı içeren Kutsal Kase Savaşı ile nasıl bir ilişkisi olduğunu sorar. Irisviel'in dahil olma olasılığını dışlayan Kuro, Miyu'yu sorgulamalarını önerir, ancak Illya eldeki göreve odaklanmanın ve cevabı kendileri bulmanın en iyisi olduğunu düşünür.",
+          "release_date": "2015-08-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1E0tvIOB0KaeN9hIDGiWC5CwaLo.jpg",
+          "videos": [
+            {
+              "id": 369559,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6318625daaa5e211ba383c33",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161507,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359704",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161506,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/LLeYXqJZDacRLzo",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161502,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-hv3fvwq6krt2.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161505,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/mv142qpyovyo.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161069,
+          "episode_number": 7,
+          "name": "uygulayıcı",
+          "description": "Kızlara, bir süre önce paylaşılan acının lanetini ortadan kaldırdığını ortaya koyan Bazett, Ayna Dünyasına girmeden önce, siyah bir sisle örtülmüş sekizinci kartla karşı karşıya kaldıklarını söyler. Planlarını takiben, Luvia düşmanı dizginlerken Rin, Illya ve Miyu'nun saldırısını geliştirmek için bir araç sağlayarak Kuro'nun saldırması için bir fırsat sağlar. Bununla birlikte, düşman onu bir kalkan ve karşı saldırılarla engellemeyi başarır, kızları Bazett hücum ederken geri çekilmeye zorlar, ancak düşman tarafından kullanılan birden fazla kılıç tarafından bıçaklanır. Bazett, Vahşi Savaşçı'nın gücünü kullanarak savaşırken, Illya ve Kuro ona saldırması için bir şans vermek için geride kalır, ancak yine de onu yenemezler. Zar zor kaçmayı başaran Bazett, diğerlerine, düşmanın gerçek dünyada birdenbire görünmeden önce ikinci bir Okçu kartına sahip olduğunu bildirir.",
+          "release_date": "2015-09-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oRRGYCed3hQ67HwbGdZO4ypUkRs.jpg",
+          "videos": [
+            {
+              "id": 369562,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63186326aaa5e211ba383c34",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161516,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359705",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161515,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/j6mGZaW8wzi2m0",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161511,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-bcpx0w9v2l6d.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161514,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/81kdprrc9u01.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161070,
+          "episode_number": 8,
+          "name": "Gözlemci",
+          "description": "Luvia, herkesin kaçabilmesi için tavanı düşmanın üzerine çökertir, ancak kendini şehre doğru ilerlemeye başlayan bir gemiye dönüştürür. Tam o sırada kızlara yaklaşır, Kutsal Kilise için bir gözlemci olduğu ortaya çıkan, kimsenin bir şey görmesini engellemek için şehrin etrafına sınırlanmış bir alan yerleştiren ve kızlara dinlenme fırsatı veren Caren. Caren, yaratığın Kutsal Kaseyi hedef aldığı teorisini kurarken, Kuro bunun tamamen farklı bir Kutsal Kase Savaşı ile ilgili olduğu sonucuna vardığında, düşman sihirli bir çember ortaya çıkardığı Enzou Dağına doğru ilerlemeye başlar. Illya onları dışarı atmaya çalışırken, içindeki insan çocuğu dışarı iter.",
+          "release_date": "2015-09-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/p7GJEAtw1lUQ1aHDQDlZTjCd0x5.jpg",
+          "videos": [
+            {
+              "id": 369565,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631863f2aaa5e211ba383c35",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161525,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359711",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161524,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/AlWYRQll4yiXPQ7",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161520,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-wtqee52rdqej.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161523,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/j79ot53g0fu4.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161071,
+          "episode_number": 9,
+          "name": "Altın çocuk",
+          "description": "Caren, gözlem büyüsünden ters tepme yaşarken, sekizinci kartın Kahraman Ruhu olduğu ortaya çıkan çocuk, Miyunun Kutsal Kasenin tam bir versiyonu olarak doğmuş paralel bir dünyadan bir prenses olduğunu ortaya koyuyor. Kaderinden kaçamayacağını hisseden Miyu, girdaba çekilmeden önce Illyaya Sapphire verir ve Kahraman Ruhun nihai formunu tamamlar. Miyunun iblisin vücudunda hala hayatta olduğunu öğrenen Kuro ve Bazett, iblisi uzak tutarken, Illya, arkadaşını kurtarmak için kararlılığını toplarken, Ruby ve Sapphireın gücünü yeni ve güçlü bir dönüşümü serbest bırakmak için birleştirir.",
+          "release_date": "2015-09-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9Fsm221ThkkUkkXVeSgIWyunlKe.jpg",
+          "videos": [
+            {
+              "id": 369566,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6318659baaa5e211ba383c36",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161534,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359718",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161533,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/2PzLR6LXQahZYk7",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161529,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-qiyptl9iwce1.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161532,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/uy01h8bnwhl2.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161072,
+          "episode_number": 10,
+          "name": "Dünyanın Bir Köşesinden Adını Çağırmak",
+          "description": "Kendi vücudunu riske atan yeni gücünü kullanan Illya, iblise karşı savaşırken Kuro ve diğerleri destek sağlar. İblis en güçlü kılıcı Ea'yı çıkarırken, Illya onu yenmek ve sonunda Miyu'yu kurtarmak için tüm gücünü kullanır. Savaşın ardından, Illya ve arkadaşları yaz ödevlerini bitirmek için bir araya gelirler, Miyu da yardımcı olmaktan mutluluk duyar. Bu arada, Irisviel ve Caren, kraterin, sekizinci kartın gizemli bir çift tarafından kurtarıldığı paralel bir dünyada kaybolduğunu keşfederler.",
+          "release_date": "2015-09-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/rGeelaEwrFLDV1qvWLCPS8iOktM.jpg",
+          "videos": [
+            {
+              "id": 369569,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63186671aaa5e211ba383c37",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161543,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359722",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161542,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/pgDWjV6zjKsWkw",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161538,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-8na2grwtrnw7.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161541,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/l2ofbrmwdms5.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 332,
+      "season_number": 4,
+      "name": "Fate/kaleid liner Prisma Illya 3rei!",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 161073,
+          "episode_number": 1,
+          "name": "Gümüşe Solan Şehir",
+          "description": "Kızlar, önceki savaşları sırasında dağda oluşan kraterin gizemli bir şekilde ortadan kaybolduğunu öğrenirler. Olay mahallini araştırırken, birdenbire onları alt eden ve Miyu'yu kaçıran iki yeni düşmanla karşılaşırlar. Illya onun peşinden gitmeye çalışırken kendini karla kaplı paralel bir dünyada bulur ve burada sadece Tanaka olarak bilinen tuhaf bir kızla tanışır. Görünüşe göre başka bir anısı olmamasına rağmen, Tanaka bir şekilde Illya'ya Miyu'nun Ainsworth Ailesi tarafından kaçırıldığını söyleyebilir.",
+          "release_date": "2016-07-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pIvyuwOWX7Ij4OyRluAw1ES0QEX.jpg",
+          "videos": [
+            {
+              "id": 369570,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63186732aaa5e211ba383c38",
+              "extra": "Swagnemite & Omamori",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161552,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359727",
+              "extra": "Swagnemite & Omamori",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161551,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/g9od78BdWQcq66a",
+              "extra": "Swagnemite & Omamori",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161547,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-0wfumhlijgza.html",
+              "extra": "Swagnemite & Omamori",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161550,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/gzvlj2ueh4vz.html",
+              "extra": "Swagnemite & Omamori",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161074,
+          "episode_number": 2,
+          "name": "",
+          "description": "",
+          "release_date": "2016-07-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qbWDFs5MHLoFvkcaDwQqoaJ7lBS.jpg",
+          "videos": [
+            {
+              "id": 369571,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6318681aaaa5e211ba383c39",
+              "extra": "Swagnemite & Omamori",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161561,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359733",
+              "extra": "Swagnemite & Omamori",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161560,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/6BYJkYYx1XcZov",
+              "extra": "Swagnemite & Omamori",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161556,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-619t9p0xu917.html",
+              "extra": "Swagnemite & Omamori",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161559,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/ts6k9furo1k0.html",
+              "extra": "Swagnemite & Omamori",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161075,
+          "episode_number": 3,
+          "name": "Gerçek Düşmanınız",
+          "description": "Illya ve Tanaka Miyu'yu aramaya çıkarken, Gılgamış Angelica ile yüzleşmek için adım atar, ancak tekrar Beatrice ile karşılaşırlar. Tanaka, Beatrice'in acımasız saldırılarını üstlenirken, Illya bir yığın silah arasında Ruby'yi bulmayı başarır, bir kez daha dönüşür ve Beatrice'in Berserker'ına karşı savaşmak için Caster kartını takar. Tanaka, Beatrice'den tam bir patlama aldıktan sonra, hala hayatta kalmayı başarıyor, Gılgamış ona ve Illya'nın geri çekilmesine yardım ediyor. Beatrice ve Angelica onları yakalarken, Ainsworth ailesinin başı Darius Ainsworth tarafından görevden alınırlar, Kuro ve Bazett de paralel dünyaya gelirler.",
+          "release_date": "2016-07-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fESnugqZvqaAUOTi5c32B1KPKm6.jpg",
+          "videos": [
+            {
+              "id": 369572,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631868ebaaa5e211ba383c3a",
+              "extra": "Swagnemite & Omamori",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161570,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359738",
+              "extra": "Swagnemite & Omamori",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161569,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/3OP1dKk06lT6Lj",
+              "extra": "Swagnemite & Omamori",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161565,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-2h21adu515m0.html",
+              "extra": "Swagnemite & Omamori",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161568,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/xc7dv06c60a7.html",
+              "extra": "Swagnemite & Omamori",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161076,
+          "episode_number": 4,
+          "name": "Zayıf Küçük Kız Kardeşim İçin",
+          "description": "Kuro, Illya'yı ve diğerlerini Bazett'le birlikte üs olarak kullandıkları okula getirir. Kuro daha sonra durumlarını açıklarken Bazett Illya'ya Saber, Rider ve Lancer kartları verir. Gılgamış, Bazett'e kartların ne olduğunu açıklarken Kuro, Illya'nın kendisine acıdığını fark eder, bir savaşta onunla yüzleşir ve onu, kendisini savunmak için Bazett'ten aldığı kartları kullanmaya zorlar. Savaş sırasında Kuro, Illya'ya bilinmeyen bir dünyada olma korkularının Miyu'nun her zaman kendine sakladığı duygularla aynı olduğunu bildirir. Sabre kartıyla savaşı kazanan Illya, Kuro'nun ona ne öğrettiğini anlamaya başlar.",
+          "release_date": "2016-07-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/laUC9yUJMozT0kv4EzKKVNFzltJ.jpg",
+          "videos": [
+            {
+              "id": 369574,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631869a9aaa5e211ba383c3b",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161579,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359743",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161578,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/2BmdjedOlrtZ2oP",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161574,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-21k9gzor4mib.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161577,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/ykuil7omo69a.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161077,
+          "episode_number": 5,
+          "name": "Küçük Hanım Saldırıları",
+          "description": "Illya, okulun duvarlarına sıkışıp ıslanan Erica adlı bir kıza yardım eder. Kızlar birlikte banyo yaparken Tanaka'nın Illya ile tanışmadan hemen önce hafızasını kaybettiğini öğrenirler. Daha sonra, Sapphire Ruby ile iletişime geçmeyi başarırken, Erica, Darius olduğu ortaya çıkan babası tarafından alınır.",
+          "release_date": "2016-08-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/rYjRoeiJlKz6TDgfpsTIbhA542R.jpg",
+          "videos": [
+            {
+              "id": 369576,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63186a86aaa5e211ba383c3c",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161588,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359750",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161587,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/Aq62rqvxg6iXrxy",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161583,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-694mwiokejb8.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161586,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/qpn1gwgnlfcg.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161078,
+          "episode_number": 6,
+          "name": "ürpertici düşmanlık",
+          "description": "Darius, Illya'yı oksijen kaynağını yavaşça kesen bir buz bariyeri Noble Phantasm'ın içine hapseder. Tanaka, diğerlerinin Illya'nın yardımına gelmesine izin vererek bariyeri aşmayı başarır, ancak hepsi Darius'a karşı savaşmak için çaresizdir. Tanaka'nın yetenekleriyle ilgilendikten sonra Darius, Erica'nın Illya için bazı rahatsız edici sözler bırakmasıyla ayrılır. Illya ve diğerleri bir sonraki hamlelerini anlamaya çalışırken, Darius Miyu ile acı verici bir ritüel gerçekleştirir. Ertesi gün Kuro, Illya'nın Sınıf Kartlarını geride bırakarak ortadan kaybolduğunu keşfeder.",
+          "release_date": "2016-08-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jnnyxwP4zCV5s5ctg5M1M1BoX6J.jpg",
+          "videos": [
+            {
+              "id": 369577,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63186bd8aaa5e211ba383c3d",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161597,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359755",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161596,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/1pv6gXO8R9Sd4r",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161592,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-gkyh0ll52to7.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161595,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/b7cxscmqbo2x.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161079,
+          "episode_number": 7,
+          "name": "Bebekler ve Doldurulmuş Hayvanlar",
+          "description": "Illya uyandığında, beynini yıkamayı başaramayınca zihnini doldurulmuş bir hayvana aktaran ve orijinal vücuduna sahte bir kişilik yerleştiren Ainsworth'ler tarafından kaçırıldığını bulmak için uyanır. Yeni peluş vücudunun kontrolünü ele geçirmeyi başaran Illya, orijinal vücudunun peşine düşmeye çalışır, ancak onu odasına getiren Beatrice tarafından yakalanır. Beatrice onu parçalara ayırmadan önce, Illya, Rin ve Luvia'nın gelişiyle kurtarılır, ancak onların beyinlerinin yıkanıp hizmetçi olmaları için de yıkandıklarını keşfeder. Çatı katına kaçan Illya, ona dönüştürme gücü veren Sapphire'ı bulmayı başarır.",
+          "release_date": "2016-08-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jCh1WVzRdeLeQtLN0ZL35167Kp8.jpg",
+          "videos": [
+            {
+              "id": 369578,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63186cc4aaa5e211ba383c3e",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161607,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359760",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161606,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/WXDWqMyq14FpLr",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161602,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-pz4lqsrwybyi.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161605,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/v7sgjpd820ku.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161080,
+          "episode_number": 8,
+          "name": "",
+          "description": "",
+          "release_date": "2016-08-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qb08QIhF6QUidqGmMlBCfWkYtww.jpg",
+          "videos": [
+            {
+              "id": 369579,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63186dadaaa5e211ba383c3f",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161616,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359766",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161615,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/oe00laX1VPHO2a",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161611,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-es5yn853ere9.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161614,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/qj46ndl3gkkb.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161081,
+          "episode_number": 9,
+          "name": "",
+          "description": "",
+          "release_date": "2016-08-31T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/w4KQMQPEZOotybNgYoWCdXqJbN5.jpg",
+          "videos": [
+            {
+              "id": 369580,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63186e99aaa5e211ba383c40",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161625,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359769",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161624,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/2qBOkpzxXmtZY97",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161620,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-06iihie99wv4.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161623,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/5oosqcb04887.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161082,
+          "episode_number": 10,
+          "name": "Prensesin Yanına",
+          "description": "Gılgamış ve Bazett arkadan gizlice yaklaşıp Rin ve Luvia'yı orijinal bedenlerine geri getirmeyi başarırken, Illya Kuro'dan aldığı bir kartı kullanarak Darius'un sihrini kesmeyi planlayan bir hançerle ona vurmak için Darius'la yüzleşmek için ileri iter ve onunla tekrar birleşir. Bu süreçte Miyu. Ancak, Darius'un vücudundan çıkan oğlu Julian, gökyüzünde büyük bir siyah küp ortaya çıkarır ve karanlık gücünü Erica'yı tüketmek ve bir Kahraman Ruhlar ordusu oluşturmak için kullanır. Ordu görünüşte onları bunaltmışken, Miyu'nun Shirou'ya çok benzeyen kardeşinin gelişiyle kurtulurlar.",
+          "release_date": "2016-09-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/3biF4MklLBniAICLdViafLzbfyr.jpg",
+          "videos": [
+            {
+              "id": 369581,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63186fa3aaa5e211ba383c41",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161634,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359772",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161633,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/m96V3gGA4wiQwX",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161629,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-jcmw8wo6qzt7.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161632,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/o5f1xs2iy5t9.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161083,
+          "episode_number": 11,
+          "name": "Yalnız değilsin",
+          "description": "Silah yaratma yeteneğini kullanmak için kendi vücudunu riske atan Miyu'nun kardeşi, Angelica ile savaşırken diğerleri Kahraman Ruhlarla savaşırken Kuro'dan yardım alır. Kuro, Angelica'yı yenmek için ışınlamayı kullanmayı başardıktan sonra, Miyu'nun kardeşi Julian'ın peşine düşer, ancak gizemli ve dengesiz bir kadın tarafından ağır şekilde yaralanır. Miyu, onunla yüzleşmek için Okçu kartını kullandığında, Gılgamış onu vücudundan alana kadar ona sahip olur. Julian kadını dağıtırken, Illya topyekûn bir saldırıyla tüm gücünü ortaya çıkarır.",
+          "release_date": "2016-09-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4VqREmOx9dn592I35gpV3eGjDfE.jpg",
+          "videos": [
+            {
+              "id": 369583,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631870dbaaa5e211ba383c42",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 161643,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359776",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161652,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4359779",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161642,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/erBVLoJWJzf2lb",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161651,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/78K179X3MXTAZGR",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161638,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-otmjwjvj6xd9.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161641,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/a16sagoe87ke.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161647,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-pu20e6se2wmb.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 161650,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/oq0dib8annw5.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 161084,
+          "episode_number": 12,
+          "name": "Dokuma Mucizeler",
+          "description": "Illyanın saldırısı yenilenen orduyu durduramayınca Tanaka, savaşın ortasına gizemli bir kılıç fırlatarak Illyanın kara kübe zarar vermesine ve çamuru dağıtarak ordunun büyümesine neden olur. Julian, Erica ve Beatrice ile birlikte kaçarken, Bazett, Rinin Miyunun kardeşini düzgün bir şekilde iyileştirmesine izin veren bir mücevher almayı başarır. Angelica da dahil olmak üzere herkes Miyunun evine döndükten sonra, Illya ve Kuro kullandığı kılıcın aslında Tanakanın kolu olduğunu keşfeder. Julian intikamını hazırlarken Miyu ve erkek kardeşi diğerlerine başlarına gelenleri anlatır.",
+          "release_date": "2016-09-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bT9T9rEJR0SPRRMqkhDwAssYTr1.jpg",
+          "videos": []
+        }
+      ]
+    }
+  ]
+}

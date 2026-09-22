@@ -1,0 +1,115 @@
+{
+  "id": 11832,
+  "name": "Ginga Eiyuu Densetsu: Die Neue These - Seiran 1",
+  "name_english": "Legend of the Galactic Heroes: Die Neue These - Stellar War Part 1",
+  "name_romanji": "Ginga Eiyuu Densetsu: Die Neue These - Seiran 1",
+  "original_title": "銀河英雄伝説 Die Neue These 星乱 第一章",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2019,
+  "release_date": "Fri",
+  "description": "In humanity's distant future, two interstellar states-the monarchic Galactic Empire and the democratic Free Planets Alliance-are embroiled in a never-ending war. The story focuses on the exploits of rivals Reinhard von Müsel and Yang Wen Li as they rise to power and fame in the Galactic Empire and the Free Planets Alliance.",
+  "poster": "https://image.tmdb.org/t/p/original/yVwD812mrFrpxp77GTJ8zZwBsba.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uOjk9Yq8tD7eqTmsaJPLpWPDFOQ.jpg",
+  "rating": 7.7,
+  "vote_count": 18,
+  "genres": [
+    3,
+    15
+  ],
+  "tmdb_id": 516052,
+  "mal_id": 36369,
+  "anilist_id": null,
+  "imdb_id": "tt7401028",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 5512,
+      "season_number": 1,
+      "name": "1. Sezon",
+      "episode_count": 4,
+      "episodes": [
+        {
+          "id": 219688,
+          "episode_number": 1,
+          "name": "1.Bölüm",
+          "description": "",
+          "release_date": "2019-11-24T06:11:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/67434e84c2f190eef98891e8-44.jpg",
+          "videos": [
+            {
+              "id": 694916,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67434e84c2f190eef98891e8",
+              "extra": "Arceus Fansub ",
+              "fansub": "Arceus Fansub",
+              "fansub_id": 2624,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 219687,
+          "episode_number": 2,
+          "name": "2.Bölüm",
+          "description": "",
+          "release_date": "2019-11-24T09:11:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/67434f3ac2f190eef98891e9-36.jpg",
+          "videos": [
+            {
+              "id": 694919,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67434f3ac2f190eef98891e9",
+              "extra": "Arceus Fansub ",
+              "fansub": "Arceus Fansub",
+              "fansub_id": 2624,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 219689,
+          "episode_number": 3,
+          "name": "3.Bölüm",
+          "description": "",
+          "release_date": "2019-11-24T15:12:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/67434ff6c2f190eef98891ea-33.jpg",
+          "videos": [
+            {
+              "id": 694922,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67434ff6c2f190eef98891ea",
+              "extra": "Arceus Fansub ",
+              "fansub": "Arceus Fansub",
+              "fansub_id": 2624,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 219690,
+          "episode_number": 4,
+          "name": "4.Bölüm",
+          "description": "",
+          "release_date": "2019-11-24T15:12:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/674350a7c2f190eef98891eb-32.jpg",
+          "videos": [
+            {
+              "id": 694925,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/674350a7c2f190eef98891eb",
+              "extra": "Arceus Fansub ",
+              "fansub": "Arceus Fansub",
+              "fansub_id": 2624,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

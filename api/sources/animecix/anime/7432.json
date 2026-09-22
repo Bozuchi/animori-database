@@ -1,0 +1,626 @@
+{
+  "id": 7432,
+  "name": "Maoujou de Oyasumi",
+  "name_english": "Sleepy Princess in the Demon Castle",
+  "name_romanji": "Sleepy Princess in the Demon Castle",
+  "original_title": "魔王城でおやすみ",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2020,
+  "release_date": "2020-10-06 00:00:00",
+  "description": "Şşşşş! Prenses Syalis iyi bir gece uykusu almaya çalışıyor. Gözlerini kapa. Biraz şekerleme yap. Uzun zaman önce insanların ve iblislerin bir arada yani uyumsuz zaman geçirdiği zamanlarda bir iblis kral bir insan prensesi kaçırır ve onu kalesine hapseder. Zavallı prenses orada işkence görür. Ta ki Prensesi Kurtarma Projesi’ne öncülük edecek bir kahraman ortaya çıkana kadar! Onu kurtarmaya gelecek şövalyeyi beklerken bir prenses ne yapmalı? Yarasa kanatlı oyuncak ayı muhafızlarının hepsi çok iyi ama zindan hayatı çok sıkıcı. Böylece uzun saatler boyunca uyumaya karar verir.",
+  "poster": "https://image.tmdb.org/t/p/original/gIK0KwShli9aH0AxI3fh0F7KlOh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lUWrh3wtY7nDG00b56oMvzk18s7.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    4,
+    2
+  ],
+  "tmdb_id": 97923,
+  "mal_id": 40397,
+  "anilist_id": 111428,
+  "imdb_id": "tt12402550",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 976,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 123852,
+          "episode_number": 1,
+          "name": "Kalenin Uykusuz Prensesi",
+          "description": "Prenses Syalis, Şeytan Kral Twilight tarafından Goodereste Ulusundaki evinden kaçırılır. Demon Kalesinde gizlenen dehşetlere rağmen, Prenses Syalisin tek istediği iyi bir gece uykusu.",
+          "release_date": "2020-10-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fT4Vc8npj1eYCsnnyxS3iGVTyth.jpg",
+          "videos": [
+            {
+              "id": 732497,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68ee5cf4f4be77412d824d22",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 51637,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4103152",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 53015,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/jsqdaidf8k70",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 124257,
+          "episode_number": 2,
+          "name": "Prenses ve Öfkeli Tüy",
+          "description": "Kahraman Dawner, Prenses Syalisi kurtarmak için tehlikeli engellerle karşı karşıya kalırken prenses, Demon Castleda daha rahat uyumak için yaratıcı yollar bulmaya devam eder.",
+          "release_date": "2020-10-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/yRUGT8h3iURMQJcC11UmyqmOQYk.jpg",
+          "videos": [
+            {
+              "id": 360368,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630e80ca96d13322efb02ebb",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 53017,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/o1tpwtxrhrrn",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 124258,
+          "episode_number": 3,
+          "name": "Prenses ve Yasak Bilgi",
+          "description": "Prenses Syalis, yasak büyülü eşyalara karışarak Demon Kalesi için tam bir kargaşaya neden oluyor.",
+          "release_date": "2020-10-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4EAHOW6S6TqswCDBbfpiwhg1MTr.jpg",
+          "videos": [
+            {
+              "id": 359226,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630d870496d13322efb02ba3",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 52741,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4121146",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 52740,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/2169616992871",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 53016,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/r915cxynj8y7",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 124259,
+          "episode_number": 4,
+          "name": "Prenses, Yıkım ve Kısa Bir Yolculuk",
+          "description": "Şeytan Kalesindeki durumundan bıkan Prenses Syalis, kale hapishanesine lüksler katmak için büyük çaba sarf eder.",
+          "release_date": "2020-10-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/i0WpIuqlmvQ6h2MSpufQivv3E24.jpg",
+          "videos": [
+            {
+              "id": 360373,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630e825b96d13322efb02ebf",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 568336,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4122744",
+              "extra": "Çevirmen:RyuZU Lâu Düzenleme:Dimâ-月姫",
+              "fansub": "RyuZU Lâu Düzenleme:Dimâ-月姫",
+              "fansub_id": 260,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 568338,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4499022",
+              "extra": "Gudako & Faeriniel & Twist",
+              "fansub": "Gudako",
+              "fansub_id": 135,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 53018,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/73j3zatuw0qb",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 124260,
+          "episode_number": 5,
+          "name": "Prenses ve Kadın Savaşçılar",
+          "description": "Uzun süredir sahada görevlendirilen kadın birim, Prenses Syalisin ilk tadına varmak için Demon Castlea geri döndü.",
+          "release_date": "2020-11-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fdDzquzKYWt2tXMYAXGlxPU2Xdz.jpg",
+          "videos": [
+            {
+              "id": 373062,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631d6b0faaa5e211ba3841e6",
+              "extra": "Çevirmen:SSamoİi Düzenleme:Dimâ-月姫",
+              "fansub": "SSamoİi Düzenleme:Dimâ-月姫",
+              "fansub_id": 1645,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 200351,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4516339",
+              "extra": "Çevirmen:SSamoİi Düzenleme:Dimâ-月姫",
+              "fansub": "SSamoİi Düzenleme:Dimâ-月姫",
+              "fansub_id": 1645,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 200350,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/2PDgg2d2GOuZ7Jg",
+              "extra": "Çevirmen:SSamoİi Düzenleme:Dimâ-月姫",
+              "fansub": "SSamoİi Düzenleme:Dimâ-月姫",
+              "fansub_id": 1645,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 200349,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/pi5uxh8b6wdj.html",
+              "extra": "Çevirmen:SSamoİi Düzenleme:Dimâ-月姫",
+              "fansub": "SSamoİi Düzenleme:Dimâ-月姫",
+              "fansub_id": 1645,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 124261,
+          "episode_number": 6,
+          "name": "Prensesin Sarsılmaz Seçimi",
+          "description": "Kahraman Dawner, İblis Kalesine yaptığı yolculukta beklenenden daha fazla sorun yaşıyor, bu yüzden iblis yüksek kademeleri harekete geçmeye karar veriyor.",
+          "release_date": "2020-11-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zU0DF87a84TZfp4ZPl8jkvNEMPa.jpg",
+          "videos": [
+            {
+              "id": 360496,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630e9ea496d13322efb02f1f",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 53576,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4136956",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 53575,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/2207505123943",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 124262,
+          "episode_number": 7,
+          "name": "Kalenin Daha Uykusuz Prensesi",
+          "description": "Prenses Syalis kendini tamamen farklı bir şatoda bulmak için uyanır! Ne oldu ve Şeytan Kalesine nasıl dönecek?",
+          "release_date": "2020-11-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/iaaT5VQ4fRsVwTToHWmpZHba7XU.jpg",
+          "videos": [
+            {
+              "id": 360755,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630edf7e96d13322efb0300a",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 54388,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4144790",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 54486,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4144790",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 54387,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/2228856031847",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 54485,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/2228856031847",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 124263,
+          "episode_number": 8,
+          "name": "Prenses ve Korkunç Şeytan Kabusu",
+          "description": "Şeytan Kalesine geri dönen Prenses Syalis, hayaletli hayallerini paylaşmak için önemli bir toplantıyı yarıda keser.",
+          "release_date": "2020-11-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qgn1EHIP9XcHZngEAzJMxnPoL07.jpg",
+          "videos": [
+            {
+              "id": 360843,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630f047196d13322efb03056",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 54823,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/2248870988391",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 124264,
+          "episode_number": 9,
+          "name": "Prenses ve Rehine Eğitim Haftası",
+          "description": "Prenses Syalisin uygun bir rehine gibi davranmaya başlamasının zamanı geldi, bu yüzden iblis kral bunu değiştirmeye yardımcı olacak bir kararname yayınlar.",
+          "release_date": "2020-12-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/gR0D3rw0SPpHwmqyp5ZK4EoRfl4.jpg",
+          "videos": [
+            {
+              "id": 360992,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630f331d96d13322efb030b9",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 55657,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4160844",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 55672,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-kf9jis52yu1l.html",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 55673,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x7xu54e",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 55668,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/4f311jaszqz8",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 124265,
+          "episode_number": 10,
+          "name": "Endopolisteki Prenses",
+          "description": "Prenses Syalis, en yeni ve en harika uyku ürününü elde etmeye kararlıdır, ancak bu yalnızca İnsan Aleminde mevcuttur.",
+          "release_date": "2020-12-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/rgenKwJsHhrYKWfqzVSuUaq3sRy.jpg",
+          "videos": [
+            {
+              "id": 361277,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630f4c2196d13322efb03103",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 56342,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4168120",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 56341,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/2293943700071",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 56380,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-kfr1o2ld4r3k.html",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 56381,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x7xzzab",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 56376,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/mlmfayzpww2j",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 124266,
+          "episode_number": 11,
+          "name": "Prenses ve Rahatsız Edici Rüyalar",
+          "description": "Prenses Syalis ne kadar uyursa uysun kendini yorgun hissediyor ve rahatsız edici rüyaları yardımcı olmuyor.",
+          "release_date": "2020-12-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/autWX33oagsO7DVREspSq3RZ5RG.jpg",
+          "videos": [
+            {
+              "id": 361567,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630f728596d13322efb03148",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 57066,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-1dbqwsb0gy7e.html",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 57067,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x7y4j4r",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 57062,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/ancmt34q01au",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 124267,
+          "episode_number": 12,
+          "name": "12. Bölüm",
+          "description": "",
+          "release_date": "2020-12-22T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 57784,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4187099",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 57783,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/2330218072679",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 57790,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-ro0gcet1aoef.html",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 57791,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x7y9nl9",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 57786,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/05vhqqxp7kg8",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

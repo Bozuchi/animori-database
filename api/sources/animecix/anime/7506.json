@@ -1,0 +1,2236 @@
+{
+  "id": 7506,
+  "name": "Horimiya",
+  "name_english": "Horimiya",
+  "name_romanji": "Horimiya",
+  "original_title": "ホリミヤ",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2021,
+  "release_date": "2021-01-10",
+  "description": "Okulda sevecenliği ve akademik başarılarıyla bilinen liseli Kyouko Hori, aslında gizli bir yanını saklıyor. Hori'nin ailesi sık sık iş nedeniyle evden uzaktayken, onun küçük erkek kardeşine bakması ve ev işlerini yapmak zorunda oluşu okulda sosyalleşmesine engel oluyor.\n\nO esnada, Izumi Miyamura ise üzerinde kara bulutlar dolaşan gözlüklü bir otaku olarak biliniyor. Fakat aslında ders çalışma becerisi olmayan nazik bir kişiliğe sahiptir. Ayrıca uzun saçlarının ardında sakladığı dokuz piercingi, sırtında ve sol omzunda da bir dövmesi vardır.\n\nTamamıyla şans eseri olarak, Hori ve Miyamura okul dışında karşılaşırlar. Görünüşe bakılırsa, bu iki zıt kutup arkadaş olur ve kimseye göstermedikleri yanlarını paylaşırlar.",
+  "poster": "https://image.tmdb.org/t/p/original/917VL7zHTaltnEBDrKWVITTsvLy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/iAvSplFXsPoVVvzyNQuw2wWQDzU.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    9,
+    6,
+    4
+  ],
+  "tmdb_id": 110070,
+  "mal_id": 42897,
+  "anilist_id": 0,
+  "imdb_id": "tt13103134",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 1076,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 13,
+      "episodes": [
+        {
+          "id": 126462,
+          "episode_number": 1,
+          "name": "Küçük Bir Tesadüf",
+          "description": "Hori-san çift hayat yaşıyor: okulda popüler ve modaya uygun bir kız, evde ise sade ve iradeli bir bakıcı. Sınıf arkadaşı Miyamura ile tesadüfen karşılaştıktan sonra, gerçek kimliğini saklayan tek kişinin kendisi olmadığını anlar.",
+          "release_date": "2021-01-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cQj59g8z7qsRHGNgRXCQgPj75eu.jpg",
+          "videos": [
+            {
+              "id": 361683,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630f9a2a96d13322efb0318e",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 699439,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67719443ba2018e54a0f77fd",
+              "extra": "18",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 703590,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/679ba7a0b00f138db1d44c00",
+              "extra": "Luvy & Myisha",
+              "fansub": "Luvy",
+              "fansub_id": 688,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726672,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68988097de99e6cf8d096720",
+              "extra": "Çeviri: octowler / Redakte & Encode: Rumî",
+              "fansub": "octowler / Redakte &",
+              "fansub_id": 689,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731463,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68e0c7ba5e29f4e26879b3d9",
+              "extra": "Çevirmen: deachan | Redaktör: Xyla | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743467,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697fe295faa4f0fe3c146193",
+              "extra": "Çeviri: DaBiggStompa Redaksiyon: Soonyi Encode: Perpo - www.instagram.com/codeanimee",
+              "fansub": "DaBiggStompa",
+              "fansub_id": 693,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758625,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a58147e75c86a0b6f67b74d",
+              "extra": "AkiSensei",
+              "fansub": "AkiSensei",
+              "fansub_id": 189,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 61181,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4204826",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 61183,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4204844",
+              "extra": "18",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 400114,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4919843",
+              "extra": "Çevirmen: deachan | Redaktör: Xyla | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 61180,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/2383645051495",
+              "extra": "8",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 400108,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1F-CNwe-UEIVpSsduUJ27PbEmbystkNZB/preview",
+              "extra": "Çevirmen: deachan | Redaktör: Xyla | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 400113,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/cfcgUJiZ#KQfXve5-ZjHHlAN_88KV1fvZm2cJPLe1H21r4PGj044",
+              "extra": "Çevirmen: deachan | Redaktör: Xyla | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 400115,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/4538441009799",
+              "extra": "Çevirmen: deachan | Redaktör: Xyla | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731464,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/gchhcqaw99yg",
+              "extra": "Çevirmen: deachan | Redaktör: Xyla | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731465,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-7n0pp2px4kyk.html",
+              "extra": "Çevirmen: deachan | Redaktör: Xyla | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743468,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/skcfq92gejas",
+              "extra": "Çeviri: DaBiggStompa Redaksiyon: Soonyi Encode: Perpo - www.instagram.com/codeanimee",
+              "fansub": "DaBiggStompa",
+              "fansub_id": 693,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743469,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-4dqe9gheiq9r.html",
+              "extra": "Çeviri: DaBiggStompa Redaksiyon: Soonyi Encode: Perpo - www.instagram.com/codeanimee",
+              "fansub": "DaBiggStompa",
+              "fansub_id": 693,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758626,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-6udnfa1xgk5c.html",
+              "extra": "AkiSensei",
+              "fansub": "AkiSensei",
+              "fansub_id": 189,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 127791,
+          "episode_number": 2,
+          "name": "Birden Fazla Yüzün Var",
+          "description": "Annesi Miyamura hakkında soru sorduğunda, Hori korkutucu bir gerçeğin farkına varır. Daha sonra Öğrenci Konseyi, Hori'yi ekstra işlere dahil eder, ancak bir çatışma çıktığında, durumu yatıştırmak Miyamura'ya kalır.",
+          "release_date": "2021-01-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tDQeg0d0LLx25wa9maO0E8ACTmB.jpg",
+          "videos": [
+            {
+              "id": 494078,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/641fdbfc324622a40e0e68a5",
+              "extra": "11",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 705059,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67ae2baab00f138db1d44dce",
+              "extra": "Luvy & Myisha",
+              "fansub": "Luvy",
+              "fansub_id": 688,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726674,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68988148de99e6cf8d096721",
+              "extra": "octowler",
+              "fansub": "octowler",
+              "fansub_id": 4,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731466,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68e0c84c5e29f4e26879b3da",
+              "extra": "Çevirmen: deachan | Redaktör: Xyla | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 64465,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4211176",
+              "extra": "11",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 401229,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4921206",
+              "extra": "Çevirmen: deachan | Redaktör: Xyla | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 64474,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x7yq5ca",
+              "extra": "11",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 64473,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-n3mwyxfd9p7i.html",
+              "extra": "11",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 64464,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/2613365312048",
+              "extra": "11",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 401221,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1-uArmUjh8u2_IV8VqG0S2SaBzuf-4dvw/preview",
+              "extra": "Çevirmen: deachan | Redaktör: Xyla | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 401231,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/4542532225671",
+              "extra": "Çevirmen: deachan | Redaktör: Xyla | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 401232,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/RHtDyRoT#T3xzKgtggmKPugWSI2l6kUjWg-HC433Oa8kGeviP7s4",
+              "extra": "Çevirmen: deachan | Redaktör: Xyla | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726675,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/y3ppf1drh750",
+              "extra": "octowler",
+              "fansub": "octowler",
+              "fansub_id": 4,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731467,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/mkhojsoynnmj",
+              "extra": "Çevirmen: deachan | Redaktör: Xyla | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731468,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-xu7cf5ejjw9m.html",
+              "extra": "Çevirmen: deachan | Redaktör: Xyla | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 64469,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/oe1nx2nqqj0l",
+              "extra": "11",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 127792,
+          "episode_number": 3,
+          "name": "Bu Yüzden Sorun Yok",
+          "description": "Miyamura geçmişini ve bugünü üzerine düşünür. Hori, Remi'nin bencil talebine yanıt verir. Ishikawa ve Miyamura arasındaki hararetli tartışma, yumruklaşmayla sona erer.",
+          "release_date": "2021-01-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/6VnFRVZinwxsM4HTkGkLtefqWbb.jpg",
+          "videos": [
+            {
+              "id": 362213,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6310377896d13322efb032b9",
+              "extra": "Fembed",
+              "fansub": "Fembed",
+              "fansub_id": 681,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 726678,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/689881d7de99e6cf8d096722",
+              "extra": "Çeviri: octowler / Redakte & Encode: Rumî",
+              "fansub": "octowler / Redakte &",
+              "fansub_id": 689,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731469,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68e0c8de8040a7fcf4e832a0",
+              "extra": "Çevirmen: deachan | Redaktör: Xyla | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 401548,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4924476",
+              "extra": "Çevirmen: deachan | Redaktör: Xyla | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 401555,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1iJeX4u9PYsemfgjP0umgAXTruVd9C1cb/preview",
+              "extra": "Çevirmen: deachan | Redaktör: Xyla | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 401562,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/tSs1FYRb#F_sMm8R5fWEZ-rqvcHq1HMrSiYYRyGYI2ts5k-afuzU",
+              "extra": "Çevirmen: deachan | Redaktör: Xyla | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 401563,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/4550426364551",
+              "extra": "Çevirmen: deachan | Redaktör: Xyla | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 66126,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-7jby5f51w7xt.html",
+              "extra": "Vudeo ",
+              "fansub": "Vudeo",
+              "fansub_id": 694,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 731470,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-77qqhzt2wru7.html",
+              "extra": "Çevirmen: deachan | Redaktör: Xyla | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 66122,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/ajuovb8ouf3i",
+              "extra": "Mystream ",
+              "fansub": "Mystream",
+              "fansub_id": 695,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 127793,
+          "episode_number": 4,
+          "name": "Herkes Birini Sever",
+          "description": "Öğrenci konseyi odası, havalı bir buluşma yeri haline gelir. Hori, Miyamura'yı telaşlandırmaya çalışır. Eski bir arkadaş, Miyamura'nın yeni bir yönünü ortaya çıkarır. Daha sonra, Hori hastalandığında Miyamura onun yardımına koşar.",
+          "release_date": "2021-01-31T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tvnoUoUDJIsSxfrMtgJxYekK4YY.jpg",
+          "videos": [
+            {
+              "id": 389472,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63358235d03cb090cb4c588d",
+              "extra": "KuroSubs",
+              "fansub": "KuroSubs",
+              "fansub_id": 685,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677935,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66d4d80848d0b8046dc06807",
+              "extra": "Çevirmen: deachan | Redaktör: Xyla | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726680,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68988266de99e6cf8d096723",
+              "extra": "Çeviri: octowler / Redakte & Encode: Rumî",
+              "fansub": "octowler / Redakte &",
+              "fansub_id": 689,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731471,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68e0c970f4be77412d824ccc",
+              "extra": "Çevirmen: deachan | Redaktör: Xyla | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 401576,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4924473",
+              "extra": "Çevirmen: deachan | Redaktör: Xyla | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 70189,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/r0pr99Vj1Gcbjo4",
+              "extra": "KuroSubs",
+              "fansub": "KuroSubs",
+              "fansub_id": 685,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 70183,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-4dr92iurz5n8.html",
+              "extra": "KuroSubs",
+              "fansub": "KuroSubs",
+              "fansub_id": 685,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 70184,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x7z0gck",
+              "extra": "KuroSubs",
+              "fansub": "KuroSubs",
+              "fansub_id": 685,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 70188,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/h21f2d823gqk.html",
+              "extra": "KuroSubs",
+              "fansub": "KuroSubs",
+              "fansub_id": 685,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 401567,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1MShP-lkne8Vc0issKXzlFIG5PZnzURdm/preview",
+              "extra": "Çevirmen: deachan | Redaktör: Xyla | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 401575,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/4550423480967",
+              "extra": "Çevirmen: deachan | Redaktör: Xyla | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 401577,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/ZSFQCApK#6pLMcCdrhHaGkZ7zrQg3RTYOWZqFdhCFm8M9tx4SkOM",
+              "extra": "Çevirmen: deachan | Redaktör: Xyla | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726681,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ovx22edh35d0",
+              "extra": "Çeviri: octowler / Redakte & Encode: Rumî",
+              "fansub": "octowler / Redakte &",
+              "fansub_id": 689,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731472,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-63adc68xcdnk.html",
+              "extra": "Çevirmen: deachan | Redaktör: Xyla | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 70180,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/i3ah4bz4d3m0",
+              "extra": "KuroSubs",
+              "fansub": "KuroSubs",
+              "fansub_id": 685,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 127794,
+          "episode_number": 5,
+          "name": "Bunu Yüksek Sesle Söyleyemem",
+          "description": "Bir söylenti, Hori ve Miyamura'nın yeni başlayan ilişkisini karmaşıklaştırır. Kyosuke eve döner ve Miyamura'yı hemen sever. Sakura, Remi ile olan arkadaşlığını değerlendirir.",
+          "release_date": "2021-02-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ix9C2PdqGf51qJ2hQpTYxRaseAO.jpg",
+          "videos": [
+            {
+              "id": 416159,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63743c53c675b3eba1962faf",
+              "extra": "Çevirmen: deachan | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 582174,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64d9618c28edaf68b3c26d15",
+              "extra": "Çeviri: BNC - Encode&Upload: Vuats",
+              "fansub": "BNC - Encode&",
+              "fansub_id": 686,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726683,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/689882f4f7610871857b8c90",
+              "extra": "octowler",
+              "fansub": "octowler",
+              "fansub_id": 4,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 75603,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4226679",
+              "extra": "Çeviri: BNC - Encode&Upload: Vuats",
+              "fansub": "BNC - Encode&",
+              "fansub_id": 686,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 416153,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4953867",
+              "extra": "Çevirmen: deachan | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 416157,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4953868",
+              "extra": "Çevirmen: deachan | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 416168,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4953869",
+              "extra": "Çevirmen: deachan | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 582176,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5226096",
+              "extra": "Çeviri: BNC - Encode&Upload: Vuats",
+              "fansub": "BNC - Encode&",
+              "fansub_id": 686,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 75602,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/D2Aye2dVXwukrpG",
+              "extra": "Çeviri: BNC - Encode&Upload: Vuats",
+              "fansub": "BNC - Encode&",
+              "fansub_id": 686,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 75597,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-28okpqtox2k3.html",
+              "extra": "Çeviri: BNC - Encode&Upload: Vuats",
+              "fansub": "BNC - Encode&",
+              "fansub_id": 686,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 75601,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/3wl8jzxodnx8.html",
+              "extra": "Çeviri: BNC - Encode&Upload: Vuats",
+              "fansub": "BNC - Encode&",
+              "fansub_id": 686,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 416134,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1RXXV8eDmFdlDGVhoGe-5sYLvI7AaYyWI/preview",
+              "extra": "Çevirmen: deachan | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 416139,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/4697338481287",
+              "extra": "Çevirmen: deachan | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 416143,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1vHOR0BtUgjamlPPtH1XV6Wyw4oAReTuD/preview",
+              "extra": "Çevirmen: deachan | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 416148,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/AG023JjA#4vpfPFp488LX7LjgH_wB7ynjVVM5E1BMlt5olqy6q0E",
+              "extra": "Çevirmen: deachan | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 416149,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/4697341299335",
+              "extra": "Çevirmen: deachan | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 75594,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/tgl94duy34uh",
+              "extra": "Çeviri: BNC - Encode&Upload: Vuats",
+              "fansub": "BNC - Encode&",
+              "fansub_id": 686,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 127795,
+          "episode_number": 6,
+          "name": "Bu Yaz Çok Sıcak Geçecek",
+          "description": "Miyamura geceyi orada geçirir. Okulda dedikodular hızla yayılır. Shindo, çifti yanına çağırır ve bir torba şeker ikram eder. İkinci sınıfta okuyan bir kız, Miyamura'yı takip etmeye başlar.",
+          "release_date": "2021-02-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zsvThJXQXp0cOzhjDTAaamWuyAL.jpg",
+          "videos": [
+            {
+              "id": 609303,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6563c0fd30e908b3e8e720b9",
+              "extra": "KuroSubs",
+              "fansub": "KuroSubs",
+              "fansub_id": 685,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726685,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68988385f7610871857b8c91",
+              "extra": "octowler & MAHo",
+              "fansub": "octowler",
+              "fansub_id": 4,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731473,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68e0ca0308b60ac8219a385a",
+              "extra": "Çevirmen: deachan | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 79982,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4232154",
+              "extra": "KuroSubs",
+              "fansub": "KuroSubs",
+              "fansub_id": 685,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 437237,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4991285",
+              "extra": "Çevirmen: deachan | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 437238,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4991286",
+              "extra": "Çevirmen: deachan | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 437246,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4991287",
+              "extra": "Çevirmen: deachan | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 79981,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/DZo3M3Popgik97Y",
+              "extra": "KuroSubs",
+              "fansub": "KuroSubs",
+              "fansub_id": 685,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79976,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-ltr6ppresvbe.html",
+              "extra": "KuroSubs",
+              "fansub": "KuroSubs",
+              "fansub_id": 685,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79980,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/6a8zirirrh94.html",
+              "extra": "KuroSubs",
+              "fansub": "KuroSubs",
+              "fansub_id": 685,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 437220,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1quVngsbzaJnFeF4R5h4hJa0oLHUCYMJz/preview",
+              "extra": "Çevirmen: deachan | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 437228,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/4869680269959",
+              "extra": "Çevirmen: deachan | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 437230,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1nJiv2M35tcoEzSYKMvxMMpNVm3jZlji5/preview",
+              "extra": "Çevirmen: deachan | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 437234,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/4869688461959",
+              "extra": "Çevirmen: deachan | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 437235,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/kOFxhJDI#kUgXjcFMmzrcy5mFx9k04x9SHX3sUFdd7uWYH99HNzA",
+              "extra": "Çevirmen: deachan | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726686,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/2cs51g9yqw9c",
+              "extra": "octowler & MAHo",
+              "fansub": "octowler",
+              "fansub_id": 4,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731474,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/mdx5m2luu7px",
+              "extra": "Çevirmen: deachan | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731475,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-e0psibhq10dh.html",
+              "extra": "Çevirmen: deachan | Encoder: Lia",
+              "fansub": "deachan",
+              "fansub_id": 680,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 79975,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/1gnpr4dyahel",
+              "extra": "KuroSubs",
+              "fansub": "KuroSubs",
+              "fansub_id": 685,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 127796,
+          "episode_number": 7,
+          "name": "Sen Buradasın, Ben Buradayım",
+          "description": "Sakura, Toru'ya yaklaşmak için cesaretini toplar. Yoshikawa, gerçekte ne istediğini söylemekte zorlanır. Miyamura bir haftalık bir seyahate çıkar. Hori, korku filmlerine olan takıntısı hakkında endişelenir.",
+          "release_date": "2021-02-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/hPrrc3IwuIYWWPh99FFo3xQhVL9.jpg",
+          "videos": [
+            {
+              "id": 364058,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63129b23a21596c7104eae3c",
+              "extra": "Çevirmen: Yusuf but KuroYukiHime-黒雪姫",
+              "fansub": "Yusuf but KuroYukiHime-黒雪姫",
+              "fansub_id": 682,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 726688,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68988415de99e6cf8d096724",
+              "extra": "octowler",
+              "fansub": "octowler",
+              "fansub_id": 4,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731476,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68e0ca958040a7fcf4e832a1",
+              "extra": "Çevirmen: SPONXS | Kodlayıcı: Lia",
+              "fansub": "SPONXS | Kodlayıcı: Lia",
+              "fansub_id": 690,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 84785,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4240657",
+              "extra": "Çevirmen: Yusuf but KuroYukiHime-黒雪姫",
+              "fansub": "Yusuf but KuroYukiHime-黒雪姫",
+              "fansub_id": 682,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 558347,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5188652",
+              "extra": "Çevirmen: SPONXS | Kodlayıcı: Lia",
+              "fansub": "SPONXS | Kodlayıcı: Lia",
+              "fansub_id": 690,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 558355,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5188653",
+              "extra": "Çevirmen: SPONXS | Kodlayıcı: Lia",
+              "fansub": "SPONXS | Kodlayıcı: Lia",
+              "fansub_id": 690,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 84784,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/4G0x4jLV1WuKMvV",
+              "extra": "Çevirmen: Yusuf but KuroYukiHime-黒雪姫",
+              "fansub": "Yusuf but KuroYukiHime-黒雪姫",
+              "fansub_id": 682,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 84778,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-pcragfr25sjl.html",
+              "extra": "Çevirmen: Yusuf but KuroYukiHime-黒雪姫",
+              "fansub": "Yusuf but KuroYukiHime-黒雪姫",
+              "fansub_id": 682,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 84779,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x7zftpk",
+              "extra": "Çevirmen: Yusuf but KuroYukiHime-黒雪姫",
+              "fansub": "Yusuf but KuroYukiHime-黒雪姫",
+              "fansub_id": 682,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 84783,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/cvk3ig6t5aqz.html",
+              "extra": "Çevirmen: Yusuf but KuroYukiHime-黒雪姫",
+              "fansub": "Yusuf but KuroYukiHime-黒雪姫",
+              "fansub_id": 682,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 558346,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6430787570311",
+              "extra": "Çevirmen: SPONXS | Kodlayıcı: Lia",
+              "fansub": "SPONXS | Kodlayıcı: Lia",
+              "fansub_id": 690,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 558356,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1RbllCxY4JJ4p_U3ORaD-QOwsVpKuefza/preview",
+              "extra": "Çevirmen: SPONXS | Kodlayıcı: Lia",
+              "fansub": "SPONXS | Kodlayıcı: Lia",
+              "fansub_id": 690,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726689,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/al2wffphupmy",
+              "extra": "octowler",
+              "fansub": "octowler",
+              "fansub_id": 4,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731477,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/enlipgcbvwa3",
+              "extra": "Çevirmen: SPONXS | Kodlayıcı: Lia",
+              "fansub": "SPONXS | Kodlayıcı: Lia",
+              "fansub_id": 690,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731478,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-jz5ptexagfkq.html",
+              "extra": "Çevirmen: SPONXS | Kodlayıcı: Lia",
+              "fansub": "SPONXS | Kodlayıcı: Lia",
+              "fansub_id": 690,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 84776,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/akm8xz9gcvcc",
+              "extra": "Çevirmen: Yusuf but KuroYukiHime-黒雪姫",
+              "fansub": "Yusuf but KuroYukiHime-黒雪姫",
+              "fansub_id": 682,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 127797,
+          "episode_number": 8,
+          "name": "Gerçeğin Yalanı Ortaya Çıkıyor",
+          "description": "Remi, Sengoku ile nasıl çıkmaya başladıklarını düşünür. Miyamura, Hori'nin gizli bir yönünü keşfeder. Yoshikawa'ya çıkma teklifi edildiğinde, çete Ishikawa'dan yardım ister.",
+          "release_date": "2021-02-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1HJgiri1FfWqOc9K5y9ClmM77Rm.jpg",
+          "videos": [
+            {
+              "id": 726691,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/689884a52b6c8a40dde15996",
+              "extra": "Çeviri: octowler / Redakte: Rowe / Encode: Rumî",
+              "fansub": "octowler",
+              "fansub_id": 4,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731479,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68e0cb2c8040a7fcf4e832a2",
+              "extra": "Çevirmen: Lia | Kodlayıcı: Lia",
+              "fansub": "Lia | Kodlayıcı: Lia",
+              "fansub_id": 280,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731482,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68e0cbbe5e29f4e26879b3db",
+              "extra": "Çevirmen: Zoee|| Redakte: defsnora || Encode: MonRaido",
+              "fansub": "Zoee",
+              "fansub_id": 691,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 87697,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4247792",
+              "extra": "Çevirmen: Zoee|| Redakte: defsnora || Encode: MonRaido",
+              "fansub": "Zoee",
+              "fansub_id": 691,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 595933,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5272390",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 595934,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5272391",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 87696,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/AoOLqJ4Zx1FWeb",
+              "extra": "Çevirmen: Zoee|| Redakte: defsnora || Encode: MonRaido",
+              "fansub": "Zoee",
+              "fansub_id": 691,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 87690,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-r80i9wc13hou.html",
+              "extra": "Çevirmen: Zoee|| Redakte: defsnora || Encode: MonRaido",
+              "fansub": "Zoee",
+              "fansub_id": 691,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 87691,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x7zltak",
+              "extra": "Çevirmen: Zoee|| Redakte: defsnora || Encode: MonRaido",
+              "fansub": "Zoee",
+              "fansub_id": 691,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 87695,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/fnxqky9hb0jo.html",
+              "extra": "Çevirmen: Zoee|| Redakte: defsnora || Encode: MonRaido",
+              "fansub": "Zoee",
+              "fansub_id": 691,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 595929,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1EQjFsTzdKaJSqTy5hpVh0kjzz1OG7jRz/preview",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 595930,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6993338501767",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 595931,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1bv0AkCqJU_fOSwalORuKPfOptjjyQbPs/preview",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726692,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/hc930t6rwxmy",
+              "extra": "Çeviri: octowler / Redakte: Rowe / Encode: Rumî",
+              "fansub": "octowler",
+              "fansub_id": 4,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731480,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/vh1fnpba1lwg",
+              "extra": "Çevirmen: Lia | Kodlayıcı: Lia",
+              "fansub": "Lia | Kodlayıcı: Lia",
+              "fansub_id": 280,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731481,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-h71g06ip5lmm.html",
+              "extra": "Çevirmen: Lia | Kodlayıcı: Lia",
+              "fansub": "Lia | Kodlayıcı: Lia",
+              "fansub_id": 280,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 87688,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/yygc5zhpntjv",
+              "extra": "Çevirmen: Zoee|| Redakte: defsnora || Encode: MonRaido",
+              "fansub": "Zoee",
+              "fansub_id": 691,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 127798,
+          "episode_number": 9,
+          "name": "Zor, Ama İmkânsız Değil",
+          "description": "Miyamura, bazı düşmanca yüzlerle karşılaşır. Hori, Miyamura'nın en karanlık arzularını yerine getirmesini ister. Mizouchi'nin aşkı karşılıksızdır. Tanihara, Miyamura ile geçmişiyle yüzleşir.",
+          "release_date": "2021-03-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dVp14uhXllD3pcPHSKHbLkJJlDC.jpg",
+          "videos": [
+            {
+              "id": 726694,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68988534de99e6cf8d096725",
+              "extra": "octowler",
+              "fansub": "octowler",
+              "fansub_id": 4,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731483,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68e0cc0a5e29f4e26879b3dc",
+              "extra": "Çevirmen: Lia | Kodlayıcı: Lia",
+              "fansub": "Lia | Kodlayıcı: Lia",
+              "fansub_id": 280,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731486,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68e0cca4f4be77412d824ccd",
+              "extra": "Eris-Ari",
+              "fansub": "Eris-Ari",
+              "fansub_id": 692,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 89629,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4254469",
+              "extra": "Eris-Ari",
+              "fansub": "Eris-Ari",
+              "fansub_id": 692,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 595940,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5272397",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 595941,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5272396",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 89628,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/wlBweWKMB6SlMA",
+              "extra": "Eris-Ari",
+              "fansub": "Eris-Ari",
+              "fansub_id": 692,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 89622,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-h3dcafuksxkv.html",
+              "extra": "Eris-Ari",
+              "fansub": "Eris-Ari",
+              "fansub_id": 692,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 89623,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x7zr0dr",
+              "extra": "Eris-Ari",
+              "fansub": "Eris-Ari",
+              "fansub_id": 692,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 89627,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/4f3b5nr8nk3e.html",
+              "extra": "Eris-Ari",
+              "fansub": "Eris-Ari",
+              "fansub_id": 692,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 595935,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1tBz05KKTjOSpD9siUJAVSVFYlEn32zwu/preview",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 595936,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1KieSOagxA9vZN3LImUwtghhEcDAkVupj/preview",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 595949,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6993347807879",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726695,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/auqvw8rju0rp",
+              "extra": "octowler",
+              "fansub": "octowler",
+              "fansub_id": 4,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731484,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ehkzcd7q76j2",
+              "extra": "Çevirmen: Lia | Kodlayıcı: Lia",
+              "fansub": "Lia | Kodlayıcı: Lia",
+              "fansub_id": 280,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731485,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-s94vmo0m7rem.html",
+              "extra": "Çevirmen: Lia | Kodlayıcı: Lia",
+              "fansub": "Lia | Kodlayıcı: Lia",
+              "fansub_id": 280,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 89618,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/3xrgji19cbza",
+              "extra": "Eris-Ari",
+              "fansub": "Eris-Ari",
+              "fansub_id": 692,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 127799,
+          "episode_number": 10,
+          "name": "Kar Eriyene Kadar",
+          "description": "Hori, Miyamura'dan beklenmedik bir talepte bulunur. Yoshikawa, Ishikawa ile olan sahte ilişkisi sona erebileceğini öğrenince, kendi duyguları üzerine düşünmek zorunda kalır.",
+          "release_date": "2021-03-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jLDRjqmbli0s9yvwGMicXWQCGsr.jpg",
+          "videos": [
+            {
+              "id": 364670,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63135fbfaaa5e211ba3831da",
+              "extra": "Eris - Ari",
+              "fansub": "Eris",
+              "fansub_id": 683,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 726697,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/689885c62b6c8a40dde15997",
+              "extra": "Çeviri: octowler / Redakte: Rowe / Encode: Rumî",
+              "fansub": "octowler",
+              "fansub_id": 4,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731487,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68e0cced5e29f4e26879b3dd",
+              "extra": "Çevirmen: Lia | Kodlayıcı: Lia",
+              "fansub": "Lia | Kodlayıcı: Lia",
+              "fansub_id": 280,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 93240,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4260377",
+              "extra": "Eris - Ari",
+              "fansub": "Eris",
+              "fansub_id": 683,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 595952,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5272398",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 595953,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5272399",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 93239,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/zlBgxOrWvBSYalg",
+              "extra": "Eris - Ari",
+              "fansub": "Eris",
+              "fansub_id": 683,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 93233,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-svppnhadwn6j.html",
+              "extra": "Eris - Ari",
+              "fansub": "Eris",
+              "fansub_id": 683,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 93234,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x7zxajz",
+              "extra": "Eris - Ari",
+              "fansub": "Eris",
+              "fansub_id": 683,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 93238,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/tqj9mfjv7bdd.html",
+              "extra": "Eris - Ari",
+              "fansub": "Eris",
+              "fansub_id": 683,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 595963,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6993357376135",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 595966,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1VqoSjUEPLaj4GJi3hzgInOOo4swvwKgq/preview",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 595967,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1W8tXb6ZTV01x8F6fANSDRDZtva-5BUh4/preview",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726698,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/fouy637sjo6m",
+              "extra": "Çeviri: octowler / Redakte: Rowe / Encode: Rumî",
+              "fansub": "octowler",
+              "fansub_id": 4,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731488,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/uaojrjlkxwf9",
+              "extra": "Çevirmen: Lia | Kodlayıcı: Lia",
+              "fansub": "Lia | Kodlayıcı: Lia",
+              "fansub_id": 280,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731489,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-lzop3o8cp7cn.html",
+              "extra": "Çevirmen: Lia | Kodlayıcı: Lia",
+              "fansub": "Lia | Kodlayıcı: Lia",
+              "fansub_id": 280,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 93230,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/ucwyp48i8456",
+              "extra": "Eris - Ari",
+              "fansub": "Eris",
+              "fansub_id": 683,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 127800,
+          "episode_number": 11,
+          "name": "Nefret Gibi Görünebilir",
+          "description": "Çete, Yanagi'yi rahatlatmaya çalışır. Iura, Sawada'yı ne kadar korkuttuğunun farkında değildir. Iura'nın kız kardeşi Motoko giriş sınavlarıyla uğraşırken Iura, Hori'den yardım ister.",
+          "release_date": "2021-03-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vS3MhAs9VWB3mBmdtPisxlJXmG5.jpg",
+          "videos": [
+            {
+              "id": 699441,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/677195c7ba2018e54a0f77ff",
+              "extra": "Sir Integra",
+              "fansub": "Sir Integra",
+              "fansub_id": 687,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726700,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68988658cc394bdbff51aa9c",
+              "extra": "Çeviri: octowler / Redakte: Rowe / Encode: Rumî",
+              "fansub": "octowler",
+              "fansub_id": 4,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731490,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68e0cd855e29f4e26879b3de",
+              "extra": "Çevirmen: Lia | Kodlayıcı: Lia",
+              "fansub": "Lia | Kodlayıcı: Lia",
+              "fansub_id": 280,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 101969,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4265522",
+              "extra": "Sir Integra",
+              "fansub": "Sir Integra",
+              "fansub_id": 687,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 595979,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5272401",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 595980,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5272402",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 101968,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/8vQQ42AXGPSov0W",
+              "extra": "Sir Integra",
+              "fansub": "Sir Integra",
+              "fansub_id": 687,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 101963,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-jnwamsqac8ek.html",
+              "extra": "Sir Integra",
+              "fansub": "Sir Integra",
+              "fansub_id": 687,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 101967,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/dx0vn4ek3rfg.html",
+              "extra": "Sir Integra",
+              "fansub": "Sir Integra",
+              "fansub_id": 687,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 595970,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1xDLCClK00EbaF7tvz4K1YqaCN7Bqs-yO/preview",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 595971,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1t__o929hFD-QeCmcaoWfKuMBlRpTYwmb/preview",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 595981,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6993370679943",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731491,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/0x1d7yh11vmb",
+              "extra": "Çevirmen: Lia | Kodlayıcı: Lia",
+              "fansub": "Lia | Kodlayıcı: Lia",
+              "fansub_id": 280,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731492,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-68l3z65n16ha.html",
+              "extra": "Çevirmen: Lia | Kodlayıcı: Lia",
+              "fansub": "Lia | Kodlayıcı: Lia",
+              "fansub_id": 280,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 101960,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/56bb9smzg6y0",
+              "extra": "Sir Integra",
+              "fansub": "Sir Integra",
+              "fansub_id": 687,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 127801,
+          "episode_number": 12,
+          "name": "Şimdiye Kadar ve Sonsuza Kadar",
+          "description": "Yoshikawa, Ishikawa'nın evine gider. Noel, herkese romantik bir tatil neşesi getirir. Hori ve Miyamura geleceklerini tartışırlar.",
+          "release_date": "2021-03-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/s1GMdpAV1vXVI3NIqTHK1R6g4Vm.jpg",
+          "videos": [
+            {
+              "id": 726702,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/689886f22b6c8a40dde15998",
+              "extra": "Çeviri: octowler / Redakte: Rowe / Encode: Rumî",
+              "fansub": "octowler",
+              "fansub_id": 4,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731493,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68e0ce1a8040a7fcf4e832a3",
+              "extra": "Çevirmen: Lia | Kodlayıcı: Lia",
+              "fansub": "Lia | Kodlayıcı: Lia",
+              "fansub_id": 280,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731495,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68e0ceb108b60ac8219a385b",
+              "extra": "Eris",
+              "fansub": "Eris",
+              "fansub_id": 683,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 105975,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4276317",
+              "extra": "Eris",
+              "fansub": "Eris",
+              "fansub_id": 683,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 595985,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5272405",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 595986,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5272407",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 105974,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/P7m4Y3k140UkBy",
+              "extra": "Eris",
+              "fansub": "Eris",
+              "fansub_id": 683,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 105970,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-2y6euqi7bdz2.html",
+              "extra": "Eris",
+              "fansub": "Eris",
+              "fansub_id": 683,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 105973,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/cs30kwxv26pc.html",
+              "extra": "Eris",
+              "fansub": "Eris",
+              "fansub_id": 683,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 595987,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6993375005319",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 595992,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1Lelrhh1yqsu_oE_gIwCisO80CPV5qYrV/preview",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 595993,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1wW3UbLQTS81aQHDXKf9RNzF513bJxPfh/preview",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726703,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/2jsdbsllu4it",
+              "extra": "Çeviri: octowler / Redakte: Rowe / Encode: Rumî",
+              "fansub": "octowler",
+              "fansub_id": 4,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731494,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-oj6kae544h31.html",
+              "extra": "Çevirmen: Lia | Kodlayıcı: Lia",
+              "fansub": "Lia | Kodlayıcı: Lia",
+              "fansub_id": 280,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 105968,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/n2m5imgxyied",
+              "extra": "Eris",
+              "fansub": "Eris",
+              "fansub_id": 683,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 127802,
+          "episode_number": 13,
+          "name": "Sana Gökyüzünü Hediye Ederdim",
+          "description": "Mezuniyet yaklaşırken Miyamura, geçtiğimiz yılı, belirsiz geleceği ve bulduğu yeni hayatı düşünür.",
+          "release_date": "2021-04-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9A1mpFQBYHMENvb22dd9ieYAvH8.jpg",
+          "videos": [
+            {
+              "id": 365387,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6313dc0aaaa5e211ba3833c0",
+              "extra": "TheMetehan",
+              "fansub": "TheMetehan",
+              "fansub_id": 684,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 596050,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/652a66ecde079f0248482614",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 726705,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68988783f7610871857b8c92",
+              "extra": "Çeviri: octowler / Redakte: Rowe / Encode: Rumî",
+              "fansub": "octowler",
+              "fansub_id": 4,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 110804,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4285874",
+              "extra": "TheMetehan",
+              "fansub": "TheMetehan",
+              "fansub_id": 684,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 596000,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5272408",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 596001,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5272409",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 596056,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5280076",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 110803,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/7YRjL7ZyKDhAr1a",
+              "extra": "TheMetehan",
+              "fansub": "TheMetehan",
+              "fansub_id": 684,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 110799,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-t6u0ugpk6v0m.html",
+              "extra": "TheMetehan",
+              "fansub": "TheMetehan",
+              "fansub_id": 684,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 110802,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/i5i1ma7launo.html",
+              "extra": "TheMetehan",
+              "fansub": "TheMetehan",
+              "fansub_id": 684,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 596011,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1YhMBUyHXbJPfyahCGQin_cLgvM3hOIEV/preview",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 596012,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/6993391585927",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 596014,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1daq1LPF6k0Q6nJVAXIRRpSlofc7DVmk1/preview",
+              "extra": "Çevirmen: Lia | Encoder: Lia",
+              "fansub": "Lia",
+              "fansub_id": 10,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 110796,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/s6y3qy7xam4h",
+              "extra": "TheMetehan",
+              "fansub": "TheMetehan",
+              "fansub_id": 684,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

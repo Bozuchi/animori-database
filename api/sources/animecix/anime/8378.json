@@ -1,0 +1,996 @@
+{
+  "id": 8378,
+  "name": "Taboo Tattoo",
+  "name_english": "Taboo Tattoo",
+  "name_romanji": "Taboo Tattoo",
+  "original_title": "タブー・タトゥー",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2016,
+  "release_date": "2016-07-05 00:00:00",
+  "description": "Seigi, sık sık etrafındaki zayıfları koruma hissine kapılan dövüş sanatları eğitimi almış bir ortaokul öğrencisidir. Günün birinde evsiz bir adamı birkaç serseriye karşı koruduğunda, evsiz adam ona karşılık olarak eline garip bir dövme yapar. Bu dövme; Amerika ile Serinistan Krallığı arasında süren silah üretim yarışının bir sonucu olarak üretilmiştir. Seigi kendisini, gizli silahını ele geçirmek için, kendisi gibi gizli silahı olan ve saldırgan bir biçimde onu kovalayan bir kız ile karşı karşıya geldiği boyunu aşan bir durumda bulur. Kendini hayatta tutmak için dövüş sanatları bilgisi yeterli olamayabilir. Bu sebeple elindeki dövmenin gücünü etkinleştirmeyi zamanında bulabilecek mi?",
+  "poster": "https://image.tmdb.org/t/p/original/yd050mWaZHyRNMszkVzm3BSnqrZ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9o9I1cseC7zKC6xqvnoFVut0AiV.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    8,
+    1
+  ],
+  "tmdb_id": 66992,
+  "mal_id": 29758,
+  "anilist_id": 0,
+  "imdb_id": "tt5679248",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 1832,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 142672,
+          "episode_number": 1,
+          "name": "Dövme",
+          "description": "Bir gün, güçlü bir adalet duygusuna sahip bir çocuk olan Akatsuka Justice (takma adı Seigi), bir adamı sokak serserilerinden kurtarır. Ama adamın minnettarlığının bir göstergesi olarak verilen taşa dokunduğu anda, avucunda garip bir desen belirir. Ertesi gün, Seigi, desenin kaybolmayacağını fark ederek şaşkına döndüğünde, gizemli bir kız karşısına çıkar ve aniden ona saldırmadan önce dövmeyi nereden aldığını bilmek ister.",
+          "release_date": "2016-07-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cIpICaqwVJlJljx9NEyKpxodteu.jpg",
+          "videos": [
+            {
+              "id": 356255,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6309fcf6308bf7aae782c729",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340634,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4821176",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340719,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4821190",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340253,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/H7IjXT6a#JCZghP_EJWcE9kEUjc7UztosumIMBQsSn4BqtjgQV64",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340252,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/18BHBOJ3SpV7HhY5Kr3eFsb9BNWZAEhzm/preview",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340297,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/177fozqbQcWx0dJUHSv1RFwMlsZsqwhln/preview",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340298,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/7iIjmBoT#Gbtvmztm5BG2JYwPMq0dUgLD5M0S0AHrrPjz5UnxdcQ",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 142673,
+          "episode_number": 2,
+          "name": "Sürpriz Saldırı",
+          "description": "Seigi, Theodore ile yaptığı savaşta bilincini kaybettikten sonra kendi odasında uyandığında, Izzy ve Tom onunla birlikte oradadır. Amerika'dan çalınan ve Japonya'ya dağılan dövmeleri geri almak için bir görevde olduklarını söylerler. Dövmenin nasıl çalıştığını açıkladıktan sonra Seigi'den kendilerine katılmasını isterler, ancak Seigi durumu kavrayamaz. Bu sırada bilinmeyen iki kişi hamlelerini yapmaya başlar...",
+          "release_date": "2016-07-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oFBqkbZvxSfhd6RooCgVQg5UIXZ.jpg",
+          "videos": [
+            {
+              "id": 356254,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6309fc3f308bf7aae782c728",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340641,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4821177",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340726,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4821191",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340254,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1YIUN1iocZAWP6nTbTi5r8TGkWNZBh89Q/preview",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340255,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/r7BnhTAR#SNuaeW25gVZ87tgObVD4HJQX8qFS0X5TcBa2sHzYMHM",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340299,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1Jl1LDa4uIGZPZF4uE5dLVKzK7HLppxnw/preview",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340300,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/Lyxg0boD#eX6UX4ALn3T2ZRTiB-0jYn5bv70mHbEn2SBrIwbikB0",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 142674,
+          "episode_number": 3,
+          "name": "Sefalet Şirketi Seviyor",
+          "description": "Izzy ve Tom'un gizli evini ziyaret ederken, Adalet, Touko'nun vücuduna sahip olan Krallık'tan bir suikastçı olan Il tarafından saldırıya uğrar. Bu sırada okulda, başka bir suikastçı olan Lakha, Izzy'ye saldırır. Prenses Aryabhata, Selinistan Krallığı'nın yönetimini devraldığına göre, \"tetiksiz dövme\" iddiası için yarış başladı.",
+          "release_date": "2016-07-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2LyjVZbvm7MRPsQgatlrpOE1xSz.jpg",
+          "videos": [
+            {
+              "id": 356250,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6309fb6a308bf7aae782c727",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340648,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4821178",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340733,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4821192",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340257,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/W7ZQmZ7Y#LiLuYbrPrT9VNCQpMQn-9-W_eJtsSYRU3Ai_pQFrumQ",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340256,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1xQbr7yDpnicBNCmKssV9jNneObYn6Owc/preview",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340302,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/3vYFkaTA#v56W3gKvEgO-5QJwIFaIWydD0exJ4uDHolwjqOlm2Ug",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340301,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1KDMa7xiAHpg1c6OJU9FMjotPPT2_N4-j/preview",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 142675,
+          "episode_number": 4,
+          "name": "Mesafe",
+          "description": "Adalet, önceki savaşta kendi güçsüzlüğünün tadına vardıktan sonra, dövmesinin kullanımında ustalaşmak için Izzy liderliğindeki Blue Rose ile yoğun eğitimine geri döner. Bu arada, Brahman Prenses Arya'ya hizmet eden son zamanlarda sessiz özel dövme gücü, sonunda Izzy'nin arkadaşı Lisa'nın başkanlık ettiği Beyaz Gül ekibine saldırarak hamlesini yapar.",
+          "release_date": "2016-07-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/atK6pps8WRfqmzrgc1BKGJ5I5iJ.jpg",
+          "videos": [
+            {
+              "id": 356248,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6309fa95308bf7aae782c726",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340655,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4821181",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340740,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4821193",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340258,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1leQbdky5AdXhzo1RZQZNWGELYlm7Hk5Z/preview",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340259,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/6qJhBY6A#gfFbyLKXmzyiW8fjCcgSBdmXOmx90xOIj8EkI-Tza2o",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340303,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1H694QSudJ1IDmjNtvyfJ1wZjZyy1cm9V/preview",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340304,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/D2hFGZ4I#COqSI-y_CuWd4WMHw2spHLgb2QVxQtzhPa-TYZapbuk",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 142676,
+          "episode_number": 5,
+          "name": "Kurtarmak",
+          "description": "Arkadaşı Lisa, Il ve Lakha tarafından yakalandıktan sonra, Izzy onu geri almak için ABD Ordusu ile birlikte çalışır. Adalet, Blue Moon'un saklandığı yerde saklanmak için tutulmuştu, ancak bir müttefik tehlikedeyken sessiz kalamaz ve olay yerine koşar. Lisa'yı kurtarmak için ikinci tur savaşlar başlıyor: Izzy'ye karşı Lakha ve Adalet'e karşı Il.",
+          "release_date": "2016-08-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tmkkplLtjq4y1iRi5RwHgBArWes.jpg",
+          "videos": [
+            {
+              "id": 356247,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6309f9dd308bf7aae782c725",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340662,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4821182",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340747,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4821194",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340268,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1cRBHbFNxPmqrUgpuSFEUN56IA3OPErVW/preview",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340269,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/y7pzDZpD#sDVMfvWSWyL4AJnLin0W6VdkVqsYgT4mwSLyXxkRKrs",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340305,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1XIHya4_822Uy6cCXevoLdBSsk-XZ1XsR/preview",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340306,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/DmhxkT5R#zXHKNQhk755fcnbcm7jZNEwDvAkLAUxVAOjgRFARHJo",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 142677,
+          "episode_number": 6,
+          "name": "yeniden birleşme",
+          "description": "Adaletin önüne aniden çıkan gizemli adam BB, onu Japonya'da Krallık tarafından işletilen bir dövme araştırma laboratuvarına götürür. Amacı, tesisi mahvetmek ve içindeki masum insanları serbest bırakmaktır. BB'nin ezici gücünü gören Justice, kendisini bu adamın gerçek bir \"adalet kahramanı\" olduğunu düşünürken bulur. Bu arada, Arya Japonya'ya geldi ve planına devam etmek için oradaki dövme kalıntılarını ziyaret etti.",
+          "release_date": "2016-08-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/y9z5hREQmf0vHIqVW9LS6Nx7iK4.jpg",
+          "videos": [
+            {
+              "id": 356246,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6309f90c308bf7aae782c724",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340669,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4821183",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340756,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4821195",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340270,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1lLNzW-nX_R8Vtv-RyTMdmnjCzVZmZfSb/preview",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340271,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/y2h0yLzA#r0kqCoJ7kdwXKFU40sNULQAxDyRpAMdxKN2dJUftiwM",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340307,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1-SURppQjFVFhHVHLbE6kT3CldM5qo9Pq/preview",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340308,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/2iIygZBL#5t58ap6eDTxPfW0OMkzK-vn4VdS8QJMXQixQbag0c9k",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 142678,
+          "episode_number": 7,
+          "name": "Fırtına",
+          "description": "ABD Ordusu'nun Japonya'da konuşlu dövme kuvvetleri, Arya'nın şu anda bulunduğu Japonya'daki dövme kalıntılarının yerini öğrenir ve bölgeyi geri almak için bir operasyon başlatır. Adalet ve hatta Touko göreve dahil edilmiştir. Harabelerin bulunduğu adaya ulaşırlar ve tam sayıları ve daha yüksek orijinal Mühürlü sayıları nedeniyle avantaja sahip olduklarından emin olarak saldırılarını başlatırlar, ancak sonra Brahman'ın kaptan yardımcısı Cal Shekhar önlerinde durur...",
+          "release_date": "2016-08-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xD4IrnIjj68WAtwGJqmsVybbOGq.jpg",
+          "videos": [
+            {
+              "id": 356245,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6309f84a308bf7aae782c723",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340676,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4821184",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340763,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4821196",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340272,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1eXWjGPHDOFbSoja36Wdxm_iANXP7495D/preview",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340273,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/fjgwGALZ#rFmVp_seR1eCf0-bh8XSOTatOT6Fgkg4PHnHrqTvsTw",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340309,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1kmZQjnW7m1QVczIuWN4fq_z39OJabtj5/preview",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340310,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/jywyzCKB#AdYE8BQIpY8TJsDLw2MvTaA-L78HlPg3zbXZCBN_Ok0",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 142679,
+          "episode_number": 8,
+          "name": "yaratıcı",
+          "description": "Brahman'ın ezici gücüyle köşeye sıkışan ABD Ordusu, sonunda tüm birliklerine geri çekilme emri vermek zorunda kalır. Ancak Touko, Adalet'in hala savaş alanında olduğunu ve ayrılmak için çok endişeli olduğunu fark eder. Bu arada, BB aniden Cal'ı ele geçirmek için gelir, ancak \"mutlak sınır\" yeteneği onu son çaresine geri dönmeye zorlar. Ve Adalet önünde gelişen umutsuz savaşı izlerken...",
+          "release_date": "2016-08-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zm110sY0a0gq7P29m2JS0UKZ4vV.jpg",
+          "videos": [
+            {
+              "id": 356244,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6309f78f308bf7aae782c722",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340683,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4821185",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340770,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4821197",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340274,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1A_2ZXK7jlpjJig6-z4JYkngnV9UqfL2c/preview",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340275,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/Gjp1HBKR#GgZCLDK16vrLi07JXw_OprmgWuS0jxm7V6OandsgeQs",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340311,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1Fyu0E8FsXlGVcOesbMQ4aOblVbrF0E5T/preview",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340312,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/7qBTiZZT#bfEmF80yjzwqhIwwL9636ax_gryPQMf17X_3KQhxO2k",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 142680,
+          "episode_number": 9,
+          "name": "Geçmiş",
+          "description": "Adalet, BB'nin anılarının seyrini takip eder, adamın genç benliğinin ABD Ordusu'ndan ayrılmasını ve dövme araştırma bilgilerini Selinistan Krallığı'na hediye olarak sunmasını izler. Amacı, Izzy'nin dünyadaki tüm dövmelerin yok olduğunu görme arzusunu yerine getirmekti ve dövme araştırmalarının en ilerlediği yer olan Selinistan'da bunu yapmanın bir yolunu aramak, seçtiği yöntemdi. Ancak Selinistan'ın dövme araştırmasının tabanına sızdığında BB şok edici bir gerçeği öğrendi...",
+          "release_date": "2016-08-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/AjxYCtKJw6YVUBxa6EhZAnS5Q44.jpg",
+          "videos": [
+            {
+              "id": 356243,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6309f6ab308bf7aae782c721",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340691,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4821186",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340777,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4821198",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340276,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1HYueHzj1uduRUgtRSRPlRAAuu2xkH9F6/preview",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340277,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/7y41zToL#1AcSBUOmuP856IvLZmEV0uE2qisL6ACPO-zq-aL4ve4",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340313,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1V6UC0Hk_cPYmDKmibcW_QcVXko7u5u8Y/preview",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340314,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/jvBwEDhS#XxsvXJEhURi4Kk7BvVNeri9q33JuhJ8rwckbS3O6NDw",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 142681,
+          "episode_number": 10,
+          "name": "Meydan Okuma Mektubu",
+          "description": "BB'nin isteklerini devralan Seigi, Wiseman'ın tavsiyesini alır ve bir yıl boyunca bir dağ sığınağında saklanır. Izzy ve Tom, dağda onlara katılan Tamaki ile birlikte bir yılı onunla geçirdiler ve Seigi sonunda Izzy'yi alt edecek kadar güçlendi. Sonra bir gün, gizemli bir düşman saklanma yerlerine saldırır ve Arya'nın Amerika'daki görüntülerini içeren bir video mektubunu üçüncü harabelerin bulunduğu yerin yakınında bırakır.",
+          "release_date": "2016-09-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zJF6KWjyjGS6h5NlQNWjfiAE3d2.jpg",
+          "videos": [
+            {
+              "id": 356241,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6309f5e3308bf7aae782c720",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340698,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4821187",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340784,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4821199",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340278,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/13D7UMsIqO1V-x27ILxbQGcPLwRjAUlJ5/preview",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340279,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/XjQmlbhB#RoYZZrJ8H1Izf5aEeoP45yhuvSArKbmXkanYmezoE9c",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340316,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1C6TAsUMDofu9IxyVvxS5MeW2YKdY11wH/preview",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340317,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/bnw0zIwK#8Xjwj1kgfRIYcHGogSmnvMe7Gw-uTknhMtFMfHPPX7g",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 142682,
+          "episode_number": 11,
+          "name": "Avucunun içinde",
+          "description": "Izzy ve Tamaki, Adalet ve Tom'un ilerleyebilmesi için Brahman üyeleriyle ölümüne savaşırken, Amerika'daki harabelerde Krallığa karşı savaş yoğunlaşıyor. Bu arada Adalet, Arya'yı durdurmak için harabelere doğru ilerlerken, Cal onun yolunda durur ve Arya'nın BB'ye yenilmesinden sonra daha da güçlenir. Adalet, \"güçsüzlerin en güçlüsü\" Cal'i yenebilir ve Arya'nın gerçek amacının gerçekleşmesini durdurabilir mi?",
+          "release_date": "2016-09-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dtMvQoYscwwWzFSmwG88nEPTi9i.jpg",
+          "videos": [
+            {
+              "id": 356239,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6309f52e308bf7aae782c71f",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340705,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4821188",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340791,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4821200",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340280,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1RZn6nrp9WQ8yICz4iGlHKRe5Py7MRJ-e/preview",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340281,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/WrxGUKRT#-osnsEjSTJqSY0H6fVaJ9wX_TUeoEx42mc0H4SlHJnQ",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340318,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1PEoUGI-E8tPaFckla0637HOVjgHeeztE/preview",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340319,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/22IiGbBL#7OYVGFM4rvQLvYUQQk4TqMfSdzrR44QPcWbDDxRF_Lc",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 142683,
+          "episode_number": 12,
+          "name": "Karar Veren Savaş",
+          "description": "Izzy ve diğerleri harabeler arasında hızla koşarlar... ve Adalet'i bir dikenli yatağın üzerine saplanmış halde bulurlar. Daha da kötüsü, dövme güçlerini aşırı kullanması, yenilenme yeteneğini zayıflatarak onu ölümün eşiğine getirdi. Izzy ve Tamaki, Tom'a daha fazla zaman kazanmak için Arya ile yüzleşirken onu alıp kaçmasını söyler. Adalet, Izzy ve diğerlerinin onu kurtarmak için savaştığını fark edince, intikama bu kadar takıntılı olmasının yanlış olduğunu anlar ve aklı onları kurtarmaya yönelir...",
+          "release_date": "2016-09-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zFeAVYoTIgTqDuGtEndleg3tQgL.jpg",
+          "videos": [
+            {
+              "id": 356238,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6309f447308bf7aae782c71e",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340712,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4821189",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340798,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4821201",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340282,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1WmrQg0NjIgVjKMbqFgotDGO-MoI61U3t/preview",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340283,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/u6hTzRQR#pQtfJ5RKnETnM7GiQnC0EDEAqTn3l-UygdPkcNKxUnQ",
+              "extra": "Archessar & UrbanTBC",
+              "fansub": "Archessar",
+              "fansub_id": 1507,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340320,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1QOxFWdSe_W5b9ZzhAR4gUKek4XN_1Ju0/preview",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 340321,
+              "player": "MEGA",
+              "url": "https://mega.nz/embed/K3h3hLxQ#L-HZgtnRHN2zJ6qMa3lMJ0B0mGmk5lm-FHU4DRKRItg",
+              "extra": "Khaos & Pino & Deat H Note.",
+              "fansub": "Khaos",
+              "fansub_id": 1506,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

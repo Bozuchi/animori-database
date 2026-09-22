@@ -1,0 +1,985 @@
+{
+  "id": 8414,
+  "name": "Blue Period",
+  "name_english": "Blue Period",
+  "name_romanji": "Blue Period",
+  "original_title": "ブルーピリオド",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2021,
+  "release_date": "2021-10-02 00:00:00",
+  "description": "Lise ikinci sınıf öğrencisi olan Yatora Yaguchi, normal hayatından artık bıkmıştır. Güzelce çalışıp arkadaşlarıyla oyunlar oynasa da aslında bunlardan hiç hoşlanmıyordur. Kendi standartlarına bağlı kaldığından, bir şeyleri özgün şekilde yapanları içten içe kıskanıyor. Ta ki çizimin zevkini tattığı ana kadar. Yatora, Sanat Kulübü'nün bir üyesinin yaptığı tabloyu gördüğünde, kullanılan renklere bayılmıştır. Bir sanat alıştırmasında, sözlerini dilden ziyade resim yoluyla aktarmaya çalışır. Bu alıştırmadan sonra, Yatora kendini sanata kaptırmış ve hayatının her anında yapmak istediği şeyin bu olduğunu düşünmüştür. Ancak önünde birçok engel vardır: ebeveynlerinin bu seçimler karşısında tereddütte oluşu, daha deneyimli olan yaşıtları ve yeni başladığı hâlde derin bir konuyu inceleyecek olması.",
+  "poster": "https://image.tmdb.org/t/p/original/eyu7p843YkKRXVJ5pQKKa9HQ6wK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kAGKVtmsnkoTKdmp0iVCyHMrOZ9.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    9,
+    6
+  ],
+  "tmdb_id": 116983,
+  "mal_id": 46352,
+  "anilist_id": 0,
+  "imdb_id": "tt14115912",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 1848,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 143106,
+          "episode_number": 1,
+          "name": "Resim Sevincine Uyanış",
+          "description": "Kayıtsız lise öğrencisi Yatora'nın hayatı ve öncelikleri, sınıf arkadaşının resmini gördüğünde ve sanat için bir takdir ve yetenek keşfettiğinde değişir.",
+          "release_date": "2021-10-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ibpThNOSS9IVvx8dw42PkNhxCQ3.jpg",
+          "videos": [
+            {
+              "id": 386382,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6330a8c0d22fe78a0265e467",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 183588,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4426524",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 183587,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/dVMRxBz2joIk43W",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 183583,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-cxd3jcc6u9i6.html",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 183586,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/f6e1u6vt61mg.html",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 229896,
+              "player": "WWW",
+              "url": "https://www.yourupload.com/watch/3k3B37FYefE3",
+              "extra": "Ato Fansub",
+              "fansub": "Ato Fansub",
+              "fansub_id": 2042,
+              "quality": "Normal",
+              "language": "tr"
+            },
+            {
+              "id": 229897,
+              "player": "VUDEO",
+              "url": "https://vudeo.io/ybxm1860dh7z.html",
+              "extra": "Ato Fansub",
+              "fansub": "Ato Fansub",
+              "fansub_id": 2042,
+              "quality": "Normal",
+              "language": "tr"
+            },
+            {
+              "id": 229899,
+              "player": "VIVO",
+              "url": "https://vivo.sx/d3803eeb7e",
+              "extra": "Ato Fansub",
+              "fansub": "Ato Fansub",
+              "fansub_id": 2042,
+              "quality": "Normal",
+              "language": "tr"
+            },
+            {
+              "id": 229900,
+              "player": "VIDMOLY",
+              "url": "http://vidmoly.me/w/gax3s2cg3rn9",
+              "extra": "Ato Fansub",
+              "fansub": "Ato Fansub",
+              "fansub_id": 2042,
+              "quality": "Normal",
+              "language": "tr"
+            },
+            {
+              "id": 229901,
+              "player": "SIBNET",
+              "url": "http://video.sibnet.ru/video4554064",
+              "extra": "Ato Fansub",
+              "fansub": "Ato Fansub",
+              "fansub_id": 2042,
+              "quality": "Normal",
+              "language": "tr"
+            },
+            {
+              "id": 229903,
+              "player": "UPSTREAM",
+              "url": "https://upstream.to/311af86164fe",
+              "extra": "Ato Fansub",
+              "fansub": "Ato Fansub",
+              "fansub_id": 2042,
+              "quality": "Normal",
+              "language": "tr"
+            },
+            {
+              "id": 229904,
+              "player": "SUPERVIDEO",
+              "url": "https://supervideo.tv/re17hdqhurwb",
+              "extra": "Ato Fansub",
+              "fansub": "Ato Fansub",
+              "fansub_id": 2042,
+              "quality": "Normal",
+              "language": "tr"
+            },
+            {
+              "id": 229905,
+              "player": "WATCHSB",
+              "url": "https://watchsb.com/cmmhm9v36yeb.html",
+              "extra": "Ato Fansub",
+              "fansub": "Ato Fansub",
+              "fansub_id": 2042,
+              "quality": "Normal",
+              "language": "tr"
+            },
+            {
+              "id": 229906,
+              "player": "SENDVID",
+              "url": "https://sendvid.com/6lzyxbsc",
+              "extra": "Ato Fansub",
+              "fansub": "Ato Fansub",
+              "fansub_id": 2042,
+              "quality": "Normal",
+              "language": "tr"
+            },
+            {
+              "id": 229907,
+              "player": "SARUCH",
+              "url": "https://saruch.co/videos/LxMTOZm9se1zMgv",
+              "extra": "Ato Fansub",
+              "fansub": "Ato Fansub",
+              "fansub_id": 2042,
+              "quality": "Normal",
+              "language": "tr"
+            },
+            {
+              "id": 229908,
+              "player": "ODNO",
+              "url": "http://ok.ru/video/3795181964017",
+              "extra": "Ato Fansub",
+              "fansub": "Ato Fansub",
+              "fansub_id": 2042,
+              "quality": "Normal",
+              "language": "tr"
+            },
+            {
+              "id": 229911,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1ShdxQs91jNZQrFjI79VEyjSBO9QflWo2/view?usp=sharing",
+              "extra": "Ato Fansub",
+              "fansub": "Ato Fansub",
+              "fansub_id": 2042,
+              "quality": "Normal",
+              "language": "tr"
+            },
+            {
+              "id": 229912,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1_oUw7x19CWQRXHTpahiXZfhvsFo7E2bC/view?usp=sharing",
+              "extra": "Ato Fansub",
+              "fansub": "Ato Fansub",
+              "fansub_id": 2042,
+              "quality": "Normal",
+              "language": "tr"
+            },
+            {
+              "id": 229913,
+              "player": "FEMBED",
+              "url": "https://www.fembed.com/v/jyl7esd442rx04m",
+              "extra": "Ato Fansub",
+              "fansub": "Ato Fansub",
+              "fansub_id": 2042,
+              "quality": "Normal",
+              "language": "tr"
+            },
+            {
+              "id": 229917,
+              "player": "WWW",
+              "url": "https://www.yourupload.com/watch/3k3B37FYefE3",
+              "extra": "Ato Fansub",
+              "fansub": "Ato Fansub",
+              "fansub_id": 2042,
+              "quality": "Normal",
+              "language": "tr"
+            },
+            {
+              "id": 229918,
+              "player": "VUDEO",
+              "url": "https://vudeo.io/ybxm1860dh7z.html",
+              "extra": "Ato Fansub",
+              "fansub": "Ato Fansub",
+              "fansub_id": 2042,
+              "quality": "Normal",
+              "language": "tr"
+            },
+            {
+              "id": 229920,
+              "player": "VIVO",
+              "url": "https://vivo.sx/d3803eeb7e",
+              "extra": "Ato Fansub",
+              "fansub": "Ato Fansub",
+              "fansub_id": 2042,
+              "quality": "Normal",
+              "language": "tr"
+            },
+            {
+              "id": 229921,
+              "player": "VIDMOLY",
+              "url": "http://vidmoly.me/w/gax3s2cg3rn9",
+              "extra": "Ato Fansub",
+              "fansub": "Ato Fansub",
+              "fansub_id": 2042,
+              "quality": "Normal",
+              "language": "tr"
+            },
+            {
+              "id": 229922,
+              "player": "SIBNET",
+              "url": "http://video.sibnet.ru/video4554064",
+              "extra": "Ato Fansub",
+              "fansub": "Ato Fansub",
+              "fansub_id": 2042,
+              "quality": "Normal",
+              "language": "tr"
+            },
+            {
+              "id": 229924,
+              "player": "UPSTREAM",
+              "url": "https://upstream.to/311af86164fe",
+              "extra": "Ato Fansub",
+              "fansub": "Ato Fansub",
+              "fansub_id": 2042,
+              "quality": "Normal",
+              "language": "tr"
+            },
+            {
+              "id": 229925,
+              "player": "SUPERVIDEO",
+              "url": "https://supervideo.tv/re17hdqhurwb",
+              "extra": "Ato Fansub",
+              "fansub": "Ato Fansub",
+              "fansub_id": 2042,
+              "quality": "Normal",
+              "language": "tr"
+            },
+            {
+              "id": 229926,
+              "player": "WATCHSB",
+              "url": "https://watchsb.com/cmmhm9v36yeb.html",
+              "extra": "Ato Fansub",
+              "fansub": "Ato Fansub",
+              "fansub_id": 2042,
+              "quality": "Normal",
+              "language": "tr"
+            },
+            {
+              "id": 229927,
+              "player": "SENDVID",
+              "url": "https://sendvid.com/6lzyxbsc",
+              "extra": "Ato Fansub",
+              "fansub": "Ato Fansub",
+              "fansub_id": 2042,
+              "quality": "Normal",
+              "language": "tr"
+            },
+            {
+              "id": 229928,
+              "player": "SARUCH",
+              "url": "https://saruch.co/videos/LxMTOZm9se1zMgv",
+              "extra": "Ato Fansub",
+              "fansub": "Ato Fansub",
+              "fansub_id": 2042,
+              "quality": "Normal",
+              "language": "tr"
+            },
+            {
+              "id": 229929,
+              "player": "ODNO",
+              "url": "http://ok.ru/video/3795181964017",
+              "extra": "Ato Fansub",
+              "fansub": "Ato Fansub",
+              "fansub_id": 2042,
+              "quality": "Normal",
+              "language": "tr"
+            },
+            {
+              "id": 229932,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1ShdxQs91jNZQrFjI79VEyjSBO9QflWo2/view?usp=sharing",
+              "extra": "Ato Fansub",
+              "fansub": "Ato Fansub",
+              "fansub_id": 2042,
+              "quality": "Normal",
+              "language": "tr"
+            },
+            {
+              "id": 229933,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1_oUw7x19CWQRXHTpahiXZfhvsFo7E2bC/view?usp=sharing",
+              "extra": "Ato Fansub",
+              "fansub": "Ato Fansub",
+              "fansub_id": 2042,
+              "quality": "Normal",
+              "language": "tr"
+            },
+            {
+              "id": 229934,
+              "player": "FEMBED",
+              "url": "https://www.fembed.com/v/jyl7esd442rx04m",
+              "extra": "Ato Fansub",
+              "fansub": "Ato Fansub",
+              "fansub_id": 2042,
+              "quality": "Normal",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 166162,
+          "episode_number": 2,
+          "name": "O Hiç Bronzlaşmadı",
+          "description": "Yatora sanat kulübüne girer. Yaz tatilinde kolej seçimini sanat okuluna çevirdikten sonra becerilerini geliştirmek için özel eğitimlere katılır.",
+          "release_date": "2021-10-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jw8RNEfJ1IhoRpb9X03ZaWpR84T.jpg",
+          "videos": [
+            {
+              "id": 370929,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631a4459aaa5e211ba383e70",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 166607,
+          "episode_number": 3,
+          "name": "Ölülerin Hazırlık Okulu İlk Çıkışı",
+          "description": "Yatora, Tokyo Sanat Enstitüsü'nde ek dersler için Yuka'ya katılır. Garip yeni sınıf arkadaşlarıyla bir müzeyi ziyaret ederken sanatsal bir atılım yapar.",
+          "release_date": "2021-10-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/v52BbTaJ6AXhtKtSltzNhVk5nWM.jpg",
+          "videos": [
+            {
+              "id": 371159,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631a89b4aaa5e211ba383eda",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 187022,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4444301",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 187021,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/LWB8xdzRkpiRRoz",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 187020,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/bwkjvt7lnnl5.html",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 187017,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-njofaho34u28.html",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 166608,
+          "episode_number": 4,
+          "name": "Nereye Gidiyoruz?",
+          "description": "Sanat sınavlarının stresi Yatora'nın arkadaşlarına yük olurken, TAI'nin gece öğrencileri bir sonraki yarışmaya hazırlanmak için göz korkutucu öğleden sonra derslerine katılırlar.",
+          "release_date": "2021-10-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/nlJf0M5V9A1SpyUfrcrTjNQEF9C.jpg",
+          "videos": [
+            {
+              "id": 386174,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63308780dd931ae1fbad7119",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 188424,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4452653",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 188423,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/lW20P27pGlC7JxW",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 188419,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-6zau0jt68tx9.html",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 188422,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/pry5ff5gps4w.html",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 166609,
+          "episode_number": 5,
+          "name": "Ne Yapacağımı Bilsem Bile Çaresisiz",
+          "description": "Sınavlar Oba'ya yaklaştırılıyor, eğitimi yoğunlaştırıyor. Yatora soyut ifade çizimi, bu amaç için büyük bir hayali hayal etmek için tasarlanıyor.",
+          "release_date": "2021-10-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/epKcZNu75aF4d6JpgMkA2YcRg8d.jpg",
+          "videos": [
+            {
+              "id": 371194,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631aa4f4aaa5e211ba383ef7",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 189027,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4461131",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 189026,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/LJryj7DJV0T43m",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 189025,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/f1yz6i8fnf7v.html",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 189022,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-jsmbgp4seh9v.html",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 166610,
+          "episode_number": 6,
+          "name": "Ciddi Zihinsel Bozukluk",
+          "description": "Yatora, sınav stresi öğrencilerin sağlığını etkilemeye başlarken sanatını artıracak gizli bir silah bulmak için çeşitli araçlarla deneyler yapar.",
+          "release_date": "2021-11-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4P9IFhetitkvPK1ftsepCzwzeSR.jpg",
+          "videos": [
+            {
+              "id": 371371,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631b2396aaa5e211ba383f62",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 190186,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4475716",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 190185,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/lweOOlpPGBc7xZ2",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 190181,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-j3qc0jlrp1vo.html",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 190184,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/qi9f4p6kd55n.html",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 166611,
+          "episode_number": 7,
+          "name": "İlk Sınavın Başlangıcı",
+          "description": "Oba, Yatora'ya zayıflığını söyler ve bu onu sarsılır. Ancak yakın bir arkadaşıyla kalpten kalbe, ilk sınav başlarken güvenini yeniden kazanır!",
+          "release_date": "2021-11-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vH0Tgxc4HzAkiaHNKgQvw0sqg13.jpg",
+          "videos": [
+            {
+              "id": 371890,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631c295caaa5e211ba384064",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 192706,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4484693",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 192705,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/X17apA6VgxiD7AO",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 192701,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-e7rulzwckyme.html",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 192704,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/r961iqjgi9x2.html",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 166612,
+          "episode_number": 8,
+          "name": "Beyin Rafı",
+          "description": "İlk sınav konusu \"otoportre\" dir. Bir aksilik Yatora'ya ihtiyacı olan ipucunu verir; Oba, sınav sonuçları açıklanmadan önce sınıfı bir müzeye götürür.",
+          "release_date": "2021-11-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cTBkrLJ4Ne9nqxarMEJPSaUzS0l.jpg",
+          "videos": [
+            {
+              "id": 385717,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63302c15dd931ae1fbad6ffe",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 196368,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4496181",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196367,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/AqRMDplgV8TXOKm",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196366,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/jmxkj9v6e49e.html",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 196363,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-ztr0bdr8or6z.html",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 166613,
+          "episode_number": 9,
+          "name": "Gezici Bıçak",
+          "description": "Üçü, \"renk\"te ustalaşması gereken Yatora da dahil olmak üzere ikinci sınava geçer. Yatora, Yuka'nın kötü bir iş bulup sanat okuluna gitmeyi reddetmesinden endişelenir.",
+          "release_date": "2021-11-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dthHp3NgMOgivTyPGVMB06Em5SE.jpg",
+          "videos": [
+            {
+              "id": 372808,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631ceef6aaa5e211ba384152",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 199078,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4508595",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 199077,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/1LJWMDGjy2uewAj",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 199073,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-olwfh4x3l8to.html",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 199076,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/kch43njqdci3.html",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 166614,
+          "episode_number": 10,
+          "name": "Episode 10",
+          "description": "Yuka and Yatora head to Odawara and bare their souls and bodies, hoping to overcome their personal challenges with art and their surrounding fears.",
+          "release_date": "2021-12-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qlK8PbdG2EoMoHbkiZzoCR7CacO.jpg",
+          "videos": [
+            {
+              "id": 385191,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632f5238dd931ae1fbad6ecc",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 200534,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4518636",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 200533,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/e26XWpjOx9Fkdg",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 200532,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/rgwn1qwgrn01.html",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 166615,
+          "episode_number": 11,
+          "name": "11. Bölüm",
+          "description": "Yatora kendi vücudunu çizdikten sonra ikinci sınava hazırdır: çıplak bir model. Ancak stresten sağlığı bozulunca Oba gizli bir silah sunar.",
+          "release_date": "2021-12-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/gdSODPnXgw7uN2OFEKAXZVgP4Sz.jpg",
+          "videos": [
+            {
+              "id": 384946,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632eee81dd931ae1fbad6e58",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 201726,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4529954",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201725,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/6BQmZ4z1G3Sl3z",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201721,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-fl709yxdaftg.html",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201724,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/5nyqh5zzcnbw.html",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 166616,
+          "episode_number": 12,
+          "name": "12. Bölüm",
+          "description": "İkinci sınav tüm hızıyla devam ediyor. Ani ilham cevaplar ve son bir gizli silah sunduğunda Yatora, hastalık ve belirsiz bir tema ile mücadele eder.",
+          "release_date": "2021-12-11T09:34:35.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zZ0Okudr6LsWnyrnKvXVj9MOCBt.jpg",
+          "videos": [
+            {
+              "id": 373568,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631e2f30aaa5e211ba384298",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 203667,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4539459",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203666,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/M7wQmPoj1aim7KG",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203662,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-al5l7xqvcikt.html",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 203665,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/p2r1zjr0xnav.html",
+              "extra": "HakaiRyuu",
+              "fansub": "HakaiRyuu",
+              "fansub_id": 403,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

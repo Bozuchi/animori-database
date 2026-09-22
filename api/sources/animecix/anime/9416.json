@@ -1,0 +1,125 @@
+{
+  "id": 9416,
+  "name": "Memories",
+  "name_english": "Memories",
+  "name_romanji": "Memories",
+  "original_title": "MEMORIES",
+  "type": "series",
+  "title_type": "anime",
+  "year": 1995,
+  "release_date": "1995-12-23",
+  "description": "Katsuhiro Otomo'nun 1995 tarihli Memories isimli yapımı 3 bağımsız öyküden oluşur. Yönetmenliğini Koji Morimoto'nun gerçekleştirdiği ve senaryosunu Satoshi Kon'un yazdığı Magnetic Rose, aldıkları SOS sinyallerini araştırmak için dünya yörüngesindeki bir enkaz yığınına giren, Corona gemisi personelinin karşılaştıkları tuhaf olayları konu alır. Tensai Okamura'nın yönettiği Stink Bomb'da genç bir laboratuar asistanı kaza eseri biyolojik bir silaha dönüşür. Katsuhiro Otomo'nun yönettiği son bölüm, Cannon Fodder ise bilinmeyen bir düşmana karşı sürekli savaşan bir şehrin günlük yaşamını anlatır.",
+  "poster": "https://image.tmdb.org/t/p/original/2e3rs7ZZxf6ENkWcxkOYnq0xuXf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5eHsU7ZhDiiWaeSRWojqsaqaq7n.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    13,
+    15
+  ],
+  "tmdb_id": 42994,
+  "mal_id": 1462,
+  "anilist_id": 0,
+  "imdb_id": "tt0113799",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 4928,
+      "season_number": 1,
+      "name": null,
+      "episode_count": 4,
+      "episodes": [
+        {
+          "id": 207933,
+          "episode_number": 1,
+          "name": null,
+          "description": null,
+          "release_date": "1995-12-22T22:10:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 621598,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65b3d117b304d628d5f55225",
+              "extra": "Vuats - Fei",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 621593,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/7385403427572",
+              "extra": "Vuats - Fei",
+              "fansub": "Vuats",
+              "fansub_id": 666,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 207934,
+          "episode_number": 2,
+          "name": null,
+          "description": null,
+          "release_date": "1995-12-22T22:12:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 621830,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/7391232461556",
+              "extra": "kymophobia - Fei - Vuats",
+              "fansub": "kymophobia",
+              "fansub_id": 5,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 207935,
+          "episode_number": 3,
+          "name": null,
+          "description": null,
+          "release_date": "1995-12-22T22:12:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 623373,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x8rvai9",
+              "extra": "kymophobia - Vuats - Fei",
+              "fansub": "kymophobia",
+              "fansub_id": 5,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 623374,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/7394398112500",
+              "extra": "kymophobia - Vuats - Fei",
+              "fansub": "kymophobia",
+              "fansub_id": 5,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 211162,
+          "episode_number": 4,
+          "name": null,
+          "description": null,
+          "release_date": "2010-08-26T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "id": 11839,
+  "name": "Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu",
+  "name_english": "Legend of the Galactic Heroes: Die Neue These - Collision",
+  "name_romanji": "Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu",
+  "original_title": "銀河英雄伝説 Die Neue These 激突 第三章",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2022,
+  "release_date": "Fri",
+  "description": "",
+  "poster": "https://image.tmdb.org/t/p/original/zEUzBN3O9RVOI6TwIAgIX5z1ZJu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9npMbBg3W4l6NT0qjqBGALw8KT5.jpg",
+  "rating": 8,
+  "vote_count": 9,
+  "genres": [
+    3
+  ],
+  "tmdb_id": 918429,
+  "mal_id": 42886,
+  "anilist_id": null,
+  "imdb_id": "tt32909353",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 5519,
+      "season_number": 1,
+      "name": "1. Sezon",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 219750,
+          "episode_number": 1,
+          "name": "First Campaing",
+          "description": "",
+          "release_date": "2022-03-18T08:22:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/mangacix/1732717343911.webp",
+          "videos": [
+            {
+              "id": 695289,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67472c7398cf95d83594b605",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 219751,
+          "episode_number": 2,
+          "name": "The Twin Pillars",
+          "description": "",
+          "release_date": "2022-03-25T08:23:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/mangacix/1732717383473.webp",
+          "videos": [
+            {
+              "id": 695292,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67472d5898cf95d83594b606",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 219752,
+          "episode_number": 3,
+          "name": "A Stormy Night",
+          "description": "",
+          "release_date": "2022-04-01T05:23:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/mangacix/1732717418040.webp",
+          "videos": [
+            {
+              "id": 695295,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67472e2c98cf95d83594b607",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 219753,
+          "episode_number": 4,
+          "name": "Reformer",
+          "description": "",
+          "release_date": "2022-04-08T08:24:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/mangacix/1732717454505.webp",
+          "videos": [
+            {
+              "id": 695298,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67472f1698cf95d83594b608",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 219754,
+          "episode_number": 5,
+          "name": "The Geier Takes Flight",
+          "description": "",
+          "release_date": "2022-04-15T08:24:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/mangacix/1732717481465.webp",
+          "videos": [
+            {
+              "id": 695301,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6747300198cf95d83594b609",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 219755,
+          "episode_number": 6,
+          "name": "A Single Fine Thread",
+          "description": "",
+          "release_date": "2022-04-22T08:25:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/mangacix/1732717502063.webp",
+          "videos": [
+            {
+              "id": 695308,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/674730d198cf95d83594b60a",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 219756,
+          "episode_number": 7,
+          "name": "What Was Lost",
+          "description": "",
+          "release_date": "2022-04-29T08:25:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/mangacix/1732717525913.webp",
+          "videos": [
+            {
+              "id": 695311,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/674731a198cf95d83594b60b",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 219757,
+          "episode_number": 8,
+          "name": "The Inquiry",
+          "description": "",
+          "release_date": "2022-05-06T08:25:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/mangacix/1732717547206.webp",
+          "videos": [
+            {
+              "id": 695314,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6747326d98cf95d83594b60c",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 219758,
+          "episode_number": 9,
+          "name": "War Without Weapons",
+          "description": "",
+          "release_date": "2022-05-13T08:26:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/mangacix/1732717570433.webp",
+          "videos": [
+            {
+              "id": 695317,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6747336798cf95d83594b60d",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 220688,
+          "episode_number": 10,
+          "name": "Fortress vs. Fortress Akt I: Cannon Fire",
+          "description": "",
+          "release_date": "2022-05-20T16:50:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/mangacix/1732717570433.webp",
+          "videos": [
+            {
+              "id": 697986,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6763ae035f790413917b86c6?vid=697986",
+              "extra": "ImperialLion | discord.gg/3XfpCMKQ2X ",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "blu-ray",
+              "language": "tr"
+            },
+            {
+              "id": 697983,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/9722972080881",
+              "extra": "ImperialLion | discord.gg/3XfpCMKQ2X ",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "blu-ray",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 220689,
+          "episode_number": 11,
+          "name": "Fortress vs. Fortress Akt I: Cannon Fire",
+          "description": "",
+          "release_date": "2022-05-27T13:50:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/mangacix/1732717570433.webp",
+          "videos": [
+            {
+              "id": 697994,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6763aef55f790413917b86c7",
+              "extra": "ImperialLion | discord.gg/3XfpCMKQ2X ",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "blu-ray",
+              "language": "tr"
+            },
+            {
+              "id": 697990,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/9722972211953",
+              "extra": "ImperialLion | discord.gg/3XfpCMKQ2X ",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "blu-ray",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 220690,
+          "episode_number": 12,
+          "name": "Fortress vs. Fortress Akt III: The Return of the Magician",
+          "description": "",
+          "release_date": "2022-06-03T16:50:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/mangacix/1732717570433.webp",
+          "videos": [
+            {
+              "id": 698002,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6763b0795f790413917b86c8",
+              "extra": "ImperialLion | discord.gg/3XfpCMKQ2X ",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "4k",
+              "language": "tr"
+            },
+            {
+              "id": 697998,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/9722972670705",
+              "extra": "ImperialLion | discord.gg/3XfpCMKQ2X ",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "blu-ray",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

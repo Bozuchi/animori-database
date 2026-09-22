@@ -1,0 +1,751 @@
+{
+  "id": 7438,
+  "name": "Love Live! Nijigasaki Gakuen School Idol Doukoukai",
+  "name_english": "Love Live! Nijigasaki High School Idol Club",
+  "name_romanji": "Love Live! Nijigasaki High School Idol Club",
+  "original_title": "ラブライブ! 虹ヶ咲学園スクールアイドル同好会",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2020,
+  "release_date": "2020-10-03",
+  "description": "''Love Live!'' serisinin 3.hikâyesidir. Nijigasaki Lisesi'ndeki sayısız kulüp arasında okul idol kulübü de yer almaktadır. Kulüp, popüler olmasa da potansiyelinden kesinlikle yoksun değildir. İlk performanslarında, okul arkadaşları Ayumu Uehara ve Yuu Takasaki'nin dikkatini çekmenin yanı sıra, oldukça geniş bir izleyici kitlesini de kendine hayran bırakmayı başarmışlardır.\n\nBüyülenen ikili, kulübe katılmak için yola çıkarlar; ancak kulübün yeni dağılmış olduğunu öğrenince hayal kırıklığına uğrarlar. Yine de Ayumu, her şeyin burada bitmesi gerektiğine inanmaz. Yuu ile birlikte, onları daha önce büyüleyen idol performanslarını yeniden canlandırmak umuduyla okul idol kulübünü yeniden kurmaya başlarlar.\n\nLove Live! Nijigasaki Gakuen School Idol Doukoukai, eski kulüp üyeleri ve yeni üyelerle birlikte yeniden kurulan okul idol kulübüne odaklanıyor. Hayallerine doğru ilk adımı atan bu kızlar, idol yıldızlığına nasıl ulaşacaklar?",
+  "poster": "https://image.tmdb.org/t/p/original/yYjRqt1xwt61omb3XwMcxsYh1lA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vrxf1z8wCcNgxZZRu7PYoKtRCbi.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    4
+  ],
+  "tmdb_id": 103511,
+  "mal_id": 40879,
+  "anilist_id": 113970,
+  "imdb_id": "tt12792684",
+  "season_count": 2,
+  "seasons": [
+    {
+      "id": 982,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 13,
+      "episodes": [
+        {
+          "id": 123671,
+          "episode_number": 1,
+          "name": "Bölüm 1",
+          "description": null,
+          "release_date": "2020-10-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tpQ1q1lsqNBlN77pTaeuq4yPmAQ.jpg",
+          "videos": [
+            {
+              "id": 359266,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630d929796d13322efb02bcb",
+              "extra": "FGL Ceviri",
+              "fansub": "FGL Ceviri",
+              "fansub_id": 54,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 51443,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4100624",
+              "extra": "FGL Ceviri",
+              "fansub": "FGL Ceviri",
+              "fansub_id": 54,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 51442,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/1751651060358",
+              "extra": "FGL Ceviri",
+              "fansub": "FGL Ceviri",
+              "fansub_id": 54,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 123765,
+          "episode_number": 2,
+          "name": "Bölüm 2",
+          "description": "",
+          "release_date": "2020-10-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aYmgWnZWjEg1nUL1mHK8XNHkKlR.jpg",
+          "videos": [
+            {
+              "id": 359230,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630d882196d13322efb02ba7",
+              "extra": "FGL Ceviri",
+              "fansub": "FGL Ceviri",
+              "fansub_id": 54,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 51857,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4107423",
+              "extra": "FGL Ceviri",
+              "fansub": "FGL Ceviri",
+              "fansub_id": 54,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 51856,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/2065996647021",
+              "extra": "FGL Ceviri",
+              "fansub": "FGL Ceviri",
+              "fansub_id": 54,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 123766,
+          "episode_number": 3,
+          "name": "3. Bölüm",
+          "description": "",
+          "release_date": "2020-10-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oJ4QaMcevQh6X4JMLp8CV3VniDQ.jpg",
+          "videos": [
+            {
+              "id": 52202,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4113133",
+              "extra": "FGL Ceviri",
+              "fansub": "FGL Ceviri",
+              "fansub_id": 54,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 52201,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/1776854174342",
+              "extra": "FGL Ceviri",
+              "fansub": "FGL Ceviri",
+              "fansub_id": 54,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 123767,
+          "episode_number": 4,
+          "name": "4. Bölüm",
+          "description": "",
+          "release_date": "2020-10-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kWwYVjNem4bUys6hc51rRS2AxYc.jpg",
+          "videos": [
+            {
+              "id": 52704,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4120857",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 123768,
+          "episode_number": 5,
+          "name": "5. Bölüm",
+          "description": "",
+          "release_date": "2020-10-31T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ave7Y7CBhIQyOpgVrUPMdRsUH52.jpg",
+          "videos": [
+            {
+              "id": 360453,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630e928e96d13322efb02efb",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 53205,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4125799",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 53204,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/2365431745096",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 53207,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/mg7eiccrgmwc",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 123769,
+          "episode_number": 6,
+          "name": "6. Bölüm",
+          "description": "",
+          "release_date": "2020-11-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kTCpR0yGDiwyWFQ5Y5cuIJEqs8g.jpg",
+          "videos": [
+            {
+              "id": 360515,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630ea3d196d13322efb02f30",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 53644,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4133593",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 53643,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/2127254653549",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 123770,
+          "episode_number": 7,
+          "name": "7. Bölüm",
+          "description": "",
+          "release_date": "2020-11-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aUdYzyQiwl6inoQDR1exutH3SCS.jpg",
+          "videos": [
+            {
+              "id": 360704,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630ed3bc96d13322efb02fdc",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 54168,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4140299",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 54167,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/2145351633517",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 123771,
+          "episode_number": 8,
+          "name": "8. Bölüm",
+          "description": "",
+          "release_date": "2020-11-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vMPltzarJJ7vnLt5c6kULw5ulYy.jpg",
+          "videos": [
+            {
+              "id": 360784,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630eed1a96d13322efb03025",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 54585,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4147495",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 54595,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-9u31zc29kwzu.html",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 54596,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x7xmj2u",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 54591,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/j85nz3yso7rp",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 123772,
+          "episode_number": 9,
+          "name": "9. Bölüm",
+          "description": "",
+          "release_date": "2020-11-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/uKe81DkpU0tgRaENsAKNCWte3Ef.jpg",
+          "videos": [
+            {
+              "id": 360897,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630f17d796d13322efb03071",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 55101,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4158181",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 55100,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/2192922643053",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 55107,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-9ap12oy6nfjg.html",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 55108,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x7xs064",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 55103,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/4a0it7epqsb5",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 123773,
+          "episode_number": 10,
+          "name": "10. Bölüm",
+          "description": "",
+          "release_date": "2020-12-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/iuex96Qqtr6UxkfNeAJWFtMKy7g.jpg",
+          "videos": [
+            {
+              "id": 728394,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68afb048de99e6cf8d0967b9",
+              "extra": "aybertocarlos - Chunchunmaru - Xodhsux",
+              "fansub": "aybertocarlos",
+              "fansub_id": 1511,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 123774,
+          "episode_number": 11,
+          "name": "11.Bölüm",
+          "description": null,
+          "release_date": "2020-12-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/57VRZaf4mxxDSR9FmWX0hJHAfRR.jpg",
+          "videos": [
+            {
+              "id": 361450,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630f5b5d96d13322efb03126",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 56712,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4171061",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 56711,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/2236518042221",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 56718,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-x5cziotw9usu.html",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 56719,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x7y1ih4",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 56714,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/yqcb9f0qfw6t",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 123775,
+          "episode_number": 12,
+          "name": "12.Bölüm",
+          "description": null,
+          "release_date": "2020-12-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/uB10qSSIsh09nXONBkPIo7Xsoqg.jpg",
+          "videos": [
+            {
+              "id": 57527,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1C_HtXhDrZnadkjG9DWDKY7b0YkflQsb9/preview",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 57528,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1hh2NXFNCVoG3YVjJnEWa0u7BWpmbdreD/preview",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 123776,
+          "episode_number": 13,
+          "name": "13. Bölüm",
+          "description": "",
+          "release_date": "2020-12-26T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 58001,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4193132",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 57996,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1lmA6TrJGNPtMKi8Q9Y9kvIKu569RpoJm/preview",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 57997,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1i715bofEgdSiXQ5sW846bVpSRWgYezR7/preview",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 58000,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/2024435223079",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2870,
+      "season_number": 2,
+      "name": "Season 2",
+      "episode_count": 14,
+      "episodes": [
+        {
+          "id": 155522,
+          "episode_number": 1,
+          "name": "Yepyeni Bir Heyecan",
+          "description": "",
+          "release_date": "2022-04-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aLqdJvqsQjt1RLTcmY0U2qrrdOP.jpg",
+          "videos": [
+            {
+              "id": 701383,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6787f80c92a80eb7ff048796",
+              "extra": "Çevirmen: DinoNuggies / Redaktör: Lia / Encoder: Mizushu",
+              "fansub": "DinoNuggies",
+              "fansub_id": 1802,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 173536,
+          "episode_number": 2,
+          "name": "Örtüşen Renkler",
+          "description": "Kızlar festivale hazırlanırken Y.G.'den bir istek alırlar. Uluslararası Akademi ortak konser yapacak. Emma Lanzhu'yu davet eder ama o reddeder. Kasumi, Rina, Kanata ve Emma, ​​Lanzhu'nun başka bir sürpriz konser vereceğini duyduklarında onu takip eder.",
+          "release_date": "2022-04-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/gAuxGMGEa8jAQJ08HWIA0AzgHO5.jpg",
+          "videos": []
+        },
+        {
+          "id": 173537,
+          "episode_number": 3,
+          "name": "Şarkı söylemek! Şarkı! Gülümsemek!",
+          "description": "Kasumi, Rina, Kanata ve Emma birlikte performans sergileyecekleri için heyecanlılar ama hepsi birbirinden çok farklı. Ortak konserden önce çok fazla zaman kalmadı, bu yüzden Rina sırayla ne yapmak istediklerini açıklamalarını teklif ediyor, ancak yine de anlaşamıyorlar.",
+          "release_date": "2022-04-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/3J5PRFv93DzGrat9SnjqUxY9vFb.jpg",
+          "videos": []
+        },
+        {
+          "id": 125222,
+          "episode_number": 4,
+          "name": "AI Aşk Üçgeni",
+          "description": "",
+          "release_date": "2022-04-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sXkYiGcPNRjAEiHmMtHSuTvzJ2x.jpg",
+          "videos": [
+            {
+              "id": 52703,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/2352755116616",
+              "extra": "19",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 173538,
+          "episode_number": 5,
+          "name": "Dreamland Artık Açık!",
+          "description": "",
+          "release_date": "2022-04-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/596ZmqOk643XqkJ0RbgnkpONgHu.jpg",
+          "videos": []
+        },
+        {
+          "id": 173539,
+          "episode_number": 6,
+          "name": "\"Aşkınızı\" Seçin",
+          "description": "",
+          "release_date": "2022-05-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/nA82LbeI7GGr73VGJ6rMek0LswB.jpg",
+          "videos": []
+        },
+        {
+          "id": 173540,
+          "episode_number": 7,
+          "name": "Rüyaların Hafızası",
+          "description": "",
+          "release_date": "2022-05-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ogo2mx18OKfvPee2biTQn50gr5w.jpg",
+          "videos": []
+        },
+        {
+          "id": 173541,
+          "episode_number": 8,
+          "name": "Gökkuşağının Başladığı Yer",
+          "description": "2. Okul İdol Festivali'nin son günü geldi. Bugün festival, Nijigasaki'nin kültür fuarı ile birlikte gerçekleşiyor. Ama Yu hala School Idol Club için şarkıyı yazmayı bitirmedi çünkü onu mümkün olan en iyi şarkı yapmak istiyor.",
+          "release_date": "2022-05-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/g5F7qaTSfgB4MpP7J9iMaP5YgPe.jpg",
+          "videos": []
+        },
+        {
+          "id": 173542,
+          "episode_number": 9,
+          "name": "Ulaşamadığım Gökyüzü",
+          "description": "2. Okul Idol Festivali başarılı bir şekilde sona erdi. Ama sonra Lanzhu kızlara okul idolü olmayı bırakıp Hong Kong'a döneceğini söyler. Mia ona neden eve gittiğini sorar ama Lanzhu istediği her şeyi yaptığını söyler.",
+          "release_date": "2022-05-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/h0D50veoQFGSb8E0sJNJ3cJQGkC.jpg",
+          "videos": []
+        },
+        {
+          "id": 173543,
+          "episode_number": 10,
+          "name": "Kasumin☆Harika Turu",
+          "description": "",
+          "release_date": "2022-06-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fuLTRK2BgVhjiUe2hFnaGqG093m.jpg",
+          "videos": []
+        },
+        {
+          "id": 173544,
+          "episode_number": 11,
+          "name": "Geçmiş, Gelecek ve Şimdi",
+          "description": "",
+          "release_date": "2022-06-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/3rDEOaqpNFIP5ufpUyxmeUskxRi.jpg",
+          "videos": []
+        },
+        {
+          "id": 173545,
+          "episode_number": 12,
+          "name": "12. Bölüm",
+          "description": "",
+          "release_date": "2022-06-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/573tBOWOkNQUDj673ThaDUaFmUi.jpg",
+          "videos": []
+        },
+        {
+          "id": 184639,
+          "episode_number": 13,
+          "name": "13. Bölüm",
+          "description": "",
+          "release_date": "2022-06-25T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 281637,
+          "episode_number": 14,
+          "name": "OVA - Sonraki Gökyüzü",
+          "description": "",
+          "release_date": "2023-06-23T20:59:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kk497hVBq8KMUSaA2uU3mY7cMRh.jpg",
+          "videos": []
+        }
+      ]
+    }
+  ]
+}

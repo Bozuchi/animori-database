@@ -1,0 +1,2953 @@
+{
+  "id": 25,
+  "name": "Shingeki no Kyojin",
+  "name_english": "Attack on Titan",
+  "name_romanji": "Attack on Titan",
+  "original_title": "進撃の巨人",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2013,
+  "release_date": "2013-04-07",
+  "description": "Yüzyıllar önce insanoğlu, Titanlar adı verilen korkunç insansı yaratıklar tarafından neredeyse yok edilmek üzere katledildi ve insanları korku içinde devasa eşmerkezli surların arkasına saklanmaya zorladı. Bu devleri gerçekten dehşet verici yapan şey, insan etine duydukları zevkin açlıktan değil, zevkten kaynaklanıyor gibi görünmesidir. Hayatta kalmalarını sağlamak için, insanlığın kalıntıları savunma bariyerleri içinde yaşamaya başladı ve sonuçta yüz yıl boyunca tek bir titanla karşılaşılmadı. Ancak bu kırılgan sükûnet, devasa bir Titan'ın zaptedilemez olduğu düşünülen dış suru aşmayı başarmasıyla kısa sürede bozulur ve insan yiyen iğrenç yaratıklara karşı hayatta kalma mücadelesi yeniden alevlenir. İstilacı yaratıkların ellerinde korkunç bir kişisel kayba tanık olduktan sonra Eren Yeager, hayatını onların kökünü kazımaya adar...",
+  "poster": "https://image.tmdb.org/t/p/original/uAlgu4talmCw772hYT5vlnO6Asu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/w1RGPXbRRZ1OBHV060p4KUDX0dd.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    9,
+    6,
+    1,
+    2,
+    8,
+    18
+  ],
+  "tmdb_id": 1429,
+  "mal_id": 16498,
+  "anilist_id": 110277,
+  "imdb_id": "tt2560140",
+  "season_count": 4,
+  "seasons": [
+    {
+      "id": 19,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 31,
+      "episodes": [
+        {
+          "id": 3741,
+          "episode_number": 1,
+          "name": "Günümüzden 2000 Yıl Sonraki Sana",
+          "description": "Yüz yıllık barıştan sonra, insanlığa aniden Titanların insafına olmanın dehşeti hatırlatılır.",
+          "release_date": "2013-07-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/5r1aUs6bG4wHOzxQZfRxWye8B2m.jpg",
+          "videos": [
+            {
+              "id": 705509,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b11ce4b00f138db1d44e97",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 752420,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69fe2ab33729057a605fd2ff",
+              "extra": "Çeviri: Bradley Redakte: Mansur35 Dizgi: tunahan Encoder: sTue",
+              "fansub": "Bradley",
+              "fansub_id": 839,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756972,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a43f70259edd8529b31223c",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 752421,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/kqpr4dxne6bn",
+              "extra": "Çeviri: Bradley Redakte: Mansur35 Dizgi: tunahan Encoder: sTue",
+              "fansub": "Bradley",
+              "fansub_id": 839,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 752422,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-1t9bcpgcweek.html",
+              "extra": "Çeviri: Bradley Redakte: Mansur35 Dizgi: tunahan Encoder: sTue",
+              "fansub": "Bradley",
+              "fansub_id": 839,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756970,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/16hdxarl9g58",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756971,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-0ume41twrsv8.html",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756973,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/3d1d4ttykzql",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756974,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-uxnxm1syae11.html",
+              "extra": "Türkçe Dublaj",
+              "fansub": "Türkçe Dublaj",
+              "fansub_id": 412,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3742,
+          "episode_number": 2,
+          "name": "O Gün",
+          "description": "Titanlar suru aştıktan sonra, Shiganshina sakinleri canlarını kurtarmak için kaçmak zorunda kalır. Ancak, güvenli bir yere ulaşabilenleri zorlu bir hayat beklemektedir.",
+          "release_date": "2013-04-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/3l0CkbEdnBeYvpEm9nSVIQXs237.jpg",
+          "videos": [
+            {
+              "id": 705511,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b11d87b00f138db1d44e98",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 755296,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a1e26842b5f9e0a325216f3",
+              "extra": "Bradley - Mansur35 - tunahan - sTue ",
+              "fansub": "Bradley",
+              "fansub_id": 839,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726111,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.net/embed-r5xj2031618x.html",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 755297,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/eruo5ro858v4",
+              "extra": "Bradley - Mansur35 - tunahan - sTue ",
+              "fansub": "Bradley",
+              "fansub_id": 839,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 755298,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-hd760ijst5vy.html",
+              "extra": "Bradley - Mansur35 - tunahan - sTue ",
+              "fansub": "Bradley",
+              "fansub_id": 839,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3743,
+          "episode_number": 3,
+          "name": "Umutsuzluğun Ortasında Belirsiz Bir Işık",
+          "description": "Eren, Harp Okulu'ndaki eğitimine başlar ancak acı dolu geçmişiyle ilgili sorular onu bunaltır. Bir manevra alıştırmasında zorlanınca, Bertolt ve Reiner ona nazik tavsiyelerde bulunurlar.",
+          "release_date": "2013-04-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vcjknjNEJ827dTL9PBebjp49q5Y.jpg",
+          "videos": [
+            {
+              "id": 726175,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/689343154d2b29db486227ce",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756661,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a418d7259edd8529b312232",
+              "extra": "Çevirmen: Bradley Redaktör: Mansur35 Dizgi: tunahan Encoder: sTue ",
+              "fansub": "Bradley",
+              "fansub_id": 839,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 705513,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.net/embed-28a03nafppij.html",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726176,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/k5nck504lrga",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756662,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/dtv26vhkfmuk",
+              "extra": "Çevirmen: Bradley Redaktör: Mansur35 Dizgi: tunahan Encoder: sTue ",
+              "fansub": "Bradley",
+              "fansub_id": 839,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756663,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-kzb06wcr1202.html",
+              "extra": "Çevirmen: Bradley Redaktör: Mansur35 Dizgi: tunahan Encoder: sTue ",
+              "fansub": "Bradley",
+              "fansub_id": 839,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3744,
+          "episode_number": 4,
+          "name": "Mezuniyet Gecesi",
+          "description": "İki yıl geçer ve acemilerin mezuniyet zamanı yaklaşır. Annie bir dövüş seansında yeteneğini kanıtlar, Jean Kral'ın yanında hizmet etmeyi hayal eder ve mezuniyet günü şok edici ifşaatların yanı sıra eski bir düşmanın aniden ortaya çıkmasına neden olur.",
+          "release_date": "2013-04-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jsrRlhhfWbpMgqCHjgGUNamPbnC.jpg",
+          "videos": [
+            {
+              "id": 705515,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b11ec3b00f138db1d44e9a",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758272,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a54f5da002a74333f66ae47",
+              "extra": "Çevirmen: Bradley - Encoder: sTue - Dizgi: tunahan - Redakte: Mansur35",
+              "fansub": "Bradley",
+              "fansub_id": 839,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726158,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.net/embed-jkn9muiuwyuf.html",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758273,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/kz6gcodfdrwa",
+              "extra": "Çevirmen: Bradley - Encoder: sTue - Dizgi: tunahan - Redakte: Mansur35",
+              "fansub": "Bradley",
+              "fansub_id": 839,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758274,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-75xtxyynyl7d.html",
+              "extra": "Çevirmen: Bradley - Encoder: sTue - Dizgi: tunahan - Redakte: Mansur35",
+              "fansub": "Bradley",
+              "fansub_id": 839,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3745,
+          "episode_number": 5,
+          "name": "İlk Muharebe",
+          "description": "Sur Maria'nın düşüşünün üzerinden beş yıl geçmiştir ve Eren, bir kez daha ansızın ortaya çıkıp Wall Rose'un kapısında stratejik bir delik açtıktan sonra Devasa Titan'la karşı karşıya gelir. Titanlar şehre akın ederken, yeni mezun Harbiyeliler kayıpların eksik olmayacağı acımasız bir savaşa çağrılır.",
+          "release_date": "2013-05-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9NEKx6voQsEeQ2WhIAJgNHKRGSl.jpg",
+          "videos": [
+            {
+              "id": 705517,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b11f61b00f138db1d44e9b",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 759362,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a67182ff342e3f8d7f90488",
+              "extra": "Çevirmen: Bradley Redaktör: Mansur35 Dizgi: tunahan Encoder: sTue",
+              "fansub": "Bradley",
+              "fansub_id": 839,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 726159,
+              "player": "VIDMOLY",
+              "url": "https://vidmoly.net/embed-d7ljd6i82k92.html",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 759363,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/pkjl8quvl8oz",
+              "extra": "Çevirmen: Bradley Redaktör: Mansur35 Dizgi: tunahan Encoder: sTue",
+              "fansub": "Bradley",
+              "fansub_id": 839,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 759364,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-may6hf2dli73.html",
+              "extra": "Çevirmen: Bradley Redaktör: Mansur35 Dizgi: tunahan Encoder: sTue",
+              "fansub": "Bradley",
+              "fansub_id": 839,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3746,
+          "episode_number": 6,
+          "name": "Kızın Gözünden Dünya",
+          "description": "Armin; Titanların, ekibini katletmesinin ardından arkadaşlarının ve müttefiklerinin kaybıyla başa çıkmaya çalışır. Şehrin başka bir yerinde Mikasa birkaç canavarı alt etmeyi başarır, bu da geçmişine ve Eren'le ilk tanışmasına dair trajik anıları geri getirir.",
+          "release_date": "2013-05-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fOZYomE0lWB710X7Hfwthw0q8ci.jpg",
+          "videos": [
+            {
+              "id": 705519,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b12000b00f138db1d44e9c",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 759365,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a6718b9f2c0587e0fd8b996",
+              "extra": "Çevirmen: Bradley Redaktör: Mansur35 Dizgi: tunahan Encoder: sTue",
+              "fansub": "Bradley",
+              "fansub_id": 839,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 759366,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/png19blmhktv",
+              "extra": "Çevirmen: Bradley Redaktör: Mansur35 Dizgi: tunahan Encoder: sTue",
+              "fansub": "Bradley",
+              "fansub_id": 839,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 759367,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-x0f2f3en7qnj.html",
+              "extra": "Çevirmen: Bradley Redaktör: Mansur35 Dizgi: tunahan Encoder: sTue",
+              "fansub": "Bradley",
+              "fansub_id": 839,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3747,
+          "episode_number": 7,
+          "name": "Küçük Bir Kılıç",
+          "description": "Geri çekilme zili çaldıktan sonra, birçok öğrenci kendilerini duvarı tırmanıp güvenli bir yere dönmek için yeterli yakıttan yoksun bulur. Mikasa, Armin'in ekibindeki ölümleri duyunca umudunu kaybetmeye başlar ancak yeni bir Titan türünün ortaya çıkması, savaşma isteğini körükler.",
+          "release_date": "2013-05-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aSd3rzEVW7s5B45vuL5kwBmG7d1.jpg",
+          "videos": [
+            {
+              "id": 705521,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b1209db00f138db1d44e9d",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3748,
+          "episode_number": 8,
+          "name": "Onun Kalp Atışını Duyabilirim",
+          "description": "Terk edilen öğrenciler, karargâhlarını geri almaya çalışırken Armin, Titan'ı Titan'la karşı karşıya getirecek riskli bir plan yapar. Binaya girmek mümkün olabilir, ancak canlı çıkmak ve yakıt ikmali yapmak daha fazla devle karşılaşmak anlamına gelecektir.",
+          "release_date": "2013-05-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/w7URwYFNTSqQhqtgoTZk3wUu1TA.jpg",
+          "videos": [
+            {
+              "id": 724742,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6884076c7959f6da22488173",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 724743,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ip4du1wk53j0",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3749,
+          "episode_number": 9,
+          "name": "Sol Kol Nerede",
+          "description": "Mucizevi bir dönüş öfke ve korkuyla karşılanır. Bir Titan'ın karnında başına neler geldiğini ve nasıl olup da insanlığın düşmanı haline geldiğini hatırlamaya çalışan Eren'in üzerine toplar çevrilir. Önemli olan tek bir soru var: Eren insan mı yoksa Titan mı?",
+          "release_date": "2013-06-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/203F4c6QHNH36DUP3GMSwFGsajy.jpg",
+          "videos": [
+            {
+              "id": 705525,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b121d3b00f138db1d44e9f",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3750,
+          "episode_number": 10,
+          "name": "Cevap",
+          "description": "Eren'in dehşet verici dönüşümüne şüphe ve korkuyla karşılık veren Harbiyeliler, Eren'in bunu anlamaya çalıştığını fark eder. Armin, komutanı Eren'in yeni keşfettiği güçleri insanlığın iyiliği için kullanmaya ikna edemezse, Titanları durdurma umudu kaybolabilir.",
+          "release_date": "2013-06-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/iM0ZnpWE0pzZdNh2dDF5f0O6jK1.jpg",
+          "videos": [
+            {
+              "id": 705527,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b12278b00f138db1d44ea0",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3751,
+          "episode_number": 11,
+          "name": "Simge",
+          "description": "Trost'u geri almak amacıyla duvardaki deliği kapatmak için Eren'in Titan güçlerini kullanma planları yapılır. Ancak hükümetin kanla lekelenmiş geçmişi ve askeri rütbelerdeki muhalifler göz önüne alındığında, insanlık için en büyük tehdit Titanlar olmayabilir.",
+          "release_date": "2013-06-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4Y8Xl6JQBUyYWd5hNWbgxlvB2yL.jpg",
+          "videos": [
+            {
+              "id": 705529,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b12314b00f138db1d44ea1",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3752,
+          "episode_number": 12,
+          "name": "Yara",
+          "description": "Eren'in yeni keşfettiği güçler onu akılsız bir deve dönüştürünce, Trost'u geri alma planı suya düşer. Titanlar şehri istila etmeye devam ederken, görev sırasında katledilen öğrencilerin boşuna ölmediğinden emin olmak Armin ve Mikasa'ya kalmıştır.",
+          "release_date": "2013-06-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cBtdJdd921et4kxndc3neeCjKja.jpg",
+          "videos": [
+            {
+              "id": 705531,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b123b4b00f138db1d44ea2",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3753,
+          "episode_number": 13,
+          "name": "Temel İhtiyaçlar",
+          "description": "Jean, kırılan Manevra Teçhizatını değiştirmek için çaresizce önlemler alır. Bu arada Eren, öğrenci arkadaşlarının yardımıyla duvardaki deliği kapatmayı başarır ancak insanlığın Titanlar'a karşı kazandığı ilk zaferin bedeli çok ağır olacaktır.",
+          "release_date": "2013-06-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/29704CwCHFPQvbjFJJmhMM6m0uG.jpg",
+          "videos": [
+            {
+              "id": 705533,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b12453b00f138db1d44ea3",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 230648,
+          "episode_number": 13.5,
+          "name": "Bölüm 13.5 - O Günden Bu Yana",
+          "description": "Shiganshina'nın Düşüşü ve Trost Savaşı'ndan bu yana yaşanan olayların bir özeti.",
+          "release_date": "2013-07-07T20:29:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oj90CZ12Bp5FYVcSnOkodzQZ1qu.jpg",
+          "videos": [
+            {
+              "id": 714107,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67f19a3f5eaf06b6b6927154",
+              "extra": "AniKeyf",
+              "fansub": "AniKeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714108,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/3d9bdkcqmn49",
+              "extra": "AniKeyf",
+              "fansub": "AniKeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3754,
+          "episode_number": 14,
+          "name": "Gözlerinin İçine Bakamazsın",
+          "description": "Eren'in kaderine özel bir askeri mahkeme karar verecektir. Askeri Polis, Eren'in idam edilmesini isterken, Keşif Kolordusu onun insanlık için güçlü bir kaynak olduğunu savunur ve Mikasa'ya Trost görevinde yaşananlar sorulur.",
+          "release_date": "2013-07-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/i5LwCRuHRuQxPVJPbOAIIkRKiQo.jpg",
+          "videos": [
+            {
+              "id": 705535,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b124f6b00f138db1d44ea4",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3755,
+          "episode_number": 15,
+          "name": "Özel Harekat Bölüğü",
+          "description": "Keşif Birliği, Eren'i eğitimine devam edeceği terk edilmiş eski bir kaleye götürür. Hange ziyaret eder ve yakalanan iki Titanı bir dizi test ve denemeden geçirdiğini açıklar - Eren'in yardımını istediği deneyler.",
+          "release_date": "2013-07-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zoXVaoSqxlXpUoq5g5opNCTGUSB.jpg",
+          "videos": [
+            {
+              "id": 705537,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b12591b00f138db1d44ea5",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3756,
+          "episode_number": 16,
+          "name": "Şimdi Ne Yapmalı?",
+          "description": "İki denek Titanı kimin öldürdüğünü bulmak için yürütülen soruşturmada herkes şüpheli konumundadır. Bu arada, öğrenciler hangi askeri şubeye katılacaklarını seçerler, ancak Trost saldırısındaki üzücü olaylardan sonra, çoğu hangi şubeyi seçeceklerinden emin değildir.",
+          "release_date": "2013-07-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/imyHAoRf7yeVMal0UCvmSQulovr.jpg",
+          "videos": [
+            {
+              "id": 705539,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b1262bb00f138db1d44ea6",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3757,
+          "episode_number": 17,
+          "name": "Dişi Dev",
+          "description": "Keşif Birliği Shiganshina'ya doğru ilerlemeye başladığında, daha önce gördüklerine hiç benzemeyen zeki bir Dişi Titan'la karşılaşırlar. Armin bunun aslında bir Titan'a dönüştürülmüş bir insan olduğu varsayımında bulununca, o, Jean ve Reiner onu durdurmaya çalışır.",
+          "release_date": "2013-08-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/hERw24rvwwyIhvBCnmX6VMLSJxq.jpg",
+          "videos": [
+            {
+              "id": 705541,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b126cdb00f138db1d44ea7",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3758,
+          "episode_number": 18,
+          "name": "Dev Ağaçlar Ormanı",
+          "description": "Dişi Titan, Keşif Birliği'nin içine doğru ilerlemeye devam ederken, Levi cesur bir karar vererek safları ayırır ve Eren ile ikmal arabalarını devasa bir ormana gönderir. Stratejisi dâhiyane mi, yoksa gözcüler için kesin bir ölüm anlamına mı geliyor?",
+          "release_date": "2013-08-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ki4eiIGNWovfEQm0EmB8P5p3WXq.jpg",
+          "videos": [
+            {
+              "id": 705543,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b12776b00f138db1d44ea8",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3759,
+          "episode_number": 19,
+          "name": "Isırık",
+          "description": "Dişi Titan hâlâ Levi'nin ekibinin peşindeyken, Eren kendini Titan formuna dönüştürmeyi düşünür, ancak Levi ona ya bir canavar ya da Keşif Birliği'nin bir üyesi olmayı seçmesini söyler. Eren ekipten öğrendiklerini hatırladıkça, onları birbirine bağlayan şeyin tehlike ve fedakârlık değil, güven olduğunu fark eder. Şimdi kime güveneceğine karar vermek Eren'e kalmıştır.",
+          "release_date": "2013-08-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1Uxxm7lpMdHOQ8ebTdfCGQYBL5d.jpg",
+          "videos": [
+            {
+              "id": 705545,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b12818b00f138db1d44ea9",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3760,
+          "episode_number": 20,
+          "name": "Erwin Smith",
+          "description": "Levi'nin ekibinin yardımıyla Keşif Birliği Dişi Titan'ı başarıyla ele geçirdi. Komutan Erwin ve Yüzbaşı Levi, Titan'ın içindeki kişiyi çıkarmak için hazırlıklara başlarken, Keşif Birliği onun gerçek kimliğini keşfedecek mi, yoksa Dişi Titan'ın son bir numarası mı var?",
+          "release_date": "2013-08-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zZvRsmEjAIYXQJUuUchvAD1Yxvq.jpg",
+          "videos": [
+            {
+              "id": 705547,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b128b8b00f138db1d44eaa",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3761,
+          "episode_number": 21,
+          "name": "Bitirici Darbe",
+          "description": "Son bir çaresizlik eyleminden sonra, Dişi Titan'ın içindeki kişi Keşif Birliği'nden kaçmış ve insan formuna geri dönmüştür. Şimdi, Keşif Birliği'nin bir üyesi kılığına girmiş ve Manevra Teçhizatı ile donatılmış olarak, sonunda avlarına - Levi'nin ekibine - yetişirler.",
+          "release_date": "2013-09-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/eN3cAd2hKITV7ZswnTjqHFMkVnV.jpg",
+          "videos": [
+            {
+              "id": 705549,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b12964b00f138db1d44eab",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3762,
+          "episode_number": 22,
+          "name": "Mağlup Edilmiş",
+          "description": "Dişi Titan, Eren'i Titan bedeninden çıkardıktan sonra ele geçirmiştir ancak Mikasa ve Kaptan Levi peşlerine düşer. Başka bir yerde, Keşif Birliği, yanlarında sayısız ölüleriyle birlikte Duvar'a geri dönüş yolculuğu için hazırlıklara başlar.",
+          "release_date": "2013-09-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zvgLwsXPh2WMAfIQOyFhNUAhyx0.jpg",
+          "videos": [
+            {
+              "id": 706142,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b519bbcbf61b48b9aac290",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3763,
+          "episode_number": 23,
+          "name": "Gülümseme",
+          "description": "57. Sefer'in felaketle sonuçlanmasının ardından Eren, askeri mahkeme için Kral'ın sarayına getirilecektir. Eren'i kesin idamdan kurtarmak isteyen Armin, bir kaçış planına yardımcı olması için eski bir arkadaşından yardım ister.",
+          "release_date": "2013-09-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8M1VyncRhIXYn112ietpj3p33cb.jpg",
+          "videos": [
+            {
+              "id": 705554,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b12ab7b00f138db1d44ead",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3764,
+          "episode_number": 24,
+          "name": "Merhamet",
+          "description": "Dişi Titan'ın kimliğinin ortaya çıkmasıyla Eren'in onunla savaşma konusunda çekinceleri vardır. Mikasa, Armin ve Keşif Birliği'nin geri kalanı, Eren'e duygularıyla yüzleşmesi için zaman kazandıracak kadar uzun süre dikkatini dağıtmayı umarak Dişi Titan'la savaşmaya çalışır.",
+          "release_date": "2013-09-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8uTCGyCYgqDPkKsjlxwOpieOHeg.jpg",
+          "videos": [
+            {
+              "id": 705556,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b12b5db00f138db1d44eae",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3765,
+          "episode_number": 25,
+          "name": "Sur",
+          "description": "Eren, her bir Titan'ı öldürme sözünün verdiği cesaretle, Dişi Titan'la olan savaşında Titan formunun tüm gücünü açığa çıkarır. Kanlı savaşları sona yaklaşırken, insanlığın nihayet hayatta kalmak için bir şansı olabilir gibi görünüyor. Ancak hâlâ çözülmemiş birçok gizem varken Eren, Mikasa ve Armin'i neler bekliyor?",
+          "release_date": "2013-09-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2euk86Y2huYGUHuuAAczyLydNWE.jpg",
+          "videos": [
+            {
+              "id": 705558,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b12bf7b00f138db1d44eaf",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 228419,
+          "episode_number": 26,
+          "name": "OVA 1 - Ilse'nin Defteri",
+          "description": "Hange, bilimsel araştırmaların ilerlemesi için bir Titan ele geçirmekte ısrarcıdır, ancak Erwin buna izin vermemekte kararlıdır. Surların ötesine yapılan bir keşif gezisi sırasında beklenmedik bir keşif durumu değiştirecek midir?",
+          "release_date": "2013-12-09T19:39:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fp5u3fTy6U3sb5EjO2gAfRldc0Z.jpg",
+          "videos": [
+            {
+              "id": 715660,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6803fd46560e2c5569b02adc",
+              "extra": "Çevirmen: Pino / Encoder: Deat H Note.",
+              "fansub": "Pino",
+              "fansub_id": 838,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715661,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/lip2alihjkde",
+              "extra": "Çevirmen: Pino / Encoder: Deat H Note.",
+              "fansub": "Pino",
+              "fansub_id": 838,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 228420,
+          "episode_number": 27,
+          "name": "OVA 2 - Ansızın Gelen Ziyaretçi",
+          "description": "Annesinin işkencesinden kaçtıktan iki yıl sonra Jean, bir eğitim tatbikatı için Trost'a dönerken ondan kaçmaya çalışır. Olayların garip bir şekilde gelişmesiyle kendini Sasha'ya karşı bir yemek yarışmasında bulur.",
+          "release_date": "2014-04-09T17:39:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4vHSZiuwMD6ut0Cpe514B8Dpcju.jpg",
+          "videos": [
+            {
+              "id": 715666,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68040282560e2c5569b02ade",
+              "extra": "Çevirmen: Pino / Encoder: Deat H Note.",
+              "fansub": "Pino",
+              "fansub_id": 838,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715667,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/etxetkmbdw7z",
+              "extra": "Çevirmen: Pino / Encoder: Deat H Note.",
+              "fansub": "Pino",
+              "fansub_id": 838,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 228421,
+          "episode_number": 28,
+          "name": "OVA 3 - Sıkıntı",
+          "description": "Basit bir eğitim tatbikatı olarak başlayan olay bir felakete dönüşür. Christa'nın bir grup haydut tarafından rehin alınmasının ardından, işlevsiz bir öğrenci ekibi birlikte çalışmayı öğrenmek zorunda kalır.",
+          "release_date": "2014-08-06T17:40:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vqoVvDFJYqLH4H8JnHiIQZPsP7z.jpg",
+          "videos": [
+            {
+              "id": 715669,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68040308560e2c5569b02adf",
+              "extra": "Çevirmen: Pino / Encoder: Deat H Note.",
+              "fansub": "Pino",
+              "fansub_id": 838,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715670,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/nu2b6atnoic3",
+              "extra": "Çevirmen: Pino / Encoder: Deat H Note.",
+              "fansub": "Pino",
+              "fansub_id": 838,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 228422,
+          "episode_number": 29,
+          "name": "OVA 4 - Pişmanlık Duyulmayacak Bir Seçim 1.Kısım",
+          "description": "Araştırma Birliği'nden Yüzbaşı Levi nasıl oldu da sokak serseriliğinden insanlığın en güçlü askerine dönüştü? Ve Komutan Erwin nasıl insan ırkını kurtarmak için her şeyi feda etmeye hazır, soğuk, hesapçı bir lider oldu? Bu sadakat ve güven bağını oluşturan ateşler gerçekten de çok yoğundu!",
+          "release_date": "2014-12-09T17:40:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1qzhpTtpLHRZeWyjugIiPQoJxDl.jpg",
+          "videos": [
+            {
+              "id": 715636,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6803b231560e2c5569b02ad4?vid=715636",
+              "extra": "Titania - Skip",
+              "fansub": "Titania",
+              "fansub_id": 837,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718189,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/681f0153f8146af586df9ded",
+              "extra": "Çevirmen: Akira Redaktör: Karamak-sama Encode: Nolly dc: https://discord.gg/leefansub ",
+              "fansub": "Akira",
+              "fansub_id": 425,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 715637,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/tbg5uz9y58hp",
+              "extra": "Titania - Skip",
+              "fansub": "Titania",
+              "fansub_id": 837,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718190,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/3rv3khs7mqoc",
+              "extra": "Çevirmen: Akira Redaktör: Karamak-sama Encode: Nolly dc: https://discord.gg/leefansub ",
+              "fansub": "Akira",
+              "fansub_id": 425,
+              "quality": "1080p",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 228423,
+          "episode_number": 30,
+          "name": "OVA 5 - Pişmanlık Duyulmayacak Bir Seçim 2.Kısım",
+          "description": "Levi'nin grubu İzci Alayı'na katılır, ancak yanlarında gizli bir gündem de getirirler. Duvarların ötesine yapılacak sefer, planlarını gerçekleştirmek için mükemmel bir fırsat gibi görünmektedir.",
+          "release_date": "2015-04-09T17:41:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lBgnON62NxKnstEfOHZb6X7pazZ.jpg",
+          "videos": [
+            {
+              "id": 715639,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6803b2ed560e2c5569b02ad5?vid=715639",
+              "extra": "AniKeyf",
+              "fansub": "AniKeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715640,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/8lz35betdpjo",
+              "extra": "AniKeyf",
+              "fansub": "AniKeyf",
+              "fansub_id": 52,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "season_number": 2,
+      "name": "Season 2",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 3766,
+          "episode_number": 1,
+          "name": "Canavar Dev",
+          "description": "Ordunun önceki bir olayı örtbas etmesiyle birleştiğinde, Duvarların içindeki şok edici keşif bir kargaşaya neden olur. Başka yerlerde, yeni Scout acemileri gözlem için tutulurken şaşırtıcı bir tehdit ortaya çıkar.",
+          "release_date": "2017-04-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2HUVf98JazA7bTmzk2Ngu0wneNd.jpg",
+          "videos": [
+            {
+              "id": 725907,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68905aefc55023da2ac78f0f",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725908,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/v2qjsbpz3o0l",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3767,
+          "episode_number": 2,
+          "name": "Ben Geldim",
+          "description": "Titanların Wall Roseda görünmesiyle, Sasha ve Connie, köylerini yaklaşan tehdide karşı uyarmak için haberciler olarak ata binerler.",
+          "release_date": "2017-04-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/hnkDhj5YUwqKxWuRviT874dRY0r.jpg",
+          "videos": [
+            {
+              "id": 725910,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68905b8b4d2b29db486227b6",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725911,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/llkpadpmldyh",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3768,
+          "episode_number": 3,
+          "name": "Güneybatıya Doğru",
+          "description": "İzciler duvarda bir delik arar, Eren ve diğerleri yakın birinin tüm cevapları sakladığını öğrenir.",
+          "release_date": "2017-04-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/darYJHQto349CxkYZmLPxWobnhK.jpg",
+          "videos": [
+            {
+              "id": 725913,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68905c244d2b29db486227b7",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 725914,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/6djxxzrt4wd8",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3769,
+          "episode_number": 4,
+          "name": "Asker",
+          "description": "Kaleye yapılan Titan saldırısından silahsız ve bunalmış durumda, İzciler için tek umut bir söz ve bir sır olabilir.",
+          "release_date": "2017-04-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2DLLdTxsxbfo6oxwlyjscKwDMbL.jpg",
+          "videos": [
+            {
+              "id": 705569,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b12f07b00f138db1d44eb4",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3770,
+          "episode_number": 5,
+          "name": "Historia",
+          "description": "Utgard Kalesi, Ymir Titanlarla çaresizce savaşırken yıkılır. Şimdi, Christa uzun zaman önce kış eğitimi sırasında verdikleri sözü yerine getirmelidir.",
+          "release_date": "2017-04-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ixW3tXUUK4RrEzFhWhLU0NVI0zn.jpg",
+          "videos": [
+            {
+              "id": 705571,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b12fabb00f138db1d44eb5",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3771,
+          "episode_number": 6,
+          "name": "Savaşçı",
+          "description": "Savaşın ardından İzciler, cevaptan çok soru bulmak için duvarın tepesinde yeniden toplanır.",
+          "release_date": "2017-05-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/mGsGFFdkjXeLikNShJfBu81NVlD.jpg",
+          "videos": [
+            {
+              "id": 705573,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b13051b00f138db1d44eb6",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3772,
+          "episode_number": 7,
+          "name": "Yakın Dövüş",
+          "description": "",
+          "release_date": "2017-05-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/6iTiWI5zmMjnHwGQ4iHkL5sWN9T.jpg",
+          "videos": [
+            {
+              "id": 705577,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b130e1b00f138db1d44eb7",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3773,
+          "episode_number": 8,
+          "name": "Avcılar",
+          "description": "",
+          "release_date": "2017-05-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/mmmmxLuvyyApMqEECpjGFcqdxTC.jpg",
+          "videos": [
+            {
+              "id": 705575,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b130f6b00f138db1d44eb8",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3774,
+          "episode_number": 9,
+          "name": "Gedik",
+          "description": "",
+          "release_date": "2017-05-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/nk5iqPfIUXRTRWu5Ty9t7JN5yR.jpg",
+          "videos": [
+            {
+              "id": 705579,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b1319cb00f138db1d44eb9",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3775,
+          "episode_number": 10,
+          "name": "Çocuklar",
+          "description": "",
+          "release_date": "2017-06-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/mXvMLRj2rlYdoOSoVe5oHZz7faZ.jpg",
+          "videos": [
+            {
+              "id": 705581,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b131a8b00f138db1d44eba",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3776,
+          "episode_number": 11,
+          "name": "Hücum",
+          "description": "Keşif Birliği, Erene doğru savaşırken takip başlar. Ancak İzciler çok sayıda zayiat vermeye başlayınca Erwin, riskli bir strateji uygular.",
+          "release_date": "2017-06-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2WRCppDd5AXvFOidA5GZFiCG0Ix.jpg",
+          "videos": [
+            {
+              "id": 705585,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b1325bb00f138db1d44ebb",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 3777,
+          "episode_number": 12,
+          "name": "Çığlık",
+          "description": "Eren ve İzciler birçok zor kararla karşı karşıya kalırken savaş devam eder. Gerçek düşman kim? Savaş gerçekte ne hakkında? Ve gelecek insanlık için ne getirecek?",
+          "release_date": "2017-06-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/3gpdMIvLEjROYxGkIoIN0y39zu5.jpg",
+          "videos": [
+            {
+              "id": 705583,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b13260b00f138db1d44ebc",
+              "extra": "Clauseover",
+              "fansub": "Clauseover",
+              "fansub_id": 836,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 277,
+      "season_number": 3,
+      "name": "Season 3",
+      "episode_count": 22,
+      "episodes": [
+        {
+          "id": 41133,
+          "episode_number": 1,
+          "name": "Duman İşareti",
+          "description": "Eren'in iyileşmesinden zar zor kurtulduktan sonra, gölgelerden yükselen bir tehdit herkesin hayatını yeniden tehlikeye atar.",
+          "release_date": "2018-07-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/g5gdbz4MUxHYAakgFeHfAOQMIvs.jpg",
+          "videos": [
+            {
+              "id": 705589,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b13301b00f138db1d44ebd",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 41134,
+          "episode_number": 2,
+          "name": "Acı",
+          "description": "İzciler yeni bir düşmana karşı tavır alıyor, ancak artık savaşacakları sadece Titanlar değil.",
+          "release_date": "2018-07-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/5qFlHCtb82MWuMf72NgXltjnq96.jpg",
+          "videos": [
+            {
+              "id": 705587,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b1330db00f138db1d44ebe",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 41188,
+          "episode_number": 3,
+          "name": "Eski Hikâye",
+          "description": "Historia ve Erwin geçmişlerine bakarak gizli bir gündemi olan ve bir ayaklanma için ilham kaynağı olan karanlık bir hükümeti ortaya çıkarıyor.",
+          "release_date": "2018-08-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/w6dI9fRyRXtvpvLSjGGGJ8VRaSt.jpg",
+          "videos": [
+            {
+              "id": 705591,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b133b0b00f138db1d44ebf",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 41189,
+          "episode_number": 4,
+          "name": "Güven",
+          "description": "Kaçmakta olan ve zamanları tükenmekte olan İzciler, hayatta kalmayı planlıyorlarsa hayatlarını başkalarına emanet etmek zorundadır.",
+          "release_date": "2018-08-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lfC5qqu0X1UwqbpCC8bql0y9xem.jpg",
+          "videos": [
+            {
+              "id": 705593,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b133c3b00f138db1d44ec0",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 41456,
+          "episode_number": 5,
+          "name": "Yanıt",
+          "description": "Erwin, İzcilerin bağışlanması için savunmasını yapar, ancak öngörülemeyen bir duyuru insanlığın kaderini tehlikeye atar.",
+          "release_date": "2018-08-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/eE4eWhCOs6ADgqF2q7oStg7i50Q.jpg",
+          "videos": [
+            {
+              "id": 705595,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b1344fb00f138db1d44ec1",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 41457,
+          "episode_number": 6,
+          "name": "Günah",
+          "description": "Geçmişin günahları yeni gerçekleri ortaya çıkarırken, her iki taraf da zamanları tükenmeden önce yaklaşan hesaplaşmaya hazırlanır.",
+          "release_date": "2018-08-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/GK11zADVSDF7VWS1CXvBrUhf0G.jpg",
+          "videos": [
+            {
+              "id": 705597,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b13470b00f138db1d44ec2",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 41458,
+          "episode_number": 7,
+          "name": "İstek",
+          "description": "Ayini engellemek için savaş patlak verdiğinde, Historia felakete yol açan şok edici bir karar verir.",
+          "release_date": "2018-09-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/yzRT9uzwBRO5Npio8yaAaZeClI1.jpg",
+          "videos": [
+            {
+              "id": 705599,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b134eeb00f138db1d44ec3",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 41459,
+          "episode_number": 8,
+          "name": "Orvud Bölgesi Surlarının Dışı",
+          "description": "Her şey alt üst olduğunda, Eren arkadaşlarını kurtarmak için kendine inanmak zorundadır. Ancak yaklaşan kıyameti durdurmak için Eren tek başına yeterli olmayabilir.",
+          "release_date": "2018-09-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8Gm8GDMPsviXQJRzunQTTWlXnw1.jpg",
+          "videos": [
+            {
+              "id": 705601,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b1351cb00f138db1d44ec4",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 729087,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68bd76f25b3f3795844bf0d8",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 729088,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/js2vjfco3hh3",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 41460,
+          "episode_number": 9,
+          "name": "Surların Hâkimi",
+          "description": "Araştırma birliği ve duvar garnizonu, Orvud Bölgesi'ni Rod Reiss'in titanının yaklaşan saldırısından korumalıdır.",
+          "release_date": "2018-09-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/a5HryZioGnROWRyona6uSjZQyq5.jpg",
+          "videos": [
+            {
+              "id": 705603,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b13590b00f138db1d44ec5",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 41461,
+          "episode_number": 10,
+          "name": "Dostlar",
+          "description": "Kenny kendisini ölümün kapısına getiren hayatını hatırlar ama yaşayıp yaşamayacağına kendisi karar verir.",
+          "release_date": "2018-09-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oIqiOCiui0wBkGImdxma4XfWsnJ.jpg",
+          "videos": [
+            {
+              "id": 705605,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b135bdb00f138db1d44ec6",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 41462,
+          "episode_number": 11,
+          "name": "Seyirci",
+          "description": "Babasının anılarını bir anlığına gören Eren, babasının sırlarına ışık tutabileceğini umduğu bir adamın izini sürmeye çalışır.",
+          "release_date": "2018-10-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qeISjI2nxqaaUvf4LcW9rlExGcY.jpg",
+          "videos": [
+            {
+              "id": 705607,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b1363ab00f138db1d44ec7",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734235,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/690a45a2f2904a96d86ae9b5",
+              "extra": "AnimeWho.",
+              "fansub": "AnimeWho.",
+              "fansub_id": 840,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 734234,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4453160-_AnimeWh0_BD__6hingeki_n0_Ky0jin_6e460n_3___11/?utm_source=player&utm_medium=video&utm_campaign=EMBED",
+              "extra": "AnimeWho.",
+              "fansub": "AnimeWho.",
+              "fansub_id": 840,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 41463,
+          "episode_number": 12,
+          "name": "Suru Geri Alma Operasyonu Gecesi",
+          "description": "İzciler, bodrumda saklı olanı sonsuza dek ortaya çıkarmak için Sur Maria'yı yeniden ele geçirmek üzere yola çıkmadan önce, şenlikli bir ziyafet için bir araya gelirler.",
+          "release_date": "2018-10-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/88MIIgipuAsNL9jLKk9sK8YrqxS.jpg",
+          "videos": [
+            {
+              "id": 705609,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b1366ab00f138db1d44ec8",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120173,
+          "episode_number": 13,
+          "name": "Her Şeyin Başladığı Şehir",
+          "description": "Sur Maria'yı geri alma operasyonu, her şeyin başladığı kasaba olan Shiganshina'da başlar. Ancak İzciler geldiğinde, bir şeyler çok yanlış görünmektedir.",
+          "release_date": "2019-04-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/n5IBwDe5auoOFw0B0Lw3iwxec5.jpg",
+          "videos": [
+            {
+              "id": 705611,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b136dab00f138db1d44ec9",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120174,
+          "episode_number": 14,
+          "name": "Yıldırım Mızrağı",
+          "description": "Düşman akınına karşı İzciler, atlarını korumak için çabalar. Ancak bir tuzağa düşmelerine rağmen, Zırhlı Titan için kendi sürprizleri vardır.",
+          "release_date": "2019-05-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/q6IiLpnmi7Y371CcosCjl3fYnNx.jpg",
+          "videos": [
+            {
+              "id": 705613,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b13713b00f138db1d44eca",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120175,
+          "episode_number": 15,
+          "name": "Düşüş",
+          "description": "Yıldırım Mızrakları etkili olsa da, Shiganshina'nın üzerine felaket çökünce İzcilerin kutlaması kısa sürer.",
+          "release_date": "2019-05-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9SLwCEPccFQaQabdoxDmjSIdDWU.jpg",
+          "videos": [
+            {
+              "id": 705615,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b13781b00f138db1d44ecb",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120176,
+          "episode_number": 16,
+          "name": "Mükemmel Oyun",
+          "description": "Savaşın bir cephesi alev yağmuruna tutulurken, diğer cephesi kayalar tarafından dövülür. Çıkış yolu olmayan İzciler savaşmak ya da denerken ölmek zorunda kalırlar.",
+          "release_date": "2019-05-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/gDSyZcxHMGJahGpFoK949XfFMS.jpg",
+          "videos": [
+            {
+              "id": 705617,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b137b5b00f138db1d44ecc",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120184,
+          "episode_number": 17,
+          "name": "Kahraman",
+          "description": "Erwin'in kahramanca saldırısı Levi'a Canavar Titan'la yüzleşmek için zaman kazandırırken, Armin her şeyi tehlikeye atan kendi planını yapar.",
+          "release_date": "2019-05-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/XMy2xFhTtNA4EgHzs43R4Uxvt7.jpg",
+          "videos": [
+            {
+              "id": 705619,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b13824b00f138db1d44ecd",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120183,
+          "episode_number": 18,
+          "name": "Gece Yarısı Güneşi",
+          "description": "Maliyetli savaşın parçalarını toplarken, tek şırıngayı yaralı İzcilerden hangisine kullanacaklarına karar verirken gerilim yükselir.",
+          "release_date": "2019-06-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1IofclJNwYSb0hmDuv46s9XYdhZ.jpg",
+          "videos": [
+            {
+              "id": 705621,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b13855b00f138db1d44ece",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120182,
+          "episode_number": 19,
+          "name": "Bodrum Kat",
+          "description": "İzciler görevlerinde kazandıkları ve kaybettikleri her şeyi düşünürler. Düşmanlarının gitmesiyle Eren ve İzciler nihayet her şeyi değiştirecek gerçeği ortaya çıkarmak için bodruma girerler.",
+          "release_date": "2019-06-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7WJNwQ7qWRjCdKKgHDF3IryehV5.jpg",
+          "videos": [
+            {
+              "id": 705623,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b138ceb00f138db1d44ecf",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120181,
+          "episode_number": 20,
+          "name": "O Gün",
+          "description": "Grisha'nın anılarına bir bakış, Eren'e babasının sakladığı birçok sırrı gösterir. Bunlardan biri annesinin ölümüne yol açmıştır.",
+          "release_date": "2019-06-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jypHkTpsDZAkYjCTc4AMexJjg5C.jpg",
+          "videos": [
+            {
+              "id": 705625,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b138ffb00f138db1d44ed0",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120180,
+          "episode_number": 21,
+          "name": "Saldırı Devi",
+          "description": "Eren; Titan güçleri, babası ve kendisi hakkındaki gerçeği öğrenir. Araştırma Birlikleri, tüm yeni bilgileriyle Eldia'nın geleceğini tartışan bir toplantı yapar.",
+          "release_date": "2019-06-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/s35qsjN0VzQCectjnG5f4SJEdtP.jpg",
+          "videos": [
+            {
+              "id": 705627,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b13972b00f138db1d44ed1",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 120179,
+          "episode_number": 22,
+          "name": "Surların Ötesi",
+          "description": "Umut ve umutsuzlukla karşılanmasına rağmen, gerçek halka açıklanır. İzciler daha sonra hayal ettikleri her şeyin olup olmadığını görmek için duvarların ötesine geçerler.",
+          "release_date": "2019-07-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/yZpVxNd54ZhssthJ1b6Wp8eKGtg.jpg",
+          "videos": [
+            {
+              "id": 705629,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67b139a7b00f138db1d44ed2",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1054,
+      "season_number": 4,
+      "name": "The Final Season",
+      "episode_count": 30,
+      "episodes": [
+        {
+          "id": 125459,
+          "episode_number": 1,
+          "name": "Denizin Ötesi",
+          "description": "Marley, orta doğu ittifakıyla dört yıllık bir savaşı sona erdirmek için savaşırken, ön cephedeki bir grup savaşçı aday zırhlı Titan'ın halefi olmak için yarışıyor.",
+          "release_date": "2020-12-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/eqRF1ZQSzx31iLkyeJa95hMnWSr.jpg",
+          "videos": [
+            {
+              "id": 709110,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c4d344ed01ed6a75608085",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 709111,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/p0mh0wb6w3m3",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 125881,
+          "episode_number": 2,
+          "name": "Gece Yarısı Treni",
+          "description": "Savaşın sona ermesinden memnun olsalar da, hem Eldian Savaşçıları hem de Marley üst düzey yetkilileri, Kurucu Titan'ı geri alma işini bitirmedikleri sürece ikisinin de bir geleceği olmadığını fark ederler.",
+          "release_date": "2020-12-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aV2M59hZVguSbVTj7WkVx1icFxl.jpg",
+          "videos": [
+            {
+              "id": 709113,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c4d3dfed01ed6a75608086",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 709114,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ut925o1tf70m",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126210,
+          "episode_number": 3,
+          "name": "Umut Kapısı",
+          "description": "Reiner, geçmişini yansıtır, onu bir savaşçı olmaya ne ittiğini hatırlar ve tüm umut kaybolduğunda ilerlemeye devam eder.",
+          "release_date": "2020-12-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bvpdW7h2pqpYZ4IisPq082TGdhe.jpg",
+          "videos": [
+            {
+              "id": 709116,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c4d478ed01ed6a75608087",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 709117,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/gvu5fugsa9dk",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126211,
+          "episode_number": 4,
+          "name": "Elden Ele",
+          "description": "Tybur ailesinden ani bir ziyaret Marleyan ordusunu sallıyor. Bu arada Falco, bir arkadaş için mektup kaçırıyor ve iki eski yoldunun yeniden birleşmesine yardımcı oluyor.",
+          "release_date": "2020-12-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9S4W9H69wM3YQv6ebH9iSFVqrmF.jpg",
+          "videos": [
+            {
+              "id": 709119,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c4d50ded01ed6a75608088",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 709120,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/siu4g9jx2i3z",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126212,
+          "episode_number": 5,
+          "name": "Savaş İlanı",
+          "description": "Willy Tybur, dünyaya şok edici bir konuşmada gerçeği açıklarken, Eren ve Reiner yüz yüze buluşurken gerginlikler sahnenin arkasına yükseliyor.",
+          "release_date": "2021-01-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8wAQqWibI7FUpEWeDqrgZtbJvWf.jpg",
+          "videos": [
+            {
+              "id": 709122,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c4d5aded01ed6a75608089",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 709123,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/vt7arc8jaad0",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126213,
+          "episode_number": 6,
+          "name": "Savaş Çekiçli Dev",
+          "description": "Eren'in rampası, azim onu ​​güdük bırakan War Hammer Titan tarafından engellendi. Marley'nin ordusu savaşa katılırken, kendi başına hayatta kalmakta zorlanacak.",
+          "release_date": "2021-01-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/3OporLhmT9PXJ0L9GsWUnPO2BSD.jpg",
+          "videos": [
+            {
+              "id": 709125,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c4d648ed01ed6a7560808a",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 709126,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/2sui38fu0nj5",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126214,
+          "episode_number": 7,
+          "name": "Saldırı",
+          "description": "Paradis güçleri saldırılarına başlar, ancak savaşçılar zeminde dururlar. Marley birlikleri etraflarında yaklaştıkça Eren, savaş çekiçinin savunmalarını kırmak için mücadele ediyor.",
+          "release_date": "2021-01-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4fYKNPg6npvAr8S3gVs6NDmiz9Z.jpg",
+          "videos": [
+            {
+              "id": 709128,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c4d6e7ed01ed6a7560808b",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 709129,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/t15lctdgxnn5",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126215,
+          "episode_number": 8,
+          "name": "Suikast Kurşunu",
+          "description": "Kaçışlarını tehdit etmek için Titanlar kalmadı, İzciler zeplin üzerine geri çekiliyor. Evinde çiğneme için ödeme yapmalarına kararlı olan Gabi, elindeki silahla kovalar.",
+          "release_date": "2021-02-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2vpDtLZnQLSiwBko8xbAMDTqvDX.jpg",
+          "videos": [
+            {
+              "id": 709131,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c4d787ed01ed6a7560808c",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 709132,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/cgnna9bleg98",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126216,
+          "episode_number": 9,
+          "name": "Gönüllü Askerler",
+          "description": "Paradis, Liberio'ya baskın yaptıktan sonra ilgilenirken, Armin geçmişte dünyalarını yeniden şekillendiren gönüllü askerlerle tanışmak için geri bakar.",
+          "release_date": "2021-02-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aq8oMwYb3zewlbeb1uh53pf6IOy.jpg",
+          "videos": [
+            {
+              "id": 709134,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c4d828ed01ed6a7560808d",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 709135,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/fcherlh2nqz1",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126217,
+          "episode_number": 10,
+          "name": "Sert Tartışma",
+          "description": "İki yıl önce Paradis, kendilerinden birini gördüğüne şaşırmış olan ilk ziyaretçilerini memnuniyetle karşıladı. Paradileri korumak için üç bölümlük bir planda yardımlarını elde etmek kritik olacaktır.",
+          "release_date": "2021-02-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/mLsWWQs5zrFju6iMNLOkSBf0Jg2.jpg",
+          "videos": [
+            {
+              "id": 709137,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c4d8c1ed01ed6a7560808e",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 709138,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/mzfedzdvj4vk",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126218,
+          "episode_number": 11,
+          "name": "Sahtekâr",
+          "description": "Dünyanın en tehlikeli adasında hapsolmuş olan Falco ve Gabi hayatta kalmak için her şeyi yapacaklar. Başka yerlerde, kamu paradis kurtarıcının gözaltına alındığını öğrendiklerinde cevap talep ediyor.",
+          "release_date": "2021-02-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jNEVJnPbVhyEbj6qhrhrs7ET5to.jpg",
+          "videos": [
+            {
+              "id": 709140,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c4d958ed01ed6a7560808f",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 709141,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/x2ao0svk8u2g",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126219,
+          "episode_number": 12,
+          "name": "Yol Gösterenler",
+          "description": "Hange ve Pixis, Zeke'nin gerçek niyetlerini bir araya getirirken, Armin ve Mikasa'nın Eren ile konuşma izni için yalvardığı HQ dışında gerginlik.",
+          "release_date": "2021-03-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pV4KZvQUFtXxCUuHpLZSeOUENi6.jpg",
+          "videos": [
+            {
+              "id": 709143,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c4d9f0ed01ed6a75608090",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 709144,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/u7hqjqxb0gvb",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126220,
+          "episode_number": 13,
+          "name": "Ormanın Çocukları",
+          "description": "Gabi ve Falco, savaşçı adaylarını görmek için şaşırmış bir Marleyan'ı ararlar. Ragako'da olanların gerçeği, Zeke'nin gizli planlarına biraz ışık tutabilir.",
+          "release_date": "2021-03-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kAoha59zHvk99RNyYIYgcNNzXL.jpg",
+          "videos": [
+            {
+              "id": 709146,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c4da8aed01ed6a75608091",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 709147,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/2zp12rdv1bel",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126221,
+          "episode_number": 14,
+          "name": "Hiddet",
+          "description": "Armin ve Mikasa Eren ile konuşurlar, ancak söylediklerine şaşırırlar. Ormanda Levi, Canavar Titan'ı yeni birine beslemeyi düşünüyor, ancak Zeke'nin akılda başka planları var.",
+          "release_date": "2021-03-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ynZdYzOR8bEvL3l6l21mHIxOH1Z.jpg",
+          "videos": [
+            {
+              "id": 709149,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c4db21ed01ed6a75608092",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 709150,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/jrnii5ga4qa7",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126222,
+          "episode_number": 15,
+          "name": "Yegâne Kurtuluş",
+          "description": "Zeke'nin geçmişine bir bakış, savaşçı olma mücadelesini gösteriyor. Tüm Eldianların acılarını sona erdirme planları, gençliğinde yapılan bir şans arkadaşlığından kaynaklanıyor.",
+          "release_date": "2021-03-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4NKaIWiO8y5M33cKIOe70qxjpKV.jpg",
+          "videos": [
+            {
+              "id": 709152,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c4dbbaed01ed6a75608093",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731191,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68dd025008b60ac8219a383e",
+              "extra": "Çeviri:TheLeblebi/Encode:Albion",
+              "fansub": "TheLeblebi",
+              "fansub_id": 850,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 709153,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/hz9ct1oesojy",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731192,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/rv4uzan78z8y",
+              "extra": "Çeviri:TheLeblebi/Encode:Albion",
+              "fansub": "TheLeblebi",
+              "fansub_id": 850,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 731193,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-d7zmj84adzmo.html",
+              "extra": "Çeviri:TheLeblebi/Encode:Albion",
+              "fansub": "TheLeblebi",
+              "fansub_id": 850,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 126223,
+          "episode_number": 16,
+          "name": "Yer ve Gök",
+          "description": "Şu anda sorumlu Yeageristler olduğunda, Zeke'nin ana planı ortaya çıkıyor. Ancak harekete geçmeden önce, Eren işe alımları ortalarındaki işgalcileri temizlemeye yardımcı olur.",
+          "release_date": "2021-03-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kYtiYN55pl52zccsG8q6J5MUgCw.jpg",
+          "videos": [
+            {
+              "id": 709155,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c4dc55ed01ed6a75608094",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 709156,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/co6sg6phkggm",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 149621,
+          "episode_number": 17,
+          "name": "Yargı",
+          "description": "Marley'nin sürpriz saldırısıyla nöbet tutan Eren, Titanlarını tek başına savuşturuyor. Savaş yukarıda ilerledikçe, İzciler Eren'in yeraltı zindanlarından gelen güdülerini düşünüyor.",
+          "release_date": "2022-01-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cQp51TGhvY4rBv1DOjXAUhlF32Y.jpg",
+          "videos": [
+            {
+              "id": 709158,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c4dcebed01ed6a75608095",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 709159,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/a0zfgvn45os6",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 170626,
+          "episode_number": 18,
+          "name": "Oyuna Getirmek",
+          "description": "Canavar Titan Fray'a katılır, ancak General Magath onu indirmeye kararlıdır. Bu arada, alevler içinde, Colt ve Gabi, Yeageristler tarafından esir tutulan Falco'yu kurtarmak için acele ediyorlar.",
+          "release_date": "2022-01-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8qkQjcBcOtoIYMJbVzVEhRHtl6z.jpg",
+          "videos": [
+            {
+              "id": 709161,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c4dd7fed01ed6a75608096",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 709162,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/5qxabgql5wjo",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 170627,
+          "episode_number": 19,
+          "name": "Ağabey ve Erkek Kardeş",
+          "description": "Colt, Zeke ile çığlığını kullanmamaya ve Falco'yu bir Titan'a dönüştürmemeye yalvarır. Tüm bu süre boyunca, Eren kardeşi ile temasa geçmek için mücadele ederken askerler ve titanlar savaşta çatışıyor.",
+          "release_date": "2022-01-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xljKlZf3RIrRsrhaxdCBjvO1uFn.jpg",
+          "videos": [
+            {
+              "id": 709164,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c4de13ed01ed6a75608097",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 709165,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/wedx6b0sz6it",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 170628,
+          "episode_number": 20,
+          "name": "Geleceğin Anıları",
+          "description": "Zeke, Eren'i Grisha'nın anılarını nasıl beyin yıkandığını göstermek için alır. Ancak bunu yaparken Zeke, Eren hakkında hiç bilmediği bir şey keşfeder.",
+          "release_date": "2022-01-31T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/grIp62HTReIC1Af2vSIrfaWRxuq.jpg",
+          "videos": [
+            {
+              "id": 709167,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c4dea5ed01ed6a75608098",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 709168,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ve6us0m059sd",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 170629,
+          "episode_number": 21,
+          "name": "Günümüzden 2000 Yıl Önceki Senden",
+          "description": "2000 yıldır, Kurucu Ymir beklemektedir - kraliyet kanına sahip bir köle. Ancak Eren'in özgürlüğe olan özlemi, ona her şeyi altüst edebilecek bir seçim sunar.",
+          "release_date": "2022-02-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vRXC0k8wsCFRwmgWwVu7KDcGKRT.jpg",
+          "videos": [
+            {
+              "id": 709170,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c4df36ed01ed6a75608099",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 709171,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/3aepe9g00i1q",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 170630,
+          "episode_number": 22,
+          "name": "Çözünme",
+          "description": "Adada duvar kalmadı ve Shiganshina Titanlarla dolu, İzciler eski yoldaşlarıyla savaşmalı. Her şeyin ortasında Gabi, Falco'yu ne pahasına olursa olsun bulmaya ve kurtarmaya kararlıdır.",
+          "release_date": "2022-02-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aD0tJhJ4EGMGianyzuuiQz2nZY0.jpg",
+          "videos": [
+            {
+              "id": 709173,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c4dfcfed01ed6a7560809a",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 709174,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/x57cjtflby0t",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 170631,
+          "episode_number": 23,
+          "name": "Gün Batımı Kızıllığı",
+          "description": "Tüm sertleşme geri alındıktan sonra gürleme harekete geçer, ancak bu da Annie'yi serbest bırakır. Jaegeristler adanın kontrolünü ele geçirirken Conny, Falco'yu Titan annesine beslemek için Ragako'ya doğru yarışır.",
+          "release_date": "2022-02-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/28kjpqi1IqlmaDbouHTLwfzVL2h.jpg",
+          "videos": [
+            {
+              "id": 709176,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c4e05ced01ed6a7560809b",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 709177,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/oi5r0fvdi6ch",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 170632,
+          "episode_number": 24,
+          "name": "Haysiyet",
+          "description": "Ragako'ya ulaştıktan sonra Conny, Falco'yu annesi tarafından yenmek için kandırmak için bir plan yapar. Başka yerlerde, Eldian İmparatorluğu'nun kahramanı Jean, insanlığa karşı suçları için Yelena ve Onyankopon'u icra etmektir.",
+          "release_date": "2022-02-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/atKHPrLW5RRG1dUrahRrTXjJVAr.jpg",
+          "videos": [
+            {
+              "id": 709179,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c4e0e9ed01ed6a7560809c",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 709180,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/odq3glqhy82u",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 170633,
+          "episode_number": 25,
+          "name": "Sonun Gecesi",
+          "description": "Ormanın derinliklerinde, beklenmedik bir Marley Stragglers ve Ada Fugitives, nefretlerini bir kenara bırakmaya ve birbirlerini öldürmeden bir kamp ateşinin etrafında konuşmaya çalışır.",
+          "release_date": "2022-03-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sWZ592AiNnXTDaw8uIxz7ya7MOp.jpg",
+          "videos": [
+            {
+              "id": 709182,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c4e177ed01ed6a7560809d",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 170634,
+          "episode_number": 26,
+          "name": "Hain",
+          "description": "Azumabito'nun uçan teknesi, Jaegeristlerle dolu bir liman tarafından korunuyor, ancak izciler eski arkadaşlarını öldürmek konusunda isteksiz. Kan dökülmesini önlemek istiyorlarsa, yanlış gitme planlarını karşılayamazlar.",
+          "release_date": "2022-03-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xUcJ93Tt5RHjdFPeXBKDEH3J7U1.jpg",
+          "videos": [
+            {
+              "id": 715642,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6803c94b560e2c5569b02ad6",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 715643,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/8200yxv7804y",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 171864,
+          "episode_number": 27,
+          "name": "Geçmişe Dair",
+          "description": "Uçan teknenin kalkması için, mekaniğin hizmet etmek için yarım güne ihtiyacı var. Yolda Jagerist takviyeleri ile asla bu kadar uzun sürmeyeceklerini bilerek, mürettebat planlarını değiştirmek zorunda kalıyor.",
+          "release_date": "2022-03-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/z1ymXAlYjYeTfsFvOAveVdSBeqQ.jpg",
+          "videos": [
+            {
+              "id": 709186,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c4e295ed01ed6a7560809f",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 171865,
+          "episode_number": 28,
+          "name": "İnsanlığın Şafağı",
+          "description": "Her şeyin nereden başladığına bakılmaksızın, Eren izcilerin Marleyan anakarasına ilk ziyareti sırasında yıkım yoluna taahhüt eder ve Mikasa'yı her şeyin farklı olup olmadığını merak etmeye bırakır.",
+          "release_date": "2022-04-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/eu8TEJlYFWIWpPHyYw61JMMyPAB.jpg",
+          "videos": [
+            {
+              "id": 709188,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c4e325ed01ed6a756080a0",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 172385,
+          "episode_number": 29,
+          "name": "Final Sezonu 3.Kısım",
+          "description": "Rumbling ilerledikçe, İzci Alayı'nın geri kalan üyeleri Marleyan ve Azumabito müttefikleriyle birlikte Eren'e yetişmek ve dünyanın geri kalanı Sur Titanları'nın ayakları altında ezilmeden önce Rumblingi durdurmak için zamana karşı yarışır.",
+          "release_date": "2023-03-03T21:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ivc41HdyqCKmWsPDnq0AZXyom3n.jpg",
+          "videos": [
+            {
+              "id": 676482,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66c9791048d0b8046dc0668e",
+              "extra": "fatherlord & Prenses",
+              "fansub": "fatherlord",
+              "fansub_id": 789,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714537,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67f8042d8668542295022d8b",
+              "extra": "Çeviri: Skylyne / Kodlama: Isora",
+              "fansub": "Skylyne",
+              "fansub_id": 847,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714540,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67f804d78668542295022d8c",
+              "extra": "yukii & Ceastouth",
+              "fansub": "yukii",
+              "fansub_id": 848,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 755934,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a2c5eaf2b34b506938a4119",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714538,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ip9ly7lcpvca",
+              "extra": "Çeviri: Skylyne / Kodlama: Isora",
+              "fansub": "Skylyne",
+              "fansub_id": 847,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714541,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/w3hl8duxh2g8",
+              "extra": "yukii & Ceastouth",
+              "fansub": "yukii",
+              "fansub_id": 848,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 755935,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ctt3pudw1b1i",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 755936,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-vh86fz98z6ei.html",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 172388,
+          "episode_number": 30,
+          "name": "Final Sezonu 4.Kısım",
+          "description": "Eren, Kurucu Titan olarak sayısız diğer Titan'la birlikte Salta Kalesi'ne ilerler. Umutsuzluğun eşiğinde duran mültecilerin önünde Mikasa, Armin, Jean, Conny, Reiner, Pieck ve gümbürtüden kıl payı kurtulan Levi belirir. Eren ile eski yoldaşları ve çocukluk arkadaşları arasındaki savaş burada sona eriyor.",
+          "release_date": "2023-11-05T03:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2xCuZJR97k6HKBKsCgfKdH2WCRs.jpg",
+          "videos": [
+            {
+              "id": 602901,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6547af6c30e908b3e8e71eaa",
+              "extra": "Çevirmen: Gumballdore & Lia | Encoder: Lia",
+              "fansub": "Gumballdore & Lia",
+              "fansub_id": 845,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 602915,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6547bf2530e908b3e8e71eb1",
+              "extra": "Memocemobaro - berosaki",
+              "fansub": "Memocemobaro",
+              "fansub_id": 846,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 603396,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/654e6379da9c8055855487b4",
+              "extra": "fatherlord - Prenses",
+              "fansub": "fatherlord",
+              "fansub_id": 789,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714155,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67f28b515eaf06b6b6927164",
+              "extra": "fatherlord - Prenses",
+              "fansub": "fatherlord",
+              "fansub_id": 789,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714158,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67f28c435eaf06b6b6927165",
+              "extra": "Çeviri: Skylyne / Kodlama: Isora",
+              "fansub": "Skylyne",
+              "fansub_id": 847,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714161,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67f28d465eaf06b6b6927166",
+              "extra": "Çevirmen: Gumballdore & Lia",
+              "fansub": "Gumballdore & Lia",
+              "fansub_id": 845,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714543,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67f805978668542295022d8d",
+              "extra": "Yukii & Ceastouth",
+              "fansub": "Yukii",
+              "fansub_id": 848,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714546,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67f8084d8668542295022d8e",
+              "extra": "Çeviri: memocemobaro - Encode & Upload: berosaki",
+              "fansub": "memocemobaro - Encode &",
+              "fansub_id": 849,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 755937,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a2c5f9548d66c80c1527e02",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 602877,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/7122932402932",
+              "extra": "Memocemobaro - berosaki",
+              "fansub": "Memocemobaro",
+              "fansub_id": 846,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 602884,
+              "player": "DAILYMOTION",
+              "url": "https://www.dailymotion.com/embed/video/x8pd57h",
+              "extra": "Memocemobaro - berosaki",
+              "fansub": "Memocemobaro",
+              "fansub_id": 846,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 602894,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/7078358026887",
+              "extra": "Çevirmen: Gumballdore & Lia | Encoder: Lia",
+              "fansub": "Gumballdore & Lia",
+              "fansub_id": 845,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 602900,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1vou1sPHFb7QKkODIEj8Uy6XBow-3yJ-V/preview",
+              "extra": "Çevirmen: Gumballdore & Lia | Encoder: Lia",
+              "fansub": "Gumballdore & Lia",
+              "fansub_id": 845,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 616614,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1Qpx4tbFw_6YhKCQpUtbuiTp80hRmVImh/preview",
+              "extra": "Satogami & chihiro & Nova",
+              "fansub": "Satogami",
+              "fansub_id": 757,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714156,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/gfivh1enhxd4",
+              "extra": "fatherlord - Prenses",
+              "fansub": "fatherlord",
+              "fansub_id": 789,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714159,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/lpoe5pk4ee83",
+              "extra": "Çeviri: Skylyne / Kodlama: Isora",
+              "fansub": "Skylyne",
+              "fansub_id": 847,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714162,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/lc44s9h1lp1n",
+              "extra": "Çevirmen: Gumballdore & Lia",
+              "fansub": "Gumballdore & Lia",
+              "fansub_id": 845,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714544,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/bzjxs69jf7ru",
+              "extra": "Yukii & Ceastouth",
+              "fansub": "Yukii",
+              "fansub_id": 848,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 714547,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/3zxqzc6j4cxx",
+              "extra": "Çeviri: memocemobaro - Encode & Upload: berosaki",
+              "fansub": "memocemobaro - Encode &",
+              "fansub_id": 849,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 755938,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/7p1oaeb4cw1c",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 755939,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-b3iz8oh95bc8.html",
+              "extra": "rolativistik & KaioKen",
+              "fansub": "rolativistik",
+              "fansub_id": 420,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

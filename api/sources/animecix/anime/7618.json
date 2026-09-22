@@ -1,0 +1,3652 @@
+{
+  "id": 7618,
+  "name": "Fruits Basket",
+  "name_english": "Fruits Basket",
+  "name_romanji": "Fruits Basket",
+  "original_title": "フルーツバスケット",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2019,
+  "release_date": "2019-04-06 00:00:00",
+  "description": "After a family tragedy turns her life upside down, 16-year-old high school student Tohru Honda takes matters into her own hands and moves out… into a tent! Unfortunately for her, she pitches her new home on private land belonging to the mysterious Soma clan, and it isn't long before the owners discover her secret. But, as Tohru quickly finds out when the family offers to take her in, the Somas have a secret of their own—when hugged by the opposite sex, they turn into the animals of the Chinese Zodiac!",
+  "poster": "https://image.tmdb.org/t/p/original/ht9b1uQImlHMG5ooaM8hgoAEHY9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2vIjTPITEoHeetz1jU4UxyHL9tg.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    9,
+    6,
+    4
+  ],
+  "tmdb_id": 85991,
+  "mal_id": 120,
+  "anilist_id": 0,
+  "imdb_id": "tt9304350",
+  "season_count": 3,
+  "seasons": [
+    {
+      "id": 1191,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 25,
+      "episodes": [
+        {
+          "id": 128274,
+          "episode_number": 1,
+          "name": "Okuldan Sonra Görüşürüz",
+          "description": "Geçici olarak evsiz lise öğrencisi Tohru Honda, arkadaşlarına herhangi bir sorun çıkarmak istemediğinden, arkadaşlarından herhangi biriyle kalmayı istemek yerine gizlice bir çadırda yaşamaktadır. Sonra çadırını kurduğu arazinin sahipleriyle tanışır ...",
+          "release_date": "2019-04-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/r7kYBL0xLxAvmuzf2Jp4fdQl0Ro.jpg",
+          "videos": [
+            {
+              "id": 383320,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c34cc811bb1558a7aa4ae",
+              "extra": "YAOLH",
+              "fansub": "YAOLH",
+              "fansub_id": 723,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224223,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595233",
+              "extra": "YAOLH",
+              "fansub": "YAOLH",
+              "fansub_id": 723,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224222,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/WPdrwODv8gTbaDo",
+              "extra": "YAOLH",
+              "fansub": "YAOLH",
+              "fansub_id": 723,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224218,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-67jyskh6wlbk.html",
+              "extra": "YAOLH",
+              "fansub": "YAOLH",
+              "fansub_id": 723,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224221,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/lwebchffmlgb.html",
+              "extra": "YAOLH",
+              "fansub": "YAOLH",
+              "fansub_id": 723,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128275,
+          "episode_number": 2,
+          "name": "Hepsi Hayvan!",
+          "description": "Tohru, Soma ailesinin şok edici sırrını öğrenir: Zodyak hayvanlarına dönüşürler! Bu dizi bir zodyak hayvan dönüşümü ev komedisi mi ?!",
+          "release_date": "2019-04-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/f2S6aobf1QiEY5kA02QA4V2u9fv.jpg",
+          "videos": [
+            {
+              "id": 383318,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c3433811bb1558a7aa4ac",
+              "extra": "ranoya  Alohom  INCURSIO",
+              "fansub": "ranoya Alohom INCURSIO",
+              "fansub_id": 724,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224230,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595239",
+              "extra": "ranoya  Alohom  INCURSIO",
+              "fansub": "ranoya Alohom INCURSIO",
+              "fansub_id": 724,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224229,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/DkRq8kLBqlHwGL",
+              "extra": "ranoya  Alohom  INCURSIO",
+              "fansub": "ranoya Alohom INCURSIO",
+              "fansub_id": 724,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224225,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-8mfvq4qlwa5y.html",
+              "extra": "ranoya  Alohom  INCURSIO",
+              "fansub": "ranoya Alohom INCURSIO",
+              "fansub_id": 724,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224228,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/4gkaeq9q1twg.html",
+              "extra": "ranoya  Alohom  INCURSIO",
+              "fansub": "ranoya Alohom INCURSIO",
+              "fansub_id": 724,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128276,
+          "episode_number": 3,
+          "name": "Rich Man-Poor Mani oynayalım!",
+          "description": "Kyo ve Yuki, güvensizlikleri konusunda Tohruya güvenir ve o, bu kadar zıt gibi görünen insanlar için çok ortak yönleri olduğunu keşfeder.",
+          "release_date": "2019-04-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9gRzuJYN66ZG1CiynpHa96tTVxo.jpg",
+          "videos": [
+            {
+              "id": 383316,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c33e9811bb1558a7aa4aa",
+              "extra": "YAOLH & NarukoShoukichi",
+              "fansub": "YAOLH",
+              "fansub_id": 723,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224237,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595244",
+              "extra": "YAOLH & NarukoShoukichi",
+              "fansub": "YAOLH",
+              "fansub_id": 723,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224236,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/3AoOAVPb6kudmLq",
+              "extra": "YAOLH & NarukoShoukichi",
+              "fansub": "YAOLH",
+              "fansub_id": 723,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224232,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-aabyl3hilnk7.html",
+              "extra": "YAOLH & NarukoShoukichi",
+              "fansub": "YAOLH",
+              "fansub_id": 723,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224235,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/gqgfqc2ihcx8.html",
+              "extra": "YAOLH & NarukoShoukichi",
+              "fansub": "YAOLH",
+              "fansub_id": 723,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128277,
+          "episode_number": 4,
+          "name": "Hangi Yıl O?",
+          "description": "Kagura Soma, Kyoya duyduğu büyük sevgiyi ziyaret eder ve ifade eder. İlk başta Tohruyu potansiyel bir rakip olarak görür, ancak çok geçmeden Tohrunun kavgayla değil arkadaşlıkla ilgilendiğini fark eder.",
+          "release_date": "2019-04-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9Wm5gBW2WB97YejBU0Ojo11TL74.jpg",
+          "videos": [
+            {
+              "id": 383315,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c33a7811bb1558a7aa4a9",
+              "extra": "YAOLH",
+              "fansub": "YAOLH",
+              "fansub_id": 723,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224248,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595252",
+              "extra": "YAOLH",
+              "fansub": "YAOLH",
+              "fansub_id": 723,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224247,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/BQQDgeBzd1SMXv",
+              "extra": "YAOLH",
+              "fansub": "YAOLH",
+              "fansub_id": 723,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224243,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-hd9lpyah0al7.html",
+              "extra": "YAOLH",
+              "fansub": "YAOLH",
+              "fansub_id": 723,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224246,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/5sxhcni9prom.html",
+              "extra": "YAOLH",
+              "fansub": "YAOLH",
+              "fansub_id": 723,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128278,
+          "episode_number": 5,
+          "name": "",
+          "description": "",
+          "release_date": "2019-05-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bnhHvHeoelzIhl9tyPwNzrTJDUs.jpg",
+          "videos": [
+            {
+              "id": 383317,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c3415811bb1558a7aa4ab",
+              "extra": "YAOLH",
+              "fansub": "YAOLH",
+              "fansub_id": 723,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224255,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595259",
+              "extra": "YAOLH",
+              "fansub": "YAOLH",
+              "fansub_id": 723,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224254,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/LdwempyLkztyYx",
+              "extra": "YAOLH",
+              "fansub": "YAOLH",
+              "fansub_id": 723,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224250,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-awpy99ybxzgw.html",
+              "extra": "YAOLH",
+              "fansub": "YAOLH",
+              "fansub_id": 723,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224253,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/8uw33xfpap40.html",
+              "extra": "YAOLH",
+              "fansub": "YAOLH",
+              "fansub_id": 723,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128279,
+          "episode_number": 6,
+          "name": "Belki Kendimizi Davet Etmeliyiz",
+          "description": "Ekip, okul festivali gününde, yenilikçi Prens Yuki pazarlama tekniği sayesinde bir ton pirinç topu satar. Bonus: Soma ailesinin diğer iki üyesi kendilerini tanıtmak için festivale geliyor.",
+          "release_date": "2019-05-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7Cp7UnSkbTzseTqeHaTmdcJancR.jpg",
+          "videos": [
+            {
+              "id": 383302,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c31ef811bb1558a7aa4a0",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224325,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595309",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224324,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/r9qXWJB6qaSMPg",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224320,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-ezp9oes8njtd.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224323,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/gjkn5eaf9o7x.html",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128280,
+          "episode_number": 7,
+          "name": "Bahar gelir",
+          "description": "Sinirli Tohru, Hatori ile buluşması için ana Soma malikanesini ziyaret eder. Orada, Hatorinin ona karşı görünüşte sert tavrının arkasındaki hikayeyi öğrenir.",
+          "release_date": "2019-05-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/uSUqp5c11Cs5xjlIFU8RxgH9A3F.jpg",
+          "videos": [
+            {
+              "id": 383300,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c3126811bb1558a7aa49e",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224332,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595311",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224331,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/2qrowXGzvyHQqJ",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224327,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-frrp3oc93tky.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224330,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/fohv182jt75y.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128281,
+          "episode_number": 8,
+          "name": "Geri Döndüğünde Görüşürüz",
+          "description": "Tohru, Yeni Yıl tatilinde herkesi nasıl en az sıkıntıya sokacağını bulmaya çalışır. Bu sırada Yuki ve Kyo, Tohru olmadan nasıl üç gün hayatta kalabileceklerini anlamaya çalışır.",
+          "release_date": "2019-05-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bI1HSBRIpdLlWnIEzlrArsiMkob.jpg",
+          "videos": [
+            {
+              "id": 383301,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c3137811bb1558a7aa49f",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224341,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595316",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224340,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/wOP9jKLgyjiVlx",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224336,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-et8ocragdrdh.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224339,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/76f978s05p4t.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128282,
+          "episode_number": 9,
+          "name": "Yuki İlk Aşkımdı",
+          "description": "Kyo, Yuki ile savaşır, Yuki soğuk algınlığıyla savaşır ve Tohru, ruh hali değişimleri Kaguranınkinden bile daha aşırı olabilen yeni bir Soma ile tanışır.",
+          "release_date": "2019-06-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/l3xQtczmpBGOSruM4ptDKyvBZRh.jpg",
+          "videos": [
+            {
+              "id": 383310,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c335b811bb1558a7aa4a8",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224262,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595266",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224261,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/28RPVPmDaoHZv69",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224257,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-qks03ojyni90.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224260,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/yd8r5ltccfqj.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128283,
+          "episode_number": 10,
+          "name": "Sonuçta Sevgililer Günü",
+          "description": "Shigure ciddi bir entrika çevirirken Kagura, Kyo, Yuki ve Tohrunun hepsi çifte randevuya çıkar.",
+          "release_date": "2019-06-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/drSXhdvvmold6CY3FZgpcdTRHBm.jpg",
+          "videos": [
+            {
+              "id": 383308,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c3309811bb1558a7aa4a6",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224270,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595270",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224269,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/A3vxqrdvY9FXMV9",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224265,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-ijheodjj0iul.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224268,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/s70l9mhgzjx5.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128284,
+          "episode_number": 11,
+          "name": "Bu Harika Bir Han",
+          "description": "Bu \"Beyaz Günü,\" Sevgililer Gününde çikolata alınan erkek kız dönüşlerinde hediye vermek o gün. Ve Momiji Tohru için büyük bir sürpriz bir hediye var!",
+          "release_date": "2019-06-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/77iCdjH8oVE4ly65OXc2YC31uMJ.jpg",
+          "videos": [
+            {
+              "id": 383309,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c3341811bb1558a7aa4a7",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224278,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595272",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224277,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/1arOpO4a1MIeoA6",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224273,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-cux9i78awh3y.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224276,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/1almhowgiax9.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128285,
+          "episode_number": 12,
+          "name": "Eğleniyor gibisin",
+          "description": "Yeni okul yılının ilk günü ve Kaibara Lisesi öğrencileri, Momiji ve Hatsuharunun okul üniformalarına \"benzersiz\" yaklaşımını ilk kez görüyorlar. Soma ailesinin başka bir üyesi de ziyarete gider.",
+          "release_date": "2019-06-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/Xdy78APHQYIRw2XSypod8MQPPq.jpg",
+          "videos": [
+            {
+              "id": 383307,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c32c7811bb1558a7aa4a5",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224285,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595274",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224284,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/BOqLXdpdGJsyYGM",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224280,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-gp2xilxabdth.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224283,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/4hii07tocdt5.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128286,
+          "episode_number": 13,
+          "name": "",
+          "description": "",
+          "release_date": "2019-06-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tHiuZFeZQCE9YVDAN5gndOhLrrM.jpg",
+          "videos": [
+            {
+              "id": 383305,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c327e811bb1558a7aa4a3",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224292,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595276",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224291,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/q8eGmdRpqlFzJ6O",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224287,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-aq7d9icvlnx2.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224290,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/44dja1nn2bi7.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128287,
+          "episode_number": 14,
+          "name": "Bu bir sır",
+          "description": "Tohru, Momiji Soma hakkında daha fazla şey öğrenir ve arkadaşlarıyla annesinin mezarını ziyaret eder.",
+          "release_date": "2019-07-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bNNncGFO8Vv7iPAU3GbqCyJZlGU.jpg",
+          "videos": [
+            {
+              "id": 383306,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c32b8811bb1558a7aa4a4",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224299,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595295",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224298,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/KPPYvw1k6oF0Orb",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224294,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-lv4xcg5gba1l.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224297,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/x7cxdwrimm92.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128288,
+          "episode_number": 15,
+          "name": "Bunu söylemezdim",
+          "description": "Tohru, Yuki, Kyo, Shigure ve Hatori, bir gölün yakınındaki Soma tatil evinde geziye çıkar.",
+          "release_date": "2019-07-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lQjfSOjt6uKj50nz1vnAQmtgbsQ.jpg",
+          "videos": [
+            {
+              "id": 383299,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c3042811bb1558a7aa49d",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224348,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595320",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224347,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/LvwWz8PQgkTeoA",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224343,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-yb9py043pw3w.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224346,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/hcn7621lxct4.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128289,
+          "episode_number": 16,
+          "name": "Onlara Basma Dedi!",
+          "description": "Uotani, Tohru için bir grup hediyesi planlar. Ardından Somalar, Uotaninin geçmişi hakkında daha çok şey öğrenir.",
+          "release_date": "2019-07-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/iTR3xIFGfrXQg2YmMrX4yNyqlwy.jpg",
+          "videos": [
+            {
+              "id": 383297,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c3001811bb1558a7aa49b",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224355,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595321",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224354,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/mO30lKk33rhbPOw",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224350,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-w25c0t0hpc93.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224353,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/8f8flbxmussu.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128290,
+          "episode_number": 17,
+          "name": "Bu Uo-chan için!",
+          "description": "Uotani geçmişini ve Kyoko ve Tohru ile tanışmanın onu nasıl etkilediğini anlatmaya devam ediyor.",
+          "release_date": "2019-07-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/rxnCtjTmJ0TYFk36w7k6DM97TWS.jpg",
+          "videos": [
+            {
+              "id": 383298,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c3003811bb1558a7aa49c",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224362,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595322",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224361,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/7bLkbY1kQVHAeql",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224357,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-i1ejn6tkkh7q.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224360,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/mkh6lucecu0l.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128291,
+          "episode_number": 18,
+          "name": "Önemli Olan…",
+          "description": "Hatsuharu, beklenmedik bir şekilde tek kelime etmeyen yeni bir Soma ile ortaya çıkar.",
+          "release_date": "2019-08-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/A5nJCdnNPOWEBmIPSZPoIxkZNAK.jpg",
+          "videos": [
+            {
+              "id": 383293,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2f52811bb1558a7aa498",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224376,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595326",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224375,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/KQaoApopeyU4Am",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224371,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-mzp6irbt2egz.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224374,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/xpjwulhemmp9.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128292,
+          "episode_number": 19,
+          "name": "Çok üzgünüm!",
+          "description": "Mitsuru Shiguredan el yazması için yalvarırken, başka bir Soma ziyarete gelir.",
+          "release_date": "2019-08-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qCxcxHj3zF5qg4bvoXZpOBncicp.jpg",
+          "videos": [
+            {
+              "id": 383295,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2fae811bb1558a7aa49a",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224369,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595323",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224368,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/bGBp0X19BlsdDM",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224364,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-bwtjw3il26e6.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224367,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/ps2je7gw7hc2.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128293,
+          "episode_number": 20,
+          "name": "Onu aldığına inanamıyorum",
+          "description": "Kendini tanıtmaya gelen Hiro Somanın Tohru Honda hayranı olmadığı kısa sürede anlaşılıyor.",
+          "release_date": "2019-08-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bUqQOqXrXMKytVA11E4qoXc7mQM.jpg",
+          "videos": [
+            {
+              "id": 383292,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2f0c811bb1558a7aa497",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224383,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595328",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224382,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/Lpm7ekjWQ4URkJ9",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224378,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-w9124wo1ajdk.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224381,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/kp9gyuhivn18.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128294,
+          "episode_number": 21,
+          "name": "Bir Dalga Savaşından Asla Geri Dönmem",
+          "description": "Prens Yukinin üyeleri biraz plan yapar ve Hanajimanın evini ziyaret eder.",
+          "release_date": "2019-08-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/krlvkrmlFKOQFO7g3Xa11ZDOyTF.jpg",
+          "videos": [
+            {
+              "id": 383294,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2f5f811bb1558a7aa499",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224390,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595329",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224389,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/kZ08ae8ZKYuOOVO",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224385,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-r1jysqtygq6f.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224388,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/ycg45mmkqfjg.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128295,
+          "episode_number": 22,
+          "name": "Çünkü mutluydum",
+          "description": "Hanajima’nın geçmişi ve Uotani ve Tohru ile nasıl tanıştığı hakkında daha fazla şey öğreniyoruz.",
+          "release_date": "2019-08-31T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/knYxbLGVDE6k1hN45ZEGuGP9car.jpg",
+          "videos": [
+            {
+              "id": 383288,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2e68811bb1558a7aa494",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224404,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595331",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224403,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/Q26Vmgo4DQSgpX",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224399,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-fntepc380c5t.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224402,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/934xsm4500j5.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128296,
+          "episode_number": 23,
+          "name": "İyi görünüyorsun...",
+          "description": "Tohru soğuk algınlığı ile aşağı iner ve iyileşirken Somalar ona yardım eder.",
+          "release_date": "2019-09-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/AvH8eGXLhCr4SfqcS1AyregvSTI.jpg",
+          "videos": [
+            {
+              "id": 383291,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2ecc811bb1558a7aa496",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224397,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595330",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224396,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/xewawmZlvptoYe",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224392,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-g59sgm3sihn3.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224395,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/evak89y901s1.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128297,
+          "episode_number": 24,
+          "name": "Hadi eve gidelim",
+          "description": "Kazuma Somanın evi ziyareti, özellikle Kyo için sıradan bir ziyaretten fazlasıdır. Sonunda Kyonun sırrını öğrenecek miyiz?",
+          "release_date": "2019-09-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/6uWTSg6S5a3x76wKjv8tMOKBWx7.jpg",
+          "videos": [
+            {
+              "id": 383290,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2ead811bb1558a7aa495",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224411,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595332",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224410,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/yxw9waLJ90C1pbx",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224406,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-uxiy92wctne5.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224409,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/cxzj1c27hchs.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128298,
+          "episode_number": 25,
+          "name": "Yaz Yakında Gelecek",
+          "description": "Yuki ve Kagura kendi savaşlarında savaşırken Kazuma tek kelime etmeden Kyoya gider. Sonra Shigure herkesi akşam yemeğine evinde toplar.",
+          "release_date": "2019-09-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aNgp8YOxSOl0xdbtn24ndklupsS.jpg",
+          "videos": [
+            {
+              "id": 383287,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2e20811bb1558a7aa493",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224418,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595333",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224417,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/YVa0YgzkRYH2Dg",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224413,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-glxl50binq4d.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224416,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/oadecfk069ek.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1192,
+      "season_number": 2,
+      "name": "Season 2",
+      "episode_count": 25,
+      "episodes": [
+        {
+          "id": 128371,
+          "episode_number": 1,
+          "name": "Hello Again",
+          "description": "Motoko continues to fawn over Yuki from afar as he meets Kakeru Manabe and Machi Kuragi, an odd pair with quirky habits.",
+          "release_date": "2020-04-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/nMUtZNwpMyPBi5ZGlsM9OHl9dWb.jpg",
+          "videos": [
+            {
+              "id": 383284,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2dbb811bb1558a7aa491",
+              "extra": "Çevirmen: Yukime  Düzenleme: KuroYukiHime",
+              "fansub": "Yukime Düzenleme: KuroYukiHi",
+              "fansub_id": 729,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224426,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595334",
+              "extra": "NaoSubs",
+              "fansub": "NaoSubs",
+              "fansub_id": 730,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224433,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595339",
+              "extra": "Çevirmen: Yukime  Düzenleme: KuroYukiHime",
+              "fansub": "Yukime Düzenleme: KuroYukiHi",
+              "fansub_id": 729,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224425,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/dOowo0qWwlfkVBW",
+              "extra": "NaoSubs",
+              "fansub": "NaoSubs",
+              "fansub_id": 730,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224432,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/eqXjGD6XrXu9Y2",
+              "extra": "Çevirmen: Yukime  Düzenleme: KuroYukiHime",
+              "fansub": "Yukime Düzenleme: KuroYukiHi",
+              "fansub_id": 729,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224421,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-p6dlk7co88jr.html",
+              "extra": "NaoSubs",
+              "fansub": "NaoSubs",
+              "fansub_id": 730,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224424,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/bto8ksjk4oow.html",
+              "extra": "NaoSubs",
+              "fansub": "NaoSubs",
+              "fansub_id": 730,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224428,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-l7hyfgkjjjf7.html",
+              "extra": "Çevirmen: Yukime  Düzenleme: KuroYukiHime",
+              "fansub": "Yukime Düzenleme: KuroYukiHi",
+              "fansub_id": 729,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224431,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/yk6wrmdux1s3.html",
+              "extra": "Çevirmen: Yukime  Düzenleme: KuroYukiHime",
+              "fansub": "Yukime Düzenleme: KuroYukiHi",
+              "fansub_id": 729,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128372,
+          "episode_number": 2,
+          "name": "Eat Somen with Your Friends",
+          "description": "The students need to submit their career plan forms before summer break begins, but thought of the future brings a wave of anxiety along with it.",
+          "release_date": "2020-04-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oOAb94xyzqLdMA2awzDJqCCvqIo.jpg",
+          "videos": [
+            {
+              "id": 383283,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2d5d811bb1558a7aa490",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ神姫",
+              "fansub": "Yukime Düzenleme:Dimâ神姫",
+              "fansub_id": 728,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224440,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595340",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ神姫",
+              "fansub": "Yukime Düzenleme:Dimâ神姫",
+              "fansub_id": 728,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224439,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/P8G6alWreWH0Jwo",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ神姫",
+              "fansub": "Yukime Düzenleme:Dimâ神姫",
+              "fansub_id": 728,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224435,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-bdsccwkusm28.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ神姫",
+              "fansub": "Yukime Düzenleme:Dimâ神姫",
+              "fansub_id": 728,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224438,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/n01sworaz2ou.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ神姫",
+              "fansub": "Yukime Düzenleme:Dimâ神姫",
+              "fansub_id": 728,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128373,
+          "episode_number": 3,
+          "name": "Gidip Sizi Değiştirelim mi?",
+          "description": "Ayame, Shigurenin evine düştükten sonra Yuki, Tohru ile birlikte Ayamenin dükkanını ilk kez ziyaret etmeye karar verir.",
+          "release_date": "2020-04-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qiLsEoPWym2GSwJoZB3v0uKphnC.jpg",
+          "videos": [
+            {
+              "id": 383282,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2d18811bb1558a7aa48f",
+              "extra": "Çevirmen:Yukime Düzenleme:Torotoro",
+              "fansub": "Yukime Düzenleme:Torotoro",
+              "fansub_id": 727,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224447,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595345",
+              "extra": "Çevirmen:Yukime Düzenleme:Torotoro",
+              "fansub": "Yukime Düzenleme:Torotoro",
+              "fansub_id": 727,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224446,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/KW4aWMO1A2H0MvZ",
+              "extra": "Çevirmen:Yukime Düzenleme:Torotoro",
+              "fansub": "Yukime Düzenleme:Torotoro",
+              "fansub_id": 727,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224442,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-r425qjyamwfx.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Torotoro",
+              "fansub": "Yukime Düzenleme:Torotoro",
+              "fansub_id": 727,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224445,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/loekbcty3wuj.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Torotoro",
+              "fansub": "Yukime Düzenleme:Torotoro",
+              "fansub_id": 727,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128374,
+          "episode_number": 4,
+          "name": "Terk Edildim…",
+          "description": "2-D sınıftaki öğrenciler yaklaşan okul gezilerini planlar. Bu sırada Hatsuharu öfkeye kapılır ama kimse nedenini bilmiyor.",
+          "release_date": "2020-04-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1EgaY9KUFx4hE3o0fn45Itb6pVv.jpg",
+          "videos": [
+            {
+              "id": 383286,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2e04811bb1558a7aa492",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224454,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595348",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224453,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/4v30pQLrAptOW6",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224449,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-q27y0dqtg8o0.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224452,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/pivsm29va4rc.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128375,
+          "episode_number": 5,
+          "name": "Bekle beni tororo soba!",
+          "description": "Yaz tatili başladı ve Tohru ve ekibi mağazada biraz eğlendi. Ardından Uotani, işyerinde ona Tohruyu hatırlatan biriyle tanışır.",
+          "release_date": "2020-05-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/d52qwtcRiSX49sVBYqICq4iZLjO.jpg",
+          "videos": [
+            {
+              "id": 383281,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2cdd811bb1558a7aa48e",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224461,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595350",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224460,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/ZPG6XPbmrKiPbq",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224456,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-r5fz3iqz98wc.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224459,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/wdqvudxwljq9.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128376,
+          "episode_number": 6,
+          "name": "Gerçekten Bu Kadar Aptal Mısın?",
+          "description": "Momiji, Tohruyu güneşte biraz eğlenmek için okyanus kıyısındaki tatil evlerinde Somasa katılmaya ikna eder.",
+          "release_date": "2020-05-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fNTN7V5pTugVcO8Aaor63Q9PJ8v.jpg",
+          "videos": [
+            {
+              "id": 383279,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2c97811bb1558a7aa48c",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224468,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595351",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224467,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/jvbYKZ9L3luze2m",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224463,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-4zo0mx0pzn9u.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224466,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/9yytjuwjhehj.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128377,
+          "episode_number": 7,
+          "name": "Let's Start the Watermelon Splitting Contest!",
+          "description": "During their stay at the vacation house, Tohru and the Somas get exciting news and surprise visitors.",
+          "release_date": "2020-05-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qkogJfReaanoRyooiu27scAliV2.jpg",
+          "videos": [
+            {
+              "id": 383276,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2c43811bb1558a7aa48b",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224475,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595352",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224474,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/zxMqbpPqvvIYMkr",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224470,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-529flo8957h5.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224473,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/283ye8nwl6oq.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128378,
+          "episode_number": 8,
+          "name": "Doğru, değil mi?",
+          "description": "Isuzu, Kaguranın evini açıklama yapmadan terk eder. Aynı zamanda Akito artık tatil evinde. Akito ne planlıyor?",
+          "release_date": "2020-05-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/gsZ8nyrNvjgwUZ4IUjzEr6ZqT2O.jpg",
+          "videos": [
+            {
+              "id": 383280,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2cc7811bb1558a7aa48d",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224488,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595353",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224487,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/2aQ1YZ7QMPTZvwM",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224483,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-7jw6g1d3x9pf.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224486,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/ezy51o8giqc4.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128379,
+          "episode_number": 9,
+          "name": "Kıymetlim…",
+          "description": "Kyo, diğer zodyak üyeleriyle birlikte ek binada Akitoya katılmaya çağrılır. Kyo, Akito ile tanışmakla nasıl başa çıkacak?",
+          "release_date": "2020-06-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vVxqbIRe8x1KcevVKIXMy880IZT.jpg",
+          "videos": [
+            {
+              "id": 383275,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2c08811bb1558a7aa48a",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224495,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595356",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224494,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/3amb9WQ36bud7Wd",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224490,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-tcj6r373h1tl.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224493,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/of246prfqucl.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128380,
+          "episode_number": 10,
+          "name": "Sen kimsin?",
+          "description": "Yazı biraz havai fişeklerle solmaktan daha iyi ne olabilir? Tohru ve Somas, yolculukları sona ererken tam da bunu yapmayı planlıyor.",
+          "release_date": "2020-06-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sxXW1V9ioK4GWieHaxFdxg2BxC9.jpg",
+          "videos": [
+            {
+              "id": 383274,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2c08811bb1558a7aa489",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224502,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595359",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224501,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/96wZdRqwxYhagPe",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224497,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-olm031pxvvim.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224500,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/7ogu0zrea6bz.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128381,
+          "episode_number": 11,
+          "name": "Hepsi benim",
+          "description": "Tohru ve Somas seyahatlerinden dönerler ve Kagura ciddi bir konuşma için Kyoyu randevuya davet eder.",
+          "release_date": "2020-06-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/otW4vnTwk60Pu34Cb0WNHpsUdn9.jpg",
+          "videos": [
+            {
+              "id": 383273,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2b7e811bb1558a7aa488",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224509,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595361",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224508,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/OVKwOK91JjhZyrV",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224504,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-1i6gknb3s4re.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224507,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/tz5ri4ptg7qm.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128382,
+          "episode_number": 12,
+          "name": "Benim için ağladın",
+          "description": "Mayuko, ailesinin kitap dükkanına birkaç ziyaretçi geldikten sonra hafızalara düşer.",
+          "release_date": "2020-06-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vQpGe3YB6ZGR7BRLSOHCZDLTbNp.jpg",
+          "videos": [
+            {
+              "id": 383271,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2af8811bb1558a7aa486",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224516,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595362",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224515,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/69rbbv4Gzvsl4b",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224511,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-bndf1hy8124z.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224514,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/yxvduj7dyudl.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128383,
+          "episode_number": 13,
+          "name": "Tabi ki",
+          "description": "Yeni dönem başlar ve Yuki, öğrenci konseyi başkanı olarak görevlerini üstlenir.",
+          "release_date": "2020-06-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/g7DwiVmWHQViEvJ093OWQez9Xst.jpg",
+          "videos": [
+            {
+              "id": 383272,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2b3b811bb1558a7aa487",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224523,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595363",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224522,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/brW4kOKbBQCPAW2",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224518,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-za45lycz5h1t.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224521,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/9odw2ptpag1s.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128384,
+          "episode_number": 14,
+          "name": "Sadece Ölmeliyim ...",
+          "description": "Tohru için bir aile acil durumu ortaya çıkar ve Yuki, Rinin neden bu şekilde davrandığını anlamaya başlar.",
+          "release_date": "2020-07-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cf8dpWj8zhocSFnzVHcUZG4vrE.jpg",
+          "videos": [
+            {
+              "id": 383267,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2aa5811bb1558a7aa485",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224530,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595364",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224529,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/gPap6Yd6AwtqMOj",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224525,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-mk6nmbo7fct0.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224528,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/9ocn3zi25lqt.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ 神姫",
+              "fansub": "Yukime Düzenleme:Dimâ 神姫",
+              "fansub_id": 726,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128385,
+          "episode_number": 15,
+          "name": "Sonra görüşürüz",
+          "description": "Kariyer planlarını tartışmak için veli-öğretmen konferansları devam etmekte ve öğrencilerde çeşitli duyguları tetiklemektedir.",
+          "release_date": "2020-07-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aIOD1p8PqzDOSE490dSLKr5CCA7.jpg",
+          "videos": [
+            {
+              "id": 383265,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2a5d811bb1558a7aa483",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224538,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595365",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224537,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/JkaxwaOKazurAX",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224533,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-jn6hhqrj34di.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224536,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/d8vd4akcop6n.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128386,
+          "episode_number": 16,
+          "name": "Ondan bana sor",
+          "description": "Tohru, beklenmedik biriyle tanıştığı Soma Malikanesine girmeyi kendine görev edinir.",
+          "release_date": "2020-07-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zpnSwf3lBjp5gZgUVoI3x8Ep11O.jpg",
+          "videos": [
+            {
+              "id": 383264,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2a1b811bb1558a7aa482",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224545,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595366",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224544,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/zbvm9ry0a9fYDOv",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224543,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/1xcmgncfykw4.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224540,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-uoxjaxp4xx7g.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128387,
+          "episode_number": 17,
+          "name": "Sen Yapacaksın, Bundan Eminim",
+          "description": "Tohru ve sınıf arkadaşları, ömür boyu sürecek anılar yaratmak için okul gezileri için Kyotodaydı.",
+          "release_date": "2020-07-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pAcHNYNzA0Kvk3ZAUymRKInU2QU.jpg",
+          "videos": [
+            {
+              "id": 383266,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2a8b811bb1558a7aa484",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224552,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595367",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224551,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/BLMwY1JLpbCyAvA",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224547,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-8hqs0fhttd9s.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224550,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/ug30nmlq34uk.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128388,
+          "episode_number": 18,
+          "name": "Öpmek İster misin?",
+          "description": "Zodyak Atı Isuzu bir değişiklik yapmaya kararlıdır ve bazı cevaplar için Shigureu arar.",
+          "release_date": "2020-08-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jgZ5mlEv5uTEX2ZN0WSdCmRFygQ.jpg",
+          "videos": [
+            {
+              "id": 383259,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c29d4811bb1558a7aa481",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224565,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595368",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224564,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/1B3Q8GDg01tyZw",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224560,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-pih75xm3qp3i.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224563,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/89u2k1ny1bmr.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128389,
+          "episode_number": 19,
+          "name": "Hiçbir Yolu Yok!",
+          "description": "Isuzu, Tohru ile Isuzunun birbirlerini tanımaları için bir şans vererek geceyi Shigureda toparlanarak geçirir.",
+          "release_date": "2020-08-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/uLgmDQjYdTS7zNDxVjznJPixwCl.jpg",
+          "videos": [
+            {
+              "id": 383257,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2998811bb1558a7aa47f",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224580,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595369",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224579,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/ZXDAM23PDkhwAd",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224575,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-db5sow7g5rm5.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224578,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/pk5q2v63ut1r.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128390,
+          "episode_number": 20,
+          "name": "İyi misin?",
+          "description": "Okul kültür festivali köşeyi dönerken Yuki, öğrenci konseyi ve sınıf görevlerinde hokkabazlık yaparken meşgul olur.",
+          "release_date": "2020-08-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/h8arsut540EC7PozpQ2g6vjph6Z.jpg",
+          "videos": [
+            {
+              "id": 383258,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c29c2811bb1558a7aa480",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224587,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595370",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224586,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/MZGQyw4Kr6im8dy",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224582,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-a5u7x3xjefc4.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224585,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/q666vz65rvl0.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128391,
+          "episode_number": 21,
+          "name": "There Was, Definitely",
+          "description": "Yuki loses himself in thought as he remembers a dark memory from his childhood.",
+          "release_date": "2020-08-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1tNCkqMVutUgya8T5k9skr5GSNE.jpg",
+          "videos": [
+            {
+              "id": 383256,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2951811bb1558a7aa47e",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224594,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595371",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224601,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595372",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224593,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/KqrWLMjd09h02MY",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224600,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/Ry0YXm8kwxCddo1",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224589,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-cysdckk05nrp.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224592,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/xag4w4wq6ayw.html",
+              "extra": "juliet",
+              "fansub": "juliet",
+              "fansub_id": 722,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224596,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-bc6wj8urzxba.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224599,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/0elj3hzge14o.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128392,
+          "episode_number": 22,
+          "name": "İstediğim bu değil",
+          "description": "Okul, kültür festivaline hazırlanırken Yuki, başka kimseye söylemediği sırrından bahseder.",
+          "release_date": "2020-09-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/glm9jlsdkVxWuJhpoHcIvA9HBd9.jpg",
+          "videos": [
+            {
+              "id": 383251,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2918811bb1558a7aa47c",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224608,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595374",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224607,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/OdZxj7KJ71HZrdO",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224603,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-ca61p9xf77m5.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224606,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/6dpdww8w9nxd.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128393,
+          "episode_number": 23,
+          "name": "It's Cinderella-ish",
+          "description": "Tohru's class puts on an unconventional retelling of Cinderella at the school culture festival.",
+          "release_date": "2020-09-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/mo4B6U81wkaUHmeWk4zU4xnrFeE.jpg",
+          "videos": [
+            {
+              "id": 383250,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c28d4811bb1558a7aa47b",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224615,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595381",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224614,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/ZK0wGbP3y0hq93m",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224610,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-3w5qmlrbmzix.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224613,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/s2lpsznuxt2g.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128394,
+          "episode_number": 24,
+          "name": "Buyrun",
+          "description": "Bir Yeni Yıl, Soma malikanesindeki zodyak üyeleri için bir başka ziyafet demektir.",
+          "release_date": "2020-09-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/6D0vpFVF0FOfNDr4sPosIDOZewA.jpg",
+          "videos": [
+            {
+              "id": 383252,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c292d811bb1558a7aa47d",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224622,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595382",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224621,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/jZY21lDwBZFg8w",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224617,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-j3z2t555o687.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224620,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/scscy7kcdg27.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 128395,
+          "episode_number": 25,
+          "name": "Şimdi Farklıyım",
+          "description": "Kurenonun gizemli geçmişini ve bugününü ortaya çıkaran anılar ortaya çıkarken havada bir kış soğuğu dolaşıyor.",
+          "release_date": "2020-09-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pq5UQg7R2slD3IV4ucAZYgcaI8P.jpg",
+          "videos": [
+            {
+              "id": 383249,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c2894811bb1558a7aa47a",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 224629,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4595385",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224628,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/vBG3VLlagqs44Jw",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224624,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-cfwyt3z5jfgv.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 224627,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/minhcjgv2lww.html",
+              "extra": "Çevirmen:Yukime Düzenleme:Dimâ月姫",
+              "fansub": "Yukime Düzenleme:Dimâ月姫",
+              "fansub_id": 725,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1350,
+      "season_number": 3,
+      "name": "The Final Season",
+      "episode_count": 13,
+      "episodes": [
+        {
+          "id": 132112,
+          "episode_number": 1,
+          "name": "I’ll Hold Another Banquet",
+          "description": "As Season 3 begins, Tohru struggles to digest all the new information she's learned from Kureno.",
+          "release_date": "2021-04-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sndMLcHH3qqeWWvrESH3fowFxAK.jpg",
+          "videos": [
+            {
+              "id": 383119,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c09b9811bb1558a7aa401",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 226868,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 226864,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-koo43bc98m7a.html",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 226867,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/d85tam921h4r.html",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 150057,
+          "episode_number": 2,
+          "name": "That's an Unwavering Truth",
+          "description": "Tohru isn't sure who to talk to, or how many secrets to keep. Meanwhile, one of Shigure's secrets begins coming to light.",
+          "release_date": "2021-04-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4B2oabXFQFYp0m5ONiuGBLDRLfd.jpg",
+          "videos": [
+            {
+              "id": 383118,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c09ab811bb1558a7aa400",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 226879,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 226875,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-8rck7eseul94.html",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 226878,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/4l9x1xtympu7.html",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 150058,
+          "episode_number": 3,
+          "name": "I Hope It Snows Soon",
+          "description": "A shocking rumor spreads about Machi. Love confessions are in the air, too: Kaibara High School's seniors are rushing to gain closure with their secret crushes before graduation.",
+          "release_date": "2021-04-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/gNlVx7DzNfQ2q9Uv2QkKxJmYtn7.jpg",
+          "videos": [
+            {
+              "id": 383117,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c0965811bb1558a7aa3ff",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 226886,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 226882,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-bgtk2chrp015.html",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 226885,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/zsrl84rae8v5.html",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 150059,
+          "episode_number": 4,
+          "name": "I'm... Home",
+          "description": "The Somas get increasingly worried when no one can find Rin.",
+          "release_date": "2021-04-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/rdDkbDrV3EtbCq1ByxdV5gryUpF.jpg",
+          "videos": [
+            {
+              "id": 383115,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c091a811bb1558a7aa3fd",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 226892,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 226888,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-b680mi9s4f8u.html",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 226891,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/24pyydf1cn6g.html",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 150060,
+          "episode_number": 5,
+          "name": "I Mean... You Know, Right?",
+          "description": "Momiji seems completely different this school year! He's got a taller body and a deeper voice, but has anything changed on the inside?",
+          "release_date": "2021-05-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/yg578gtDNgytUetYnEqFLPr9yVV.jpg",
+          "videos": [
+            {
+              "id": 383114,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c08d8811bb1558a7aa3fc",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 226898,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 226894,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-9cr9bkhmkwnh.html",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 226897,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/zhbmzej6ac4m.html",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 150061,
+          "episode_number": 6,
+          "name": "Çok Aptalcaydı",
+          "description": "Kyo geçmişi düşünüyor. Tohru geleceği düşünüyor. Ama ikisi de birbirini düşünüyor.",
+          "release_date": "2021-05-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ufBwfbZn43hURuUtfZyJnqiq4q7.jpg",
+          "videos": [
+            {
+              "id": 383116,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632c0929811bb1558a7aa3fe",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 226907,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4604208",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 226906,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 226902,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-d8csox022m2l.html",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 226905,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/107ubn427pwd.html",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 150062,
+          "episode_number": 7,
+          "name": "That’s Right, It’s Empty",
+          "description": "Kyo has a nightmare about the mothers in his life. Akito and Ren are still dealing with Akira's death.",
+          "release_date": "2021-05-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7hwA7gXJtoQrUQpp3oZcWhirtsf.jpg",
+          "videos": [
+            {
+              "id": 382241,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632b650d811bb1558a7aa12c",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 240732,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4680499",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 150063,
+          "episode_number": 8,
+          "name": "Beni hayal kırıklığına uğrattın",
+          "description": "Kyo ve Tohrunun acı dolu bir sohbeti olur.",
+          "release_date": "2021-05-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cNoPhuiId8TqM0wit393FCGhCgT.jpg",
+          "videos": [
+            {
+              "id": 382236,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632b6468811bb1558a7aa128",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 240739,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4680501",
+              "extra": "Yuurei, Nyks/Raiden/Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 150064,
+          "episode_number": 9,
+          "name": "",
+          "description": "",
+          "release_date": "2021-06-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/gUEQgMknkn4aj71FDbkRJB2p8Np.jpg",
+          "videos": [
+            {
+              "id": 382235,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632b6440811bb1558a7aa127",
+              "extra": "Nyks",
+              "fansub": "Nyks",
+              "fansub_id": 732,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 240753,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4680502",
+              "extra": "Nyks",
+              "fansub": "Nyks",
+              "fansub_id": 732,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 150065,
+          "episode_number": 10,
+          "name": "",
+          "description": "",
+          "release_date": "2021-06-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vLjG06blMoeOC8JhWrsq0IQSB0T.jpg",
+          "videos": [
+            {
+              "id": 382233,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632b639d811bb1558a7aa125",
+              "extra": "Yuurei, Nyks / Raiden / Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 240760,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4680505",
+              "extra": "Yuurei, Nyks / Raiden / Gudako",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 150066,
+          "episode_number": 11,
+          "name": "Güle güle",
+          "description": "Kyo sonunda Tohruya en başta ona söylemesi gereken şeyi söyler. Ve sonunda gerçek, orijinal zodyak hikayesini duyduk.",
+          "release_date": "2021-06-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sAyMbh6dbE30uYxPmj0RJuaOE17.jpg",
+          "videos": [
+            {
+              "id": 709353,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67c6dde247b862535fe05de2",
+              "extra": "Yuurei, Nyks / Raiden / Gudako - tempestfansub.com",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 709354,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/dk8z1aumttom",
+              "extra": "Yuurei, Nyks / Raiden / Gudako - tempestfansub.com",
+              "fansub": "Yuurei, Nyks",
+              "fansub_id": 731,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 150067,
+          "episode_number": 12,
+          "name": "12. Bölüm",
+          "description": "",
+          "release_date": "2021-06-23T09:34:46.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xnTkukAFojCDVQopvyvBqGIEaHh.jpg",
+          "videos": [
+            {
+              "id": 382229,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632b631c811bb1558a7aa123",
+              "extra": "Juliet - Prenses",
+              "fansub": "Juliet",
+              "fansub_id": 722,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 240781,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4680510",
+              "extra": "Juliet - Prenses",
+              "fansub": "Juliet",
+              "fansub_id": 722,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 174643,
+          "episode_number": 13,
+          "name": "13. Bölüm",
+          "description": null,
+          "release_date": "2001-01-01T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 382226,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632b62b2811bb1558a7aa121",
+              "extra": "Juliet - Prenses",
+              "fansub": "Juliet",
+              "fansub_id": 722,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 240789,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4680513",
+              "extra": "Juliet - Prenses",
+              "fansub": "Juliet",
+              "fansub_id": 722,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

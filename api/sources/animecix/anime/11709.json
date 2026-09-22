@@ -1,0 +1,573 @@
+{
+  "id": 11709,
+  "name": "TRILLION GAME",
+  "name_english": "TRILLION GAME",
+  "name_romanji": "Trillion Game",
+  "original_title": "トリリオンゲーム",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2024,
+  "release_date": "Fri Oct 04 2024 00:00:00 GMT+0000 (Coordinated Universal Time)",
+  "description": "Eski okul arkadaşları Haru ve Gaku başarıya ulaşmak için her şeyi yapar. Ve onlar için başarı trilyon dolar kazanmak anlamına geliyor! Ancak bunu yapabilmek için kendi benzersiz becerilerinden tam anlamıyla yararlanmaları gerekecek. Haru, herkesle bağlantı kurabilen ikna edici ve kendine güvenen bir konuşmacıdır; Gaku ise tuhaf olmasına rağmen uzman bir programcıdır. Birleşen yetenekleri hayallerini gerçeğe dönüştürmeye yetecek mi?",
+  "poster": "https://image.tmdb.org/t/p/original/pL4nFHx4lChRXLrJzRX0sAl8SfG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zaxmjuukpaqLiMW4EOp2ArdO7xH.jpg",
+  "rating": 5.8,
+  "vote_count": 14,
+  "genres": [
+    3,
+    5
+  ],
+  "tmdb_id": 240125,
+  "mal_id": 56662,
+  "anilist_id": null,
+  "imdb_id": "tt33609048",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 5361,
+      "season_number": 1,
+      "name": null,
+      "episode_count": 26,
+      "episodes": [
+        {
+          "id": 216936,
+          "episode_number": 1,
+          "name": null,
+          "description": null,
+          "release_date": "2024-10-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jZJcsxplowS3zbiMnTN2ubXFMg1.jpg",
+          "videos": [
+            {
+              "id": 690278,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6712d1b875d18175dc0e575d",
+              "extra": "Encode:Mercury",
+              "fansub": "Mercury",
+              "fansub_id": 253,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 690281,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5720996",
+              "extra": "Encode:Mercury",
+              "fansub": "Mercury",
+              "fansub_id": 253,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 216937,
+          "episode_number": 2,
+          "name": null,
+          "description": null,
+          "release_date": "2024-10-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2h73PgWlSNywZsyqzte5YN0k6Rw.jpg",
+          "videos": [
+            {
+              "id": 690282,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6712d37275d18175dc0e575e",
+              "extra": "Encode:Mercury",
+              "fansub": "Mercury",
+              "fansub_id": 253,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 690285,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5721003",
+              "extra": "Encode:Mercury",
+              "fansub": "Mercury",
+              "fansub_id": 253,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 217679,
+          "episode_number": 3,
+          "name": null,
+          "description": null,
+          "release_date": "2024-10-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7K7xwZIF46YksfXfOFsZyffV13B.jpg",
+          "videos": [
+            {
+              "id": 690286,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6712d52d75d18175dc0e575f",
+              "extra": "Encode:Mercury",
+              "fansub": "Mercury",
+              "fansub_id": 253,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 690289,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5721009",
+              "extra": "Encode:Mercury",
+              "fansub": "Mercury",
+              "fansub_id": 253,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 218109,
+          "episode_number": 4,
+          "name": null,
+          "description": null,
+          "release_date": "2024-10-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aR1eEjVluq701tPwfxCleVWFA5D.jpg",
+          "videos": [
+            {
+              "id": 690290,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6712d73275d18175dc0e5760",
+              "extra": "Encode:Mercury",
+              "fansub": "Mercury",
+              "fansub_id": 253,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 690293,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5721015",
+              "extra": "Encode:Mercury",
+              "fansub": "Mercury",
+              "fansub_id": 253,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 218110,
+          "episode_number": 5,
+          "name": null,
+          "description": null,
+          "release_date": "2024-10-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fFe3FZHVXsGwWPlrbk00ZPFlIFa.jpg",
+          "videos": [
+            {
+              "id": 691167,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/671e6be5dadcfea584d824b8",
+              "extra": "Encode:Mercury",
+              "fansub": "Mercury",
+              "fansub_id": 253,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 218111,
+          "episode_number": 6,
+          "name": null,
+          "description": null,
+          "release_date": "2024-11-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8XvYWIHtuUf4YIZd9TkmLbTNwel.jpg",
+          "videos": [
+            {
+              "id": 691963,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67256bbadadcfea584d825a0",
+              "extra": "Encode:Mercury",
+              "fansub": "Mercury",
+              "fansub_id": 253,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 219082,
+          "episode_number": 7,
+          "name": null,
+          "description": null,
+          "release_date": "2024-11-08T14:35:12.283Z",
+          "poster": "https://image.tmdb.org/t/p/original/7zJZTVEEyesnhSHzsLMrir5TSk1.jpg",
+          "videos": [
+            {
+              "id": 692727,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/672e2148dadcfea584d82660",
+              "extra": "Encode:Mercury",
+              "fansub": "Mercury",
+              "fansub_id": 253,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 219166,
+          "episode_number": 8,
+          "name": null,
+          "description": null,
+          "release_date": "2024-11-14T20:45:34.209Z",
+          "poster": "https://image.tmdb.org/t/p/original/f9tkc2ZbhQL7KOaLN25HfbKlcX9.jpg",
+          "videos": [
+            {
+              "id": 693302,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6736610987939a4b62e99be8",
+              "extra": "Encode:Mercury",
+              "fansub": "Mercury",
+              "fansub_id": 253,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 219481,
+          "episode_number": 9,
+          "name": null,
+          "description": null,
+          "release_date": "2024-11-22T15:15:23.520Z",
+          "poster": "https://image.tmdb.org/t/p/original/5HBky2ixF14nTO5U36hbak176ar.jpg",
+          "videos": [
+            {
+              "id": 694381,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67409fab312a05519983849a",
+              "extra": "Encode:Mercury",
+              "fansub": "Mercury",
+              "fansub_id": 253,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 219670,
+          "episode_number": 10,
+          "name": null,
+          "description": null,
+          "release_date": "2024-11-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sWmo2Qjx4k4Ut2HXjl8F993pBWL.jpg",
+          "videos": [
+            {
+              "id": 695518,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6749cd07418cd8680de8d41c",
+              "extra": "Encode:Mercury",
+              "fansub": "Mercury",
+              "fansub_id": 253,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 219671,
+          "episode_number": 11,
+          "name": null,
+          "description": null,
+          "release_date": "2024-12-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9Tl8QJN5TVqDWRYkWm59j0y17Ut.jpg",
+          "videos": []
+        },
+        {
+          "id": 219672,
+          "episode_number": 12,
+          "name": null,
+          "description": null,
+          "release_date": "2024-12-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/u1jLLESxQJc2wxsOOj96JMB263m.jpg",
+          "videos": [
+            {
+              "id": 699062,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/676dbfe19d787d604aec6117",
+              "extra": "yapay çeviri",
+              "fansub": "yapay çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 219673,
+          "episode_number": 13,
+          "name": null,
+          "description": null,
+          "release_date": "2024-12-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/t3iSmAvU5OaY7BqPGePAF8sC1CG.jpg",
+          "videos": [
+            {
+              "id": 704978,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67acb66ab00f138db1d44da5",
+              "extra": "Encoder:Mercury",
+              "fansub": "Mercury",
+              "fansub_id": 253,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 219674,
+          "episode_number": 14,
+          "name": null,
+          "description": null,
+          "release_date": "2024-12-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lYKCyV4Vu5iXsGHhApWVS1d81Y0.jpg",
+          "videos": [
+            {
+              "id": 704980,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67acb744b00f138db1d44da6",
+              "extra": "Encoder:Mercury",
+              "fansub": "Mercury",
+              "fansub_id": 253,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 219675,
+          "episode_number": 15,
+          "name": null,
+          "description": null,
+          "release_date": "2025-01-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xwH5i9mNW5owFkGPhG7PDkyKyhA.jpg",
+          "videos": [
+            {
+              "id": 760694,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a804e96a4f5f9e71074dd87",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 219676,
+          "episode_number": 16,
+          "name": null,
+          "description": null,
+          "release_date": "2025-01-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/o8DDPSwuXik8ocgiPRq423hFipG.jpg",
+          "videos": [
+            {
+              "id": 704984,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67acb8fbb00f138db1d44da8",
+              "extra": "Encoder:Mercury",
+              "fansub": "Mercury",
+              "fansub_id": 253,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 219677,
+          "episode_number": 17,
+          "name": null,
+          "description": null,
+          "release_date": "2025-01-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/n7j2fCp4Y1y1x3QQiaBxlIgmfJS.jpg",
+          "videos": [
+            {
+              "id": 704986,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67acb9dcb00f138db1d44da9",
+              "extra": "Encoder:Mercury",
+              "fansub": "Mercury",
+              "fansub_id": 253,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 219678,
+          "episode_number": 18,
+          "name": null,
+          "description": null,
+          "release_date": "2025-01-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sVNLYaGIGlVjsbjfTgyZ7ugDjx7.jpg",
+          "videos": [
+            {
+              "id": 704988,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67acbab9b00f138db1d44daa",
+              "extra": "Encoder:Mercury",
+              "fansub": "Mercury",
+              "fansub_id": 253,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 219679,
+          "episode_number": 19,
+          "name": null,
+          "description": null,
+          "release_date": "2025-01-31T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1TlmxT9h4jDkgEjZwo69jZPddAh.jpg",
+          "videos": [
+            {
+              "id": 705138,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67af4828b00f138db1d44df1",
+              "extra": "Yapay Çeviri",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 219680,
+          "episode_number": 20,
+          "name": null,
+          "description": null,
+          "release_date": "2025-02-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/svP1mzrtTHNwiueJOi3fR8srmiZ.jpg",
+          "videos": [
+            {
+              "id": 712777,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67e41e25e34b554356ff346e",
+              "extra": "Yapay çeviri",
+              "fansub": "Yapay çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 219681,
+          "episode_number": 21,
+          "name": null,
+          "description": null,
+          "release_date": "2025-02-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4kOG9xesAjQ0vAqsxa3XR6dYBr8.jpg",
+          "videos": [
+            {
+              "id": 712781,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67e41ff9e34b554356ff346f",
+              "extra": "Yapay çeviri",
+              "fansub": "Yapay çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 219682,
+          "episode_number": 22,
+          "name": null,
+          "description": null,
+          "release_date": "2025-02-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/58ZKD3CrT2LQGBwhDin2V2G8Cr3.jpg",
+          "videos": [
+            {
+              "id": 712785,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67e42202e34b554356ff3471",
+              "extra": "Yapay çeviri",
+              "fansub": "Yapay çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 219683,
+          "episode_number": 23,
+          "name": null,
+          "description": null,
+          "release_date": "2025-02-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/5WSkPHCWHMMPrhR3p9pwxbBdETG.jpg",
+          "videos": [
+            {
+              "id": 712786,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67e42459e34b554356ff3473",
+              "extra": "Yapay çeviri",
+              "fansub": "Yapay çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 219684,
+          "episode_number": 24,
+          "name": null,
+          "description": null,
+          "release_date": "2025-03-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/Sfczh8VIX0kAbhvOw3PPG9e4c9.jpg",
+          "videos": [
+            {
+              "id": 712787,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67e42651e34b554356ff3474",
+              "extra": "Yapay çeviri",
+              "fansub": "Yapay çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 229305,
+          "episode_number": 25,
+          "name": null,
+          "description": null,
+          "release_date": "2025-03-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kdrRmJ023NJ3fqAJxUTtd0YY6OL.jpg",
+          "videos": [
+            {
+              "id": 760695,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a805360a4f5f9e71074dd88",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 229306,
+          "episode_number": 26,
+          "name": null,
+          "description": null,
+          "release_date": "2025-03-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/yP9tSeRFVyBXvBnoMJfbH48PE82.jpg",
+          "videos": []
+        }
+      ]
+    }
+  ]
+}

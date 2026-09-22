@@ -1,0 +1,445 @@
+{
+  "id": 7316,
+  "name": "Gibiate",
+  "name_english": "Gibiate",
+  "name_romanji": "Gibiate",
+  "original_title": "ジビエート",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2020,
+  "release_date": "2020-07-15 00:00:00",
+  "description": "2030'da Japonya'da çıkan  bir virüs dünya çapında insanlara bulaştı. Bunun sonucunda enfekte insanlar yaşlarına, cinsiyetlerine ve ırklarına göre farklı canavar formlarına dönüştü. Virüs, Gibia gibi çeşitlilik açısından zengin olduğundan 'Gibia' olarak adlandırıldı. Tam o sırada, Japonya'nın çorak bir  bölgesinde bir çift samuray ve ninja ortaya çıktı. Her ikisi de Edo döneminin başlarında seyahat ederek Gibia için tedavi bulmaya çalışan bir doktor ile birlikte, Gibias'ın durmak bilmeyen saldırılarına ve yemek için gezginlere saldıran haydutlara karşı, tehlikeli bir yolculuğa atılrlar.",
+  "poster": "https://image.tmdb.org/t/p/original/6AaCfEMkJlKxiFLchVmhJi7eDzb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ykK9VfewaHyzqUSbiSPKFKfPfk.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    1
+  ],
+  "tmdb_id": 94388,
+  "mal_id": 40074,
+  "anilist_id": 110446,
+  "imdb_id": "tt12350092",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 842,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 122002,
+          "episode_number": 1,
+          "name": "ruhların kaçışı",
+          "description": "",
+          "release_date": "2020-07-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pU2vv9ryinfxm8O1PJkwW8YKGJO.jpg",
+          "videos": [
+            {
+              "id": 358764,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630d1f7196d13322efb02a33",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 46661,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4012648",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 46662,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4012648",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 122003,
+          "episode_number": 2,
+          "name": "Maelstrom'un Ötesinde",
+          "description": "",
+          "release_date": "2020-07-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/66DQbPlwm5s12LWqWsDJe4j08J0.jpg",
+          "videos": [
+            {
+              "id": 358514,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630cf94396d13322efb029a4",
+              "extra": "FGL ?eviri",
+              "fansub": "FGL ?eviri",
+              "fansub_id": 2765,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 47076,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4019248",
+              "extra": "FGL ?eviri",
+              "fansub": "FGL ?eviri",
+              "fansub_id": 2765,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 122004,
+          "episode_number": 3,
+          "name": "Üçüncü adam",
+          "description": "",
+          "release_date": "2020-07-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/31OyK22UuLnVo6sGMPTFxySv03B.jpg",
+          "videos": [
+            {
+              "id": 47608,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4025394",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 47607,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/1626437192388",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 122005,
+          "episode_number": 4,
+          "name": "Tehlikeli bölge",
+          "description": "",
+          "release_date": "2020-08-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/iD5203jgcg4mdZlFcHwsFb2IDjf.jpg",
+          "videos": [
+            {
+              "id": 47846,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4031123",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 47847,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/1638184454852",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 122006,
+          "episode_number": 5,
+          "name": "Kötülük vs Bushido",
+          "description": "",
+          "release_date": "2020-08-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/l5MU51DyL3renCXOgFeOzHsAD3x.jpg",
+          "videos": [
+            {
+              "id": 48049,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4038294",
+              "extra": "12",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 48053,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4038296",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 48050,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/1689269242376",
+              "extra": "12",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 48052,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/1650453973700",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 122007,
+          "episode_number": 6,
+          "name": "Çaresiz durum",
+          "description": "",
+          "release_date": "2020-08-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/gflqI3lryC6b4bSnMddvkFzFo7Z.jpg",
+          "videos": [
+            {
+              "id": 490168,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6417dc57680bb945e0f09809",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 48499,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4045915",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 48498,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/1663826922180",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 122008,
+          "episode_number": 7,
+          "name": "Dream Road to Death",
+          "description": "",
+          "release_date": "2020-08-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7wUeJSQfICY4V9J6DZweXM7qMwz.jpg",
+          "videos": [
+            {
+              "id": 358056,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/630ca22396d13322efb0287e",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 48706,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4053538",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 48707,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/2246370658924",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 122009,
+          "episode_number": 8,
+          "name": "Veda Mektubu",
+          "description": "",
+          "release_date": "2020-09-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/shIJ7LEL9a1kBsVwRl8vDRwKvvG.jpg",
+          "videos": [
+            {
+              "id": 49285,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4062199",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 49284,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/1690162432708",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 122010,
+          "episode_number": 9,
+          "name": "Hepsi Tükenene Kadar",
+          "description": "",
+          "release_date": "2020-09-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9mj1OkjCAfBUDtuVy7cZUFfZbrg.jpg",
+          "videos": [
+            {
+              "id": 49847,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4070723",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 49846,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/1704056392388",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 122011,
+          "episode_number": 10,
+          "name": "Yeni Müttefikler",
+          "description": "",
+          "release_date": "2020-09-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/afFbUKo2LCICnyazswV1lY01tOb.jpg",
+          "videos": [
+            {
+              "id": 50421,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4082152",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 50420,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/1715933940420",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 122012,
+          "episode_number": 11,
+          "name": "hayali aşk",
+          "description": "",
+          "release_date": "2020-09-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/A9eucI3h5f1qD6jNB7RONU7DHaa.jpg",
+          "videos": [
+            {
+              "id": 50931,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4091441",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 50930,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/1728963742404",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 122013,
+          "episode_number": 12,
+          "name": "Bir Hayatın Sonu",
+          "description": "",
+          "release_date": "2020-09-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qf4kd6xogndM9Zoc1u0pPYYemKi.jpg",
+          "videos": [
+            {
+              "id": 51260,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4098156",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 51259,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/1743514831556",
+              "extra": "2",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

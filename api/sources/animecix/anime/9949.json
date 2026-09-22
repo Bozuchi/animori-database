@@ -1,0 +1,995 @@
+{
+  "id": 9949,
+  "name": "Steins;Gate 0",
+  "name_english": "Steins;Gate 0",
+  "name_romanji": "Steins;Gate 0",
+  "original_title": "シュタインズ・ゲート ゼロ",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2018,
+  "release_date": "2018-04-12",
+  "description": "Çılgın bilim adamı Okabe, Kurisu’yu kurtarmaya yönelik girişiminde başarısız olduktan sonra pes eder ve hayat dolu çılgın bilim adamı benliğini geçmişin tozlu sayfalarına gömer. O, artık bizim tanıdığımız “Hououin Kyouma” değildir. Her şey artık normalleştiğinde, kendisine bir insanın belliğini depolayan bir cihazı test etmeye başladığını ve karakterleri, kişilikleri ile bir simülasyon oluşturduğunu söyleyen Kirusu ile tanışarak geçmişe çekilir. Okabe de teste başlar ve Kurisu simülasyonunun beklenmedik bazı trajedileri de beraberinde getirdiğini deneyimler. “Zero”, orijinal hikayeyi mümkün kılmak için katkıda bulunan, Beta Attractor Field'ın geleceğini keşfeden bir yan hikayedir.",
+  "poster": "https://image.tmdb.org/t/p/original/lmx0rW83DCh60ARiZqM6DY2XJhB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7B4PGxWt9NrcFCEAegLSEuSyAeS.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    2
+  ],
+  "tmdb_id": 78102,
+  "mal_id": 30484,
+  "anilist_id": 0,
+  "imdb_id": "tt5514358",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 3736,
+      "season_number": 1,
+      "name": "",
+      "episode_count": 24,
+      "episodes": [
+        {
+          "id": 174338,
+          "episode_number": 1,
+          "name": "Yok Edicinin Kayıp Halkası -Mutlak Sıfır-",
+          "description": "Ufukta Üçüncü Dünya Savaşı olmasına rağmen, Okabe normal bir üniversite hayatı yaşamaya çalışır. Ancak yeni geliştirilen bir yapay zeka onun dünyasını alt üst etmek üzeredir.",
+          "release_date": "2018-04-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xHkTdFpdTePArIOr0th8MT5zi7K.jpg",
+          "videos": [
+            {
+              "id": 650792,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/666f656b6966a596e379b1ef",
+              "extra": "Yedek Kişilik / www.adonisfansub.com / www.fb.com/adonisfansub",
+              "fansub": "Yedek Kişilik",
+              "fansub_id": 917,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 441172,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4998343",
+              "extra": "Yedek Kişilik",
+              "fansub": "Yedek Kişilik",
+              "fansub_id": 917,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 650796,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5565357",
+              "extra": "Yedek Kişilik / www.adonisfansub.com / www.fb.com/adonisfansub",
+              "fansub": "Yedek Kişilik",
+              "fansub_id": 917,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 174339,
+          "episode_number": 2,
+          "name": "Kapalı Eğrinin Yazıtı -Kapalı Yazıt-",
+          "description": "Maho ile ortak birini tanıdıklarını keşfettikleri tesadüfi bir karşılaşmanın ardından Okabe, özel yapay zekası Amadeus ile ilk yüz yüze görüşmesini yapar.",
+          "release_date": "2018-04-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/q5EnGAITegtisGCGdhaQtJr0DCp.jpg",
+          "videos": [
+            {
+              "id": 650797,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/666f66266966a596e379b1f0",
+              "extra": "Yedek Kişilik / www.adonisfansub.com / www.fb.com/adonisfansub",
+              "fansub": "Yedek Kişilik",
+              "fansub_id": 917,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 441180,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4998348",
+              "extra": "Yedek Kişilik",
+              "fansub": "Yedek Kişilik",
+              "fansub_id": 917,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 650801,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5565358",
+              "extra": "Yedek Kişilik / www.adonisfansub.com / www.fb.com/adonisfansub",
+              "fansub": "Yedek Kişilik",
+              "fansub_id": 917,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 174340,
+          "episode_number": 3,
+          "name": "İki Taraflı İncil Protokolü -X-Gün Protokolü-",
+          "description": "Mayuri, laboratuvarda bir Noel partisi için herkesi bir araya getirmeye çalışır, ancak Okabe kaba bir uyanış yaşar.",
+          "release_date": "2018-04-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/gR6CgJDBMmm97nlJO8vEwnaYcPq.jpg",
+          "videos": [
+            {
+              "id": 650802,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/666f66e16966a596e379b1f1",
+              "extra": "Yedek Kişilik / www.adonisfansub.com / www.fb.com/adonisfansub",
+              "fansub": "Yedek Kişilik",
+              "fansub_id": 917,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 441201,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4998373",
+              "extra": "Yedek Kişilik",
+              "fansub": "Yedek Kişilik",
+              "fansub_id": 917,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 650806,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5565359",
+              "extra": "Yedek Kişilik / www.adonisfansub.com / www.fb.com/adonisfansub",
+              "fansub": "Yedek Kişilik",
+              "fansub_id": 917,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 174341,
+          "episode_number": 4,
+          "name": "Kederli Akışın Yalnızlığı -A Stray Sheep-",
+          "description": "Okabe, cevaplardan çok sorularla baş başa kalırken Suzuha, beklenmedik şekilde yakın birini bulmasına yardımcı olur.",
+          "release_date": "2018-05-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/50v3q6WGwKQstuU4X4YQVnXmRbu.jpg",
+          "videos": [
+            {
+              "id": 650807,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/666f678d6966a596e379b1f2",
+              "extra": "Yedek Kişilik / www.adonisfansub.com / www.fb.com/adonisfansub",
+              "fansub": "Yedek Kişilik",
+              "fansub_id": 917,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 441209,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4998375",
+              "extra": "Yedek Kişilik",
+              "fansub": "Yedek Kişilik",
+              "fansub_id": 917,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 650811,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5565360",
+              "extra": "Yedek Kişilik / www.adonisfansub.com / www.fb.com/adonisfansub",
+              "fansub": "Yedek Kişilik",
+              "fansub_id": 917,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 174342,
+          "episode_number": 5,
+          "name": "Astigmatizmanın Yalnızlığı -Dolaşık Koyun-",
+          "description": "Yeni Yıl hızla yaklaşırken arayışları devam eder, ancak Ruka'nın belirli bir misafirle yaşadığı ikilem işleri daha da kötüleştirebilir.",
+          "release_date": "2018-05-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/foAx1isxo9puGjknujypr2HGgtC.jpg",
+          "videos": [
+            {
+              "id": 650812,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/666f685f6966a596e379b1f3",
+              "extra": "Unrave! & Nadeko / www.puzzlesubs.com",
+              "fansub": "Unrave!",
+              "fansub_id": 1103,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 441233,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4998385",
+              "extra": "Unrave! & Nadeko",
+              "fansub": "Unrave!",
+              "fansub_id": 1103,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 650816,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5565369",
+              "extra": "Unrave! & Nadeko / www.puzzlesubs.com",
+              "fansub": "Unrave!",
+              "fansub_id": 1103,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 174343,
+          "episode_number": 6,
+          "name": "Yörünge Düzeninin Tutulması -Yörünge Tutulması-",
+          "description": "Artık kızın kimliği öğrenildiğine göre, Okabe ve arkadaşları Yeni Yıla bir türbe ziyareti ve asla unutulmayacak bir parti ile başlar.",
+          "release_date": "2018-05-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4Itq8KBhRZMXPdl9tcf8INu6grM.jpg",
+          "videos": [
+            {
+              "id": 650817,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/666f699b6966a596e379b1f4",
+              "extra": "Unrave! & Nadeko / www.puzzlesubs.com",
+              "fansub": "Unrave!",
+              "fansub_id": 1103,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 441241,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4998387",
+              "extra": "Unrave! & Nadeko",
+              "fansub": "Unrave!",
+              "fansub_id": 1103,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 650821,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5565372",
+              "extra": "Unrave! & Nadeko / www.puzzlesubs.com",
+              "fansub": "Unrave!",
+              "fansub_id": 1103,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 174344,
+          "episode_number": 7,
+          "name": "Vibronic Transition Tutulması -Vibronic Transition-",
+          "description": "Okabe, saldırıyla ilgili yanıtlar ararken Amadeus'la yaşadığı sorun, beklenmedik olaylara yol açar.",
+          "release_date": "2018-05-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/yfwNouLYH7a77TBG6S9geHq0P5W.jpg",
+          "videos": [
+            {
+              "id": 650822,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/666f6acf6966a596e379b1f5",
+              "extra": "Unrave! & Nadeko / www.puzzlesubs.com",
+              "fansub": "Unrave!",
+              "fansub_id": 1103,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 441265,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4998397",
+              "extra": "Unrave! & Nadeko",
+              "fansub": "Unrave!",
+              "fansub_id": 1103,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 650826,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5565373",
+              "extra": "Unrave! & Nadeko / www.puzzlesubs.com",
+              "fansub": "Unrave!",
+              "fansub_id": 1103,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 174345,
+          "episode_number": 8,
+          "name": "Dual of Antinomy -Antinomic Dual-",
+          "description": "Okabe'ye, değişen dünya çizgisinde fedakarlık yapılması gerektiğine dair acı tatlı bir hatırlatma verilir.",
+          "release_date": "2018-05-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/okZ3veQ5LQQrwVchIoUAkwxFQUU.jpg",
+          "videos": [
+            {
+              "id": 650827,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/666f6c4c6966a596e379b1f6",
+              "extra": "Unrave! & Nadeko / www.puzzlesubs.com",
+              "fansub": "Unrave!",
+              "fansub_id": 1103,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 441273,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4998401",
+              "extra": "Unrave! - Nadeko",
+              "fansub": "Unrave!",
+              "fansub_id": 1103,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 650831,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5565376",
+              "extra": "Unrave! & Nadeko / www.puzzlesubs.com",
+              "fansub": "Unrave!",
+              "fansub_id": 1103,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 174346,
+          "episode_number": 9,
+          "name": "Ebedi Dönüş Pandora -Pandora'nın Kutusu-",
+          "description": "Okabe'nin saldırganları ve motivasyonlarını belirlemesi zaman alacaktır, ancak yaklaşmakta olan 3. Dünya Savaşı krizi Suzuha'yı umutsuz önlemlere başvurmaya zorlar.",
+          "release_date": "2018-06-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/s3fakS6tW2z3CyDT7Z0kygrN6Ov.jpg",
+          "videos": [
+            {
+              "id": 650832,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/666f6dbc6966a596e379b1f7",
+              "extra": "Unrave! & Nadeko / www.puzzlesubs.com",
+              "fansub": "Unrave!",
+              "fansub_id": 1103,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 441288,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4998424",
+              "extra": "Unrave! & Nadeko",
+              "fansub": "Unrave!",
+              "fansub_id": 1103,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 650836,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5565377",
+              "extra": "Unrave! & Nadeko / www.puzzlesubs.com",
+              "fansub": "Unrave!",
+              "fansub_id": 1103,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 174347,
+          "episode_number": 10,
+          "name": "Kanıtlanabilir Varlığın Pandorası -Yasak Hücre-",
+          "description": "Maho'nun felaketle sonuçlanan odasını temizlemek için takviye kuvvetleri çağrıldıktan sonra, onun ve Okabe'nin Akihabara randevusu, Maho'nun şaşırtıcı bir itirafıyla sona erer.",
+          "release_date": "2018-06-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tBQ2mWt1WB8OG3ZlwbkQkUmNmAK.jpg",
+          "videos": [
+            {
+              "id": 650837,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/666f6ed66966a596e379b1f8",
+              "extra": "Unrave! & Nadeko / www.puzzlesubs.com",
+              "fansub": "Unrave!",
+              "fansub_id": 1103,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 441299,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4998441",
+              "extra": "Unrave! & nadeko",
+              "fansub": "Unrave!",
+              "fansub_id": 1103,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 650841,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5565379",
+              "extra": "Unrave! & Nadeko / www.puzzlesubs.com",
+              "fansub": "Unrave!",
+              "fansub_id": 1103,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 174348,
+          "episode_number": 11,
+          "name": "Pandora of Unutulmuş Varoluş -Mühürlü Emanet-",
+          "description": "Okabe, Maho'yu değerli varlığından vazgeçmesi için ikna etmelidir, ancak beklenmedik bir tehlike onların kendi hayatları için pazarlık yapmasına neden olur.",
+          "release_date": "2018-06-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bzvjrOyNfuqHPxaLImnXYWA8GsM.jpg",
+          "videos": [
+            {
+              "id": 650842,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/666f6fe56966a596e379b1f9",
+              "extra": "Unrave! & Nadeko / www.puzzlesubs.com",
+              "fansub": "Unrave!",
+              "fansub_id": 1103,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 441317,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4998448",
+              "extra": "Unrave! & Nadeko",
+              "fansub": "Unrave!",
+              "fansub_id": 1103,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 650846,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5565380",
+              "extra": "Unrave! & Nadeko / www.puzzlesubs.com",
+              "fansub": "Unrave!",
+              "fansub_id": 1103,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 174349,
+          "episode_number": 12,
+          "name": "Karşılıklı Özyinelemenin Anne Kazı -Yinelemeli Anne Kazı-",
+          "description": "Kagari, kayıp anılarını keşfetmesi umuduyla bir şarkının kökenini bulmaya çalışır.",
+          "release_date": "2018-06-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/juA1OzM9uuoLlPnPdNhY7IM0N61.jpg",
+          "videos": [
+            {
+              "id": 650847,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/666f71596966a596e379b1fa",
+              "extra": "Unrave - Nadeko / www.puzzlesubs.com",
+              "fansub": "Unrave",
+              "fansub_id": 1104,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 441325,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4998456",
+              "extra": "Unrave - Nadeko",
+              "fansub": "Unrave",
+              "fansub_id": 1104,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 650851,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5565381",
+              "extra": "Unrave - Nadeko / www.puzzlesubs.com",
+              "fansub": "Unrave",
+              "fansub_id": 1104,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 174350,
+          "episode_number": 13,
+          "name": "Difraktif Recitativo'nun Anne Kazı -Kırınım Ana Kazı-",
+          "description": "Sonunda Kagari'nin kayıp geçmişine dair bir ipucu elde eden Okabe, umduğundan çok daha fazlasını keşfeder.",
+          "release_date": "2018-07-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8N6iXmVuYRifw8efvbSLQ9XvmDt.jpg",
+          "videos": [
+            {
+              "id": 650852,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/666f725b6966a596e379b1fb",
+              "extra": "Hikarion / facebook.com/lowsubs",
+              "fansub": "Hikarion",
+              "fansub_id": 561,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 441333,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4998458",
+              "extra": "LowSubs",
+              "fansub": "LowSubs",
+              "fansub_id": 266,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 650856,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5565385",
+              "extra": "Hikarion / facebook.com/lowsubs",
+              "fansub": "Hikarion",
+              "fansub_id": 561,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 174351,
+          "episode_number": 14,
+          "name": "Elastik Limitin Tanınması -Presage or Recognise-",
+          "description": "Sürpriz bir saldırıyla şok olan Suzuha ve Daru, dünyayı kurtarmak için son umutları olarak Amerika'ya bakar.",
+          "release_date": "2018-07-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pHOARY4I17H2VToUNS4sEGvgNte.jpg",
+          "videos": [
+            {
+              "id": 650857,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/666f73066966a596e379b1fc",
+              "extra": "Hikarion & Peder / facebook.com/lowsubs",
+              "fansub": "Hikarion",
+              "fansub_id": 561,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 441341,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4998460",
+              "extra": "LowSubs",
+              "fansub": "LowSubs",
+              "fansub_id": 266,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 650861,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5565386",
+              "extra": "Hikarion & Peder / facebook.com/lowsubs",
+              "fansub": "Hikarion",
+              "fansub_id": 561,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 174352,
+          "episode_number": 15,
+          "name": "Asimptotik Çizginin Tanınması -Asimptotu Tanıyın-",
+          "description": "Babasının pasifliğinden bıkan Suzuha, Yuki başka biriyle bitmeden önce Daru'yu bir adam yapmalıdır.",
+          "release_date": "2018-07-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7PxxBLPv1teToLGajIbxwv3YKu6.jpg",
+          "videos": [
+            {
+              "id": 650862,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/666f73f96966a596e379b1fd",
+              "extra": "Peder & Hikarion / facebook.com/lowsubs",
+              "fansub": "Peder",
+              "fansub_id": 1105,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 441351,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4998462",
+              "extra": "LowSubs",
+              "fansub": "LowSubs",
+              "fansub_id": 266,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 650866,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5565390",
+              "extra": "Peder & Hikarion / facebook.com/lowsubs",
+              "fansub": "Peder",
+              "fansub_id": 1105,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 174353,
+          "episode_number": 16,
+          "name": "Sonsuzluk Noktasının Altair'i -Vega ve Altair-",
+          "description": "Okabe'nin inatçılığı, zaman makinesini kullanmak için son tarih hızla yaklaşırken yumrukların uçmasına ve gözyaşlarının dökülmesine neden olur.",
+          "release_date": "2018-08-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/AtU5hGozo4P3GyiVHFdvXDY7Ci8.jpg",
+          "videos": [
+            {
+              "id": 640004,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66303511ec50d766be411002",
+              "extra": "LowSubs",
+              "fansub": "LowSubs",
+              "fansub_id": 266,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 650867,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/666f74996966a596e379b1fe",
+              "extra": "Hikarion & Peder / facebook.com/lowsubs",
+              "fansub": "Hikarion",
+              "fansub_id": 561,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 441359,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4998463",
+              "extra": "LowSubs",
+              "fansub": "LowSubs",
+              "fansub_id": 266,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 650871,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5565394",
+              "extra": "Hikarion & Peder / facebook.com/lowsubs",
+              "fansub": "Hikarion",
+              "fansub_id": 561,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 174354,
+          "episode_number": 17,
+          "name": "Hiperbolik Düzlemin Altair'i -Beltrami Pseudosphere-",
+          "description": "Suzuha görevini bitirmek için yola çıkarken Mayuri kendi kararlılığını bulur. Ama sonra, felaket vurur.",
+          "release_date": "2018-08-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wdAzdeRMqGdBmM69LfJkkpWAKIo.jpg",
+          "videos": [
+            {
+              "id": 650872,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/666f754e6966a596e379b1ff",
+              "extra": "Peder / facebook.com/lowsubs",
+              "fansub": "Peder",
+              "fansub_id": 1105,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 441373,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4998464",
+              "extra": "LowSubs",
+              "fansub": "LowSubs",
+              "fansub_id": 266,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 650876,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5565397",
+              "extra": "Peder / facebook.com/lowsubs",
+              "fansub": "Peder",
+              "fansub_id": 1105,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 174355,
+          "episode_number": 18,
+          "name": "Öteleme Simetrisinin Altairi - Öteleme Simetrisi-",
+          "description": "Gelecekten gelen bir kötü adam geçmişe musallat olup onların sinsi planını ortaya çıkardığında, zaman makinesinde kıyamet kopar.",
+          "release_date": "2018-08-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dkRTlWDrxP2jhHt5OhpqjatEJYw.jpg",
+          "videos": [
+            {
+              "id": 650877,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/666f76636966a596e379b200",
+              "extra": "Peder / facebook.com/lowsubs",
+              "fansub": "Peder",
+              "fansub_id": 1105,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 441407,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4998475",
+              "extra": "LowSubs",
+              "fansub": "LowSubs",
+              "fansub_id": 266,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 650881,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5565402",
+              "extra": "Peder / facebook.com/lowsubs",
+              "fansub": "Peder",
+              "fansub_id": 1105,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 174356,
+          "episode_number": 19,
+          "name": "Döngüsel Koordinatın Altair'i -Zaman Atlama Makinesi-",
+          "description": "Savaş ve felaket geldi ve Okabe'nin bunu durdurmasının tek yolu arkadaşlarına, kararlılığına ve umuda güvenmek.",
+          "release_date": "2018-08-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/asQwAITmCpCXGHodollNMj4M20V.jpg",
+          "videos": [
+            {
+              "id": 650882,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/666f779d6966a596e379b201",
+              "extra": "Hikarion / facebook.com/lowsubs",
+              "fansub": "Hikarion",
+              "fansub_id": 561,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 441390,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4998468",
+              "extra": "LowSubs",
+              "fansub": "LowSubs",
+              "fansub_id": 266,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 650886,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5565405",
+              "extra": "Hikarion / facebook.com/lowsubs",
+              "fansub": "Hikarion",
+              "fansub_id": 561,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 174357,
+          "episode_number": 20,
+          "name": "Sarsılmaz Sözün Rinascimento'su -Vaat Edilen Rinascimento-",
+          "description": "Okabe, tüm kaosun ortasında hayatta kalma mücadelesi veren arkadaşlarını bulduğu soğuk, cansız bir dünyada uyanır.",
+          "release_date": "2018-09-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/mQvdOmMIqdXfAEOqJGdEkeA3XMb.jpg",
+          "videos": [
+            {
+              "id": 650887,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/666f78396966a596e379b202",
+              "extra": "Hikarion & Peder / facebook.com/lowsubs",
+              "fansub": "Hikarion",
+              "fansub_id": 561,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 441398,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4998477",
+              "extra": "LowSubs",
+              "fansub": "LowSubs",
+              "fansub_id": 266,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 650891,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5565409",
+              "extra": "Hikarion & Peder / facebook.com/lowsubs",
+              "fansub": "Hikarion",
+              "fansub_id": 561,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 174358,
+          "episode_number": 21,
+          "name": "Görüntü Oluşumunun Rinascimento'su - Phoenix'in Dönüşü-",
+          "description": "Uzun ve meşakkatli bir yolculuğa çıkan Okabe, umudunu yeniden alevlendirmeye ve herkesin gittiğini sandığı şeyi yeniden canlandırmaya çalışır.",
+          "release_date": "2018-09-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/mn2PrCyZwUENWckLpsjHjVsVMhN.jpg",
+          "videos": [
+            {
+              "id": 650892,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/666f78d06966a596e379b203",
+              "extra": "Hikarion / lowsubs.com",
+              "fansub": "Hikarion",
+              "fansub_id": 561,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 441415,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4998484",
+              "extra": "LowSubs",
+              "fansub": "LowSubs",
+              "fansub_id": 266,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 650896,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5565412",
+              "extra": "Hikarion / lowsubs.com",
+              "fansub": "Hikarion",
+              "fansub_id": 561,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 174359,
+          "episode_number": 22,
+          "name": "Projeksiyonun Rinascimento'su -Project Amadeus-",
+          "description": "Laboratuvar üyeleri, zaman makinesini kurtarma mücadelesinde yakınsamayı atlatmak için beyin fırtınası yapar, ancak bunun fedakarlık yapılmadan yapılamayacağını anlar.",
+          "release_date": "2018-09-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/6I0xNNgEOZJRSo0zsxIj2UOJkSl.jpg",
+          "videos": [
+            {
+              "id": 650897,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/666f79b06966a596e379b204",
+              "extra": "Hikarion / lowsubs.com",
+              "fansub": "Hikarion",
+              "fansub_id": 561,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 455925,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5021657",
+              "extra": "LowSubs",
+              "fansub": "LowSubs",
+              "fansub_id": 266,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 650901,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5565417",
+              "extra": "Hikarion / lowsubs.com",
+              "fansub": "Hikarion",
+              "fansub_id": 561,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 174360,
+          "episode_number": 23,
+          "name": "Sonsuzluktaki Noktanın Ark Işığı -Arc-light of the Sky-",
+          "description": "Okabe ve arkadaşları, Steins Gate'i bulmak ve laboratuvar üyelerini kesin olarak yeniden bir araya getirmek için geçmişte, günümüzde ve gelecekte kadere karşı savaşmalıdır.",
+          "release_date": "2018-09-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/m5qBHFbRw5tC34EnjOrfu0jp2Gw.jpg",
+          "videos": [
+            {
+              "id": 650902,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/666f7b826966a596e379b205",
+              "extra": "Hikarion / lowsubs.com",
+              "fansub": "Hikarion",
+              "fansub_id": 561,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 441434,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4998491",
+              "extra": "LowSubs",
+              "fansub": "LowSubs",
+              "fansub_id": 266,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 650906,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5565422",
+              "extra": "Hikarion / lowsubs.com",
+              "fansub": "Hikarion",
+              "fansub_id": 561,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 238822,
+          "episode_number": 24,
+          "name": "Steins;Gate 0 Special: Kesshou Takei no Valentine ",
+          "description": "",
+          "release_date": "2013-06-12T11:37:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/684a92bb1a83d78a1dc5968b-55.jpg",
+          "videos": [
+            {
+              "id": 720792,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/684a92bb1a83d78a1dc5968b",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 720793,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/e7gbv45suv4a",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

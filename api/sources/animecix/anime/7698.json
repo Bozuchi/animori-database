@@ -1,0 +1,48 @@
+{
+  "id": 7698,
+  "name": "Kuroshitsuji: Book of Murder",
+  "name_english": "Black Butler: Book of Murder",
+  "name_romanji": "Black Butler: Book of Murder",
+  "original_title": "黒執事 Book of Murder",
+  "type": "movie",
+  "title_type": "movie",
+  "year": 2014,
+  "release_date": "2014-10-25",
+  "description": "OVA 1 - 2",
+  "poster": "https://image.tmdb.org/t/p/original/7N8os3UNezyfyY8FowkLbSzHDqW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/4GgsOFGZCXatHqIqqjpBW5NBpJu.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    14,
+    8
+  ],
+  "tmdb_id": 511082,
+  "mal_id": 23317,
+  "anilist_id": 0,
+  "imdb_id": "tt5714216",
+  "season_count": 0,
+  "videos": [
+    {
+      "id": 717046,
+      "player": "TAU",
+      "url": "https://tau-video.xyz/embed/680ff4339e8e7e8bb46e7ceb?vid=717046",
+      "extra": "1.Bölüm / Sciathan Çeviri",
+      "fansub": "1.Bölüm",
+      "fansub_id": 2882,
+      "quality": "regular",
+      "language": "tr"
+    },
+    {
+      "id": 717049,
+      "player": "TAU",
+      "url": "https://tau-video.xyz/embed/680ff4e69e8e7e8bb46e7cec",
+      "extra": "2.Bölüm / Sciathan Çeviri",
+      "fansub": "2.Bölüm",
+      "fansub_id": 2883,
+      "quality": "regular",
+      "language": "tr"
+    }
+  ]
+}

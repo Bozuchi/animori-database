@@ -1,0 +1,722 @@
+{
+  "id": 11585,
+  "name": "Fighter of the Destiny",
+  "name_english": "Fighter of the Destiny",
+  "name_romanji": "Ze Tian Ji",
+  "original_title": "择天记",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2015,
+  "release_date": "Wed Jul 15 2015 00:00:00 GMT+0000 (Coordinated Universal Time)",
+  "description": "Zamanın başlangıcında mistik bir meteor uzaydan düşerek dünyanın dört bir yanına dağılmıştı. Bir kısmı Doğu Kıtasına indi. Meteorun üzerine gizemli totemler kazınmıştı ve insanlar onun etrafında toplanıp onun kullanımını keşfetmeye çalışıyordu. Yolu keşfettiler ve Geleneği kurdular. Birkaç bin yıl sonra, on dört yaşındaki yetim Chen Chang Shang, hastalığını iyileştirmek ve kaderini değiştirmek için efendisinden ayrıldı. Başkente giderken yanında bir parça evlilik yemini getirmiş, böylece yükselen bir kahramanın yolculuğu başlamış oldu. Çizgi film serisi Mao Ni'nin Ze Tian Ji romanından uyarlanmıştır ve ayrıca Fighter of the Destiny adında bir canlı aksiyon dizisi de bulunmaktadır.",
+  "poster": "https://image.tmdb.org/t/p/original/zb72zHYOJiPQBfFZ7aLzO6J6Wp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ziAtDhoOnduGam51Alr74pAftuf.jpg",
+  "rating": 7,
+  "vote_count": 2,
+  "genres": [
+    3,
+    1,
+    2
+  ],
+  "tmdb_id": 104697,
+  "mal_id": 31838,
+  "anilist_id": null,
+  "imdb_id": "tt15155446",
+  "season_count": 5,
+  "seasons": [
+    {
+      "id": 5210,
+      "season_number": 1,
+      "name": null,
+      "episode_count": 13,
+      "episodes": [
+        {
+          "id": 214066,
+          "episode_number": 1,
+          "name": "Giriş: Ölümlüler Diyarına Giriş (1. Bölüm)",
+          "description": null,
+          "release_date": "2015-07-15T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 662644,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66a668fdf24dd5a019468731",
+              "extra": "NariYuka / Akame Fansub / https://discord.gg/c5NQX45",
+              "fansub": "NariYuka",
+              "fansub_id": 530,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 662647,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5612816",
+              "extra": "NariYuka / Akame Fansub / https://discord.gg/c5NQX45",
+              "fansub": "NariYuka",
+              "fansub_id": 530,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 214067,
+          "episode_number": 2,
+          "name": "Giriş: Ölümlüler Diyarına Giriş (2. Bölüm)",
+          "description": null,
+          "release_date": "2015-07-15T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 662648,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66a66a8cf24dd5a019468732",
+              "extra": "NariYuka / Akame Fansub / https://discord.gg/c5NQX45",
+              "fansub": "NariYuka",
+              "fansub_id": 530,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 662651,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5612823",
+              "extra": "NariYuka / Akame Fansub / https://discord.gg/c5NQX45",
+              "fansub": "NariYuka",
+              "fansub_id": 530,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 214068,
+          "episode_number": 3,
+          "name": "İlahi Generalin Konağı Bir Nişanı Kesiyor",
+          "description": null,
+          "release_date": "2015-07-22T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 662689,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66a68777f24dd5a01946873e",
+              "extra": "NariYuka / Akame Fansub / https://discord.gg/c5NQX45",
+              "fansub": "NariYuka",
+              "fansub_id": 530,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 662692,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5612920",
+              "extra": "NariYuka / Akame Fansub / https://discord.gg/c5NQX45",
+              "fansub": "NariYuka",
+              "fansub_id": 530,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 214069,
+          "episode_number": 4,
+          "name": "Sarmaşık Birliği",
+          "description": null,
+          "release_date": "2015-07-29T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 662697,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66a68beaf24dd5a01946873f",
+              "extra": "NariYuka / Akame Fansub / https://discord.gg/c5NQX45",
+              "fansub": "NariYuka",
+              "fansub_id": 530,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 662700,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5612933",
+              "extra": "NariYuka / Akame Fansub / https://discord.gg/c5NQX45",
+              "fansub": "NariYuka",
+              "fansub_id": 530,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 214070,
+          "episode_number": 5,
+          "name": "Ortodoks Akademisinin Yeniden Açılması",
+          "description": null,
+          "release_date": "2015-08-05T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 662710,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66a68c78f24dd5a019468740",
+              "extra": "NariYuka / Akame Fansub / https://discord.gg/c5NQX45",
+              "fansub": "NariYuka",
+              "fansub_id": 530,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 662713,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5612937",
+              "extra": "NariYuka / Akame Fansub / https://discord.gg/c5NQX45",
+              "fansub": "NariYuka",
+              "fansub_id": 530,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 214071,
+          "episode_number": 6,
+          "name": "Şeytan Sınıfı Suikastçı",
+          "description": null,
+          "release_date": "2015-08-12T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214072,
+          "episode_number": 7,
+          "name": "Ortodoks Akademisi'nin En Yeni Öğrencisi",
+          "description": null,
+          "release_date": "2015-08-19T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214073,
+          "episode_number": 8,
+          "name": "Qing Tong Yan - 1. Gün",
+          "description": null,
+          "release_date": "2015-08-26T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214074,
+          "episode_number": 9,
+          "name": "Fırtına Öncesi Sessizlik",
+          "description": null,
+          "release_date": "2015-09-02T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214075,
+          "episode_number": 10,
+          "name": "Tong Sarayı Tutsağı",
+          "description": null,
+          "release_date": "2015-09-09T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214076,
+          "episode_number": 11,
+          "name": "Aydınlanmayı istemek",
+          "description": null,
+          "release_date": "2015-09-16T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214077,
+          "episode_number": 12,
+          "name": "Beyaz Turnanın Yemini (Bölüm 1)",
+          "description": null,
+          "release_date": "2015-09-23T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214078,
+          "episode_number": 13,
+          "name": "Beyaz Turnanın Yemini (Bölüm 2)",
+          "description": null,
+          "release_date": "2015-09-30T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        }
+      ]
+    },
+    {
+      "id": 5211,
+      "season_number": 2,
+      "name": null,
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 214140,
+          "episode_number": 1,
+          "name": null,
+          "description": null,
+          "release_date": "2016-07-20T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214141,
+          "episode_number": 2,
+          "name": null,
+          "description": null,
+          "release_date": "2016-07-27T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214142,
+          "episode_number": 3,
+          "name": null,
+          "description": null,
+          "release_date": "2016-08-03T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214143,
+          "episode_number": 4,
+          "name": null,
+          "description": null,
+          "release_date": "2016-08-10T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214144,
+          "episode_number": 5,
+          "name": null,
+          "description": null,
+          "release_date": "2016-08-17T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214145,
+          "episode_number": 6,
+          "name": null,
+          "description": null,
+          "release_date": "2016-08-24T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214146,
+          "episode_number": 7,
+          "name": null,
+          "description": null,
+          "release_date": "2016-08-31T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214147,
+          "episode_number": 8,
+          "name": null,
+          "description": null,
+          "release_date": "2016-09-07T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214148,
+          "episode_number": 9,
+          "name": null,
+          "description": null,
+          "release_date": "2016-09-14T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214149,
+          "episode_number": 10,
+          "name": null,
+          "description": null,
+          "release_date": "2016-09-21T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214150,
+          "episode_number": 11,
+          "name": null,
+          "description": null,
+          "release_date": "2016-09-28T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214151,
+          "episode_number": 12,
+          "name": null,
+          "description": null,
+          "release_date": "2016-10-05T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        }
+      ]
+    },
+    {
+      "id": 5212,
+      "season_number": 3,
+      "name": null,
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 214501,
+          "episode_number": 1,
+          "name": "Taç giyme töreni",
+          "description": null,
+          "release_date": "2017-07-26T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214502,
+          "episode_number": 2,
+          "name": "Yıldız Ritüeli",
+          "description": null,
+          "release_date": "2017-08-02T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214503,
+          "episode_number": 3,
+          "name": "Kayıp",
+          "description": null,
+          "release_date": "2017-08-09T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214504,
+          "episode_number": 4,
+          "name": "Engelleri Aşmak",
+          "description": null,
+          "release_date": "2017-08-16T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214505,
+          "episode_number": 5,
+          "name": "Stelin şifresini çözmek",
+          "description": null,
+          "release_date": "2017-08-23T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214506,
+          "episode_number": 6,
+          "name": "Yıldız Parıltısı",
+          "description": null,
+          "release_date": "2017-08-30T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214507,
+          "episode_number": 7,
+          "name": "Ejderhanın Ruhu",
+          "description": null,
+          "release_date": "2017-09-06T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214508,
+          "episode_number": 8,
+          "name": "Şok Dönüş",
+          "description": null,
+          "release_date": "2017-09-13T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214509,
+          "episode_number": 9,
+          "name": null,
+          "description": null,
+          "release_date": "2017-09-20T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214510,
+          "episode_number": 10,
+          "name": null,
+          "description": null,
+          "release_date": "2017-09-27T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214511,
+          "episode_number": 11,
+          "name": "Son Düello",
+          "description": null,
+          "release_date": "2017-10-04T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214512,
+          "episode_number": 12,
+          "name": null,
+          "description": null,
+          "release_date": "2017-10-11T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        }
+      ]
+    },
+    {
+      "id": 5213,
+      "season_number": 4,
+      "name": null,
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 214513,
+          "episode_number": 1,
+          "name": "Dağda İlk Buluşma",
+          "description": null,
+          "release_date": "2018-08-22T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214514,
+          "episode_number": 2,
+          "name": "Beyefendiyle tanışmak",
+          "description": null,
+          "release_date": "2018-08-29T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214515,
+          "episode_number": 3,
+          "name": "Eski Arkadaşlar",
+          "description": null,
+          "release_date": "2018-09-05T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214516,
+          "episode_number": 4,
+          "name": "Kanımla",
+          "description": null,
+          "release_date": "2018-09-12T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214517,
+          "episode_number": 5,
+          "name": "Kırılmaz Bağlar",
+          "description": null,
+          "release_date": "2018-09-19T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214518,
+          "episode_number": 6,
+          "name": "Çayırın Üzerindeki Gökkuşağı",
+          "description": null,
+          "release_date": "2018-09-26T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214519,
+          "episode_number": 7,
+          "name": "Gençlik ve Kadim Kılıç",
+          "description": null,
+          "release_date": "2018-10-03T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214520,
+          "episode_number": 8,
+          "name": "Miles'a veda",
+          "description": null,
+          "release_date": "2018-10-10T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214521,
+          "episode_number": 9,
+          "name": "Zehirli Kelimeler",
+          "description": null,
+          "release_date": "2018-10-17T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214522,
+          "episode_number": 10,
+          "name": "Su Tarzı Eğitimi",
+          "description": null,
+          "release_date": "2018-10-24T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214523,
+          "episode_number": 11,
+          "name": "Yanan Kalbin Kılıcı",
+          "description": null,
+          "release_date": "2018-10-31T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214524,
+          "episode_number": 12,
+          "name": "Bayram Başlıyor",
+          "description": null,
+          "release_date": "2018-11-07T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        }
+      ]
+    },
+    {
+      "id": 5214,
+      "season_number": 5,
+      "name": null,
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 214525,
+          "episode_number": 1,
+          "name": "Şehrin Üzerinde Fırtına",
+          "description": null,
+          "release_date": "2020-03-16T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214526,
+          "episode_number": 2,
+          "name": "Aziz Ortaya Çıkıyor",
+          "description": null,
+          "release_date": "2020-03-23T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214527,
+          "episode_number": 3,
+          "name": "Prens Zhaoming",
+          "description": null,
+          "release_date": "2020-03-30T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214528,
+          "episode_number": 4,
+          "name": "Ruh Yıldızlı Denize Geri Dönüyor",
+          "description": null,
+          "release_date": "2020-04-06T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214529,
+          "episode_number": 5,
+          "name": "Akademi Buluşması",
+          "description": null,
+          "release_date": "2020-04-13T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214530,
+          "episode_number": 6,
+          "name": "Ayrılmaz Arkadaşlar",
+          "description": null,
+          "release_date": "2020-04-20T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214531,
+          "episode_number": 7,
+          "name": "Zhouyuan'a dön",
+          "description": null,
+          "release_date": "2020-04-27T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214532,
+          "episode_number": 8,
+          "name": "Son Veda",
+          "description": null,
+          "release_date": "2020-05-04T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214533,
+          "episode_number": 9,
+          "name": "Phoenix Geri Dönüyor",
+          "description": null,
+          "release_date": "2020-05-11T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214534,
+          "episode_number": 10,
+          "name": "Karda Yarım Köprü",
+          "description": null,
+          "release_date": "2020-05-18T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214535,
+          "episode_number": 11,
+          "name": "Son Savaş Günü",
+          "description": null,
+          "release_date": "2020-05-25T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        },
+        {
+          "id": 214536,
+          "episode_number": 12,
+          "name": "Kalp Atışlarının Ayrılması Zor",
+          "description": null,
+          "release_date": "2020-06-01T00:00:00.000Z",
+          "poster": null,
+          "videos": []
+        }
+      ]
+    }
+  ]
+}

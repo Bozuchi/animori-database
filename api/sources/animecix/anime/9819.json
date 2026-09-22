@@ -1,0 +1,686 @@
+{
+  "id": 9819,
+  "name": "Heike Monogatari",
+  "name_english": "The Heike Story",
+  "name_romanji": "Heike Monogatari",
+  "original_title": "平家物語",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2022,
+  "release_date": "2022-01-13 00:00:00",
+  "description": "Özünde bir Japon destanına dayanan Heike Destanı -özgün adıyla Heike Monogatari-, Taira ve Minamoto boylarının savaşının (Genpei Savaşı) ve Taira boyunun çöküşünün epik bir anlatısıdır. Hikâye, babası gözleri önünde öldürülen ve sonradan Taira Şigemori tarafından evlat edinilen Biva adlı küçük kız etrafında şekillenmektedir.",
+  "poster": "https://image.tmdb.org/t/p/original/t8fvOz6sSsvMq6481oAWrN3lI7h.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xjXRlOtDCZK5igttQd07WHOvTTD.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    9,
+    6,
+    2
+  ],
+  "tmdb_id": 132664,
+  "mal_id": 49738,
+  "anilist_id": 0,
+  "imdb_id": "tt15353550",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 3542,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 11,
+      "episodes": [
+        {
+          "id": 169295,
+          "episode_number": 1,
+          "name": "1. Bölüm",
+          "description": "Heike olarak da bilinen Taira klanı, Japonya'da buna zorlama bir güce ve gitmek için gidilir. Garip ve güçlü koşullar, bi çalışma bir kız, gidişat geliştirmenin içinde bulunacaktır.",
+          "release_date": "2021-12-21T11:37:19.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4FmDIsdt7sBOULMBd2yGcNTJyBh.jpg",
+          "videos": [
+            {
+              "id": 383879,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632cb963811bb1558a7aa61d",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 207110,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4551738",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207109,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/QWmVLVqAbrt0Daj",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207105,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-cyi12tm2ftsl.html",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207108,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/casyys16y7zs.html",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 169296,
+          "episode_number": 2,
+          "name": "2. Bölüm",
+          "description": "Shigemor, Kiyomor'nun naibe yönelik olduğu hedeflerinini ile başa çıkmak için acele eder. Biwa, Shigemori'nin eviyle daha fazla zaman geçirdikçe, ona açılmaya başlar.",
+          "release_date": "2021-09-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/3RgdCkeTEGd8IdnxEsRWzK0Txds.jpg",
+          "videos": [
+            {
+              "id": 383883,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632cb9a5811bb1558a7aa61f",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 207120,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4551743",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207119,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/wy7dPlDWj8UJ87m",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207118,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/esz2ltvpxozo.html",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207115,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-8nh20b9hda08.html",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 169297,
+          "episode_number": 3,
+          "name": "3. Bölüm",
+          "description": "Aradan birkaç yıl sonra Biwa bir arkadaşına yetişir. Enryakuji keşişleriyle bir çatışma Heike için hasta olur ve Shigemori, Kiyomori'yi dizginlemek için sert davranmak zorundadır.",
+          "release_date": "2021-09-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/38G1FCggevQUfIWJ3VkJZCqt1Po.jpg",
+          "videos": [
+            {
+              "id": 383877,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632cb8e7811bb1558a7aa61c",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 207127,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4551746",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207126,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/J93k9QqeXXijMD7",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207122,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-mxpkg0ner6wo.html",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207125,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/xls4b9c2qrr8.html",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 169298,
+          "episode_number": 4,
+          "name": "4. Bölüm",
+          "description": "Tokuko sonunda İmparator Takakura'nın çocuğunu taşır. Taira soyundan bir imparator olma olasılığı mutlu birdirdir, ancak Kiyoti'nin kontrolü kontrollüdür.",
+          "release_date": "2021-10-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/reQbHxYDZCLDthjwZT4hREiRpHA.jpg",
+          "videos": [
+            {
+              "id": 383875,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632cb899811bb1558a7aa61a",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 207134,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4551751",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207133,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/vYyGraxbBvS4xgM",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207129,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-u34m5baprpoe.html",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207132,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/5ipm9nnuwhbp.html",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 169299,
+          "episode_number": 5,
+          "name": "5. Bölüm",
+          "description": "",
+          "release_date": "2021-10-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7JyGREokGLv8eBNvUEb9tnAZ0x4.jpg",
+          "videos": [
+            {
+              "id": 383874,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632cb84a811bb1558a7aa619",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 207141,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4551757",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207140,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/GeA7Rjwd28s1kjj",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207136,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-sno2btmz1cao.html",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207139,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/kadp57l8r2z2.html",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 169300,
+          "episode_number": 6,
+          "name": "6. Bölüm",
+          "description": "",
+          "release_date": "2021-10-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/siEFykzlQKUJBPmTibipXiqkM1u.jpg",
+          "videos": [
+            {
+              "id": 383876,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632cb8e2811bb1558a7aa61b",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 207148,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4551770",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207147,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/KWrPr2WKk1Tbqy",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207143,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-1c03w1gr1e3n.html",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207146,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/dsozwlm0fe1x.html",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 169301,
+          "episode_number": 7,
+          "name": "7. Bölüm",
+          "description": "",
+          "release_date": "2021-10-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/3tcJwORd10jbAxHuRzRyrM7z29M.jpg",
+          "videos": [
+            {
+              "id": 383873,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632cb7fd811bb1558a7aa618",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 207155,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4551778",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207154,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/qaewa3PbXmUzvQX",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207150,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-77ny2mb21m7s.html",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207153,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/9fsu4fxwygan.html",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 169302,
+          "episode_number": 8,
+          "name": "8. Bölüm",
+          "description": "",
+          "release_date": "2021-11-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/uoK5GuruSWEkuqIyhuqP5i5ZGex.jpg",
+          "videos": [
+            {
+              "id": 207164,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4551790",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207163,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/Jvy7adbqWZijXdL",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207159,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-h3nsx12qffzn.html",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207162,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/k7n3qdbjkhth.html",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 169303,
+          "episode_number": 9,
+          "name": "9. Bölüm",
+          "description": "",
+          "release_date": "2021-11-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7nbbKk6bvWog1JxW2GCGNDb7X5l.jpg",
+          "videos": [
+            {
+              "id": 383871,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632cb79a811bb1558a7aa616",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 207175,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4551803",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207174,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/mlaBe9aJbatG2G",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207170,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-fn4fpok36wzy.html",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207173,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/6fslt0fxhqfn.html",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 169304,
+          "episode_number": 10,
+          "name": "10. Bölüm",
+          "description": "",
+          "release_date": "2021-11-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/5fFKx7gE2NN6gISMmlm4rjU9OBS.jpg",
+          "videos": [
+            {
+              "id": 383870,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632cb739811bb1558a7aa615",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 207187,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4551819",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207186,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/Mz3qK3qWWBfmXoW",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207182,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-2vfqrfjwl6hv.html",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207185,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/u8nws7biv7u9.html",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 169305,
+          "episode_number": 11,
+          "name": "11. Bölüm",
+          "description": "",
+          "release_date": "2021-11-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/c6qwVtIo2zMiaVnApT3uvLNdJB5.jpg",
+          "videos": [
+            {
+              "id": 383872,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632cb7b2811bb1558a7aa617",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 207200,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4551850",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207199,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/p82Jkr9LPbsRj7",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207195,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-mxqkih334zeq.html",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 207198,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/e0gamuoc36em.html",
+              "extra": "Necratsu / ÂloneShy / Twist / https://tempestfansub.com",
+              "fansub": "Necratsu",
+              "fansub_id": 764,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,825 @@
+{
+  "id": 9419,
+  "name": "Bokura ga Ita",
+  "name_english": "We Were There",
+  "name_romanji": "We Were There",
+  "original_title": "僕等がいた",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2006,
+  "release_date": "2006-07-03",
+  "description": "Nanami Takahashi ilk yılına giren bir lise öğrencisidir. Ancak daha ilk gününde, okulun en popüler çocuğu olan ve tesadüfen kendi sınıfına da gelen Motoharu Yano'nun eşek şakasının kurbanı olur. İkili sarsıntılı bir başlangıç yapsa da, kısa süre sonra birbirlerine aşık olduklarını fark eder ve çıkmaya başlarlar. Ancak ilişkileri, Yano'nun önceki kız arkadaşı Nana Yamamoto'nun ölümü ve onun ölümünü çevreleyen ihaneti içeren Yano'nun geçmişi tarafından gölgelenir. İşleri daha da karmaşık hale getirmek için küçük kız kardeşi Yuri, Yano ve Nanami ile aynı sınıftadır. Yano, Nana'nın ölümü ve ona karşı çözülmemiş duygularıyla başa çıkmaya çalışırken, Nanami de ilişkilerini sürdürebilmek için Yano'yu anlamayı öğrenmek zorundadır.",
+  "poster": "https://image.tmdb.org/t/p/original/duvWwPEO8vdGO1Y6iarPw4DScCM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rG2ekGICObDCEsxbZep9RxkFxrc.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    9,
+    6
+  ],
+  "tmdb_id": 22577,
+  "mal_id": 1222,
+  "anilist_id": 0,
+  "imdb_id": "tt2147761",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 3539,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 26,
+      "episodes": [
+        {
+          "id": 171693,
+          "episode_number": 1,
+          "name": "Bölüm Bir",
+          "description": "Nanami Takahashi'nin yeni lisesindeki ikinci günüdür ve neredeyse okul başlar başlamaz sınıfında sosyal olmayan Yuri gibi yeni arkadaşlar edinir. Asahi ortaokulundan bir kız ona, kızlar arasında çok popüler olan ve aynı sınıfta olan Motoharu Yano adındaki adamdan bahseder. Nanami'nin kendisine aşık olması uzun sürmez.",
+          "release_date": "2006-07-03T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 363582,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312186aa21596c7104ead26",
+              "extra": "Aluminia Fansub/ Voodoo Baby - Eymasar - Cynthia - New_Cellie",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 304514,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4776115",
+              "extra": "Aluminia Fansub/ Voodoo Baby - Eymasar - Cynthia - New_Cellie",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 304521,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4776116",
+              "extra": "Aluminia Fansub/ Voodoo Baby - Eymasar - Cynthia - New_Cellie",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 171694,
+          "episode_number": 2,
+          "name": "İkinci Bölüm",
+          "description": "Nanami Takahashi'nin yeni lisesindeki ikinci günüdür ve neredeyse okul başlar başlamaz sınıfında sosyal olmayan Yuri gibi yeni arkadaşlar edinir. Asahi ortaokulundan bir kız ona, kızlar arasında çok popüler olan ve aynı sınıfta olan Motoharu Yano adındaki adamdan bahseder. Nanami'nin kendisine aşık olması uzun sürmez.",
+          "release_date": "2006-07-10T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 363581,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631217faa21596c7104ead25",
+              "extra": "Aluminia Fansub/ Voodoo Baby - Eymasar - Cynthia - New_Cellie",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 304528,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4776117",
+              "extra": "Aluminia Fansub/ Voodoo Baby - Eymasar - Cynthia - New_Cellie",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 171695,
+          "episode_number": 3,
+          "name": "Üçüncü Bölüm",
+          "description": "Yaz tatili ve Nanami oyun provaları için okula gidiyor, ancak Motoharu'nun bunlardan hiçbirine gelmemesine oldukça sinirleniyor. Yaz festivalinde bile o gelmez, bu yüzden Nanami onu görmek için evine gider. Motoharu, Nana ile olan geçmiş ilişkisini hatırlıyor.",
+          "release_date": "2006-07-17T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 363578,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63121764a21596c7104ead23",
+              "extra": "Aluminia Fansub/ Voodoo Baby - Eymasar - Cynthia - New_Cellie",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 304536,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4776121",
+              "extra": "Aluminia Fansub/ Voodoo Baby - Eymasar - Cynthia - New_Cellie",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 171696,
+          "episode_number": 4,
+          "name": "Dördüncü Bölüm",
+          "description": "Kültür Festivali yaklaşıyor ve tüm öğrenciler etkinliğe hazırlanmak için çok çalışıyorlar. Bu arada Motoharu, Nanami ile oldukça mesafeli görünüyor ve nedenini anlamıyor. Ardından Kültür Festivali günü gelir.",
+          "release_date": "2006-07-24T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 363576,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631216f7a21596c7104ead21",
+              "extra": "Aluminia Fansub/ Voodoo Baby - Eymasar - Cynthia - New_Cellie",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 304544,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4776123",
+              "extra": "Aluminia Fansub/ Voodoo Baby - Eymasar - Cynthia - New_Cellie",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 171697,
+          "episode_number": 5,
+          "name": "Beşinci Bölüm",
+          "description": "Motoharu'nun Kültür Festivali sırasındaki itirafının ardından, Nanami dün gece hiç uyuyamadığı için oldukça dışında görünüyor. Arkadaşlarının aralarında neler olduğunu keşfetmesi uzun sürmez. Okul bittiğinde ve Motoharu öğrenci konseyi toplantısında her şeyi hallettikten sonra sinemaya bir randevuya çıkarlar. Zaman geçer ve kış gelir ve Nanami, Noel için Motoharu'ya ne vereceğini düşünür.",
+          "release_date": "2006-07-31T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 363571,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6312166fa21596c7104ead1f",
+              "extra": "Aluminia Fansub/ Voodoo Baby - Eymasar - Cynthia - New_Cellie",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 304555,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4776125",
+              "extra": "Aluminia Fansub/ Voodoo Baby - Eymasar - Cynthia - New_Cellie",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 171698,
+          "episode_number": 6,
+          "name": "Altıncı Bölüm",
+          "description": "Nanami, Motoharu ile yapmaktan zevk aldığı şeyleri düşünüyor ama hala yapamadığı tek şey \"çizgiyi aşmak\". Çift bir gün alışveriş yapmak için buluşurlar ve Takeuchi'nin mağaza memuru olan ablasıyla karşılaşırlar. Bir gün okuldan sonra Motoharu Nanami'yi beklerken Yuri ile karşılaşır.",
+          "release_date": "2006-08-07T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 363569,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631215c5a21596c7104ead1e",
+              "extra": "Aluminia Fansub/ Voodoo Baby - Eymasar - Cynthia - New_Cellie",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 304562,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4776126",
+              "extra": "Aluminia Fansub/ Voodoo Baby - Eymasar - Cynthia - New_Cellie",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 171699,
+          "episode_number": 7,
+          "name": "Yedinci Bölüm",
+          "description": "Motoharu, Nanami'ye çıkma teklif eder, ancak Nanami gizlice ona bir hediye alması için onu havaya uçurur, ancak Nanami onu takip ettiği için bu bir sır değildir. Ertesi gün Motoharu ona biraz kızgın ama hediye alışverişinden sonra barışmayı başarıyorlar. Motoharu, Yuri ile bir kez daha karşılaşana kadar aralarında işler iyi gidiyor.",
+          "release_date": "2006-08-14T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 362179,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63101bd496d13322efb032a2",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 305342,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4777905",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 171700,
+          "episode_number": 8,
+          "name": "Sekizinci Bölüm",
+          "description": "Nanami, odasında bu fırsatı Motoharu'ya geçmiş Yuri'sini sormak için kullanır ve cevabını vermesi biraz zaman alır. Motoharu, Nanami'den ayrılırken, ona söyledikleriyle içini rahatlatır ama bu, gerçeğin tamamı olmayabilir. Motoharu'nun arkadaşı Takeuchi'nin bildiği gerçeği sakladığı ortaya çıkıyor.",
+          "release_date": "2006-08-21T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 362178,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63101b6696d13322efb032a1",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 305349,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4777917",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 171701,
+          "episode_number": 9,
+          "name": "Dokuzuncu Bölüm",
+          "description": "Motoharu ile evinde yapayalnız kalan Nanami, aslında sonunda \"bunu yapmalarını\" önerir. Böyle bir rüya gibi görünse de Motoharu'nun annesi eve döndüğünde rüya yarıda kesilir ve işleri orada bitirmek zorunda kalırlar. Aynı şeyin bir daha yaşanmaması için para biriktirmeye karar verir.",
+          "release_date": "2006-08-28T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 363281,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63115c13a21596c7104eac83",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 305356,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4777927",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 171702,
+          "episode_number": 10,
+          "name": "Onuncu Bölüm",
+          "description": "Nanami düşünmeden Motoharu'nun Nana ile birlikte eski bir fotoğrafını Yuri'nin devrilmiş çantasından çalar ve bu konuda ne yapacağını bilemez. Ancak Motoharu tesadüfen Nanmi'nin defterindeki resmi bulup Yuri'ye geri vermeye karar verdiğinde bunun bir önemi yoktur. O zamandan beri Nanami ve Motoharu arasında biraz sürtüşme oldu ve bir gün Takeuchi'nin doğum gününe davet edildi.",
+          "release_date": "2006-09-04T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 362176,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63101ae096d13322efb0329f",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 305363,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4777936",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 171703,
+          "episode_number": 11,
+          "name": "Onbirinci Bölüm",
+          "description": "Nanami ve Motoharu'nun çalışma seansı, birdenbire Yuri, Motoharu'nun kapısının önünde ona kız kardeşi hakkında söyleyecek bir şeyle geldiğinde yarıda kaldı. Nana'nın 2 yıl önce Kagawa'nın arabasında olmasının nedeni ile ilgili. Kısa bir süre sonra Nanami ve Motoharu bu konuda tartışırlar.",
+          "release_date": "2006-09-11T00:00:00.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 363279,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63115b85a21596c7104eac81",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 305370,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4777947",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 171704,
+          "episode_number": 12,
+          "name": "On İkinci Bölüm",
+          "description": "Alışılmadık bir şekilde, Motoharu sonunda Yuri'ye işlediği günahı Nanami'ye itiraf eder. O zamandan beri Nanami onunla yüzleşemedi ama sonunda ilişkilerindeki sorunu çözdüler. İkili için her şey yolunda gidince günü eğlenerek geçirmek için kumsala gitmeye karar verirler ama keşke bu kadar basit olsaydı.",
+          "release_date": "2006-09-18T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/63101a7896d13322efb0329e-3.jpg",
+          "videos": [
+            {
+              "id": 362175,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63101a7896d13322efb0329e",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 305381,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4777953",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 171705,
+          "episode_number": 13,
+          "name": "Onüçüncü Bölüm",
+          "description": "Nanami ve Motoharu arasındaki ilişki sona ermiştir ve aralarında tek kelime dahi etmeden bir hafta geçmiştir. Takeuchi işlerin olduğu gibi devam etmesine izin veremez, bu yüzden Nanami'yi onu neşelendirmesi için davet eder. Motoharu, Nanami ile arasında yaşananlardan pişmanlık duymaya başlar.",
+          "release_date": "2006-09-25T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/63115b02a21596c7104eac80-8.jpg",
+          "videos": [
+            {
+              "id": 363278,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63115b02a21596c7104eac80",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 305388,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4777957",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 171706,
+          "episode_number": 14,
+          "name": "Ondördüncü Bölüm",
+          "description": "Motoharu ve Nanami arasında hiçbir şey yolunda gitmeyen Takeuchi, duygularını tutamaz ve inisiyatif almaya karar verir. Yine de zamanlamayı yanlış yapmış olabilir ve Motoharu çok geç olmadan onu durdurmak istiyor. Nanami'nin her ikisine karşı duyguları nelerdir?",
+          "release_date": "2006-10-02T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/631019db96d13322efb0329d-11.jpg",
+          "videos": [
+            {
+              "id": 362174,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631019db96d13322efb0329d",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 305396,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4777962",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 171707,
+          "episode_number": 15,
+          "name": "On Beşinci Bölüm",
+          "description": "Yıllık Kültür Festivali için hazırlıklar sorunsuz ilerliyor ama ilerlemeyen şey Nanami'nin Motoharu veya Takeuchi ile olan ilişkisi. Motoharu, Nanami ve Nana'ya olan duygularını düzenlemeye çalışırken, Takeuchi işleri yakında çözmeyi planlıyor. Kültür Festivali günü gelir ve Nanami, Takeuchi'nin kız kardeşiyle tanışır.",
+          "release_date": "2006-10-09T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/63115a5ba21596c7104eac7e-23.jpg",
+          "videos": [
+            {
+              "id": 363276,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63115a5ba21596c7104eac7e",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 305404,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4777964",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 171708,
+          "episode_number": 16,
+          "name": "Onaltıncı Bölüm",
+          "description": "Okul festivalinin gecesi ve herkes endişeyle ana etkinliği bekliyor. Takeuchi, Nanami'ye itirafta bulunmayı planlıyor ama Motoharu da öyle, ancak Nanami şimdi tüm bunları kaldırabileceğini düşünmüyor ve cevabını vermekten kaçmaya karar veriyor.",
+          "release_date": "2006-10-16T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6310191b96d13322efb0329b-64.jpg",
+          "videos": [
+            {
+              "id": 362172,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6310191b96d13322efb0329b",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 305411,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4777969",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 171709,
+          "episode_number": 17,
+          "name": "On Yedinci Bölüm",
+          "description": "Okul festivalinin ardından normal bir okul günüdür ve Nanami, Motoharu'ya ilk aşkı Nana'yı anlatması şartıyla tekrar bir araya gelmeye karar verir. İkisi bir randevuya çıkar ama Nanami, Motoharu'nun ağzını açması için Takeuchi'yi de beraberinde getirir. Motoharu, Nana hakkında bir şeyler öğrenmek yerine ona rahmetli babasını anlatır.",
+          "release_date": "2006-10-23T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/631018c696d13322efb0329a-8.jpg",
+          "videos": [
+            {
+              "id": 362171,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631018c696d13322efb0329a",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 305418,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4777971",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 171710,
+          "episode_number": 18,
+          "name": "On sekizinci Bölüm",
+          "description": "Biraz düşündükten sonra Motoharu, Nanami'ye Nana'yı anlatmaya karar verir ve onu dışarı davet eder. Ama zaman geçirmek için bir film izlemeye gittiklerinde, çabucak bir randevu gibi olur. Kısa bir süre sonra Motoharu nihayet açılmaya karar verdiği için işler ciddileşse de, Nanami'nin duymak istediği şey tamamen olmayabilir.",
+          "release_date": "2006-10-30T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/631159e7a21596c7104eac7d-23.jpg",
+          "videos": [
+            {
+              "id": 363275,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631159e7a21596c7104eac7d",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 305430,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4777972",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 171711,
+          "episode_number": 19,
+          "name": "19. Bölüm",
+          "description": "Nanami sonunda Motoharu'yu kabul eder ve tekrar bir araya gelirler ve hiçbir şey olmamış gibi normal okul hayatlarına dönerler. Ancak Motoharu ve Takeuchi arasında işler hala çözülmedi çünkü aralarında bir tür rekabet var ve Nanami bunun merkezinde.",
+          "release_date": "2006-11-06T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6310185f96d13322efb03299-44.jpg",
+          "videos": [
+            {
+              "id": 362170,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6310185f96d13322efb03299",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 305437,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4777980",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 171712,
+          "episode_number": 20,
+          "name": "Yirminci Bölüm",
+          "description": "Okulda başka bir gün ama bu, Takeuchi'nin sınıf arkadaşıyla çifte randevuya gitmek zorunda kalmasıyla hızla gelir ve gider. Şaşırtıcı bir şekilde Takeuchi kızın itirafını kabul eder ve çıkmaya başlarlar, ancak Motoharu ondan hoşlanmadığı için ona kızgındır. Pazar günü Motoharu, günü eğlenerek geçirmek için Nanami ile bir randevuya çıkar. Herkes Yuri'nin yeni görünümü karşısında şok olur ama bunun derin bir anlamı var mı?",
+          "release_date": "2006-11-13T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6311596ba21596c7104eac7c-31.jpg",
+          "videos": [
+            {
+              "id": 363273,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6311596ba21596c7104eac7c",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 305448,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4777984",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 171713,
+          "episode_number": 21,
+          "name": "Yirmi Birinci Bölüm",
+          "description": "Nanami'nin ailesi hafta sonu bir düğüne gidiyor, bu yüzden Motoharu'yu pijama partisine davet etmek için bu fırsatı değerlendiriyor. Motoharu'nun her şey için oldukça heyecanlı olduğu gün, birdenbire üzgün bir Yuri'den bir telefon alır. Bu yüzden Nanami ile buluşmak yerine Yuri'nin yanında olan kişi olmaya gider. Bu arada Takeuchi bir randevuda ama Nanami'yi aklından çıkaramıyor gibi görünüyor.",
+          "release_date": "2006-11-20T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/631017e596d13322efb03297-43.jpg",
+          "videos": [
+            {
+              "id": 362168,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631017e596d13322efb03297",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 305455,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4777993",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 171714,
+          "episode_number": 22,
+          "name": "Yirmi İkinci Bölüm",
+          "description": "Nanami'nin geride kaldığını bilen, umutsuzca Motoharu'yu bekleyen Takeuchi, duygularına teslim olur ve onu evine götürmek için ona gider. Motoharu sonunda Nanami'ye varabilir ama o zamana kadar çok geçtir. Okulda Motoharu özür dilemeye çalışır ama reddedilince soğuktan bayılır. Aralarındaki şeylere rağmen, Nanami hala Motoharu için endişeleniyor ve ziyarete gidiyor ama sonra Yuri evinden çıkıyor.",
+          "release_date": "2006-11-27T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/631158d5a21596c7104eac7a-37.jpg",
+          "videos": [
+            {
+              "id": 363270,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631158d5a21596c7104eac7a",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 305465,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4777995",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 171715,
+          "episode_number": 23,
+          "name": "Yirmi Üçüncü Bölüm",
+          "description": "Motoharu, Takeuchi'ye annesinin boşandığını ve Tokyo'ya taşınacağını söyler ve onlar dışarıdayken Takeuchi, Motoharu'ya duygularını Nanami'ye itiraf ettiğini söyleme ihtiyacı hisseder. Nanami, Takeuchi ve Yuri ile olanlardan dolayı Motoharu ile bozulan ilişkisi hakkında ne yapacağından emin değil.",
+          "release_date": "2006-12-04T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/6310175e96d13322efb03296-7.jpg",
+          "videos": [
+            {
+              "id": 362167,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6310175e96d13322efb03296",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 305473,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4778008",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 171716,
+          "episode_number": 24,
+          "name": "Yirmi Dördüncü Bölüm",
+          "description": "Noel zaten köşeyi dönünce ve Nanami, Motoharu ile barışmamış olmasına rağmen hala bir hediye için endişeleniyor. Bu arada Motoharu, yakında Tokyo'ya taşınacak olan annesi için endişeleniyor ve hatta onunla taşınmayı bile düşünüyor. Ayrıca Üniversiteler ile ilgili endişelenecek bir çok şey çifti arasında olması kaçınılmazdır.",
+          "release_date": "2006-12-11T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/63115849a21596c7104eac79-32.jpg",
+          "videos": [
+            {
+              "id": 363269,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63115849a21596c7104eac79",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 305482,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4778014",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 171717,
+          "episode_number": 25,
+          "name": "Yirmi Beşinci Bölüm",
+          "description": "Nanami de girdiği imkansız üniversite sınavlarından endişe duyar ve kabul edilme şansını artırmak için deli gibi çalışmaya başlar. Ama daha da önemlisi Motoharu, Nanami'ye annesiyle birlikte mi taşınacağı yoksa kalacağı konusunda hala bir cevap vermedi. Motoharu'nun cevabı ne olacak?",
+          "release_date": "2006-12-18T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/631016ee96d13322efb03295-22.jpg",
+          "videos": [
+            {
+              "id": 362166,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631016ee96d13322efb03295",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 305491,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4778026",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 171718,
+          "episode_number": 26,
+          "name": "Yirmi Altıncı Bölüm",
+          "description": "Noel'e sadece birkaç hafta kaldı ancak Nanami ve Motoharu, Annesini Tokyo'ya kadar takip etmeye karar verdiği için Noel'i birlikte geçiremeyebilir. Kalan günlerinde onu şımartmak istese de Nanami, kalan günleri her zamanki gibi geçirmek ister.",
+          "release_date": "2006-12-25T00:00:00.000Z",
+          "poster": "https://cdn.mangacix.net/file/tau-video/thb/631157e1a21596c7104eac77-4.jpg",
+          "videos": [
+            {
+              "id": 363267,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631157e1a21596c7104eac77",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 305498,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4778029",
+              "extra": "Aluminia Fansub/  New_Cellie - Voodoo Baby - Cynthia - Eymasar",
+              "fansub": "Aluminia Fansub",
+              "fansub_id": 1171,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

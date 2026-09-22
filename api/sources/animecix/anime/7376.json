@@ -1,0 +1,1155 @@
+{
+  "id": 7376,
+  "name": "Given",
+  "name_english": "Given",
+  "name_romanji": "Given",
+  "original_title": "ギヴン",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2019,
+  "release_date": "2019-07-12 00:00:00",
+  "description": "\"Sesi içime işledi sanki. Kafadan bir türlü atamıyorum. Mafuyu'nun sesi durdurulması imkânsız bir silah gibi adeta.\" Ritsuka Uenoyama artık gitar çalmanın ya da basketbol oynamanın severek yaptığı bir hobi olmaktan çıktığını fark etmiştir. Bir gün, elinde kırık gitarıyla oturan Mafuyu Sato ile karşılaşır. Ritsuka, isteksizce Mafuyu'ya gitar öğretmeye başlar, fakat Mafuyu'nun sesini duymasıyla birlikte işler aniden Ritsuka değişmeye başlayacaktır.",
+  "poster": "https://image.tmdb.org/t/p/original/lTP5yFKt2wzv8vM4EheNgIejEVu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7gbmM2NWcqZONbp65HUWDf4wr0Q.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    9,
+    6
+  ],
+  "tmdb_id": 88040,
+  "mal_id": 39533,
+  "anilist_id": 0,
+  "imdb_id": "tt10479420",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 927,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 122504,
+          "episode_number": 1,
+          "name": "Gruptaki Çocuklar",
+          "description": "Genel bakış bulunamadı.",
+          "release_date": "2019-07-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aHel0liPL4jg1I9uQ21bkMfJyxN.jpg",
+          "videos": [
+            {
+              "id": 570003,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c467b74bf660c92bf1a1bd",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 702124,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/678d4aa8193300244d098441",
+              "extra": "14",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 739933,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/695a9115faa4f0fe3c1460f4",
+              "extra": "Çevirmen: maiwayne / Redaktör: Nisackerman / Encoder: Mercury",
+              "fansub": "maiwayne",
+              "fansub_id": 1037,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758497,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a56491f002a74333f66ae54",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 47086,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3653180",
+              "extra": "14",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 570006,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5210706",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 739934,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/7z104afq1qst",
+              "extra": "Çevirmen: maiwayne / Redaktör: Nisackerman / Encoder: Mercury",
+              "fansub": "maiwayne",
+              "fansub_id": 1037,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 739935,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-raffn7oc2ghn.html",
+              "extra": "Çevirmen: maiwayne / Redaktör: Nisackerman / Encoder: Mercury",
+              "fansub": "maiwayne",
+              "fansub_id": 1037,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758498,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/eds1zit4pjzs",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758499,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-fh79v5g482u2.html",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 122505,
+          "episode_number": 2,
+          "name": "Aşık Biri Gibi",
+          "description": "",
+          "release_date": "2019-07-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aDamVXqueu0zwfvUWJaG3vEvEan.jpg",
+          "videos": [
+            {
+              "id": 570021,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c46a7b4bf660c92bf1a1be",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 702127,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/678d4b15193300244d098442",
+              "extra": "14",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 740572,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6963b3d4c0da000447f8c949",
+              "extra": "Ceviri:maiwayne Redaksiyon:Wesyna Encode:Kingsama",
+              "fansub": "Wesyna",
+              "fansub_id": 1867,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758500,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a5649bf75c86a0b6f67b745",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 47088,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3653375",
+              "extra": "14",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 570024,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5210718",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 740573,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/j3vrlz353v9n",
+              "extra": "Ceviri:maiwayne Redaksiyon:Wesyna Encode:Kingsama",
+              "fansub": "Wesyna",
+              "fansub_id": 1867,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 740574,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-lelqa4cdtq1y.html",
+              "extra": "Ceviri:maiwayne Redaksiyon:Wesyna Encode:Kingsama",
+              "fansub": "Wesyna",
+              "fansub_id": 1867,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758501,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/jnaoer57uj70",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758502,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-dmcilbvoprvp.html",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 122506,
+          "episode_number": 3,
+          "name": "Başka Biri",
+          "description": "",
+          "release_date": "2019-07-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tABDmYUCfU486VHqjsT6Y1PbeP3.jpg",
+          "videos": [
+            {
+              "id": 570017,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c46a8d4bf660c92bf1a1bf",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 702144,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/678d4ca8193300244d098444",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 740707,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6965813ffaa4f0fe3c146116",
+              "extra": "maiwayne - Nisackerman - Mercury",
+              "fansub": "maiwayne",
+              "fansub_id": 1037,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758503,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a564a77002a74333f66ae55",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 248701,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4544452",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 570020,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5210719",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 740708,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/p190nmhcvl9i",
+              "extra": "maiwayne - Nisackerman - Mercury",
+              "fansub": "maiwayne",
+              "fansub_id": 1037,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 740709,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-6u4ixpfoyxnj.html",
+              "extra": "maiwayne - Nisackerman - Mercury",
+              "fansub": "maiwayne",
+              "fansub_id": 1037,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758504,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/li0qxgdnmwxw",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758505,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-a7pkaog8g87z.html",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 122507,
+          "episode_number": 4,
+          "name": "Floresan Ergen",
+          "description": "",
+          "release_date": "2019-08-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/3ftQtD97a7AqgiDcgKxMileKbW1.jpg",
+          "videos": [
+            {
+              "id": 570030,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c46da74bf660c92bf1a1c0",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 702149,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/678d4d22193300244d098445",
+              "extra": "14",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 744789,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/698a8e0bfaa4f0fe3c1461c4",
+              "extra": "Çeviri: Maiwayne Redakte: Nisackerman Encoder: Slytherzzs",
+              "fansub": "Maiwayne",
+              "fansub_id": 1037,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758506,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a564b0cec3223a31a1ecec8",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 47092,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3665146",
+              "extra": "14",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 570033,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5210733",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 744790,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/rictt3sgco3t",
+              "extra": "Çeviri: Maiwayne Redakte: Nisackerman Encoder: Slytherzzs",
+              "fansub": "Maiwayne",
+              "fansub_id": 1037,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 744791,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-wvw4mqafx0nt.html",
+              "extra": "Çeviri: Maiwayne Redakte: Nisackerman Encoder: Slytherzzs",
+              "fansub": "Maiwayne",
+              "fansub_id": 1037,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758507,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/9q3ap099fudz",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758508,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-e40rj42p7jth.html",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 122508,
+          "episode_number": 5,
+          "name": "sebebi",
+          "description": "",
+          "release_date": "2019-08-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/A06uyPV6xbKJtr97i01cFo1X8hr.jpg",
+          "videos": [
+            {
+              "id": 570026,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c46e0e4bf660c92bf1a1c1",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 702153,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/678d4db3193300244d098447",
+              "extra": "14",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 745417,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69978cfdfd4c16eef7c240a3",
+              "extra": "maiwayne - Wesyna - Mercury",
+              "fansub": "maiwayne",
+              "fansub_id": 1037,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758509,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a564b9ea4f5f9e71074dcfb",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 47094,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3670212",
+              "extra": "14",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 570029,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5210735",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 745418,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/b1qjm3wc540g",
+              "extra": "maiwayne - Wesyna - Mercury",
+              "fansub": "maiwayne",
+              "fansub_id": 1037,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 745419,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-r7a27ws438gb.html",
+              "extra": "maiwayne - Wesyna - Mercury",
+              "fansub": "maiwayne",
+              "fansub_id": 1037,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758510,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/zvzcs2hdu4sp",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758511,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-pso4f4png8l3.html",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 122509,
+          "episode_number": 6,
+          "name": "Sürünme",
+          "description": "",
+          "release_date": "2019-08-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/gO7sj22kR17BMDzBNwiUm5AFnyk.jpg",
+          "videos": [
+            {
+              "id": 570034,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c4709c4bf660c92bf1a1c2",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 749123,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69d5392fcb8083ded340b96f",
+              "extra": "Çevirmen: maiwayne Redaksiyon: Pollywog Encoder: Joeyat - www.instagram.com/codeanimee",
+              "fansub": "maiwayne",
+              "fansub_id": 1037,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758512,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a564c3af2c0587e0fd8b94d",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 47098,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3673956",
+              "extra": "14",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 570037,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5210746",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 749124,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ehl0zudyvoqn",
+              "extra": "Çevirmen: maiwayne Redaksiyon: Pollywog Encoder: Joeyat - www.instagram.com/codeanimee",
+              "fansub": "maiwayne",
+              "fansub_id": 1037,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 749125,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-hpxo7186n5n5.html",
+              "extra": "Çevirmen: maiwayne Redaksiyon: Pollywog Encoder: Joeyat - www.instagram.com/codeanimee",
+              "fansub": "maiwayne",
+              "fansub_id": 1037,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758513,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/j0qsa824h2gq",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758514,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-6joa19mewcbz.html",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 122510,
+          "episode_number": 7,
+          "name": "Yuvarlanan Zarlar",
+          "description": "",
+          "release_date": "2019-08-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bPnH40nqnzDPB466iGRdvhEx3UY.jpg",
+          "videos": [
+            {
+              "id": 570038,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c471f64bf660c92bf1a1c3",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750514,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69e4fe47140a125ba83716bb",
+              "extra": "Çevirmen: maiwayne Redaksiyon: Kıneyv Encoder: Joeyat  - www.instagram.com/codeanimee",
+              "fansub": "maiwayne",
+              "fansub_id": 1037,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758515,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a564cd5ec3223a31a1ecec9",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 248702,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4602717",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 570041,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5210753",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750515,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/5t3cj5wzbxb5",
+              "extra": "Çevirmen: maiwayne Redaksiyon: Kıneyv Encoder: Joeyat  - www.instagram.com/codeanimee",
+              "fansub": "maiwayne",
+              "fansub_id": 1037,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750516,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-3zzt97ef50qs.html",
+              "extra": "Çevirmen: maiwayne Redaksiyon: Kıneyv Encoder: Joeyat  - www.instagram.com/codeanimee",
+              "fansub": "maiwayne",
+              "fansub_id": 1037,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758516,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/yorb4qtj3m53",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758517,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-9z8bdefd6pxs.html",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 122511,
+          "episode_number": 8,
+          "name": "Zaman Tükeniyor",
+          "description": "",
+          "release_date": "2019-08-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/czwRl3NKIm2xXLAyvrowSf861ak.jpg",
+          "videos": [
+            {
+              "id": 570042,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c4725f4bf660c92bf1a1c4",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 702154,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/678d4e3c193300244d098449",
+              "extra": "14",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758518,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a564d6e75c86a0b6f67b746",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 47102,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3689378",
+              "extra": "14",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 570045,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5210755",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758519,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/vgxkh17tgwxl",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758520,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-qrvxmm12qzii.html",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 122512,
+          "episode_number": 9,
+          "name": "Bir Kış Hikayesi",
+          "description": "",
+          "release_date": "2019-09-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pbdR5QuNf4W2LetOsvJpCw17N1N.jpg",
+          "videos": [
+            {
+              "id": 570047,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c474a14bf660c92bf1a1c5",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758521,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a564e0ef342e3f8d7f90447",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 248703,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4605157",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 570050,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5210764",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758522,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/6pvtdds0z30v",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758523,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-wedm3cy6vrgw.html",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 122513,
+          "episode_number": 10,
+          "name": "Dayanak",
+          "description": "",
+          "release_date": "2019-09-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9lGe3VWfjTYgtXU0QQ2LUhFAGcJ.jpg",
+          "videos": [
+            {
+              "id": 570052,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c4754e4bf660c92bf1a1c6",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 702155,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/678d4eac193300244d09844a",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758524,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a564ea5f342e3f8d7f90448",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 248711,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4620979",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 570055,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5210765",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758525,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/yh9r3jjkw9w2",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758526,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-k922mtpeb9io.html",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 122514,
+          "episode_number": 11,
+          "name": "şarkı2",
+          "description": "",
+          "release_date": "2019-09-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tJ4HMXVS6eQELM1BXGQPnBNjWV1.jpg",
+          "videos": [
+            {
+              "id": 570058,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/64c477564bf660c92bf1a1c7",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 702156,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/678d4f29193300244d09844b",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758527,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a564f37d5ce148fbbb33914",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 248712,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4623096",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 570061,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5210768",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758528,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/x3n9r5o69uxc",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758529,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-7leavl2t1lne.html",
+              "extra": "Çeviri: Francis",
+              "fansub": "Francis",
+              "fansub_id": 1868,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 169456,
+          "episode_number": 12,
+          "name": "OVA",
+          "description": null,
+          "release_date": "2021-12-23T09:42:35.000Z",
+          "poster": null,
+          "videos": [
+            {
+              "id": 380253,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63275d55d339cac05c6d4fc5",
+              "extra": "Çeviri: FranticDreamer - Encode&Upload: Vuats",
+              "fansub": "FranticDreamer - Encode&",
+              "fansub_id": 1866,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 208010,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4554054",
+              "extra": "Çeviri: FranticDreamer - Encode&Upload: Vuats",
+              "fansub": "FranticDreamer - Encode&",
+              "fansub_id": 1866,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 208009,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/1xpVO9bMMQseo7L",
+              "extra": "Çeviri: FranticDreamer - Encode&Upload: Vuats",
+              "fansub": "FranticDreamer - Encode&",
+              "fansub_id": 1866,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 208005,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-vezskw8o5oxh.html",
+              "extra": "Çeviri: FranticDreamer - Encode&Upload: Vuats",
+              "fansub": "FranticDreamer - Encode&",
+              "fansub_id": 1866,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 208008,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/51tqye4g6rot.html",
+              "extra": "Çeviri: FranticDreamer - Encode&Upload: Vuats",
+              "fansub": "FranticDreamer - Encode&",
+              "fansub_id": 1866,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

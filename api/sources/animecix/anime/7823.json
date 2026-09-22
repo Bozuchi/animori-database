@@ -1,0 +1,876 @@
+{
+  "id": 7823,
+  "name": "Animegataris",
+  "name_english": "Anime-Gataris",
+  "name_romanji": "Anime-Gataris",
+  "original_title": "アニメガタリズ",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2017,
+  "release_date": "2017-10-08",
+  "description": "Anime, Sakaneko Özel Lisesi'nde yeni öğrenci olan Minoa Asagaya'nın çevresinde geçmektedir. Animeler konusunda henüz çaylak olsa da, Minoa'nın sınıf arkadaşı Arisu Kamiigusa onu okulda bir ''Anime Kulübü'' kurmaya davet eder. Anime hakkında üst düzey bilgili sınıf arkadaşı Miko Kouenji ile sohbetlerinden sonra, Minoa yavaş yavaş kendini anime dünyasına kaptırır. Öğrenci konseyinin kulübü kapatmak için yaptığı sayısız girişime rağmen, bu arada dünyanın gelmiş olan sonunu da yok sayarak, Akiba'da olsun, gerçek hayattaki kutsal mekanlarında hatta kaplıcalarda bile anime hakkında konuşurlar.",
+  "poster": "https://image.tmdb.org/t/p/original/xfVB4VaFot6JDHySoiSC1pQoxDC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9ek7KfMQeY7qGeIMkzriHJ3udSw.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    4,
+    2
+  ],
+  "tmdb_id": 74080,
+  "mal_id": 35427,
+  "anilist_id": 0,
+  "imdb_id": "tt7535706",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 1408,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 132876,
+          "episode_number": 1,
+          "name": "Minoa, Anime Çaylağı!",
+          "description": "Lise birinci sınıf öğrencisi Asagaya Minoa pek anime meraklısı değildir ama çocukken izlediği ama adını hatırlayamadığı bir dizi vardır. Sınıfının varlıklı anime otaku'su Kamiigusa Arisu yardımcı olabilir.",
+          "release_date": "2017-10-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dVyTayYMnoK0ZGhYtMXQCYsbu5Q.jpg",
+          "videos": [
+            {
+              "id": 363264,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631156d3a21596c7104eac75",
+              "extra": "Reinne",
+              "fansub": "Reinne",
+              "fansub_id": 1719,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 74833,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4226121",
+              "extra": "Reinne",
+              "fansub": "Reinne",
+              "fansub_id": 1719,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74832,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/dKPyr2pL7AfkreJ",
+              "extra": "Reinne",
+              "fansub": "Reinne",
+              "fansub_id": 1719,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74831,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/0pf20l0vnsxi.html",
+              "extra": "Reinne",
+              "fansub": "Reinne",
+              "fansub_id": 1719,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74827,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-eej6j5fgpz4x.html",
+              "extra": "Reinne",
+              "fansub": "Reinne",
+              "fansub_id": 1719,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74824,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/exgfm0tzy0l5",
+              "extra": "Reinne",
+              "fansub": "Reinne",
+              "fansub_id": 1719,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 132877,
+          "episode_number": 2,
+          "name": "Anime-Gataris, Birleştirin!",
+          "description": "Yeni Anime Kulübü yeni üyeler arıyor. İhtimaller iyi, ama işler biraz tuhaf -- belki de iyi anlamda.",
+          "release_date": "2017-10-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qJFNxvwwKDiW3PhuKmifYN33EOp.jpg",
+          "videos": [
+            {
+              "id": 363268,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631157e2a21596c7104eac78",
+              "extra": "Reinne",
+              "fansub": "Reinne",
+              "fansub_id": 1719,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 74843,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4226127",
+              "extra": "Reinne",
+              "fansub": "Reinne",
+              "fansub_id": 1719,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74842,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/2bJ470ABrriQ1m",
+              "extra": "Reinne",
+              "fansub": "Reinne",
+              "fansub_id": 1719,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74841,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/63dnykxf4udh.html",
+              "extra": "Reinne",
+              "fansub": "Reinne",
+              "fansub_id": 1719,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74837,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-s3v110bpun27.html",
+              "extra": "Reinne",
+              "fansub": "Reinne",
+              "fansub_id": 1719,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74834,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/7dgaj545l2j5",
+              "extra": "Reinne",
+              "fansub": "Reinne",
+              "fansub_id": 1719,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 132878,
+          "episode_number": 3,
+          "name": "Erika, Cosplayer x Cosplayer",
+          "description": "Öğrenci konseyi Anime Kulübü'nü feshetmekle tehdit ediyor. Ekip, kulübü kurtarmanın bir yolunu bulmaya çalışırken zihinlerini boşaltmak için Akihabara'ya gider.",
+          "release_date": "2017-10-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cloMaPmPSCA5jh3ZwbGSltKwiKu.jpg",
+          "videos": [
+            {
+              "id": 363272,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63115920a21596c7104eac7b",
+              "extra": "Reinne",
+              "fansub": "Reinne",
+              "fansub_id": 1719,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 74853,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4226134",
+              "extra": "Reinne",
+              "fansub": "Reinne",
+              "fansub_id": 1719,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74852,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/Rkg8DYQm0qsd1gY",
+              "extra": "Reinne",
+              "fansub": "Reinne",
+              "fansub_id": 1719,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74847,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-t8z1czk17xe1.html",
+              "extra": "Reinne",
+              "fansub": "Reinne",
+              "fansub_id": 1719,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74851,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/qvyvg56evp7b.html",
+              "extra": "Reinne",
+              "fansub": "Reinne",
+              "fansub_id": 1719,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74844,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/izahsjeqifhg",
+              "extra": "Reinne",
+              "fansub": "Reinne",
+              "fansub_id": 1719,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 132879,
+          "episode_number": 4,
+          "name": "Kulüp Odası Go Boom!",
+          "description": "Arisu, Minoa'ya anime üretimi ve işi hakkında bilgi verir. Kulüplerinin verimli olduğunu kanıtlamak için Drama Kulübü kulüpten oyunlarının kostümlerine yardım etmesini ister. Ancak Erika, kostümleri tasarlarken bir engelle karşılaşır.",
+          "release_date": "2017-10-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/eyUidrN6UGYoUQiUVum8L1O0Go0.jpg",
+          "videos": [
+            {
+              "id": 363277,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63115a9ba21596c7104eac7f",
+              "extra": "Reinne",
+              "fansub": "Reinne",
+              "fansub_id": 1719,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 74863,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4226139",
+              "extra": "Reinne",
+              "fansub": "Reinne",
+              "fansub_id": 1719,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74862,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/YLAY8qpGr0hvDWW",
+              "extra": "Reinne",
+              "fansub": "Reinne",
+              "fansub_id": 1719,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74857,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-piodd8yfddlz.html",
+              "extra": "Reinne",
+              "fansub": "Reinne",
+              "fansub_id": 1719,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74861,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/lmkqat1rr8ww.html",
+              "extra": "Reinne",
+              "fansub": "Reinne",
+              "fansub_id": 1719,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74854,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/26qrnm8k94rb",
+              "extra": "Reinne",
+              "fansub": "Reinne",
+              "fansub_id": 1719,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 132880,
+          "episode_number": 5,
+          "name": "Beibei, gitme",
+          "description": "Yaz geldi ve anime kulübü çizgi romana yönelirken, onlara animenin Çin'de de popüler olduğunu söyleyen Japonca okuyan Çinli bir kız olan Yang Beibei ile tanışırlar.",
+          "release_date": "2017-11-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/frGeL2nF7FnbhO4aKSb8EYRp8Ro.jpg",
+          "videos": [
+            {
+              "id": 363280,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63115c01a21596c7104eac82",
+              "extra": "seki-kun",
+              "fansub": "seki-kun",
+              "fansub_id": 1534,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 74873,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4226143",
+              "extra": "seki-kun",
+              "fansub": "seki-kun",
+              "fansub_id": 1534,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74872,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/MABdJvJA66Umx01",
+              "extra": "seki-kun",
+              "fansub": "seki-kun",
+              "fansub_id": 1534,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74867,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-rf1lh6igqe17.html",
+              "extra": "seki-kun",
+              "fansub": "seki-kun",
+              "fansub_id": 1534,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74871,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/vhap35zrnrvs.html",
+              "extra": "seki-kun",
+              "fansub": "seki-kun",
+              "fansub_id": 1534,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74864,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/oswv7h8jqefs",
+              "extra": "seki-kun",
+              "fansub": "seki-kun",
+              "fansub_id": 1534,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 132881,
+          "episode_number": 6,
+          "name": "kaikai aşk doruk",
+          "description": "Anime kulübü, animenin sahneleri için kullandığı Japonya'daki belirli yerlere seyahat ediyor (şu anda Oorai'ye gidiyor). Bu sırada Kai, Miko'nun aşkından muzdariptir ve Minoa, bir dizi kötü şans durumuna girerken kulüpte hedefini bulmaya çalışmaktadır.",
+          "release_date": "2017-11-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xOGpOABbVYfIvHdP1ICwNcLIOrp.jpg",
+          "videos": [
+            {
+              "id": 363282,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63115d0aa21596c7104eac84",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 74883,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4226144",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74882,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/qDylWOyqx6izJXw",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74877,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-gral7jbdmjez.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74881,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/i0p6jn8hkide.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74874,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/gkeog5chlg9t",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 132882,
+          "episode_number": 7,
+          "name": "Miko Yazmayı Bırakıyor",
+          "description": "Yaklaşan kültür festivaliyle anime kulübü, ilerlemelerini göstermek için katılmaya karar verir. Ancak öğrenci konseyi anime gösterimini reddettiğinde, aslında göründüğünden daha zor olan anime şortları yapmaya karar verdiler.",
+          "release_date": "2017-11-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/v1QKLePiUdw2MaL7GR9y73nA7tx.jpg",
+          "videos": [
+            {
+              "id": 363284,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63115da0a21596c7104eac86",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 74893,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4226146",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74892,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/4PqbjPAVOdSKoLK",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74887,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-4gs42d5fx5sx.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74891,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/zr01o3d1514m.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74884,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/7m0rmqptb9v5",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 132883,
+          "episode_number": 8,
+          "name": "Arisu Yeterince Para Kazanamıyor",
+          "description": "Tsubaki, anime kulübünün oditoryumu doldurmasını yoksa kulübün kapatılacağını önerir. Anime kulübü sunumunu tamamlamalı ve 2 gün içinde tam bir ev almalıdır. Minoa ve Maya, babalarının sırrını öğrenir (önemli olmasa da).",
+          "release_date": "2017-11-27T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lfPdLvFoiebMKkcMeqJQ1oQLe1U.jpg",
+          "videos": [
+            {
+              "id": 363286,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63115e36a21596c7104eac87",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 74903,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4226150",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74902,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/QeRGlxwlwlI0oZ2",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74897,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-y3p9hmnatyd8.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74901,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/kf7h79frih2h.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74894,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/kdegslolcxrt",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 132884,
+          "episode_number": 9,
+          "name": "Anime Kulübü: Her Zaman Züppeler",
+          "description": "Anime Kulübü, kulüplerine uygun ilham verici animeler önererek insanların sorunlarını çözebileceklerini keşfeder. Bu harika çalışıyor - biraz fazla harika.",
+          "release_date": "2017-12-03T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/AsmTCnhHdmZSYwywuwsM0RM7Jwu.jpg",
+          "videos": [
+            {
+              "id": 363287,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63115ed6a21596c7104eac88",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 74913,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4226152",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74912,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/BARWkL3vQZUybM1",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74907,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-r7ndc0o1c56j.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74911,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/jd0ar5lucxiv.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74904,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/r4lfllp79xew",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 132885,
+          "episode_number": 10,
+          "name": "Anime Kulübü Sonunda Düşüyor",
+          "description": "Minoa, Anime Kulübü'nü geri getirmesini sağlamak için müdüre yaklaşır. Onunla birlikte ofiste kilitli ve diğerleri dışarı çıkmasına yardım etmek için çabalıyor.",
+          "release_date": "2017-12-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/769kDh1qNSs59Cxl26yavV0w83h.jpg",
+          "videos": [
+            {
+              "id": 363288,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/63115fd6a21596c7104eac89",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 74923,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4226157",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74922,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/Pj732jV24ZU0ZVV",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74917,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-994ujva0pb7z.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74921,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/9q81ekjrd0ue.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74914,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/wibe737mole5",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 132886,
+          "episode_number": 11,
+          "name": "Dostumuz Kouki'nin İkinci İhaneti",
+          "description": "Dünya gitgide daha az anlam ifade etmeye başlıyor ve bunu yalnızca Minoa fark ediyor gibi görünüyor.",
+          "release_date": "2017-12-17T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/hyeWhIwtADXH3IPtf9RaeAAsSo9.jpg",
+          "videos": [
+            {
+              "id": 363295,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6311625ba21596c7104eac8a",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 74933,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4226160",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74932,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/27vqbqWvWgfZMlK",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74927,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-lrq2fsix36ag.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74931,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/t0wa5x0ntn6l.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74924,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/hayo767xz84y",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 132887,
+          "episode_number": 12,
+          "name": "Minoa, Katharsis",
+          "description": "Minoa umutsuzca dünyayı eski haline getirmenin bir yolunu arıyor, ancak sezonun bitmesiyle birlikte zaman daralıyor.",
+          "release_date": "2017-12-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2c2rO5YerOaLMRpYSt1bnt3PWlh.jpg",
+          "videos": [
+            {
+              "id": 363301,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/631162e6a21596c7104eac8b",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 74943,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4226164",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74942,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/7XyP0KXpjbhA9mQ",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74937,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-qoa6u6d1fpxl.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74941,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/gqcxhvlbn3as.html",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 74934,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/bsjiz6oe8pqm",
+              "extra": "Türkanime",
+              "fansub": "Türkanime",
+              "fansub_id": 194,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

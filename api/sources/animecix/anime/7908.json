@@ -1,0 +1,2342 @@
+{
+  "id": 7908,
+  "name": "Owari no Seraph",
+  "name_english": "Seraph of the End",
+  "name_romanji": "Seraph of the End",
+  "original_title": "終わりのセラフ",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2015,
+  "release_date": "2015-04-04 00:00:00",
+  "description": "In 2012, the world allegedly comes to an end at the hands of a human-made virus, ravaging the global populace and leaving only children untouched. It is at this time that vampires emerge from the recesses of the earth, likely followed by age-old horrors of the dark thought only to be myth. The vampires sweep the earth and claim it in a single violent stroke, subjugating the remnants of humanity and leading them beneath the surface to safety. This \"protection\" comes at the price of donating blood to their captors. At the age of twelve, Yūichirō and his friend and fellow orphan Mikaela plotted to escape along with the children in Hyakuya Orphanage. However, this resulted in their deaths and Mikaela sacrifices himself in order for Yūichirō to escape and be saved by members of the Moon Demon Company, an extermination unit of the Japanese Imperial Demon Army. Four years later, Yūichirō dedicates his life to destroy vampires and seek revenge against them for murdering his \"family\".",
+  "poster": "https://image.tmdb.org/t/p/original/5IlxL2PfQ8CyY4TLRru9TcU56b3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/yz9fEOBPG5Ks3uPzPyFetQpR6QX.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    1,
+    2
+  ],
+  "tmdb_id": 62255,
+  "mal_id": 26243,
+  "anilist_id": 0,
+  "imdb_id": "tt4584326",
+  "season_count": 3,
+  "seasons": [
+    {
+      "id": 1488,
+      "season_number": 1,
+      "name": "Vampire Reign",
+      "episode_count": 13,
+      "episodes": [
+        {
+          "id": 136540,
+          "episode_number": 1,
+          "name": "Kan Mirası Dünyası",
+          "description": "Kökeni bilinmeyen bir salgın insanlığı vurur, tüm yetişkinleri öldürür ve gençleri vampir türünün insafına bırakır. Dört yıl sonra, Yūichirō Hyakuya ve arkadaşları, onları bir ölümlü tuzağın beklediğinden habersiz vampirlerden kaçmak için cüretkar bir girişimde bulunur.",
+          "release_date": "2015-04-04T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8kBWeFGVx93RVcl5EK4uCln3qtk.jpg",
+          "videos": [
+            {
+              "id": 622669,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65b66ddeb304d628d5f552ed",
+              "extra": "Linvie / Axophia™",
+              "fansub": "Linvie",
+              "fansub_id": 1352,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 680817,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66e02b8f9f75f44d71ace35e",
+              "extra": "valeyard - Kozaci",
+              "fansub": "valeyard",
+              "fansub_id": 1354,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 680821,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66e02c9b9f75f44d71ace35f",
+              "extra": "SP - Nilüf - Kanekabkz",
+              "fansub": "SP",
+              "fansub_id": 1355,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 751430,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69f37f9bb923b3ffeb12b610",
+              "extra": "Çevirmen: viski Redakte: Mansur35 Dizgi: Nexon Encoder: sTue",
+              "fansub": "viski",
+              "fansub_id": 1356,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 79857,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4231957",
+              "extra": "Linvie / Axophia™",
+              "fansub": "Linvie",
+              "fansub_id": 1352,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 680820,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5671083",
+              "extra": "valeyard - Kozaci",
+              "fansub": "valeyard",
+              "fansub_id": 1354,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 680824,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5671085",
+              "extra": "SP - Nilüf - Kanekabkz",
+              "fansub": "SP",
+              "fansub_id": 1355,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 79856,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/GXLgg9G9DkF13WO",
+              "extra": "Linvie / Axophia™",
+              "fansub": "Linvie",
+              "fansub_id": 1352,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79851,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-3460xy3x6xj0.html",
+              "extra": "Linvie / Axophia™",
+              "fansub": "Linvie",
+              "fansub_id": 1352,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79855,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/jqjvthhu9x8j.html",
+              "extra": "Linvie / Axophia™",
+              "fansub": "Linvie",
+              "fansub_id": 1352,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 751431,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/bjzvv4dxpn8o",
+              "extra": "Çevirmen: viski Redakte: Mansur35 Dizgi: Nexon Encoder: sTue",
+              "fansub": "viski",
+              "fansub_id": 1356,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 751432,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-rn7gvfulebsq.html",
+              "extra": "Çevirmen: viski Redakte: Mansur35 Dizgi: Nexon Encoder: sTue",
+              "fansub": "viski",
+              "fansub_id": 1356,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 79850,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/g2en558alemq",
+              "extra": "Linvie / Axophia™",
+              "fansub": "Linvie",
+              "fansub_id": 1352,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 136541,
+          "episode_number": 2,
+          "name": "Düşüşten Sonra İnsanlık",
+          "description": "Kaçtıktan dört yıl sonra, Yūichirō Japon Ordusunun bir parçası ve özel vampir avlama kuvvetleri olan Moon Demon Companynin bir üyesi olmaya hevesli, ancak pervasız davranışı, yerel okula bir vampir saldırana kadar onu askıya almasına neden oluyor. düşmanla emirlere karşı yüzleşmek.",
+          "release_date": "2015-04-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/AfxkY8mgvSh7spNAuX01HtqL3sz.jpg",
+          "videos": [
+            {
+              "id": 622670,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65b66e31b304d628d5f552ee",
+              "extra": "Dellyspa - Skip",
+              "fansub": "Dellyspa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 680825,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66e02d979f75f44d71ace360",
+              "extra": "SP - Nilüf - Kanekabkz",
+              "fansub": "SP",
+              "fansub_id": 1355,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 753965,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a12fd37e8eae400ee53f98c",
+              "extra": "Çevirmen: viski Redakte: belle Dizgi: Nexon Encoder: sTue ",
+              "fansub": "viski",
+              "fansub_id": 1356,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 79865,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4231985",
+              "extra": "Dellyspa - Skip",
+              "fansub": "Dellyspa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 680828,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5671088",
+              "extra": "SP - Nilüf - Kanekabkz",
+              "fansub": "SP",
+              "fansub_id": 1355,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 79864,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/R6LVoGmWxAhx1D",
+              "extra": "Dellyspa - Skip",
+              "fansub": "Dellyspa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79859,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-m9xhs9uve2le.html",
+              "extra": "Dellyspa - Skip",
+              "fansub": "Dellyspa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79863,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/rfo9wmuk171p.html",
+              "extra": "Dellyspa - Skip",
+              "fansub": "Dellyspa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 753966,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/yx3xpj1pqmp2",
+              "extra": "Çevirmen: viski Redakte: belle Dizgi: Nexon Encoder: sTue ",
+              "fansub": "viski",
+              "fansub_id": 1356,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 753967,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ugbogqelpx3e.html",
+              "extra": "Çevirmen: viski Redakte: belle Dizgi: Nexon Encoder: sTue ",
+              "fansub": "viski",
+              "fansub_id": 1356,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 79858,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/fxqyuntk7ls6",
+              "extra": "Dellyspa - Skip",
+              "fansub": "Dellyspa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 136542,
+          "episode_number": 3,
+          "name": "Kalbinizdeki Şeytan",
+          "description": "Yūichirō, okul arkadaşlarından birinin bir iblis tarafından ele geçirildiğini öğrenir ve sadece onu kurtarmak için değil, iblisle bir sözleşme yapmak ve gücünü elde etmek için onunla yüzleşmeye karar verir. Ancak kısa süre sonra, iblisi bastırmanın o kadar da kolay bir başarı olmayacağını öğrenir.",
+          "release_date": "2015-04-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dlw4rWSXPQmwZqkuVpRNThoNPaH.jpg",
+          "videos": [
+            {
+              "id": 622671,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65b66e6db304d628d5f552ef",
+              "extra": "Linvia / Axophia™",
+              "fansub": "Linvia",
+              "fansub_id": 1353,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 753968,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a12fdbda885b85179cd7eff",
+              "extra": "Çevirmen: viski Redakte: belle Dizgi: Nexon Encoder: sTue ",
+              "fansub": "viski",
+              "fansub_id": 1356,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 79873,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4232008",
+              "extra": "Linvia / Axophia™",
+              "fansub": "Linvia",
+              "fansub_id": 1353,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79872,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/wlYAx3738OIJ36j",
+              "extra": "Linvia / Axophia™",
+              "fansub": "Linvia",
+              "fansub_id": 1353,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79867,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-rji9liszl1dx.html",
+              "extra": "Linvia / Axophia™",
+              "fansub": "Linvia",
+              "fansub_id": 1353,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79871,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/cflsw566wh7k.html",
+              "extra": "Linvia / Axophia™",
+              "fansub": "Linvia",
+              "fansub_id": 1353,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 753969,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/s41jbc57f87d",
+              "extra": "Çevirmen: viski Redakte: belle Dizgi: Nexon Encoder: sTue ",
+              "fansub": "viski",
+              "fansub_id": 1356,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 753970,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-hm1bfgknbkl4.html",
+              "extra": "Çevirmen: viski Redakte: belle Dizgi: Nexon Encoder: sTue ",
+              "fansub": "viski",
+              "fansub_id": 1356,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 79866,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/n9urdxeq3m7r",
+              "extra": "Linvia / Axophia™",
+              "fansub": "Linvia",
+              "fansub_id": 1353,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 136543,
+          "episode_number": 4,
+          "name": "Vampir Mikaela",
+          "description": "Yūichirōnin en iyi arkadaşı Mikaela, diğer arkadaşları ile ölmek yerine, vampirlerin kraliçesi Krul Tepes tarafından bir vampire dönüştürüldü ve şimdi onun yardımcısı olarak çalışıyor. Bu arada, Yūichirō sonunda Moon Demon Companynin bir üyesi olmak için eğitimine başlar.",
+          "release_date": "2015-04-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lEY6KzDhlJ7i5mD93EtqbA8HGJs.jpg",
+          "videos": [
+            {
+              "id": 618128,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/659c3703b304d628d5f54f4a",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 618133,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5391448",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 136544,
+          "episode_number": 5,
+          "name": "Kara Şeytanın Sözleşmesi",
+          "description": "İnsan Ordusunun iktidara gelmesinden çekinen Krul, vampirleri onlara karşı savaşmaya çağırırken, Yūichirō ve arkadaşları riskleri bilmelerine rağmen nihayet kendileri için bir iblis silahı almaya teşebbüs etmek üzere seçilir.",
+          "release_date": "2015-05-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pCiPaXt8zFk1G8PTIMIbJjUQYv4.jpg",
+          "videos": [
+            {
+              "id": 622672,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65b66ebab304d628d5f552f0",
+              "extra": "DellySpa / Axophia™",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 79889,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4232027",
+              "extra": "DellySpa / Axophia™",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79888,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/o2Q2QMe6vWfj7K",
+              "extra": "DellySpa / Axophia™",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79883,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-d535ep1cf31v.html",
+              "extra": "DellySpa / Axophia™",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79887,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/026asj3owcqp.html",
+              "extra": "DellySpa / Axophia™",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79882,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/ybt3fcbgob5b",
+              "extra": "DellySpa / Axophia™",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 136545,
+          "episode_number": 6,
+          "name": "Yeni aile",
+          "description": "Son testi geçtikten sonra, Yūichirō ve sınıf arkadaşı Shihō Kimizuki kendi İblis Silahlarını alırlar, ancak Yūichirōnin arkadaşı Yoichi Saotome silahının eline geçtiğinde, ikili onu öldürmeden duyularına geri getirmenin bir yolunu bulmalıdır.",
+          "release_date": "2015-05-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/l2V9bz7l25Mk47wX2FuJYpNzVHV.jpg",
+          "videos": [
+            {
+              "id": 622673,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65b66ee8b304d628d5f552f1",
+              "extra": "DellySpa / Axophia™",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 79897,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4232029",
+              "extra": "DellySpa / Axophia™",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79896,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/K0jKyd8LV0c0eZJ",
+              "extra": "DellySpa / Axophia™",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79891,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-ftjtbpf1qfzk.html",
+              "extra": "DellySpa / Axophia™",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79895,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/t7yxw33ff314.html",
+              "extra": "DellySpa / Axophia™",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79890,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/0go1uenld4do",
+              "extra": "DellySpa / Axophia™",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 136546,
+          "episode_number": 7,
+          "name": "Mitsubanın Kadrosu",
+          "description": "Yūichirō ve arkadaşları yeni bir üye olan Mitsuba Sangū ile tanıştılar ve daha sonra Moon Demon Companynin bir parçası olarak ilk görevine gönderildiler, ancak küçük bir kızı tehlikede gördüklerinde Yūichirō emirleri görmezden geliyor ve onu kurtarmak için acele ediyor. sadece tuzağa düştüğü konusunda uyardı.",
+          "release_date": "2015-05-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4gSzpRI4JLTU4EHU0r7yX92s7kl.jpg",
+          "videos": [
+            {
+              "id": 622674,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65b66f3eb304d628d5f552f2",
+              "extra": "DellySpa / Axophia™",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 79906,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4232031",
+              "extra": "DellySpa / Axophia™",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79905,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/yD2X0Ro2mKu16mj",
+              "extra": "DellySpa / Axophia™",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79900,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-vtr8mbd1iz1f.html",
+              "extra": "DellySpa / Axophia™",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79904,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/33w590dm7m2e.html",
+              "extra": "DellySpa / Axophia™",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79899,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/m5bqarwijqj6",
+              "extra": "DellySpa / Axophia™",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 136547,
+          "episode_number": 8,
+          "name": "İlk İmha",
+          "description": "Bir vampir yuvasını başarıyla temizledikten ve tutsak tutulan insanları kurtardıktan sonra, Yūichirōnin partisi vampirlerin oraya saldırdığından habersiz Shinjukudaki insan üssünü kurar. Geldiklerinde, vampir soylularından biriyle karşılaşırlar ve kendilerini onun ezici gücünün insafına bulurlar.",
+          "release_date": "2015-05-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/79LlxsTAYpGGSMVnGI034CVs62b.jpg",
+          "videos": [
+            {
+              "id": 622675,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65b66f98b304d628d5f552f3",
+              "extra": "Dellyspa & Ned & Syo - Axophia",
+              "fansub": "Dellyspa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 79914,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4232032",
+              "extra": "Dellyspa & Ned & Syo - Axophia",
+              "fansub": "Dellyspa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79913,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/1qKQ7BxeavCrgO",
+              "extra": "Dellyspa & Ned & Syo - Axophia",
+              "fansub": "Dellyspa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79908,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-x7aph9vbexnt.html",
+              "extra": "Dellyspa & Ned & Syo - Axophia",
+              "fansub": "Dellyspa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79912,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/779ec04puwug.html",
+              "extra": "Dellyspa & Ned & Syo - Axophia",
+              "fansub": "Dellyspa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79907,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/997qbooccrpx",
+              "extra": "Dellyspa & Ned & Syo - Axophia",
+              "fansub": "Dellyspa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 136548,
+          "episode_number": 9,
+          "name": "Vampir Saldırısı",
+          "description": "Yūichirō ve arkadaşları vampir saldırısını püskürtmek için Shinjukuya gelirken, Gurenin partisi Mikaela ve Feridi görüp onlarla yüzleşmeye karar verir.",
+          "release_date": "2015-05-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/auR5zoEgQjTXK87sB0fpbrhwa9f.jpg",
+          "videos": [
+            {
+              "id": 618298,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/659d5fa4b304d628d5f54f69",
+              "extra": "Syo & Ned & DellySpa - Skip",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 680829,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66e02e9b9f75f44d71ace361",
+              "extra": "SP - Nilüf - Kanekabkz",
+              "fansub": "SP",
+              "fansub_id": 1355,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 79922,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4232033",
+              "extra": "Syo & Ned & DellySpa - Skip",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 680832,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5671091",
+              "extra": "SP - Nilüf - Kanekabkz",
+              "fansub": "SP",
+              "fansub_id": 1355,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 79921,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/1DeGybkLYpUeK67",
+              "extra": "Syo & Ned & DellySpa - Skip",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79916,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-8vf70b570qrj.html",
+              "extra": "Syo & Ned & DellySpa - Skip",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79920,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/lq668kxdddil.html",
+              "extra": "Syo & Ned & DellySpa - Skip",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79915,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/fd0tjs0nxnnu",
+              "extra": "Syo & Ned & DellySpa - Skip",
+              "fansub": "Syo",
+              "fansub_id": 753,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 136549,
+          "episode_number": 10,
+          "name": "Seçimin Sonuçları",
+          "description": "Yūichirō ve Shinoa diğerlerinden ayrılır ve yaralı bir askeri tedavi altına aldıktan sonra Gurenin partisine yardım etmek için yeniden bir araya gelirler. Bu vesileyle, Yūichirō ve Mikaela nihayet tekrar karşılaşır.",
+          "release_date": "2015-06-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/fiKvew3EK66XBRmnF4aT4hfJLqz.jpg",
+          "videos": [
+            {
+              "id": 618299,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/659d6009b304d628d5f54f6a",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 79930,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4232035",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79929,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/vQ9lDMeyVxuwMp",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79924,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-ar2ic66b3ist.html",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79928,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/gzb43d4bhv9e.html",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79923,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/x5izs5uexmb6",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 136550,
+          "episode_number": 11,
+          "name": "Çocukluk Arkadaşlarının Yeniden Birleşmesi",
+          "description": "Mikaela, Yūichirōyu yanına alarak kaçmaya çalışır. Bununla birlikte, arkadaşlarını vampirlerin insafına gören Yūichir from, ondan korkunç bir güç çıkınca kontrolden çıkar ve müttefikleri ve düşmanları aynı şekilde tehdit eder. Shinoa onu durdurmayı başarır ama bilinçsiz düşer.",
+          "release_date": "2015-06-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/rDPDIrSoJSTfEneuXnKqLNV0Gip.jpg",
+          "videos": [
+            {
+              "id": 618300,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/659d6064b304d628d5f54f6b",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 79938,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4232037",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79937,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/lxkBZJZGbpS7yy4",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79932,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-mymi8tmtxhgb.html",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79936,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/w7oerdgwp9oe.html",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79931,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/4ph7jya3aisa",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 136551,
+          "episode_number": 12,
+          "name": "Herkes bir günahkar",
+          "description": "Shinoa, Yunun hapındaki özel uyuşturucular hakkında Gurenle yüzleştiğinde Yu beş gündür komadadır. Ona gerçekten umursuyorsa Yunun uyanmasını beklemesini söyler. Yu, komasının yedinci gününde uyanır. Mikanın diğer vampirlerle geri çekildiğini öğrenir. Bütün arkadaşları toplandıktan sonra onlara teşekkür eder ve onlardan özür diler. Bölümün sonunda hem Yu hem de Mika diğerini kurtaracaklarına dair kendilerine söz verirler.",
+          "release_date": "2015-06-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7aoq0NX1sQLDqwxS6tlbWGVnER1.jpg",
+          "videos": [
+            {
+              "id": 618301,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/659d60c7b304d628d5f54f6c",
+              "extra": "DellySpa&Combusken23&Schwazy - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 79946,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4232039",
+              "extra": "DellySpa&Combusken23&Schwazy - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79945,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/gaMBMGrbezc3op",
+              "extra": "DellySpa&Combusken23&Schwazy - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79940,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-s6ozwhmeue6f.html",
+              "extra": "DellySpa&Combusken23&Schwazy - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79944,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/fpgdcijcrdw7.html",
+              "extra": "DellySpa&Combusken23&Schwazy - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79939,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/il1zqlba2fe7",
+              "extra": "DellySpa&Combusken23&Schwazy - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 211230,
+          "episode_number": 13,
+          "name": "OVA ",
+          "description": "",
+          "release_date": "2015-04-04T17:00:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 644677,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6654f6379a1e437d19bc91ec",
+              "extra": "Odono - Syo / www.puzzlesubs.com",
+              "fansub": "Odono",
+              "fansub_id": 557,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 644681,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5547603",
+              "extra": "Odono - Syo / www.puzzlesubs.com",
+              "fansub": "Odono",
+              "fansub_id": 557,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1489,
+      "season_number": 2,
+      "name": "Battle in Nagoya",
+      "episode_count": 16,
+      "episodes": [
+        {
+          "id": 136552,
+          "episode_number": 1,
+          "name": "İnsan dünyası",
+          "description": "Shinoa, Yuyu kütüphanede ziyaret etmeden önce Gurene karşı mücadele eder. Ona insanları vampire dönüştürdüğünü anlatıyor. Ardından, Kureto Hiragi Yuyu kendisine bir vampir casusu sorması için çağırırken Kimizuki ve Yoichiye gerçeği söylemesi için işkence yapar. Daha sonra Yu, Gurene bunu sorar ve Mikanın onun için de yararlı olup olmayacağını sorar. Sanguinemde Mika kana açlık çeker ve Ferid orada büyümesini durdurmayı önerir. Bir çocuk kanını Feride sunar ve Ferid çocuğun kanını içmesi için Mikayı baştan çıkarır, ancak Mika reddeder. Ferid daha sonra Mikayı Progenitor Konseyi toplantısına davet eder.",
+          "release_date": "2015-10-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/gtYtW26gfJbummUrdZpPHdYj2Sh.jpg",
+          "videos": [
+            {
+              "id": 622676,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65b66fc6b304d628d5f552f4",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 79974,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4232112",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79973,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/P3LW71KzvRt0ZO6",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79955,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/34142620300",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79968,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-erxe0wqzn79c.html",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79972,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/11eonjdzhyy3.html",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79967,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/ezevukc3pvyc",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 136553,
+          "episode_number": 2,
+          "name": "Karmaşık Bağlantılar",
+          "description": "Yoichi, bir saldırı ile beş atlıyı ortadan kaldırır ve Yu eğitiminin bir sonraki adımına başlar. Yu, zihninde Asuramaruya karşı savaşır ve arkadaş olmak isteyerek Asuramaruyu yener. Atalar Konseyi toplantısında Ferid, Shinjukudaki savaşı tartışır ve Mikaya Yunun dönüşümünü gösteren bir video sunar. Krul, Feride saldırır ve kasıtlı olarak ıskalar. Ferid, onu öldüremeyeceğini açıklıyor. Kimizuki, Kiseki-oya karşı savaşmakta zorlanır ve kız kardeşini öldürmesinin söylendiği anılarla yüzleşir. O özgürleşir ve Yunun kanla akraba olmamasına rağmen aile olan Mikaya olan duygularını hatırlayarak galip gelir. Kimizuki ve Yu, yeni tekniklerini sergiler ve Shinoa ve Mitsuba, üç çocuğun dosyalarının silindiğini öğrenir.",
+          "release_date": "2015-10-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/5UHXJ69YjFBAfmu8ADmDxDkOmGO.jpg",
+          "videos": [
+            {
+              "id": 389063,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6334a816d03cb090cb4c579a",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 80079,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4232434",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80078,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/BeqW0wZjj6Cya2o",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79956,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/30718822924",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80073,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-er6ex58hr2xu.html",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80077,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/0fbchr6vrgh7.html",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80071,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/mn2hbq09yvcj",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 136554,
+          "episode_number": 3,
+          "name": "İblis Ordusunun Hırsı",
+          "description": "Bir önceki bölümde Ferid Bathory ile iletişime geçen çocuk, haberci güvercin aracılığıyla Aoi Sanguya mektup göndererek Kuretoya iletir. Shinoa Ekibi toplanır ve Kureto Hiragi ve Guren Ichinose de aynı şeyi yapar. Kureto, vampirler bir ay içinde ana ordularını Japonyaya indirmeden önce Nagoyadaki on asil vampire saldırıp yok etme planını duyurur. Shinoa, Yunun Shinjukudaki savaş sırasında onu öldürmeye çalıştığını ve ekibin Gureni takip edip etmemeyi düşündüğünü açıklar. Sonunda, onu takip etmeye ve ailelerini korumak için politikalarını belirlemeye karar verirler. Bu sırada Mika, kanı için Krula saldırır. Sakinleştiğinde planlarını ona açıklar ve ona gizli bir görev verir. Shinoa, Gurene takımının eğitimdeki başarısı hakkında bilgi verir ve ona yeni emirler verir. Mika, Nagoyaya gitmek için diğer vampirlerle buluşur ve Kureto, Mirai Kimizuki üzerinde potansiyel olarak ölümcül deneyler yapılmasını emreder.",
+          "release_date": "2015-10-24T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2EfWvBHY194YxkVUoaSFrSHmydt.jpg",
+          "videos": [
+            {
+              "id": 389061,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6334a738d03cb090cb4c5799",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 80088,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4232435",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80087,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/aGA87ZlP87hxjv8",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79957,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/31198349836",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80082,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-lhpqrau00hdg.html",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80086,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/r2nqxpvh63za.html",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80080,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/v5tathvka33v",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 136555,
+          "episode_number": 4,
+          "name": "Ay Şeytanı Emirleri",
+          "description": "Shinoa ekibi geç geldiğinde, bu görevin Guren için ne kadar ciddi olduğunu anlarlar. Bunun pek çok kişinin öleceği imkansız bir görev olduğunu bilen Guren, duygularını bir kenara koyar ve adamlarına mutlaka hayatta kalmalarını değil, kazanmalarını emreder.",
+          "release_date": "2015-10-31T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cN9goWxEHuWguGVqR6q8m7Wyw5V.jpg",
+          "videos": [
+            {
+              "id": 389060,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6334a676d03cb090cb4c5798",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 80097,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4232439",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80096,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/2BB1xo7oZbuZd11",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79958,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/31546870284",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80091,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-foempxhb7p8e.html",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80095,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/9b7h44eawkn7.html",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80089,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/22k8zz02lpuv",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 136556,
+          "episode_number": 5,
+          "name": "Hayvancılık İsyanı",
+          "description": "Shinoa ekibi ve Narumi ekibi, görevlerini gerçekleştirmek için güçlerini birleştirir - On Beşinci Atası Lucal Weskerı öldürmek. Kimseyi kaybetmeden görevlerinde başarılı olurken, diğerleri o kadar şanslı değildi. Dokuz ekip başarısız oldu ve rehin alındı ​​...",
+          "release_date": "2015-11-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/3PLsKksQZBte7u8rNnW5Vk5rnWX.jpg",
+          "videos": [
+            {
+              "id": 389052,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6334a559d03cb090cb4c5797",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 80106,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4232441",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80105,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/zwgak1xke8tYMvG",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79959,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/31770544652",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80100,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-7byfmpze4i6n.html",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80104,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/w2npc8pez0x5.html",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80098,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/4gj0rtpuu73q",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 136557,
+          "episode_number": 6,
+          "name": "Adalet Kılıcı",
+          "description": "Shinoa ekibi, yoldaşlarını kaybetmenin çok mümkün olduğu gerçeğini yeniden öğrenir, ancak yas tutacak zaman yoktur. Rehineleri kurtarmaya gitmeleri gerekiyor. Ayrılmalarının hemen ardından Mika ve diğer vampirler de Nagoyaya varır.",
+          "release_date": "2015-11-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/vFGqMXuWL3LUMKaMtpj7Nzdz5sj.jpg",
+          "videos": [
+            {
+              "id": 389050,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6334a46ed03cb090cb4c5796",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 80115,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4232442",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80114,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/GJPVLDKYOotljo",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79960,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/32066112012",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80109,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-4g51wmg8ke43.html",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80113,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/loan5cpeehad.html",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80107,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/mqarazljyth6",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 136558,
+          "episode_number": 7,
+          "name": "Shinya ve Guren",
+          "description": "Guren, Shinoa ve Narumi ekipleri belediye binasına varır ve rehineleri görür. Bunun bir tuzak olduğunu bilerek, rehineleri kurtarmaya yine de karar verirler, ancak Guren ve Shinya, sadece ondan kaçmak için mücadele ederken Crowley ile kafalarını çok aşarlar.",
+          "release_date": "2015-11-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wEaBnZwGcxgPp2QvvbqnrhklXJ6.jpg",
+          "videos": [
+            {
+              "id": 389048,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6334a3a8d03cb090cb4c5795",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 80124,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4232443",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80123,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/1J9y4qa6lOuemwk",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79961,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/32389466636",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80118,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-covel1tpx59w.html",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80122,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/da3uwbdfij2d.html",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80116,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/n0z37n67oep2",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 136559,
+          "episode_number": 8,
+          "name": "Şeytanın Ninni",
+          "description": "Shinoanın ekibi Gureni kurtarmaya gider, ancak ne yazık ki zamanları tükenir. İsteksizce, onu geride bırakırlar ve geri çekilirler, ancak Yu kendini bunu yapamaz. Bunun yerine, Gureni kurtarmak için daha fazla Lanet Uyarıcı Hap alıyor.",
+          "release_date": "2015-11-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/z2bSCtLfpVRWoeYlSGOp8UcARpb.jpg",
+          "videos": [
+            {
+              "id": 622677,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65b6700bb304d628d5f552f5",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 80133,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4232444",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80132,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/rBlOx1x84xSGgl",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79962,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/36184263206",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80127,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-9thjjt9i2din.html",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80131,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/wf12borhm87x.html",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80125,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/37le5gf8ge72",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 136560,
+          "episode_number": 9,
+          "name": "Hain Müttefikler",
+          "description": "Yu, \"deneyi\" sayesinde mucizevi bir iyileşme sağlar ve bir kez daha Gureni kurtarmak için geri döner. Çok zorlayan Yu neredeyse bir iblis haline gelir ama Kimizuki onu zorla durdurur. Takım, Yuyu dışarı çıkarır ve güvenliğe doğru yola çıkar, ancak daha sonra Mika ile karşılaşır.",
+          "release_date": "2015-12-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/5FOjvSlHLkk4NckJrpmRPtVRDDA.jpg",
+          "videos": [
+            {
+              "id": 622678,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65b6703fb304d628d5f552f6",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 80142,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4232446",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80141,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/9X7942V9DQIZBW",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79963,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/36466068006",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80136,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-yia6jwygrm7f.html",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80140,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/59k2axxkw4on.html",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80134,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/cis2bzuff9e9",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 136561,
+          "episode_number": 10,
+          "name": "Yu ve Mika",
+          "description": "Yu ve Mika nihayet yeniden bir araya gelir, ancak Mikanın Demon Company ile savaşırken aldığı yaralar hayatını tehdit eder. Mikayı hayatta tutmaya kararlı olan Yu, Mikayı kanını içmeye ikna etmeye çalışır ... Bu, Mikanın gerçek bir vampir olacağı anlamına gelse bile.",
+          "release_date": "2015-12-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9syT0QB9tRedsz6dKEiZilxKa5Z.jpg",
+          "videos": [
+            {
+              "id": 622679,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65b67088b304d628d5f552f8",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 80150,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4232447",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80149,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/d8pMQwwbwzc9eo",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 79964,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/36846766630",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80144,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-c4078zjg6jz8.html",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80148,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/2xn6fdg1ogjz.html",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 80143,
+              "player": "MYSTREAM",
+              "url": "https://embed.mystream.to/sz7a75d4wcnt",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 136562,
+          "episode_number": 11,
+          "name": "Kibirli aşk",
+          "description": "Moon Demon Companyden kurtulanlar buluşma noktasına gelirler, ancak emirlerinin \"hazır\" olduğunu öğrenirler. Öfkeli, Kureto ortaya çıktığında Gureni kurtarma emirlerini görmezden gelmeye karar verirler. Görünüşe göre Kuretonun gündeminde başka bir şey var.",
+          "release_date": "2015-12-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ArS5yJRkvUMNnB3aur3OTCEx8WS.jpg",
+          "videos": [
+            {
+              "id": 377275,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632444ce1b4a30bbdf51f6c3",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 274727,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4746626",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 79965,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/37156162086",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 274691,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/10Ees4S1VreHJ4nKkKFFiSoetpubui3Fb/preview",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 136563,
+          "episode_number": 12,
+          "name": "Sonun Serafı",
+          "description": "Kuretonun koz kartı, Kimizukinin küçük kız kardeşi Mirai ve başka bir End of the End test konusu oldu. Japon İmparatorluk İblis Ordusunu durdurmak için Yunun, meleğin güçlerinden yararlanmak için iç \"trompetine\" ulaşmaktan başka seçeneği yoktur.",
+          "release_date": "2015-12-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zmFC1hhzOrHTL6nTV003CsCjjIy.jpg",
+          "videos": [
+            {
+              "id": 377272,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632444561b4a30bbdf51f6c0",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 274736,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4746637",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 79966,
+              "player": "ODNO",
+              "url": "https://odnoklassniki.ru/videoembed/37713152550",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 274692,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/10G8eaF2BFoah5OHzyfofNK1D26Amm8wM/preview",
+              "extra": "DellySpa - Syo",
+              "fansub": "DellySpa",
+              "fansub_id": 1351,
+              "quality": null,
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 211231,
+          "episode_number": 13,
+          "name": "OVA",
+          "description": "",
+          "release_date": "2015-01-01T18:22:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 644683,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6654fcd09a1e437d19bc91ee",
+              "extra": "www.fb.com/arcadiafansub - www.arcadiafansub.com",
+              "fansub": "-",
+              "fansub_id": 211,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 644687,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5547631",
+              "extra": "www.fb.com/arcadiafansub - www.arcadiafansub.com",
+              "fansub": "-",
+              "fansub_id": 211,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 211232,
+          "episode_number": 14,
+          "name": "OVA",
+          "description": "",
+          "release_date": "2015-02-22T07:11:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 644688,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6654fd4f9a1e437d19bc91ef",
+              "extra": "www.fb.com/arcadiafansub - www.arcadiafansub.com",
+              "fansub": "-",
+              "fansub_id": 211,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 644692,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5547633",
+              "extra": "www.fb.com/arcadiafansub - www.arcadiafansub.com",
+              "fansub": "-",
+              "fansub_id": 211,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 211233,
+          "episode_number": 15,
+          "name": "OVA",
+          "description": "",
+          "release_date": "2015-11-11T18:22:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 644693,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6654fdcc9a1e437d19bc91f0",
+              "extra": "www.fb.com/arcadiafansub - www.arcadiafansub.com",
+              "fansub": "-",
+              "fansub_id": 211,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 644697,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5547635",
+              "extra": "www.fb.com/arcadiafansub - www.arcadiafansub.com",
+              "fansub": "-",
+              "fansub_id": 211,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 211234,
+          "episode_number": 16,
+          "name": "OVA",
+          "description": "",
+          "release_date": "2015-11-11T20:22:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 644698,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6654fe499a1e437d19bc91f1",
+              "extra": "www.fb.com/arcadiafansub - www.arcadiafansub.com",
+              "fansub": "-",
+              "fansub_id": 211,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 644702,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5547637",
+              "extra": "www.fb.com/arcadiafansub - www.arcadiafansub.com",
+              "fansub": "-",
+              "fansub_id": 211,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5053,
+      "season_number": 3,
+      "name": "Özel Bölümler",
+      "episode_count": 9,
+      "episodes": [
+        {
+          "id": 211235,
+          "episode_number": 1,
+          "name": "Owari no Seraph: Owaranai Seraph",
+          "description": "",
+          "release_date": "2015-02-22T20:22:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 644703,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6654fec89a1e437d19bc91f2",
+              "extra": "Swagnemite / www.arcadiafansub.com",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 644707,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5547639",
+              "extra": "Swagnemite / www.arcadiafansub.com",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 211236,
+          "episode_number": 2,
+          "name": "Owari no Seraph: Owaranai Seraph",
+          "description": "",
+          "release_date": "2015-02-22T20:22:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 644727,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6654ff409a1e437d19bc91f3",
+              "extra": "Swagnemite / www.arcadiafansub.com",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 644731,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5547641",
+              "extra": "Swagnemite / www.arcadiafansub.com",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 211237,
+          "episode_number": 3,
+          "name": "Owari no Seraph: Owaranai Seraph",
+          "description": "",
+          "release_date": "2015-02-22T20:22:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 644732,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6654ffb69a1e437d19bc91f4",
+              "extra": "Swagnemite / www.arcadiafansub.com",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 644736,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5547642",
+              "extra": "Swagnemite / www.arcadiafansub.com",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 211238,
+          "episode_number": 4,
+          "name": "Owari no Seraph: Owaranai Seraph",
+          "description": "",
+          "release_date": "2015-02-22T20:22:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 644737,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/665500339a1e437d19bc91f5",
+              "extra": "Swagnemite / www.arcadiafansub.com",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 644741,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5547644",
+              "extra": "Swagnemite / www.arcadiafansub.com",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 211239,
+          "episode_number": 5,
+          "name": "Owari no Seraph: Owaranai Seraph",
+          "description": "",
+          "release_date": "2015-02-22T20:22:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 644742,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/665500b69a1e437d19bc91f6",
+              "extra": "Swagnemite / www.arcadiafansub.com",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 644746,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5547645",
+              "extra": "Swagnemite / www.arcadiafansub.com",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 211240,
+          "episode_number": 6,
+          "name": "Owari no Seraph: Owaranai Seraph",
+          "description": "",
+          "release_date": "2015-02-22T20:22:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 644747,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/665501589a1e437d19bc91f7",
+              "extra": "Swagnemite / www.arcadiafansub.com",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 644751,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5547646",
+              "extra": "Swagnemite / www.arcadiafansub.com",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 211241,
+          "episode_number": 7,
+          "name": "Owari no Seraph: Owaranai Seraph",
+          "description": "",
+          "release_date": "2015-02-22T20:22:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 644752,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/665501e49a1e437d19bc91f8",
+              "extra": "Swagnemite / www.arcadiafansub.com",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 644756,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5547649",
+              "extra": "Swagnemite / www.arcadiafansub.com",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 211242,
+          "episode_number": 8,
+          "name": "Owari no Seraph: Owaranai Seraph",
+          "description": "",
+          "release_date": "2015-02-22T20:22:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 644757,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6655026a9a1e437d19bc91f9",
+              "extra": "Swagnemite / www.arcadiafansub.com",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 644761,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5547651",
+              "extra": "Swagnemite / www.arcadiafansub.com",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 211243,
+          "episode_number": 9,
+          "name": "Owari no Seraph: Owaranai Seraph",
+          "description": "",
+          "release_date": "2015-02-22T20:22:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 644762,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/665502ef9a1e437d19bc91fa",
+              "extra": "Swagnemite / www.arcadiafansub.com",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 644766,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5547652",
+              "extra": "Swagnemite / www.arcadiafansub.com",
+              "fansub": "Swagnemite",
+              "fansub_id": 773,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

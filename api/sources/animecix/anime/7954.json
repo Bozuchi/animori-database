@@ -1,0 +1,48 @@
+{
+  "id": 7954,
+  "name": "Girls & Panzer Movie ",
+  "name_english": "Girls und Panzer: The Movie",
+  "name_romanji": "Girls und Panzer: The Movie",
+  "original_title": "ガールズ&パンツァー 劇場版",
+  "type": "movie",
+  "title_type": "movie",
+  "year": 2015,
+  "release_date": "2015-11-21",
+  "description": "Girls und Panzer animesine ait sinema filmidir.",
+  "poster": "https://image.tmdb.org/t/p/original/3XyZrcTWve9xBmvcCTWqfr5Viy7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/z3gjCf4uwToqd1tkDyqtZ6zTcQe.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    16,
+    6,
+    4
+  ],
+  "tmdb_id": 357405,
+  "mal_id": 32740,
+  "anilist_id": 0,
+  "imdb_id": "tt5284414",
+  "season_count": 0,
+  "videos": [
+    {
+      "id": 633219,
+      "player": "TAU",
+      "url": "https://tau-video.xyz/embed/65ff287e926a0f406b38affa",
+      "extra": "Türkanime",
+      "fansub": "Türkanime",
+      "fansub_id": 194,
+      "quality": "regular",
+      "language": "tr"
+    },
+    {
+      "id": 581545,
+      "player": "YOUTUBE",
+      "url": "https://youtube.com/embed/c991IDTFr0g",
+      "extra": null,
+      "fansub": null,
+      "fansub_id": null,
+      "quality": null,
+      "language": "en"
+    }
+  ]
+}

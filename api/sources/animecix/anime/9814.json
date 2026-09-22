@@ -1,0 +1,126 @@
+{
+  "id": 9814,
+  "name": "Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi",
+  "name_english": "The Ancient Magus' Bride: The Boy from the West and the Knight of the Blue Storm",
+  "name_romanji": "The Ancient Magus' Bride: The Boy from the West and the Knight of the Blue Storm",
+  "original_title": "魔法使いの嫁 西の少年と青嵐の騎士",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2021,
+  "release_date": "2021-09-10",
+  "description": "Hikaye Cartaphilus uykuya dalmadan ve Chise akademiye başlamadan öncesinde geçmektedir.\nElias ve arkadaşlarının, Chise’nin yeni okul forması hakkında konuştukları sıradan bir günün ortasında Spriggan’ın yanında ürkütücü bir at ile “Vahşi Av’ın bu kez ortaya çıkış şekli normal değil.” diyerek belirmesi ile olaylar başlar.\n Gabriel Londra’dan taşınmış sıradan bir gençtir. Arkadaşlarından uzaklaşmaktan, yabancı bir ortama girmiş olmaktan ve diğer her şeyden sıkılmış durumdadır. Bir gün pencereden dışarı baktığında mor bir duman görür ve merakla dumanın olduğu yere gider. Böylece dünyası, büyücülerin dünyası ile karışır.",
+  "poster": "https://image.tmdb.org/t/p/original/dVBxPJVLLcYOKVdHWYj5lPsKrGv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wsaiduIOtyhlySRp3tg5tCYcw3m.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    9,
+    6,
+    2
+  ],
+  "tmdb_id": 120471,
+  "mal_id": 48438,
+  "anilist_id": 0,
+  "imdb_id": "tt15400722",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 3479,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 3,
+      "episodes": [
+        {
+          "id": 168902,
+          "episode_number": 1,
+          "name": "Bölüm 1",
+          "description": "",
+          "release_date": "2021-09-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/6Jumxzna3roPwCzwZi037A72zxu.jpg",
+          "videos": [
+            {
+              "id": 518324,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6459503eda9db4a7c5198876",
+              "extra": "Çeviri: ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 518327,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5130333",
+              "extra": "Çeviri: ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 168903,
+          "episode_number": 2,
+          "name": "Bölüm 2",
+          "description": "",
+          "release_date": "2022-03-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/c0aG1HyeXMGtGT2ws7TZJ77DFoe.jpg",
+          "videos": [
+            {
+              "id": 518337,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6459518eda9db4a7c5198877",
+              "extra": "Çeviri: ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 518340,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5130344",
+              "extra": "Çeviri: ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 168904,
+          "episode_number": 3,
+          "name": "3. Bölüm",
+          "description": "",
+          "release_date": "2022-09-10T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/6b6XAechDGMK4Bu3Fz3bgZXH4mX.jpg",
+          "videos": [
+            {
+              "id": 518342,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/645952fcda9db4a7c5198878",
+              "extra": "Çeviri: ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 518345,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5130360",
+              "extra": "Çeviri: ImperialLion",
+              "fansub": "ImperialLion",
+              "fansub_id": 738,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

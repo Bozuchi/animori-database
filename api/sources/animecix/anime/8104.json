@@ -1,0 +1,67 @@
+{
+  "id": 8104,
+  "name": "Doukyuusei (Movie)",
+  "name_english": "Dou kyu sei – Classmates",
+  "name_romanji": "Dou kyu sei – Classmates",
+  "original_title": "同級生",
+  "type": "movie",
+  "title_type": "movie",
+  "year": 2016,
+  "release_date": "2016-02-20",
+  "description": "Rihito Sajou, liseye giriş sınavında tam puanlar almış olan bir onur öğrencisidir. Hikaru Kusakabe ise grubuyla birlikte gitar çalan ve kızlar arasında popüler olan biridir. Daha önce yolları hiç kesişmemiştir. Ancak bir gün Hikaru Sajou'ya, yakında yapılacak olan koro festivaline hazırlanması için yardım edebileceğini söyler ve böylece konuşmaya başlarlar.",
+  "poster": "https://image.tmdb.org/t/p/original/cIfRCA5wEvj9tApca4UDUagQEiM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3RMLbSEXOn1CzLoNT7xFeLfdxhq.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    20
+  ],
+  "tmdb_id": 372754,
+  "mal_id": 30346,
+  "anilist_id": 0,
+  "imdb_id": "tt5526028",
+  "season_count": 0,
+  "videos": [
+    {
+      "id": 570365,
+      "player": "TAU",
+      "url": "https://tau-video.xyz/embed/64c529d04bf660c92bf1a1e9",
+      "extra": null,
+      "fansub": null,
+      "fansub_id": null,
+      "quality": "regular",
+      "language": "tr"
+    },
+    {
+      "id": 570368,
+      "player": "SIBNET",
+      "url": "https://video.sibnet.ru/shell.php?videoid=5211384",
+      "extra": null,
+      "fansub": null,
+      "fansub_id": null,
+      "quality": "regular",
+      "language": "tr"
+    },
+    {
+      "id": 576956,
+      "player": "YOUTUBE",
+      "url": "https://youtube.com/embed/R8KZ9WOTU78",
+      "extra": null,
+      "fansub": null,
+      "fansub_id": null,
+      "quality": null,
+      "language": "en"
+    },
+    {
+      "id": 576955,
+      "player": "YOUTUBE",
+      "url": "https://youtube.com/embed/wFQTncSyukA",
+      "extra": null,
+      "fansub": null,
+      "fansub_id": null,
+      "quality": null,
+      "language": "en"
+    }
+  ]
+}

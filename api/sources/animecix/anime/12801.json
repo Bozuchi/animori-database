@@ -1,0 +1,945 @@
+{
+  "id": 12801,
+  "name": "Ikoku Nikki",
+  "name_english": "Journal with Witch",
+  "name_romanji": "Ikoku Nikki",
+  "original_title": "違国日記",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2026,
+  "release_date": "2026-01-04",
+  "description": "İnzivaya çekilmiş romancı Makio Koudai her zaman kitapların eşlik etmesini tercih etmiştir, ancak kız kardeşi ve eniştesi vefat edince Makio beklenmedik bir şekilde 15 yaşındaki yeğeni Asa Takumi'nin koruması olur. Keder, çatışan kişilikler ve birlikte yaşamanın zorluklarıyla başa çıkarken, ikisi yavaş yavaş birbirlerine kalplerini açar ve sıcaklık, anlayış ve ailenin anlamını keşfederler.",
+  "poster": "https://image.tmdb.org/t/p/original/g6lhU9a8YOWKJyfJ7J2aajzKm4k.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/6UVPsuiE5LsM7SPETJTQ1Qi3f1J.jpg",
+  "rating": 8,
+  "vote_count": 1,
+  "genres": [
+    3,
+    5
+  ],
+  "tmdb_id": 253476,
+  "mal_id": 58788,
+  "anilist_id": null,
+  "imdb_id": "tt32336365",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 6013,
+      "season_number": 1,
+      "name": null,
+      "episode_count": 13,
+      "episodes": [
+        {
+          "id": 256836,
+          "episode_number": 1,
+          "name": null,
+          "description": null,
+          "release_date": "2026-01-04T18:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wJlQMdd9zpmt1VFyLZN6Nsg0BNe.jpg",
+          "videos": [
+            {
+              "id": 739957,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/695ab615a09ea30ace4838c0",
+              "extra": "Çeviri: Mereo / Encode: Kingsama",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 742485,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697a442ffd4c16eef7c2402a",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 739958,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/r8jrkzyr7u4k",
+              "extra": "Çeviri: Mereo / Encode: Kingsama",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 739959,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-qj52ba1vhsux.html",
+              "extra": "Çeviri: Mereo / Encode: Kingsama",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 742486,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/mdyxn1e2s0mw",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 742487,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-opjtln14yilo.html",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 261588,
+          "episode_number": 2,
+          "name": null,
+          "description": null,
+          "release_date": "2026-01-11T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7zv0JLvm9PhW3QLrP2VK8K0x2bc.jpg",
+          "videos": [
+            {
+              "id": 740605,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6963f54afaa4f0fe3c146111",
+              "extra": "Çeviri: Mereo / Encode: Zehif_06",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 742488,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697a44cbe4b357250ada928b",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 740606,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/cvjd4djvpvkd",
+              "extra": "Çeviri: Mereo / Encode: Zehif_06",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 740607,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ythpitz9fnpv.html",
+              "extra": "Çeviri: Mereo / Encode: Zehif_06",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 742489,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/jlx9rqc0wt57",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 742490,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-omlmzxusw7y8.html",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 261648,
+          "episode_number": 3,
+          "name": null,
+          "description": null,
+          "release_date": "2026-01-18T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/dHBmDcrOX7RTZAhy0nD7DiUl9o0.jpg",
+          "videos": [
+            {
+              "id": 741491,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/696d2453faa4f0fe3c146133",
+              "extra": "Çeviri: Mereo Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 742491,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697a4564e4b357250ada928c",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 741492,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/marfol3y486u",
+              "extra": "Çeviri: Mereo Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 741493,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ikp8emk2qfnc.html",
+              "extra": "Çeviri: Mereo Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 742492,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/hh0hbtphluot",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 742493,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-fh2s8xdns78k.html",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 261649,
+          "episode_number": 4,
+          "name": null,
+          "description": null,
+          "release_date": "2026-01-25T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7SIyDuiKilS3koJd1UycvSKs1Qn.jpg",
+          "videos": [
+            {
+              "id": 742136,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69766ce3fd4c16eef7c24018",
+              "extra": "Çeviri: Mereo Encode: Perpo",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 742494,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697a45f9a09ea30ace483933",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 742137,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/r5reeyaba8tk",
+              "extra": "Çeviri: Mereo Encode: Perpo",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 742138,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-jbtnfjvd0pbr.html",
+              "extra": "Çeviri: Mereo Encode: Perpo",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 742495,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/pdgr1g929bes",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 742496,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-cj0yllivtk8h.html",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 261650,
+          "episode_number": 5,
+          "name": null,
+          "description": null,
+          "release_date": "2026-02-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/m1nyljiVnfygsdTEhVY5m7v2SS1.jpg",
+          "videos": [
+            {
+              "id": 743371,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/697fa75ce4b357250ada92ae",
+              "extra": "Mereo - Karamak-Sama",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 744295,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6983f710f8d39f6943842a49",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743372,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/64gddd9yxztf",
+              "extra": "Mereo - Karamak-Sama",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 743373,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-z19vg5akn2ly.html",
+              "extra": "Mereo - Karamak-Sama",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 744296,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/2c7nkekzb13q",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 744297,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-f6hsklnitqtl.html",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 261651,
+          "episode_number": 6,
+          "name": null,
+          "description": null,
+          "release_date": "2026-02-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sAaiv1LofEI29Q4ipbnX8ghX9Lm.jpg",
+          "videos": [
+            {
+              "id": 744660,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6988e29fa09ea30ace48398a",
+              "extra": "ç:Mereo e:Zehif_06 - www.instagram.com/codeanimee",
+              "fansub": "ç:Mereo e:Zehif_06 -",
+              "fansub_id": 3158,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 744936,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/698d4c76fd4c16eef7c2408f",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 744661,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/omv4xaysdk2p",
+              "extra": "ç:Mereo e:Zehif_06 - www.instagram.com/codeanimee",
+              "fansub": "ç:Mereo e:Zehif_06 -",
+              "fansub_id": 3158,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 744662,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-yu27wifbgbkk.html",
+              "extra": "ç:Mereo e:Zehif_06 - www.instagram.com/codeanimee",
+              "fansub": "ç:Mereo e:Zehif_06 -",
+              "fansub_id": 3158,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 744937,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/44etindgt8d6",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 744938,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-3kndhqyub9ie.html",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 261652,
+          "episode_number": 7,
+          "name": null,
+          "description": null,
+          "release_date": "2026-02-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/iqTk5557iUQVJffhXRWTyqwNMfx.jpg",
+          "videos": [
+            {
+              "id": 745108,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69921e13c0da000447f8c9ff",
+              "extra": "Ç: Mereo R: Soonyi E: Karamak-Sama - www.instagram.com/codeanimee",
+              "fansub": "Ç: Mereo R: Soonyi E: Karama",
+              "fansub_id": 3159,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 745465,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6999b6b5140a125ba83715ce",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 745109,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/6ior9fwvex1b",
+              "extra": "Ç: Mereo R: Soonyi E: Karamak-Sama - www.instagram.com/codeanimee",
+              "fansub": "Ç: Mereo R: Soonyi E: Karama",
+              "fansub_id": 3159,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 745110,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-36r3denlts22.html",
+              "extra": "Ç: Mereo R: Soonyi E: Karamak-Sama - www.instagram.com/codeanimee",
+              "fansub": "Ç: Mereo R: Soonyi E: Karama",
+              "fansub_id": 3159,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 745466,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/9n2zrlhq2r11",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 745467,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-yw7rr698p99l.html",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 261653,
+          "episode_number": 8,
+          "name": null,
+          "description": null,
+          "release_date": "2026-02-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/piM5rUCi4sUDsWJ9yhQWCOg1DBK.jpg",
+          "videos": [
+            {
+              "id": 745659,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/699b51e35d4202aa1736c038",
+              "extra": "Mereo - Karamak-Sama",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 745791,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/699ded72b067130deed1bfb1",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 745660,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/p38b5hi7pkhv",
+              "extra": "Mereo - Karamak-Sama",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 745661,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-5n7zmzdohp1e.html",
+              "extra": "Mereo - Karamak-Sama",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 745792,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/uc287iuntyp8",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 745793,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ctkacvldjz9m.html",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 261654,
+          "episode_number": 9,
+          "name": null,
+          "description": null,
+          "release_date": "2026-03-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/zrmoTG5hOkveSkjlNzphjjjWnGw.jpg",
+          "videos": [
+            {
+              "id": 746160,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69a4972b5d4202aa1736c04a",
+              "extra": "Çevirmen: Mereo Encoder: Joeyat -  www.instagram.com/codeanimee",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 746521,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69a9881c5d4202aa1736c055",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 746161,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ez49ys6mf683",
+              "extra": "Çevirmen: Mereo Encoder: Joeyat -  www.instagram.com/codeanimee",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 746162,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-yg9fl7hqf92v.html",
+              "extra": "Çevirmen: Mereo Encoder: Joeyat -  www.instagram.com/codeanimee",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 746522,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/qxpjik13gpn4",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 746523,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-hpt4tokwefjm.html",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 261655,
+          "episode_number": 10,
+          "name": null,
+          "description": null,
+          "release_date": "2026-03-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pUdp3YkIgLyK9BpQth37XphVwQ1.jpg",
+          "videos": [
+            {
+              "id": 746745,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69ade37e98be3e47efffd79f",
+              "extra": "Mereo - ibo vi britannia",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747327,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69b72911b923b3ffeb12b560",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 746746,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/2xjbdmhyewgx",
+              "extra": "Mereo - ibo vi britannia",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 746747,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-a3t3l1k5clql.html",
+              "extra": "Mereo - ibo vi britannia",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747328,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/5fq4dqr9j780",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747329,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-gx12my37cctt.html",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 261656,
+          "episode_number": 11,
+          "name": null,
+          "description": null,
+          "release_date": "2026-03-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/3VOC07baIrsbRetD49De3zzxKUl.jpg",
+          "videos": [
+            {
+              "id": 747321,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69b718edcb8083ded340b934",
+              "extra": "Çeviri: Mereo Encode: Perpo",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747760,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69bc1ad1b923b3ffeb12b573",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747322,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/hzq6aql7wqce",
+              "extra": "Çeviri: Mereo Encode: Perpo",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747323,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-wkwd6cgh6zlf.html",
+              "extra": "Çeviri: Mereo Encode: Perpo",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747761,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/r5bvmgsiewkj",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747762,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-sjtxjj5xwdlm.html",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 261657,
+          "episode_number": 12,
+          "name": null,
+          "description": null,
+          "release_date": "2026-03-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/yQt0k8Ek5oK3kkE11tF3orP2zP1.jpg",
+          "videos": [
+            {
+              "id": 747904,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69c043715d4202aa1736c08c",
+              "extra": "Çeviri: Mereo Redakte: Perpo Encode: Perpo",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748468,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69c9943098be3e47efffd7dd",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747905,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/iou02ioy9raj",
+              "extra": "Çeviri: Mereo Redakte: Perpo Encode: Perpo",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 747906,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-mvt0yq76bw4e.html",
+              "extra": "Çeviri: Mereo Redakte: Perpo Encode: Perpo",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748469,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/dmjjpdqvzda3",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748470,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-gvr6mm6mnx60.html",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 261658,
+          "episode_number": 13,
+          "name": null,
+          "description": null,
+          "release_date": "2026-03-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/kBO7AcNb2LMQQMgDUQGKzaD4DrH.jpg",
+          "videos": [
+            {
+              "id": 748462,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69c98f155d4202aa1736c0a4",
+              "extra": "Çeviri: Mereo Encode: Perpo",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748516,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69cb0b97140a125ba837165b",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748463,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/bg6ffjmmefbc",
+              "extra": "Çeviri: Mereo Encode: Perpo",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748464,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-hrfk2lxjibmy.html",
+              "extra": "Çeviri: Mereo Encode: Perpo",
+              "fansub": "Mereo",
+              "fansub_id": 254,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748517,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/90h4p4wegs86",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 748518,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ku66ctvfdp1k.html",
+              "extra": "1456ha",
+              "fansub": "1456ha",
+              "fansub_id": 903,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

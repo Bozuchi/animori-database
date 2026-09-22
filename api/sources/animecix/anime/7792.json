@@ -1,0 +1,803 @@
+{
+  "id": 7792,
+  "name": "Berserk",
+  "name_english": "Berserk",
+  "name_romanji": "Berserk",
+  "original_title": "ベルセルク",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2016,
+  "release_date": "2016-07-01",
+  "description": "Guts, bir yandan amansız takibini sürdüren şeytani güçlerden kendisi ve kadınını korumak için bir sığınak ararken diğer yandan da kendisine \"bahşedilen\" damganın kimler tarafından yapıldığını öğrenmeye ve onlara kin beslemeye devam etmektedir. Bu yeni proje, orijinal animenin ilk ve son bölümlerinde kısaca bahsedilen Guts'ın \"Kara Kılıç Ustası\" hikâyesini detaylı olarak bizlere sunacak.",
+  "poster": "https://image.tmdb.org/t/p/original/kN0Nca1Deq0iK1AK5RtAiohWhZ9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/Ao3W7lKGQAEbhuqx015nWrwhDyi.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    9,
+    6,
+    1,
+    2
+  ],
+  "tmdb_id": 66053,
+  "mal_id": 32379,
+  "anilist_id": 0,
+  "imdb_id": "tt5847454",
+  "season_count": 3,
+  "seasons": [
+    {
+      "id": 1397,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 132772,
+          "episode_number": 1,
+          "name": "The Branded Swordsman",
+          "description": "Into a tavern walks a man with a massive sword, where he encounters a caged elf being bullied by grown men. Thus begins the strange partnership between the elf, Puck, and the swordsman, Guts.",
+          "release_date": "2016-07-01T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8J13wnvdlkrc1pkTpLmiAwUEE0P.jpg",
+          "videos": [
+            {
+              "id": 630995,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65edf872926a0f406b38af4d",
+              "extra": "Ruben_Yosef - TheUmi - NatsuiReitsu",
+              "fansub": "Ruben_Yosef",
+              "fansub_id": 715,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630999,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5463448",
+              "extra": "Ruben_Yosef - TheUmi - NatsuiReitsu",
+              "fansub": "Ruben_Yosef",
+              "fansub_id": 715,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 132773,
+          "episode_number": 2,
+          "name": "The Holy Iron Chain Knights",
+          "description": "Guts is still coming to terms with his fateful encounter with the monk and his daughter when he is confronted by the Holy Iron Chain Knights. Their commander berates him about his many sins is declares he is to be brought to the Holy See...",
+          "release_date": "2016-07-08T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/iZXBOUJECIJ9wj7hLhXjneeWFgu.jpg",
+          "videos": [
+            {
+              "id": 630877,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65edc7ea926a0f406b38af41",
+              "extra": "Ruben_Yosef - TheUmi - NatsuiReitsu",
+              "fansub": "Ruben_Yosef",
+              "fansub_id": 715,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630881,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5463147",
+              "extra": "Ruben_Yosef - TheUmi - NatsuiReitsu",
+              "fansub": "Ruben_Yosef",
+              "fansub_id": 715,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 132774,
+          "episode_number": 3,
+          "name": "Night of Miracles",
+          "description": "Guts and Puck are taken aback by Farnese's inability to see the elf. However, Farnese's refusal to accept anything beyond what she considers to be real in her world is about to be sorely tested.",
+          "release_date": "2016-07-15T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/15D8JFOc4YgFEEuvNKIbLCoRtYU.jpg",
+          "videos": [
+            {
+              "id": 630882,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65edc9ab926a0f406b38af42",
+              "extra": "Ruben_Yosef - TheUmi - NatsuiReitsu",
+              "fansub": "Ruben_Yosef",
+              "fansub_id": 715,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630886,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5463159",
+              "extra": "Ruben_Yosef - TheUmi - NatsuiReitsu",
+              "fansub": "Ruben_Yosef",
+              "fansub_id": 715,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 132775,
+          "episode_number": 4,
+          "name": "Revelations",
+          "description": "Guts returns to a place he'd left two years ago to reconnect with old friends, but finds that someone he holds most dear has vanished. Guts tries to lay blame, but he is not entirely innocent.",
+          "release_date": "2016-07-22T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/joAhYhqeQSvuQARyhHF2Cebf2Wh.jpg",
+          "videos": [
+            {
+              "id": 630887,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65edcb58926a0f406b38af43",
+              "extra": "Ruben_Yosef - TheUmi - NatsuiReitsu",
+              "fansub": "Ruben_Yosef",
+              "fansub_id": 715,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630891,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5463176",
+              "extra": "Ruben_Yosef - TheUmi - NatsuiReitsu",
+              "fansub": "Ruben_Yosef",
+              "fansub_id": 715,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 132776,
+          "episode_number": 5,
+          "name": "Mahkumiyet Kulesi",
+          "description": "Cascayı bulmak isteyen Guts, İnanç Kulesine doğru yolculuğuna devam eder. Bu arada Farnese, Kutsal Makama hizmet edenlerin işlediği anlatılamaz dehşetlere tanıklık ederek zaten oradadır.",
+          "release_date": "2016-07-29T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bH0ATkvUqs7nc1PkjpsBcsijiXb.jpg",
+          "videos": [
+            {
+              "id": 630892,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65edcd4f926a0f406b38af44",
+              "extra": "Ruben_Yosef - TheUmi - NatsuiReitsu",
+              "fansub": "Ruben_Yosef",
+              "fansub_id": 715,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630896,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5463199",
+              "extra": "Ruben_Yosef - TheUmi - NatsuiReitsu",
+              "fansub": "Ruben_Yosef",
+              "fansub_id": 715,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 132777,
+          "episode_number": 6,
+          "name": "Bir Gece Ziyafeti: Tehlikede Yanan",
+          "description": "Mozgus ve adamları kafirler için cadı avına devam ederken, Farnese yardım edemez ama bir şüphe duyar. Bu arada, Guts beklenmedik bir şekilde kötü haberler veren tanıdık bir yüzle karşılaşır.",
+          "release_date": "2016-08-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/o9fU5WyKNKwdMtopQmkLBGOTk0k.jpg",
+          "videos": [
+            {
+              "id": 630897,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65edcf14926a0f406b38af45",
+              "extra": "Adige - TheUmi - NatsuiReitsu",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630901,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5463219",
+              "extra": "Adige - TheUmi - NatsuiReitsu",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 132778,
+          "episode_number": 7,
+          "name": "Kara Cadı",
+          "description": "Cesaret nihayet Cascayı bulmaya yaklaştı, ancak Casca kafirlerin dikkatini çekti ve Kutsal Demir Zincir Şövalyeleri de kafirlerin bulunduğu yere geliyorlar ...",
+          "release_date": "2016-08-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/1GJbctpUNSp6PFXApObJIlooU3p.jpg",
+          "videos": [
+            {
+              "id": 630902,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65edd0c099775ec084000816",
+              "extra": "Adige - TheUmi - NatsuiReitsu",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630906,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5463246",
+              "extra": "Adige - TheUmi - NatsuiReitsu",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 132779,
+          "episode_number": 8,
+          "name": "Kötülüğün Yuvasında Yeniden Birleşme",
+          "description": "",
+          "release_date": "2016-08-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/93XEfHm8GKbW9iXeVSLViaDJRxG.jpg",
+          "videos": [
+            {
+              "id": 630907,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65edd2da926a0f406b38af46",
+              "extra": "Adige - TheUmi - NatsuiReitsu",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630911,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5463265",
+              "extra": "Adige - TheUmi - NatsuiReitsu",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 132780,
+          "episode_number": 9,
+          "name": "Ölülerin Kan Akışı",
+          "description": "",
+          "release_date": "2016-08-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ob9nSpLiCaOtsfIK4dsBDo2siO4.jpg",
+          "videos": [
+            {
+              "id": 630912,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65edd50099775ec084000817",
+              "extra": "Adige - TheUmi - NatsuiReitsu",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630916,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5463282",
+              "extra": "Adige - TheUmi - NatsuiReitsu",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 132781,
+          "episode_number": 10,
+          "name": "Cehennemin melekleri",
+          "description": "",
+          "release_date": "2016-09-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/5rm1QYlhz0MmwEgTfdE2yWrxGBe.jpg",
+          "videos": [
+            {
+              "id": 630917,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65edd6c7926a0f406b38af47",
+              "extra": "Adige - TheUmi - NatsuiReitsu",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630921,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5463302",
+              "extra": "Adige - TheUmi - NatsuiReitsu",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 132782,
+          "episode_number": 11,
+          "name": "Fikirlerin Gölgeleri",
+          "description": "",
+          "release_date": "2016-09-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/nur0eE5HJG9LyRwj5bpi8ZazO5u.jpg",
+          "videos": [
+            {
+              "id": 630922,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65edd8f699775ec084000818",
+              "extra": "Adige - TheUmi - NatsuiReitsu",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630926,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5463323",
+              "extra": "Adige - TheUmi - NatsuiReitsu",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 132783,
+          "episode_number": 12,
+          "name": "Sıkışanlar, Mücadele Edenler",
+          "description": "",
+          "release_date": "2016-09-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ecoYlCa0UKE23xcYiM2o8BJAGiB.jpg",
+          "videos": [
+            {
+              "id": 630927,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65eddb3a926a0f406b38af48",
+              "extra": "Adige - TheUmi - NatsuiReitsu",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630931,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5463341",
+              "extra": "Adige - TheUmi - NatsuiReitsu",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1422,
+      "season_number": 2,
+      "name": "Season 2",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 134210,
+          "episode_number": 1,
+          "name": "The Rent World",
+          "description": "Eski düşmanıyla karşılaştıktan sonra Guts, Griffithi aramaya devam eder.",
+          "release_date": "2017-04-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tASJhA7H8flJVG0fpQJgnRoBQ0U.jpg",
+          "videos": [
+            {
+              "id": 630932,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65eddd28926a0f406b38af49",
+              "extra": "Adige",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630936,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5463349",
+              "extra": "Adige",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 134211,
+          "episode_number": 2,
+          "name": "Kış Yolculuğu",
+          "description": "Serpico, Leydi Farnese ile olan geçmişini hatırlar. Cesaret, gizemli ama karanlık bir varlıktan ziyarete gelir.",
+          "release_date": "2017-04-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ddU4DYCPg5zmF4r2clz9fpTDDTx.jpg",
+          "videos": [
+            {
+              "id": 630937,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65edde16926a0f406b38af4a",
+              "extra": "Adige",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630941,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5463358",
+              "extra": "Adige",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 134212,
+          "episode_number": 3,
+          "name": "Uçan Kılıcın Afişi",
+          "description": "Griffith ordusunu genişletir. Katır Wolflame, Sonia ile tanışır.",
+          "release_date": "2017-04-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pAa1BGmFARJ3MOOCjIFvJMdCw6g.jpg",
+          "videos": [
+            {
+              "id": 630942,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65eddf1099775ec084000819",
+              "extra": "Adige",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630946,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5463363",
+              "extra": "Adige",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 134213,
+          "episode_number": 4,
+          "name": "Şeytani Canavarlar Ormanı",
+          "description": "Cesaret ve ekip, ormanda gizemli bir kişi ile karşı karşıya kalır. Ona güvenebilirler mi?",
+          "release_date": "2017-04-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/m0Nrqu4iYvlbOZfdU7ivFGisbtm.jpg",
+          "videos": [
+            {
+              "id": 630947,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ede0e799775ec08400081a",
+              "extra": "Adige",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630951,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5463371",
+              "extra": "Adige",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 134214,
+          "episode_number": 5,
+          "name": "Ruh Diyarı",
+          "description": "Ormandaki cadının evine ulaştıktan sonra, Cesaretler ve ekip, cadı ile konuştuktan sonra nereye gitmeleri gerektiğini bilir.",
+          "release_date": "2017-04-28T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/jKEwQiSNPqrV4X6fgScrzaV8hGM.jpg",
+          "videos": [
+            {
+              "id": 630952,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ede30599775ec08400081b",
+              "extra": "Adige",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630956,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5463379",
+              "extra": "Adige",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 134215,
+          "episode_number": 6,
+          "name": "Demonic Legiona Karşı Hayatta Kalma Mücadelesi",
+          "description": "Köye ulaştıktan kısa bir süre sonra şeytani yaratıklar yola çıkıyor. Yerlerini korumak Guts, Serpico, Isidro ve Schierkeye kalmış.",
+          "release_date": "2017-05-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/5sdJF2uzYnnHMHpZ7lqH5ELyPWr.jpg",
+          "videos": [
+            {
+              "id": 630957,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ede56599775ec08400081c",
+              "extra": "Adige",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630961,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5463386",
+              "extra": "Adige",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 134216,
+          "episode_number": 7,
+          "name": "",
+          "description": "",
+          "release_date": "2017-05-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lHQh462GWceXGH1MvZ5Y9riHlNP.jpg",
+          "videos": [
+            {
+              "id": 630962,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65ede74d99775ec08400081d",
+              "extra": "Adige",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630966,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5463397",
+              "extra": "Adige",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 134217,
+          "episode_number": 8,
+          "name": "Qliphoth'un Yolsuzluğu",
+          "description": "",
+          "release_date": "2017-05-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/iVG5YFC84Kv1sQWPXOFWm43hlHX.jpg",
+          "videos": [
+            {
+              "id": 630971,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65edebda99775ec08400081f",
+              "extra": "Adige",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630975,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5463408",
+              "extra": "Adige",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 134218,
+          "episode_number": 9,
+          "name": "Berserker Zırhı",
+          "description": "Guts ağır yaralarından dolayı acı çekerken, güçlü rakibini yenmenin tek umudu, Cadının evinde gizlenmiş gizemli zırhı donatmaktır.",
+          "release_date": "2017-05-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/bb10Tob7Hp9P2QfZBn65uWYGNUf.jpg",
+          "videos": [
+            {
+              "id": 630976,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65edee00926a0f406b38af4b",
+              "extra": "Adige",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630980,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5463415",
+              "extra": "Adige",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 134219,
+          "episode_number": 10,
+          "name": "Alevler İçinde Bir Yolculuk Başlıyor",
+          "description": "Cesaret, Berserker zırhını giyer ve Grunbeld ile savaşmaya devam eder.",
+          "release_date": "2017-06-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/uEdsD4KURhGEMMB0Det0js1SuSa.jpg",
+          "videos": [
+            {
+              "id": 630981,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65edf046926a0f406b38af4c",
+              "extra": "Adige",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630985,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5463418",
+              "extra": "Adige",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 134220,
+          "episode_number": 11,
+          "name": "İlan Edilen Omens",
+          "description": "Ağır bir savaşın ardından, Guts ve ekibi sahilde ikamet eder ve yeni zırhın sonuçları hakkında daha fazla şey öğrenir.",
+          "release_date": "2017-06-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/czBurs7UzGF3YywlPuAzU6LusjK.jpg",
+          "videos": [
+            {
+              "id": 648603,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6666de34a78f8877c29c7d01",
+              "extra": "HolyPannoid / www.akatsukisubs.com / www.fb.com/akatsukifansubcom",
+              "fansub": "HolyPannoid",
+              "fansub_id": 718,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 648607,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5558859",
+              "extra": "HolyPannoid / www.akatsukisubs.com / www.fb.com/akatsukifansubcom",
+              "fansub": "HolyPannoid",
+              "fansub_id": 718,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 134221,
+          "episode_number": 12,
+          "name": "İnsanların Şehri",
+          "description": "Büyük bir şehre vardıktan sonra, Guts, Isidro ve Schierke, günün geri kalanında kendi yollarına giderler.",
+          "release_date": "2017-06-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2d0rG4lZegilC0pYWyFFvRGCtxa.jpg",
+          "videos": [
+            {
+              "id": 630986,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/65edf1ff99775ec084000820",
+              "extra": "Adige",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 630990,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5463422",
+              "extra": "Adige",
+              "fansub": "Adige",
+              "fansub_id": 716,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5112,
+      "season_number": 3,
+      "name": "3. Sezon ÖZEL BÖLÜMLER",
+      "episode_count": 1,
+      "episodes": [
+        {
+          "id": 212162,
+          "episode_number": 1,
+          "name": "Berserk: Majo no Tsuisou",
+          "description": "",
+          "release_date": "2017-11-30T21:00:00.000Z",
+          "poster": "https://www.turkanime.co/imajlar/serilerb/5479.jpg",
+          "videos": [
+            {
+              "id": 651664,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6675ce533dbf15700611a0a7",
+              "extra": "Adige - http://www.aoifansub.com/",
+              "fansub": "Adige -",
+              "fansub_id": 719,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 651667,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5570990",
+              "extra": "Adige - http://www.aoifansub.com/",
+              "fansub": "Adige -",
+              "fansub_id": 719,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

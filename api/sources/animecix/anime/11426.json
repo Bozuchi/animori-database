@@ -1,0 +1,112 @@
+{
+  "id": 11426,
+  "name": "Boku no Hero Academia: Memories",
+  "name_english": "My Hero Academia: Memories",
+  "name_romanji": "Boku no Hero Academia: Memories",
+  "original_title": "僕のヒーローアカデミア Memories",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2024,
+  "release_date": "2024-04-06",
+  "description": "\"Boku no Hero Academia\" animesinin ilk 6 Sezonunun özeti.",
+  "poster": "https://image.tmdb.org/t/p/original/AsgZZ8vgPmzFuprMCc2NJyP2Zh9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/6GzMoXo3MPN6tIppwQ3F18dsiBP.jpg",
+  "rating": null,
+  "vote_count": null,
+  "genres": [],
+  "tmdb_id": 252726,
+  "mal_id": 57519,
+  "anilist_id": null,
+  "imdb_id": null,
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 5041,
+      "season_number": 1,
+      "name": "",
+      "episode_count": 4,
+      "episodes": [
+        {
+          "id": 210931,
+          "episode_number": 1,
+          "name": "Izuku Midoriya: Kararlılık",
+          "description": "Quirk'i olmayan Izuku Midoriya, All Might ile tanıştıktan sonra All Might'ın Quirk'i One For All'un halefi olur, bu da sonunda All For One ve Tomura Shigaraki'ye karşı çıkması gerektiği anlamına gelir.",
+          "release_date": "2024-04-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/3astkZpfZAuzB1Q6scHJZJgDfcQ.jpg",
+          "videos": [
+            {
+              "id": 640873,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6633a976f5b7484644993d43",
+              "extra": "Yapay Çeviri",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 210932,
+          "episode_number": 2,
+          "name": "Toshinori Yagi: Közler",
+          "description": "All Might'ın All For One'a karşı verdiği son mücadele, bir kahraman olarak emekli olmasına yol açan bir dizi olayı başlattı, ancak içindeki One For All'un közü sönse bile savaşmaya devam ediyor.",
+          "release_date": "2024-04-13T15:36:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/tr1YW5H1WImQaqyzfjs9smh7HtF.jpg",
+          "videos": [
+            {
+              "id": 640886,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6633ae4df5b7484644993d4f",
+              "extra": "Yapay Çeviri",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 210933,
+          "episode_number": 3,
+          "name": "Kahramanlar: Mahkumiyetler",
+          "description": "Ochaco ve Todoroki ailesi neden savaştıklarını düşünür ve kötülerle yüzleşmeye devam ederken inançlarını yeniden teyit ederler.",
+          "release_date": "2024-04-20T15:55:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/woLQeKM5d6TNolJInZE2scENK9j.jpg",
+          "videos": [
+            {
+              "id": 640897,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6633b301f5b7484644993d57",
+              "extra": "Yapay Çeviri",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 210934,
+          "episode_number": 4,
+          "name": "Tomura Shigaraki: Yıkım",
+          "description": "Tomura Shigaraki çocukken, trajik bir kaza ailesinin ölümüne yol açtı ve bu da onun yok etme arzusunu körüklemeye devam etti.",
+          "release_date": "2024-04-27T16:21:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/q2PU3PulL9n1OLHQyOaMPd81Vc1.jpg",
+          "videos": [
+            {
+              "id": 640908,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6633b8e1f5b7484644993d65",
+              "extra": "Yapay Çeviri",
+              "fansub": "Yapay Çeviri",
+              "fansub_id": 78,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

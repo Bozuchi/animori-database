@@ -1,0 +1,757 @@
+{
+  "id": 8114,
+  "name": "Rokka no Yuusha",
+  "name_english": "Rokka - Braves of the Six Flowers",
+  "name_romanji": "Rokka - Braves of the Six Flowers",
+  "original_title": "六花の勇者",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2015,
+  "release_date": "2015-07-05 00:00:00",
+  "description": "Majin karanlığın derinliklerinden uyandığında, Kader Tanrısı dünyayı kurtarmak için altı kahraman seçip, onlara güç verdi. Kendinin dünyadaki en güçlü insan olduğunu iddia eden Adoretto isimli bir çocuk, Rokka no Yuusha(Altı Çiçeğin kahramanları)’dan biri olarak seçildi. Buluşma yerine geldiklerinde altı değil yedi kahraman toplanmıştır. Kahramanlar, aralarından birinin düşman olduğundan şüphe duyarlar ve bu şüphe Adoretto üzerinde yoğunlaşır.",
+  "poster": "https://image.tmdb.org/t/p/original/yR6ynKLLMB9XcCAxlBbLjf5gj7o.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4gf2hdfzOXF4Q8FgxwGIFmXJOHu.jpg",
+  "rating": "1",
+  "vote_count": 1,
+  "genres": [
+    6,
+    8,
+    1,
+    2
+  ],
+  "tmdb_id": 63146,
+  "mal_id": 28497,
+  "anilist_id": 0,
+  "imdb_id": "tt4958610",
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 3445,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 168614,
+          "episode_number": 1,
+          "name": "Dünyanın En Güçlü Adamı",
+          "description": "Kıtadaki en büyük millet olan Piena, yıllık ritüel dans festivaline ev sahipliği yapıyor. Yarı finalistler ve kazanan önceki şampiyon Prenses Nachetanya ile rekabet edebilir. Rakiplerden biri cesur bir çocuk, Adlet Meyer.",
+          "release_date": "2015-07-05T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/aQeNTbbYduYiB0j1j5vqYdXHCv4.jpg",
+          "videos": [
+            {
+              "id": 384968,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632efdcadd931ae1fbad6e67",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 201544,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4528652",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201543,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/zp0wzeeprrceGW",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201539,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-ru8illatb8kz.html",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201542,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/grgz50mxiv10.html",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 168615,
+          "episode_number": 2,
+          "name": "İlk Yolculuk",
+          "description": "Adlet ve prenses, Demir Tepeler Krallığı Gwenbyer'i geçerek Demons Howl'ın İndiği Ülkeye doğru yola çıkar. Piena'dan ayrıldıktan on gün sonra, iblislerden kaçan köylülerle tanışırlar. Adlet bir tuzaktan şüphelenir ama yine de iblislere meydan okur!",
+          "release_date": "2015-07-12T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/d0v0V4kQGnYUQyoJpMcwnaDSowp.jpg",
+          "videos": [
+            {
+              "id": 384951,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632ef1bddd931ae1fbad6e5c",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 201635,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4528828",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201634,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/dPj3QdGrxOH9P1",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201630,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-0e5p8s7j3f4f.html",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201633,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/uue7qzoyebhs.html",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 168616,
+          "episode_number": 3,
+          "name": "Cesurları Öldüren Kız",
+          "description": "Kahramanlar veya çoğu buluşuyor. Birçoğu Flamie'yi öldürmek istiyor, ancak zar zor hayatta kalıyor. Bu arada, Gwenbyer kralı kıtadaki canavarların çoğunu tuzağa düşürmek ve kahramanların yolunu açmak için bir plan yaptı.",
+          "release_date": "2015-07-19T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sg3DEp9Fbch4TIo8b5xMjJz3Nkl.jpg",
+          "videos": [
+            {
+              "id": 384967,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632efc46dd931ae1fbad6e66",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 201551,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4528680",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201550,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/xbKLL7BXYphkM1y",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201546,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-jmxcv0k8xd60.html",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201549,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/l8rlqq9u66oh.html",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 168617,
+          "episode_number": 4,
+          "name": "Kahramanlar Toplanıyor",
+          "description": "Cesurlar bariyer tapınağa doğru yola çıkarlar, ancak yol boyunca devasa bir iblis ordusuyla karşılaşırlar. İblisleri içeri hapsetmek için geçmişte savaşmak zorunda kalacaklar. Daha da kötüsü, çok sayıda uçan iblis tapınağı bombalıyor!",
+          "release_date": "2015-07-26T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2KjFF3ZwnvnWilwbPa60oykSSSy.jpg",
+          "videos": [
+            {
+              "id": 384965,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632efae1dd931ae1fbad6e65",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 201558,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4528695",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201557,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/orGOYDa84mtJyVk",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201553,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-s71f4o0zcc1z.html",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201556,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/4rx85lp33eam.html",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 168618,
+          "episode_number": 5,
+          "name": "Yedinci Cesur",
+          "description": "Altı Cesur toplandı, ancak hayali bariyer etkinleştirildi. Bariyeri devre dışı bırakmanın tek bir yolu ile Braves, hangisinin sahte Brave olduğunu bulmalı. Bu arada, Flamie şaşırtıcı bir sırrı ortaya çıkarır.",
+          "release_date": "2015-08-02T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lOVOj7rPq2ewYHQNz56qRue8z75.jpg",
+          "videos": [
+            {
+              "id": 384964,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632ef99cdd931ae1fbad6e64",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 201565,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4528706",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201564,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/8zbpYglYWBIopwZ",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201560,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-rlszu8xy4gmz.html",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201563,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/18ryv1w4zbuq.html",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 168619,
+          "episode_number": 6,
+          "name": "Bir Tuzak ve Bir Rota",
+          "description": "Diğerleri ondan şüphelenirken, Adlet onları onun bir hain olmadığına ikna etmelidir. Ancak bunu yapmak için tapınağın nasıl ihlal edildiğini ve bariyerin nasıl etkinleştirildiğini keşfetmesi gerekir. Diğerleri ona olan şüphelerini pekiştirmişken, o ne yapacak?",
+          "release_date": "2015-08-09T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/450srmMOxtg8vfDBrFaHOjqmSzf.jpg",
+          "videos": [
+            {
+              "id": 384960,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632ef84bdd931ae1fbad6e63",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 201572,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4528719",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201571,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/L1xOVVR4oGfRrm3",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201567,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-comw8fp6rni1.html",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201570,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/xd9krp0cn3ea.html",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 168620,
+          "episode_number": 7,
+          "name": "İkisinin Nedenleri",
+          "description": "Adlet, diğer 6 cesurdan kaçmak için ormana kaçar. Flamie ile geçmişi hakkında konuşuyor. O sahte cesur mu?",
+          "release_date": "2015-08-16T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/wmg3fllt4Hnzqty6LsUQFob2uat.jpg",
+          "videos": [
+            {
+              "id": 384957,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632ef787dd931ae1fbad6e62",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 201579,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4528738",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201578,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/9XvAARm81BhaJQz",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201574,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-th5ugpisc8hb.html",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201577,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/vnaljlgbjmwh.html",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 168621,
+          "episode_number": 8,
+          "name": "Ortalama İnsan ve Dahi",
+          "description": "Adlet, sonunda sahte cesur olmadığını anlayan Hans ile savaşır. Ancak Chamot o kadar kolay ikna olmaz.",
+          "release_date": "2015-08-23T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/oRyPpfOViIq9V8UNzvxG1oVeoua.jpg",
+          "videos": [
+            {
+              "id": 384956,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632ef69bdd931ae1fbad6e61",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 201586,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4528750",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201585,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/oZYzbwdqj3tJBXG",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201581,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-dnpce6qlif3x.html",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201584,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/o6a544198pkt.html",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 168622,
+          "episode_number": 9,
+          "name": "şüphe çiçekleri",
+          "description": "Chamot, Adlet ve Hans'ı öldürmek için bir canavar sürüsünü çağırır. Adlet, Flamie'nin vurduğu gizeme bir cevap bulur.",
+          "release_date": "2015-08-30T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/c8PilzCd9HC2XAvxgErWFG2TnYe.jpg",
+          "videos": [
+            {
+              "id": 384955,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632ef5d1dd931ae1fbad6e60",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 201593,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4528759",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201592,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/WPQ7XgRyKXCQrY",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201588,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-jweua0gb9vv2.html",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201591,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/wfxchhqxinru.html",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 168623,
+          "episode_number": 10,
+          "name": "Çaresiz durum",
+          "description": "Maura, Nachetanya'yı delirmesi ve Adlet'i öldürmeye çalışması için kandırır. Adlet, Flamie'ye olan sonsuz aşkını ilan eder.",
+          "release_date": "2015-09-06T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/qi3eArXzvglmatSS6K6vo7nZXoD.jpg",
+          "videos": [
+            {
+              "id": 384954,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632ef4f3dd931ae1fbad6e5f",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 201600,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4528775",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201599,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/WPw1PaPYyeibK7d",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201595,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-1vgv1c5v2uh7.html",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201598,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/vyh5ns81islb.html",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 168624,
+          "episode_number": 11,
+          "name": "Karşı atak",
+          "description": "Nachetanya, Adlet'in kendisine ihanet ettiğine karar verir ve tam bir saldırı başlatır. Sadece Flamie onu Braves'in geri kalanının birleşik gücünden koruyabilir.",
+          "release_date": "2015-09-13T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ySnSqvDQpBsuuEGy9jdrPgHm9in.jpg",
+          "videos": [
+            {
+              "id": 384953,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632ef419dd931ae1fbad6e5e",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 201607,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4528793",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201606,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/Lk8X7AlBq8FRRV8",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201602,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-kpvwyru0rtko.html",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201605,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/6kg9n4a6dm90.html",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": 168625,
+          "episode_number": 12,
+          "name": "Cevabı Açıklama Zamanı",
+          "description": "Yedincinin Cesurları kandırmayı \"nasıl\" başardığını ortaya çıkaran Adlet'in yanıtlaması gereken tek soru, \"Yedinci kim?\"",
+          "release_date": "2015-09-20T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/o10zv08W2zLzWRWXCOQBkYBVfB5.jpg",
+          "videos": [
+            {
+              "id": 384952,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/632ef309dd931ae1fbad6e5d",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": null,
+              "language": "tr"
+            },
+            {
+              "id": 201614,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4528811",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201613,
+              "player": "STREAMTAPE",
+              "url": "https://streamtape.com/e/9vo6dGd3Lyh9qG",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201609,
+              "player": "VUDEO",
+              "url": "https://vudeo.net/embed-28kaxo5afirl.html",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            },
+            {
+              "id": 201612,
+              "player": "STREAMSB",
+              "url": "https://streamsb.net/e/pwe3o3idfpxk.html",
+              "extra": "ugurmaden",
+              "fansub": "ugurmaden",
+              "fansub_id": 130,
+              "quality": "regular",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

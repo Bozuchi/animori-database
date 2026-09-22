@@ -1,0 +1,66 @@
+{
+  "id": 12320,
+  "name": "Neko ni Naritai Tamagawa-kun",
+  "name_english": "Tamagawa Wants to be a Cat",
+  "name_romanji": "Neko ni Naritai Tamagawa-kun",
+  "original_title": "猫になりたい田万川くん",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2025,
+  "release_date": "2025-05-10",
+  "description": "Tamagawa için, bir Cat Café'de gönüllü olmak, stresli işinin tek rahatlamasıdır. Yönetici ona \"Rahatlayın ve şımarık olmayı öğrenin\" diyor, ancak yeni bir müşteri Rai Shindo kafeye gelene ve Tamaagawa'ya onu kedi olarak tutmak istediğini söyleyene kadar bunun ne anlama geldiğini bilmiyor! Garip ama kader ilişkilerine girin. Saf kalpli ve yatıştırıcı bir romantik komedi.",
+  "poster": "https://image.tmdb.org/t/p/original/1v2WtWSUEVlPLCBduiOcxDREHIo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kcXccmdamRBzUbCtPMqScv5DmOJ.jpg",
+  "rating": 10,
+  "vote_count": 1,
+  "genres": [
+    3,
+    20,
+    4
+  ],
+  "tmdb_id": 1410345,
+  "mal_id": 60662,
+  "anilist_id": null,
+  "imdb_id": null,
+  "season_count": 1,
+  "seasons": [
+    {
+      "id": 5852,
+      "season_number": 1,
+      "name": "1. Sezon",
+      "episode_count": 1,
+      "episodes": [
+        {
+          "id": 236432,
+          "episode_number": 1,
+          "name": "Film",
+          "description": "",
+          "release_date": "2025-05-10T12:00:00.000Z",
+          "poster": "",
+          "videos": [
+            {
+              "id": 718223,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/681f214bf8146af586df9df8",
+              "extra": "lefoule...",
+              "fansub": "lefoule...",
+              "fansub_id": 3192,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 718224,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/9ihmjfe0mhsh",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

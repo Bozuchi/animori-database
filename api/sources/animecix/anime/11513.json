@@ -1,0 +1,2204 @@
+{
+  "id": 11513,
+  "name": "Wistoria: Wand and Sword",
+  "name_english": "Wistoria: Wand and Sword",
+  "name_romanji": "Tsue to Tsurugi no Wistoria",
+  "original_title": "杖と剣のウィストリア",
+  "type": "series",
+  "title_type": "anime",
+  "year": 2024,
+  "release_date": "Sun Jul 07 2024 00:00:00 GMT+0000 (Coordinated Universal Time)",
+  "description": "Sihrin hüküm sürdüğü bir dünyada Will Serfort büyü yapamaz. Çalışkan olmasına rağmen Will'in sınıf arkadaşları bu konuda onu daha az düşünüyor. Ancak gizli bir gücü vardır: kılıcı. Will, büyü yerine kas ve asa yerine bıçağıyla beklentilere meydan okuyabilecek mi? Bu destansı kılıç ve büyücülük macerasında öğrenin!",
+  "poster": "https://image.tmdb.org/t/p/original/5n0IZQA9MiXn5JBKZibtNhhFSAZ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/n4VljCX22hbw3RwfxaY8FX8eLzN.jpg",
+  "rating": 8,
+  "vote_count": 152,
+  "genres": [
+    3,
+    1,
+    2
+  ],
+  "tmdb_id": 245842,
+  "mal_id": 58059,
+  "anilist_id": null,
+  "imdb_id": "tt31889371",
+  "season_count": 2,
+  "seasons": [
+    {
+      "id": 5135,
+      "season_number": 1,
+      "name": "Season 1",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 212849,
+          "episode_number": 1,
+          "name": "Yalnız Kılıç gibi",
+          "description": "Çocukluğunda verdiği bir sözle hareket eden Will Serfort, Magical Academy Rigarden'ın tepesine yükselmeye ve dünyanın gördüğü en büyük büyücülerden biri olmaya kararlıdır. Tek bir sorun var... Will sihir kullanamıyor.",
+          "release_date": "2024-07-07T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/ieLlWMtF5bi7DlyJITf21k6Cu3P.jpg",
+          "videos": [
+            {
+              "id": 656436,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/668df57f53379257d25613c9",
+              "extra": "Lett & Roxe & Rinrintan",
+              "fansub": "Lett",
+              "fansub_id": 1386,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 671148,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66baac586bc8968f6aad4456",
+              "extra": "Gilbertt & petrichor | discord.gg/seirei",
+              "fansub": "Gilbertt",
+              "fansub_id": 1519,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 672151,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66bd8db248d0b8046dc06269",
+              "extra": "Othetis - Merr - kathyn",
+              "fansub": "Othetis",
+              "fansub_id": 1520,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 672400,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66be424548d0b8046dc062ae",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 753483,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a08a64e81d720339fcc0dea",
+              "extra": "AtrionSubs AZ",
+              "fansub": "AtrionSubs AZ",
+              "fansub_id": 1523,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 759589,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a6a632259edd8529b3122e9",
+              "extra": "Çevirmen: AkiSensei - Encode: AkiSensei",
+              "fansub": "AkiSensei",
+              "fansub_id": 189,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 656439,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5591191",
+              "extra": "Lett & Roxe & Rinrintan",
+              "fansub": "Lett",
+              "fansub_id": 1386,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 671151,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5634867",
+              "extra": "Gilbertt & petrichor | discord.gg/seirei",
+              "fansub": "Gilbertt",
+              "fansub_id": 1519,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 672154,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5637070",
+              "extra": "Othetis - Merr - kathyn",
+              "fansub": "Othetis",
+              "fansub_id": 1520,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 672403,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5637839",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 670810,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1-2VnyI42iyIzUb3RB7we7RM9NTPk6uBY/preview",
+              "extra": "Gilbertt | discord.gg/seirei",
+              "fansub": "Gilbertt",
+              "fansub_id": 1519,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 670903,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/7546742377208",
+              "extra": "Gilbertt & petrichor | discord.gg/seirei",
+              "fansub": "Gilbertt",
+              "fansub_id": 1519,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 753484,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/00rt2dqupa9q",
+              "extra": "AtrionSubs AZ",
+              "fansub": "AtrionSubs AZ",
+              "fansub_id": 1523,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 753485,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-gn0fnr4y0z2o.html",
+              "extra": "AtrionSubs AZ",
+              "fansub": "AtrionSubs AZ",
+              "fansub_id": 1523,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 759590,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/g3wzkt73ulgm",
+              "extra": "Çevirmen: AkiSensei - Encode: AkiSensei",
+              "fansub": "AkiSensei",
+              "fansub_id": 189,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 759591,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-x14gr4rbt875.html",
+              "extra": "Çevirmen: AkiSensei - Encode: AkiSensei",
+              "fansub": "AkiSensei",
+              "fansub_id": 189,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 212850,
+          "episode_number": 2,
+          "name": "Her ne kadar yılgın olmasa da",
+          "description": "Sion'un zorlu bir canavarı yenmesi akademide konuşulan bir konu ama gerçeği yalnızca o ve birkaç öğretmen biliyor. Özellikle Edward bunu kabul edemez ve akademideki bir öğretmen olarak belirli bir öğrenci için özel bir ders hazırlar.",
+          "release_date": "2024-07-14T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/9LpMgZDv72ZJjuejWndwQWU1ILk.jpg",
+          "videos": [
+            {
+              "id": 671152,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66baad0e6bc8968f6aad4457",
+              "extra": "Gilbertt | discord.gg/seirei",
+              "fansub": "Gilbertt",
+              "fansub_id": 1519,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 672155,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66bd8ea348d0b8046dc0626a",
+              "extra": "Lett - nightwish - Roxe",
+              "fansub": "Lett",
+              "fansub_id": 1386,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 674787,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66c23d7b48d0b8046dc064c5",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 694497,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6741aa25312a0551998384c0",
+              "extra": "Kagura & HakaiRyuu",
+              "fansub": "Kagura",
+              "fansub_id": 1522,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 671155,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5634868",
+              "extra": "Gilbertt | discord.gg/seirei",
+              "fansub": "Gilbertt",
+              "fansub_id": 1519,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 672158,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5637071",
+              "extra": "Lett - nightwish - Roxe",
+              "fansub": "Lett",
+              "fansub_id": 1386,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 674790,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5642603",
+              "extra": null,
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 670811,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1pIXyJ9C7Qewab6k_zKGjJUbpxxrKCgCR/preview",
+              "extra": "Gilbertt | discord.gg/seirei",
+              "fansub": "Gilbertt",
+              "fansub_id": 1519,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 671597,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/7549546793720",
+              "extra": "Gilbertt | discord.gg/seirei",
+              "fansub": "Gilbertt",
+              "fansub_id": 1519,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 212851,
+          "episode_number": 3,
+          "name": "Sipariş ve Gözlemci",
+          "description": "Leydi Elfaria akademiye bir emir yayınlıyor: Frost Walker buz çekirdeklerini toplayın. Will hızla zindana doğru yola çıkar ama orası zaten emri yerine getirmeye çalışan başkalarıyla doludur. Daha az kalabalık bir alan ararken bir öğrenci arkadaşının saldırı altında olduğunu fark eder!",
+          "release_date": "2024-07-21T00:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7t1iPH7vjBBKTTpNKZi4hBDBEps.jpg",
+          "videos": [
+            {
+              "id": 671156,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66baadb86bc8968f6aad4458",
+              "extra": "Gilbertt & petrichor | discord.gg/seirei",
+              "fansub": "Gilbertt",
+              "fansub_id": 1519,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 672159,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66bd8f8048d0b8046dc0626b",
+              "extra": "Lett - nightwish - Roxe",
+              "fansub": "Lett",
+              "fansub_id": 1386,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 694500,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6741aafe312a0551998384c1",
+              "extra": "Kagura & HakaiRyuu",
+              "fansub": "Kagura",
+              "fansub_id": 1522,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 698138,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/67640ac05f790413917b86d0",
+              "extra": "Telegram: https://t.me/+n5P1_xrMYZ1lYThk",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 760394,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a7ac361f342e3f8d7f904d6",
+              "extra": "discord.gg/somesub Çevirmen: Crimson Redaktör: UserXTR Encoder: S4Patrol Uploader: UserXTR",
+              "fansub": "Crimson",
+              "fansub_id": 321,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 671159,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5634869",
+              "extra": "Gilbertt & petrichor | discord.gg/seirei",
+              "fansub": "Gilbertt",
+              "fansub_id": 1519,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 672162,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5637072",
+              "extra": "Lett - nightwish - Roxe",
+              "fansub": "Lett",
+              "fansub_id": 1386,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 670809,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/126W-mo9nPtr28PtLFjCrcNjW97W-xTWR/preview",
+              "extra": "Gilbertt | discord.gg/seirei",
+              "fansub": "Gilbertt",
+              "fansub_id": 1519,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 671599,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/7549551971064",
+              "extra": "Gilbertt & petrichor | discord.gg/seirei",
+              "fansub": "Gilbertt",
+              "fansub_id": 1519,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 760395,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/4022qhiesamn",
+              "extra": "discord.gg/somesub Çevirmen: Crimson Redaktör: UserXTR Encoder: S4Patrol Uploader: UserXTR",
+              "fansub": "Crimson",
+              "fansub_id": 321,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 760396,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-vwaeil142vj9.html",
+              "extra": "discord.gg/somesub Çevirmen: Crimson Redaktör: UserXTR Encoder: S4Patrol Uploader: UserXTR",
+              "fansub": "Crimson",
+              "fansub_id": 321,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 212852,
+          "episode_number": 4,
+          "name": "Büyük Festival Arifesi",
+          "description": "Tüm akademi yaklaşan festival hakkında konuşuyor ama Will, sihir yeteneğinden yoksun olduğu için hiçbir etkinliğe katılmadı. Bunun yerine çalışmalarına ve öğrenim için para kazanmaya odaklanıyor. Daha sonra sınıfının en iyi öğrencilerinden biri çalıştığı yere gelir.",
+          "release_date": "2024-08-04T15:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7oiqWAFQv4vlkuABNvBdz3FIUUu.jpg",
+          "videos": [
+            {
+              "id": 671842,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66bd09c348d0b8046dc0623d",
+              "extra": "Gilbertt  | discord.gg/seirei",
+              "fansub": "Gilbertt",
+              "fansub_id": 1519,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 672163,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66bd905248d0b8046dc0626c",
+              "extra": "Lett - nightwish - Roxe",
+              "fansub": "Lett",
+              "fansub_id": 1386,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 694503,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6741abd4312a0551998384c2",
+              "extra": "Kagura & HakaiRyuu",
+              "fansub": "Kagura",
+              "fansub_id": 1522,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 671163,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5634870",
+              "extra": "Gilbertt  | discord.gg/seirei",
+              "fansub": "Gilbertt",
+              "fansub_id": 1519,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 672166,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5637073",
+              "extra": "Lett - nightwish - Roxe",
+              "fansub": "Lett",
+              "fansub_id": 1386,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 670817,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1jji3VCQA7Hj_HBspg4uNvsl-a_YpkW1Q/preview",
+              "extra": "Gilbertt | discord.gg/seirei",
+              "fansub": "Gilbertt",
+              "fansub_id": 1519,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 671602,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/7549554854648",
+              "extra": "Gilbertt  | discord.gg/seirei",
+              "fansub": "Gilbertt",
+              "fansub_id": 1519,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213332,
+          "episode_number": 5,
+          "name": "Başlangıç ​​Tabancasını Kaldırın",
+          "description": "Will, Colette'in yardımıyla Büyük Sihir Festivali'ne girer. Kalabalık onun Colette'in büyüsü ve kendi şaşırtıcı fiziksel gücüyle ilerlemesini izlerken çılgına dönüyor. Ancak ekibinin üçüncü üyesi için bu, acı verici bir aşağılanmanın hatırlatıcısıdır.",
+          "release_date": "2024-08-10T21:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4QBbhrpCMm335ntCEpqZNI8cyxY.jpg",
+          "videos": [
+            {
+              "id": 671164,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66baaf2e6bc8968f6aad445a",
+              "extra": "Gilbertt  | discord.gg/seirei",
+              "fansub": "Gilbertt",
+              "fansub_id": 1519,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 672167,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66bd912048d0b8046dc0626d",
+              "extra": "Lett - nightwish - Roxe",
+              "fansub": "Lett",
+              "fansub_id": 1386,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 694506,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6741ac85312a0551998384c3",
+              "extra": "Kagura & HakaiRyuu",
+              "fansub": "Kagura",
+              "fansub_id": 1522,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 671167,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5634871",
+              "extra": "Gilbertt  | discord.gg/seirei",
+              "fansub": "Gilbertt",
+              "fansub_id": 1519,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 672170,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5637074",
+              "extra": "Lett - nightwish - Roxe",
+              "fansub": "Lett",
+              "fansub_id": 1386,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 670812,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/136NnqtP2PrAw6GuhfV3uXah1pRzm3QfG/preview",
+              "extra": "Gilbertt | discord.gg/seirei",
+              "fansub": "Gilbertt",
+              "fansub_id": 1519,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 671604,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/7549642410744",
+              "extra": "Gilbertt  | discord.gg/seirei",
+              "fansub": "Gilbertt",
+              "fansub_id": 1519,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213333,
+          "episode_number": 6,
+          "name": "Gurur ve Tutku Arasında",
+          "description": "Sion, Büyük Sihir Festivali'ndeki etkinliğin ortasında aniden Will'e saldırır. Will, Sion'un eylemlerini anlamaya çalışırken Sion'un duyguları büyüsünü körükler. Bu sırada Julius stadyuma giderek yaklaşır ve etkinliği kazanır.",
+          "release_date": "2024-08-17T21:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/hvZzyGam9CqZGO773jDkylmO6y2.jpg",
+          "videos": [
+            {
+              "id": 674795,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66c2550a48d0b8046dc064c7",
+              "extra": "helen",
+              "fansub": "helen",
+              "fansub_id": 12,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 674799,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66c2608b48d0b8046dc064c8",
+              "extra": "Lett & Roxe | discord.gg/Vy25MCcput - yukisubs.net",
+              "fansub": "Lett",
+              "fansub_id": 1386,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 694509,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6741ad3b312a0551998384c4",
+              "extra": "Kagura & HakaiRyuu",
+              "fansub": "Kagura",
+              "fansub_id": 1522,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 732769,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68f4b6698040a7fcf4e83304",
+              "extra": "Mercury  - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 674798,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5642746",
+              "extra": "helen",
+              "fansub": "helen",
+              "fansub_id": 12,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 674802,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5642790",
+              "extra": "Lett & Roxe | discord.gg/Vy25MCcput - yukisubs.net",
+              "fansub": "Lett",
+              "fansub_id": 1386,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677844,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5659262",
+              "extra": "Gilbertt.  | discord.gg/seirei",
+              "fansub": "Gilbertt.",
+              "fansub_id": 1524,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677843,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1WDDq16f-4CiirER-J8r2_2vsmsZiIf5s/preview",
+              "extra": "Gilbertt.  | discord.gg/seirei",
+              "fansub": "Gilbertt.",
+              "fansub_id": 1524,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677849,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/7600449587960",
+              "extra": "Gilbertt.  | discord.gg/seirei",
+              "fansub": "Gilbertt.",
+              "fansub_id": 1524,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677850,
+              "player": "VIDMOLY",
+              "url": "http://vidmoly.to/embed-kr5ez19dhfn7.html",
+              "extra": "Gilbertt.  | discord.gg/seirei",
+              "fansub": "Gilbertt.",
+              "fansub_id": 1524,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 732770,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/jmh1u2wcka7x",
+              "extra": "Mercury  - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 732771,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-acvaf5nl3bbm.html",
+              "extra": "Mercury  - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213334,
+          "episode_number": 7,
+          "name": "On İki Gizli Buz Büyüsü, El Glace Frosse",
+          "description": "Will saldırı altında. Julius, dahi büyücü Elfaria tarafından icat edilen On İki Gizli Buz Büyüsünden birini kullanıyor. Arena şok ve hayranlık içinde sessizliğe bürünür. Ancak Elfaria'nın büyüsünü Will'den daha iyi kimse bilemez ve onun karşı saldırısı şimdi başlıyor.",
+          "release_date": "2024-08-24T21:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/myPtGXeEHEtaaT0ZMt9UhDVyjmm.jpg",
+          "videos": [
+            {
+              "id": 676805,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66cc905e48d0b8046dc066e4",
+              "extra": "Lett & Roxe | discord.gg/Vy25MCcput - yukisubs.net",
+              "fansub": "Lett",
+              "fansub_id": 1386,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 694512,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6741adf7312a0551998384c5",
+              "extra": "Kagura & HakaiRyuu",
+              "fansub": "Kagura",
+              "fansub_id": 1522,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 732772,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/68f4b7988040a7fcf4e83305",
+              "extra": "Mercury  - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 676808,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5652870",
+              "extra": "Lett & Roxe | discord.gg/Vy25MCcput - yukisubs.net",
+              "fansub": "Lett",
+              "fansub_id": 1386,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677853,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5659183",
+              "extra": "Gilbertt.  | discord.gg/seirei",
+              "fansub": "Gilbertt.",
+              "fansub_id": 1524,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677858,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/7600302656248",
+              "extra": "Gilbertt.  | discord.gg/seirei",
+              "fansub": "Gilbertt.",
+              "fansub_id": 1524,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677859,
+              "player": "VIDMOLY",
+              "url": "http://vidmoly.to/embed-hwkh2om33ur1.html",
+              "extra": "Gilbertt.  | discord.gg/seirei",
+              "fansub": "Gilbertt.",
+              "fansub_id": 1524,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 677862,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1otGbSp3IVEcTIbRHYgCteoPMmR6TA7gg/preview",
+              "extra": "Gilbertt.  | discord.gg/seirei",
+              "fansub": "Gilbertt.",
+              "fansub_id": 1524,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 732773,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/qdzqymjgotf8",
+              "extra": "Mercury  - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 732774,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-eaajzw9r4phc.html",
+              "extra": "Mercury  - www.instagram.com/codeanimee",
+              "fansub": "Mercury -",
+              "fansub_id": 22,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213335,
+          "episode_number": 8,
+          "name": "Çıkacak mıyız?",
+          "description": "Akademideki öğrenciler birdenbire Will'e farklı bir gözle bakarlar ve Will, yaklaşan tüm öğrencilerin katılacağı partilere katılmak üzere çok sayıda davet alır. Colette paniğe kapılır ve Will'le bir randevu ayarlar, ancak beklenmedik bir üçüncü kişi ortaya çıkar.",
+          "release_date": "2024-08-31T21:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/rmVsK0myQRoRwTtXtA26wAa5diD.jpg",
+          "videos": [
+            {
+              "id": 678302,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66d61f7748d0b8046dc06866",
+              "extra": "Lett & Roxe | discord.gg/Vy25MCcput - yukisubs.net",
+              "fansub": "Lett",
+              "fansub_id": 1386,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 678306,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66d64e3648d0b8046dc06867",
+              "extra": "Kingsama discord.gg/seirei - www.instagram.com/codeanimee",
+              "fansub": "Kingsama -",
+              "fansub_id": 39,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 694515,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6741ae9e312a0551998384c6",
+              "extra": "Kagura & HakaiRyuu",
+              "fansub": "Kagura",
+              "fansub_id": 1522,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 678305,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5661415",
+              "extra": "Lett & Roxe | discord.gg/Vy25MCcput - yukisubs.net",
+              "fansub": "Lett",
+              "fansub_id": 1386,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 678309,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5661470",
+              "extra": "Kingsama discord.gg/seirei - www.instagram.com/codeanimee",
+              "fansub": "Kingsama -",
+              "fansub_id": 39,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 678374,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5661949",
+              "extra": "Gilbertt.  | discord.gg/seirei",
+              "fansub": "Gilbertt.",
+              "fansub_id": 1524,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 678377,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/7607215459064",
+              "extra": "Gilbertt.  | discord.gg/seirei",
+              "fansub": "Gilbertt.",
+              "fansub_id": 1524,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 678379,
+              "player": "VIDMOLY",
+              "url": "http://vidmoly.to/embed-qquspkr4l32i.html",
+              "extra": "Gilbertt.  | discord.gg/seirei",
+              "fansub": "Gilbertt.",
+              "fansub_id": 1524,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213336,
+          "episode_number": 9,
+          "name": "Praksis Başlıyor",
+          "description": "Tüm öğrencilerin katılımıyla uygulama başlıyor. Lihanna, Wignall, Julius, Sion ve Will, Colette'in de peşinden gelerek birlikte zindana dalarlar. Will'in yararlılığı sorgulansa da 10. kata ve birincil hedefleri olan Işıltılı Naberus'a doğru ilerliyorlar.",
+          "release_date": "2024-09-07T21:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/p6wYSWB7BiIUi7WFFRagSAuNKTr.jpg",
+          "videos": [
+            {
+              "id": 680253,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66ddbf149f75f44d71ace2db",
+              "extra": "Kingsama discord.gg/seirei - www.instagram.com/codeanimee",
+              "fansub": "Kingsama -",
+              "fansub_id": 39,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 682969,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66e8ea8a9406eb75206ffe92",
+              "extra": "Lett & Roxe | discord.gg/Vy25MCcput - yukisubs.net",
+              "fansub": "Lett",
+              "fansub_id": 1386,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 680256,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5668330",
+              "extra": "Kingsama discord.gg/seirei - www.instagram.com/codeanimee",
+              "fansub": "Kingsama -",
+              "fansub_id": 39,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 680257,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5668328",
+              "extra": "Kingsama discord.gg/seirei - www.instagram.com/codeanimee",
+              "fansub": "Kingsama -",
+              "fansub_id": 39,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 682972,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5679608",
+              "extra": "Lett & Roxe | discord.gg/Vy25MCcput - yukisubs.net",
+              "fansub": "Lett",
+              "fansub_id": 1386,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 680258,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/drive/u/0/folders/1C2_5kVdByT_IiUqGW5nNAW3p4z5J76cK",
+              "extra": "Kingsama discord.gg/seirei - www.instagram.com/codeanimee",
+              "fansub": "Kingsama -",
+              "fansub_id": 39,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 680263,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/7620940073720",
+              "extra": "Kingsama discord.gg/seirei - www.instagram.com/codeanimee",
+              "fansub": "Kingsama -",
+              "fansub_id": 39,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 680264,
+              "player": "VIDMOLY",
+              "url": "http://vidmoly.to/embed-kur8d0fhz6fk.html",
+              "extra": "Kingsama discord.gg/seirei - www.instagram.com/codeanimee",
+              "fansub": "Kingsama -",
+              "fansub_id": 39,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213337,
+          "episode_number": 10,
+          "name": "Hayalimiz",
+          "description": "Will ve diğerleri zindanın tehlikeli bir bölgesine düşerler. Diğerlerinden ayrılan Wignall, isteksizce Will'e açılır ve güvensizliklerinin kaynağını paylaşır. Bu sırada kara büyüye bürünmüş iki büyücü Colette ve Lihanna'nın karşısına çıkar.",
+          "release_date": "2024-09-14T21:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/8flSVODuQtO0UmkCPWbTGA1qAtL.jpg",
+          "videos": [
+            {
+              "id": 682397,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66e6c78e9f75f44d71ace492",
+              "extra": "Kingsama&Perpo discord.gg/seirei - www.instagram.com/codeanimee",
+              "fansub": "Kingsama",
+              "fansub_id": 42,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 682973,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66e8eb629406eb75206ffe93",
+              "extra": "Lett & Roxe | discord.gg/Vy25MCcput - yukisubs.net",
+              "fansub": "Lett",
+              "fansub_id": 1386,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 682400,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5677438",
+              "extra": "Kingsama&Perpo discord.gg/seirei - www.instagram.com/codeanimee",
+              "fansub": "Kingsama",
+              "fansub_id": 42,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 682403,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5677437",
+              "extra": "Kingsama&Perpo discord.gg/seirei - www.instagram.com/codeanimee",
+              "fansub": "Kingsama",
+              "fansub_id": 42,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 682976,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5679609",
+              "extra": "Lett & Roxe | discord.gg/Vy25MCcput - yukisubs.net",
+              "fansub": "Lett",
+              "fansub_id": 1386,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 682401,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1rL8kyqAHEbha1ZXkA9dsoty5eDxIQxU_/preview",
+              "extra": "Kingsama&Perpo discord.gg/seirei - www.instagram.com/codeanimee",
+              "fansub": "Kingsama",
+              "fansub_id": 42,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 682407,
+              "player": "VIDMOLY",
+              "url": "http://vidmoly.to/embed-4u3ycuz7lf3r.html",
+              "extra": "Kingsama&Perpo discord.gg/seirei - www.instagram.com/codeanimee",
+              "fansub": "Kingsama",
+              "fansub_id": 42,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213338,
+          "episode_number": 11,
+          "name": "Korkakların Gerçek Adı",
+          "description": "Sayısız canavarla çevrili Will ve diğerlerinin başı dertte. Yine de Will savaşmaları gerektiğini söylüyor. Onları 11. kata düşüren aynı canavar olan Kötü Büyük Dük ile karşı karşıya kalan parti geri çekilecek mi yoksa direnecek mi?",
+          "release_date": "2024-09-21T21:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/lEWHb3qmE040Wb5ncCvf3y2BCh2.jpg",
+          "videos": [
+            {
+              "id": 684358,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66f021d3679124ac43ba08b3",
+              "extra": "Kingsama&Perpo&petrichor discord.gg/seirei - www.instagram.com/codeanimee",
+              "fansub": "Kingsama",
+              "fansub_id": 42,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 686182,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66f9af9ee72044d29dc1f0ab",
+              "extra": "Lett & Roxe | discord.gg/Vy25MCcput - yukisubs.net",
+              "fansub": "Lett",
+              "fansub_id": 1386,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 703749,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/679cd7b0b00f138db1d44c3c",
+              "extra": "Kingsama&Perpo&petrichor discord.gg/seirei - www.instagram.com/codeanimee",
+              "fansub": "Kingsama",
+              "fansub_id": 42,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 684338,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5687299",
+              "extra": "Kingsama&Perpo&petrichor discord.gg/seirei - www.instagram.com/codeanimee",
+              "fansub": "Kingsama",
+              "fansub_id": 42,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 684361,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5687341",
+              "extra": "Kingsama&Perpo&petrichor discord.gg/seirei - www.instagram.com/codeanimee",
+              "fansub": "Kingsama",
+              "fansub_id": 42,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 686184,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5695978",
+              "extra": "Lett & Roxe | discord.gg/Vy25MCcput - yukisubs.net",
+              "fansub": "Lett",
+              "fansub_id": 1386,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 684333,
+              "player": "VIDMOLY",
+              "url": "http://vidmoly.to/embed-7ojsln8vc0k3.html",
+              "extra": "Kingsama&Perpo&petrichor discord.gg/seirei - www.instagram.com/codeanimee",
+              "fansub": "Kingsama",
+              "fansub_id": 42,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 684339,
+              "player": "ODNO",
+              "url": "https://ok.ru/videoembed/7664458533624",
+              "extra": "Kingsama&Perpo&petrichor discord.gg/seirei - www.instagram.com/codeanimee",
+              "fansub": "Kingsama",
+              "fansub_id": 42,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 684341,
+              "player": "GDRIVE",
+              "url": "https://drive.google.com/file/d/1ZdCaSw6IpPG_8fGyiQCp7lMdzT-E2EJg/preview",
+              "extra": "Kingsama&Perpo&petrichor discord.gg/seirei - www.instagram.com/codeanimee",
+              "fansub": "Kingsama",
+              "fansub_id": 42,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 213339,
+          "episode_number": 12,
+          "name": "Asa ve Kılıç",
+          "description": "Will, asa ve kılıcın önderliğinde Büyük Dük'e saldırır, ancak yenilgisi bile onların zindandan kaçmalarına yetmeyebilir. Bu sırada Workner ve Edward onlara zamanında ulaşmak için yarışır, ancak işler kasvetli görünmektedir. Yine de Will pes edecek biri değil.",
+          "release_date": "2024-09-28T21:00:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/2fxclTqjg9gf2Bn4NxtpQGo6wsk.jpg",
+          "videos": [
+            {
+              "id": 686035,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66f94814e72044d29dc1f086",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 686178,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66f981eee72044d29dc1f0aa",
+              "extra": "Çeviri: piqe.es Redakte: TolgaFlashTR Encode:Mercury",
+              "fansub": "piqe.es",
+              "fansub_id": 1521,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 686185,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/66f9b09ee72044d29dc1f0ac",
+              "extra": "Lett & Roxe | discord.gg/Vy25MCcput - yukisubs.net",
+              "fansub": "Lett",
+              "fansub_id": 1386,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 686038,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5695386",
+              "extra": "",
+              "fansub": null,
+              "fansub_id": null,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 686181,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5695766",
+              "extra": "Çeviri: piqe.es Redakte: TolgaFlashTR Encode:Mercury",
+              "fansub": "piqe.es",
+              "fansub_id": 1521,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 686188,
+              "player": "SIBNET",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5695980",
+              "extra": "Lett & Roxe | discord.gg/Vy25MCcput - yukisubs.net",
+              "fansub": "Lett",
+              "fansub_id": 1386,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6198,
+      "season_number": 2,
+      "name": "Season 2",
+      "episode_count": 12,
+      "episodes": [
+        {
+          "id": 272363,
+          "episode_number": 1,
+          "name": "Bariyer Günü",
+          "description": "Tüm öğrencilerin katıldığı pratik çalışmanın üzerinden iki ay geçtikten sonra, Will ve diğer altıncı sınıf öğrencileri, kuleye yükselme şanslarını belirleyecek yazılı sınavlarla karşı karşıya kalırlar; ancak Edward’ın son sorusu herkesi şok eder. Bu arada Urbus Rigarden’da yeni yıl kutlamaları olan Terminalia başlar. Kalabalıklar, Magia Vander’ın yeni bir Büyük Bariyer kurmasını izler. Ardından, gece gökyüzünde tedirgin edici bir büyü çemberi belirir.",
+          "release_date": "2026-04-12T20:59:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4dXjmZEc5E5vnmtNakUkXUwOycL.jpg",
+          "videos": [
+            {
+              "id": 749789,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69dc216acb8083ded340b987",
+              "extra": "Çeviri: irisWatch Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 749942,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69dd2a9b140a125ba83716a2",
+              "extra": "Lett - Roxe",
+              "fansub": "Lett",
+              "fansub_id": 1386,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 749985,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69dd47eab84256f1db55ead2",
+              "extra": "Çevirmen: Suisen & Redaktör: Leone & Encoder: The Shorekeeper",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758623,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a581368f2c0587e0fd8b953",
+              "extra": "AkiSensei",
+              "fansub": "AkiSensei",
+              "fansub_id": 189,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 749790,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/q739m8amf1dy",
+              "extra": "Çeviri: irisWatch Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 749791,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-tjz6vsuu9ogf.html",
+              "extra": "Çeviri: irisWatch Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 749943,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/tsrg21u5em1i",
+              "extra": "Lett - Roxe",
+              "fansub": "Lett",
+              "fansub_id": 1386,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 749944,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-lsyqinzk6wul.html",
+              "extra": "Lett - Roxe",
+              "fansub": "Lett",
+              "fansub_id": 1386,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 749986,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/d5hl093pbh8m",
+              "extra": "Çevirmen: Suisen & Redaktör: Leone & Encoder: The Shorekeeper",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 749987,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-s9l300cztw6s.html",
+              "extra": "Çevirmen: Suisen & Redaktör: Leone & Encoder: The Shorekeeper",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 758624,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-yrxs08dgt9k3.html",
+              "extra": "AkiSensei",
+              "fansub": "AkiSensei",
+              "fansub_id": 189,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 275893,
+          "episode_number": 2,
+          "name": "Cehennemden Gelen Parti Başlıyor",
+          "description": "En alt katlardan bir canavar ordusu ortaya çıkarak şenlikli başkenti cehennem gibi bir manzaraya dönüştürür. Hedeflerin kendileri olduğunu sezen Magia Vander üyeleri kulenin içinde kalır. Şehrin savunma hatları, High Dinoboros’u kullanan büyücü avcısının karşısında çöker. Colette ve cüceler Will’e katılarak çaresiz bir direniş gösterir. Headless, bir büyü çemberini harekete geçirir ve Will’in önünde bir Devander belirir!",
+          "release_date": "2026-04-19T20:59:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/agHni8bXYgbfgubrY8CZOunuNNP.jpg",
+          "videos": [
+            {
+              "id": 750561,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69e55435cb8083ded340b9a6",
+              "extra": "Çeviri: irisWatch Encoder: Mercury  - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750676,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69e7f2a25d4202aa1736c102",
+              "extra": "Çevirmen: Suisen & Redaktör: Leone & Encoder: The Shorekeeper",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750562,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/3v9bn6i45kzf",
+              "extra": "Çeviri: irisWatch Encoder: Mercury  - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750563,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-x97ace05tcbe.html",
+              "extra": "Çeviri: irisWatch Encoder: Mercury  - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 750677,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/ihy5xunb5lpx",
+              "extra": "Çevirmen: Suisen & Redaktör: Leone & Encoder: The Shorekeeper",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 276065,
+          "episode_number": 3,
+          "name": "Tek Bir Büyü",
+          "description": "Rosty, Will'i korumak için kendini feda eder. Bu manzara Will'in kendini kaybetmesine neden olur ancak Workner onu kurtarmak için hemen araya girer.",
+          "release_date": "2026-04-26T20:59:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/sfBgO2EmJgmhVN21Qb83WFUvQtJ.jpg",
+          "videos": [
+            {
+              "id": 751104,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69ee221b98be3e47efffd849",
+              "extra": "Çeviri: irisWatch Redakte: Can 58  Encoder: Mercury  - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 751205,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69ef838598be3e47efffd84e",
+              "extra": "Çevirmen: Suisen & Redaktör: Leone & Encoder: The Shorekeeper",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 751105,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/9n84u1q0r8mg",
+              "extra": "Çeviri: irisWatch Redakte: Can 58  Encoder: Mercury  - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 751106,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-w1yzikctno1z.html",
+              "extra": "Çeviri: irisWatch Redakte: Can 58  Encoder: Mercury  - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 751206,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/h13mtp6qzyvl",
+              "extra": "Çevirmen: Suisen & Redaktör: Leone & Encoder: The Shorekeeper",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 751207,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-pzo4nwmom8an.html",
+              "extra": "Çevirmen: Suisen & Redaktör: Leone & Encoder: The Shorekeeper",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 276434,
+          "episode_number": 4,
+          "name": "Ve Böylelikle Hikâye Başlıyor",
+          "description": "Finn’in rehberliğinde Will, içinde uyuyan gücü uyandırır.",
+          "release_date": "2026-05-03T20:59:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/pPKIKFj03Xbg91DY0gfZHzlyjnX.jpg",
+          "videos": [
+            {
+              "id": 751694,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69f78c0076acb7a32c35381c",
+              "extra": "Çeviri: irisWatch Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 751979,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/69fb84fb98be3e47efffd876",
+              "extra": "Çevirmen: Suisen & Redaktör: Leone & Encoder: The Shorekeeper",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 751695,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/40vpln9rsz89",
+              "extra": "Çeviri: irisWatch Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 751696,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-3p7jnwmqandg.html",
+              "extra": "Çeviri: irisWatch Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 751980,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/zxex2jse6h2y",
+              "extra": "Çevirmen: Suisen & Redaktör: Leone & Encoder: The Shorekeeper",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 751981,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-a1gjbv3ca7eh.html",
+              "extra": "Çevirmen: Suisen & Redaktör: Leone & Encoder: The Shorekeeper",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 278404,
+          "episode_number": 5,
+          "name": "Ayrılış Günü",
+          "description": "Asa ve kılıcın birleşen gücüyle Will, büyücü kılıcı Wis sayesinde Devander'ı yener.",
+          "release_date": "2026-05-10T20:59:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/xWeWJPGxYhjfQOqsetFdFUJB6CR.jpg",
+          "videos": [
+            {
+              "id": 752768,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a0080032f300050b408951b",
+              "extra": "Çeviri: irisWatch Encoder: Mercury  - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 752920,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a041c412f300050b4089520",
+              "extra": "Çevirmen: Suisen & Redaktör: Leone & Encoder: The Shorekeeper",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 752769,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/98t0fuovcbmj",
+              "extra": "Çeviri: irisWatch Encoder: Mercury  - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 752770,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-qt7d76vd9mfn.html",
+              "extra": "Çeviri: irisWatch Encoder: Mercury  - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 752921,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/znwi4r84a78v",
+              "extra": "Çevirmen: Suisen & Redaktör: Leone & Encoder: The Shorekeeper",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 752922,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-bp6a4y0eryzn.html",
+              "extra": "Çevirmen: Suisen & Redaktör: Leone & Encoder: The Shorekeeper",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 279668,
+          "episode_number": 6,
+          "name": "First Bloom (İlk Çiçeklenme)",
+          "description": "Büyü dolu bir dünyada, Will Serfort büyü yapamıyor. Asa yerine kılıçla kendini kanıtlayabilecek mi?",
+          "release_date": "2026-05-17T20:59:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/cQ3Oa83pQWkgJk0HSMf1UVl8jHy.jpg",
+          "videos": [
+            {
+              "id": 753577,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a09f92881d720339fcc0def",
+              "extra": "Çeviri: irisWatch Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 753639,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a0b8450ad0dd5ba6655cdfb",
+              "extra": "Çevirmen: Suisen Redaktör: Leone Encode/Upload: The Shorekeeper",
+              "fansub": "Suisen",
+              "fansub_id": 711,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 753578,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/bg9z3rpb8hd2",
+              "extra": "Çeviri: irisWatch Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 753579,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-9gov3bwmjghn.html",
+              "extra": "Çeviri: irisWatch Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 753640,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/xuc50msdlpfz",
+              "extra": "Çevirmen: Suisen Redaktör: Leone Encode/Upload: The Shorekeeper",
+              "fansub": "Suisen",
+              "fansub_id": 711,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 753641,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-6uhsr32qiyf6.html",
+              "extra": "Çevirmen: Suisen Redaktör: Leone Encode/Upload: The Shorekeeper",
+              "fansub": "Suisen",
+              "fansub_id": 711,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 280732,
+          "episode_number": 7,
+          "name": "Artık Başını Eğmeyeceğini Söyledi",
+          "description": "First Bloom başladı. Will, Julius'un büyüsünü, büyücü kılıcına aktararak tören alanına çağrılan canavarları yenilgiye uğrattı.",
+          "release_date": "2026-05-24T20:59:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/7HGmC9WbABnydD1sc6ZFkGf21i2.jpg",
+          "videos": [
+            {
+              "id": 753974,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a1306a28505007c2b75ab9a",
+              "extra": "Çeviri: irisWatch Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 754442,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a14b1436aa092ad4e408010",
+              "extra": "Çevirmen: Suisen & Redaktör: Leone & Encoder: The Shorekeeper",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 753975,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/n5uv1uh8gmyz",
+              "extra": "Çeviri: irisWatch Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 753976,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-p5zfbbwqvyb4.html",
+              "extra": "Çeviri: irisWatch Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 754443,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/flhbih89az6y",
+              "extra": "Çevirmen: Suisen & Redaktör: Leone & Encoder: The Shorekeeper",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 754444,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-z0un7mr89mm7.html",
+              "extra": "Çevirmen: Suisen & Redaktör: Leone & Encoder: The Shorekeeper",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 281065,
+          "episode_number": 8,
+          "name": "Cadının Öğretileri",
+          "description": "Wors Oozes sadece büyüyle yenilebilir.",
+          "release_date": "2026-05-31T20:59:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/4vHpczqRsvjKjJ5KiqJFZY3t5Op.jpg",
+          "videos": [
+            {
+              "id": 755281,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a1dae562fc187e395831386",
+              "extra": "Çeviri: irisWatch Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 755495,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a240c9ee24203d706723b31",
+              "extra": "Çevirmen: Suisen & Redaktör:Leone & Encode/Upload: The Shorekeeper",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 755282,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/wwzy74s8x74o",
+              "extra": "Çeviri: irisWatch Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 755283,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-cd52jcv22odz.html",
+              "extra": "Çeviri: irisWatch Encoder: Mercury - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 755496,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/sam8hq3m0wdy",
+              "extra": "Çevirmen: Suisen & Redaktör:Leone & Encode/Upload: The Shorekeeper",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 755497,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-rdxenjnab636.html",
+              "extra": "Çevirmen: Suisen & Redaktör:Leone & Encode/Upload: The Shorekeeper",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 281172,
+          "episode_number": 9,
+          "name": "Çevrilecek Sayfa",
+          "description": "Cerridwen, Wis'in kökenlerini ortaya çıkarmak için Will'i anılarının içinden gezdirir ve bu süreçte onun için çok değerli olan bir duyguyu ortaya çıkarır.",
+          "release_date": "2026-06-07T20:59:00.000Z",
+          "poster": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=cover/catalog/crunchyroll/11354c988e89ecf9b31ecde4f3095339.png",
+          "videos": [
+            {
+              "id": 755539,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a254cae048010175ef9e0de",
+              "extra": "Çeviri: irisWatch Encoder: LostSoul - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 755592,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a2730dc224010c9ef3ebc03",
+              "extra": "Çevirmen: Suisen & Redaktör:Leone & Encode/Upload: The Shorekeeper",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 755540,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/wdt7cpcjactp",
+              "extra": "Çeviri: irisWatch Encoder: LostSoul - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 755541,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-suocloij8to5.html",
+              "extra": "Çeviri: irisWatch Encoder: LostSoul - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 755593,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/1dlpdejp7sa7",
+              "extra": "Çevirmen: Suisen & Redaktör:Leone & Encode/Upload: The Shorekeeper",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 755594,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-7w64ud1r4y22.html",
+              "extra": "Çevirmen: Suisen & Redaktör:Leone & Encode/Upload: The Shorekeeper",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 281230,
+          "episode_number": 10,
+          "name": "Hisler, Çiçek Açma, Gürleme",
+          "description": "Will ve Julius, Second Bloom’da şanslarını deneyecekler.",
+          "release_date": "2026-06-14T20:59:00.000Z",
+          "poster": "https://image.tmdb.org/t/p/original/viOiOq1oDXBDRR6GQV7ra6l0m80.jpg",
+          "videos": [
+            {
+              "id": 755997,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a2f0f4248d66c80c1527e05",
+              "extra": "irisWatch - Perpo",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756414,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a3812cd002a74333f66adc7",
+              "extra": "Çevirmen: Suisen Redaktör: Leone  & Encoder/Uploader: The Shorekeeper  ",
+              "fansub": "Suisen",
+              "fansub_id": 711,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 755998,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/urjjmtk5iese",
+              "extra": "irisWatch - Perpo",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 755999,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-ar1dz7ixpzbj.html",
+              "extra": "irisWatch - Perpo",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756415,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/di4dgachx9ix",
+              "extra": "Çevirmen: Suisen Redaktör: Leone  & Encoder/Uploader: The Shorekeeper  ",
+              "fansub": "Suisen",
+              "fansub_id": 711,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756416,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-e2dwuwhokbf3.html",
+              "extra": "Çevirmen: Suisen Redaktör: Leone  & Encoder/Uploader: The Shorekeeper  ",
+              "fansub": "Suisen",
+              "fansub_id": 711,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 281293,
+          "episode_number": 11,
+          "name": "Buz ve Yıldırımın Kükremesi",
+          "description": "Elfaria, Will’i buz fraksiyonuna kabul etmek üzere harekete geçtiği anda Zeo aniden ortaya çıkıp onu kaçırır.",
+          "release_date": "2026-06-21T20:59:00.000Z",
+          "poster": "https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/d/dd/Episode_23_Preview_3.png",
+          "videos": [
+            {
+              "id": 756411,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a37ff93ec3223a31a1ece3a",
+              "extra": " Çevirmen: Ab-D.-Rahman / Redaktör: Noise / Encoder: Ab-D.-Rahman ",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756447,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a38eba9d5ce148fbbb33885",
+              "extra": "Çeviri: irisWatch  Encoder: Zehif_06 - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756582,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a3ea008a4f5f9e71074dc7c",
+              "extra": "Çevirmen: Suisen & Redaktör: Leone & Encoder: The Shorekeeper",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756412,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/tbxfrlkcrsbq",
+              "extra": " Çevirmen: Ab-D.-Rahman / Redaktör: Noise / Encoder: Ab-D.-Rahman ",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756413,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-0nw5ofcxaahf.html",
+              "extra": " Çevirmen: Ab-D.-Rahman / Redaktör: Noise / Encoder: Ab-D.-Rahman ",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756448,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/z37y77seqr38",
+              "extra": "Çeviri: irisWatch  Encoder: Zehif_06 - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756449,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-83jymrioa4t3.html",
+              "extra": "Çeviri: irisWatch  Encoder: Zehif_06 - www.instagram.com/codeanimee",
+              "fansub": "irisWatch",
+              "fansub_id": 68,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756583,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/c1us6tdvd015",
+              "extra": "Çevirmen: Suisen & Redaktör: Leone & Encoder: The Shorekeeper",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756584,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-m9poweddlu0x.html",
+              "extra": "Çevirmen: Suisen & Redaktör: Leone & Encoder: The Shorekeeper",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "regular",
+              "language": "tr"
+            }
+          ]
+        },
+        {
+          "id": 281400,
+          "episode_number": 12,
+          "name": "Sonu Gelmeyen Bir Rüyanın Hikâyesi",
+          "description": "Will'i ele geçirmek için Elfaria ve Zeo arasında yaşanan şiddetli mücadele, en güçlü büyülerinin karşılıklı olarak kullanılması sonrasında bile hâlâ sonuçsuz kalmış ve tören salonunu harabeye çevirmiştir.",
+          "release_date": "2026-06-28T20:59:00.000Z",
+          "poster": "https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/0/08/Episode_24_Preview_10.png",
+          "videos": [
+            {
+              "id": 756631,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a412ec2f2c0587e0fd8b8d1",
+              "extra": "Çevirmen: İriswatch Encoder: Kingsama",
+              "fansub": "İriswatch",
+              "fansub_id": 184,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756819,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a4297fef2c0587e0fd8b8db",
+              "extra": " Çevirmen: Ab-D.-Rahman / Redaktör: Noise / Encoder: Ab-D.-Rahman ",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 757893,
+              "player": "TAU",
+              "url": "https://tau-video.xyz/embed/6a4ee5afa4f5f9e71074dcd2",
+              "extra": "Çevirmen: Suisen & Redaktör: Leone & Encoder/Uploader: The Shorekeeper  ",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 756632,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/psxccbfjbjee",
+              "extra": "Çevirmen: İriswatch Encoder: Kingsama",
+              "fansub": "İriswatch",
+              "fansub_id": 184,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756633,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-xxc2g5t2akfe.html",
+              "extra": "Çevirmen: İriswatch Encoder: Kingsama",
+              "fansub": "İriswatch",
+              "fansub_id": 184,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756820,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/c8zhrdarll4p",
+              "extra": " Çevirmen: Ab-D.-Rahman / Redaktör: Noise / Encoder: Ab-D.-Rahman ",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 756821,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-1yp2u1tzng5z.html",
+              "extra": " Çevirmen: Ab-D.-Rahman / Redaktör: Noise / Encoder: Ab-D.-Rahman ",
+              "fansub": "Ab-D.-Rahman",
+              "fansub_id": 258,
+              "quality": "regular",
+              "language": "tr"
+            },
+            {
+              "id": 757894,
+              "player": "DOODSTREAM",
+              "url": "https://doodstream.com/e/3y7iqooj11n5",
+              "extra": "Çevirmen: Suisen & Redaktör: Leone & Encoder/Uploader: The Shorekeeper  ",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "1080p",
+              "language": "tr"
+            },
+            {
+              "id": 757895,
+              "player": "UQLOAD",
+              "url": "https://uqload.io/embed-e85sgb4408g6.html",
+              "extra": "Çevirmen: Suisen & Redaktör: Leone & Encoder/Uploader: The Shorekeeper  ",
+              "fansub": "Suisen &",
+              "fansub_id": 712,
+              "quality": "1080p",
+              "language": "tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
