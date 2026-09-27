@@ -15,13 +15,6 @@ def main():
     except Exception as e:
         print(f"Could not get IP info: {e}")
 
-    try:
-        from curl_cffi import requests as c_req
-        r_ani = c_req.get("https://aniarsiv.com/api/episodes/latest?limit=3", timeout=10)
-        print(f"🎬 AniArşiv API Status: {r_ani.status_code} | Count: {len(r_ani.json()) if r_ani.status_code == 200 else 0}")
-    except Exception as e:
-        print(f"❌ AniArşiv API Error: {e}")
-
     p = AnimecixProvider()
     print("Testing AnimecixProvider...")
 

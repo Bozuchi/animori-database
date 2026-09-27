@@ -29,7 +29,10 @@ permissions:
 
 jobs:
   update-database:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
+    defaults:
+      run:
+        shell: bash
     timeout-minutes: 360  # 6 saat (GitHub Actions maksimum runner sınırı)
 
     steps:
