@@ -8,6 +8,13 @@ from animecix_provider import AnimecixProvider
 sys.stdout.reconfigure(encoding="utf-8")
 
 def main():
+    try:
+        from curl_cffi import requests as c_req
+        ip_info = c_req.get("https://ipapi.co/json/", timeout=5).json()
+        print(f"🌐 Runner IP: {ip_info.get('ip')} | Country: {ip_info.get('country_name')} | Org: {ip_info.get('org')}")
+    except Exception as e:
+        print(f"Could not get IP info: {e}")
+
     p = AnimecixProvider()
     print("Testing AnimecixProvider...")
 
