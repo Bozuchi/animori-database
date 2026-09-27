@@ -21,13 +21,13 @@ import os
 import re
 import time
 import urllib.parse
+import threading
 try:
     from Crypto.Cipher import AES
 except ImportError:
     AES = None
-import requests
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
+from curl_cffi import requests
+
 
 from logger import setup_logger
 
@@ -82,24 +82,20 @@ class AnimecixProvider:
     def __init__(self, base_url: str | None = None, timeout: int = DEFAULT_TIMEOUT):
         self.base_url = (base_url or self.BASE_URL).rstrip("/")
         self.timeout = timeout
+        self._local = threading.local()
 
-        self.session = requests.Session()
-        retries = Retry(
-            total=3,
-            backoff_factor=0.5,
-            status_forcelist=[500, 502, 503, 504],
-            raise_on_status=False,
-        )
-        adapter = HTTPAdapter(max_retries=retries)
-        self.session.mount("https://", adapter)
-        self.session.mount("http://", adapter)
-
-        self.session.headers.update({
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-            "Accept": "application/json, text/plain, */*",
-            "Accept-Language": "tr,en;q=0.9",
-            "Referer": f"{self.base_url}/",
-        })
+    def _get_session(self) -> requests.Session:
+        """Her iş parçacığı için izole curl_cffi oturumu sağlar (Thread-safety & Cloudflare bypass)."""
+        if not hasattr(self._local, "session"):
+            s = requests.Session(impersonate="chrome124")
+            s.headers.update({
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+                "Accept": "application/json, text/plain, */*",
+                "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7",
+                "Referer": f"{self.base_url}/",
+            })
+            self._local.session = s
+        return self._local.session
 
     @staticmethod
     def generate_xeh(query_str: str) -> str:
@@ -134,24 +130,25 @@ class AnimecixProvider:
         time.sleep(0.25)
 
         backoff_delays = [10, 20, 40, 60, 90]
+        session = self._get_session()
 
         for attempt in range(max_retries):
             try:
-                resp = self.session.get(url, params=params, headers=headers, timeout=self.timeout)
+                resp = session.get(url, params=params, headers=headers, timeout=self.timeout)
                 if resp.status_code == 200:
                     return resp.json()
                 elif resp.status_code == 404:
                     logger.debug(f"404 Not Found: {url}")
                     return None
-                elif resp.status_code == 429:
+                elif resp.status_code in (429, 503):
                     wait_time = backoff_delays[min(attempt, len(backoff_delays) - 1)]
-                    logger.warning(f"⏳ HTTP 429 Rate Limit ({url}). {wait_time}sn bekleniyor (Deneme {attempt + 1}/{max_retries})...")
+                    logger.warning(f"⏳ HTTP {resp.status_code} ({url}). {wait_time}sn bekleniyor (Deneme {attempt + 1}/{max_retries})...")
                     time.sleep(wait_time)
                     continue
                 else:
                     logger.warning(f"HTTP {resp.status_code} ({url}): {resp.text[:200]}")
                     return None
-            except requests.RequestException as e:
+            except Exception as e:
                 logger.error(f"İstek hatası ({url}): {e}")
                 time.sleep(3)
                 continue
@@ -400,8 +397,9 @@ class AnimecixProvider:
         key = tau_embed_or_key.rstrip("/").split("/")[-1]
         api_url = f"{self.TAU_BASE_URL}/api/video/{key}"
 
+        session = self._get_session()
         try:
-            resp = self.session.get(api_url, timeout=self.timeout)
+            resp = session.get(api_url, timeout=self.timeout)
             if resp.status_code == 200:
                 data = resp.json()
                 return data.get("urls", [])

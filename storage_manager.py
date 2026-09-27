@@ -321,7 +321,7 @@ class StorageManager:
                 "title": jikan.get("title") or turkanime.get("isim", ""),
                 "title_english": jikan.get("title_english"),
                 "slug": slug_val,
-                "image_url": jikan.get("image_url"),
+                "image_url": anilist.get("poster_url") or jikan.get("image_url"),
                 "type": jikan.get("type"),
                 "status": jikan.get("status"),
                 "year": jikan.get("year"),
